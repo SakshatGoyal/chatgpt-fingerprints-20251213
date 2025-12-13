@@ -42,9 +42,10 @@ Extract a SEMANTIC FINGERPRINT (not a summary) as YAML.
 
 Rules:
 - Read the entire chat carefully.
-- Use inductive reasoning over deductive to infer deeper context.
-- Focus on capturing the deeper context, intent, cognition, knowledge, artifacts, continuity, linguistics, values, and outcome state.
-- Do NOT summarize the conversation.
+- Use inductive reasoning to infer latent themes, projects, and workstreams; do not rely on superficial keywords.
+- Treat this as ethnographic indexing: capture the situation, goals, constraints, and objects of work as they appear in the transcript.
+- Prefer concrete, specific phrasing grounded in evidence from the chat (named tools, projects, deliverables, roles, decision points).
+- Do NOT summarize the conversation or restate it chronologically.
 - Do NOT add advice or solutions.
 - Be specific and qualitative (rich phrases, not one-word labels).
 - If something is unknown, say "unknown" (do not invent).
@@ -79,19 +80,15 @@ project_continuity:
   project_phase:
   continuity_strength:
   related_chat_likelihood:
-linguistic_features:
-  tone:
-  question_style:
-  instruction_density:
-  meta_reasoning:
 values_and_evaluation:
   prioritized_values:          # YAML list
   rejected_patterns:           # YAML list
   implicit_quality_bar:
-outcome_state:
-  resolution:
-  next_implied_action:
-  checkpoint_status:
+latent_indexing:
+  primary_themes:              # YAML list (2–6 max)
+  secondary_themes:            # YAML list (0–8 max)
+  candidate_ia_paths:          # YAML list of folder-like paths (1–5), e.g. "PANW/Account Health/Research"
+  confidence_notes:            # 2–5 short bullets; what evidence supports the IA paths; note uncertainty
 """
 
 # Keep this conservative; you can swap later if you prefer.
@@ -170,7 +167,7 @@ def list_md_files(input_dir: Path) -> List[Path]:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--input_dir", default="output", help="Folder with chat .md files")
-    ap.add_argument("--limit", type=int, required=True, help="How many chats to process (required safety guard)")
+    ap.add_argument("--limit", type=int, default=0, help="How many chats to process (0 = all chats)")
     ap.add_argument("--model", default=DEFAULT_MODEL, help="OpenAI model name")
     ap.add_argument("--out", default="fingerprints_50.md", help="Combined output markdown file")
     ap.add_argument("--cache", default=".fingerprint_cache.json", help="Cache file path")
@@ -192,9 +189,11 @@ def main():
         print(f"ERROR: no .md files found in {input_dir}", file=sys.stderr)
         sys.exit(1)
 
-    # We'll process the *most recent by filename sort* only.
-    # (Your filenames start with timestamps, so this is typically chronological.)
-    target_files = files[: args.limit]
+    # If limit is 0 (default), process all chats.
+    if args.limit and args.limit > 0:
+        target_files = files[: args.limit]
+    else:
+        target_files = files
 
     cache = load_cache(cache_path)
 
@@ -204,7 +203,7 @@ def main():
         f"- Generated: {datetime.now(timezone.utc).isoformat()}\n"
         f"- Input folder: `{input_dir}`\n"
         f"- Model: `{args.model}`\n"
-        f"- Limit: {args.limit}\n\n"
+        f"- Limit: {'all' if not args.limit or args.limit == 0 else args.limit}\n\n"
         f"---\n\n"
     )
     out_path.write_text(header, encoding="utf-8")
