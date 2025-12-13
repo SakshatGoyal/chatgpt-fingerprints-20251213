@@ -1,0 +1,42 @@
+name: Extract fingerprints
+
+on:
+  workflow_dispatch:
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install openai
+
+      - name: Run extraction
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python extract_fingerprints.py \
+            --input_dir output \
+            --limit 300 \
+            --model gpt-4o-mini \
+            --out fingerprints_part.md \
+            --cache .fingerprint_cache.json
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: fingerprints_output
+          path: |
+            fingerprints_part.md
+            .fingerprint_cache.json
