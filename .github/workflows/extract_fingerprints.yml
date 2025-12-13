@@ -2,6 +2,19 @@ name: Extract fingerprints
 
 on:
   workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "How many chats to add per batch"
+        required: true
+        default: "300"
+      max_chats:
+        description: "Total chats to process (set to 0 to attempt all)"
+        required: true
+        default: "1800"
+      model:
+        description: "OpenAI model name"
+        required: true
+        default: "gpt-4o-mini"
 
 jobs:
   extract:
@@ -26,17 +39,42 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python extract_fingerprints.py \
-            --input_dir output \
-            --limit 300 \
-            --model gpt-4o-mini \
-            --out fingerprints_part.md \
-            --cache .fingerprint_cache.json
+          set -euo pipefail
+
+          BATCH_SIZE="${{ inputs.batch_size }}"
+          MAX_CHATS="${{ inputs.max_chats }}"
+          MODEL="${{ inputs.model }}"
+
+          echo "Batch size: ${BATCH_SIZE}"
+          echo "Max chats: ${MAX_CHATS}"
+          echo "Model: ${MODEL}"
+
+          # If MAX_CHATS is 0, pick a large upper bound and let the script process all available files.
+          if [ "${MAX_CHATS}" = "0" ]; then
+            MAX_CHATS=999999
+          fi
+
+          # Run multiple passes. Each pass increases --limit, and the cache causes previously-processed chats to be skipped.
+          LIMIT=0
+          while [ "${LIMIT}" -lt "${MAX_CHATS}" ]; do
+            LIMIT=$((LIMIT + BATCH_SIZE))
+            echo "\n=== Running pass with --limit ${LIMIT} ==="
+
+            python extract_fingerprints.py \
+              --input_dir output \
+              --limit "${LIMIT}" \
+              --model "${MODEL}" \
+              --out "fingerprints_upto_${LIMIT}.md" \
+              --cache .fingerprint_cache.json
+
+            # Small pause to be polite to the API.
+            sleep 1
+          done
 
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
           name: fingerprints_output
           path: |
-            fingerprints_part.md
+            fingerprints_upto_*.md
             .fingerprint_cache.json
