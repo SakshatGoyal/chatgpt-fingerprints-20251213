@@ -23,7 +23,7 @@ Let’s now explore **three contrasting approaches** for translating this insigh
 ### **1. The “Mental Model Shifter” — AI as Cognitive Augmenter**
 **Appeals to:** Strategic PMs interested in reframing problems, surfacing blind spots, and helping execs see around corners.
 
-**Core behavior:**  
+**Core behavior:**
 The AI acts as a *mental model diagnostic*, prompting executives with questions tailored to their archetype and tension points. It doesn’t just *answer* — it *asks* questions that reveal misalignments between belief and behavior.
 
 **Example Interaction:**
@@ -44,7 +44,7 @@ The AI acts as a *mental model diagnostic*, prompting executives with questions 
 ### **2. The “Tension Tracker” — AI as Decision Friction Mapper**
 **Appeals to:** PMs driving platform or infrastructure strategy, especially those who understand organizational behavior drag.
 
-**Core behavior:**  
+**Core behavior:**
 AI helps execs **visualize and articulate tradeoffs** between strategic tensions — scalability vs. customization, speed vs. trust, autonomy vs. orchestration — and tracks how decisions shift over time.
 
 **Example Interaction:**
@@ -65,7 +65,7 @@ AI helps execs **visualize and articulate tradeoffs** between strategic tensions
 ### **3. The “Strategic Sparring Partner” — AI as Situational Playbook Generator**
 **Appeals to:** Execution-driven PMs building tools that guide high-consequence, real-time collaboration across functions.
 
-**Core behavior:**  
+**Core behavior:**
 AI becomes an **interactive co-pilot for scenario-based strategy planning**, generating playbooks or adaptive pathways based on archetype + current org signals.
 
 **Example Interaction:**
@@ -97,13 +97,13 @@ If helpful, I can also draft example scripts or conversation flows for each of t
 
 ## You (2025-04-22T12:32:08.097000+00:00)
 
-hey, we also have this list of design principles. Unfortunately, this is a unique approach to writing design principles. 
+hey, we also have this list of design principles. Unfortunately, this is a unique approach to writing design principles.
 
-In order to move from hypothesis to conviction and possibly some low fidelity testing and validation, could you recommend a few steps we could take that keeps both documents (the attached design principles as well as the research synthesis we've done in mind. 
+In order to move from hypothesis to conviction and possibly some low fidelity testing and validation, could you recommend a few steps we could take that keeps both documents (the attached design principles as well as the research synthesis we've done in mind.
 
 ---
 
-too often, they fall into the trap of sounding good without actually being useful. 
+too often, they fall into the trap of sounding good without actually being useful.
 
 When principles read like truisms—“AI should be trustworthy,” “prioritize the user,” “support human judgment”—they’re hard to disagree with, but even harder to design from. They don't sharpen decisions; they smooth them over.
 
@@ -203,4 +203,3 @@ Let me know if you want:
 - Help synthesizing validation questions for pilot users
 
 Ready when you are to build the next turn of the wheel.
-

@@ -2,7 +2,7 @@
 
 ## You (2025-03-16T21:49:04.881000+00:00)
 
-Hey Andrew, help me build a prompt. My objective is for ChatGPT to help me create a data science project so basically I have this really thick spreadsheet. The spreadsheet consists of users usernames, and some of the comments they have left behind across different areas of the website, so what I need is some kind of approach that could help me minimize the amount of manual work involved in drawing out insights from this spreadsheet, the spreadsheet is very long. There are far too many comments for me to read through manually. 
+Hey Andrew, help me build a prompt. My objective is for ChatGPT to help me create a data science project so basically I have this really thick spreadsheet. The spreadsheet consists of users usernames, and some of the comments they have left behind across different areas of the website, so what I need is some kind of approach that could help me minimize the amount of manual work involved in drawing out insights from this spreadsheet, the spreadsheet is very long. There are far too many comments for me to read through manually.
 
 I'm thinking of initiating some kind of data science project that could use complex NLP algorithms and essentially work like another ChatGPT but at the same time I don't want to do any of this on my laptop. I was hoping to do all of this through some kind of external tool so that I don't need to install any dependencies or plug-ins or what not into my system.
 
@@ -31,4 +31,3 @@ Great starting point! Before crafting the prompt, let's clarify a few points tog
    - If possible, could you provide a brief example or describe an ideal scenario of how you'd envision the final insights presented?
 
 Once you've clarified these points, I'll construct a structured and optimized prompt aligned closely to your specific scenario.
-

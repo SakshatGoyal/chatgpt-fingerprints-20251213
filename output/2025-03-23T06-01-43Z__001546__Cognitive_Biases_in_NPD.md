@@ -149,57 +149,57 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:** The document foregrounds the pervasive influence of cognitive biases—such as overconfidence, anchoring, planning fallacy, and sunk-cost fallacy—and the dual nature of heuristics in shaping decision-making in new product development (NPD).  
-- **Core Motivations:** It highlights organizational challenges where flawed judgments and misallocated resources can derail innovation, calling for rigorous empirical research to bridge existing knowledge gaps.  
-- **Methodological Clarification:** Rather than presenting novel data, this call for papers synthesizes existing literature and expert opinion to invite further empirical studies, emphasizing the need for methodological rigor in future research.  
+- **Key Themes:** The document foregrounds the pervasive influence of cognitive biases—such as overconfidence, anchoring, planning fallacy, and sunk-cost fallacy—and the dual nature of heuristics in shaping decision-making in new product development (NPD).
+- **Core Motivations:** It highlights organizational challenges where flawed judgments and misallocated resources can derail innovation, calling for rigorous empirical research to bridge existing knowledge gaps.
+- **Methodological Clarification:** Rather than presenting novel data, this call for papers synthesizes existing literature and expert opinion to invite further empirical studies, emphasizing the need for methodological rigor in future research.
 - **Relevance Assessment:** For today’s executives, understanding these biases is crucial to refining strategic decisions, mitigating risk in innovation initiatives, and achieving competitive advantage.
 
 ## Grounded Executive Insights
 
 ### Insight 1: Cognitive Biases and Their Impact on NPD Decision-Making
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Cognitive biases such as overconfidence, anchoring, planning fallacy, and sunk-cost fallacy can distort decision-making in NPD, leading teams to overcommit resources and develop products that may not align with market needs. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must balance the urgency of innovation with the risk of bias-driven errors that skew resource allocation and market positioning.  
-- **Underlying Beliefs & Biases:** There is a prevailing assumption that initial estimates and past experiences are reliable guides, yet these can be systematically flawed.  
-- **Expected vs. Actual Outcomes:** While leaders expect streamlined processes, the reality is that bias often results in unrealistic timelines, excessive features, and inefficient investments.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must balance the urgency of innovation with the risk of bias-driven errors that skew resource allocation and market positioning.
+- **Underlying Beliefs & Biases:** There is a prevailing assumption that initial estimates and past experiences are reliable guides, yet these can be systematically flawed.
+- **Expected vs. Actual Outcomes:** While leaders expect streamlined processes, the reality is that bias often results in unrealistic timelines, excessive features, and inefficient investments.
 - **Broader Implications:** Misjudgments rooted in cognitive biases can undermine a firm’s competitive edge by diverting attention from data-driven insights. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The call for papers references established literature (e.g., works by Marzi and Mohanani et al.) to underscore documented instances of these biases adversely affecting NPD outcomes. This curated evidence supports the need for structured interventions and diversified decision-making frameworks. **[Empirical]**
 
 ---
 
 ### Insight 2: Dual Role of Heuristics in Accelerating and Impeding Decision-Making
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Heuristics serve as valuable decision shortcuts in the complex NPD environment, yet their overuse can lead to oversights by overly simplifying complex market realities. **[Inferred]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders must decide how to harness heuristics for rapid decisions without compromising thorough market analysis.  
-- **Underlying Beliefs & Biases:** There is a risk that reliance on easily recalled information (e.g., availability and anchoring heuristics) may overshadow more nuanced data sources.  
-- **Expected vs. Actual Outcomes:** While heuristics are expected to streamline decision-making, overdependence may result in critical factors being overlooked, leading to suboptimal innovation strategies.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders must decide how to harness heuristics for rapid decisions without compromising thorough market analysis.
+- **Underlying Beliefs & Biases:** There is a risk that reliance on easily recalled information (e.g., availability and anchoring heuristics) may overshadow more nuanced data sources.
+- **Expected vs. Actual Outcomes:** While heuristics are expected to streamline decision-making, overdependence may result in critical factors being overlooked, leading to suboptimal innovation strategies.
 - **Broader Implications:** A balanced approach that incorporates both heuristic efficiency and detailed analytics is crucial for sustaining competitive advantage in rapidly changing markets. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The document discusses heuristics like the availability and anchoring effects, highlighting their potential to both enhance and impair decision quality. It calls for empirical validation to clarify the conditions under which heuristics either contribute to or detract from successful NPD outcomes. **[Inferred]**
 
 ---
 
 ### Insight 3: Leveraging Diversity and Digital Technologies to Mitigate Bias
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Integrating diverse team perspectives and leveraging digital technologies could mitigate the negative impacts of cognitive biases, fostering more objective and innovative product development processes. **[Speculative]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Organizations face the challenge of reconciling traditional, homogeneous decision-making approaches with modern, inclusive, and data-driven methods.  
-- **Underlying Beliefs & Biases:** There is an implicit risk that teams with uniform backgrounds may inadvertently reinforce existing biases, while digital tools promise broader, unbiased data integration.  
-- **Expected vs. Actual Outcomes:** Although incorporating diversity and digital platforms is anticipated to yield more balanced decisions, their true efficacy remains to be empirically confirmed.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Organizations face the challenge of reconciling traditional, homogeneous decision-making approaches with modern, inclusive, and data-driven methods.
+- **Underlying Beliefs & Biases:** There is an implicit risk that teams with uniform backgrounds may inadvertently reinforce existing biases, while digital tools promise broader, unbiased data integration.
+- **Expected vs. Actual Outcomes:** Although incorporating diversity and digital platforms is anticipated to yield more balanced decisions, their true efficacy remains to be empirically confirmed.
 - **Broader Implications:** Successfully integrating these elements could signal a strategic shift towards more resilient and innovation-friendly NPD processes, albeit contingent on further research. **[Speculative]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The call for papers highlights emerging themes around team diversity and digital technologies as potential remedies for cognitive biases. However, it stops short of providing empirical data, instead urging future research to validate these promising strategies. **[Speculative]**
 
 ---
@@ -209,8 +209,8 @@ The call for papers highlights emerging themes around team diversity and digital
 - **Coverage Fit:** High — The call comprehensively addresses cognitive biases and heuristics in NPD, directly touching upon executive decision-making challenges.
 - **Bias & Cognitive Modeling Content:** Present — The document explicitly examines various cognitive biases and heuristics, supported by a robust set of literature references.
 - **Clarity of Methods & Outcomes:** Ambiguous — As a call for papers, it outlines research gaps and proposed topics without presenting new empirical findings.
-- **Areas with No Data:**  
-  - **Supporting Context:** Empirical data is not directly provided, as the document is an invitation for future research rather than a presentation of results.  
+- **Areas with No Data:**
+  - **Supporting Context:** Empirical data is not directly provided, as the document is an invitation for future research rather than a presentation of results.
   - **Executive Decision-Making Context:** Lacks quantified outcomes or detailed case studies, relying instead on theoretical framing and literature synthesis.
 
 This audit indicates that while the document is highly relevant for framing critical research questions on executive decision-making in NPD, its lack of direct empirical evidence necessitates further investigation to substantiate its claims.
@@ -386,21 +386,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -413,4 +413,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T06:04:10.954942+00:00)
 
 Marzi, G., Balzano, M., Magistretti, S., & Liedtka, J. (n.d.). Cognitive biases and heuristics in the new product development process: A call for more empirical evidence. *IEEE Transactions on Engineering Management*.
-

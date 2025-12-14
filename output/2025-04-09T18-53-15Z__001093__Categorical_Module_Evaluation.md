@@ -64,25 +64,24 @@ Start with the first 20 modules in the .txt file. Output only the CSV.
 
 ## ChatGPT (2025-04-09T18:53:20.048812+00:00)
 
-Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability  
-CATEGORICAL MODULE 26 - C1-I2,System Upgrade Governance,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 29 - C1-I2,Governance Framework Adaptation,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 34 - C1-I2,Risk Framework Recalibration,Limited Mandates,Sequenced Timing,Global,Interlinked,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 42 - C1-I2,Cloud Security Integration,Limited Mandates,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 4 - C1-I3,Grid Modernization Planning,Mandate-Driven,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 19 - C1-I3,Renewable Load Stabilization,Mandate-Driven,Coordinated Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 25 - C1-I3,Market Risk Mitigation,Limited Mandates,Coordinated Timing,Regional,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 26 - C1-I3,Portfolio Diversification Strategy,Limited Mandates,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 30 - C1-I3,Resilience-Oriented Crisis Planning,Limited Mandates,Coordinated Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 36 - C1-I4,AI Integration Oversight,Limited Mandates,Sequenced Timing,Global,Interlinked,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 43 - C1-I4,Sustainable Supply Chain Design,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 1 - C1-I5,IPO Process Reconfiguration,Mandate-Driven,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 24 - C1-I5,Regulatory Risk Navigation,Governed End-to-End,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 8 - C1-I6,Agile Micro-Experimentation,Unbound,Sequenced Timing,Regional,Componentized,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 21 - C1-I6,AI Risk Mitigation,Limited Mandates,Coordinated Timing,Regional,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 48 - C1-I7,Bias Mitigation Protocols,Limited Mandates,Sequenced Timing,Regional,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 50 - C1-I7,Continuous Clinical Validation,Governed End-to-End,Coordinated Timing,Global,Interlinked,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 65 - C1-I7,Geopolitical Risk Modeling,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 66 - C1-I7,Macroeconomic Risk Adjustment,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice  
+Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability
+CATEGORICAL MODULE 26 - C1-I2,System Upgrade Governance,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 29 - C1-I2,Governance Framework Adaptation,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 34 - C1-I2,Risk Framework Recalibration,Limited Mandates,Sequenced Timing,Global,Interlinked,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 42 - C1-I2,Cloud Security Integration,Limited Mandates,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 4 - C1-I3,Grid Modernization Planning,Mandate-Driven,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 19 - C1-I3,Renewable Load Stabilization,Mandate-Driven,Coordinated Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 25 - C1-I3,Market Risk Mitigation,Limited Mandates,Coordinated Timing,Regional,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 26 - C1-I3,Portfolio Diversification Strategy,Limited Mandates,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 30 - C1-I3,Resilience-Oriented Crisis Planning,Limited Mandates,Coordinated Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 36 - C1-I4,AI Integration Oversight,Limited Mandates,Sequenced Timing,Global,Interlinked,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 43 - C1-I4,Sustainable Supply Chain Design,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 1 - C1-I5,IPO Process Reconfiguration,Mandate-Driven,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 24 - C1-I5,Regulatory Risk Navigation,Governed End-to-End,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 8 - C1-I6,Agile Micro-Experimentation,Unbound,Sequenced Timing,Regional,Componentized,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 21 - C1-I6,AI Risk Mitigation,Limited Mandates,Coordinated Timing,Regional,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 48 - C1-I7,Bias Mitigation Protocols,Limited Mandates,Sequenced Timing,Regional,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 50 - C1-I7,Continuous Clinical Validation,Governed End-to-End,Coordinated Timing,Global,Interlinked,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 65 - C1-I7,Geopolitical Risk Modeling,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 66 - C1-I7,Macroeconomic Risk Adjustment,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice
 CATEGORICAL MODULE 67 - C1-I7,Custom Risk Strategy Design,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice
-

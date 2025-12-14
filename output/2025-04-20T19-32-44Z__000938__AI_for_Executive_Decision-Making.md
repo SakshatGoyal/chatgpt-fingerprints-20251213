@@ -2,7 +2,7 @@
 
 ## You (2025-04-20T19:32:44.793000+00:00)
 
-help me ideate different solutions for how an AI agent would help augment executive decision making. 
+help me ideate different solutions for how an AI agent would help augment executive decision making.
 
 limitaitons of this agent include the inability to integrate with an executive's organizational or internal data. this will be an independent agent working with a decision maker at a personal level.
 
@@ -10,7 +10,7 @@ limitaitons of this agent include the inability to integrate with an executive's
 
 Great framing. You're building an agent that supports executive decision-making **without tapping into internal systems or proprietary data**—so it must derive value through *independent, intelligent synthesis*, pattern recognition, and heuristics.
 
-Let’s reframe the challenge:  
+Let’s reframe the challenge:
 
 🧠 **How can an AI agent, standing outside the firewall, enhance the cognition, perception, and foresight of a high-stakes decision-maker?**
 
@@ -200,4 +200,3 @@ Absolutely. Designing a transformative AI agent for personal executive augmentat
 These principles make the AI agent more than just a tool—they help position it as a **trustworthy strategic thought partner** that respects the complexity of high-level decision-making, while making it more navigable.
 
 Would you like to turn these into a scorecard or design spec to evaluate prototype concepts against?
-

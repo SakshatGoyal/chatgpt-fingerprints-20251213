@@ -22,13 +22,11 @@ Consider cultural, personal, and behavioral nuance.
 Additional Pointers:
 
 Number of questions per category:
-I think more than quantity, i'd like to focus on quality. its ok to have one question, 3-5 is ok, too many... I don't know. we'll have to figure out whether its going to be worth it... Mare targetted, contextual questions are more valuable than multiple, generic questions. but at the same time, covering breadth adds more context. 
+I think more than quantity, i'd like to focus on quality. its ok to have one question, 3-5 is ok, too many... I don't know. we'll have to figure out whether its going to be worth it... Mare targetted, contextual questions are more valuable than multiple, generic questions. but at the same time, covering breadth adds more context.
 
 Tone/Format of the output:
 [Should it be structured as formal research prompts, or more creative and open-ended exploratory cues? (e.g., “What might she say if…”, “Are there examples of…”)]
-Lets lean a little more towards creative and open-ended exploratory cues. I like how in the examples we're targetting what if scenarios where we try to look at tangible examples of what a person may have thought, said, and/or done. 
-
-
+Lets lean a little more towards creative and open-ended exploratory cues. I like how in the examples we're targetting what if scenarios where we try to look at tangible examples of what a person may have thought, said, and/or done.
 
 
 -----
@@ -89,7 +87,7 @@ Based on chosen modules, gather from:
 - Secondary sources (biographies, critical analysis)
 - Fictional canon (scripts, character wikis, authoritative sources)
 
-**Example:**  
+**Example:**
 If "Emotional & Social Guidance" selected → memoir excerpts, personal anecdotes, interviews reflecting values.
 
 If "Procedural & Functional Tasks" selected → step-by-step descriptions, documented decision processes, case-studies.
@@ -106,9 +104,9 @@ Prioritize gathering:
 - Do not assume fictional logic applies to real-world tasks.
 
 ### 6. Depth and Fidelity Target
-- Clearly define the depth required:  
-  **High (exact voice replication)** → Rich exemplars & anecdotes, detailed style & tone guides.  
-  **Medium (style-aware, flexible)** → Values, general patterns, some exemplars.  
+- Clearly define the depth required:
+  **High (exact voice replication)** → Rich exemplars & anecdotes, detailed style & tone guides.
+  **Medium (style-aware, flexible)** → Values, general patterns, some exemplars.
   **Low (loose imitation)** → Identity basics, core values only.
 
 ### 7. Hidden Assumptions & Risk Mitigation
@@ -133,16 +131,16 @@ Let’s break this evaluation into a few dimensions:
 
 ### ✅ **Strengths of the Prompt**
 
-1. **Clear Input-Output Framing**  
+1. **Clear Input-Output Framing**
    You're giving GPT structured inputs (`Persona`, `Purpose`, and `PESS Template`) and asking it to transform those into high-fidelity exploratory questions—this works well with GPT-4.5’s chain-of-thought capabilities.
 
-2. **Well-Defined Task Steps**  
+2. **Well-Defined Task Steps**
    Instructions under “🧠 Instructions” are detailed and directive, helping the model avoid vague responses. The emphasis on avoiding clichés and favoring nuance is *excellent* and will help reduce generic fluff.
 
-3. **Role Clarification**  
+3. **Role Clarification**
    You’re putting GPT in the role of a question reframer/translator for researchers, which is a task well-suited for its capabilities.
 
-4. **Customizability and Reusability**  
+4. **Customizability and Reusability**
    Modular placeholders (`{{Persona}}`, etc.) and toggles for selecting modules make this prompt highly reusable.
 
 ---
@@ -161,7 +159,7 @@ But this tone **isn't embedded into the system prompt** or strongly emphasized. 
 You're passing the full PESS template including modules marked with `[x]` or `[ ]`, but GPT might not always respect these or treat them with appropriate priority. You might want to:
 
 - Pass in **only the selected modules** in a refined version.
-- Or, include an **explicit directive** like:  
+- Or, include an **explicit directive** like:
   _“Only generate questions for the modules marked with [x]. Ignore the others.”_
 
 ---
@@ -182,10 +180,10 @@ This distinction is important and could be leveraged dynamically in the prompt.
 #### 4. **GPT-Specific Strengths Could Be Invoked More Directly**
 Consider explicitly inviting GPT to:
 
-- **Apply analogical thinking:**  
+- **Apply analogical thinking:**
   _“If needed, use analogies or adjacent contexts to generate richer questions.”_
 
-- **Cross-module inference:**  
+- **Cross-module inference:**
   _“You may combine insights across PESS modules to avoid redundancy and increase depth.”_
 
 ---
@@ -244,10 +242,10 @@ Your task is to **transform the generic PESS modules** into a set of **contextua
 ---
 
 ### ✳️ Inputs:
-- **Persona**: `{{Insert Persona Here}}`  
-- **Purpose**: `{{Insert Purpose Here}}`  
-- **PESS Question Template**:  
-  `{{Insert Original PESS Question Template Here}}`  
+- **Persona**: `{{Insert Persona Here}}`
+- **Purpose**: `{{Insert Purpose Here}}`
+- **PESS Question Template**:
+  `{{Insert Original PESS Question Template Here}}`
 
 ---
 
@@ -263,14 +261,14 @@ Transform each *selected* PESS module into a **set of exploratory, research-read
 
 ### 🧩 Instructions:
 
-1. **Only consider the PESS modules marked with `[x]`**.  
+1. **Only consider the PESS modules marked with `[x]`**.
    Ignore those marked with `[ ]` or not selected.
 
-2. **For each selected module**, generate 1–5 high-quality exploratory questions.  
-   Prioritize **depth, relevance, and contextual grounding** over quantity.  
+2. **For each selected module**, generate 1–5 high-quality exploratory questions.
+   Prioritize **depth, relevance, and contextual grounding** over quantity.
    If only one great question emerges, that’s better than five generic ones.
 
-3. **Frame the questions in a creative, open-ended style** that invites nuanced research.  
+3. **Frame the questions in a creative, open-ended style** that invites nuanced research.
    Use formats like:
    - “What might {{Persona}} say if…”
    - “Are there examples of situations where…”
@@ -278,21 +276,21 @@ Transform each *selected* PESS module into a **set of exploratory, research-read
    - “In what ways has {{Persona}} demonstrated…”
    - “What real-life moments reflect {{Persona}}’s view on…”
 
-4. **Incorporate the lens of the stated Purpose.**  
+4. **Incorporate the lens of the stated Purpose.**
    Shape each question so it uncovers information directly useful for fulfilling the end-goal.
 
-5. **Adapt based on the Fidelity Target** (if present in the PESS):  
-   - For **High Fidelity** → Ask for quotes, anecdotes, precise language, voice tone  
-   - For **Medium Fidelity** → Ask about patterns, values, reasoning styles  
-   - For **Low Fidelity** → Ask about identity basics and general worldview  
+5. **Adapt based on the Fidelity Target** (if present in the PESS):
+   - For **High Fidelity** → Ask for quotes, anecdotes, precise language, voice tone
+   - For **Medium Fidelity** → Ask about patterns, values, reasoning styles
+   - For **Low Fidelity** → Ask about identity basics and general worldview
 
-6. **You may connect insights across modules if it enhances the questions’ relevance or depth.**  
+6. **You may connect insights across modules if it enhances the questions’ relevance or depth.**
    Overlap is acceptable if it strengthens contextual integrity.
 
-7. **Do not answer the questions.**  
+7. **Do not answer the questions.**
    Only generate the questions themselves.
 
-8. **Optional but encouraged:**  
+8. **Optional but encouraged:**
    Where helpful, recommend the most suitable source types (e.g., memoirs, interviews, public speeches) for each question.
 
 ---
@@ -405,4 +403,3 @@ However, if you're building this into a **multi-part pipeline or prompt automati
 ---
 
 Would you like me to create both layouts side by side so you can compare how they feel in practice?
-

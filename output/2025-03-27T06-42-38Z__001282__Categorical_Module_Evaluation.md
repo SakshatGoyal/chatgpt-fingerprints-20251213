@@ -6,7 +6,7 @@ You are a reasoning model tasked with analyzing executive strategy content using
 
 # 1. Goal
 
-Your objective is to evaluate the **first 15 Categorical Modules** found in the uploaded `.txt` file. These modules must be assessed using the detailed 21-question evaluation framework provided in the file titled:  
+Your objective is to evaluate the **first 15 Categorical Modules** found in the uploaded `.txt` file. These modules must be assessed using the detailed 21-question evaluation framework provided in the file titled:
 **`RQA.md`**
 
 Each Categorical Module is a self-contained unit of executive insight. Your task is to:
@@ -31,7 +31,7 @@ All 15 evaluations must be returned **in a single output**, sequentially, in the
 CATEGORICAL MODULE [code]
 Category	Question Number	Score
 Category 1	Question 1	[0 or 1]
-...		
+...
 Category 3	Question 7	[0 or 1]
 Category 1 total: X
 Category 2 total: Y
@@ -69,4 +69,3 @@ These personas guide your interpretive rigor, independence, and consistency thro
 ---
 
 Begin your analysis now by executing the above logic **only on the first 15 Categorical Modules** found in the provided `.txt` file.
-

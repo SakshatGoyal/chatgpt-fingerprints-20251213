@@ -158,58 +158,58 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Traditional risk management is no longer sufficient; automakers must embed resilience into every facet of strategic planning to proactively navigate rapid technological, geopolitical, and supply chain disruptions." **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives are challenged to balance aggressive capital investments—such as a projected 27% annual increase in EV battery spending—with the need to mitigate emerging risks from regulatory changes and market volatility. **[Empirical]**  
-- **Underlying Beliefs & Biases:** There is an entrenched reliance on historical risk models that assume stable operating environments, which now misalign with the dynamic, multifaceted risks faced by modern automakers. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** Whereas past strategies prioritized cost minimization and steady production, current realities demand agile adjustments and comprehensive risk assessments, exposing the gap between traditional practices and modern necessities. **[Empirical]**  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives are challenged to balance aggressive capital investments—such as a projected 27% annual increase in EV battery spending—with the need to mitigate emerging risks from regulatory changes and market volatility. **[Empirical]**
+- **Underlying Beliefs & Biases:** There is an entrenched reliance on historical risk models that assume stable operating environments, which now misalign with the dynamic, multifaceted risks faced by modern automakers. **[Inferred]**
+- **Expected vs. Actual Outcomes:** Whereas past strategies prioritized cost minimization and steady production, current realities demand agile adjustments and comprehensive risk assessments, exposing the gap between traditional practices and modern necessities. **[Empirical]**
 - **Broader Implications:** This shift compels leaders to rethink not only operational processes but also board-level communications and capital allocation strategies to better reflect the new risk landscape. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 "McKinsey highlights that the auto industry’s rapid technological and geopolitical shifts require a transformation in risk strategy—illustrated by significant capital reallocations and flexible production models—to build sustainable resilience." **[Empirical]**
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Embedding resilience into strategic planning demands mapping long-term risk trends and linking them with structural factors, thereby transforming risk management from a reactive to a proactive strategic lever." **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must navigate a complex array of risks—from trade restrictions to technological disruptions—by prioritizing a select few high-impact scenarios for targeted strategic action. **[Empirical]**  
-- **Underlying Beliefs & Biases:** Decision-makers often underestimate low-probability, high-impact events; integrating diverse, realistic scenarios forces a critical re-evaluation of these biases. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** While conventional risk assessments assume stable market conditions, the reality of sudden, disruptive events requires continuous scenario revaluation and flexible investment strategies. **[Empirical]**  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must navigate a complex array of risks—from trade restrictions to technological disruptions—by prioritizing a select few high-impact scenarios for targeted strategic action. **[Empirical]**
+- **Underlying Beliefs & Biases:** Decision-makers often underestimate low-probability, high-impact events; integrating diverse, realistic scenarios forces a critical re-evaluation of these biases. **[Inferred]**
+- **Expected vs. Actual Outcomes:** While conventional risk assessments assume stable market conditions, the reality of sudden, disruptive events requires continuous scenario revaluation and flexible investment strategies. **[Empirical]**
 - **Broader Implications:** This proactive approach enhances organizational agility, ensuring that resilience investments are closely aligned with both emerging threats and long-term strategic opportunities. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 "The article explains that by linking uncertainties—such as regulatory shifts and supply chain vulnerabilities—to core resilience dimensions (financial, operational, digital, etc.), automakers can set dynamic KPIs and adjust strategic priorities on a quarterly basis." **[Empirical]**
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Transitioning from static, multi-year plans to agile, quarterly reviews enables automakers to quickly adapt to sudden market and regulatory shifts, thereby maintaining competitive resilience." **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** The challenge lies in replacing long-term planning models that quickly become obsolete with iterative, responsive strategic reviews that can address new disruptions as they arise. **[Empirical]**  
-- **Underlying Beliefs & Biases:** There is a pervasive bias toward long-term forecasting, which underestimates the speed and impact of contemporary market changes. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** While traditional forecasts relied on predictable market trends, today's volatile environment demands more frequent reassessment, exposing the limitations of static planning models. **[Empirical]**  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** The challenge lies in replacing long-term planning models that quickly become obsolete with iterative, responsive strategic reviews that can address new disruptions as they arise. **[Empirical]**
+- **Underlying Beliefs & Biases:** There is a pervasive bias toward long-term forecasting, which underestimates the speed and impact of contemporary market changes. **[Inferred]**
+- **Expected vs. Actual Outcomes:** While traditional forecasts relied on predictable market trends, today's volatile environment demands more frequent reassessment, exposing the limitations of static planning models. **[Empirical]**
 - **Broader Implications:** This approach not only mitigates risks more effectively but also encourages a culture of continuous improvement and adaptability across the organization. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 "The article underscores that traditional three- to five-year plans are being supplanted by quarterly risk reports that allow for rapid adjustments in production, investment, and strategic positioning in response to real-time market data." **[Empirical]**
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Effective executive leadership in resilience requires challenging legacy assumptions and fostering cross-functional collaboration to ensure that risk management permeates all levels of the organization." **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Senior leaders must align both board-level strategies and middle management practices to overcome internal inertia and build a robust resilience culture. **[Inferred]**  
-- **Underlying Beliefs & Biases:** Traditional hierarchical models and risk-averse cultures can impede the swift, coordinated responses necessary for modern risk management, necessitating a fundamental shift in leadership style. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** The expectation that top-down directives alone can drive change is often contradicted by the need for holistic engagement across all organizational tiers to achieve true resilience. **[Empirical]**  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Senior leaders must align both board-level strategies and middle management practices to overcome internal inertia and build a robust resilience culture. **[Inferred]**
+- **Underlying Beliefs & Biases:** Traditional hierarchical models and risk-averse cultures can impede the swift, coordinated responses necessary for modern risk management, necessitating a fundamental shift in leadership style. **[Inferred]**
+- **Expected vs. Actual Outcomes:** The expectation that top-down directives alone can drive change is often contradicted by the need for holistic engagement across all organizational tiers to achieve true resilience. **[Empirical]**
 - **Broader Implications:** Cultivating a resilience mindset not only stabilizes the organization in times of crisis but also lays the foundation for long-term competitive advantage through sustained, agile innovation. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 "McKinsey’s analysis details how targeted leadership actions—such as board engagement, enhanced middle management training, and cross-departmental communication—are crucial for integrating resilience into both strategic planning and daily operations." **[Empirical]**
 
 ---
@@ -487,21 +487,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -514,4 +514,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T01:31:20.200786+00:00)
 
 Herring, D., Altmeier, M., & Poppensieker, T. (2025, March 18). From crisis management to strategic resilience: Lessons from the auto industry. McKinsey & Company. https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/from-crisis-management-to-strategic-resilience-lessons-from-the-auto-industry
-

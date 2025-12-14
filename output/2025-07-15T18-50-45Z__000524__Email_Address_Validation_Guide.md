@@ -219,26 +219,26 @@ if __name__ == "__main__":
 
 *Outcome when you run the script:*
 
-1. **“valid” 250 response** → **High confidence**  
+1. **“valid” 250 response** → **High confidence**
    *Explanation*: The receiving server explicitly accepted the recipient before any content was transferred. This is the clearest technical validation possible without sending a real message.
 
-2. **All candidates return “ambiguous”** → **Medium confidence** on the first ambiguous address in the ranking table.  
+2. **All candidates return “ambiguous”** → **Medium confidence** on the first ambiguous address in the ranking table.
    *Explanation*: Common with Google Workspace or “catch‑all” configurations. Use supplemental cues (employee email signatures on LinkedIn, press releases, etc.) before reaching out.
 
-3. **All return “invalid”** → **Low confidence** fallback to top‑rank pattern.  
+3. **All return “invalid”** → **Low confidence** fallback to top‑rank pattern.
    *Explanation*: Either the company uses an unlisted pattern or protects its SMTP server. In that situation, a respectful LinkedIn InMail or contact‑form message may be more effective.
 
 ---
 
 ### **Transparency & Good‑Faith Use**
 
-* Use the tool **only for genuine professional outreach** (e.g., job application follow‑up or partnership inquiry).  
-* Clearly state your purpose in your first email: “I am reaching out regarding …”.  
+* Use the tool **only for genuine professional outreach** (e.g., job application follow‑up or partnership inquiry).
+* Clearly state your purpose in your first email: “I am reaching out regarding …”.
 * Never scrape or mass send. Maintain a personal tone, and honour opt‑out requests.
 
 ---
 
-**You now have a Mac‑friendly, ethics‑aware Python solution that generates, tests, and ranks professional email patterns while respecting server load and privacy norms.**  
+**You now have a Mac‑friendly, ethics‑aware Python solution that generates, tests, and ranks professional email patterns while respecting server load and privacy norms.**
 Feel free to adapt the pattern list or confidence thresholds to match your industry knowledge.
 
 ## You (2025-07-15T18:59:45.587000+00:00)
@@ -255,8 +255,8 @@ Absolutely. Let’s treat this like you're designing a building — but instead 
 
 You're a job seeker (or someone trying to reach out professionally). You know:
 
-- **The person's first name** (e.g. Jane)  
-- **Their last name** (e.g. Doe)  
+- **The person's first name** (e.g. Jane)
+- **Their last name** (e.g. Doe)
 - **The company they work at** (e.g. `example.com`)
 
 You want to figure out their **professional email address**, but you want to:
@@ -271,11 +271,11 @@ You want to figure out their **professional email address**, but you want to:
 
 Most companies use standard formats for email addresses. Like architectural styles, there are patterns you see over and over:
 
-- `jane.doe@example.com` ← Most common “clean” modern layout  
-- `jdoe@example.com` ← Compact, efficient  
+- `jane.doe@example.com` ← Most common “clean” modern layout
+- `jdoe@example.com` ← Compact, efficient
 - `janed@example.com`, `doej@example.com`, etc.
 
-The script **generates all these possibilities**, ranked from most likely to least.  
+The script **generates all these possibilities**, ranked from most likely to least.
 **Architect analogy:** It’s like drawing up different floor plans based on common design templates used in that region.
 
 ---
@@ -290,11 +290,11 @@ We use a tool (called SMTP) that’s normally used to send emails. But we **don�
 
 The server gives us one of three answers:
 
-1. **Yes, I know them** (✅ = High confidence)  
-2. **Hmm… I can’t say for sure** (⚠️ = Medium confidence)  
+1. **Yes, I know them** (✅ = High confidence)
+2. **Hmm… I can’t say for sure** (⚠️ = Medium confidence)
 3. **Nope, never heard of them** (❌ = Low confidence)
 
-We build in **slow pacing** between questions so we don’t overwhelm or get flagged.  
+We build in **slow pacing** between questions so we don’t overwhelm or get flagged.
 **Architect analogy:** It’s like knocking on doors one by one, politely, once every 10 seconds, instead of pounding on every door in the neighborhood.
 
 ---
@@ -394,7 +394,7 @@ Start by generating and saving all the likely email permutations for each person
 - Just save the permutations for later — in a spreadsheet or database.
 - **Use external cues** (like known LinkedIn email patterns, press releases, etc.) to prioritize likely formats.
 
-✅ **Fast**, safe, and very scalable  
+✅ **Fast**, safe, and very scalable
 🚫 Doesn’t guarantee correctness
 
 ---
@@ -409,14 +409,14 @@ Use the SMTP checker on a **small subset** where:
 
 This is what the current script supports.
 
-✅ Highly accurate  
+✅ Highly accurate
 🚫 Time + daily limits (50/day)
 
 ---
 
 ### **Tier 3: Controlled Automation (Run in background, over time)**
 
-Now to your question:  
+Now to your question:
 > Can I queue up 500 people and let the system run in the background slowly for 24+ hours?
 
 Yes — with **modifications**:
@@ -473,11 +473,11 @@ Just say “yes” and I’ll draft the full version tailored for your use case.
 
 ## You (2025-07-15T19:18:57.573000+00:00)
 
-ok before you start building, let's work through the requirement. 
+ok before you start building, let's work through the requirement.
 
-I like the idea of importing a csv, but i want this tool to be flexible in a way that i can, if i want, just search for one individual or have the option of importing from a csv. 
+I like the idea of importing a csv, but i want this tool to be flexible in a way that i can, if i want, just search for one individual or have the option of importing from a csv.
 
-I don't like the idea of only 9 common email permutations. companies like cisco or amazon or others sometimes use unique permutation and combinations to avoid people getting spams. So i need more combinations. 
+I don't like the idea of only 9 common email permutations. companies like cisco or amazon or others sometimes use unique permutation and combinations to avoid people getting spams. So i need more combinations.
 
 Here's how i'd like the tool to work - in a flow
 
@@ -485,9 +485,9 @@ I have the ability in my terminal to either enter 1 or more email ids seperated 
 
 For all the emails i've entered, whether it's 1 or 100 through the csv, it will generate a minimum number of emails. I don't know what that number is but i will need you to reason through based on expert level knowledge of email combinations and how emails are created. Let's call this number [e]
 
-Then, I want the program to verify all the emails (whether its 25*e or 100*e) emails, in a responsible manner. I don't know what that would look like, whether its 100 emails per second or 50 emails per second. whatever the number might be. Don't rely on my examples, I want you in the next iteration to reason through what the ideal values of this number might be. 
+Then, I want the program to verify all the emails (whether its 25*e or 100*e) emails, in a responsible manner. I don't know what that would look like, whether its 100 emails per second or 50 emails per second. whatever the number might be. Don't rely on my examples, I want you in the next iteration to reason through what the ideal values of this number might be.
 
-If it finds the right email, i want it to return the email with the name of the person. if it did not find the right email, i want the program to run again, create different combinations, and run again. 
+If it finds the right email, i want it to return the email with the name of the person. if it did not find the right email, i want the program to run again, create different combinations, and run again.
 
 Now critically think through this flow, ask me any questions about edge cases or areas where i may not have thought about, and help me understand the flow through terminal the way you interpret it.
 
@@ -534,8 +534,8 @@ Example:
 |------------|------------|----------------|
 | Jane       | Doe        | example.com    |
 
-We need three things per person: first name, last name, and company domain.  
-📌 **Confirm**: Are you okay formatting your CSV like this?  
+We need three things per person: first name, last name, and company domain.
+📌 **Confirm**: Are you okay formatting your CSV like this?
 Or would you prefer flexible headers like `full_name`, `company`, and we parse internally?
 
 ---
@@ -560,9 +560,9 @@ SMTP is slow and sensitive. Based on best practices and greylisting behavior:
 
 | Setting       | Recommended Value |
 |---------------|------------------|
-| Delay         | 5–10 seconds (randomized per check)  
-| Max per run   | 50–100 email verifications/hour per IP  
-| Max retries   | 1 retry per email (after a few hours or next day)  
+| Delay         | 5–10 seconds (randomized per check)
+| Max per run   | 50–100 email verifications/hour per IP
+| Max retries   | 1 retry per email (after a few hours or next day)
 
 So if you're checking 100 people × 50 patterns = 5,000 lookups, that’s a **2–3 day job**, safely.
 
@@ -643,13 +643,13 @@ Once I have these five confirmations (or preferences), I’ll build the architec
 
 ## You (2025-07-15T19:37:18.606000+00:00)
 
-1. I'm okay with the CSV format, and within the code, I think it will be good to just, within some commented area, introduce this format. So, if I'm creating a new file, I can just copy-paste this format from the comments within the code, within the Python program. However, I'm still looking for the ideal format I might enter if I'm just running it through the terminal. And I don't know if that will be like a CSV format or the same format. It could be the same format. It doesn't matter that much to me. As long as i know exactly what the format is. 
+1. I'm okay with the CSV format, and within the code, I think it will be good to just, within some commented area, introduce this format. So, if I'm creating a new file, I can just copy-paste this format from the comments within the code, within the Python program. However, I'm still looking for the ideal format I might enter if I'm just running it through the terminal. And I don't know if that will be like a CSV format or the same format. It could be the same format. It doesn't matter that much to me. As long as i know exactly what the format is.
 
 2. I'm not sure about the implications of a hard cap. Basically, I want the system to create... Yeah, I think, help me understand the implications of what happens if we set a hard cap versus what happens if we let the system run indefinitely until something is found.
 
-based on my experience, I usually find something within these. 
+based on my experience, I usually find something within these.
 [firstlast@domain.com, first.last@domain.com, first_last@domain.com, flast@domain.com, f.last@domain.com, f_last@domain.com, firstl@domain.com, first.l@domain.com, first_l@domain.com, lfirst@domain.com, l.first@domain.com, l_first@domain.com, lastfirst@domain.com, last.first@domain.com, last_first@domain.com, lastf@domain.com, last.f@domain.com, last_f@domain.com, first@domain.com, last@domain.com, f@domain.com, l@domain.com, fl@domain.com, f.l@domain.com, f_l@domain.com, lf@domain.com, l.f@domain.com, l_f@domain.com]
-But sometimes emails are even more tricky. 
+But sometimes emails are even more tricky.
 
 3. In cases of really long jobs, I would like the program to run continuously for as long as it does autonomously without me intervening, but I should have the ability to stop the program at any given time, at which point the system should stop and just give me the output that it has validated so far. So for example, if there are 5,000 lookups, and if it has found even 20 emails out of those 5,000, then I want those 20 emails as an output as soon as I stop running the program.
 
@@ -660,4 +660,3 @@ But sometimes emails are even more tricky.
 ## ChatGPT (2025-07-15T19:37:19.789240+00:00)
 
 Perfect — this is all very clear. You’ve just
-

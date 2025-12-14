@@ -56,4 +56,3 @@ Great instinct. You're using playful deflection and narrative inversion—acknow
 ---
 
 Want versions that lean more mysterious, more dominant, or more absurdist? I can take it in any direction depending on what you want her to feel next.
-

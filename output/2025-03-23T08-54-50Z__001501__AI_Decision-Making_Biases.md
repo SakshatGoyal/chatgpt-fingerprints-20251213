@@ -160,32 +160,32 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### **Discussion Topic 1: The Perils of Overreliance on AI Narratives**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Executives who overly rely on AI’s narrative justifications risk compromising their critical judgment, as evidenced by a 12% increase in deference to AI recommendations when narrative explanations are provided—even when those narratives mask flawed reasoning." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Balancing efficiency gains from AI-assisted evaluations against the risk of suboptimal decisions due to misplaced trust in persuasive but potentially inaccurate AI narratives. **[Empirical]**  
-- **Underlying Beliefs & Biases:** The common bias to regard technologically generated explanations as inherently superior, even when human expertise might better contextualize nuances. **[Empirical]**  
-- **Expected vs. Actual Outcomes:** While it was anticipated that experts would better countercheck AI output, the study revealed that both experts and novices were equally susceptible to AI persuasion. **[Empirical]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Balancing efficiency gains from AI-assisted evaluations against the risk of suboptimal decisions due to misplaced trust in persuasive but potentially inaccurate AI narratives. **[Empirical]**
+- **Underlying Beliefs & Biases:** The common bias to regard technologically generated explanations as inherently superior, even when human expertise might better contextualize nuances. **[Empirical]**
+- **Expected vs. Actual Outcomes:** While it was anticipated that experts would better countercheck AI output, the study revealed that both experts and novices were equally susceptible to AI persuasion. **[Empirical]**
 - **Broader Implications:** This misalignment suggests that overdependence on AI can erode human agency in strategic contexts, urging leaders to implement robust verification mechanisms and maintain a healthy skepticism toward AI outputs. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The field experiment at MIT Solve demonstrated that when AI provided detailed narrative justifications, reviewers were swayed by these arguments, leading to a 9% higher failure rate on proposals overall and a 12% increased deference compared to conditions without narratives. The study underscores the necessity for human oversight in evaluating proposals, emphasizing that the allure of a persuasive narrative does not equate to sound decision-making. **[Empirical]**
 
 ---
 
 ### **Discussion Topic 2: Differential Efficacy of AI in Objective versus Subjective Evaluations**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "While AI shows promise in assessing objective criteria with strong alignment to human judgment, its effectiveness deteriorates when tasked with subjective evaluations—highlighting a critical gap that can lead to inconsistent outcomes." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** The challenge of leveraging AI’s strengths in quantitative, objective decision-making while mitigating its shortcomings in areas that demand nuanced, subjective judgment. **[Empirical]**  
-- **Underlying Beliefs & Biases:** A prevalent, yet flawed, assumption that AI capabilities are uniformly transferable across different evaluative domains, ignoring the distinct cognitive skills required for subjective analysis. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** It was expected that AI could serve as a reliable second opinion; however, the research revealed significant discrepancies in performance, particularly when subjective judgments were involved. **[Empirical]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** The challenge of leveraging AI’s strengths in quantitative, objective decision-making while mitigating its shortcomings in areas that demand nuanced, subjective judgment. **[Empirical]**
+- **Underlying Beliefs & Biases:** A prevalent, yet flawed, assumption that AI capabilities are uniformly transferable across different evaluative domains, ignoring the distinct cognitive skills required for subjective analysis. **[Inferred]**
+- **Expected vs. Actual Outcomes:** It was expected that AI could serve as a reliable second opinion; however, the research revealed significant discrepancies in performance, particularly when subjective judgments were involved. **[Empirical]**
 - **Broader Implications:** Organizations should consider a hybrid approach that leverages AI for objective filtering while preserving human insight for complex, subjective evaluations, thereby ensuring a balanced decision-making process. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The experiment differentiated between evaluations based on objective metrics (where human and AI assessments closely aligned) and those requiring subjective judgment. In the latter, reviewers—regardless of their expertise—demonstrated a pronounced tendency to defer to AI output, even when it conflicted with their initial assessments. This disparity suggests that while AI can reduce cognitive load for clear-cut criteria, its current limitations in handling subjective nuances necessitate continued human intervention. **[Empirical]**
 
 ---
@@ -195,9 +195,9 @@ The experiment differentiated between evaluations based on objective metrics (wh
 - **Coverage Fit:** High — The paper provides robust empirical evidence and critical analysis directly addressing the interplay between AI assistance and human decision-making.
 - **Bias & Cognitive Modeling Content:** Present — The study highlights implicit biases, notably the overtrust in AI narratives and the cognitive pitfalls of deferring to algorithmic recommendations.
 - **Clarity of Methods & Outcomes:** Clear — The experimental design and results are explicitly outlined, providing a transparent basis for the conclusions drawn.
-- **Areas with No Data:**  
-  - Insight Statement: Fully supported.  
-  - Executive Decision-Making Context: Fully supported.  
+- **Areas with No Data:**
+  - Insight Statement: Fully supported.
+  - Executive Decision-Making Context: Fully supported.
   - Supporting Context: Fully supported.
 
 ## You (2025-03-23T08:55:28.527000+00:00)
@@ -410,21 +410,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -437,4 +437,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T08:56:29.334031+00:00)
 
 Blanding, M. (2025, March 12). The dangers of deferring to AI: It seems so right even when it's wrong. *Harvard Business School Working Knowledge*. https://www.library.hbs.edu/working-knowledge/dangers-of-deferring-to-ai
-

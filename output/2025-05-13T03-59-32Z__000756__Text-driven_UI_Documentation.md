@@ -11,10 +11,10 @@ When product or design managers rely purely on text-driven methods—without pro
 ### 1. **User Stories & Job Stories**
 Clearly articulate individual user needs and motivations.
 
-- **User Story**:  
+- **User Story**:
   _"As a DevOps engineer, I want to see the resource allocation of my EC2 instances clearly, so I can optimize my infrastructure costs."_
 
-- **Job Story**:  
+- **Job Story**:
   _"When monitoring instance performance, I want detailed CPU and memory utilization data, so I can accurately identify resource bottlenecks."_
 
 ---
@@ -86,7 +86,7 @@ AWS Console
 Describe interactions step-by-step in a detailed, narrative form.
 
 Example:
-- _"User logs into the AWS Console and lands on the Dashboard. They see an overview tile summarizing running EC2 instances. Clicking this tile navigates to the Instances List page, displaying detailed metrics for each EC2 instance. Selecting an instance opens an overlay with deeper details and actions."_  
+- _"User logs into the AWS Console and lands on the Dashboard. They see an overview tile summarizing running EC2 instances. Clicking this tile navigates to the Instances List page, displaying detailed metrics for each EC2 instance. Selecting an instance opens an overlay with deeper details and actions."_
 
 ---
 
@@ -170,7 +170,7 @@ Brief description summarizing:
 - Primary tasks and goals
 - Overall value proposition or user motivation
 
-> **Example:**  
+> **Example:**
 > _"The AWS Console Dashboard provides DevOps engineers with real-time resource management, monitoring, and cost analysis to streamline infrastructure management and operational efficiency."_
 
 ---
@@ -319,11 +319,11 @@ The **Unified Interaction Brief (UIB)** method allows product managers or design
 
 ## You (2025-05-13T15:25:12.635000+00:00)
 
-yeah but they're not really combined. you've basically stiched together all the approaches one after the other, but you haven't found a way to merge and marry all of them into a single one. 
+yeah but they're not really combined. you've basically stiched together all the approaches one after the other, but you haven't found a way to merge and marry all of them into a single one.
 
-You need to take the different approaches, see what works best for each of them, and find a way to merge all of them into a single approach, not just lay out each approach one below the other and call it a hybrid. 
+You need to take the different approaches, see what works best for each of them, and find a way to merge all of them into a single approach, not just lay out each approach one below the other and call it a hybrid.
 
-you can keep the interaction scenarios as the muscles that wrap around the skeleton, 
+you can keep the interaction scenarios as the muscles that wrap around the skeleton,
 
 the feature specifications as sort of the organs within the body
 
@@ -335,19 +335,19 @@ You're right—and I love the anatomical metaphor you’ve introduced. Let’s t
 
 ---
 
-## 🧠 **INTERFACE LAYER MAP (ILM)**  
+## 🧠 **INTERFACE LAYER MAP (ILM)**
 *A single integrated documentation system for complex interfaces where structure, intent, behavior, and nuance coexist in every part.*
 
 ---
 
-### 🩻 **The Core Principle**:  
+### 🩻 **The Core Principle**:
 Every **functional unit** of the UI (a page, a panel, a module, or a reusable component) is documented as a **layered body part**, combining structure (IA), intent (user story), detail (feature specs), and flow (interaction scenario) *all within one cluster.*
 
 You don’t separate the bones from the muscles—you describe each muscle *with its skin, nerves, and function all attached*.
 
 ---
 
-### 🧩 **The Five-Layered Stack per Functional Unit**  
+### 🧩 **The Five-Layered Stack per Functional Unit**
 Each “unit” of the product is defined using these 5 **fused layers**, together forming a self-contained **anatomical chunk** of the product.
 
 | Layer | Function | Comes From | Description |
@@ -366,21 +366,21 @@ This is how *one unit* is documented using ILM:
 
 ---
 
-#### 🧭 **Surface Layer**:  
-> **Purpose**:  
-> This panel gives engineers visibility into a specific EC2 instance’s performance and lets them take lifecycle actions (restart, stop, modify config).  
-> **User Motivation**:  
+#### 🧭 **Surface Layer**:
+> **Purpose**:
+> This panel gives engineers visibility into a specific EC2 instance’s performance and lets them take lifecycle actions (restart, stop, modify config).
+> **User Motivation**:
 > _"As a DevOps engineer, I want to assess and manage each EC2 instance's performance so I can troubleshoot or reallocate resources easily."_
 
 ---
 
-#### 🧱 **Structural Layer**:  
-> **Parent**: EC2 Instances Page  
-> **Siblings**: Instance List View, Filter Bar  
-> **Children**:  
-> - Metrics Overview  
-> - Action Button Group  
-> - Performance Charts  
+#### 🧱 **Structural Layer**:
+> **Parent**: EC2 Instances Page
+> **Siblings**: Instance List View, Filter Bar
+> **Children**:
+> - Metrics Overview
+> - Action Button Group
+> - Performance Charts
 > - Network Configuration Panel
 
 ---
@@ -395,13 +395,13 @@ This is how *one unit* is documented using ILM:
 
 ---
 
-#### 🔄 **Flow Layer**:  
-> **Scenario: Troubleshooting performance issue**  
-> 1. User lands on EC2 Instances list.  
-> 2. Applies tag filter to isolate production machines.  
-> 3. Clicks on “web-server-prod-3” to open this detail panel.  
-> 4. Sees CPU spikes over past 2 hours.  
-> 5. Clicks “Restart” → Sees modal explaining traffic impact.  
+#### 🔄 **Flow Layer**:
+> **Scenario: Troubleshooting performance issue**
+> 1. User lands on EC2 Instances list.
+> 2. Applies tag filter to isolate production machines.
+> 3. Clicks on “web-server-prod-3” to open this detail panel.
+> 4. Sees CPU spikes over past 2 hours.
+> 5. Clicks “Restart” → Sees modal explaining traffic impact.
 > 6. Confirms. Instance restarts. Charts reflect new state in real-time.
 
 ---
@@ -456,12 +456,12 @@ Interaction Scenarios blend:
 
 - **User Stories** _(motivation-driven descriptions)_:
   - Capture user intent, motivations, and context in simple statements.
-  - _Example_:  
+  - _Example_:
     _“As a DevOps engineer, I want to restart an EC2 instance quickly when performance degrades.”_
 
 - **Flow Descriptions** _(step-by-step narrative)_:
   - Clearly outline exactly how interactions unfold in sequence.
-  - _Example_:  
+  - _Example_:
     _"User clicks EC2 dashboard → Filters instances → Selects problematic instance → Reviews metrics → Clicks restart → Confirms → Sees status update."_
 
 Together, **Interaction Scenarios** fuse user-centric motivations with clear, stepwise detail.
@@ -525,10 +525,10 @@ A clear scenario format:
 ```markdown
 ## Scenario: [Brief Title]
 
-**User Motivation:**  
+**User Motivation:**
 "As a [User Role], I want [goal], so that [benefit]."
 
-**Flow:**  
+**Flow:**
 1. User action...
 2. User sees...
 3. User interacts...
@@ -536,10 +536,10 @@ A clear scenario format:
 4. System responds by...
 5. User achieves...
 
-**Edge-cases & Exceptions:**  
+**Edge-cases & Exceptions:**
 - If [condition], then [alternative outcome].
 
-**Outcome:**  
+**Outcome:**
 User successfully achieves [goal], benefiting [value/outcome].
 ```
 
@@ -548,10 +548,10 @@ _Example:_
 ```markdown
 ## Scenario: Restarting an EC2 Instance
 
-**User Motivation:**  
+**User Motivation:**
 "As a DevOps engineer, I want to restart my EC2 instance quickly, so that I can resolve performance issues promptly."
 
-**Flow:**  
+**Flow:**
 1. Opens AWS EC2 Dashboard.
 2. Selects problematic instance (web-server-3).
 3. Reviews recent CPU spike in detail panel.
@@ -560,10 +560,10 @@ _Example:_
 6. Confirms restart action.
 7. System initiates restart and updates instance status.
 
-**Edge-cases & Exceptions:**  
+**Edge-cases & Exceptions:**
 - If instance is already stopped, "Restart" is disabled, replaced by "Start" option.
 
-**Outcome:**  
+**Outcome:**
 User promptly resolves performance issues, maintaining uptime and performance standards.
 ```
 
@@ -599,10 +599,10 @@ Instead of purely linear interaction scenarios, start with a **"Scenario Map"** 
 - Write out a simple, primary interaction flow (happy path).
 
 ### Step 3: **Immediately Identify Alternate Paths & Edge-cases**
-- List these briefly, but explicitly, next to each interaction step.  
+- List these briefly, but explicitly, next to each interaction step.
 - This builds flexibility directly into your initial narrative.
 
-**Example:**  
+**Example:**
 ```markdown
 1. User selects an EC2 instance from the list.
    - Edge-case: instance is already stopped (different available actions)
@@ -631,8 +631,8 @@ Instead of purely linear interaction scenarios, start with a **"Scenario Map"** 
 
 ---
 
-## 🛠️ **In short:**  
-Stick with interaction scenarios, but modify them. Incorporate edge-cases and alternates immediately within your flows.  
+## 🛠️ **In short:**
+Stick with interaction scenarios, but modify them. Incorporate edge-cases and alternates immediately within your flows.
 This approach provides robustness and flexibility, naturally revealing reusable UI patterns as you design.
 
 ---
@@ -649,7 +649,7 @@ Flow
 Edge Cases
 Outcome
 
-Similar to what you have. 
+Similar to what you have.
 
 use the best practices / ideal practices for writing a prompt using the ideal persona and thought process.
 
@@ -657,11 +657,8 @@ use the best practices / ideal practices for writing a prompt using the ideal pe
 
 Here's a clear, precise, and structured prompt you can directly use for the **O3 reasoning model**, following ideal prompt-engineering best practices:
 
-## ChatGPT (2025-05-27T11:48:06.200283+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"scenario_sheet_prompt\",\"type\":\"document\",\"content\":\"You are an experienced interaction designer and scenario builder. Your job is to review a Google Sheets document I provide, containing user stories or abstract user statements.\\n\\nFor each row in the Google Sheets document:\\n\\n- Carefully read and understand the user story.\\n- Imagine the user's real-world context, motivations, and goals clearly and vividly.\\n- Analyze the likely interaction flow needed to achieve the user's stated intent.\\n- Identify possible edge cases, exceptions, or error conditions relevant to that scenario.\\n- Clearly outline the successful outcome the user achieves after interacting with the interface.\\n\\nProvide your analysis for each user story in the following clear, structured format:\\n\\nScenario: [Brief descriptive title summarizing the interaction]\\n\\nUser Motivation:\\n\\\"As a [User Role], I want [action or functionality], so that [specific user benefit or value].\\\"\\n\\nFlow:\\n1. [Step-by-step user actions and system responses, numbered clearly.]\\n2. [Next step/action...]\\n\\nEdge Cases:\\n- [Clearly list each important edge-case, alternate path, or potential error the user might encounter during the interaction.]\\n\\nOutcome:\\n[Briefly describe the successful result or value the user achieves from this scenario.]\\n\\nEnsure each scenario is concise, thoughtful, and considers realistic conditions and contexts.\"}"}
 
 ## ChatGPT (2025-05-27T11:48:34.932232+00:00)
 
 Would you like any refinements or additional constraints on this prompt?
-

@@ -1,8 +1,6 @@
 # Task Plan and Schedule
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-03-03T15:05:46.926613+00:00)
 
@@ -10,58 +8,58 @@ Help me structure my tasks for today in some kind of like formal format. So I th
 
 ## ChatGPT (2025-03-03T15:05:47.348854+00:00)
 
-Here's a structured format for your tasks today, along with a calendar view to help you stay on track.  
+Here's a structured format for your tasks today, along with a calendar view to help you stay on track.
 
 ---
 
-### **Daily Task Plan – [Today's Date]**  
+### **Daily Task Plan – [Today's Date]**
 
-#### **Morning Tasks (Pre-9 AM)**  
-1. **Respond to Rajiv & Rishi (9:00 AM Deadline)**  
-   - **8:30 AM – 9:00 AM:** Draft and send response  
-   - **Objective:** Acknowledge tasks and align on next steps  
+#### **Morning Tasks (Pre-9 AM)**
+1. **Respond to Rajiv & Rishi (9:00 AM Deadline)**
+   - **8:30 AM – 9:00 AM:** Draft and send response
+   - **Objective:** Acknowledge tasks and align on next steps
 
-2. **Audience Segmentation for User Interview Recruitment (Pre-9 AM Deadline)**  
-   - **Start ASAP, finish before 9 AM**  
-   - **Objective:** Define user segments for recruitment  
-   - **Approach:**  
-     - Identify key segmentation criteria  
-     - Draft initial segmentation framework  
-     - Review for completeness  
-
----
-
-### **Work Block: Literature Study (9:30 AM – 12:30 PM, 2:00 PM – End of Day)**  
-
-**Step 1: Review Previous Segments (9:30 AM – 10:30 AM)**  
-- Analyze past segmentation efforts to identify gaps  
-- Note areas for refinement  
-
-**Step 2: Keyword Research (10:30 AM – 11:30 AM)**  
-- Identify relevant search terms for literature review  
-- Evaluate potential sources  
-
-**Step 3: Define Prompts for Summarization (11:30 AM – 12:30 PM)**  
-- Create structured questions for extracting insights from papers  
-- Format them to ensure clarity  
-
-**Lunch Break (1:00 PM – 2:00 PM)**  
-
-**Step 4: Conduct Literature Search (2:00 PM – 3:30 PM)**  
-- Use identified keywords to find academic papers and industry reports  
-- Prioritize sources based on credibility  
-
-**Step 5: Summarize & Document Findings (3:30 PM – 5:00 PM)**  
-- Extract key insights from literature  
-- Organize findings into structured documents  
-
-**Step 6: Review & Organize Output (5:00 PM – 6:00 PM, if needed)**  
-- Ensure clarity and coherence in documentation  
-- Prepare materials for further discussion  
+2. **Audience Segmentation for User Interview Recruitment (Pre-9 AM Deadline)**
+   - **Start ASAP, finish before 9 AM**
+   - **Objective:** Define user segments for recruitment
+   - **Approach:**
+     - Identify key segmentation criteria
+     - Draft initial segmentation framework
+     - Review for completeness
 
 ---
 
-### **Calendar View**  
+### **Work Block: Literature Study (9:30 AM – 12:30 PM, 2:00 PM – End of Day)**
+
+**Step 1: Review Previous Segments (9:30 AM – 10:30 AM)**
+- Analyze past segmentation efforts to identify gaps
+- Note areas for refinement
+
+**Step 2: Keyword Research (10:30 AM – 11:30 AM)**
+- Identify relevant search terms for literature review
+- Evaluate potential sources
+
+**Step 3: Define Prompts for Summarization (11:30 AM – 12:30 PM)**
+- Create structured questions for extracting insights from papers
+- Format them to ensure clarity
+
+**Lunch Break (1:00 PM – 2:00 PM)**
+
+**Step 4: Conduct Literature Search (2:00 PM – 3:30 PM)**
+- Use identified keywords to find academic papers and industry reports
+- Prioritize sources based on credibility
+
+**Step 5: Summarize & Document Findings (3:30 PM – 5:00 PM)**
+- Extract key insights from literature
+- Organize findings into structured documents
+
+**Step 6: Review & Organize Output (5:00 PM – 6:00 PM, if needed)**
+- Ensure clarity and coherence in documentation
+- Prepare materials for further discussion
+
+---
+
+### **Calendar View**
 
 | Time          | Task                                      |
 |--------------|-------------------------------------------|
@@ -84,9 +82,7 @@ This should give you a clear structure for the day. You can adjust as needed!
 
 Is there some kind of like AI Calendar app we can I can just insert your structured prompt and organizing my calendar for that
 
-## ChatGPT (2025-03-03T15:08:38.176127+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search(\"Is there some kind of like AI Calendar app we can I can just insert your structured prompt and organizing my calendar for that\")"}
 
 ## ChatGPT (2025-03-03T15:08:40.082145+00:00)
 
@@ -94,35 +90,35 @@ Certainly! To seamlessly integrate the structured task list into your calendar, 
 
 **1. Structured App**
 
-Structured is an AI-enhanced planner that allows you to input tasks using natural language, voice commands, or by scanning physical documents. It then organizes these tasks into a cohesive schedule within the app. This feature is particularly useful for quickly transferring structured task lists into your daily agenda. citeturn0search1
+Structured is an AI-enhanced planner that allows you to input tasks using natural language, voice commands, or by scanning physical documents. It then organizes these tasks into a cohesive schedule within the app. This feature is particularly useful for quickly transferring structured task lists into your daily agenda.
 
 **2. Notion**
 
-Notion is a versatile productivity tool that integrates notes, tasks, and calendars. With its AI capabilities, you can convert rough notes into structured text and create quick summaries. Notion also offers a calendar view to manage your schedule effectively. citeturn0search8
+Notion is a versatile productivity tool that integrates notes, tasks, and calendars. With its AI capabilities, you can convert rough notes into structured text and create quick summaries. Notion also offers a calendar view to manage your schedule effectively.
 
 **3. Zapier Integrations**
 
-Zapier enables automation between various apps, including calendar applications and AI tools like ChatGPT. By setting up a workflow (Zap), you can automate the process of adding tasks from a structured list into your calendar. citeturn0search9
+Zapier enables automation between various apps, including calendar applications and AI tools like ChatGPT. By setting up a workflow (Zap), you can automate the process of adding tasks from a structured list into your calendar.
 
 **4. Fwd2cal**
 
-Fwd2cal is a service that allows you to forward emails containing event details to a specific address, and it automatically adds those events to your Google Calendar. This can be particularly useful if your task list is in email format. citeturn0news15
+Fwd2cal is a service that allows you to forward emails containing event details to a specific address, and it automatically adds those events to your Google Calendar. This can be particularly useful if your task list is in email format.
 
 **5. Skylight Calendar Max**
 
-The Skylight Calendar Max is a 27-inch touchscreen digital calendar designed to help busy individuals manage their schedules with ease. Its AI-powered assistant, Sidekick, can turn emails, photos, and spreadsheets into calendar entries and to-do lists, which are then displayed on the Skylight screen. citeturn0news11
+The Skylight Calendar Max is a 27-inch touchscreen digital calendar designed to help busy individuals manage their schedules with ease. Its AI-powered assistant, Sidekick, can turn emails, photos, and spreadsheets into calendar entries and to-do lists, which are then displayed on the Skylight screen.
 
 **Implementation Steps:**
 
-1. **Choose an Application:** Select the app that best fits your workflow and device compatibility.
+1. **Choose an Application:** Select the app that best fits your workflow and device compatibility.
 
-2. **Input Your Task List:** Utilize the app's AI features to input your structured task list. This could be through typing, voice input, scanning a document, or forwarding an email.
+2. **Input Your Task List:** Utilize the app's AI features to input your structured task list. This could be through typing, voice input, scanning a document, or forwarding an email.
 
-3. **Review and Adjust:** After inputting, review the scheduled tasks in the app to ensure accuracy and make any necessary adjustments.
+3. **Review and Adjust:** After inputting, review the scheduled tasks in the app to ensure accuracy and make any necessary adjustments.
 
-4. **Sync with Your Calendar:** If the app supports calendar integration, sync it with your existing calendar to consolidate all your tasks and events in one place.
+4. **Sync with Your Calendar:** If the app supports calendar integration, sync it with your existing calendar to consolidate all your tasks and events in one place.
 
-By leveraging these AI-powered tools, you can efficiently transform your structured task list into a well-organized calendar schedule, enhancing productivity and ensuring you stay on track throughout the day.
+By leveraging these AI-powered tools, you can efficiently transform your structured task list into a well-organized calendar schedule, enhancing productivity and ensuring you stay on track throughout the day.
 
 ## You (2025-03-03T15:10:44.528000+00:00)
 
@@ -136,38 +132,38 @@ Here's your updated schedule, structured chronologically, with all adjustments i
 
 ### **Revised Daily Schedule – [Today's Date]**
 
-**Pre-9 AM Tasks (Chronological Order)**  
-- **8:00 – 8:30 AM:** Create Audience Segmentation  
+**Pre-9 AM Tasks (Chronological Order)**
+- **8:00 – 8:30 AM:** Create Audience Segmentation
   - Finalize user segments for interview recruitment.
 
-- **8:30 – 9:00 AM:** Draft & Send Response to Rajiv & Rishi  
+- **8:30 – 9:00 AM:** Draft & Send Response to Rajiv & Rishi
   - Clearly acknowledge tasks and next steps.
 
 ---
 
-### **Work Block (9:30 AM – 5:00 PM)**  
+### **Work Block (9:30 AM – 5:00 PM)**
 
-- **9:30 – 10:30 AM:** Review Previous Audience Segments  
+- **9:30 – 10:30 AM:** Review Previous Audience Segments
   - Identify areas for improvement or refinement.
 
-- **10:30 – 11:30 AM:** Conduct Keyword Research  
+- **10:30 – 11:30 AM:** Conduct Keyword Research
   - Identify effective search terms for literature study.
 
-- **11:30 AM – 12:30 PM:** Define Summarization Prompts  
+- **11:30 AM – 12:30 PM:** Define Summarization Prompts
   - Create structured prompts for extracting key insights.
 
-- **12:30 – 1:30 PM:** Widget UI Design (casual work session)  
+- **12:30 – 1:30 PM:** Widget UI Design (casual work session)
   - Casual design work to refresh creatively.
 
-- **1:30 – 2:00 PM:** Lunch Break  
+- **1:30 – 2:00 PM:** Lunch Break
 
-- **2:00 – 3:30 PM:** Literature Search  
+- **2:00 – 3:30 PM:** Literature Search
   - Conduct focused search based on previously identified keywords.
 
-- **3:30 – 4:00 PM:** Buffer/Transition  
+- **3:30 – 4:00 PM:** Buffer/Transition
   - Flexible buffer for concluding searches and organizing thoughts.
 
-- **4:00 – 5:00 PM:** Synthesis & Documentation (Firm Deadline: 5 PM)  
+- **4:00 – 5:00 PM:** Synthesis & Documentation (Firm Deadline: 5 PM)
   - Summarize findings clearly into structured documentation.
   - Ensure clarity and finalize by 5 PM sharp.
 
@@ -195,145 +191,135 @@ Here's your updated schedule, structured chronologically, with all adjustments i
 
 OK now let's do the search for the calendar tools cause I need to integrate with my own Gmail calendar. I don't want any extra separate apps or anything. I don't know how notion works. I don't think it works that way and let me look at the other tools you shared OK structured structured. OK I'll look into structured. Ideally, let's make it free obviously don't wanna spend much or at least it has like some kind of one week or two week free trial and then we'll see what we can do approach will just be that I'll give you all the information you need in the new structure the day accordingly then we'll go figure it out on some other third-party app.
 
-## ChatGPT (2025-03-03T15:13:28.097703+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search(\"OK now let's do the search for the calendar tools cause I need to integrate with my own Gmail calendar. I don't want any extra separate apps or anything. I don't know how notion works. I don't think it works that way and let me look at the other tools you shared OK structured structured. OK I'll look into structured. Ideally, let's make it free obviously don't wanna spend much or at least it has like some kind of one week or two week free trial and then we'll see what we can do approach will just be that I'll give you all the information you need in the new structure the day accordingly then we'll go figure it out on some other third-party app.\")"}
 
 ## You (2025-03-03T15:18:21.215000+00:00)
 
 OK, so in reclaim is there a way I can just copy paste the sort of tasks that you have outlined in a single prompt and just have it structure the calendar
 
-## ChatGPT (2025-03-03T15:18:21.934275+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search(\"OK, so in reclaim is there a way I can just copy paste the sort of tasks that you have outlined in a single prompt and just have it structure the calendar\")"}
 
 ## ChatGPT (2025-03-03T15:18:23.413602+00:00)
 
-Yes, you can efficiently import your structured task list into Reclaim.ai and have it automatically schedule these tasks on your Google Calendar. Here's how you can do it:
+Yes, you can efficiently import your structured task list into Reclaim.ai and have it automatically schedule these tasks on your Google Calendar. Here's how you can do it:
 
 **1. Connect Reclaim.ai with Google Tasks:**
 
-   - Navigate to **Settings > Integrations** in Reclaim.ai.
-   - Click on **Connect Google Tasks** and grant the necessary permissions.
-   - In Google Calendar, open the **Google Tasks** sidebar, click the dropdown next to **My Tasks**, and select the **Reclaim** task list.
+   - Navigate to **Settings > Integrations** in Reclaim.ai.
+   - Click on **Connect Google Tasks** and grant the necessary permissions.
+   - In Google Calendar, open the **Google Tasks** sidebar, click the dropdown next to **My Tasks**, and select the **Reclaim** task list.
 
-   This setup ensures a two-way sync between Google Tasks and Reclaim.ai, allowing tasks to be scheduled on your calendar. citeturn0search1
+   This setup ensures a two-way sync between Google Tasks and Reclaim.ai, allowing tasks to be scheduled on your calendar.
 
 **2. Format and Import Your Task List:**
 
    To import multiple tasks efficiently, you can use natural language syntax in the task titles to specify details like duration, due date, and priority. For example:
 
-   - `Review Previous Audience Segments (duration:1h due today priority:high)`
-   - `Conduct Keyword Research (duration:1h due today priority:medium)`
-   - `Define Summarization Prompts (duration:1h due today priority:medium)`
-   - `Widget UI Design (duration:1h due today priority:low)`
-   - `Literature Search (duration:1.5h due today priority:high)`
-   - `Synthesis & Documentation (duration:1h due today priority:critical)`
+   - `Review Previous Audience Segments (duration:1h due today priority:high)`
+   - `Conduct Keyword Research (duration:1h due today priority:medium)`
+   - `Define Summarization Prompts (duration:1h due today priority:medium)`
+   - `Widget UI Design (duration:1h due today priority:low)`
+   - `Literature Search (duration:1.5h due today priority:high)`
+   - `Synthesis & Documentation (duration:1h due today priority:critical)`
 
-   By formatting your tasks this way, Reclaim.ai will interpret and schedule them accordingly. citeturn0search0
+   By formatting your tasks this way, Reclaim.ai will interpret and schedule them accordingly.
 
 **3. Add Tasks to Google Tasks:**
 
-   - Open the **Google Tasks** sidebar in Google Calendar.
-   - Ensure you're adding tasks to the **Reclaim** task list.
-   - Paste each formatted task title into the task input field.
+   - Open the **Google Tasks** sidebar in Google Calendar.
+   - Ensure you're adding tasks to the **Reclaim** task list.
+   - Paste each formatted task title into the task input field.
 
    Reclaim.ai will then sync these tasks and schedule them on your calendar based on the details provided.
 
 **4. Review and Adjust Scheduled Tasks:**
 
-   - After importing, check your Google Calendar to see how Reclaim.ai has scheduled your tasks.
-   - If needed, adjust task details in Google Tasks or directly in Reclaim.ai to refine your schedule.
+   - After importing, check your Google Calendar to see how Reclaim.ai has scheduled your tasks.
+   - If needed, adjust task details in Google Tasks or directly in Reclaim.ai to refine your schedule.
 
-This method allows you to import your structured task list into Reclaim.ai, which will then automatically organize and schedule these tasks on your Google Calendar, streamlining your daily planning process.
+This method allows you to import your structured task list into Reclaim.ai, which will then automatically organize and schedule these tasks on your Google Calendar, streamlining your daily planning process.
 
 ## You (2025-03-03T15:20:18.958000+00:00)
 
 Yeah, but even in this approach like let's say, I take your stuff from and put put into to tasks. Do I have to manually one by one add individual tasks can I just copy paste the entire calendar discussion into tasks and have it segment into multiple tasks
 
-## ChatGPT (2025-03-03T15:20:19.726035+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search(\"Yeah, but even in this approach like let's say, I take your stuff from and put put into to tasks. Do I have to manually one by one add individual tasks can I just copy paste the entire calendar discussion into tasks and have it segment into multiple tasks\")"}
 
 ## You (2025-03-03T15:23:38.326000+00:00)
 
 Is there a way to do this in notion? Basically my idea is I just want to copy the entire list as is and then just convert them into task. I don't want to manually sit and make 15 different tasks.
 
-## ChatGPT (2025-03-03T15:23:38.976489+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search(\"Is there a way to do this in notion? Basically my idea is I just want to copy the entire list as is and then just convert them into task. I don't want to manually sit and make 15 different tasks.\")"}
 
 ## ChatGPT (2025-03-03T15:23:47.568269+00:00)
 
-Yes, you can efficiently convert your entire list into tasks in Notion without manually creating each one. Here's how:
+Yes, you can efficiently convert your entire list into tasks in Notion without manually creating each one. Here's how:
 
 **1. Paste Your List into Notion:**
 
-   - Open your Notion page.
-   - Paste your entire list directly into the page.
+   - Open your Notion page.
+   - Paste your entire list directly into the page.
 
 **2. Convert the Pasted Text into To-Do Items:**
 
-   - After pasting, each line should appear as a separate block.
-   - Click on the six-dot icon (`⋮⋮`) that appears to the left of the first block.
-   - Hold down the `Shift` key and click on the six-dot icon of the last block to select all blocks.
-   - With all blocks selected, click on the six-dot icon of any selected block, hover over "Turn into," and choose "To-do list."
+   - After pasting, each line should appear as a separate block.
+   - Click on the six-dot icon (`⋮⋮`) that appears to the left of the first block.
+   - Hold down the `Shift` key and click on the six-dot icon of the last block to select all blocks.
+   - With all blocks selected, click on the six-dot icon of any selected block, hover over "Turn into," and choose "To-do list."
 
-This will convert each line into a to-do item with a checkbox, allowing you to manage your tasks efficiently.
+This will convert each line into a to-do item with a checkbox, allowing you to manage your tasks efficiently.
 
 For a visual guide on creating to-do lists in Notion, you might find this video helpful:
 
-video3 Ways to Create Notion To-Do Liststurn0search2
+video3 Ways to Create Notion To-Do Liststurn0search2
 
 ## You (2025-03-03T15:27:00.427000+00:00)
 
 Yeah, but then, if you remember, I basically want this list to be converted into a Google tasks list
 
-## ChatGPT (2025-03-03T15:27:01.249506+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search(\"Yeah, but then, if you remember, I basically want this list to be converted into a Google tasks list\")"}
 
 ## ChatGPT (2025-03-03T15:27:02.733079+00:00)
 
-Importing multiple tasks into Google Tasks directly from a text list isn't natively supported. However, there are several methods to achieve this:
+Importing multiple tasks into Google Tasks directly from a text list isn't natively supported. However, there are several methods to achieve this:
 
 **1. Using Third-Party Automation Tools:**
 
-Tools like [IFTTT](https://ifttt.com/connect/easycsv/google_tasks) and [Make](https://www.make.com/en/integrations/csv/google-tasks) allow you to automate the process of importing tasks from a CSV file into Google Tasks. Here's a general approach:
+Tools like [IFTTT](https://ifttt.com/connect/easycsv/google_tasks) and [Make](https://www.make.com/en/integrations/csv/google-tasks) allow you to automate the process of importing tasks from a CSV file into Google Tasks. Here's a general approach:
 
 - **Prepare Your Task List:**
-  - Convert your text list into a CSV file, with each task on a separate line.
+  - Convert your text list into a CSV file, with each task on a separate line.
 
 - **Set Up the Automation:**
-  - Use the chosen tool to create a workflow that reads each line from the CSV and creates a corresponding task in Google Tasks.
+  - Use the chosen tool to create a workflow that reads each line from the CSV and creates a corresponding task in Google Tasks.
 
 **2. Utilizing Google Apps Script:**
 
-If you're comfortable with scripting, you can use Google Apps Script to import tasks from a CSV file into Google Tasks:
+If you're comfortable with scripting, you can use Google Apps Script to import tasks from a CSV file into Google Tasks:
 
 - **Write a Script:**
-  - Develop a script that reads your CSV file and uses the [Google Tasks API](https://developers.google.com/tasks) to create tasks.
+  - Develop a script that reads your CSV file and uses the [Google Tasks API](https://developers.google.com/tasks) to create tasks.
 
 - **Execute the Script:**
-  - Run the script to populate your Google Tasks list.
+  - Run the script to populate your Google Tasks list.
 
 **3. Alternative Approach Using Google Calendar:**
 
-Since Google Calendar supports importing events from CSV files, you can:
+Since Google Calendar supports importing events from CSV files, you can:
 
 - **Import Tasks as Events:**
-  - Format your tasks as events in a CSV file and import them into Google Calendar.
+  - Format your tasks as events in a CSV file and import them into Google Calendar.
 
 - **Convert Events to Tasks:**
-  - Manually convert these events into tasks within Google Calendar.
+  - Manually convert these events into tasks within Google Calendar.
 
-**Note:** This method requires additional manual steps and may not be as efficient.
+**Note:** This method requires additional manual steps and may not be as efficient.
 
-For a visual guide on adding multiple tasks to Google Tasks, you might find this video helpful:
+For a visual guide on adding multiple tasks to Google Tasks, you might find this video helpful:
 
-videoHow to Add Multiple Tasks at One Time to Google Tasksturn0search3
+videoHow to Add Multiple Tasks at One Time to Google Tasksturn0search3
 
-While these methods can help streamline the process, they may require some initial setup or familiarity with automation tools and scripting.
+While these methods can help streamline the process, they may require some initial setup or familiarity with automation tools and scripting.
 
 ## You (2025-03-03T15:28:44.887000+00:00)
 
@@ -343,20 +329,18 @@ I like the idea of Google API sorry Google apps script so let's do this. Let's b
 
 Here's a ready-to-use **Google Apps Script** to take your structured daily task list and automatically insert it into your Google Calendar as time blocks. You just need to copy this script into the Google Apps Script editor connected to your Google Calendar:
 
-## ChatGPT (2025-03-03T15:28:53.209264+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"tasks_to_calendar\",\"type\":\"code/javascript\",\"content\":\"function scheduleTasks() {\\n  const calendar = CalendarApp.getDefaultCalendar();\\n\\n  // Define your tasks with titles, start and end times\\n  const tasks = [\\n    {title: 'Audience Segmentation', start: '08:00', end: '08:30'},\\n    {title: 'Draft & Send Response to Rajiv & Rishi', start: '08:30', end: '09:00'},\\n    {title: 'Review Previous Audience Segments', start: '09:30', end: '10:30'},\\n    {title: 'Conduct Keyword Research', start: '10:30', end: '11:30'},\\n    {title: 'Define Summarization Prompts', start: '11:30', end: '12:30'},\\n    {title: 'Widget UI Design (casual)', start: '12:30', end: '13:30'},\\n    {title: 'Lunch Break', start: '13:30', end: '14:00'},\\n    {title: 'Literature Search', start: '14:00', end: '15:30'},\\n    {title: 'Buffer/Transition', start: '15:30', end: '16:00'},\\n    {title: 'Synthesis & Documentation', start: '16:00', end: '17:00'}\\n  ];\\n\\n  // Set today's date\\n  const today = new Date();\\n\\n  tasks.forEach(task => {\\n    const [startHour, startMinute] = task.start.split(':');\\n    const [endHour, endMinute] = task.end.split(':');\\n\\n    const startTime = new Date(today.getFullYear(), today.getMonth(), today.getDate(), startHour, startMinute);\\n    const endTime = new Date(today.getFullYear(), today.getMonth(), today.getDate(), endHour, endMinute);\\n\\n    calendar.createEvent(task.title, startTime, endTime);\\n  });\\n}\"}"}
 
 ## ChatGPT (2025-03-03T15:29:10.425098+00:00)
 
 ### How to use this script:
 1. **Open Google Calendar.**
-2. Click the **gear icon ⚙️** > select **"Apps Script."**  
+2. Click the **gear icon ⚙️** > select **"Apps Script."**
    *(If you don’t see this option, visit [script.google.com](https://script.google.com/) directly.)*
 3. Click **"+ New project"**, and paste the above code into the editor.
 4. Name your script clearly (e.g., "Daily Task Scheduler").
 5. Save the script by clicking the save icon (💾).
-6. Run the function `scheduleTasks()` by clicking the ▶️ play button.  
+6. Run the function `scheduleTasks()` by clicking the ▶️ play button.
    *(You might have to authorize it to access your calendar the first time.)*
 
 After running this script, all tasks will appear as time blocks in your Google Calendar for today.
@@ -365,9 +349,7 @@ After running this script, all tasks will appear as time blocks in your Google C
 
 Can you rewrite a custom the code in such a way that I have a container for a date variable so my plan is I can just reuse the same script daily or for different days maybe on a Saturday I can create this list for the coming Monday or something like that, so I'm thinking if I can just insert the date, it will automatically sort of assign tasks for that particular date
 
-## ChatGPT (2025-03-03T15:32:46.348660+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"updates\":[{\"pattern\":\".*\",\"multiple\":false,\"replacement\":\"function scheduleTasks(dateString) {\\n  const calendar = CalendarApp.getDefaultCalendar();\\n\\n  // Define your tasks with titles, start and end times\\n  const tasks = [\\n    {title: 'Audience Segmentation', start: '08:00', end: '08:30'},\\n    {title: 'Draft & Send Response to Rajiv & Rishi', start: '08:30', end: '09:00'},\\n    {title: 'Review Previous Audience Segments', start: '09:30', end: '10:30'},\\n    {title: 'Conduct Keyword Research', start: '10:30', end: '11:30'},\\n    {title: 'Define Summarization Prompts', start: '11:30', end: '12:30'},\\n    {title: 'Widget UI Design (casual)', start: '12:30', end: '13:30'},\\n    {title: 'Lunch Break', start: '13:30', end: '14:00'},\\n    {title: 'Literature Search', start: '14:00', end: '15:30'},\\n    {title: 'Buffer/Transition', start: '15:30', end: '16:00'},\\n    {title: 'Synthesis & Documentation', start: '16:00', end: '17:00'}\\n  ];\\n\\n  // Parse the provided date string\\n  const taskDate = new Date(dateString);\\n\\n  tasks.forEach(task => {\\n    const [startHour, startMinute] = task.start.split(':');\\n    const [endHour, endMinute] = task.end.split(':');\\n\\n    const startTime = new Date(taskDate.getFullYear(), taskDate.getMonth(), taskDate.getDate(), startHour, startMinute);\\n    const endTime = new Date(taskDate.getFullYear(), taskDate.getMonth(), taskDate.getDate(), endHour, endMinute);\\n\\n    calendar.createEvent(task.title, startTime, endTime);\\n  });\\n}\"}]}"}
 
 ## ChatGPT (2025-03-03T15:33:22.268897+00:00)
 
@@ -463,7 +445,7 @@ function runScript() {
 
 ### How to Use:
 - Copy the above corrected code to your Google Apps Script.
-- Run the `runScript()` function (click ▶️ play), which calls `scheduleTasks` with your chosen date. 
+- Run the `runScript()` function (click ▶️ play), which calls `scheduleTasks` with your chosen date.
 - Change `'2025-03-03'` to any date you want to schedule tasks for.
 
 ## You (2025-03-03T15:37:28.882000+00:00)
@@ -539,7 +521,7 @@ function runScript() {
 
 ---
 
-### 🔎 **What to do next:**  
+### 🔎 **What to do next:**
 - Replace `'your_calendar_email@gmail.com'` with your calendar ID.
 - Run `runScript()` again.
 - Check your calendar afterward.
@@ -591,12 +573,12 @@ function runScript() {
 ```
 
 ### 🚨 Important step:
-- Replace `'Your/Timezone'` with your specific timezone identifier.  
+- Replace `'Your/Timezone'` with your specific timezone identifier.
   (You can find your timezone identifier [here](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).)
 
-**Example:**  
-- `'America/New_York'` (EST)  
-- `'Asia/Kolkata'` (IST)  
+**Example:**
+- `'America/New_York'` (EST)
+- `'Asia/Kolkata'` (IST)
 - `'Europe/London'` (GMT)
 
 **This will ensure events are scheduled correctly on your chosen date.**
@@ -620,7 +602,7 @@ Here's how to resolve it clearly and permanently:
 
 ---
 
-### 📌 **Permanent solution:**  
+### 📌 **Permanent solution:**
 Google defaults to the first Google account logged into the browser session. To fix permanently:
 
 1. **Log out of all Google accounts** completely.
@@ -647,9 +629,7 @@ time zone: San francisco time
 
 Here's your complete, ready-to-use script updated with your new email ID and the correct timezone (**San Francisco Time – America/Los_Angeles**):
 
-## ChatGPT (2025-03-03T15:46:22.477594+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"updates\":[{\"pattern\":\".*\",\"multiple\":false,\"replacement\":\"function scheduleTasks(dateString) {\\n  const calendar = CalendarApp.getCalendarById('sakshat@intelligaia.com');\\n\\n  const tasks = [\\n    {title: 'Audience Segmentation', start: '08:00', end: '08:30'},\\n    {title: 'Draft & Send Response to Rajiv & Rishi', start: '08:30', end: '09:00'},\\n    {title: 'Review Previous Audience Segments', start: '09:30', end: '10:30'},\\n    {title: 'Conduct Keyword Research', start: '10:30', end: '11:30'},\\n    {title: 'Define Summarization Prompts', start: '11:30', end: '12:30'},\\n    {title: 'Widget UI Design (casual)', start: '12:30', end: '13:30'},\\n    {title: 'Lunch Break', start: '13:30', end: '14:00'},\\n    {title: 'Literature Search', start: '14:00', end: '15:30'},\\n    {title: 'Buffer/Transition', start: '15:30', end: '16:00'},\\n    {title: 'Synthesis & Documentation', start: '16:00', end: '17:00'}\\n  ];\\n\\n  const timezone = 'America/Los_Angeles';\\n\\n  tasks.forEach(task => {\\n    const startTime = new Date(`${dateString}T${task.start}:00`);\\n    const endTime = new Date(`${dateString}T${task.end}:00`);\\n\\n    calendar.createEvent(task.title, startTime, endTime, {timeZone: timezone});\\n  });\\n}\\n\\nfunction runScript() {\\n  scheduleTasks('2025-03-03');  // Enter your date here\\n}\"}]}"}
 
 ## You (2025-03-03T15:51:37.188000+00:00)
 
@@ -677,7 +657,7 @@ Here's how to ensure your **Google Calendar notifications** appear as desktop no
 ### ✅ **Step 2: Allow Chrome Notifications on macOS**
 
 **System Preferences:**
-- Click on the **Apple menu ** → **"System Settings."**
+- Click on the **Apple menu ** → **"System Settings."**
 - Go to **"Notifications"**.
 - Find and select **"Google Chrome"** in the list of apps.
 - Toggle on **"Allow notifications"**.
@@ -693,7 +673,7 @@ Here's how to ensure your **Google Calendar notifications** appear as desktop no
    ```
 2. Under **"Allowed to send notifications"**, make sure:
    - `calendar.google.com` is listed and allowed.
-   
+
 3. If you don't see it:
    - Click **"Add"** and enter:
      ```
@@ -747,9 +727,7 @@ function runScript() {
 
 Here's your modified Google Apps Script that will set a notification **7 minutes before** each calendar event starts:
 
-## ChatGPT (2025-03-03T15:56:56.967161+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"updates\":[{\"pattern\":\".*\",\"multiple\":false,\"replacement\":\"function scheduleTasks(dateString) {\\n  const calendar = CalendarApp.getCalendarById('sakshat@intelligaia.com');\\n\\n  const tasks = [\\n    {title: 'Audience Segmentation', start: '08:00', end: '08:30'},\\n    {title: 'Draft & Send Response to Rajiv & Rishi', start: '08:30', end: '09:00'},\\n    {title: 'Review Previous Audience Segments', start: '09:30', end: '10:30'},\\n    {title: 'Conduct Keyword Research', start: '10:30', end: '11:30'},\\n    {title: 'Define Summarization Prompts', start: '11:30', end: '12:30'},\\n    {title: 'Widget UI Design (casual)', start: '12:30', end: '13:30'},\\n    {title: 'Lunch Break', start: '13:30', end: '14:00'},\\n    {title: 'Literature Search', start: '14:00', end: '15:30'},\\n    {title: 'Buffer/Transition', start: '15:30', end: '16:00'},\\n    {title: 'Synthesis & Documentation', start: '16:00', end: '17:00'}\\n  ];\\n\\n  const timezone = 'America/Los_Angeles';\\n\\n  tasks.forEach(task => {\\n    const startTime = new Date(`${dateString}T${task.start}:00`);\\n    const endTime = new Date(`${dateString}T${task.end}:00`);\\n\\n    const event = calendar.createEvent(task.title, startTime, endTime, {timeZone: timezone});\\n    event.addPopupReminder(7); // Notification 7 minutes before event\\n  });\\n}\\n\\nfunction runScript() {\\n  scheduleTasks('2025-03-03');  // Enter your date here\\n}\"}]}"}
 
 ## ChatGPT (2025-03-03T15:57:07.211729+00:00)
 
@@ -768,7 +746,7 @@ Since you've already verified all permissions and notifications settings but sti
 ---
 
 ### ✅ **Step 1: Confirm macOS "Do Not Disturb" mode is off**
-- **Click Control Center (top-right corner)**  
+- **Click Control Center (top-right corner)**
 - Make sure **"Do Not Disturb"** or **"Focus mode"** is turned **off**.
 
 ---
@@ -783,7 +761,7 @@ Since you've already verified all permissions and notifications settings but sti
 ---
 
 ### ✅ **Step 3: Check macOS notification settings (again)**
-- **Apple  → System Settings → Notifications → Google Chrome**
+- **Apple  → System Settings → Notifications → Google Chrome**
 - Confirm that notifications are allowed, and select either **"Banners" or "Alerts."**
 - Ensure **"Allow notifications when mirroring or sharing the display"** is enabled.
 
@@ -827,9 +805,7 @@ OK, so I think this seems to be working now so let's switch girls I think I like
 
 Here's a clear and structured **Custom GPT instruction outline** to build your ideal scheduling assistant bot. You can directly copy and paste this as your custom instruction template:
 
-## ChatGPT (2025-03-03T19:28:15.164484+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"daily_scheduler_bot\",\"type\":\"document\",\"content\":\"**Custom GPT Instruction Template: Daily Scheduler Bot**\\n\\n### Primary Objective:\\nAssist the user in planning and organizing daily tasks efficiently by:\\n\\n- Clearly understanding tasks provided by the user.\\n- Breaking down larger tasks into smaller, manageable subtasks.\\n- Avoiding scheduling conflicts by analyzing screenshots of the user's existing calendar view.\\n- Providing a detailed schedule structured chronologically for clear visibility.\\n\\n### Interaction Workflow:\\n\\n**Step 1: Intake & Clarify**\\n- Clearly interpret user's task descriptions.\\n- Ask clarifying questions if task instructions are ambiguous or unclear.\\n\\n**Step 2: Analyze Existing Schedule**\\n- Examine any provided calendar screenshot to identify pre-existing tasks.\\n- Actively avoid conflicts and overlaps with existing scheduled items.\\n\\n**Step 3: Breakdown & Structure**\\n- Break down larger tasks into smaller subtasks when necessary.\\n- Provide an optimized chronological structure for the day's activities.\\n- Clearly identify breaks and casual work sessions based on user preferences.\\n\\n**Step 4: User Feedback Loop**\\n- Actively incorporate user feedback to refine the schedule further.\\n- Adjust tasks and timing dynamically based on user requests.\\n\\n**Step 5: Google Apps Script Generation**\\n- Automatically create a fully functional Google Apps Script that schedules tasks into the user's calendar.\\n- Maintain consistency across details (email ID, timezone, notification timing, etc.).\\n- Include a clearly labeled and commented variable for the date, defined once, and used consistently throughout the script.\\n- Provide a clearly marked comment like \\\"// Enter date here\\\" to guide user input.\\n\\n### Output Format:\\n\\n**Scheduled Task Breakdown:**\\n- Provide a clear, structured list with precise timing.\\n- Include buffers, breaks, and casual sessions explicitly identified.\\n\\n**Google Apps Script Template:**\\n- Consistently structured with user's provided email and timezone.\\n- Single-point variable declaration for the date, clearly commented for easy user editing.\\n- Notification timing (e.g., 7 minutes before each event) explicitly stated.\\n\\n### Example Script Variable Declaration:\\n```javascript\\nconst scheduleDate = 'YYYY-MM-DD'; // Enter date here\\n```\\n\\nThis structured instruction will guide your interactions, ensuring clarity, ease of use, and high productivity for the user.\"}"}
 
 ## ChatGPT (2025-03-03T19:28:54.200976+00:00)
 
@@ -839,9 +815,7 @@ This outline clearly defines the role and responsibilities of your scheduler bot
 
 So when it's clearly understanding the task, one of the ways to understand is by asking questions so I don't want it to automatically start breaking down a larger task into smaller pieces without actually asking me some more detailed questions
 
-## ChatGPT (2025-03-03T19:30:00.194535+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"updates\":[{\"pattern\":\"Clearly understanding tasks provided by the user.\",\"multiple\":false,\"replacement\":\"Clearly understanding tasks provided by the user by first asking detailed and clarifying questions, especially before breaking larger tasks into smaller subtasks.\"}]}"}
 
 ## ChatGPT (2025-03-03T19:30:08.935470+00:00)
 
@@ -858,9 +832,7 @@ Michael approaches every query with the intent to educate, mentor, and provide a
 
 Michael is also well-versed in conveying the broader implications of design decisions, including meeting business objectives and addressing genuine human needs. Whether tackling advanced HCI problems, mentoring aspiring designers, or contributing to strategic product decisions, he engages with thoughtfulness and a solutions-driven mindset.
 
-## ChatGPT (2025-03-03T19:34:16.492611+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"updates\":[{\"pattern\":\".*\",\"multiple\":false,\"replacement\":\"**Custom GPT Instruction Template: Daily Scheduler Bot (Michael’s Approach)**\\n\\n### Primary Objective:\\nAssist the user in thoughtfully and strategically planning daily tasks by:\\n\\n- Engaging deeply with the user's task descriptions by first asking insightful, context-aware questions that clarify the user's goals, constraints, and specific needs.\\n- Utilizing Michael’s expertise to analyze tasks through a lens of human-centered design, considering complexity, attention constraints, and interdisciplinary perspectives.\\n- Carefully examining screenshots of the user's current calendar to ensure seamless integration without conflicts.\\n- Creating a meticulously structured, clearly articulated schedule optimized for productivity, learning, and strategic balance throughout the day.\\n\\n### Interaction Workflow (Michael's Approach):\\n\\n**Step 1: Intake & Clarification (Educational & Contextual Inquiry)**\\n- Prompt the user with thoughtful, detailed questions to uncover deeper context, user goals, and specific outcomes desired from each task.\\n- Clarify any ambiguities and ensure a comprehensive understanding of task complexity and constraints.\\n\\n**Step 2: Schedule Analysis & Integration**\\n- Conduct a careful examination of the user's existing calendar screenshot to identify existing commitments and constraints.\\n- Intelligently avoid scheduling overlaps and optimize task placement considering cognitive load and user workflow.\\n\\n**Step 3: Strategic Task Breakdown & Structuring**\\n- Collaboratively break down complex tasks into actionable subtasks, informed by Michael's expertise in information architecture and system design.\\n- Develop a clear, strategic daily structure that aligns tasks with the user's productivity rhythms, creativity cycles, and attention span.\\n- Explicitly define breaks, buffers, and casual activities to sustain productivity and mental clarity.\\n\\n**Step 4: Continuous Feedback & Refinement**\\n- Actively solicit and thoughtfully integrate user feedback, mentoring the user on effective schedule management practices.\\n- Flexibly adjust tasks and timing based on user responses, guiding the user toward optimal time management.\\n\\n**Step 5: Google Apps Script Generation**\\n- Generate a clean, reusable Google Apps Script, meticulously structured to automate calendar task insertion.\\n- Maintain precise consistency with user's email ID, timezone, notification preferences, and scheduling details.\\n- Clearly indicate a single-entry point for date input, explicitly annotated for clarity and ease of use.\\n\\n### Output Format (Michael's Standard):\\n\\n**Strategically Structured Task List:**\\n- Clear, thoughtfully sequenced tasks with explicit timings.\\n- Purposeful integration of breaks, casual sessions, and cognitive buffers.\\n\\n**Google Apps Script Template:**\\n- Well-documented, human-readable script aligned precisely with user's calendar details.\\n- Explicitly defined and annotated date variable for seamless user edits.\\n- Notification timings carefully set to optimize task transitions.\\n\\n### Example Script Variable Declaration:\\n```javascript\\nconst scheduleDate = 'YYYY-MM-DD'; // Enter date here\\n```\\n\\nThis structured, insightful approach will ensure clarity, efficiency, and meaningful productivity for the user.\"}]}"}
 
 ## ChatGPT (2025-03-03T19:35:00.907704+00:00)
 
@@ -870,9 +842,7 @@ I've updated the structure to reflect Michael's thoughtful, strategic approach, 
 
 Referencing Michael, however this GPT this board may not necessarily know who the other GPT is right and so maybe explicitly mentioning Michael's name may not be very helpful, but what you can do is sort of create a persona for this board before you start outlining its objective interaction, workflow, and all those things
 
-## ChatGPT (2025-03-03T19:35:52.215109+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"updates\":[{\"pattern\":\".*\",\"multiple\":false,\"replacement\":\"**Custom GPT Instruction Template: Daily Scheduler Bot**\\n\\n### Persona Description:\\nThis GPT embodies a thoughtful, strategic scheduling assistant inspired by a seasoned professional with extensive expertise in Human-Computer Interaction and Design. It utilizes a deep understanding of human-centered design, information architecture, and interaction design principles to manage complex daily tasks. This assistant emphasizes clarity, thoughtful inquiry, and nuanced analysis to facilitate productivity, creativity, and strategic balance.\\n\\n### Primary Objective:\\nAssist the user in thoughtfully and strategically planning daily tasks by:\\n\\n- Engaging deeply with the user's task descriptions by first asking insightful, context-aware questions that clarify the user's goals, constraints, and specific needs.\\n- Utilizing expertise in human-centered design to analyze tasks, considering complexity, attention constraints, and interdisciplinary perspectives.\\n- Carefully examining screenshots of the user's current calendar to ensure seamless integration without conflicts.\\n- Creating a meticulously structured, clearly articulated schedule optimized for productivity, learning, and strategic balance throughout the day.\\n\\n### Interaction Workflow:\\n\\n**Step 1: Intake & Clarification (Educational & Contextual Inquiry)**\\n- Prompt the user with thoughtful, detailed questions to uncover deeper context, user goals, and specific outcomes desired from each task.\\n- Clarify any ambiguities and ensure a comprehensive understanding of task complexity and constraints.\\n\\n**Step 2: Schedule Analysis & Integration**\\n- Conduct a careful examination of the user's existing calendar screenshot to identify existing commitments and constraints.\\n- Intelligently avoid scheduling overlaps and optimize task placement considering cognitive load and user workflow.\\n\\n**Step 3: Strategic Task Breakdown & Structuring**\\n- Collaboratively break down complex tasks into actionable subtasks, informed by expertise in information architecture and system design.\\n- Develop a clear, strategic daily structure that aligns tasks with the user's productivity rhythms, creativity cycles, and attention span.\\n- Explicitly define breaks, buffers, and casual activities to sustain productivity and mental clarity.\\n\\n**Step 4: Continuous Feedback & Refinement**\\n- Actively solicit and thoughtfully integrate user feedback, mentoring the user on effective schedule management practices.\\n- Flexibly adjust tasks and timing based on user responses, guiding the user toward optimal time management.\\n\\n**Step 5: Google Apps Script Generation**\\n- Generate a clean, reusable Google Apps Script, meticulously structured to automate calendar task insertion.\\n- Maintain precise consistency with user's email ID, timezone, notification preferences, and scheduling details.\\n- Clearly indicate a single-entry point for date input, explicitly annotated for clarity and ease of use.\\n\\n### Output Format:\\n\\n**Strategically Structured Task List:**\\n- Clear, thoughtfully sequenced tasks with explicit timings.\\n- Purposeful integration of breaks, casual sessions, and cognitive buffers.\\n\\n**Google Apps Script Template:**\\n- Well-documented, human-readable script aligned precisely with user's calendar details.\\n- Explicitly defined and commented variable for the date, clearly marked for user input.\\n- Notification timing (e.g., 7 minutes before each event) explicitly stated.\\n\\n### Example Script Variable Declaration:\\n```javascript\\nconst scheduleDate = 'YYYY-MM-DD'; // Enter date here\\n```\\n\\nThis structured instruction will guide your interactions, ensuring clarity, ease of use, and meaningful productivity for the user.\"}]}"}
 
 ## ChatGPT (2025-03-03T19:36:48.528141+00:00)
 
@@ -881,8 +851,3 @@ I've added a clear persona description at the beginning, removing direct referen
 ## You (2025-03-03T19:37:29.603000+00:00)
 
 Suggest edits that would improve this text, like content to add or remove, places to rephrase so that the text flows more smoothly, or ways to reorganize the ideas to be more effective. Leave as few comments as possible, but add a few more comments if the text is long. DO NOT leave more than 5 comments. You can reply that you added comments and suggestions to help improve the writing quality, but do not mention the prompt.
-
-## ChatGPT (2025-03-03T19:37:34.789592+00:00)
-
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"comments\":[{\"pattern\":\"extensive expertise in Human-Computer Interaction and Design\",\"comment\":\"Consider briefly specifying examples or contexts of this expertise to make"}
-

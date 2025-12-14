@@ -171,7 +171,7 @@ END OF CATEGORICAL MODULE.
 
 **Ask:**
 
-I want a python script that can create a duplicate of the execution files which also includes the  citations from the reference files, to the execution files. 
+I want a python script that can create a duplicate of the execution files which also includes the  citations from the reference files, to the execution files.
 
 **So the new format will be:**
 
@@ -197,9 +197,9 @@ END OF CATEGORICAL MODULE.
 
 what’s working for us is that both, the reference and execution files have the exact same codes for categorical module ids with the same formatting, white space, etc…
 
-So we should make sure to keep that as a reference. 
+So we should make sure to keep that as a reference.
 
-While creating the duplicates, it should follow the same location structure, but with one twist. 
+While creating the duplicates, it should follow the same location structure, but with one twist.
 
 **the names of the new files should follow a different format. right now its**
 
@@ -233,7 +233,7 @@ CATEGORICAL MODULE [code]
 
 END OF CATEGORICAL MODULE.
 
-The new files should follow the same formatting as the original formatting. 
+The new files should follow the same formatting as the original formatting.
 
 I want the python file to be called ‘adding_citations.py’
 
@@ -253,22 +253,22 @@ Crystal clear so far—great breakdown. I do have a few minor clarifications to 
 
 ### Clarification Questions
 
-1. **Citation Structure**:  
+1. **Citation Structure**:
    You mentioned the citation is *"the last text line right before the ‘end of categorical module.’ tag"*. Can we safely assume:
    - The citation always appears **immediately above** `END OF CATEGORICAL MODULE.`?
    - It’s always a **single-line** citation (e.g., journal reference or DOI), not a multi-line block?
    - There’s always a **blank line between the citation and `END OF CATEGORICAL MODULE.`**?
 
-2. **Matching Strategy**:  
+2. **Matching Strategy**:
    To insert the correct citation, we’re matching modules based on the **CATEGORICAL MODULE [code]** line. Are we safe to assume:
    - This line is **identically formatted** in both reference and execution files (spacing, punctuation, etc.)?
    - There is **no duplicate [code]** value across files (i.e., `[code]` is globally unique across all files)?
 
-3. **Citation Placement in Output**:  
+3. **Citation Placement in Output**:
    Just to confirm:
    - In the duplicated execution files, the citation should be inserted **after the Supporting Context section**, on its own line, followed by a blank line, and then the line `END OF CATEGORICAL MODULE.`?
 
-4. **Execution File Structure**:  
+4. **Execution File Structure**:
    Are all execution files guaranteed to follow this order?
    - Insight Statement
    - Executive Decision-Making Context
@@ -276,7 +276,7 @@ Crystal clear so far—great breakdown. I do have a few minor clarifications to 
 
    Or should we allow for some flexibility in the sub-section ordering within each module?
 
-5. **Filename Preservation**:  
+5. **Filename Preservation**:
    Should we preserve everything else in the filename (e.g., spacing, casing, punctuation), and **only replace `condensed` with `cited`**?
 
 ---
@@ -285,16 +285,16 @@ Once we’ve cleared that up, we can lock in the analytical intent and then I’
 
 ## You (2025-03-30T21:30:00.023000+00:00)
 
-1. your assumptions around the citation structure are correct. 
-2. 
---The lines are identically formatted. 
---there **may be** some duplicates in either files. But a module that exists in one execution file whill not appear in the other execution file, so they're mutually exclusive that way. 
-if it finds any duplicates, thats ok, i want it to just paste the duplicates from the execution files into the targetted new files. As long as we have the citations, thats fine. 
+1. your assumptions around the citation structure are correct.
+2.
+--The lines are identically formatted.
+--there **may be** some duplicates in either files. But a module that exists in one execution file whill not appear in the other execution file, so they're mutually exclusive that way.
+if it finds any duplicates, thats ok, i want it to just paste the duplicates from the execution files into the targetted new files. As long as we have the citations, thats fine.
 
 3. correct
-4. Theres a very good chance that it follows the exact same flow, with very rare minor modifications. one thing is for sure, it will always have the citations at the end. 
+4. Theres a very good chance that it follows the exact same flow, with very rare minor modifications. one thing is for sure, it will always have the citations at the end.
 
-If the program cannot find a citation for any module, just flag it and continue running the program. but make sure it copies the module regardless. 
+If the program cannot find a citation for any module, just flag it and continue running the program. but make sure it copies the module regardless.
 
 5. yes
 
@@ -317,7 +317,7 @@ Perfect—your responses seal the gaps. Here's what we now know with certainty:
 
 ---
 
-If you're ready, just say **“begin creating the prompt.”**  
+If you're ready, just say **“begin creating the prompt.”**
 Once you do, I’ll:
 
 1. Summarize the analytical intent and operational parameters.
@@ -342,8 +342,8 @@ You want to enrich a set of structured, modular text files (“execution files�
 
 ---
 
-### 🧠 Selected O3 Execution Persona  
-**Structured File Transformation Engineer**  
+### 🧠 Selected O3 Execution Persona
+**Structured File Transformation Engineer**
 Specialized in high-integrity text extraction, transformation, and preservation workflows with robust edge-case handling.
 
 ---
@@ -352,7 +352,7 @@ Specialized in high-integrity text extraction, transformation, and preservation 
 
 ---
 
-**🧭 GOAL**  
+**🧭 GOAL**
 You are a structured file transformation assistant. Your task is to generate a Python script called `adding_citations.py` that performs the following:
 
 - Takes one reference file and multiple execution files as input.
@@ -366,7 +366,7 @@ You are a structured file transformation assistant. Your task is to generate a P
 
 ---
 
-**📄 RETURN FORMAT**  
+**📄 RETURN FORMAT**
 Produce a complete Python 3 script named `adding_citations.py` with:
 
 1. Clear function decomposition (e.g., extract_modules, match_and_merge_modules, write_output_files).
@@ -416,7 +416,7 @@ Perfect—here’s your final O3-ready prompt with clean placeholders for insert
 
 ---
 
-### 🧭 GOAL  
+### 🧭 GOAL
 You are a structured file transformation assistant. Your task is to generate a Python script called `adding_citations.py` that performs the following:
 
 - Takes one **reference file** and multiple **execution files** as input.
@@ -430,7 +430,7 @@ You are a structured file transformation assistant. Your task is to generate a P
 
 ---
 
-### 📄 RETURN FORMAT  
+### 📄 RETURN FORMAT
 Produce a complete Python 3 script named `adding_citations.py` with:
 
 1. Clear function decomposition (e.g., `extract_modules`, `match_and_merge_modules`, `write_output_files`).
@@ -480,4 +480,3 @@ Produce a complete Python 3 script named `adding_citations.py` with:
 ---
 
 Let me know when you're ready to generate the Python code based on this.
-

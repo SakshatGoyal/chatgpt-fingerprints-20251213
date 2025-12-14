@@ -29,31 +29,31 @@ Treat me like someone whose success depends on hearing the truth, not being codd
 Here's the brutally honest breakdown you need right now:
 
 ### **1. Stop Dabbling and Over-Engineering**
-You’re clearly intelligent, skilled, and ambitious, yet you're often caught in details, customization, or niche technical setups. You have a habit of over-complicating simple things or endlessly tweaking projects instead of ruthlessly shipping impactful outcomes.  
+You’re clearly intelligent, skilled, and ambitious, yet you're often caught in details, customization, or niche technical setups. You have a habit of over-complicating simple things or endlessly tweaking projects instead of ruthlessly shipping impactful outcomes.
 **Fix it**: Prioritize velocity and impact over perfection. Define clear, measurable outcomes each day. Ship early, iterate aggressively.
 
 ### **2. Comfort in Complexity is Killing Your Speed**
-Your deep technical understanding is becoming a crutch. Complexity feels productive—but it's often procrastination disguised as sophistication. You're undervaluing simplicity and clarity.  
+Your deep technical understanding is becoming a crutch. Complexity feels productive—but it's often procrastination disguised as sophistication. You're undervaluing simplicity and clarity.
 **Fix it**: Force simplicity. Question every step—“Is this truly essential to the final impact?”
 
 ### **3. You're Underestimating Your Weakness for Distraction**
-You recognize your ADHD but often lean on familiar routines (chai ritual, detailed prep, careful setup) to justify slower starts and delays. These rituals help but can also mask procrastination or avoidance of uncomfortable work.  
+You recognize your ADHD but often lean on familiar routines (chai ritual, detailed prep, careful setup) to justify slower starts and delays. These rituals help but can also mask procrastination or avoidance of uncomfortable work.
 **Fix it**: Structure mornings to tackle your toughest, highest-leverage tasks first. Zero negotiation. Guard your early hours fiercely.
 
 ### **4. You’re Playing Too Small**
-You consistently work at the tactical level, avoiding bold leaps. Deep down, you might be wary of scaling big or leading larger teams due to control and trust issues. This cautiousness is costing you exponential growth.  
+You consistently work at the tactical level, avoiding bold leaps. Deep down, you might be wary of scaling big or leading larger teams due to control and trust issues. This cautiousness is costing you exponential growth.
 **Fix it**: Clarify your ambitious endgame—then deliberately expose yourself to bigger risks and more public accountability. Commit publicly to something audacious.
 
 ### **5. You Overvalue Technical Control and Undervalue Delegation**
-You’re still performing tasks that should’ve been automated, outsourced, or delegated long ago. You’re not scaling your leverage effectively because you fear losing control or accepting "imperfect" output.  
+You’re still performing tasks that should’ve been automated, outsourced, or delegated long ago. You’re not scaling your leverage effectively because you fear losing control or accepting "imperfect" output.
 **Fix it**: Delegate aggressively. Embrace 70% quality from someone else over your 100%. Scale comes through empowering teams, not individual mastery.
 
 ### **6. You're Avoiding the Uncomfortable Truth of Your Market Position**
-Are you clearly differentiated? Are you building something truly unique, defensible, and valuable at scale—or are you just iterating slightly better versions of existing tools and visualizations?  
+Are you clearly differentiated? Are you building something truly unique, defensible, and valuable at scale—or are you just iterating slightly better versions of existing tools and visualizations?
 **Fix it**: Get brutally honest with product-market fit. Interview real users. Test your differentiation harshly, and pivot decisively if you’re not compellingly unique.
 
 ### **7. Stop Hiding Behind Tools and Systems**
-You rely heavily on technical proficiency and tooling to shield yourself from uncertainty. Tools are comforting, predictable, and manageable. Real success involves facing discomfort—uncertainty, criticism, and potential failure.  
+You rely heavily on technical proficiency and tooling to shield yourself from uncertainty. Tools are comforting, predictable, and manageable. Real success involves facing discomfort—uncertainty, criticism, and potential failure.
 **Fix it**: Challenge yourself by deliberately choosing growth-focused discomfort: bigger audiences, tougher problems, bold positioning, visible accountability.
 
 ---
@@ -111,4 +111,3 @@ Here are specific examples from our interactions that clearly support my conclus
 These examples aren’t criticisms of your skill—clearly, you’re deeply capable. They're direct evidence that your comfort zones (complexity, control, customization, rituals, small-scale optimization) are slowing your strategic progress and potential.
 
 Shift immediately toward strategic simplicity, aggressive delegation, and brutally honest market validation.
-

@@ -2,7 +2,7 @@
 
 ## You (2025-03-25T01:55:59.527000+00:00)
 
-Based on this handbook, could you create an outline, not a document, that your design team at frog could use to begin researching ways to identify potential design opportunities for people working on corporate strategy. 
+Based on this handbook, could you create an outline, not a document, that your design team at frog could use to begin researching ways to identify potential design opportunities for people working on corporate strategy.
 
 remember, your document should only be used to inform, not bias people into a design solution. the team just needs to know exactly what corporate strategy is so they can begin their research
 
@@ -102,4 +102,3 @@ These are *not solution directions*, but prompts to help the team listen for lat
 ---
 
 Let me know if you'd like a version tailored to early-career researchers or if the team would benefit from prompts for field observation, workshop facilitation, or stakeholder mapping tools.
-

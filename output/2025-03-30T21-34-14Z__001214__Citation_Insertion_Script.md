@@ -81,14 +81,14 @@ This script processes a reference file and multiple execution files. It extracts
 from each file (modules are delimited by "CATEGORICAL MODULE ..." and "END OF CATEGORICAL MODULE.")
 In the reference file, each module’s final non-empty line before the END tag is a citation.
 For each execution file, the script finds matching modules (by an exact match on the module header)
-and inserts the corresponding citation immediately after the Supporting Context section and 
+and inserts the corresponding citation immediately after the Supporting Context section and
 before the END tag (ensuring one blank line above the END tag).
 
 It logs:
   - Modules that are in the reference file but missing in all execution files.
   - Modules in execution files with no matching citation in the reference.
   - A final summary with counts of modules processed, citation insertions, and unmatched modules.
-  
+
 Usage: Simply run the script. The output files will be saved in the same directory as the originals,
 with "condensed" replaced by "cited" in the filename.
 """
@@ -460,7 +460,7 @@ The script logs:
   - Modules that are in the reference file but missing in all execution files.
   - Modules in execution files with no matching citation in the reference.
   - A final summary with counts of modules processed, citation insertions, and unmatched modules.
-  
+
 Usage: Run the script. Output files are saved in the same directory as the originals,
 with "condensed" replaced by "cited" in the filename.
 """
@@ -746,7 +746,7 @@ The script logs:
   - Modules that are in the reference file but missing in all execution files.
   - Modules in execution files with no matching citation in the reference.
   - A final summary with counts of modules processed, citation insertions, and unmatched modules.
-  
+
 Usage: Run the script. Output files are saved in the same directory as the originals,
 with "condensed" replaced by "cited" in the filename.
 """
@@ -980,4 +980,3 @@ if __name__ == "__main__":
   ensuring the desired output format.
 
 Feel free to run this updated version and let me know if you need any further changes!
-

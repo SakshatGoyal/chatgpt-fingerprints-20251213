@@ -2,7 +2,7 @@
 
 ## You (2025-03-30T17:47:35.783000+00:00)
 
-could you please take a look at this handbook? We tagged a bunch of insights based on this handbook. Now our goal is to find 4-5 categories for which the tagging is best alligned to answer the following questions. We may be potentially eliminating some categories, so be very critical in your analysis. Help me narrow down those 5, and justify why those were chosen over the others. 
+could you please take a look at this handbook? We tagged a bunch of insights based on this handbook. Now our goal is to find 4-5 categories for which the tagging is best alligned to answer the following questions. We may be potentially eliminating some categories, so be very critical in your analysis. Help me narrow down those 5, and justify why those were chosen over the others.
 
 
 Here're the questions:
@@ -132,9 +132,8 @@ Great — thanks for sharing both the questions and the handbook. You're in a st
 ### ✅ Recommended 5 Categories (with Justification):
 
 #### **1. Ambiguity Type**
-**Why keep it:**  
+**Why keep it:**
 This category directly surfaces *the nature of the ambiguity* execs are navigating — essential for understanding *when they act with limited information* (Q1), how they *perceive high-stakes decisions* (Q2), and what pushes them to *stay the course vs. pivot* (Q3). For example:
 - “**Strategic Trade-Off Ambiguity**” clarifies dilemmas like short-term vs. long-term vision (Q5),
 - “**Temporal and Horizon Uncertainty**” aligns with dual-time horizon pressures (Q5),
 - “**Bias
-

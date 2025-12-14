@@ -2,11 +2,11 @@
 
 ## You (2025-05-18T20:48:39.694000+00:00)
 
-help me turn my current daily meal plan into a keto diet plan. 
+help me turn my current daily meal plan into a keto diet plan.
 
-for breakfast: I always eat yogurt with nuts, ginger chai, and one boiled egg. 
+for breakfast: I always eat yogurt with nuts, ginger chai, and one boiled egg.
 For lunch, I always have a clear doenjang soup with kimchi, and boiled vegetables.
-for dinner, I always have dal tadka with whole wheat and pearl millet baati. 
+for dinner, I always have dal tadka with whole wheat and pearl millet baati.
 after dinner I always hot a big glass of whole milk.
 
 ## ChatGPT (2025-05-18T20:48:41.561583+00:00)
@@ -19,17 +19,17 @@ Here's a **revised keto version** of your day, meal by meal:
 
 ### ✅ **Breakfast:**
 
-**Your current**: Yogurt with nuts, ginger chai, boiled egg  
+**Your current**: Yogurt with nuts, ginger chai, boiled egg
 **Keto version**:
 - ✔️ **Full-fat Greek yogurt (unsweetened)** with nuts (almonds, walnuts, pecans) — keep this
-- ✔️ **Boiled egg** — keep this  
+- ✔️ **Boiled egg** — keep this
 - 🔁 **Chai**: Replace sugar or milk with **unsweetened almond milk** or **heavy cream**, and use **stevia/erythritol** if you want sweetness. Spices like ginger, cardamom, etc. are great to keep.
 
 ---
 
 ### ✅ **Lunch:**
 
-**Your current**: Clear doenjang soup, kimchi, boiled vegetables  
+**Your current**: Clear doenjang soup, kimchi, boiled vegetables
 **Keto version**:
 - ✔️ **Doenjang soup** — keep it, but avoid adding tofu/noodles/rice. Add **zucchini, mushrooms, spinach**, and **some fatty protein** (like pork belly, egg, or chicken thigh)
 - ✔️ **Kimchi** — perfect, just make sure it's sugar-free (some commercial brands add sugar)
@@ -39,7 +39,7 @@ Here's a **revised keto version** of your day, meal by meal:
 
 ### ✅ **Dinner:**
 
-**Your current**: Dal tadka with whole wheat + pearl millet baati  
+**Your current**: Dal tadka with whole wheat + pearl millet baati
 **Keto version**:
 - 🔁 **Dal tadka** → swap out lentils (they’re high in carbs) and make a **spiced spinach and paneer curry** or **egg curry** instead, using similar masala flavors
 - 🔁 **Baati (wheat/millet)** → replace with **keto naan or roti** made from almond flour, coconut flour, or psyllium husk
@@ -48,7 +48,7 @@ Here's a **revised keto version** of your day, meal by meal:
 
 ### ✅ **After Dinner:**
 
-**Your current**: Whole glass of whole milk  
+**Your current**: Whole glass of whole milk
 **Keto version**:
 - 🔁 Whole milk → switch to **unsweetened almond milk**, or **a smaller amount of heavy cream** diluted with water (to replicate the creamy mouthfeel)
 
@@ -98,4 +98,3 @@ Tell me a little more about ketosis and its benefits for cognitive functioning
 **Caveat:** The cognitive boost isn't instant. It usually kicks in after a few days to a week once you're "fat-adapted." The first few days can bring mental fatigue ("keto flu") as your body transitions.
 
 Let me know if you'd like help managing that transition smoothly or if you'd like citations for specific studies.
-

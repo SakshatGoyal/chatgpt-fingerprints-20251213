@@ -152,7 +152,7 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Key Themes:** This paper explores leadership behavior under crisis conditions, emphasizing the importance of deliberate pausing, leveraging a diverse support network, and realistically assessing one’s influence during high-pressure situations.
 - **Core Motivations:** The primary challenge addressed is the need for leaders to maintain calm and clear decision-making amid crisis-induced stress while mitigating the risk of reactive and potentially destructive behaviors.
 - **Methodological Clarification:** The article synthesizes historical anecdotes and expert opinions—including insights drawn from Abraham Lincoln’s leadership style and contemporary research on crisis behavior—rather than relying on systematic empirical studies. This approach offers practical, experience-based recommendations while limiting statistical rigor.
-- **Relevance Assessment:** In today’s dynamic business environment, executives face continuous high-stakes decision-making. The strategies outlined are directly applicable to contemporary concerns, prompting leaders to adopt thoughtful, measured responses that enhance both personal and team performance in crises. citeturn0file0
+- **Relevance Assessment:** In today’s dynamic business environment, executives face continuous high-stakes decision-making. The strategies outlined are directly applicable to contemporary concerns, prompting leaders to adopt thoughtful, measured responses that enhance both personal and team performance in crises.
 
 ---
 
@@ -173,7 +173,7 @@ A deliberate pause before engaging in immediate crisis response enables leaders 
 
 **Supporting Context**
 
-The recommendation to pause is grounded in historical examples, notably Abraham Lincoln’s method of refraining from immediate action in high-stakes scenarios. Nancy Koehn’s commentary underscores that a brief delay—such as taking a deep breath—can significantly enhance decision quality. This insight is further supported by empirical observations on leadership behavior under pressure. **[Empirical]** citeturn0file0
+The recommendation to pause is grounded in historical examples, notably Abraham Lincoln’s method of refraining from immediate action in high-stakes scenarios. Nancy Koehn’s commentary underscores that a brief delay—such as taking a deep breath—can significantly enhance decision quality. This insight is further supported by empirical observations on leadership behavior under pressure. **[Empirical]**
 
 ---
 
@@ -190,7 +190,7 @@ Cultivating a reliable, diverse advisory network is essential for maintaining co
 
 **Supporting Context**
 
-Drawing on expert opinion from Nancy Koehn, the article emphasizes the importance of advisors who not only share the leader’s vision but also bring emotional intelligence and diverse experiences. This approach is reinforced by historical practices where successful leaders surrounded themselves with trusted, calm advisors. **[Empirical]** citeturn0file0
+Drawing on expert opinion from Nancy Koehn, the article emphasizes the importance of advisors who not only share the leader’s vision but also bring emotional intelligence and diverse experiences. This approach is reinforced by historical practices where successful leaders surrounded themselves with trusted, calm advisors. **[Empirical]**
 
 ---
 
@@ -207,7 +207,7 @@ Acknowledging the limitations of individual influence during a crisis enables le
 
 **Supporting Context**
 
-The article advises that leaders accept that “nothing an individual leader can do can solve the whole situation.” By breaking down overwhelming challenges into step-by-step tasks and relying on a capable team, executives can achieve more effective outcomes. This recommendation aligns with the broader literature on crisis management and the importance of realistic self-assessment. **[Empirical]** citeturn0file0
+The article advises that leaders accept that “nothing an individual leader can do can solve the whole situation.” By breaking down overwhelming challenges into step-by-step tasks and relying on a capable team, executives can achieve more effective outcomes. This recommendation aligns with the broader literature on crisis management and the importance of realistic self-assessment. **[Empirical]**
 
 ---
 
@@ -461,21 +461,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -488,4 +488,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T22:04:36.334277+00:00)
 
 Miller, K. (2019, December 19). Leadership under pressure: 3 strategies for keeping calm. *Harvard Business School Online*. https://online.hbs.edu/blog/post/leadership-under-pressure
-

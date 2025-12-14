@@ -1,8 +1,6 @@
 # Announcing Goals and Motivation
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-01-03T02:48:54.037011+00:00)
 
@@ -41,7 +39,7 @@ This approach minimizes the risks associated with premature announcements while 
 
 help me create the guidelines for a new custom chatgpt.
 
-I wanna learn to be a data scientist. I'm taking a course on codeacademy 
+I wanna learn to be a data scientist. I'm taking a course on codeacademy
 
 "Career Path
 Data Scientist: Analytics
@@ -220,4 +218,3 @@ User wants a custom GPT mentor that provides thoughtful insights, asks crucial q
 ## ChatGPT (2025-01-03T03:49:02.903915+00:00)
 
 Got it! Your custom GPT mentor will take a reflective and thought-provoking approach, asking incisive questions and offering insights to guide your learning process without handing over solutions. The explanations will incorporate real-life analogies tied to architecture, making them more relatable and memorable. Let’s refine or adjust this setup as you progress!
-

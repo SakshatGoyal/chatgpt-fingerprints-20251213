@@ -149,17 +149,17 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:**  
-  This paper investigates the application of cognitive modeling techniques—specifically cognitive charts—to develop robust innovation management systems (CIM) in companies. It emphasizes the need for dynamic, non-linear tools to address the complex interplay of strategic factors in transitioning from resource-based to innovation-based economies. citeturn0file0
+- **Key Themes:**
+  This paper investigates the application of cognitive modeling techniques—specifically cognitive charts—to develop robust innovation management systems (CIM) in companies. It emphasizes the need for dynamic, non-linear tools to address the complex interplay of strategic factors in transitioning from resource-based to innovation-based economies.
 
-- **Core Motivations:**  
-  Driven by the challenges posed by volatile economic conditions and rapid market changes, the research highlights the urgency for organizations to rethink traditional, linear decision frameworks. The paper argues that integrating cognitive approaches can better support the identification of innovative strategies by capturing the multi-dimensional nature of executive challenges. citeturn0file0
+- **Core Motivations:**
+  Driven by the challenges posed by volatile economic conditions and rapid market changes, the research highlights the urgency for organizations to rethink traditional, linear decision frameworks. The paper argues that integrating cognitive approaches can better support the identification of innovative strategies by capturing the multi-dimensional nature of executive challenges.
 
-- **Methodological Clarification:**  
-  The study employs cognitive modeling methods, including the construction of cognitive charts that map causal relationships among factors such as profit, market share, risk, product quality, and production cost. Scenario-based analysis is used to simulate various innovation pathways. Although these models offer qualitative depth, their reliability depends on the comprehensiveness and accuracy of the knowledge input. citeturn0file0
+- **Methodological Clarification:**
+  The study employs cognitive modeling methods, including the construction of cognitive charts that map causal relationships among factors such as profit, market share, risk, product quality, and production cost. Scenario-based analysis is used to simulate various innovation pathways. Although these models offer qualitative depth, their reliability depends on the comprehensiveness and accuracy of the knowledge input.
 
-- **Relevance Assessment:**  
-  The findings are directly relevant to contemporary executive concerns, offering strategic insights into managing uncertainty and complexity. By promoting a shift from purely quantitative analyses to integrated cognitive frameworks, the paper provides actionable insights for leaders seeking to balance short-term pressures with long-term innovative growth. citeturn0file0
+- **Relevance Assessment:**
+  The findings are directly relevant to contemporary executive concerns, offering strategic insights into managing uncertainty and complexity. By promoting a shift from purely quantitative analyses to integrated cognitive frameworks, the paper provides actionable insights for leaders seeking to balance short-term pressures with long-term innovative growth.
 
 ---
 
@@ -169,48 +169,48 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Topic 1: The Role of Cognitive Modeling in Innovation Management**
 
-1. **Insight Statement:**  
+1. **Insight Statement:**
    The paper posits that incorporating cognitive modeling into innovation management enables executives to visualize and analyze complex interdependencies among strategic factors, challenging the conventional reliance on linear, quantitative decision-making methods. **[Empirical]**
 
-2. **Executive Decision-Making Context:**  
-   - **Strategic Dilemma:** Executives are often hampered by traditional models that inadequately capture the dynamic interplay of internal and external factors in volatile economic settings. **[Inferred]**  
-   - **Underlying Beliefs & Biases:** There is a prevailing bias toward quantitative, reductionist approaches that may obscure the multifaceted nature of innovation decisions. **[Inferred]**  
-   - **Expected vs. Actual Outcomes:** While numerical forecasts promise clarity, the cognitive approach suggests that a richer, scenario-based analysis may reveal alternative strategies and unintended consequences. **[Inferred]**  
+2. **Executive Decision-Making Context:**
+   - **Strategic Dilemma:** Executives are often hampered by traditional models that inadequately capture the dynamic interplay of internal and external factors in volatile economic settings. **[Inferred]**
+   - **Underlying Beliefs & Biases:** There is a prevailing bias toward quantitative, reductionist approaches that may obscure the multifaceted nature of innovation decisions. **[Inferred]**
+   - **Expected vs. Actual Outcomes:** While numerical forecasts promise clarity, the cognitive approach suggests that a richer, scenario-based analysis may reveal alternative strategies and unintended consequences. **[Inferred]**
    - **Broader Implications:** A shift toward cognitive modeling could foster more adaptive decision frameworks, equipping leaders to manage complexity and uncertainty more effectively. **[Inferred]**
 
-3. **Supporting Context:**  
+3. **Supporting Context:**
    The methodology centers on constructing cognitive charts that delineate cause-and-effect relationships among factors like profit, market share, risk, and quality. An illustrative example from a machine-building company demonstrates how linguistic scales (e.g., 0.1 to 0.9) can quantify these relationships, thereby providing a structured yet flexible tool for scenario analysis. Limitations stem from the subjective nature of the assessments and the critical dependence on the quality of underlying knowledge. **[Empirical]**
 
 ---
 
 **Topic 2: Strategic Application of Scenario-Based Cognitive Analysis**
 
-1. **Insight Statement:**  
+1. **Insight Statement:**
    The use of scenario-based cognitive analysis allows executives to simulate multiple innovation pathways, challenging traditional cost-benefit approaches by unveiling non-obvious interdependencies and potential strategic directions. **[Empirical]**
 
-2. **Executive Decision-Making Context:**  
-   - **Strategic Dilemma:** Leaders face uncertainty regarding which innovation scenarios will secure long-term competitive advantage amid rapidly evolving market conditions. **[Inferred]**  
-   - **Underlying Beliefs & Biases:** The common reliance on historical data and linear projections may lead to an underestimation of transformative opportunities that a cognitive scenario analysis can reveal. **[Inferred]**  
-   - **Expected vs. Actual Outcomes:** Whereas conventional methods might offer limited foresight, cognitive scenario planning illustrates a spectrum of potential outcomes, prompting more resilient strategic choices. **[Inferred]**  
+2. **Executive Decision-Making Context:**
+   - **Strategic Dilemma:** Leaders face uncertainty regarding which innovation scenarios will secure long-term competitive advantage amid rapidly evolving market conditions. **[Inferred]**
+   - **Underlying Beliefs & Biases:** The common reliance on historical data and linear projections may lead to an underestimation of transformative opportunities that a cognitive scenario analysis can reveal. **[Inferred]**
+   - **Expected vs. Actual Outcomes:** Whereas conventional methods might offer limited foresight, cognitive scenario planning illustrates a spectrum of potential outcomes, prompting more resilient strategic choices. **[Inferred]**
    - **Broader Implications:** Integrating such scenario-based tools into executive decision frameworks could enhance strategic agility, helping organizations to better navigate risks and exploit emerging opportunities. **[Inferred]**
 
-3. **Supporting Context:**  
+3. **Supporting Context:**
    The paper details the creation of various innovation scenarios (S1 to Sn) by adjusting key controlling factors on a linguistic scale. This approach exposes the non-linear dynamics of innovation processes and underscores the necessity of moving beyond simplistic, one-dimensional analyses. Despite its strengths, the method requires rigorous and nuanced knowledge input, which can introduce variability in its application. **[Empirical]**
 
 ---
 
 **Topic 3: Limitations and Biases in Cognitive Model-Based Decision Support**
 
-1. **Insight Statement:**  
+1. **Insight Statement:**
    While cognitive models provide a holistic framework for innovation management, their effectiveness is constrained by the quality of the input data and the inherent subjectivity of qualitative assessments, potentially embedding implicit biases into the decision-making process. **[Empirical]**
 
-2. **Executive Decision-Making Context:**  
-   - **Strategic Dilemma:** Executives must navigate the risk that cognitive models, if built on incomplete or biased data, could lead to misinformed decisions despite their apparent sophistication. **[Inferred]**  
-   - **Underlying Beliefs & Biases:** There is an inherent risk in over-relying on the structured outputs of cognitive charts, which might mask underlying uncertainties and assumptions not rigorously vetted. **[Inferred]**  
-   - **Expected vs. Actual Outcomes:** Although cognitive models are expected to offer clarity, the reliance on subjective evaluations may sometimes result in outcomes that diverge significantly from reality. **[Inferred]**  
+2. **Executive Decision-Making Context:**
+   - **Strategic Dilemma:** Executives must navigate the risk that cognitive models, if built on incomplete or biased data, could lead to misinformed decisions despite their apparent sophistication. **[Inferred]**
+   - **Underlying Beliefs & Biases:** There is an inherent risk in over-relying on the structured outputs of cognitive charts, which might mask underlying uncertainties and assumptions not rigorously vetted. **[Inferred]**
+   - **Expected vs. Actual Outcomes:** Although cognitive models are expected to offer clarity, the reliance on subjective evaluations may sometimes result in outcomes that diverge significantly from reality. **[Inferred]**
    - **Broader Implications:** Executives should supplement cognitive model outputs with diverse data sources and continuous critical evaluation to mitigate the risk of embedded biases and enhance decision quality. **[Inferred]**
 
-3. **Supporting Context:**  
+3. **Supporting Context:**
    The paper emphasizes that the successful implementation of cognitive models in innovation management hinges on an exhaustive and deep understanding of both internal company dynamics and external environmental factors. The use of linguistic scales introduces a degree of subjectivity that, while useful for qualitative assessment, necessitates cautious interpretation to avoid misguidance. **[Empirical]**
 
 ---
@@ -220,9 +220,9 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Coverage Fit:** High — The paper comprehensively addresses cognitive approaches in innovation management, making it highly relevant to executive decision-making and strategic planning.
 - **Bias & Cognitive Modeling Content:** Present — The discussion explicitly covers the role of cognitive charts, scenario planning, and the potential biases inherent in qualitative modeling.
 - **Clarity of Methods & Outcomes:** Clear — The methodologies, including the use of PEST analysis, cognitive structuration, and scenario-based modeling, are well-articulated, though the reliance on subjective assessments is noted.
-- **Areas with No Data:**  
-  - Insight Statement: No long-term quantitative validation of the cognitive model outcomes was provided.  
-  - Executive Decision-Making Context: Limited empirical evidence on actual executive adoption and outcomes in real-world settings.  
+- **Areas with No Data:**
+  - Insight Statement: No long-term quantitative validation of the cognitive model outcomes was provided.
+  - Executive Decision-Making Context: Limited empirical evidence on actual executive adoption and outcomes in real-world settings.
   - Supporting Context: The paper does not include comprehensive statistical analysis to support the predictive accuracy of the models.
 
 ## You (2025-03-23T06:05:48.953000+00:00)
@@ -465,21 +465,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -492,4 +492,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T06:07:32.611281+00:00)
 
 Karayev, R., & Naghiyev, M. (2012). Cognitive approach in development of innovation management models for company. *Procedia - Social and Behavioral Sciences, 58*, 812–819. https://doi.org/10.1016/j.sbspro.2012.09.1059
-

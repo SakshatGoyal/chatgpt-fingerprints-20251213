@@ -60,10 +60,9 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T20:43:13.700587+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 15 - C3-I6,Cultural Drift,Capability Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 37 - C2-I2,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Bold vs. Safe,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 10 - C1-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 34 - C2-I5,Signal Split,Evidence Frame,Unknown,Unknown,Now vs. Later,Unknown,Unknown  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 15 - C3-I6,Cultural Drift,Capability Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 37 - C2-I2,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Bold vs. Safe,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 10 - C1-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 34 - C2-I5,Signal Split,Evidence Frame,Unknown,Unknown,Now vs. Later,Unknown,Unknown
 CATEGORICAL MODULE 46 - C2-I1,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Unknown
-

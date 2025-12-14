@@ -115,8 +115,8 @@ Example Output Structure (Abbreviated)
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Tension statement**  
-> Full quote from module  
+**1. Tension statement**
+> Full quote from module
 — MODULE 1 - C3-I3, Archetype 3.txt
 
 [...]
@@ -125,10 +125,9 @@ Example Output Structure (Abbreviated)
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. Belief statement**  
-> Full quote from module  
+**1. Belief statement**
+> Full quote from module
 — MODULE 1 - C3-I3, Archetype 3.txt
-
 
 
 ⸻
@@ -159,43 +158,42 @@ This archetype operates in high-stakes, innovation-driven environments where for
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Executives frequently rely on intuition over formal financial models, even when such tools are accessible and relevant.**  
-> “Although advanced financial models such as NPV and IRR are available, executives in biotechnology predominantly rely on past experience and intuition for R&D decision making, which may introduce biases and inconsistencies in evaluating high-risk projects.”  
+**1. Executives frequently rely on intuition over formal financial models, even when such tools are accessible and relevant.**
+> “Although advanced financial models such as NPV and IRR are available, executives in biotechnology predominantly rely on past experience and intuition for R&D decision making, which may introduce biases and inconsistencies in evaluating high-risk projects.”
 — MODULE 1 - C3-I3, *Archetype 3.txt*
 
-**2. There is a repeated pattern of downplaying the value of structured analysis, despite evidence that formal tools improve outcome consistency.**  
-> “The persistent reliance on human judgment in pharmaceutical R&D, despite the availability of formal analytical methods […] introduces biases that can impair optimal decision-making.”  
+**2. There is a repeated pattern of downplaying the value of structured analysis, despite evidence that formal tools improve outcome consistency.**
+> “The persistent reliance on human judgment in pharmaceutical R&D, despite the availability of formal analytical methods […] introduces biases that can impair optimal decision-making.”
 — MODULE 11 - C3-I3, *Archetype 3.txt*
 
-**3. Cross-organizational alliances are often structured around assumed complementarities, which may mask unaddressed regulatory or coordination risks.**  
-> “The leadership appears to operate under the belief that combining specialized R&D with a vast commercial network will mitigate market entry risks, potentially underestimating the complexities of coordinating regulatory approvals across diverse geographies.”  
+**3. Cross-organizational alliances are often structured around assumed complementarities, which may mask unaddressed regulatory or coordination risks.**
+> “The leadership appears to operate under the belief that combining specialized R&D with a vast commercial network will mitigate market entry risks, potentially underestimating the complexities of coordinating regulatory approvals across diverse geographies.”
 — MODULE 4 - C3-I3, *Archetype 3.txt*
 
-**4. A strong cultural bias toward executive discretion can override process standardization, compromising long-term scalability.**  
-> “This reliance risks undermining the scalability and standardization of decision frameworks, potentially affecting long-term strategic performance.”  
+**4. A strong cultural bias toward executive discretion can override process standardization, compromising long-term scalability.**
+> “This reliance risks undermining the scalability and standardization of decision frameworks, potentially affecting long-term strategic performance.”
 — MODULE 1 - C3-I3, *Archetype 3.txt*
 
 ---
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. “Intuition reflects expertise better than numbers ever could.”**  
-> “A strong reliance on personal expertise can lead to overconfidence and may marginalize more rigorous quantitative methods.”  
+**1. “Intuition reflects expertise better than numbers ever could.”**
+> “A strong reliance on personal expertise can lead to overconfidence and may marginalize more rigorous quantitative methods.”
 — MODULE 1 - C3-I3, *Archetype 3.txt*
 
-**2. “Formal models are too rigid for high-uncertainty environments.”**  
-> “The entrenched belief in managerial intuition may overshadow objective data analysis, leading to overconfidence and flawed risk assessments.”  
+**2. “Formal models are too rigid for high-uncertainty environments.”**
+> “The entrenched belief in managerial intuition may overshadow objective data analysis, leading to overconfidence and flawed risk assessments.”
 — MODULE 11 - C3-I3, *Archetype 3.txt*
 
-**3. “Speed and familiarity are more valuable than precision in decision-making.”**  
-> “Balancing the need for systematic, data-driven analysis with the expedience and flexibility of intuitive judgment.”  
+**3. “Speed and familiarity are more valuable than precision in decision-making.”**
+> “Balancing the need for systematic, data-driven analysis with the expedience and flexibility of intuitive judgment.”
 — MODULE 1 - C3-I3, *Archetype 3.txt*
 
-**4. “Strategic partnerships offset internal weaknesses.”**  
-> “The leadership appears to operate under the belief that combining specialized R&D with a vast commercial network will mitigate market entry risks…”  
+**4. “Strategic partnerships offset internal weaknesses.”**
+> “The leadership appears to operate under the belief that combining specialized R&D with a vast commercial network will mitigate market entry risks…”
 — MODULE 4 - C3-I3, *Archetype 3.txt*
 
 ---
 
 Let me know if you’d like this paired with another archetype from the rest of the file or visualized as a presentation slide.
-

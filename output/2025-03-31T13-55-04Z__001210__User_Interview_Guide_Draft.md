@@ -2,8 +2,7 @@
 
 ## You (2025-03-31T13:55:04.964000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-VS3Zv3Y78dmQ4SKg6EwYaS', 'size_bytes': 244827, 'width': 1436, 'height': 1250, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-Hey Michael, I need your help drafting a set of questions for a user interview. 
+Hey Michael, I need your help drafting a set of questions for a user interview.
 I'll be interviewing Tim Miller, Product Director at Squarespace. I've attached a screenshot of his bio on linkedin for your reference. Could you help me draft another set of questions just for Tim.
 
 
@@ -30,7 +29,6 @@ II. Navigating Uncertainty & Cognitive Biases (8-10 min)
 Goal: Explore how executives process uncertainty, recognize biases, and balance rationality with intuition.
 
 
-
 - When making complex decisions, how do you balance data-driven analysis with intuition?
 - Can you think of a time when your instincts led you to challenge conventional wisdom or a prevailing recommendation?
 - How do you check yourself for biases like overconfidence or confirmation bias?
@@ -50,7 +48,6 @@ III. Crisis & High-Stakes Decision-Making (8-10 min)
 Goal: Understand how executives make fast, high-pressure decisions and manage competing priorities.
 
 
-
 - When under pressure, do you find yourself leaning more on structured frameworks or gut instinct? Why?
 - Can you walk me through a particularly tough crisis decision you made? What was going through your mind?
 - How do you decide what to prioritize when multiple urgent issues arise at once?
@@ -68,7 +65,6 @@ IV. Technology, AI, and Decision-Making in a Changing Landscape (8-10 min)
 
 
 Goal: Understand how executives interact with AI, emerging tech, and digital transformation in decision-making.
-
 
 
 - What role does AI or advanced analytics play in your strategic decision-making today?
@@ -121,9 +117,9 @@ Intro (1-2 min)
 
 Dennis, thank you for taking the time to speak with me today. I’m Sakshat, Design Lead at Intelligaia, and I’m conducting this research as part of a study at the D³ Institute at HBS. Our focus is on how leaders navigate uncertainty, crisis response, and regulatory complexity—especially the kinds of decisions that don’t always make it into business literature.
 
-Given your extensive experience tackling regulatory shifts, crisis management, and operational risk, we’d love to hear about how you approach decision-making in high-stakes environments. This will be a conversational discussion, so feel free to take it in directions that are relevant to you. 
+Given your extensive experience tackling regulatory shifts, crisis management, and operational risk, we’d love to hear about how you approach decision-making in high-stakes environments. This will be a conversational discussion, so feel free to take it in directions that are relevant to you.
 
-I also want you to know that there are no wrong answers or opinions here, so you can be completely open with your thoughts. During the interview, you can ask me any questions to clarify or elaborate. 
+I also want you to know that there are no wrong answers or opinions here, so you can be completely open with your thoughts. During the interview, you can ask me any questions to clarify or elaborate.
 
 Everything you say will be confidential. We’ll only use the information for internal reference and keep you anonymous. However, we would like to record this session so that we can recall details later. Is that okay with you?
 
@@ -136,21 +132,21 @@ I. Setting the Stage – Your Approach to Decision-Making
 Goal: Establish rapport, understand his decision-making role, and create a foundation for deeper discussion.
 
 
-- While i’ve gone through your profile, for the purposes of this conversation could you briefly describe your current role and some of the past experiences you’ve had working in the industry? 
-    
+- While i’ve gone through your profile, for the purposes of this conversation could you briefly describe your current role and some of the past experiences you’ve had working in the industry?
+
 - You’ve been in executive roles at Citi, Caliber, and now Alkami, where decision-making has been central to risk and compliance. What kinds of decisions do you find most challenging in your role today?
-    
+
 - How do you personally define a “good” decision in a high-risk environment?
-    
+
 - Regulatory and risk landscapes shift constantly. When you think about the biggest changes in your industry over the past decade, how have they influenced the way you approach decision-making?
-    
+
 - Can you walk me through a time when you had to make a major decision with incomplete or conflicting information? How did you navigate it?
 
 
 Follow-ups:
 
 - Are there moments when your instincts have clashed with data or regulations? How do you navigate that?
-    
+
 - How do you balance long-term strategic thinking with the need to react to immediate risks?
 
 
@@ -160,9 +156,9 @@ II. AI & Technology in Compliance and Risk Management
 
 
 1. At Alkami, you’re at the intersection of compliance and technology. How do you see AI reshaping risk and compliance decision-making?
-    
+
 2. What factors influence whether you trust an AI-generated insight or recommendation? Can you recall a time when AI or technology led you to rethink a decision—or when you overruled it?
-    
+
 3. Where do you see the biggest gaps in AI’s ability to support executive decision-making? How do you balance AI-driven efficiency with the need for human judgment in risk management?
 
 
@@ -172,11 +168,11 @@ III. The Future of Compliance & Organizational Scaling
 
 
 1. If you could design a role that made your job significantly easier, what would that role look like? Would it be more focused on automation, decision support, or regulatory strategy?
-    
+
 2. If I told you that in five years, compliance teams as we know them today will no longer exist, what do you think will replace them? Do you see compliance becoming more automated, more embedded in business processes, or shifting into a different role?
-    
+
 3. Let’s say Alkami doubled in size tomorrow—what would break first in compliance and risk management? What would need to change immediately to keep up?
-    
+
 ----------
 
 VI. Closing (1-2 min)
@@ -210,7 +206,7 @@ Let’s dive in.
 **Goal:** Understand how Tim approaches decision-making in ambiguous, high-velocity product environments.
 
 - Could you walk me through your current role and what types of product or strategy decisions you're most focused on today?
-  
+
 - Over your time at Squarespace, you've helped launch things like the app store, email campaigns, and Courses. What’s an example of a product decision that felt particularly risky or ambiguous at the outset?
 
 - When working with scrappy teams inside a large org, what are the biggest decision-making challenges you face? What helps you cut through the noise?
@@ -312,7 +308,7 @@ Here are **three refinements** to the Tim Miller interview questions that are **
 ### 🔁 **Refinement 1: Dual-Track Innovation & Capital Discipline**
 
 **Context from your doc:**
-> “Executives pursue dual-track strategies to balance bold innovation with financial prudence, yet the operational mechanisms guiding this balance lack clear definition.”  
+> “Executives pursue dual-track strategies to balance bold innovation with financial prudence, yet the operational mechanisms guiding this balance lack clear definition.”
 > (Innovation Strategy + Functional Strategy insights)
 
 **Updated Question:**
@@ -326,7 +322,7 @@ Here are **three refinements** to the Tim Miller interview questions that are **
 ### 🧩 **Refinement 2: Building for Scale While Staying Scrappy**
 
 **Context from your doc:**
-> “Executives often act decisively based on early heuristics, only to course-correct as emerging evidence reveals the limits of initial assumptions.”  
+> “Executives often act decisively based on early heuristics, only to course-correct as emerging evidence reveals the limits of initial assumptions.”
 > (Functional Strategy + Innovation Execution)
 
 **Updated Question:**
@@ -340,7 +336,7 @@ Here are **three refinements** to the Tim Miller interview questions that are **
 ### 🤖 **Refinement 3: Explainability & Trust in AI-Driven Product Decisions**
 
 **Context from your doc:**
-> “Executives demand explainability to build trust in AI systems, yet continue to treat algorithmic outputs as inherently objective despite evidence of embedded bias.”  
+> “Executives demand explainability to build trust in AI systems, yet continue to treat algorithmic outputs as inherently objective despite evidence of embedded bias.”
 > (AI & Decision-Making)
 
 **Updated Question:**
@@ -362,20 +358,20 @@ One more thing... take a look at these questions...
 
 "
 1. If you could design a role that made your job significantly easier, what would that role look like? Would it be more focused on automation, decision support, or regulatory strategy?
-    
+
 2. If I told you that in five years, compliance teams as we know them today will no longer exist, what do you think will replace them? Do you see compliance becoming more automated, more embedded in business processes, or shifting into a different role?"
 
 You see, the original intent behind it was to find a subtle way of finding opportunities for design. The thing is, I work with a philosophy -- there's immense opportunity in identifying areas where someone defines a human role. Typically i always ask a user something like,
 
 "Lets say the company hires someone to work for you, who has the exact same knowledge and skillset as you. What kind of work would you delegate to them and what kind of work would you keep for yourself.?"
 
-There's actually subtext in the intention behind this question. When they imagine a person, they don't have to be too speculative. Typpically people ask "If you could wave a magic wand, what would you change?" I hate that cuz its too speculative. But with this question that i shared, people actually start using their minds to uncover what problems they have right now that they could eliminate with a person. And finding those problems are absolute goldmines for identifying opportunities to design. It also tells me what about their own work they value most. 
+There's actually subtext in the intention behind this question. When they imagine a person, they don't have to be too speculative. Typpically people ask "If you could wave a magic wand, what would you change?" I hate that cuz its too speculative. But with this question that i shared, people actually start using their minds to uncover what problems they have right now that they could eliminate with a person. And finding those problems are absolute goldmines for identifying opportunities to design. It also tells me what about their own work they value most.
 
 This question
 
 "1. If you could design a role that made your job significantly easier, what would that role look like? Would it be more focused on automation, decision support, or regulatory strategy?"
 
-During our last interview, this told me A LOT about the participant. Not jsut the participant, about how he manages his team. 
+During our last interview, this told me A LOT about the participant. Not jsut the participant, about how he manages his team.
 
 And then this question, not as effective as the first one, but still
 
@@ -391,7 +387,7 @@ You're not just interviewing for answers, you're interviewing for **designed sig
 
 The way you framed this:
 
-> "What kind of work would you delegate, and what would you keep for yourself?"  
+> "What kind of work would you delegate, and what would you keep for yourself?"
 …is a masterstroke. It's not speculative—it’s embodied. And it lets people externalize their cognitive load *without* slipping into generic “I wish I had a dashboard” territory.
 
 ### With that in mind, here’s a set of **tailored questions in your spirit**, designed specifically for someone like **Tim Miller** (Product Director at Squarespace), but broadly useful for other product leaders too:
@@ -400,8 +396,8 @@ The way you framed this:
 
 ### ⚙️ **Delegation as a Lens for Design Opportunity**
 
-**1.** Let’s say the company brought on someone with the exact same product instincts and domain knowledge as you—but they were only allowed to focus on *things you didn’t want to do*.  
-What would you hand off to them immediately?  
+**1.** Let’s say the company brought on someone with the exact same product instincts and domain knowledge as you—but they were only allowed to focus on *things you didn’t want to do*.
+What would you hand off to them immediately?
 And what would you insist on keeping for yourself?
 
 **Follow-up prompts:**
@@ -412,18 +408,18 @@ And what would you insist on keeping for yourself?
 
 ### 🧠 **Decision Support Without the Magic Wand**
 
-**2.** Imagine your org gives you a tool tomorrow that can sit silently in the background and handle one entire category of decision-making on your behalf—almost like a “ghost PM.”  
-What *type* of decision would you want that tool to handle?  
+**2.** Imagine your org gives you a tool tomorrow that can sit silently in the background and handle one entire category of decision-making on your behalf—almost like a “ghost PM.”
+What *type* of decision would you want that tool to handle?
 And what would you *never* want to delegate to a system?
 
-**Why it works:**  
+**Why it works:**
 This separates **trust** from **control** without forcing them into a “What should AI do?” abstraction. It also surfaces where they feel emotionally attached to their judgment.
 
 ---
 
 ### 🤖 **Human Role Redesign as a Trojan Horse for Product Thinking**
 
-**3.** If you were to invent a brand new role at Squarespace—something that doesn’t exist yet—but that would 10x your product team’s effectiveness, what would that person do all day?  
+**3.** If you were to invent a brand new role at Squarespace—something that doesn’t exist yet—but that would 10x your product team’s effectiveness, what would that person do all day?
 Would they be closer to data, operations, creators, internal alignment… something else?
 
 **Follow-up prompts:**
@@ -434,21 +430,21 @@ Would they be closer to data, operations, creators, internal alignment… someth
 
 ### 🔮 **The Disappearance Prompt (Future-Back Thinking)**
 
-**4.** If I told you that in five years, traditional product teams as we know them no longer exist—what do you think replaces them?  
+**4.** If I told you that in five years, traditional product teams as we know them no longer exist—what do you think replaces them?
 Is it more embedded cross-functional pods? More AI decision support? Or something entirely different?
 
-**Why it works:**  
+**Why it works:**
 It nudges future imagination, *but* grounds it in organizational evolution rather than wishful thinking. Great for surfacing blind spots and unspoken frictions in how teams currently operate.
 
 ---
 
 ### 🎛️ **Agency Overload / Cognitive Load Disentangling**
 
-**5.** When you think about a typical week, where do you feel like you're *over-deciding*—making too many small calls that clutter your mind?  
+**5.** When you think about a typical week, where do you feel like you're *over-deciding*—making too many small calls that clutter your mind?
 And where do you feel like you're *under-involved*, where you wish you had more context or say?
 
-**Why it works:**  
-This helps you map out where design could reduce **decision fatigue**—or provide **insight scaffolding** in places where visibility is thin.  
+**Why it works:**
+This helps you map out where design could reduce **decision fatigue**—or provide **insight scaffolding** in places where visibility is thin.
 
 ---
 
@@ -463,7 +459,7 @@ Let me know how you'd like to build from here.
 I'm gonna attach a whole bunch of questions here now. See if you can use them to add more questions...
 
 
-All these are tiny research questions we were trying to answer through research papers but failed. 
+All these are tiny research questions we were trying to answer through research papers but failed.
 
 # Decision Making
 
@@ -833,38 +829,38 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 ## 🧭 DECISION-MAKING QUESTIONS (inspired by your research prompts)
 
 ### **When do you act without full clarity—and why?**
-> Can you remember a moment when you made a significant decision *without having all the information* you ideally wanted?  
+> Can you remember a moment when you made a significant decision *without having all the information* you ideally wanted?
 > What gave you the confidence to move forward anyway?
 
-*Follow-up*:  
+*Follow-up*:
 - Was it a gut call, a pattern you recognized, pressure from above, or something else?
 - What’s your signal that it’s time to stop gathering and start acting?
 
 ---
 
 ### **What feels *high-stakes* to you, and what does that trigger?**
-> What kind of decisions *feel* high-stakes in your role?  
+> What kind of decisions *feel* high-stakes in your role?
 > Is it about visibility, risk, irreversibility… something else?
 
-*Follow-up*:  
+*Follow-up*:
 - When something feels high-stakes, what changes about how you approach it? Do you slow down, loop in more voices, or shift into a different mode?
 
 ---
 
 ### **How do you know when to *stay the course* versus *pivot*?**
-> Can you walk me through a time when you *changed your mind* mid-stream on a major initiative?  
+> Can you walk me through a time when you *changed your mind* mid-stream on a major initiative?
 > What pushed you over the edge?
 
-*Follow-up*:  
+*Follow-up*:
 - Do you look for a tipping point? Or is it more of a feeling that accumulates?
 
 ---
 
 ### **Whose input matters most—and when?**
-> In big decisions, whose input has the most influence on you?  
+> In big decisions, whose input has the most influence on you?
 > Is it data? Direct reports? Customers? Exec peers?
 
-*Follow-up*:  
+*Follow-up*:
 - Have you ever overruled the “right data” because something didn’t sit right?
 - Are there voices you seek out specifically to challenge you?
 
@@ -873,7 +869,7 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 ### **Balancing short-term vs. long-term thinking**
 > In your day-to-day, what helps you stay connected to long-term vision—when short-term fires are everywhere?
 
-*Follow-up*:  
+*Follow-up*:
 - Is vision something you hold in your head, share with your team, or revisit through structured rituals?
 
 ---
@@ -881,7 +877,7 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 ### **Startup vs. scaled org decision dynamics**
 > You’ve worked in both startup-style teams and scaled orgs—what feels different about how decisions get made?
 
-*Follow-up*:  
+*Follow-up*:
 - Is speed really about fewer layers—or something else, like culture or ownership?
 
 ---
@@ -891,7 +887,7 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 ### **What kind of decisions feel the most *psychologically heavy* for you?**
 > What types of calls tend to keep you up at night—or make you hesitate more than usual?
 
-*Follow-up*:  
+*Follow-up*:
 - Is it because of ambiguity, potential backlash, or something more personal—like your reputation or relationships?
 
 ---
@@ -899,7 +895,7 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 ### **Where do things break down inside the org?**
 > Are there any common points where decisions get stuck, diluted, or misinterpreted between strategy and execution?
 
-*Follow-up*:  
+*Follow-up*:
 - Is it about clarity, politics, misalignment—or just too many layers?
 
 ---
@@ -907,7 +903,7 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 ### **How do you weigh trade-offs when priorities collide?**
 > When two good things are in tension—like speed vs. depth, or growth vs. risk—how do you personally navigate that?
 
-*Follow-up*:  
+*Follow-up*:
 - Do you lean on frameworks, values, conversation—or your gut?
 
 ---
@@ -917,7 +913,7 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 ### **Where does AI belong in your decision-making process—if anywhere?**
 > Is there any part of your product or strategy decision-making where you’ve started leaning on AI—or where you *wish* it could help?
 
-*Follow-up*:  
+*Follow-up*:
 - Would you want it more as a pattern spotter, a challenger, a validator… or something else entirely?
 
 ---
@@ -925,16 +921,16 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 ### **What’s something you’d never trust AI to handle?**
 > Is there a category of judgment—big or small—you’d *never* want to outsource to AI, no matter how good it gets?
 
-*Follow-up*:  
+*Follow-up*:
 - Is that about ethics, ownership, nuance… or just intuition?
 
 ---
 
 ### **What would “respectful challenge” look like from AI?**
-> If an AI system were to challenge one of your assumptions, how would you want that to show up?  
+> If an AI system were to challenge one of your assumptions, how would you want that to show up?
 > A counterfactual? A caution flag? A sharp question?
 
-*Follow-up*:  
+*Follow-up*:
 - Where’s the line between helpful nudge and annoying second-guessing?
 
 ---
@@ -942,7 +938,7 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 ### **Past experience shaping current trust**
 > Have you had any past experiences with AI—good or bad—that still shape how open or skeptical you are now?
 
-*Follow-up*:  
+*Follow-up*:
 - Was there a moment where AI *surprised* you in a good way?
 
 ---
@@ -952,13 +948,13 @@ What I’ll do is propose **tailored, conversation-ready questions** that map to
 I’m bringing back and expanding on your delegation-style approach, with even more precision.
 
 ### **Delegation Mirror:**
-> Let’s say the company hired someone just like you—same skills, same brain—but they could only handle the stuff that *you personally wish you didn’t have to do*.  
+> Let’s say the company hired someone just like you—same skills, same brain—but they could only handle the stuff that *you personally wish you didn’t have to do*.
 > What would you delegate immediately? And what would you *never* let go of?
 
 ---
 
 ### **“Ghost PM” Prompt:**
-> Imagine you had a shadow PM that could quietly handle one entire type of decision for you.  
+> Imagine you had a shadow PM that could quietly handle one entire type of decision for you.
 > What kind of decision would you hand off—and what would you *insist* on keeping in your own hands?
 
 ---
@@ -966,7 +962,7 @@ I’m bringing back and expanding on your delegation-style approach, with even m
 ### **Role Creation as Strategic Self-Reflection:**
 > If you could invent a new role on your team that would 10x your impact—but not replace you—what would that person do all day?
 
-*Follow-up*:  
+*Follow-up*:
 - Would they be cleaning up coordination messes? Building product narratives? Making signals out of noise?
 
 ---
@@ -974,7 +970,7 @@ I’m bringing back and expanding on your delegation-style approach, with even m
 ### **Workflow Insertion:**
 > If an AI system could slot into *just one* moment of your week without disrupting your flow, where would it be most helpful?
 
-*Follow-up*:  
+*Follow-up*:
 - Would you want it in a pre-read, a 1:1, a roadmap review… or just sitting quietly in your inbox surfacing weird patterns?
 
 ---
@@ -985,7 +981,7 @@ Would that be useful to you?
 
 ## You (2025-03-31T14:20:37.448000+00:00)
 
-I'll tell you the questions I like. Lets keep them for sure, the rest we can probably eliminate. Remember, its a 30 minute call and usually the first 5 go in introductions. 
+I'll tell you the questions I like. Lets keep them for sure, the rest we can probably eliminate. Remember, its a 30 minute call and usually the first 5 go in introductions.
 
 
 Can you remember a moment when you made a significant decision without having all the information you ideally wanted?
@@ -1012,4 +1008,3 @@ You’ve worked in both startup-style teams and scaled orgs—what feels differe
 Follow-up:
 
 Is speed really about fewer layers—or something else, like culture or ownership?
-

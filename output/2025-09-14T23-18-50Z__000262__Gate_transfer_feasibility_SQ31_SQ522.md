@@ -79,4 +79,3 @@ Let me know if you'd like this adapted for:
 * Direct API call to an external data source (e.g., FlightAware or Cirium)
 * Ongoing tracking (daily gate changes as flight date approaches)
 * Or a simpler travel checklist for yourself.
-

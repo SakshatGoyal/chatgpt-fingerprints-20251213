@@ -8,7 +8,7 @@ Hey, in the following code, I want to add just one more filter that is part of t
 Module ID,Strategy Type,Tension Axis,Ambiguity Type,Framing Move,Friction Archetype,Stabilizer,False Clarity,Org Implication,Functional Modality,Regulatory Scope,Temporal Coupling Sensitivity,Market Dispersion,Capital Substrate Intensity,Decomposability Gradient,Temporal Value Elasticity,Knowledge Codifiability,Cluster Label
 
 
-Please tell me where in the code I'll need to make the necessary modification. 
+Please tell me where in the code I'll need to make the necessary modification.
 
 ----
 
@@ -78,19 +78,19 @@ ALL_FILTERABLE_COLUMNS = STAGE_COLUMNS + FILTER_COLUMNS
 DEFAULT_NODE_COLOR = 'rgba(0, 17, 65, 1)'
 
 # Link color when no filters are active
-DEFAULT_LINK_COLOR = 'rgba(130, 207, 255, 0.3)'     
+DEFAULT_LINK_COLOR = 'rgba(130, 207, 255, 0.3)'
 
 # Node color for highlight subset
-HIGHLIGHT_NODE_COLOR = 'rgba(0, 67, 206, 1)'  
+HIGHLIGHT_NODE_COLOR = 'rgba(0, 67, 206, 1)'
 
 # Node color for non-highlight subset
-NON_HIGHLIGHT_NODE_COLOR = 'rgba(200,200,200,0.4)'  
+NON_HIGHLIGHT_NODE_COLOR = 'rgba(200,200,200,0.4)'
 
 # Link color for highlight subset
-HIGHLIGHT_LINK_COLOR = 'rgba(0, 67, 206, 0.8)'   
+HIGHLIGHT_LINK_COLOR = 'rgba(0, 67, 206, 0.8)'
 
 # Link color for non-highlight subset
-NON_HIGHLIGHT_LINK_COLOR = 'rgba(160,160,160,0.2)'  
+NON_HIGHLIGHT_LINK_COLOR = 'rgba(160,160,160,0.2)'
 
 # Donut color scheme for each wedge (example palette):
 DONUT_COLORS = [
@@ -604,8 +604,8 @@ def update_visuals(*args):
                 showlegend=False
             )
             donut_fig.add_trace(pie_trace, row=1, col=idx+1)
-        
-        
+
+
         annotations = []
         for i, trace in enumerate(donut_fig['data']):
             if isinstance(trace, go.Pie) and 'domain' in trace and 'x' in trace['domain']:
@@ -824,10 +824,9 @@ Let me know if you want to animate the transition or remember the toggle across 
 
 ## You (2025-04-08T18:40:51.429365+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-FmQKBwsy4FLd42Gh8QsDuE', 'size_bytes': 766496, 'width': 1526, 'height': 975, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-Ok, 2 more changes, 
+Ok, 2 more changes,
 
-1. for each of these node columns, I want to add a custom label. and I need to be able to edit the label myself. It should be left aligned, about 24px above the overall chart, with a responsive width. Since it'll lead to labels neds to each other, lets make sure to add an internal padding on the right of every label for about 24px. 
+1. for each of these node columns, I want to add a custom label. and I need to be able to edit the label myself. It should be left aligned, about 24px above the overall chart, with a responsive width. Since it'll lead to labels neds to each other, lets make sure to add an internal padding on the right of every label for about 24px.
 
 2. You see the non-highlighted nodes... Right now they have a black border outside them. I changed the color to gray, but i don't want to see the black outline. How do we fix it?
 
@@ -926,7 +925,7 @@ html.Div([
 
 ---
 
-Let me know if you want these to be dynamically tied to the dropdown selection (instead of static from `STAGE_COLUMNS`), or editable in the browser.  
+Let me know if you want these to be dynamically tied to the dropdown selection (instead of static from `STAGE_COLUMNS`), or editable in the browser.
 
 Ready to move on to **removing the black node borders**?
 
@@ -1061,10 +1060,9 @@ Happy to help tweak the aesthetic.
 
 ## You (2025-04-08T19:04:46.143297+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-6fbHtgWN7bciW6XHphHaDw', 'size_bytes': 171219, 'width': 1536, 'height': 408, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-the labels are not necessarily aligned with the columns. I think we made one mistake - assuming all labels should be left alligned. Maybe we could consider keeping all left alligned, while leaving about 320px from the right to add some padding, and we'll make all the text boxes 320px wide max. 
+the labels are not necessarily aligned with the columns. I think we made one mistake - assuming all labels should be left alligned. Maybe we could consider keeping all left alligned, while leaving about 320px from the right to add some padding, and we'll make all the text boxes 320px wide max.
 
-Also, text boxes have to be alligned with the sankey. If you remember there's a filter that allows me to hide some columns on occassion. 
+Also, text boxes have to be alligned with the sankey. If you remember there's a filter that allows me to hide some columns on occassion.
 
 ---
 
@@ -1074,10 +1072,10 @@ all that being said, is there a way to introduce these titles in the way i menti
 
 Yes — we can absolutely add the **column titles above the Sankey chart** exactly how you described:
 
-> ✅ Without touching the Sankey chart code  
-> ✅ Responsive to hidden/visible columns  
-> ✅ Left-aligned within a max-width (320px)  
-> ✅ With padding from the right edge  
+> ✅ Without touching the Sankey chart code
+> ✅ Responsive to hidden/visible columns
+> ✅ Left-aligned within a max-width (320px)
+> ✅ With padding from the right edge
 
 ---
 
@@ -1307,13 +1305,12 @@ Let me know if you want those `stage` values replaced with cleaner/custom names 
 
 ```python
 CUSTOM_STAGE_LABELS.get(stage, stage)
-``` 
+```
 
 Happy to add that next.
 
 ## You (2025-04-08T19:12:31.168458+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-EvhxJ5Yes2mfFTiE1U7reE', 'size_bytes': 37030, 'width': 1536, 'height': 119, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 my main issue is making sure the labels align with the nodes. Look at the difference between tension and org implication
 
 ## ChatGPT (2025-04-08T19:12:32.690724+00:00)
@@ -1330,8 +1327,8 @@ Since Plotly's Sankey layout uses explicit `.x` positions per node column, we ca
 
 ## 🛠 Here's the plan:
 
-1. Keep the `stage-labels-container` absolutely positioned over the chart  
-2. Place a label `div` at the exact `.x` value for each stage  
+1. Keep the `stage-labels-container` absolutely positioned over the chart
+2. Place a label `div` at the exact `.x` value for each stage
 3. You already have `selected_stages`, so we’ll extract their `.x` from the Sankey layout
 
 Let’s walk it through:
@@ -1433,13 +1430,13 @@ You're very close to a pixel-perfect setup here.
 there's still misalignment. Ok lets do this...
 
 
-Imagine a container with a number equally distributed points. For now, lets start with 7, and then they'll reduce to 6, 5, etc... depending on which STAGE_COLUMNS are selected. 
+Imagine a container with a number equally distributed points. For now, lets start with 7, and then they'll reduce to 6, 5, etc... depending on which STAGE_COLUMNS are selected.
 
-the points are end to end on a screen, but with 160px padding on the left and the right. 
+the points are end to end on a screen, but with 160px padding on the left and the right.
 
-We'll keep those positions as anchors for our text boxes. 
+We'll keep those positions as anchors for our text boxes.
 
-Those text boxes will be 240px wide, and center alligned with those imaginary points. This way, they'll be mostly alligned with the sankey node positions. 
+Those text boxes will be 240px wide, and center alligned with those imaginary points. This way, they'll be mostly alligned with the sankey node positions.
 
 ---
 
@@ -1586,7 +1583,7 @@ We can build from here.
 
 couple of things...
 
-I want the ability to add custom names, not just the default column names. 
+I want the ability to add custom names, not just the default column names.
 
 2. I want about 64px gap between the donut charts and these new labels. So i think just adding a 64px top padding to the labels will be enough.
 
@@ -1596,7 +1593,7 @@ Perfect — we can do both:
 
 ---
 
-## ✅ 1. **Custom label names**  
+## ✅ 1. **Custom label names**
 We'll define a dictionary of user-friendly stage titles and look them up instead of using raw column names.
 
 ### ✏️ Add this near the top of your script (with other constants):
@@ -1690,7 +1687,7 @@ Let me know if you'd like hover tooltips that show the original column name too.
 
 couple of things...
 
-1. the labels are getting truncated when i add my own labels. FYI, they're more like entire sentences. So lets add some way to wrap the text instead of truncating it. 
+1. the labels are getting truncated when i add my own labels. FYI, they're more like entire sentences. So lets add some way to wrap the text instead of truncating it.
 
 2. Somehow the padding above the label leaves no impact. I changed it from 64px to 500px, somehow the labels are at the same place.
 
@@ -1912,7 +1909,6 @@ Let me know if you'd like help tuning these colors to match your exact brand pal
 
 ## You (2025-04-08T21:48:51.771002+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-RSTr6YcjhiekCQm6AvCNgi', 'size_bytes': 43306, 'width': 173, 'height': 140, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 a small thing... you know this tooltip? I just want to add the tag name in this tooltip - almost acting like the tooltip heading.
 
 ## ChatGPT (2025-04-08T21:48:56.877422+00:00)
@@ -1973,8 +1969,7 @@ Let me know if you also want:
 
 ## You (2025-04-08T21:53:49.632397+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-C54jdHPfobzPt6XtMNvg8L', 'size_bytes': 199525, 'width': 1034, 'height': 930, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-lets take a label like this (Partial). instead of falling outside the arc, I want all the labels to be right below the donut , almost like a list of legends and their values. 
+lets take a label like this (Partial). instead of falling outside the arc, I want all the labels to be right below the donut , almost like a list of legends and their values.
 
 So basically, for each donut, I want the donut specific legend right below it, with the legend name and the percentage.
 
@@ -2257,7 +2252,7 @@ Ah yes — the issue is indentation. Your `pie_trace` and all the code that foll
             ...
 
             color_list = [...]
-        
+
         pie_trace = go.Pie(  # ❌ This is outside the loop
             ...
         )
@@ -2404,7 +2399,7 @@ We’re super close to wrapping this!
 
 ## You (2025-04-08T22:00:46.906525+00:00)
 
-i made the change and it resulted in a few more errors. Here, take this and tell me what to do with this 
+i made the change and it resulted in a few more errors. Here, take this and tell me what to do with this
 
 
 donut_fig.add_annotation(
@@ -2480,8 +2475,7 @@ Let me know if you'd like to:
 
 ## You (2025-04-08T22:02:51.385206+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-Pi73gWsmLsksDFv913KmSs', 'size_bytes': 110697, 'width': 1536, 'height': 285, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-i don't see the values we spent so much time trying to add. I only see the donut chart. I need to display the values below it. 
+i don't see the values we spent so much time trying to add. I only see the donut chart. I need to display the values below it.
 
 Below each donut there needs to be a legend, and that legend should also have its corresponding values
 
@@ -2718,7 +2712,7 @@ why not just fix the pasted block i gave you
 
 ## ChatGPT (2025-04-08T22:06:01.353988+00:00)
 
-Fair point — you're asking:  
+Fair point — you're asking:
 > “Why can't we just fix the annotation logic in the block I already have?”
 
 You're totally right to ask that — and yes, we **can fix your existing `annotations = []` block**. Here’s the core issue and how to patch it cleanly.
@@ -2819,9 +2813,9 @@ hey, so this has resulted in us removing the beautiful titles for the donuts in 
 
 - having a title in the middle of the donut
 - having a form of legend (meaning the legend should also include the colors
-- make sure the legends are not overlapping with the donut, and have a bit of gap between them and the donut. 
+- make sure the legends are not overlapping with the donut, and have a bit of gap between them and the donut.
 
-Return only the code. 
+Return only the code.
 
     # -- Build Donut Charts --
     # For each filter column, we show a donut of the highlight subset distribution
@@ -2882,7 +2876,7 @@ Return only the code.
                     font=dict(size=14, family="'Anonymous Pro', monospace")
                 )
             )
-        
+
     # Build text block for the legend below
         legend_lines = [
             f"• {label} – {value / sum(values) * 100:.1f}%"
@@ -2904,7 +2898,7 @@ Return only the code.
                 font=dict(size=14, family="'Anonymous Pro', monospace")
             )
         )
-    
+
         annotations = []
         for i, trace in enumerate(donut_fig['data']):
             if isinstance(trace, go.Pie) and 'domain' in trace and 'x' in trace['domain']:
@@ -3028,12 +3022,11 @@ Return only the code.
 
 ## You (2025-04-08T22:13:38.878887+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-1kmpJZaGgQjGTmV9vkC37q', 'size_bytes': 66982, 'width': 1536, 'height': 160, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Rectify the following problems:
 
 Donut titles are no longer inside the donut, they're bleeding outside the donut
-They're no longer in the center of the donut, they're off-center, both vertically and horizontally. 
-The legends are overlapping with the donut chart. 
+They're no longer in the center of the donut, they're off-center, both vertically and horizontally.
+The legends are overlapping with the donut chart.
 
 ---
 
@@ -3125,9 +3118,9 @@ Let me know if you'd like:
 
 ## You (2025-04-08T22:17:43.889550+00:00)
 
-stop telling me to PUT THINGS OUTSIDE THE LOOP. you must know by now that I don't understand that. 
+stop telling me to PUT THINGS OUTSIDE THE LOOP. you must know by now that I don't understand that.
 
-Also, i checked these two blocks. they're right below one another. Why not just place the entire block for me to paste as is? 
+Also, i checked these two blocks. they're right below one another. Why not just place the entire block for me to paste as is?
 
 Now, product the entire block. Make sure I don't see the errors we've discussed (your modifications made no difference to the present output.
 
@@ -3222,8 +3215,8 @@ Now, product the entire block. Make sure I don't see the errors we've discussed 
 
 Understood — here's the full, corrected **one-block replacement** for your donut chart section that ensures:
 
-- Donut titles are **centered** inside each chart  
-- Legends are **below** the donut and **not overlapping**  
+- Donut titles are **centered** inside each chart
+- Legends are **below** the donut and **not overlapping**
 - Each bullet in the legend includes the **matching color**
 
 ---
@@ -3319,4 +3312,3 @@ Let me know if you want:
 - Custom titles inside the donut (instead of raw column names)
 - Legends to include **raw counts** as well as percentages
 - A toggle to show/hide these legends entirely
-

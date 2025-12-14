@@ -117,23 +117,22 @@ This is where the strategic idea is introduced, contextualized, and supported.
 ### 🔹 What to Look For:
 
 - **Insight Statement**
-    
+
     Concise, critical framing of a core idea. Often challenges prevailing logic or introduces a surprising pattern.
-    
+
 
 - **Executive Decision-Making Context**
-    
+
     Includes:
-    
+
     - Strategic dilemma (what’s at stake?)
     - Underlying beliefs and biases (what assumptions are being surfaced?)
     - Expected vs. actual outcomes (what went differently than planned?)
     - Broader implications (what could change systemically?)
 
 - **Supporting Context**
-    
+
     Empirical grounding or theoretical basis for the insight. Includes references to data, frameworks, case studies, or precedent.
-    
 
 
 ---
@@ -302,7 +301,7 @@ This is **not** a perfect science—it’s a pattern recognition exercise. Trust
 
 You’ve got this. Let’s bring the rigor.
 
---- 
+---
 
 Let me know if you want this turned into a training doc, example mapping sheet, or live working session structure—I’ve got you.
 
@@ -377,4 +376,3 @@ If you’re building your team’s workflow, here’s a simple fallback stack:
 ---
 
 Let me know if you'd like a visual decision tree or quick-reference card for this—could be a great support artifact during your working sessions.
-

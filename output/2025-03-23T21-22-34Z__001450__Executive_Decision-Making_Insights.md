@@ -160,80 +160,80 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Integration by Essentials (IBE)
 
-**Insight Statement:**  
+**Insight Statement:**
 Effective CEOs distill complex scenarios into their core components through Integration by Essentials, allowing rapid retrieval of critical knowledge and facilitating swift, informed decisions. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives often face information overload in turbulent environments, making it challenging to isolate what truly matters.  
-- **Underlying Beliefs & Biases:** There is a tendency to treat all information equally rather than prioritizing essential factors.  
-- **Expected vs. Actual Outcomes:** When CEOs correctly identify fundamental requirements—such as resource adequacy and risk-payback alignment—they achieve faster, more robust decisions.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives often face information overload in turbulent environments, making it challenging to isolate what truly matters.
+- **Underlying Beliefs & Biases:** There is a tendency to treat all information equally rather than prioritizing essential factors.
+- **Expected vs. Actual Outcomes:** When CEOs correctly identify fundamental requirements—such as resource adequacy and risk-payback alignment—they achieve faster, more robust decisions.
 - **Broader Implications:** This approach suggests that training to develop a “filing system” of essential knowledge can be critical for improving strategic responses. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper’s empirical evidence from think‐aloud interviews shows that “good minds” quickly dismiss non-viable options (e.g., the high-risk Arctic exploration) by focusing on essentials like market expectations and resource constraints. This ability to retrieve and apply core insights underscores the effectiveness of IBE. **[Empirical]**
 
 ---
 
 ### 2. Iterative Spiraling Process in Decision-Making
 
-**Insight Statement:**  
+**Insight Statement:**
 The spiraling process—characterized by rapid looping through scenario assessment, application of guiding principles, and alternative testing—enables CEOs to refine their decisions iteratively, balancing speed with thoroughness. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** In time-sensitive situations, leaders must choose among several strategic alternatives without sacrificing decision quality.  
-- **Underlying Beliefs & Biases:** Reliance on initial impressions may lead to anchoring bias; iterative review mitigates this risk.  
-- **Expected vs. Actual Outcomes:** Effective executives revisit and adjust their choices, ensuring that the final decision aligns closely with the firm’s core requirements and market realities.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** In time-sensitive situations, leaders must choose among several strategic alternatives without sacrificing decision quality.
+- **Underlying Beliefs & Biases:** Reliance on initial impressions may lead to anchoring bias; iterative review mitigates this risk.
+- **Expected vs. Actual Outcomes:** Effective executives revisit and adjust their choices, ensuring that the final decision aligns closely with the firm’s core requirements and market realities.
 - **Broader Implications:** Organizations can benefit from structured decision loops that promote re-evaluation and adaptive strategy formation. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The study documents a three-loop process where CEOs first “zoom in” on promising options, then apply principles to evaluate them, and finally test these choices against alternative scenarios. This methodical spiraling reduces errors and aligns decisions with long-term value creation. **[Empirical]**
 
 ---
 
 ### 3. Role of Guiding Principles in Mitigating Cognitive Biases
 
-**Insight Statement:**  
+**Insight Statement:**
 By consistently applying guiding principles—such as rationality, value creation, and independence—CEOs establish a cognitive framework that counteracts biases like anchoring and overconfidence, leading to more objective decision making. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must navigate cognitive pitfalls that can derail fast decisions, especially when under pressure.  
-- **Underlying Beliefs & Biases:** There is an inherent risk of overvaluing initial cues and succumbing to groupthink or external pressures.  
-- **Expected vs. Actual Outcomes:** CEOs who articulate and adhere to core principles tend to achieve decisions that are more balanced and less prone to bias.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must navigate cognitive pitfalls that can derail fast decisions, especially when under pressure.
+- **Underlying Beliefs & Biases:** There is an inherent risk of overvaluing initial cues and succumbing to groupthink or external pressures.
+- **Expected vs. Actual Outcomes:** CEOs who articulate and adhere to core principles tend to achieve decisions that are more balanced and less prone to bias.
 - **Broader Implications:** Formalizing these principles in decision protocols can foster a culture of disciplined, fact-based decision making across organizations. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Empirical evidence in the paper reveals that effective CEOs routinely ask probing questions and seek external expert opinions to test their assumptions, ensuring that their choices are rooted in observable facts rather than intuition alone. This principled approach serves as a safeguard against common cognitive errors. **[Empirical]**
 
 ---
 
 ### 4. Balancing Intuition and Rational Analysis
 
-**Insight Statement:**  
+**Insight Statement:**
 Successful decision makers blend intuitive insights with systematic rational analysis, harnessing the subconscious storage of past experiences alongside deliberate verification to arrive at sound strategic choices. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders face the challenge of relying solely on gut feelings, which can be error-prone, or on exhaustive analysis, which can slow decision making.  
-- **Underlying Beliefs & Biases:** There is a delicate balance between trusting intuition and avoiding the pitfalls of overanalysis that can lead to decision paralysis.  
-- **Expected vs. Actual Outcomes:** The synthesis of intuition with rational scrutiny results in decisions that are both swift and well-founded.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders face the challenge of relying solely on gut feelings, which can be error-prone, or on exhaustive analysis, which can slow decision making.
+- **Underlying Beliefs & Biases:** There is a delicate balance between trusting intuition and avoiding the pitfalls of overanalysis that can lead to decision paralysis.
+- **Expected vs. Actual Outcomes:** The synthesis of intuition with rational scrutiny results in decisions that are both swift and well-founded.
 - **Broader Implications:** Developing capabilities in both intuitive reasoning and analytical rigor is essential for cultivating adaptive leadership in complex environments. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper provides numerous examples where CEOs retrieve essential knowledge from their subconscious and then methodically assess the viability of strategic alternatives. This hybrid approach reinforces the notion that intuition and analysis are not mutually exclusive but complementary processes. **[Empirical]**
 
 ---
 
 ### 5. Core Characteristics of Effective Thinkers: Focus, Motivation, and Self-Awareness
 
-**Insight Statement:**  
+**Insight Statement:**
 Effective CEOs exhibit a distinct triad of focus, intrinsic motivation, and self-awareness, which underpin their capacity to swiftly engage with complex scenarios and maintain clarity amidst competing priorities. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must contend with distractions and the potential dilution of their decision-making process in dynamic environments.  
-- **Underlying Beliefs & Biases:** Overconfidence and a lack of introspection can lead to poor strategic choices, whereas a disciplined focus enables clarity.  
-- **Expected vs. Actual Outcomes:** High levels of focus and self-awareness drive fact-based questioning and continuous self-monitoring, which align decision outcomes with long-term strategic goals.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must contend with distractions and the potential dilution of their decision-making process in dynamic environments.
+- **Underlying Beliefs & Biases:** Overconfidence and a lack of introspection can lead to poor strategic choices, whereas a disciplined focus enables clarity.
+- **Expected vs. Actual Outcomes:** High levels of focus and self-awareness drive fact-based questioning and continuous self-monitoring, which align decision outcomes with long-term strategic goals.
 - **Broader Implications:** Organizations should cultivate these traits in emerging leaders through targeted training and development programs. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Observational data from the study indicate that effective CEOs consistently engaged with the decision scenario by asking critical questions and reflecting on their decision-making processes. This disciplined focus starkly contrasts with the less effective counterparts, who were prone to distraction and unfocused deliberations. **[Empirical]**
 
 ---
@@ -243,9 +243,9 @@ Observational data from the study indicate that effective CEOs consistently enga
 - **Coverage Fit:** High — The paper robustly addresses executive decision-making, integrating both intuitive and analytical approaches.
 - **Bias & Cognitive Modeling Content:** Present — It thoroughly examines cognitive biases, underlying mental models, and how guiding principles mitigate these biases.
 - **Clarity of Methods & Outcomes:** Clear — The qualitative design and iterative process model are explicitly articulated, with detailed empirical support.
-- **Areas with No Data:**  
-    - Insight Statement: All key themes are supported by empirical data.  
-    - Executive Decision-Making Context: Each context is substantiated by observations from the study.  
+- **Areas with No Data:**
+    - Insight Statement: All key themes are supported by empirical data.
+    - Executive Decision-Making Context: Each context is substantiated by observations from the study.
     - Supporting Context: Extensive empirical evidence underpins the insights presented.
 
 ## You (2025-03-23T21:23:51.682000+00:00)
@@ -537,21 +537,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -564,4 +564,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T21:26:34.344404+00:00)
 
 Woiceshyn, J. (2009). Lessons from “good minds”: How CEOs use analysis, intuition and guiding principles to make strategic decisions. *Long Range Planning, 42*(3), 298–319. https://doi.org/10.1016/j.lrp.2009.05.002
-

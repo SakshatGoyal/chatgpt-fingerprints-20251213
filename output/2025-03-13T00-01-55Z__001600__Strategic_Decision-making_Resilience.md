@@ -8,8 +8,8 @@ Summarize
 
 ## **Strategic Decision-making in Turbulent Environments: A Case Study of Resilient Organizations**
 
-**Author(s):** Sara Kausar, Kalsoom Bibi  
-**Published:** July-September, 2023  
+**Author(s):** Sara Kausar, Kalsoom Bibi
+**Published:** July-September, 2023
 
 ---
 
@@ -66,4 +66,3 @@ While methodologically robust, the case study approach introduces limitations su
 - Teece, D. J., Pisano, G., & Shuen, A. "Dynamic Capabilities and Strategic Management." *Strategic Management Journal*, vol. 18, no. 7, 1997, pp. 509–533.
 - Teece, D. J. "The Foundations of Enterprise Performance: Dynamic and Ordinary Capabilities in an (Economic) Theory of Firms." *Academy of Management Perspectives*, vol. 28, no. 4, 2014, pp. 328–352.
 - Wilden, R., Devinney, T. M., & Dowling, G. R. "The Architecture of Dynamic Capability Research: Identifying the Building Blocks of a Configurational Approach." *Academy of Management Annals*, vol. 10, no. 1, 2016, pp. 997–1069.
-

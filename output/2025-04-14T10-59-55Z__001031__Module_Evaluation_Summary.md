@@ -87,4 +87,3 @@ MODULE 3 - C4-I6,Investor Relationship Management,Limited Mandates,Sequenced Tim
 MODULE 3 - C5-I1,Resource Allocation Agility,Limited Mandates,Sequenced Timing,Interlinked,Medium-Term Resilience
 MODULE 30 - C1-I4,Brand Heritage Scaling,Limited Mandates,Sequenced Timing,Interlinked,Medium-Term Resilience
 MODULE 30 - C1-I5,Outcome-Based Pricing Transition,Mandate-Driven,Coordinated Timing,Interlinked,Medium-Term Resilience
-

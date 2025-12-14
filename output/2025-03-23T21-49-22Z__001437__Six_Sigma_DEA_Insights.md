@@ -160,48 +160,48 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Topic 1: Integration of Six Sigma and DEA for Quality Assessment
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Integrating Six Sigma and DEA offers a robust dual-framework that enhances quality evaluation by linking process performance metrics with operational efficiency, challenging the assumption that traditional methods alone are sufficient." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Balancing the precision of process improvement against the challenge of measuring operational efficiency using separate methodologies.  
-- **Underlying Beliefs & Biases:** There is a common bias that improving process metrics (via Six Sigma) inherently guarantees overall service quality without considering the nuances of resource allocation.  
-- **Expected vs. Actual Outcomes:** While standard quality assessments focus on defect reduction, the integrated approach reveals hidden inefficiencies in resource usage, prompting a reevaluation of quality strategies.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Balancing the precision of process improvement against the challenge of measuring operational efficiency using separate methodologies.
+- **Underlying Beliefs & Biases:** There is a common bias that improving process metrics (via Six Sigma) inherently guarantees overall service quality without considering the nuances of resource allocation.
+- **Expected vs. Actual Outcomes:** While standard quality assessments focus on defect reduction, the integrated approach reveals hidden inefficiencies in resource usage, prompting a reevaluation of quality strategies.
 - **Broader Implications:** This integrated framework compels executives to adopt a multifaceted performance management approach, which may drive strategic shifts towards continuous improvement initiatives that bridge process and resource optimization. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The study applied both Six Sigma—evaluating metrics like sigma levels and yield—and DEA, which measured efficiency under CRS and VRS models. The combined analysis on 25 Colombian banks demonstrates that banks with higher Six Sigma performance tend to align with optimal DEA efficiency; however, discrepancies in critical quality dimensions underscore the need for a more integrated view of operational performance. **[Empirical]**
 
 ---
 
 ### Topic 2: Identification of Operational Inefficiencies in Banking Services
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Despite high performance in certain operational areas, many banks exhibit significant inefficiencies, particularly in response time and channel efficiency, which critically undermine overall service quality." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Addressing the disparity between strong performance in procedural domains versus deficiencies in customer-centric service dimensions such as timely responses and efficient channels.  
-- **Underlying Beliefs & Biases:** Executives might assume that high accuracy in procedural areas automatically equates to superior service quality, overlooking the vital importance of responsiveness and accessibility.  
-- **Expected vs. Actual Outcomes:** While quality initiatives typically target overall process improvement, the empirical evidence reveals that specific dimensions lag, impacting customer satisfaction and trust.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Addressing the disparity between strong performance in procedural domains versus deficiencies in customer-centric service dimensions such as timely responses and efficient channels.
+- **Underlying Beliefs & Biases:** Executives might assume that high accuracy in procedural areas automatically equates to superior service quality, overlooking the vital importance of responsiveness and accessibility.
+- **Expected vs. Actual Outcomes:** While quality initiatives typically target overall process improvement, the empirical evidence reveals that specific dimensions lag, impacting customer satisfaction and trust.
 - **Broader Implications:** Decision-makers must reallocate focus and resources to bolster underperforming areas, ensuring that quality improvement strategies holistically address both technical processes and customer experience. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical data from Table 1 highlights that dimensions like “Efficient channels” and “Reliable service” recorded sigma levels below 3 and yields under 90%, in stark contrast to “Procedures” and “Timely response,” which exceed 99% yield and have sigma levels above 4.5. This clear performance gap underscores the need for targeted improvements in specific service areas. **[Empirical]**
 
 ---
 
 ### Topic 3: Strategic Imperative for Continuous Quality Improvement
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Persistent operational gaps evidenced by suboptimal Six Sigma and DEA scores necessitate continuous quality improvement initiatives—such as Lean Six Sigma and resource optimization—to secure a competitive edge in the banking sector." **[Inferred]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Balancing the financial and operational investments required for comprehensive quality overhauls against the risk of perpetuating inefficiencies by relying solely on historical performance data.  
-- **Underlying Beliefs & Biases:** There is an inherent bias towards believing that once procedural targets are met, further improvements are marginal; however, the integrated analysis reveals significant room for advancement.  
-- **Expected vs. Actual Outcomes:** Conventional strategies might expect incremental improvements, yet the evidence shows that many banks are far from achieving optimal performance, necessitating aggressive and ongoing improvement measures.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Balancing the financial and operational investments required for comprehensive quality overhauls against the risk of perpetuating inefficiencies by relying solely on historical performance data.
+- **Underlying Beliefs & Biases:** There is an inherent bias towards believing that once procedural targets are met, further improvements are marginal; however, the integrated analysis reveals significant room for advancement.
+- **Expected vs. Actual Outcomes:** Conventional strategies might expect incremental improvements, yet the evidence shows that many banks are far from achieving optimal performance, necessitating aggressive and ongoing improvement measures.
 - **Broader Implications:** Executives must view continuous improvement not as a one-off intervention but as an enduring strategic imperative, integrating systematic process evaluations with resource reallocation to adapt to evolving market demands. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The analysis indicates that even banks excelling in procedural quality demonstrate significant potential for improvement in areas such as channel efficiency and response time. The DEA slacks analysis further reinforces the need for resource optimization initiatives, highlighting the disparity between current performance and Six Sigma benchmarks across multiple dimensions. **[Empirical]**
 
 ---
@@ -450,21 +450,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -477,4 +477,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T21:52:18.741321+00:00)
 
 Delahoz-Domínguez, E., Mendoza-Mendoza, A., & Zuluaga-Ortiz, R. (2024). A Six Sigma and DEA framework for quality assessment in banking services. *Administrative Sciences, 14*(11), 295. https://doi.org/10.3390/admsci14110295
-

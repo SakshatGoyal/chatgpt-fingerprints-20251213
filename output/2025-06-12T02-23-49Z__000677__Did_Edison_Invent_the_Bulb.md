@@ -35,4 +35,3 @@ Here are a few playful alternatives that keep the humor and the vintage vibe wit
 5. **"I’ll still be around, sharing jokes with the Wright brothers' ghosts about how humans thought flying machines were witchcraft."**
 
 These retain historical accuracy while playfully nodding to past innovations and eccentricities.
-

@@ -86,4 +86,3 @@ MODULE 58 - C1-I7,Cross-Functional Digital Integration,Limited Mandates,Coordina
 MODULE 6 - C3-I2,Supply Chain Resilience Engineering,Mandate-Driven,Coordinated Timing,Componentized,Medium-Term Resilience
 MODULE 6 - C4-I6,Structured Agile Governance,Limited Mandates,Coordinated Timing,Componentized,Medium-Term Resilience
 MODULE 62 - C4-I1,Differentiated Execution Frameworks,Limited Mandates,Sequenced Timing,Interlinked,Medium-Term Resilience
-

@@ -65,4 +65,3 @@ Start with the first 24 modules in the .txt file. Output only the CSV.
 Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Process Modularity,Value Timeframe
 MODULE 1 - C1-I4,Localized Brand Adaptation,Limited Mandates,Sequenced Timing,Componentized,Medium-Term Resilience
 MODULE 1 - C2-I2,Global Content Licensing,
-

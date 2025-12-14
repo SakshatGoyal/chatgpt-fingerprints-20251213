@@ -86,4 +86,3 @@ MODULE 21 - C2-I1,Resource-Based IT Customization,Limited Mandates,Sequenced Tim
 MODULE 21 - C3-I1,Cloud Migration Criteria,Mandate-Driven,Coordinated Timing,Interlinked,Enduring Assets
 MODULE 21 - C4-I4,Sunk Cost Supplier Management,Limited Mandates,Sequenced Timing,Interlinked,Medium-Term Resilience
 MODULE 22 - C4-I4,Framing Bias Negotiation,Mandate-Driven,Coordinated Timing,Interlinked,Short-Term Return
-

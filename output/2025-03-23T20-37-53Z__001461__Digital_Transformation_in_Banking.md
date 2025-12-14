@@ -160,64 +160,64 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### **Insight 1: Digital Transformation Enhances Bank Efficiency**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 The empirical evidence clearly shows that digital transformation significantly improves bank efficiency by streamlining customer services, reducing operating costs, and optimizing internal processes. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must decide between the high upfront costs of digital investments and the promise of long-term efficiency gains. **[Empirical]**  
-- **Underlying Beliefs & Biases:** Traditional banking mindsets may undervalue technological change, whereas the data indicate that embracing digital tools is critical for operational improvement. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** While some leaders might expect only marginal improvements, the analysis reveals consistent efficiency gains as digital transformation progresses. **[Empirical]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must decide between the high upfront costs of digital investments and the promise of long-term efficiency gains. **[Empirical]**
+- **Underlying Beliefs & Biases:** Traditional banking mindsets may undervalue technological change, whereas the data indicate that embracing digital tools is critical for operational improvement. **[Inferred]**
+- **Expected vs. Actual Outcomes:** While some leaders might expect only marginal improvements, the analysis reveals consistent efficiency gains as digital transformation progresses. **[Empirical]**
 - **Broader Implications:** A strategic reallocation toward digital technologies is not just an expense but a transformative investment that enhances competitiveness. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Fixed effects regression models indicate that a one-unit increase in the Bank Digital Transformation Index is associated with approximately a 3.2% to 3.6% improvement in bank efficiency. The study’s rigorous control for variables such as bank size, solvency, and growth reinforces the reliability of these findings, although the single-country context (China) may limit immediate global extrapolation. **[Empirical]**
 
 ---
 
 ### **Insight 2: Digital Transformation Boosts ESG Performance**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Digital transformation not only enhances operational efficiency but also significantly boosts ESG performance by promoting sustainable practices, enhancing transparency, and improving governance structures. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must balance investments in digital capabilities with the growing imperative to meet stringent ESG standards amid regulatory and stakeholder pressures. **[Empirical]**  
-- **Underlying Beliefs & Biases:** There is often a misperception that ESG initiatives are cost centers; however, integrating digital technologies repositions ESG as a strategic asset. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** Although ESG improvements might be anticipated as secondary benefits, the data reveal a robust, positive correlation between digital initiatives and ESG performance. **[Empirical]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must balance investments in digital capabilities with the growing imperative to meet stringent ESG standards amid regulatory and stakeholder pressures. **[Empirical]**
+- **Underlying Beliefs & Biases:** There is often a misperception that ESG initiatives are cost centers; however, integrating digital technologies repositions ESG as a strategic asset. **[Inferred]**
+- **Expected vs. Actual Outcomes:** Although ESG improvements might be anticipated as secondary benefits, the data reveal a robust, positive correlation between digital initiatives and ESG performance. **[Empirical]**
 - **Broader Implications:** Prioritizing digital transformation can reframe ESG commitments as drivers of long-term value, urging executives to embed sustainability into core business strategies. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Regression results show significant positive coefficients (around 0.046 to 0.049) for the impact of digital transformation on ESG performance. This association is attributed to improved data transparency, streamlined processes, and a greater focus on sustainable practices, offering executives a compelling case for integrated digital-ESG strategies. **[Empirical]**
 
 ---
 
 ### **Insight 3: The Moderating Role of Executive Innovation Awareness**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Executives with high innovation awareness amplify the benefits of digital transformation, leading to superior improvements in both bank efficiency and ESG performance. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders face the challenge of fostering an innovation-oriented culture that can fully leverage digital investments. **[Empirical]**  
-- **Underlying Beliefs & Biases:** Risk-averse leadership may underinvest in digital innovation, yet the study indicates that an innovation mindset is crucial for realizing incremental gains. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** Interaction effects show that banks led by innovation-focused executives experience an additional boost (interaction coefficient ~0.033–0.035) beyond the direct effects of digital transformation. **[Empirical]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders face the challenge of fostering an innovation-oriented culture that can fully leverage digital investments. **[Empirical]**
+- **Underlying Beliefs & Biases:** Risk-averse leadership may underinvest in digital innovation, yet the study indicates that an innovation mindset is crucial for realizing incremental gains. **[Inferred]**
+- **Expected vs. Actual Outcomes:** Interaction effects show that banks led by innovation-focused executives experience an additional boost (interaction coefficient ~0.033–0.035) beyond the direct effects of digital transformation. **[Empirical]**
 - **Broader Implications:** Organizations should invest in leadership development and strategic hiring practices to cultivate innovation, ensuring that digital transformation efforts are fully capitalized upon. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The study’s interaction terms between digital transformation and executive innovation awareness are statistically significant, underscoring that an innovative executive mindset enhances the positive impacts of digital change. This finding suggests targeted training and culture-building initiatives are key to maximizing digital strategy outcomes. **[Empirical]**
 
 ---
 
 ### **Insight 4: The Moderating Role of Executive Technical Background**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Executives with a technical background further catalyze the positive effects of digital transformation, albeit with a somewhat smaller effect size compared to innovation awareness. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Decision-makers must determine the optimal mix of technical expertise and strategic acumen in leadership roles to support digital initiatives. **[Empirical]**  
-- **Underlying Beliefs & Biases:** Despite the proven benefits, technical competence is often undervalued in favor of traditional managerial experience. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** Empirical analysis shows that the interaction between digital transformation and executive technical background yields positive effects (interaction coefficient ~0.027–0.034) on both efficiency and ESG performance. **[Empirical]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Decision-makers must determine the optimal mix of technical expertise and strategic acumen in leadership roles to support digital initiatives. **[Empirical]**
+- **Underlying Beliefs & Biases:** Despite the proven benefits, technical competence is often undervalued in favor of traditional managerial experience. **[Inferred]**
+- **Expected vs. Actual Outcomes:** Empirical analysis shows that the interaction between digital transformation and executive technical background yields positive effects (interaction coefficient ~0.027–0.034) on both efficiency and ESG performance. **[Empirical]**
 - **Broader Implications:** Enhancing technical literacy at the executive level can further streamline digital strategy implementation, suggesting that boards consider technical credentials as part of their recruitment and development criteria. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Regression analyses reveal statistically significant moderating effects for executives with technical backgrounds on the outcomes of digital transformation. Although the effect sizes are modest, they validate the importance of technical knowledge in executing digital initiatives and sustaining operational and ESG improvements. **[Empirical]**
 
 ---
@@ -227,9 +227,9 @@ Regression analyses reveal statistically significant moderating effects for exec
 - **Coverage Fit:** High — The paper robustly addresses issues related to digital transformation, executive cognition, and strategic performance in the banking sector.
 - **Bias & Cognitive Modeling Content:** Present — It explicitly incorporates executive innovation awareness and technical background, revealing implicit biases and cognitive factors in decision-making.
 - **Clarity of Methods & Outcomes:** Clear — The methodology, including detailed regression models, variable definitions, and robustness checks, is well-articulated.
-- **Areas with No Data:**  
-    - Insight Statement: Fully supported by empirical findings.  
-    - Executive Decision-Making Context: All sub-sections are backed by data or reasonable inferences.  
+- **Areas with No Data:**
+    - Insight Statement: Fully supported by empirical findings.
+    - Executive Decision-Making Context: All sub-sections are backed by data or reasonable inferences.
     - Supporting Context: Comprehensive empirical data is provided.
 
 ## You (2025-03-23T20:38:36.957000+00:00)
@@ -582,9 +582,8 @@ For each module, ask yourself:
 
 **INSIGHT MODULE 1:**
 
-ORIGINAL INSIGHT:  
+ORIGINAL INSIGHT:
 The empirical evidence clearly shows that digital transformation significantly improves bank efficiency by streamlining customer services, reducing operating costs, and optimizing internal processes. **[Empirical]**
 
-🔹 COUNTERFACTUAL SCENARIO:  
+🔹 COUNTERFACTUAL SCENARIO:
 A
-

@@ -16,13 +16,13 @@ Thanks for laying all that out — you're holding a lot of complexity in your he
 
 ### First, let’s reframe the core idea for a broader audience:
 
-> **Working Statement (v1):**  
-> We’re exploring how AI can support senior executives in developing, evaluating, and refining business strategies — such as go-to-market planning, competitive positioning, or innovation roadmapping.  
->  
-> Our hypothesis is that by using a conversational interface — whether in the form of a bot, agent, or another tool — we can help leaders sharpen their thinking, surface relevant frameworks or analogies, and challenge assumptions, all without requiring access to proprietary company data.  
->  
-> We’ve begun by identifying four types of strategic contexts drawn from literature and case studies, and distilled them into actionable “insight modules” — each designed to mirror real-world decision-making constraints. These will inform how we scope the tool’s capabilities and define value for the end user.  
->  
+> **Working Statement (v1):**
+> We’re exploring how AI can support senior executives in developing, evaluating, and refining business strategies — such as go-to-market planning, competitive positioning, or innovation roadmapping.
+>
+> Our hypothesis is that by using a conversational interface — whether in the form of a bot, agent, or another tool — we can help leaders sharpen their thinking, surface relevant frameworks or analogies, and challenge assumptions, all without requiring access to proprietary company data.
+>
+> We’ve begun by identifying four types of strategic contexts drawn from literature and case studies, and distilled them into actionable “insight modules” — each designed to mirror real-world decision-making constraints. These will inform how we scope the tool’s capabilities and define value for the end user.
+>
 > The opportunity here is to create an AI-enabled thinking partner — one that supports strategic depth and clarity without replacing the human decision-maker.
 
 How does that framing feel? We can tailor tone and scope based on your audience — say, more exploratory for a research group, or more focused on use-case validation if it’s an exec readout.
@@ -50,10 +50,10 @@ Try applying the **Three-Question Product Lens** to guide your next step:
 
 ### And here’s a concrete next step you might take:
 
-**Define 1–2 “Strategic Conversation Moments” per cluster**  
+**Define 1–2 “Strategic Conversation Moments” per cluster**
 Take your insight modules and shape a few mock interactions around them. For example:
 
-> “You’re considering a new product launch, but the timing is constrained by quarterly sales targets and evolving regulatory guidance. What frameworks can help?”  
+> “You’re considering a new product launch, but the timing is constrained by quarterly sales targets and evolving regulatory guidance. What frameworks can help?”
 > → AI agent offers options: time-boxed decision frameworks, examples from similar industries, tradeoff prompts, etc.
 
 This will help move from abstract cluster logic to tangible product behavior.
@@ -72,13 +72,13 @@ Here’s an evolved version of the **working statement**, with a second half tha
 
 ---
 
-> **Working Statement (v2):**  
-> We’re exploring how AI can support senior executives in developing, evaluating, and refining business strategies — such as go-to-market planning, competitive positioning, or innovation roadmapping.  
->  
-> Our hypothesis is that by using a conversational interface — whether in the form of a bot, agent, or another tool — we can help leaders sharpen their thinking, surface relevant frameworks or analogies, and challenge assumptions, all without requiring access to proprietary company data.  
->  
-> To ground this exploration, we’ve analyzed a broad set of literature and case studies to identify recurring decision-making patterns across strategic contexts. These have been synthesized into four clusters, each representing a distinct type of strategic constraint or organizational dynamic. Within each cluster, we’ve distilled a series of insights — including decision contexts, tensions, and constraints — which now form the foundation for identifying valuable intervention points for AI.  
->  
+> **Working Statement (v2):**
+> We’re exploring how AI can support senior executives in developing, evaluating, and refining business strategies — such as go-to-market planning, competitive positioning, or innovation roadmapping.
+>
+> Our hypothesis is that by using a conversational interface — whether in the form of a bot, agent, or another tool — we can help leaders sharpen their thinking, surface relevant frameworks or analogies, and challenge assumptions, all without requiring access to proprietary company data.
+>
+> To ground this exploration, we’ve analyzed a broad set of literature and case studies to identify recurring decision-making patterns across strategic contexts. These have been synthesized into four clusters, each representing a distinct type of strategic constraint or organizational dynamic. Within each cluster, we’ve distilled a series of insights — including decision contexts, tensions, and constraints — which now form the foundation for identifying valuable intervention points for AI.
+>
 > Our next phase will focus on translating these insights into concrete product behaviors: how might an AI system use these patterns to guide strategic conversations, prompt critical thinking, or scaffold decision processes in a way that’s both credible and practically useful for executive users?
 
 ---
@@ -97,7 +97,7 @@ in our case, we have a lot of insights that are probably not too strong, or the 
 
 Great pivot — this is exactly the kind of clarity that elevates early-stage product thinking.
 
-When a team says *“this is a people problem,”* what we’re really testing is:  
+When a team says *“this is a people problem,”* what we’re really testing is:
 **Are we solving for a real tension, aspiration, or limitation in how people think, feel, or behave — rather than just abstract systems or business mechanics?**
 
 Let’s build a **People Problem Litmus Test** — inspired by Julie Zhuo’s philosophy of human-centered design — to help your team pressure-test their rationales.
@@ -114,7 +114,7 @@ Ask the following to evaluate whether the rationale is truly people-centered:
 - Can you name *who* is experiencing the issue — e.g., "a VP of Sales preparing a board deck" or "a product leader deciding between roadmap bets"?
 - If it starts with “the company” or “the team,” ask: *Which person within that context is actually feeling the tension?*
 
-> ✳️ **Good**: “A strategy leader is overwhelmed by competing priorities and lacks time to reflect deeply on long-term moves.”  
+> ✳️ **Good**: “A strategy leader is overwhelmed by competing priorities and lacks time to reflect deeply on long-term moves.”
 > 🚫 **Weak**: “The organization doesn’t have a clear long-term strategy.”
 
 ---
@@ -123,7 +123,7 @@ Ask the following to evaluate whether the rationale is truly people-centered:
 - What’s hard, frustrating, or time-consuming for the person?
 - What do they wish they could do more easily, confidently, or insightfully?
 
-> ✳️ **Good**: “Executives often struggle to surface blind spots because they’re surrounded by filtered information and little dissent.”  
+> ✳️ **Good**: “Executives often struggle to surface blind spots because they’re surrounded by filtered information and little dissent.”
 > 🚫 **Weak**: “Executives need better frameworks.”
 
 ---
@@ -132,7 +132,7 @@ Ask the following to evaluate whether the rationale is truly people-centered:
 - Is this a *one-time obstacle* or a *pattern* in someone’s working life?
 - People problems are often persistent tensions, not isolated incidents.
 
-> ✳️ **Good**: “Teams regularly delay strategic planning because urgent fires dominate leadership attention.”  
+> ✳️ **Good**: “Teams regularly delay strategic planning because urgent fires dominate leadership attention.”
 > 🚫 **Weak**: “The last planning cycle was delayed.”
 
 ---
@@ -140,7 +140,7 @@ Ask the following to evaluate whether the rationale is truly people-centered:
 ### 4. **Can we imagine this person saying it in their own words?**
 - If not, rewrite it so it could be expressed as a quote or thought.
 
-> ✳️ “I keep making high-stakes decisions with gut feel because I don’t have time to weigh alternatives properly.”  
+> ✳️ “I keep making high-stakes decisions with gut feel because I don’t have time to weigh alternatives properly.”
 > 🚫 “Decision quality is suboptimal in fast-moving orgs.”
 
 ---
@@ -149,7 +149,7 @@ Ask the following to evaluate whether the rationale is truly people-centered:
 - If we solved this problem, what would the person be able to do differently or better?
 - Is that outcome important to them?
 
-> ✳️ **Good**: “With the right nudges and frameworks, an executive could explore bold options they might otherwise discard.”  
+> ✳️ **Good**: “With the right nudges and frameworks, an executive could explore bold options they might otherwise discard.”
 > 🚫 **Weak**: “An AI tool could summarize strategy papers faster.”
 
 ---
@@ -179,47 +179,47 @@ To help teams distinguish whether an insight truly reflects a **people-centered 
 ---
 
 ### 1. **Is the decision-making actor clearly identifiable?**
-> ✅ Look for: references to *executives*, *leaders*, *decision-makers*, or *specific roles* facing a strategic dilemma.  
+> ✅ Look for: references to *executives*, *leaders*, *decision-makers*, or *specific roles* facing a strategic dilemma.
 > 🚫 Avoid: vague references to “the organization,” “the industry,” or “the company” unless they are anchored in human agency.
 
-> **Example**:  
-> ✅ “Executives must reconcile optimism in forward-looking statements with transparent risk disclosures”【12†source】  
+> **Example**:
+> ✅ “Executives must reconcile optimism in forward-looking statements with transparent risk disclosures”【12†source】
 > 🚫 “The company operates in a volatile environment with market uncertainties.”
 
 ---
 
 ### 2. **Does the insight describe a cognitive, emotional, or behavioral tension?**
-> ✅ Look for: decision-making under uncertainty, bias, confidence vs. doubt, resistance to change, or emotional trade-offs like trust, fear, pride, or overconfidence.  
+> ✅ Look for: decision-making under uncertainty, bias, confidence vs. doubt, resistance to change, or emotional trade-offs like trust, fear, pride, or overconfidence.
 > 🚫 Avoid: purely technical or structural issues without human consequences.
 
-> **Example**:  
-> ✅ “Executives often underestimate regulatory friction, leading to overly rigid global strategies”【12†source】  
+> **Example**:
+> ✅ “Executives often underestimate regulatory friction, leading to overly rigid global strategies”【12†source】
 > 🚫 “Regulatory compliance structures vary regionally.”
 
 ---
 
 ### 3. **Can we trace a *thinking pattern or bias* in the decision context?**
-> ✅ Look for: beliefs (“we assume X”), blind spots, inertia, or flawed mental models.  
+> ✅ Look for: beliefs (“we assume X”), blind spots, inertia, or flawed mental models.
 > These show up frequently in your dataset as “underlying beliefs & biases.”
 
-> **Example**:  
+> **Example**:
 > ✅ “A prevailing bias toward conventional ground-based delivery methods underestimates the potential of drone technology”【12†source】
 
 ---
 
 ### 4. **Would solving this insight change how an executive *thinks or behaves*?**
-> ✅ Ask: If this problem were addressed, would the decision-maker approach the situation differently? Would their mental model shift?  
+> ✅ Ask: If this problem were addressed, would the decision-maker approach the situation differently? Would their mental model shift?
 > 🚫 If fixing it only changes system outputs, it’s not a people problem.
 
-> **Example**:  
-> ✅ “Embedding risk thinking into strategic planning shifts leaders from reactive to proactive behavior”  
+> **Example**:
+> ✅ “Embedding risk thinking into strategic planning shifts leaders from reactive to proactive behavior”
 > 🚫 “Introducing automation reduced costs by 10%”
 
 ---
 
 ### 5. **Can the insight be rephrased as an internal monologue or leadership dilemma?**
 Try rewriting the insight as a question or quote a real leader might say:
-> - “How do I pursue innovation without losing trust in a heavily regulated space?”  
+> - “How do I pursue innovation without losing trust in a heavily regulated space?”
 > - “Everyone tells me to ‘go digital,’ but what about the customers who value our human touch?”
 
 If that rewrite *clicks*, you’re likely sitting on a people problem.
@@ -227,10 +227,9 @@ If that rewrite *clicks*, you’re likely sitting on a people problem.
 ---
 
 ### Optional Diagnostic: The "Leadership Leverage Test"
-> **If you gave this insight to a leadership coach or trusted peer, could it spark a better executive decision or behavior?**  
+> **If you gave this insight to a leadership coach or trusted peer, could it spark a better executive decision or behavior?**
 > If yes → it has *people-level leverage*. If not → it might be more about systems, not humans.
 
 ---
 
 Would you like me to turn this into a simple rubric or scorecard to use across your insights doc? Or we can try applying it live to one of the clusters you're evaluating next.
-

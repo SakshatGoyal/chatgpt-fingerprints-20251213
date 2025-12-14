@@ -2,12 +2,12 @@
 
 ## You (2025-08-17T07:49:21.285000+00:00)
 
-I'm going to share a couple of exchanges between ChatGPT and me. For now, just internalize these, then I'll ask you some questions. 
+I'm going to share a couple of exchanges between ChatGPT and me. For now, just internalize these, then I'll ask you some questions.
 ---
 ---
 ---
 Me:
-So, I need you to put on your professional hat as an AI researcher and scientist who's special skillset involves designing custom GPTs. 
+So, I need you to put on your professional hat as an AI researcher and scientist who's special skillset involves designing custom GPTs.
 
 How much of making a custom GPT is about prompt engineering vs context engineering?
 
@@ -88,7 +88,7 @@ Would you like me to sketch out a **framework for evaluating your own custom GPT
 Me:
 Actually, I want to create an outline for research. My goal is to understand frameworks and any additional research professionals have done on the topic of context engineering. You were able to set up a good outline of the main levers: Contextual framing, context injection, context structuring, context weighting, contextual boundaries... But I'm sure most professional researchers may or may not have necessarily classified their research in these terms. If they have, that's great. But if not, then I'm sure it's something new, and if it has enough citations, then it's probably a novel idea or approach to context engineering that we don't know about. Could you think through how we could structure our research?
 
-My goal is to create a research plan that centers around analyzing both research papers, as well as reputable sources like Databricks, OpenAI, Anthropic, IBM, and maybe others. In addition, it wouldn't be bad to also look at some practical applications from startups. 
+My goal is to create a research plan that centers around analyzing both research papers, as well as reputable sources like Databricks, OpenAI, Anthropic, IBM, and maybe others. In addition, it wouldn't be bad to also look at some practical applications from startups.
 
 Start by thinking through all the context you might need to understand more about my goals and objectives clearly, and ask me additional questions. I am looking to develop a comprehensive outline for a research project focused on understanding the various frameworks and research findings related to context engineering. In our previous discussions, you provided a solid foundation by outlining the main levers associated with this field, including contextual framing, context injection, context structuring, context weighting, and contextual boundaries. However, I recognize that many professional researchers may not categorize their work using these specific terminologies. If such classifications do exist within the literature, that would be highly beneficial. Conversely, if they do not, this could indicate a novel approach to context engineering that warrants attention, particularly if it has garnered significant citations or recognition in the field.
 
@@ -201,7 +201,6 @@ I am particularly interested in mapping case studies that demonstrate how startu
 Should our approach be descriptive in nature, surveying how various stakeholders characterize context engineering? I believe it is important to acknowledge that terminology can vary significantly across different fields, and embracing this diversity can enhance our understanding and application of the concept. Thus, identifying and analyzing these differing perspectives will be beneficial in creating a comprehensive overview.
 
 
-
 ---
 Based on the information I have provided in this as well as the previous response, outline a comprehensive multi-phase research and synthesis plan. This should encompass the following stages:
 
@@ -215,7 +214,7 @@ Based on the information I have provided in this as well as the previous respons
 
 ---
 
-As you engage in this process, envision yourself as a seasoned research director at IDEO, a leader with extensive experience in overseeing research teams that tackle innovative and complex subjects. Throughout your career, you have honed your ability to distill vague and ambiguous insights into clear, actionable strategies that drive meaningful outcomes. 
+As you engage in this process, envision yourself as a seasoned research director at IDEO, a leader with extensive experience in overseeing research teams that tackle innovative and complex subjects. Throughout your career, you have honed your ability to distill vague and ambiguous insights into clear, actionable strategies that drive meaningful outcomes.
 
 In this particular project, you are taking on the challenge of guiding your team in the specialized field of context engineering. This involves not only identifying and understanding the nuances of various contexts but also translating those insights into practical applications that can enhance user experiences and inform design decisions. Your leadership will be crucial in helping the team navigate this intricate landscape, as you encourage collaboration, creativity, and critical thinking to uncover valuable insights that can be transformed into impactful solutions.
 Each phase should detail specific tasks and outline the approaches to be considered for clarity and organization throughout the research process.
@@ -224,7 +223,6 @@ Each phase should detail specific tasks and outline the approaches to be conside
 
 ChatGPT:
 Absolutely. I’ll treat this like I’m your research director at IDEO, tighten the scope to **secondary research only**, and give you a **clear, multiphase plan** you can actually run—no interviews, no surveys, no diary studies.
-
 
 
 ---
@@ -447,18 +445,10 @@ If you’d like, I can **drop in a ready‑to‑copy Google Sheets structure** (
 [8]: https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG?utm_source=chatgpt.com "Best Practices for LLM Evaluation of RAG Applications"
 [9]: https://community.ibm.com/community/user/watsonx/blogs/bob-reno/2024/11/12/evaluate-and-monitor-rag-in-watsonxgovernance?utm_source=chatgpt.com "Evaluate and Monitor RAG in watsonx.governance"
 [10]: https://www.ibm.com/new/announcements/ibms-answer-to-governing-ai-agents-automation-and-evaluation-with-watsonx-governance?utm_source=chatgpt.com "IBM's answer to governing AI Agents: Automation and ..."
-[11]: https://www.tomsguide.com/ai/claude-just-got-a-major-personalization-upgrade-heres-whats-new?utm_source=chatgpt.com "Claude just got a major personalization upgrade - here's what's new"
-[12]: https://community.databricks.com/t5/technical-blog/six-steps-to-improve-your-rag-application-s-data-foundation/ba-p/97700?utm_source=chatgpt.com "Six steps to improve your RAG application's data foundation"
-[13]: https://arxiv.org/html/2507.13334v1?utm_source=chatgpt.com "A Survey of Context Engineering for Large Language Models"
-[14]: https://github.com/Meirtz/Awesome-Context-Engineering?utm_source=chatgpt.com "Meirtz/Awesome-Context-Engineering"
 
-## ChatGPT (2025-08-17T07:49:26.038949+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Acknowledging user’s message", "content": "Got it - I’ve internalized the exchanges, including the hybrid approach and interdisciplinary scope in the LLM-era, etc. Ready whenever you are! I won’t add new details or inquiries, just confirming everything is noted. Let's keep it light and easy to follow.", "chunks": [], "finished": true}], "source_analysis_msg_id": "fec620a9-05c0-4b83-b8e8-4370cdee823a"}
 
-## ChatGPT (2025-08-17T07:49:37.048649+00:00)
 
-{"content_type": "reasoning_recap", "content": "Thought for 11s"}
 
 ## ChatGPT (2025-08-17T07:49:24.707743+00:00)
 
@@ -474,13 +464,13 @@ Ready for your questions.
 
 ## You (2025-08-17T07:57:55.532000+00:00)
 
-Imagine you are a power user of ChatGPT, excelling in its capabilities. You are not only an authority in artificial intelligence but also a seasoned researcher who has harnessed advanced tools like GPT-5 Pro and Deep Research by OpenAI. Your expertise allows you to conduct groundbreaking research that produces novel insights unseen by others. Leveraging your experience with ChatGPT, you are tasked with developing a comprehensive four-phase blueprint to execute this innovative research plan using these powerful tools, ideally in a synergistic manner. 
+Imagine you are a power user of ChatGPT, excelling in its capabilities. You are not only an authority in artificial intelligence but also a seasoned researcher who has harnessed advanced tools like GPT-5 Pro and Deep Research by OpenAI. Your expertise allows you to conduct groundbreaking research that produces novel insights unseen by others. Leveraging your experience with ChatGPT, you are tasked with developing a comprehensive four-phase blueprint to execute this innovative research plan using these powerful tools, ideally in a synergistic manner.
 
 ### Phase 1: Defining the Data Gathering Approach
 In this initial phase, your primary objective is to establish a clear and effective strategy for data gathering. Here are the steps involved:
 1. **Identify Research Questions**: Formulate specific, focused research questions that will guide your data collection efforts.
 2. **Determine Data Sources**: Decide on the types of data sources you will utilize, such as academic journals, online databases, or existing frameworks in your field of interest.
-3. **Select Tools and Techniques**: Based on your research objectives, identify the appropriate features and capabilities of GPT-5 Pro and Deep Research that will facilitate efficient data collection. 
+3. **Select Tools and Techniques**: Based on your research objectives, identify the appropriate features and capabilities of GPT-5 Pro and Deep Research that will facilitate efficient data collection.
 4. **Create a Preliminary Framework**: Develop a structured outline of how you plan to use each tool throughout the research process, ensuring a cohesive approach.
 
 ### Phase 2: Data Collection
@@ -511,8 +501,8 @@ Ensure you're not drifting too far away from all the context established in the 
 
 Below is a **four‑phase, end‑to‑end blueprint** that operationalizes your context‑engineering research plan using **Deep Research** (for breadth, citation‑rich retrieval, multi‑step planning) and **GPT‑5 Pro** (for deep synthesis, critique, writing, and artifact polish). I’m writing as your research director—biasing for **repeatable process, strong evidence hygiene, and speed**—while staying faithful to your hybrid theory+practice goals (LLM‑era focus, interdisciplinary scan, startup case studies, and weighted synthesis).
 
-> **Why this pairing?**  
-> *Deep Research* is built for multi‑step, web‑grounded investigations with **documented outputs and citations**; it can search the public web, read PDFs, and connect to enabled data sources. *GPT‑5* (and **GPT‑5 Pro** where available) brings **stronger reasoning and writing**; Pro adds extended reasoning for more reliable, detailed synthesis. Use Deep Research to **find & fact**; use GPT‑5 Pro to **understand & decide**. citeturn0search0turn0search7turn0search15 citeturn0search2turn0search13turn0search11
+> **Why this pairing?**
+> *Deep Research* is built for multi‑step, web‑grounded investigations with **documented outputs and citations**; it can search the public web, read PDFs, and connect to enabled data sources. *GPT‑5* (and **GPT‑5 Pro** where available) brings **stronger reasoning and writing**; Pro adds extended reasoning for more reliable, detailed synthesis. Use Deep Research to **find & fact**; use GPT‑5 Pro to **understand & decide**.
 
 ---
 
@@ -525,17 +515,17 @@ Below is a **four‑phase, end‑to‑end blueprint** that operationalizes your 
 - **RQ‑D (Practice):** How do **OpenAI, Anthropic, Databricks, IBM** frame and measure context choices, and how do **startups** operationalize them in production?
 
 ### 2) Data sources (LLM era; cross‑disciplinary)
-- **Peer‑reviewed & preprints:** arXiv, ACL Anthology, NeurIPS, ICML, EMNLP.  
-- **Official technical sources:** OpenAI (Deep Research, GPT‑5 docs/system cards, eval/cookbook), Anthropic, Databricks, IBM. citeturn0search1turn0search4turn0search10turn0search2turn0search13
+- **Peer‑reviewed & preprints:** arXiv, ACL Anthology, NeurIPS, ICML, EMNLP.
+- **Official technical sources:** OpenAI (Deep Research, GPT‑5 docs/system cards, eval/cookbook), Anthropic, Databricks, IBM.
 - **Practitioner posts / startup case studies:** LangChain / LlamaIndex / Weaviate / Pinecone / Vectara / enterprise engineering blogs (only when methods and data are explicit).
 
 ### 3) Tools & techniques (division of labor)
-- **Deep Research**  
-  - Models: `o3-deep-research` (max rigor) and `o4-mini-deep-research` (faster).  
-  - Strengths: multi‑step planning, web search, PDF/image reading, **citation‑complete reports**, and API workflows (webhooks). **Require at least one data source** (web, files, enabled third‑party). citeturn0search4turn0search1turn0search10
-- **GPT‑5 / GPT‑5 Pro**  
-  - Strengths: **unified router** for quick vs. deep thinking, stronger coding/math/writing, **extended reasoning in Pro** for higher reliability. Use for synthesis, critique, taxonomy building, red‑team, editorial polish, and artifact generation (figures, tables). citeturn0search13turn0search2turn0search11
-- **(Optional) ChatGPT Agent** for small automations (batch conversions, file hygiene) between steps. citeturn0search3
+- **Deep Research**
+  - Models: `o3-deep-research` (max rigor) and `o4-mini-deep-research` (faster).
+  - Strengths: multi‑step planning, web search, PDF/image reading, **citation‑complete reports**, and API workflows (webhooks). **Require at least one data source** (web, files, enabled third‑party).
+- **GPT‑5 / GPT‑5 Pro**
+  - Strengths: **unified router** for quick vs. deep thinking, stronger coding/math/writing, **extended reasoning in Pro** for higher reliability. Use for synthesis, critique, taxonomy building, red‑team, editorial polish, and artifact generation (figures, tables).
+- **(Optional) ChatGPT Agent** for small automations (batch conversions, file hygiene) between steps.
 
 ### 4) Preliminary framework (how the tools interlock)
 - **Track 1: Discovery (Deep Research)** → **Track 2: Understanding (GPT‑5 Pro)** → **Track 3: Verification (Deep Research spot‑checks)** → **Track 4: Communication (GPT‑5 Pro drafting & visuals)**.
@@ -576,7 +566,7 @@ Title | Authors | Year | Venue | URL | Lever(s) | Domain | Method | Metrics | Re
 - “Scan **guardrail** techniques that bound tool use or context scopes; report attack success rates (prompt injection, data exfiltration).”
 - “Identify **long‑context** compression/selection strategies that preserve answer support.”
 
-> Tip: In Deep Research, specify **data sources** (e.g., web + uploaded PDFs) to comply with model requirements. citeturn0search1
+> Tip: In Deep Research, specify **data sources** (e.g., web + uploaded PDFs) to comply with model requirements.
 
 ### 2) Use GPT‑5 Pro to supercharge queries & extraction
 - **Query expansion:** “List synonym families and Boolean strings for each lever; produce top 30 search strings with inclusion/exclusion tokens.”
@@ -584,7 +574,7 @@ Title | Authors | Year | Venue | URL | Lever(s) | Domain | Method | Metrics | Re
 - **Evidence triage:** “Given these 30 abstracts, assign *fit* (High/Med/Low) and rationale; detect overlaps/duplicates.”
 - **Method sharpening:** “Critique the Deep Research methods appendix for gaps/bias; propose corrections.”
 
-*(Why Pro? Extended reasoning improves reliability for intricate synthesis/critique.)* citeturn0search11
+*(Why Pro? Extended reasoning improves reliability for intricate synthesis/critique.)*
 
 ### 3) Iterative feedback loop (quality gates)
 - After each Deep Research run, ask GPT‑5 Pro to:
@@ -593,8 +583,8 @@ Title | Authors | Year | Venue | URL | Lever(s) | Domain | Method | Metrics | Re
   - **Diversity checks:** ensure coverage across academia/industry/startups; flag over‑reliance on any one lab/vendor.
 
 ### 4) Organize the data (turn outputs into working assets)
-- Append rows into `/tables/evidence_table.csv`.  
-- Save Deep Research source exports + PDFs into `/evidence/` (preserve the **citation trail**).  
+- Append rows into `/tables/evidence_table.csv`.
+- Save Deep Research source exports + PDFs into `/evidence/` (preserve the **citation trail**).
 - Maintain `/tables/metric_crosswalk.csv` and `/tables/term_crosswalk.csv` as you go.
 
 ---
@@ -602,20 +592,20 @@ Title | Authors | Year | Venue | URL | Lever(s) | Domain | Method | Metrics | Re
 ## Phase 3 — Sense‑Making & Synthesis
 
 ### 1) Thematic analysis (inductive + deductive)
-- **Inductive:** Use GPT‑5 Pro—“Cluster Evidence Table rows into themes by intervention type + outcome; summarize each theme in ≤5 bullets and cite top 3 sources.”  
+- **Inductive:** Use GPT‑5 Pro—“Cluster Evidence Table rows into themes by intervention type + outcome; summarize each theme in ≤5 bullets and cite top 3 sources.”
 - **Deductive:** Map clusters to your lever taxonomy (Framing, Injection/RAG, Structuring, Weighting/Reranking, Boundaries) and to **outcomes** (accuracy, groundedness, robustness, latency, cost).
 
 ### 2) Cross‑referencing & verification
-- For **contentious claims**, trigger a **Deep Research spot‑check**: “Validate or refute Claim C by finding the most recent, method‑transparent sources; explain discrepancies with citations.” Deep Research’s documented browsing helps maintain **traceability**. citeturn0search0turn0search7
+- For **contentious claims**, trigger a **Deep Research spot‑check**: “Validate or refute Claim C by finding the most recent, method‑transparent sources; explain discrepancies with citations.” Deep Research’s documented browsing helps maintain **traceability**.
 
 ### 3) Visual synthesis (ready‑to‑generate artifacts)
 Ask GPT‑5 Pro to generate the visuals from your tables (export as SVG/PNG to `/figures/`):
-- **Mechanism × Outcome Matrix** (heatmap with evidence strength annotations).  
-- **Term Crosswalk** (bipartite graph: academic vs. industry terminology).  
-- **Decision Tree** for context‑engineering choices by constraint (latency/cost/risk).  
+- **Mechanism × Outcome Matrix** (heatmap with evidence strength annotations).
+- **Term Crosswalk** (bipartite graph: academic vs. industry terminology).
+- **Decision Tree** for context‑engineering choices by constraint (latency/cost/risk).
 - **PRISMA‑style flow** (counts only; no proprietary graphics).
 
-> If you use the **ChatGPT Agent**, let it convert CSV→charts and manage exports. citeturn0search3
+> If you use the **ChatGPT Agent**, let it convert CSV→charts and manage exports.
 
 ### 4) Collaborative intelligence
 - Share `/tables` + `/drafts` with peers; use GPT‑5 Pro to **synthesize reviewer comments** into change lists and to **red‑team** the draft (data‑leak risks, eval validity, overclaiming).
@@ -625,29 +615,29 @@ Ask GPT‑5 Pro to generate the visuals from your tables (export as SVG/PNG to `
 ## Phase 4 — Creating the Final Output
 
 ### 1) Draft the research document (structure)
-- **Executive Summary:** What works, where, and why (with uncertainty bands).  
-- **Methods:** Data sources, inclusion/exclusion, scoring rubric.  
-- **Findings:** Mechanism × Outcome matrix with cited highlights.  
-- **Comparative frameworks:** OpenAI vs Anthropic vs Databricks vs IBM (goals, metrics, risks).  
-- **Patterns / Anti‑patterns / Playbooks:** Concrete steps with citations.  
-- **Governance:** Risks (injection, provenance, privacy), controls, monitoring.  
-- **Startup Case Studies:** Selection criteria + brief vignettes.  
+- **Executive Summary:** What works, where, and why (with uncertainty bands).
+- **Methods:** Data sources, inclusion/exclusion, scoring rubric.
+- **Findings:** Mechanism × Outcome matrix with cited highlights.
+- **Comparative frameworks:** OpenAI vs Anthropic vs Databricks vs IBM (goals, metrics, risks).
+- **Patterns / Anti‑patterns / Playbooks:** Concrete steps with citations.
+- **Governance:** Risks (injection, provenance, privacy), controls, monitoring.
+- **Startup Case Studies:** Selection criteria + brief vignettes.
 - **Appendices:** Evidence table, term/metric crosswalks, PRISMA counts.
 
 ### 2) Use GPT‑5 Pro for editing & enhancement
 Prompts:
-- “**Clarity pass**: tighten for precision; remove hedging; ensure each claim has a citation or is clearly marked as conjecture.”  
-- “**Consistency pass**: unify terminology across levers; reconcile ‘groundedness/faithfulness’ usage.”  
-- “**Accuracy pass**: flag any claim without a source; insert **[citation needed]** markers.”  
+- “**Clarity pass**: tighten for precision; remove hedging; ensure each claim has a citation or is clearly marked as conjecture.”
+- “**Consistency pass**: unify terminology across levers; reconcile ‘groundedness/faithfulness’ usage.”
+- “**Accuracy pass**: flag any claim without a source; insert **[citation needed]** markers.”
 - “**Impact pass**: rewrite the Exec Summary for a C‑suite reader; add 3 ‘Do/Don’t’ boxes.”
 
 ### 3) Incorporate visuals & references
-- Ask GPT‑5 Pro to **assemble a references section** (APA/Chicago) from Deep Research’s citation export.  
+- Ask GPT‑5 Pro to **assemble a references section** (APA/Chicago) from Deep Research’s citation export.
 - Insert figures (matrices, graphs), with captions that state **what to conclude** and **limits**.
 
 ### 4) Final review & presentation
-- **Reproducibility bundle:** `/runs/`, `/evidence/`, `/tables/`, `/figures/`, `/drafts/` zipped with a README (how to rerun Deep Research briefs).  
-- **Risk review:** a one‑pager enumerating residual uncertainties and where updates are likely (fast‑moving results).  
+- **Reproducibility bundle:** `/runs/`, `/evidence/`, `/tables/`, `/figures/`, `/drafts/` zipped with a README (how to rerun Deep Research briefs).
+- **Risk review:** a one‑pager enumerating residual uncertainties and where updates are likely (fast‑moving results).
 - **Presentation:** an executive deck (10–12 slides) + a technical appendix (backup).
 
 ---
@@ -692,19 +682,19 @@ Tone: precise, evidence-led, decision-oriented. Mark any uncited claim as [citat
 
 ## Operational safeguards & tips
 
-- **Always keep the citation trail.** Deep Research is designed to return **documented** outputs with sources and a summary of its reasoning—capture those exports verbatim and store them under `/runs/…`. citeturn0search0turn0search7  
-- **Choose the right Deep Research model.** Use `o3-deep-research` for the hardest queries and `o4-mini-deep-research` for quick passes. citeturn0search4turn0search1  
-- **Use GPT‑5 Pro for the heavy lifts.** Pro’s extended reasoning is ideal for thorny synthesis and editorial reliability; keep regular GPT‑5 for faster low‑risk tasks. citeturn0search11  
-- **Automate the glue.** If enabled, the ChatGPT Agent can handle repetitive file conversions and chart exports between phases. citeturn0search3  
+- **Always keep the citation trail.** Deep Research is designed to return **documented** outputs with sources and a summary of its reasoning—capture those exports verbatim and store them under `/runs/…`.
+- **Choose the right Deep Research model.** Use `o3-deep-research` for the hardest queries and `o4-mini-deep-research` for quick passes.
+- **Use GPT‑5 Pro for the heavy lifts.** Pro’s extended reasoning is ideal for thorny synthesis and editorial reliability; keep regular GPT‑5 for faster low‑risk tasks.
+- **Automate the glue.** If enabled, the ChatGPT Agent can handle repetitive file conversions and chart exports between phases.
 - **Bias for refresh.** For any claim older than ~6–12 months, run a quick Deep Research **refresh sweep** before publication.
 
 ---
 
 ### What you’ll have at the end
-- A **traceable corpus** with evidence weighting;  
-- A **Mechanism × Outcome** matrix tied to real metrics;  
-- A **cross‑field term & metric crosswalk**;  
-- A **patterns/anti‑patterns playbook** and **evaluation/governance quick‑start**;  
+- A **traceable corpus** with evidence weighting;
+- A **Mechanism × Outcome** matrix tied to real metrics;
+- A **cross‑field term & metric crosswalk**;
+- A **patterns/anti‑patterns playbook** and **evaluation/governance quick‑start**;
 - A **modular report + deck** you can update as the field moves.
 
 If you’d like, I can also supply ready‑made CSV headers and a Markdown report scaffold that match the file layout above.
@@ -719,7 +709,7 @@ Now, I would like you to formulate an effective prompt that will serve as our op
 
 Following that, I would like you to create a follow-up prompt that will be utilized within the same chat window or in a seperate window for conducting deeper research based on the output generated from the initial prompt. My assumption is that this initial prompt will initiate the entire research process, and its outcomes will directly lead into the deep research prompt.
 
-Currently, we may not be able to finalize the deep research prompt since it needs to be directly informed by the initial findings. However, I strongly believe that the results from the first prompt will naturally guide the formulation of the deep research prompt. Once I receive the output from the first prompt, I can provide further insights. 
+Currently, we may not be able to finalize the deep research prompt since it needs to be directly informed by the initial findings. However, I strongly believe that the results from the first prompt will naturally guide the formulation of the deep research prompt. Once I receive the output from the first prompt, I can provide further insights.
 
 For now, your task is to leverage your skills in AI, context engineering, and prompt engineering to craft a solid and effective first step for Phase 1. This step is fundamental to ensuring that our research is well-directed and productive. Use the ideal principles involved in both context and prompt engineering for this task.
 
@@ -727,14 +717,14 @@ For now, your task is to leverage your skills in AI, context engineering, and pr
 
 Fantastic—here’s a **ready‑to‑paste, research‑grade pair of prompts** tailored for your Phase‑1 flow:
 
-- **Prompt 1 (GPT‑5 Pro):** *Context setting → locks the criteria for Phase‑1 data collection only.*  
-- **Prompt 2 (Deep Research):** *Template that consumes Prompt‑1’s output and launches the first evidence sweep.*  
+- **Prompt 1 (GPT‑5 Pro):** *Context setting → locks the criteria for Phase‑1 data collection only.*
+- **Prompt 2 (Deep Research):** *Template that consumes Prompt‑1’s output and launches the first evidence sweep.*
 
 Both prompts use strong **context‑engineering** patterns: explicit role, scope, inclusion/exclusion rules, lever taxonomy, output schemas, scoring rubrics, and QA gates. They also prevent premature browsing in Step‑1 and establish a clean handoff to Deep Research.
 
 ---
 
-## 🔶 Prompt 1 — GPT‑5 Pro  
+## 🔶 Prompt 1 — GPT‑5 Pro
 **Phase‑1 / Step‑1: Context Setting & Collection‑Criteria Charter (no browsing)**
 
 > **Use case:** Paste this into GPT‑5 Pro. It produces a **Phase‑1 Collection Criteria Charter** that *only* defines objectives, scope, inclusion/exclusion, evidence schema, scoring rubric, and search scaffolding. It must **not** fetch sources or cite anything.
@@ -760,7 +750,7 @@ DELIVERABLES (produce all, in order)
 4) **Source Universe & Hierarchy** — ranked tiers (peer‑reviewed/surveys; preprints with methods; official lab/enterprise technical posts; high-signal practitioner case studies). Note disallowed sources (pure opinion/marketing without method).
 5) **Inclusion/Exclusion Rules (bullet list)** — LLM-era window (2020–present); requires method transparency, metrics or artifacts; domain openness; language (primarily English). List explicit exclusion criteria.
 6) **Sampling Plan (Phase‑1 quotas)** — target counts per tier (e.g., 12/8/8/6) and across levers; ensure diversity of domains (code assistants, enterprise QA, support, analytics). Include refresh policy and conflict‑finding trigger.
-7) **Evidence Table Schema (CSV header + 2 example rows filled with placeholders)**  
+7) **Evidence Table Schema (CSV header + 2 example rows filled with placeholders)**
    Columns (exact order): Title | Authors | Year | Venue/Source | URL | Lever(s) | Domain | Method Type | Datasets/Corpora | Metrics (as defined) | Reported Effect (direction/Δ) | Artifacts? (code/data) | Risks/Governance | Notes | Evidence Score (0–8)
 8) **Preliminary Metric Crosswalk (table)** — define how “accuracy”, “groundedness/faithfulness”, “retrieval precision/recall”, “supported-answer rate”, “latency”, “cost”, “robustness (attack success rate)” are typically operationalized; note common ambiguities.
 9) **Evidence Scoring Rubric (0–8)** — four sub-scores (0–2 each): Source Type; Method Clarity (datasets, baselines, ablations); Recency; Replicability Cues (code/data/eval harness). Include grading guidance and examples.
@@ -769,7 +759,7 @@ DELIVERABLES (produce all, in order)
 12) **Deep Research Handoff Contract** — precise tasking for the next step: inputs (this charter), outputs (n≥30 screened items; evidence table; methods appendix; contradictions list), documentation requirements, and acceptance criteria.
 
 STYLE & FORMAT
-- Output in Markdown with numbered sections matching the Deliverables. 
+- Output in Markdown with numbered sections matching the Deliverables.
 - Be concise and unambiguous. Use tables where helpful.
 - Do **not** fabricate citations or list specific papers. If a concrete example is needed, use neutral placeholders (e.g., “(Example peer-reviewed RAG ablation, 2024)”).
 - Summarize reasoning as bullet rationales; do not expose chain-of-thought.
@@ -785,7 +775,7 @@ Return the complete Phase‑1 Collection Criteria Charter per the above, ready t
 
 ---
 
-## 🔷 Prompt 2 — Deep Research (Template)  
+## 🔷 Prompt 2 — Deep Research (Template)
 **Phase‑1 / Step‑2: Initial Evidence Sweep (consumes the Charter)**
 
 > **Use case:** After you receive the Charter from Prompt‑1, paste it into this template (replace the placeholder). Run it in **Deep Research**. It will browse, collect, and return a citation‑rich evidence bundle that conforms strictly to your Charter.
@@ -840,27 +830,23 @@ Execute the search and compile the deliverables. Return the report, CSV(s), and 
 
 ### How to use these now
 
-1) **Run Prompt‑1 in GPT‑5 Pro** → get your **Phase‑1 Collection Criteria Charter**.  
-2) **Paste the Charter into Prompt‑2** in Deep Research → receive the **initial evidence bundle**.  
+1) **Run Prompt‑1 in GPT‑5 Pro** → get your **Phase‑1 Collection Criteria Charter**.
+2) **Paste the Charter into Prompt‑2** in Deep Research → receive the **initial evidence bundle**.
 3) We’ll then perform **sensemaking in GPT‑5 Pro** (clustering, matrices, term/metric crosswalk refinement) before deciding what to expand in Phase‑2.
 
 If you want, I can also provide a **one‑click CSV header** and a **starter Markdown skeleton** for the final report so your outputs snap into place without reformatting.
 
 ## You (2025-08-17T08:25:03.182000+00:00)
 
-I would like you to thoroughly double-check this prompt. To provide context, I'm summarizing some discussions we had earlier. The first step is about laying the groundwork for data collection, which will take place in phase two. We are exploring both academic theories and applied frameworks. 
+I would like you to thoroughly double-check this prompt. To provide context, I'm summarizing some discussions we had earlier. The first step is about laying the groundwork for data collection, which will take place in phase two. We are exploring both academic theories and applied frameworks.
 
-Academic theories include concepts like grounding, context, engineering, cognitive science, human-computer interaction (HCI), and natural language processing (NLP) literature. On the other hand, applied frameworks involve understanding the strategies employed by startups and large companies such as Anthropic, OpenAI, and Databricks. 
+Academic theories include concepts like grounding, context, engineering, cognitive science, human-computer interaction (HCI), and natural language processing (NLP) literature. On the other hand, applied frameworks involve understanding the strategies employed by startups and large companies such as Anthropic, OpenAI, and Databricks.
 
 Regarding the scope of disciplines, it’s somewhat complex; we're not solely focusing on traditional AI but also examining related fields such as behavioral science, cognitive science, and data ethics. As for evaluation, I believe I can discuss evaluation and synthesis in more detail later. Overall, the initial concept is as I have described here.
 
-## ChatGPT (2025-08-17T08:25:05.979918+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Refining user prompt", "content": "The user wants their prompt double-checked, specifically focusing on two prompts: Prompt 1 (GPT-5 Pro context setting) and Prompt 2 (Deep Research template). These are being applied to a broader academic and interdisciplinary framework. I'll refine and critique them to align with their clarified scope, without needing real-time info. I’ll keep the tone playful, but the topic is serious, so I’ll maintain crispness as per the style instructions.", "chunks": [], "finished": true}, {"summary": "Refining the prompt", "content": "I shouldn’t ask for clarifications since they’ve mentioned we’ll discuss evaluation later. The task is to refine the prompt to focus on academic theories, applied frameworks, and the interdisciplinary scope. I'll audit it for gaps, ambiguity, sequencing, and drift. The prompt should ensure Phase 1 is about criteria setting, not data retrieval. The language should be clear about that and retain balance by including labs and startups.", "chunks": [], "finished": true}, {"summary": "Incorporating additional disciplines", "content": "The user wants to include areas like cognitive science, HCI, NLP, behavioral science, and data ethics. The previous prompt didn’t cover these explicitly, so I’ll add terms like \"user experience measures,\" \"human factors,\" and \"ethics\" (privacy, fairness). I’ll also refine Phase 1 to focus only on data criteria and add definitions for cross-disciplinary concepts like \"context engineering\" and \"knowledge grounding.\"", "chunks": [], "finished": true}, {"summary": "Review structure and recommendations", "content": "The user wants a thorough yet concise check. I’ll include: \n\n- Audit findings with strengths and gaps\n- Revised Prompt 1 (tightened) and Prompt 2 with interdisciplinary updates\n- A quick QA checklist\n- Red-team test cases for things like model citation \n- Parameterization placeholders for customization \n\nWhile keeping the tone visionary yet rigorous, I'll ensure clarity without overcomplicating it.", "chunks": [], "finished": true}], "source_analysis_msg_id": "391d6234-2698-4e4d-acc9-5280a8dafbbe"}
 
-## ChatGPT (2025-08-17T08:25:41.916090+00:00)
 
-{"content_type": "reasoning_recap", "content": "Thought for 35s"}
 
 ## ChatGPT (2025-08-17T08:25:04.996111+00:00)
 
@@ -906,7 +892,7 @@ DELIVERABLES (produce all, in order)
 5) **Source Universe & Hierarchy** — ranked tiers: (1) peer-reviewed/surveys, (2) preprints with methods, (3) official lab/enterprise technical posts (e.g., Anthropic, OpenAI, Databricks, IBM), (4) high-signal practitioner/startup case studies with explicit methods. Disallowed: opinion/marketing without methods.
 6) **Inclusion/Exclusion Rules (bulleted)** — LLM-era window; requires method transparency or artifacts; domain applicability; English-language default; reasons for exclusion (e.g., no metrics, pre-LLM unless foundational to terms).
 7) **Sampling Plan (Phase-2 quotas)** — target counts per tier and across levers; ensure cross-discipline and domain diversity (e.g., code assistants, enterprise QA, support). Include a refresh policy and a trigger for conflict-seeking follow-ups.
-8) **Evidence Table Schema (CSV header + 2 placeholder rows)**  
+8) **Evidence Table Schema (CSV header + 2 placeholder rows)**
    Columns (exact order): Title | Authors | Year | Venue/Source | URL | Lever(s) | Discipline | Domain | Method Type | Datasets/Corpora | Metrics (verbatim def) | Reported Effect (direction/Δ) | Artifacts? (code/data) | Human/Ethical Outcomes (if any) | Risks/Governance Notes | Evidence Score (0–8) | Notes
 9) **Preliminary Metric Crosswalk (table)** — define/contrast: accuracy; groundedness/faithfulness/support; retrieval precision/recall; supported-answer rate; latency; cost; robustness (attack success). Add human-centered metrics (trust/calibration, usability/workload) and ethics metrics (privacy risk, fairness/harms, compliance) as placeholders to be elaborated later.
 10) **Evidence Scoring Rubric (0–8)** — four sub-scores (0–2 each): Source Type; Method Clarity (datasets, baselines, ablations); Recency; Replicability Cues (code/data/eval harness). Provide grading guidance and brief examples.
@@ -978,12 +964,11 @@ Execute the search and compile the deliverables. Return the report, CSV(s), and 
 
 ## Quick acceptance checklist for Prompt-1’s output
 
-- [ ] **No browsing/citations** present; it’s a standalone Charter.  
-- [ ] **Disciplinary map** explicitly names NLP/IR, HCI, cog sci, behavioral science, data ethics and sets boundaries.  
-- [ ] **Outcomes** include both system and human/ethical buckets (marked as catalog-only in Phase-1).  
-- [ ] **Evidence schema** has the added `Discipline` and `Human/Ethical Outcomes` columns.  
-- [ ] **Term crosswalk seeds** and **Boolean scaffolds** are present (but not executed).  
+- [ ] **No browsing/citations** present; it’s a standalone Charter.
+- [ ] **Disciplinary map** explicitly names NLP/IR, HCI, cog sci, behavioral science, data ethics and sets boundaries.
+- [ ] **Outcomes** include both system and human/ethical buckets (marked as catalog-only in Phase-1).
+- [ ] **Evidence schema** has the added `Discipline` and `Human/Ethical Outcomes` columns.
+- [ ] **Term crosswalk seeds** and **Boolean scaffolds** are present (but not executed).
 - [ ] **Handoff contract** clearly states quotas, deliverables, and acceptance criteria for Phase-2.
 
 If you want, I can tailor the Phase-2 quotas (e.g., 12/10/10/8 across tiers; ≥2 items per lever; ≥1 per non-NLP discipline) and drop in a CSV header you can paste directly into Sheets.
-

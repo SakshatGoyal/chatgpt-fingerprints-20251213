@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:46:02.346224+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 24 - C5-I3,Value Clash,Capability Frame,Unknown,Surface Alignment,Lean vs. Unique,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 25 - C5-I3,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 12 - C5-I4,Value Clash,Evidence Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Legacy Hold  
-CATEGORICAL MODULE 14 - C5-I4,Cognitive Fog,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Belief Bubble  
-CATEGORICAL MODULE 15 - C5-I4,Cognitive Fog,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Belief Bubble  
-CATEGORICAL MODULE 16 - C5-I4,Cultural Drift,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Comfort Bias  
-CATEGORICAL MODULE 7 - C5-I6,Value Clash,Capability Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 8 - C5-I6,Signal Split,Evidence Frame,Unknown,Surface Alignment,Plan vs. React,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 9 - C5-I6,Value Clash,Evidence Frame,Unknown,Unknown,Central vs. Flexible,Lost Direction,Silo Drag  
-CATEGORICAL MODULE 6 - C1-I1,Value Clash,Both/And Frame,Alignment Achieved,Unknown,Global vs. Local,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 9 - C1-I1,Cultural Drift,Ecosystem Frame,Unknown,Unknown,Central vs. Flexible,Execution Lag,Silo Drag  
-CATEGORICAL MODULE 3 - C1-I2,System Tangle,Evidence Frame,Unknown,Unknown,Plan vs. React,Governance Shift,Process Trap  
-CATEGORICAL MODULE 11 - C1-I2,Cognitive Fog,Evidence Frame,Unknown,Unknown,Plan vs. React,Lost Direction,Comfort Bias  
-CATEGORICAL MODULE 21 - C1-I2,Bold vs. Safe,Capability Frame,Locked In,True Clarity,Bold vs. Safe,Adaptive Growth,Legacy Hold  
-CATEGORICAL MODULE 22 - C1-I2,Value Clash,Evidence Frame,Tested First,Unknown,Global vs. Local,Execution Lag,Capability Gap  
-CATEGORICAL MODULE 23 - C1-I2,System Tangle,Ecosystem Frame,Alignment Achieved,Unknown,Vision vs. Reality,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 40 - C1-I2,Signal Split,Evidence Frame,Unknown,Surface Alignment,Plan vs. React,Execution Lag,Certainty Illusion  
-CATEGORICAL MODULE 43 - C1-I2,Value Clash,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Governance Shift,Capability Gap  
-CATEGORICAL MODULE 44 - C1-I2,Value Clash,Evidence Frame,Unknown,Unknown,Now vs. Later,Governance Shift,Certainty Illusion  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 24 - C5-I3,Value Clash,Capability Frame,Unknown,Surface Alignment,Lean vs. Unique,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 25 - C5-I3,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 12 - C5-I4,Value Clash,Evidence Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Legacy Hold
+CATEGORICAL MODULE 14 - C5-I4,Cognitive Fog,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Belief Bubble
+CATEGORICAL MODULE 15 - C5-I4,Cognitive Fog,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Belief Bubble
+CATEGORICAL MODULE 16 - C5-I4,Cultural Drift,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Comfort Bias
+CATEGORICAL MODULE 7 - C5-I6,Value Clash,Capability Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 8 - C5-I6,Signal Split,Evidence Frame,Unknown,Surface Alignment,Plan vs. React,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 9 - C5-I6,Value Clash,Evidence Frame,Unknown,Unknown,Central vs. Flexible,Lost Direction,Silo Drag
+CATEGORICAL MODULE 6 - C1-I1,Value Clash,Both/And Frame,Alignment Achieved,Unknown,Global vs. Local,Adaptive Growth,Unknown
+CATEGORICAL MODULE 9 - C1-I1,Cultural Drift,Ecosystem Frame,Unknown,Unknown,Central vs. Flexible,Execution Lag,Silo Drag
+CATEGORICAL MODULE 3 - C1-I2,System Tangle,Evidence Frame,Unknown,Unknown,Plan vs. React,Governance Shift,Process Trap
+CATEGORICAL MODULE 11 - C1-I2,Cognitive Fog,Evidence Frame,Unknown,Unknown,Plan vs. React,Lost Direction,Comfort Bias
+CATEGORICAL MODULE 21 - C1-I2,Bold vs. Safe,Capability Frame,Locked In,True Clarity,Bold vs. Safe,Adaptive Growth,Legacy Hold
+CATEGORICAL MODULE 22 - C1-I2,Value Clash,Evidence Frame,Tested First,Unknown,Global vs. Local,Execution Lag,Capability Gap
+CATEGORICAL MODULE 23 - C1-I2,System Tangle,Ecosystem Frame,Alignment Achieved,Unknown,Vision vs. Reality,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 40 - C1-I2,Signal Split,Evidence Frame,Unknown,Surface Alignment,Plan vs. React,Execution Lag,Certainty Illusion
+CATEGORICAL MODULE 43 - C1-I2,Value Clash,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Governance Shift,Capability Gap
+CATEGORICAL MODULE 44 - C1-I2,Value Clash,Evidence Frame,Unknown,Unknown,Now vs. Later,Governance Shift,Certainty Illusion
 CATEGORICAL MODULE 3 - C1-I3,Cultural Drift,Values Frame,Alignment Achieved,Unknown,Plan vs. React,Adaptive Growth,Comfort Bias
-

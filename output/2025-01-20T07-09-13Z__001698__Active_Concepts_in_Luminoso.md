@@ -163,4 +163,3 @@ To conduct a **usability audit of Luminoso**, we can outline a series of **keypa
 ---
 
 These keypaths should give you a structured way to evaluate Luminoso’s usability and provide actionable feedback on how well it supports a data analyst's workflow.
-

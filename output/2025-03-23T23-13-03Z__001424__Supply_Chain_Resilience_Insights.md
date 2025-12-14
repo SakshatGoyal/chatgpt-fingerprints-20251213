@@ -152,65 +152,65 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Key Themes:** This study examines how global events—specifically pandemics and geopolitical conflicts—disrupt supply chains and, in turn, challenge business resilience. Core strategies explored include supplier diversification, digital transformation, lean versus agile approaches, and proactive risk management.
 - **Core Motivations:** Driven by the need to understand vulnerabilities exposed during crises, the research seeks to offer actionable insights into how businesses can reconfigure their supply chains to both mitigate risk and capture strategic opportunities.
 - **Methodological Clarification:** Employing a mixed-method approach, the study integrates qualitative case studies from diverse industries with quantitative data analysis (e.g., surveys and statistical evidence), which supports its conclusions with robust empirical findings. Limitations stem from the evolving nature of global disruptions and varying industry contexts.
-- **Relevance Assessment:** For today’s executives, the findings are directly applicable, offering clear metrics (e.g., 30% reduction in delays, 35% improvement in forecasting) that underscore the tangible benefits of resilience strategies in an increasingly volatile global market. citeturn0file0
+- **Relevance Assessment:** For today’s executives, the findings are directly applicable, offering clear metrics (e.g., 30% reduction in delays, 35% improvement in forecasting) that underscore the tangible benefits of resilience strategies in an increasingly volatile global market.
 
 ## Grounded Executive Insights
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Executives must prioritize supply chain resilience by leveraging diversified supplier networks and digital transformation strategies, as these measures demonstrably reduce delays and enhance operational agility." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders face the challenge of balancing cost efficiency against the need for robust risk mitigation in a volatile global environment.  
-- **Underlying Beliefs & Biases:** There is a common bias toward lean, cost-saving models that may undervalue the benefits of resilience investments.  
-- **Expected vs. Actual Outcomes:** While traditional models promise lower costs, empirical evidence from the study shows that supplier diversification leads to a 30% reduction in delays.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders face the challenge of balancing cost efficiency against the need for robust risk mitigation in a volatile global environment.
+- **Underlying Beliefs & Biases:** There is a common bias toward lean, cost-saving models that may undervalue the benefits of resilience investments.
+- **Expected vs. Actual Outcomes:** While traditional models promise lower costs, empirical evidence from the study shows that supplier diversification leads to a 30% reduction in delays.
 - **Broader Implications:** Emphasizing resilience, though potentially more costly in the short term, secures long-term operational stability amid global uncertainties. **[Empirical]**
 
-**Supporting Context**  
-Empirical data from the study indicate that 93% of companies experienced supply chain disruptions, with diversified supplier networks reducing delays by 30% and digital investments improving demand forecasting by 35%. These findings clearly reinforce the need for proactive resilience strategies. **[Empirical]** citeturn0file0
+**Supporting Context**
+Empirical data from the study indicate that 93% of companies experienced supply chain disruptions, with diversified supplier networks reducing delays by 30% and digital investments improving demand forecasting by 35%. These findings clearly reinforce the need for proactive resilience strategies. **[Empirical]**
 
 ---
 
-**2. Insight Statement**  
+**2. Insight Statement**
 "Adopting digital technologies, such as AI and blockchain, significantly enhances supply chain visibility and responsiveness, yet there remains a risk of overreliance on technology if not integrated with flexible operational strategies." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must choose between sticking with legacy systems or embracing transformative digital solutions that require extensive change management.  
-- **Underlying Beliefs & Biases:** A cognitive bias toward familiar, established systems may delay digital adoption, despite clear operational advantages.  
-- **Expected vs. Actual Outcomes:** Whereas traditional systems are expected to sustain operations at lower costs, the study documents a 35% improvement in demand forecasting and a 25% boost in inventory management efficiency following digital adoption.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must choose between sticking with legacy systems or embracing transformative digital solutions that require extensive change management.
+- **Underlying Beliefs & Biases:** A cognitive bias toward familiar, established systems may delay digital adoption, despite clear operational advantages.
+- **Expected vs. Actual Outcomes:** Whereas traditional systems are expected to sustain operations at lower costs, the study documents a 35% improvement in demand forecasting and a 25% boost in inventory management efficiency following digital adoption.
 - **Broader Implications:** The integration of digital tools not only streamlines operations but also demands a balanced approach to avoid technological overconfidence, ensuring human oversight remains pivotal. **[Empirical]**
 
-**Supporting Context**  
-Quantitative analysis within the paper reports that companies leveraging AI-driven technologies achieved a 35% improvement in demand forecasting and enhanced inventory management efficiency by 25%, underscoring the transformative impact of digital investments. **[Empirical]** citeturn0file0
+**Supporting Context**
+Quantitative analysis within the paper reports that companies leveraging AI-driven technologies achieved a 35% improvement in demand forecasting and enhanced inventory management efficiency by 25%, underscoring the transformative impact of digital investments. **[Empirical]**
 
 ---
 
-**3. Insight Statement**  
+**3. Insight Statement**
 "The study reveals that traditional lean supply chains, while cost-efficient, are less adaptable during crises compared to agile models, prompting a shift towards hybrid strategies that blend efficiency with flexibility." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives are challenged to reconcile the benefits of cost efficiency with the necessity of operational flexibility to navigate unexpected disruptions.  
-- **Underlying Beliefs & Biases:** There is an entrenched belief in lean models for their proven cost benefits, which can overshadow the need for agility and risk buffers.  
-- **Expected vs. Actual Outcomes:** While lean strategies aim to minimize waste, empirical evidence shows that agile—or hybrid—approaches result in a 40% higher likelihood of maintaining continuous operations during crises.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives are challenged to reconcile the benefits of cost efficiency with the necessity of operational flexibility to navigate unexpected disruptions.
+- **Underlying Beliefs & Biases:** There is an entrenched belief in lean models for their proven cost benefits, which can overshadow the need for agility and risk buffers.
+- **Expected vs. Actual Outcomes:** While lean strategies aim to minimize waste, empirical evidence shows that agile—or hybrid—approaches result in a 40% higher likelihood of maintaining continuous operations during crises.
 - **Broader Implications:** The emerging preference for hybrid supply chain models calls for a re-evaluation of long-held operational paradigms, with an emphasis on balancing risk and cost. **[Empirical]**
 
-**Supporting Context**  
-Survey data within the study indicate that companies adopting agile or hybrid models were 40% more resilient in maintaining operations during disruptions, confirming the advantage of flexibility over strict cost efficiency. **[Empirical]** citeturn0file0
+**Supporting Context**
+Survey data within the study indicate that companies adopting agile or hybrid models were 40% more resilient in maintaining operations during disruptions, confirming the advantage of flexibility over strict cost efficiency. **[Empirical]**
 
 ---
 
-**4. Insight Statement**  
+**4. Insight Statement**
 "Geopolitical conflicts impose significant operational challenges that necessitate proactive executive strategies such as localization and scenario planning, underscoring the need for dynamic risk management approaches." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders must decide whether to absorb the costs of relocating production versus the risks of sustained dependency on volatile global networks.  
-- **Underlying Beliefs & Biases:** There is often a bias to maintain established international supply chains, even when geopolitical risks are escalating.  
-- **Expected vs. Actual Outcomes:** Although traditional global networks are presumed cost-effective, empirical evidence shows that localization strategies can reduce tariff-related costs by up to 20%.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders must decide whether to absorb the costs of relocating production versus the risks of sustained dependency on volatile global networks.
+- **Underlying Beliefs & Biases:** There is often a bias to maintain established international supply chains, even when geopolitical risks are escalating.
+- **Expected vs. Actual Outcomes:** Although traditional global networks are presumed cost-effective, empirical evidence shows that localization strategies can reduce tariff-related costs by up to 20%.
 - **Broader Implications:** These findings encourage a strategic pivot towards adaptive risk management, where proactive scenario planning and localized operations become essential in mitigating geopolitical risks. **[Empirical]**
 
-**Supporting Context**  
-The study details that strategic localization reduced tariff-related costs by 15%, while collaborative supplier networks contributed an additional 5% reduction—together evidencing the effectiveness of dynamic risk management in the face of geopolitical disruptions. **[Empirical]** citeturn0file0
+**Supporting Context**
+The study details that strategic localization reduced tariff-related costs by 15%, while collaborative supplier networks contributed an additional 5% reduction—together evidencing the effectiveness of dynamic risk management in the face of geopolitical disruptions. **[Empirical]**
 
 ---
 
@@ -484,21 +484,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -511,4 +511,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T23:16:10.260744+00:00)
 
 Mbonigaba, C., & Sujatha, S. (2024). *Impact of global supply chain disruptions on business resilience: Strategies for adapting to pandemics and geopolitical conflicts*. International Journal of Advanced Trends in Engineering and Technology, 9(2), 44–53. https://doi.org/10.5281/zenodo.13887198
-

@@ -8,7 +8,6 @@ Hey, so for your context, we were working on this research project where I had a
 
 Here’s a refined version of your approach in two sentences:
 
-"I designed a structured evaluation framework that systematically analyzes the defining features of each content module—such as strategic focus, scope, and industry context—and uses those criteria to categorize them into distinct strategy types like business-level, corporate, or functional. This framework served as a semi-automated pipeline, enabling ChatGPT to apply consistent, quantifiable logic to accurately sort the modules at scale." 
+"I designed a structured evaluation framework that systematically analyzes the defining features of each content module—such as strategic focus, scope, and industry context—and uses those criteria to categorize them into distinct strategy types like business-level, corporate, or functional. This framework served as a semi-automated pipeline, enabling ChatGPT to apply consistent, quantifiable logic to accurately sort the modules at scale."
 
 Would you like a more casual or more technical version as well?
-

@@ -37,74 +37,73 @@ I’m attaching a document that outlines our research project for reference. Fee
 Here are three outreach email options tailored to your goals:
 
 ### **1. Casual and Conversational**
-**Subject Line Ideas:**  
-- Quick favor: Can you connect us?  
-- Your network could make a big impact  
-- Helping us reach strategic leaders  
+**Subject Line Ideas:**
+- Quick favor: Can you connect us?
+- Your network could make a big impact
+- Helping us reach strategic leaders
 
-**Email Body:**  
-Hi Scott,  
+**Email Body:**
+Hi Scott,
 
-Hope this note finds you well!  
+Hope this note finds you well!
 
-I’m reaching out because we’re conducting a research study on how senior executives make strategic decisions, and we’d love your help. We’re looking to connect with C-level executives, SVPs, GMs, or Heads of Strategy across various industries — and I imagine your network might include people who’d be a great fit.  
+I’m reaching out because we’re conducting a research study on how senior executives make strategic decisions, and we’d love your help. We’re looking to connect with C-level executives, SVPs, GMs, or Heads of Strategy across various industries — and I imagine your network might include people who’d be a great fit.
 
-The study dives into how leaders handle complex decisions, and we’re offering a $300 gratuity (or charity donation) as a token of appreciation for their time.  
+The study dives into how leaders handle complex decisions, and we’re offering a $300 gratuity (or charity donation) as a token of appreciation for their time.
 
-Would you be open to forwarding some details to anyone in your network who might be interested? If helpful, I can provide a short, forwardable note to make things easy.  
+Would you be open to forwarding some details to anyone in your network who might be interested? If helpful, I can provide a short, forwardable note to make things easy.
 
-Thanks so much for considering — we really appreciate your time!  
+Thanks so much for considering — we really appreciate your time!
 
-Best,  
-[Your Name]  
+Best,
+[Your Name]
 
 ---
 
 ### **2. Professional Yet Warm**
-**Subject Line Ideas:**  
-- Connecting with senior leaders — could you help?  
-- Seeking your support for a research project  
-- Help us connect with top decision-makers  
+**Subject Line Ideas:**
+- Connecting with senior leaders — could you help?
+- Seeking your support for a research project
+- Help us connect with top decision-makers
 
-**Email Body:**  
-Hi Scott,  
+**Email Body:**
+Hi Scott,
 
-I hope you’re doing well!  
+I hope you’re doing well!
 
-I wanted to reach out because we’re conducting a research study on how senior executives approach strategic decision-making. We’re particularly interested in hearing from C-level leaders, SVPs, GMs, or Heads of Strategy.  
+I wanted to reach out because we’re conducting a research study on how senior executives approach strategic decision-making. We’re particularly interested in hearing from C-level leaders, SVPs, GMs, or Heads of Strategy.
 
-I know you have an impressive network of senior professionals, and I was wondering if you’d be willing to help us connect with a few individuals who may be a fit.  
+I know you have an impressive network of senior professionals, and I was wondering if you’d be willing to help us connect with a few individuals who may be a fit.
 
-We’re offering a $300 gratuity (or a charity donation) as a thank-you for their time. If it’s easier, I’d be happy to provide a brief forwardable message that you can share directly.  
+We’re offering a $300 gratuity (or a charity donation) as a thank-you for their time. If it’s easier, I’d be happy to provide a brief forwardable message that you can share directly.
 
-Please let me know if you’d be open to helping, and thanks in advance for your time and consideration!  
+Please let me know if you’d be open to helping, and thanks in advance for your time and consideration!
 
-Best,  
-[Your Name]  
+Best,
+[Your Name]
 
 ---
 
 ### **3. Short and Direct**
-**Subject Line Ideas:**  
-- Quick ask: Can you help us connect?  
-- Would you mind forwarding this?  
-- Help us reach senior executives  
+**Subject Line Ideas:**
+- Quick ask: Can you help us connect?
+- Would you mind forwarding this?
+- Help us reach senior executives
 
-**Email Body:**  
-Hi Scott,  
+**Email Body:**
+Hi Scott,
 
-I’m working on a research study about executive decision-making, and I was hoping you might be able to help.  
+I’m working on a research study about executive decision-making, and I was hoping you might be able to help.
 
-We’re looking to connect with C-level executives, SVPs, GMs, or Heads of Strategy for brief conversations. We’re offering a $300 gratuity (or charity donation) as a thank-you for their time.  
+We’re looking to connect with C-level executives, SVPs, GMs, or Heads of Strategy for brief conversations. We’re offering a $300 gratuity (or charity donation) as a thank-you for their time.
 
-Would you be open to forwarding some details to anyone in your network who may be a fit? I’d be happy to provide a brief note you can share directly.  
+Would you be open to forwarding some details to anyone in your network who may be a fit? I’d be happy to provide a brief note you can share directly.
 
-Thanks so much!  
+Thanks so much!
 
-Best,  
-[Your Name]  
+Best,
+[Your Name]
 
 ---
 
 Would you like a forwardable message template as well?
-

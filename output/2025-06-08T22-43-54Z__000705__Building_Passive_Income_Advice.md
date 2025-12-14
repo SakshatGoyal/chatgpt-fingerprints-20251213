@@ -8,23 +8,23 @@ If I were looking for financial advice from anyone in the world, who would I pic
 
 If you're seeking realistic, actionable financial advice for building passive income, consider guidance from these widely respected experts:
 
-1. **Ramit Sethi**  
+1. **Ramit Sethi**
    - **Strength**: Practical, psychology-informed strategies for automating savings, investments, and passive income streams.
    - **Recommended source**: *I Will Teach You To Be Rich* (book, blog, podcast).
 
-2. **Paula Pant**  
+2. **Paula Pant**
    - **Strength**: Clear, actionable insights into passive income through real estate investing and financial independence.
    - **Recommended source**: *Afford Anything* podcast and blog.
 
-3. **Robert Kiyosaki** (with caution)  
+3. **Robert Kiyosaki** (with caution)
    - **Strength**: Inspirational mindset shifts on leveraging assets to create passive income.
    - **Recommended source**: *Rich Dad Poor Dad*. (Note: Great conceptual motivator, but supplement with more detailed, realistic financial analysis.)
 
-4. **JL Collins**  
+4. **JL Collins**
    - **Strength**: Realistic passive income through simple, long-term investing strategies, especially index funds.
    - **Recommended source**: *The Simple Path to Wealth*.
 
-5. **Morgan Housel**  
+5. **Morgan Housel**
    - **Strength**: Realistic and insightful understanding of behavioral finance and risk management, which grounds passive income expectations in reality.
    - **Recommended source**: *The Psychology of Money*.
 
@@ -41,4 +41,3 @@ If you're seeking realistic, actionable financial advice for building passive in
 | **Peer-to-peer Lending**| Realistic, manageable risk.        | Diversify across multiple platforms.         |
 
 Choose according to your tolerance for upfront effort, capital availability, and desired complexity.
-

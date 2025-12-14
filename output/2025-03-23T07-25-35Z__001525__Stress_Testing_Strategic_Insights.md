@@ -160,64 +160,64 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Insight on Technological Integration and Strategic Agility
 
-**Insight Statement:**  
+**Insight Statement:**
 Integrating digital technologies—particularly AI and big data analytics—fundamentally enhances strategic agility, enabling organizations to pivot swiftly and make data-driven decisions in volatile markets. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must reconcile the need for rapid innovation with the integration of legacy systems, facing the challenge of blending traditional planning with dynamic, technology-driven models. **[Empirical]**  
-- **Underlying Beliefs & Biases:** Prevailing assumptions often favor established decision-making routines; however, evidence indicates that reliance on outdated frameworks can impair responsiveness in the digital age. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** While leaders expect digital integration to streamline operations, practical implementation frequently reveals gaps between anticipated agility and real-world challenges in aligning digital capabilities with strategic goals. **[Inferred]**  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must reconcile the need for rapid innovation with the integration of legacy systems, facing the challenge of blending traditional planning with dynamic, technology-driven models. **[Empirical]**
+- **Underlying Beliefs & Biases:** Prevailing assumptions often favor established decision-making routines; however, evidence indicates that reliance on outdated frameworks can impair responsiveness in the digital age. **[Inferred]**
+- **Expected vs. Actual Outcomes:** While leaders expect digital integration to streamline operations, practical implementation frequently reveals gaps between anticipated agility and real-world challenges in aligning digital capabilities with strategic goals. **[Inferred]**
 - **Broader Implications:** Firms that successfully integrate digital tools can gain a competitive edge, yet they must remain vigilant against implementation hurdles and misaligned technological investments. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Comparative analyses within the paper document that frameworks leveraging predictive models and data analytics can improve forecasting accuracy by significant margins, underscoring the tangible benefits of digital integration. **[Empirical]**
 
 ---
 
 ### 2. Insight on Cognitive Biases in Digital Decision-Making
 
-**Insight Statement:**  
+**Insight Statement:**
 Cognitive biases inherent in traditional performance management systems impede the effective adoption of digital decision-making frameworks, leading to suboptimal strategic outcomes. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders face the dual challenge of integrating sophisticated digital tools while simultaneously countering entrenched cognitive biases that skew judgment in data-rich environments. **[Empirical]**  
-- **Underlying Beliefs & Biases:** There is an implicit belief that digital tools alone can override subjective decision errors; however, unaddressed biases continue to influence managerial choices adversely. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** Although the expectation is that digitalization will produce more objective decisions, persistent biases have been shown to reduce performance metrics by distorting data interpretation. **[Inferred]**  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders face the dual challenge of integrating sophisticated digital tools while simultaneously countering entrenched cognitive biases that skew judgment in data-rich environments. **[Empirical]**
+- **Underlying Beliefs & Biases:** There is an implicit belief that digital tools alone can override subjective decision errors; however, unaddressed biases continue to influence managerial choices adversely. **[Inferred]**
+- **Expected vs. Actual Outcomes:** Although the expectation is that digitalization will produce more objective decisions, persistent biases have been shown to reduce performance metrics by distorting data interpretation. **[Inferred]**
 - **Broader Implications:** Mitigating cognitive biases is critical for harnessing the full potential of digital strategies, necessitating targeted training and an overhaul of legacy decision-making practices. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The review highlights instances where unmitigated cognitive biases led to measurable discrepancies—up to a 15% divergence in expected performance—reinforcing the need for bias-aware management practices. **[Empirical]**
 
 ---
 
 ### 3. Insight on Balancing Digital Transformation with Implementation Challenges
 
-**Insight Statement:**  
+**Insight Statement:**
 While digital transformation strategies promise enhanced competitiveness, their success is frequently undermined by challenges in aligning new technologies with existing organizational structures and cultural readiness. **[Inferred]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives are compelled to drive innovation without destabilizing established processes, often contending with resistance from entrenched systems and cultural inertia. **[Inferred]**  
-- **Underlying Beliefs & Biases:** There is a common overconfidence in the rapid benefits of digital adoption, which overlooks the complex, resource-intensive nature of integrating new systems into traditional frameworks. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** Anticipated gains in efficiency and market responsiveness are frequently offset by implementation delays and operational mismatches, challenging the presumed linear benefits of digital transformation. **[Empirical]**  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives are compelled to drive innovation without destabilizing established processes, often contending with resistance from entrenched systems and cultural inertia. **[Inferred]**
+- **Underlying Beliefs & Biases:** There is a common overconfidence in the rapid benefits of digital adoption, which overlooks the complex, resource-intensive nature of integrating new systems into traditional frameworks. **[Inferred]**
+- **Expected vs. Actual Outcomes:** Anticipated gains in efficiency and market responsiveness are frequently offset by implementation delays and operational mismatches, challenging the presumed linear benefits of digital transformation. **[Empirical]**
 - **Broader Implications:** A measured, phased approach that pairs digital innovation with change management and employee training is essential for minimizing disruption and achieving sustainable transformation. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper’s comparative findings indicate that organizations using a gradual, context-specific integration strategy experienced 10–20% fewer operational setbacks compared to those attempting immediate, wholesale transformation. **[Empirical]**
 
 ---
 
 ### 4. Insight on Sustainability and ESG Integration
 
-**Insight Statement:**  
+**Insight Statement:**
 Integrating sustainability and ESG factors into strategic management frameworks is emerging as a critical driver of long-term value creation, challenging the traditional focus on short-term financial metrics. **[Inferred]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must balance short-term profit pressures with the long-term imperative of embedding sustainability into core strategic processes, often rethinking performance metrics and investment priorities. **[Inferred]**  
-- **Underlying Beliefs & Biases:** A cognitive bias favoring immediate financial returns can obscure the strategic advantages of ESG integration, potentially sidelining sustainable practices despite clear long-term benefits. **[Speculative]**  
-- **Expected vs. Actual Outcomes:** While there is growing recognition of the strategic importance of sustainability, real-world implementation often lags due to competing priorities and limited resources. **[Empirical]**  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must balance short-term profit pressures with the long-term imperative of embedding sustainability into core strategic processes, often rethinking performance metrics and investment priorities. **[Inferred]**
+- **Underlying Beliefs & Biases:** A cognitive bias favoring immediate financial returns can obscure the strategic advantages of ESG integration, potentially sidelining sustainable practices despite clear long-term benefits. **[Speculative]**
+- **Expected vs. Actual Outcomes:** While there is growing recognition of the strategic importance of sustainability, real-world implementation often lags due to competing priorities and limited resources. **[Empirical]**
 - **Broader Implications:** Embracing ESG considerations not only mitigates risks but also positions companies as market leaders in responsible innovation, ultimately enhancing resilience during economic downturns. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The review cites evidence where organizations with robust ESG frameworks demonstrated up to a 15% increase in market resilience, reinforcing the strategic value of incorporating sustainability into decision-making. **[Empirical]**
 
 ---
@@ -492,21 +492,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -519,4 +519,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T07:28:20.009607+00:00)
 
 Choori, A., & Kazemi, S. (2023). Strategic management in the digital age: A review of decision-making frameworks. *International Journal of Innovation Management and Organizational Behavior, 3*(2), 21–32. https://doi.org/10.61838/kman.ijimob.3.2.4
-

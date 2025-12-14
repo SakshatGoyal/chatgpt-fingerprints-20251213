@@ -72,8 +72,3 @@ For each principle in the .md file, fill out a row in this table:
 ## ChatGPT (2025-04-21T06:59:34.753108+00:00)
 
 Here's your comprehensive unified evaluation table of the design principles, synthesized clearly and succinctly, integrating Tim Brown’s human-centered strategic lens and Julie Zhuo’s pragmatic clarity:
-
-## ChatGPT (2025-04-21T06:59:48.195130+00:00)
-
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"ai_principles_eval\",\"type\":\"document\",\"content\":\"| Contributor | Principle Number | Strategic Usefulness | Distinctiveness | Real-World Relevance | Product Imaginability | Counter-Principle Strength | Emotional Resonance | Comments | Final Recommendation |\\n|-------------|-------------------|----------------------|------------------|----------------------|"}
-

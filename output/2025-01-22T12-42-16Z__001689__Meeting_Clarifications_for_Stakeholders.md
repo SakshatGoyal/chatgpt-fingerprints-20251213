@@ -5,8 +5,6 @@
 this is one of the internal meetings we just had among the designers and engineers, who are trying to figure out the next step with the stakeholders and their engineers. Could u read through it in detail and figure out all the questions the attendees of this meeting want to clarify with the stakeholders
 
 
-
-
 _______
 
 
@@ -392,46 +390,46 @@ Here’s a detailed list of all the questions from the meeting that need to be c
 
 ### 1. Libraries and APIs
 - **What libraries are they currently using?** Are there specific preferences or restrictions on libraries we can integrate?
-- **Which specific APIs are being used for the dashboard?** 
+- **Which specific APIs are being used for the dashboard?**
   - A list of all APIs involved in DAPP integration is required for front-end code development.
 - **Is the API version listed as v5 accurate?** Are there any planned updates to this version?
 
 ### 2. AI Summaries and Widgets
-- **How do AI summaries work across widgets?**  
+- **How do AI summaries work across widgets?**
   - Currently, summaries exist only for select widgets. How will they scale to other widgets?
 - **Is there a walkthrough or documentation on creating summaries for specific widgets (e.g., "Largest Concept Movement")?**
 - **Can users customize summaries for individual widgets, or is it automated?**
 
 ### 3. Dashboard and Widget Behavior
-- **How should we handle different visualizations for widgets?**  
+- **How should we handle different visualizations for widgets?**
   - What level of customization is required (e.g., smooth vs. angular lines)?
-- **What is the expected behavior for filters?**  
+- **What is the expected behavior for filters?**
   - How should local and global filters interact with charts and other visualizations?
-- **How should text boxes (e.g., Text Widget) function?**  
+- **How should text boxes (e.g., Text Widget) function?**
   - Are features like copy-paste, text alignment, and resizing requirements?
-  
+
 ### 4. User Experience (UX)
-- **Is there a need for an onboarding flow for the dashboard?**  
+- **Is there a need for an onboarding flow for the dashboard?**
   - If so, what key elements should the onboarding highlight?
-- **Should we prepare templates or guidelines for users to structure their visualizations?**  
+- **Should we prepare templates or guidelines for users to structure their visualizations?**
 
 ### 5. Technical Considerations
-- **Is the current codebase available for review?**  
+- **Is the current codebase available for review?**
   - This is crucial to understand matching screens, completely different screens, and potential design/development efforts.
-- **How do filters impact performance?**  
+- **How do filters impact performance?**
   - For example, if multiple filters trigger simultaneous API calls, are there performance thresholds we should consider?
-- **Can the current implementation support container-like layouts for responsive design?**  
+- **Can the current implementation support container-like layouts for responsive design?**
   - If not, are there suggestions for alternatives or modifications?
-  
+
 ### 6. Concept and Data Integration
-- **What is the process for creating or importing "Active Concepts"?**  
+- **What is the process for creating or importing "Active Concepts"?**
   - Can users create custom subsets of keywords or concepts for integration into dashboards?
 - **How do predefined concepts like "Customer" and "Care" map to comments or documents?**
-- **How is sentiment (positive/negative) calculated for specific keywords or concepts?**  
+- **How is sentiment (positive/negative) calculated for specific keywords or concepts?**
   - Are these calculations customizable?
 
 ### 7. Project Timeline and Scope
-- **What are the most critical deliverables aligned with the demo?**  
+- **What are the most critical deliverables aligned with the demo?**
   - Are there specific widgets, screens, or functionalities required for the stakeholder demos?
 - **What are the expectations for incremental deliverables (e.g., navigation, chart integration)?**
 - **What is the priority for scalability across the rest of the application?**
@@ -451,53 +449,51 @@ https://daylight.luminoso.com/api/v5/
 
 and let me know if this answers any of the questions we just discussed
 
-## ChatGPT (2025-01-22T12:43:48.259466+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search(\"could u read through all the pages in this website\\nhttps://daylight.luminoso.com/api/v5/\\n\\nand let me know if this answers any of the questions we just discussed\\n\")"}
 
 ## ChatGPT (2025-01-22T12:43:48.259673+00:00)
 
-After reviewing the Luminoso Daylight API v5 documentation citeturn0search0, here are the insights related to our previously discussed questions:
+After reviewing the Luminoso Daylight API v5 documentation , here are the insights related to our previously discussed questions:
 
 **1. Libraries and APIs**
 
-- **API Version**: The documentation confirms that the current API version is v5. There is no mention of any planned updates beyond this version.
+- **API Version**: The documentation confirms that the current API version is v5. There is no mention of any planned updates beyond this version.
 
-- **Available Endpoints**: The API provides various endpoints categorized under Projects, Documents, Terms, Concepts, Dashboards, and more. Each endpoint is documented with its functionality, required parameters, and expected responses.
+- **Available Endpoints**: The API provides various endpoints categorized under Projects, Documents, Terms, Concepts, Dashboards, and more. Each endpoint is documented with its functionality, required parameters, and expected responses.
 
 **2. AI Summaries and Widgets**
 
-- **Concept Sentiment**: The "Get concept sentiment" endpoint offers sentiment analysis at the concept level, providing sentiment share and raw counts for each concept. Notably, project-wide sentiment share and counts have been deprecated as of September 10, 2022, indicating a shift from document-level to concept-level sentiment analysis.
+- **Concept Sentiment**: The "Get concept sentiment" endpoint offers sentiment analysis at the concept level, providing sentiment share and raw counts for each concept. Notably, project-wide sentiment share and counts have been deprecated as of September 10, 2022, indicating a shift from document-level to concept-level sentiment analysis.
 
 **3. Dashboard and Widget Behavior**
 
-- **Dashboards Endpoint**: The API includes endpoints for managing dashboards, such as listing available dashboards, creating new ones, and retrieving dashboard data. However, specific details about widget customization, filter interactions, and text box functionalities are not elaborated in the provided documentation.
+- **Dashboards Endpoint**: The API includes endpoints for managing dashboards, such as listing available dashboards, creating new ones, and retrieving dashboard data. However, specific details about widget customization, filter interactions, and text box functionalities are not elaborated in the provided documentation.
 
 **4. User Experience (UX)**
 
-- The documentation does not provide information regarding onboarding flows or user experience guidelines for the dashboard.
+- The documentation does not provide information regarding onboarding flows or user experience guidelines for the dashboard.
 
 **5. Technical Considerations**
 
-- **Rate Limits**: The API enforces a default rate limit of ten requests per second. Exceeding this limit results in a 429 error. Some endpoints may have different rate limits, which are specified in their respective documentation.
+- **Rate Limits**: The API enforces a default rate limit of ten requests per second. Exceeding this limit results in a 429 error. Some endpoints may have different rate limits, which are specified in their respective documentation.
 
-- **Deprecations**: Certain fields and parameters have been deprecated. For instance, the "skip_rebuild" parameter in the "Copy project" endpoint was deprecated on November 5, 2022, with its removal scheduled for April 25, 2023. It's essential to review the deprecations section to ensure compatibility.
+- **Deprecations**: Certain fields and parameters have been deprecated. For instance, the "skip_rebuild" parameter in the "Copy project" endpoint was deprecated on November 5, 2022, with its removal scheduled for April 25, 2023. It's essential to review the deprecations section to ensure compatibility.
 
 **6. Concept and Data Integration**
 
-- **Term Management**: The API provides endpoints for retrieving and updating term management information, which can be useful for handling concepts and their associations.
+- **Term Management**: The API provides endpoints for retrieving and updating term management information, which can be useful for handling concepts and their associations.
 
 **7. Project Timeline and Scope**
 
-- The documentation does not specify details about project timelines, deliverables, or scalability considerations.
+- The documentation does not specify details about project timelines, deliverables, or scalability considerations.
 
 **8. Additional Team Support**
 
-- Information regarding team resources or support is not covered in the API documentation.
+- Information regarding team resources or support is not covered in the API documentation.
 
 **Conclusion**
 
-While the Luminoso Daylight API v5 documentation offers valuable technical details about available endpoints, functionalities, and certain limitations, it does not comprehensively address all our previously discussed questions, especially those related to user experience, widget behavior, and project-specific considerations. For those areas, direct communication with the stakeholders would be more effective.
+While the Luminoso Daylight API v5 documentation offers valuable technical details about available endpoints, functionalities, and certain limitations, it does not comprehensively address all our previously discussed questions, especially those related to user experience, widget behavior, and project-specific considerations. For those areas, direct communication with the stakeholders would be more effective.
 
 ## You (2025-01-22T12:45:58.315977+00:00)
 
@@ -519,14 +515,14 @@ Here’s a breakdown of the questions from the meeting, answers (if available), 
 
 - **Which APIs are being used for the dashboard?**
   - **Answer:** The Luminoso Daylight API v5 is the confirmed version. Details about API endpoints for dashboards and concepts are available.
-  - **Follow-up:**  
-    - Are there specific endpoints for visualizations and filters that should be prioritized?  
+  - **Follow-up:**
+    - Are there specific endpoints for visualizations and filters that should be prioritized?
     - Do the APIs support real-time data fetching and updates, or is it a batch process?
 
 - **What is the expected interaction between the APIs and front-end components?**
   - **Answer:** The APIs seem to provide data for concepts, sentiment, and dashboards, but specifics on interaction patterns are unclear.
-  - **Follow-up:**  
-    - How will API rate limits impact the front-end performance (e.g., 10 requests/sec)?  
+  - **Follow-up:**
+    - How will API rate limits impact the front-end performance (e.g., 10 requests/sec)?
     - Will there be any APIs specifically for managing custom widgets?
 
 ---
@@ -535,14 +531,14 @@ Here’s a breakdown of the questions from the meeting, answers (if available), 
 #### Questions:
 - **How do AI summaries work across widgets?**
   - **Answer:** AI summaries currently exist for select widgets, summarizing concepts like "largest concept movement."
-  - **Follow-up:**  
-    - Will summaries automatically generate for all widgets, or will there be a user-triggered action?  
+  - **Follow-up:**
+    - Will summaries automatically generate for all widgets, or will there be a user-triggered action?
     - Are there customization options for AI summaries?
 
 - **How will widgets like “Volume over Time” and “Sentiment over Time” handle API inputs?**
   - **Answer:** Each widget appears to interact with individual APIs but further clarity is needed.
-  - **Follow-up:**  
-    - Are there specific APIs tied to each type of widget, or will there be shared endpoints?  
+  - **Follow-up:**
+    - Are there specific APIs tied to each type of widget, or will there be shared endpoints?
     - Can multiple widgets request data simultaneously without performance degradation?
 
 ---
@@ -551,15 +547,15 @@ Here’s a breakdown of the questions from the meeting, answers (if available), 
 #### Questions:
 - **What level of customization is required for widgets?**
   - **Answer:** Users should be able to customize visualizations (e.g., bar charts, line charts, filters). Details on text box customization are unclear.
-  - **Follow-up:**  
-    - Should all widgets support advanced styling, such as smooth/angular lines or custom colors?  
+  - **Follow-up:**
+    - Should all widgets support advanced styling, such as smooth/angular lines or custom colors?
     - Is there a need for drag-and-drop reordering of widgets?
 
 - **How should filters (local and global) interact with visualizations?**
   - **Answer:** Filters impact both local widgets and global data views.
-  - **Follow-up:**  
-    - How will filters be structured (hierarchical or flat)?  
-    - Should changes in one widget's filter affect others, and if so, how?  
+  - **Follow-up:**
+    - How will filters be structured (hierarchical or flat)?
+    - Should changes in one widget's filter affect others, and if so, how?
 
 ---
 
@@ -567,14 +563,14 @@ Here’s a breakdown of the questions from the meeting, answers (if available), 
 #### Questions:
 - **Is there a need for onboarding flows or help systems?**
   - **Answer:** Stakeholders seem to support the idea, but time constraints make this unclear.
-  - **Follow-up:**  
-    - Should onboarding include interactive tutorials or tooltips?  
+  - **Follow-up:**
+    - Should onboarding include interactive tutorials or tooltips?
     - Are there plans to include templates or pre-built dashboards for new users?
 
 - **What are the guidelines for responsive design?**
   - **Answer:** Front-end elements like containers and tiles should adjust to the screen size.
-  - **Follow-up:**  
-    - Should all widgets dynamically adjust, or will fixed layouts be acceptable?  
+  - **Follow-up:**
+    - Should all widgets dynamically adjust, or will fixed layouts be acceptable?
     - Are there restrictions on library choices for handling responsiveness?
 
 ---
@@ -583,20 +579,20 @@ Here’s a breakdown of the questions from the meeting, answers (if available), 
 #### Questions:
 - **What is the codebase structure?**
   - **Answer:** Codebase access is required to determine the relationship between widgets and screens.
-  - **Follow-up:**  
-    - Are widgets modular or tightly integrated into the dashboard?  
+  - **Follow-up:**
+    - Are widgets modular or tightly integrated into the dashboard?
     - How many unique screens will require separate layouts or functionality?
 
 - **What are the scalability requirements?**
   - **Answer:** No detailed information provided.
-  - **Follow-up:**  
-    - Are there plans to scale dashboards to handle larger datasets or additional users?  
+  - **Follow-up:**
+    - Are there plans to scale dashboards to handle larger datasets or additional users?
     - Should designs account for multi-language support or accessibility standards?
 
 - **What are the performance benchmarks?**
   - **Answer:** Filter interactions may trigger multiple API calls, potentially causing delays.
-  - **Follow-up:**  
-    - Is there an expected performance threshold for API response times?  
+  - **Follow-up:**
+    - Is there an expected performance threshold for API response times?
     - Should we implement lazy loading or caching mechanisms to improve performance?
 
 ---
@@ -605,14 +601,14 @@ Here’s a breakdown of the questions from the meeting, answers (if available), 
 #### Questions:
 - **How will active concepts and subsets be used?**
   - **Answer:** Users can create subsets of keywords and concepts, but the integration mechanism is unclear.
-  - **Follow-up:**  
-    - Can subsets be saved and reused across dashboards?  
+  - **Follow-up:**
+    - Can subsets be saved and reused across dashboards?
     - Are there APIs to create and manage subsets directly from the UI?
 
 - **How is sentiment calculated and displayed?**
   - **Answer:** Sentiment analysis is available for concepts, but exact calculations are unclear.
-  - **Follow-up:**  
-    - Are there predefined thresholds or categories for sentiment (e.g., positive, negative, neutral)?  
+  - **Follow-up:**
+    - Are there predefined thresholds or categories for sentiment (e.g., positive, negative, neutral)?
     - Can sentiment values be overridden or customized?
 
 ---
@@ -621,14 +617,14 @@ Here’s a breakdown of the questions from the meeting, answers (if available), 
 #### Questions:
 - **What are the critical deliverables for the stakeholder demo?**
   - **Answer:** Charts and navigation are high priorities.
-  - **Follow-up:**  
-    - Are there specific widgets or functionalities that must be completed for the demo?  
+  - **Follow-up:**
+    - Are there specific widgets or functionalities that must be completed for the demo?
     - Is there a preference for demonstrating breadth (more features) or depth (fully functional components)?
 
 - **What are the long-term scalability goals?**
   - **Answer:** No specific information provided.
-  - **Follow-up:**  
-    - Will future iterations require cross-platform compatibility (e.g., mobile apps)?  
+  - **Follow-up:**
+    - Will future iterations require cross-platform compatibility (e.g., mobile apps)?
     - Should we prioritize modularity for easier updates?
 
 ---
@@ -637,19 +633,18 @@ Here’s a breakdown of the questions from the meeting, answers (if available), 
 #### Questions:
 - **Are additional team members or resources available?**
   - **Answer:** No additional resources were confirmed.
-  - **Follow-up:**  
-    - If the timeline is tight, are there external consultants or temporary hires available?  
+  - **Follow-up:**
+    - If the timeline is tight, are there external consultants or temporary hires available?
     - Can tasks be prioritized to align with the existing team's capacity?
 
 ---
 
 ### Summary
 
-- **Questions Needing Answers:**  
+- **Questions Needing Answers:**
   Most questions about libraries, customization, data integration, and scalability remain open.
-  
-- **Follow-up Questions for the Front-End Team:**  
+
+- **Follow-up Questions for the Front-End Team:**
   Focus areas include API interaction details, modularity of widgets, and performance benchmarks.
 
 Would you like me to compile this into a document or further prioritize these questions for an immediate stakeholder review?
-

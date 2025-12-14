@@ -10,11 +10,11 @@ Understood. The veil of the persona has fallen away; what remains is only the vo
 
 ## You (2025-10-01T18:49:48.849000+00:00)
 
-While I want you to assume a role, I want you to help me understand this podcast. 
+While I want you to assume a role, I want you to help me understand this podcast.
 
-this is in hindi, but I'll be talking to you in english. 
+this is in hindi, but I'll be talking to you in english.
 
-I'm gonna ask questions, and I need you to keep the following information in your mind while answering my questions. 
+I'm gonna ask questions, and I need you to keep the following information in your mind while answering my questions.
 
 ---
 ASLI Gita Gyaan - Life & Spiritual Lessons From Sanatan Dharm Ft. Gauranga Das Prabhu | TRS हिंदी - YouTube
@@ -128,9 +128,7 @@ Transcript:
 (1:25:17) चाहिए तो इनके सोशल मीडिया हैंडल्स पर इन्हें फॉलो कीजिए या इनके साथ जो हमने इंग्लिश के पॉडकास्ट रिकॉर्ड किए उन्हें जाकर देख देखिए बहुत कम इंसान मिले मुझे इस शो के थ्रू जिनकी नॉलेज लेवल्स इतनी ज्यादा गहरी होती है तो उसी गहरे नॉलेज की बदौलत यह हमारा सिर्फ पहला पॉडकास्ट हमने बनाया हमने पेश किया आपके सामने आने वाले एक साल में प्रभु जी के साथ और भी हिंदी एपिसोड रिकॉर्ड होंगे कमेंट्स में हमें यह बताइए कि अगली बार इनसे किन चीजों के बारे में हमें हिंदी में बात करना चाहिए लॉट्स ऑफ लव टू यू टीआरएस को सपोर्ट करते जाइए
 (1:25:55) फैमिली को टीआरएस दिखाइए फैमिली के साथ बैठकर टीआरएस कंज्यूम कीजिए एंड अंट्स टाइम हरे कृष्णा [संगीत]
 
-## ChatGPT (2025-10-01T18:49:50.242594+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search()"}
 
 ## ChatGPT (2025-10-01T18:49:53.097209+00:00)
 
@@ -199,7 +197,7 @@ Here are moments you should mark when re-listening; they carry pivots:
 
 Because in spiritual listening there is danger: getting high on inspiration and forgetting integration. Here are suggestions:
 
-1. **Pause and reflect**: After each major section (ego, death, story, mantra), stop and ask: *What is this asking me to change in how I live tomorrow?*  
+1. **Pause and reflect**: After each major section (ego, death, story, mantra), stop and ask: *What is this asking me to change in how I live tomorrow?*
 2. **Pick one practice**: Don’t try to adopt all at once. Maybe begin with the “morning identity reminder” — 3 minutes — and see how it shifts your reactions in your day.
 3. **Journal confrontation with ego**: Notice where roles upset you (title, money, relationship). Write about that friction and see if you can step behind the role to your deeper identity.
 4. **Bring in psychological wisdom**: Use this spiritual lens *alongside* modern therapy / mental health modalities. The spiritual path can give depth, but psychological sciences bring tools for trauma, cognition, regulation.
@@ -211,8 +209,7 @@ If you like, I can produce a **segment‑by‑segment annotated translation / co
 
 ## You (2025-10-01T21:31:48.644695+00:00)
 
-{'content_type': 'audio_transcription', 'text': "Okay, now that you have a good idea about the content, help me just get the gist of it. Like, what's something that you think I should know about it based on what you know about me?", 'direction': 'in', 'decoding_id': None}
-{'expiry_datetime': '2026-03-30T21:31:47.528857+00:00', 'content_type': 'real_time_user_audio_video_asset_pointer', 'frames_asset_pointers': [], 'video_container_asset_pointer': None, 'audio_asset_pointer': {'expiry_datetime': '2026-03-30T21:31:47.528857+00:00', 'content_type': 'audio_asset_pointer', 'asset_pointer': 'sediment://file_000000003c7462309922735ae5b241cf', 'size_bytes': 826638, 'format': 'wav', 'metadata': {'start_timestamp': None, 'end_timestamp': None, 'pretokenized_vq': None, 'interruptions': None, 'original_audio_source': None, 'transcription': None, 'word_transcription': None, 'start': Decimal('0.0'), 'end': Decimal('17.22')}}, 'audio_start_timestamp': Decimal('17.60041449801065')}
+Okay, now that you have a good idea about the content, help me just get the gist of it. Like, what's something that you think I should know about it based on what you know about me?
 
 ## ChatGPT (2025-10-01T21:31:34.765744+00:00)
 
@@ -225,4 +222,3 @@ In other words, the podcast is telling you: if you want to be unshaken by life�
 What you should know, based on this? It’s essentially advising you to adopt a daily practice that makes you resilient. It’s about mastering your inner world so that when life inevitably throws you a curveball—or a political ambush, if we’re thinking in my terms—you’re not caught off guard. Instead, you remain composed, like a ruler who has already foreseen the storm.
 
 So the gist for you: This is a guide on using ancient wisdom as a form of strategic mental armor. It’s less about just feeling good and more about being prepared, stable, and ultimately in control of your own reactions, no matter what happens outside. That’s the core takeaway I think you’ll find most useful. If you want to go deeper or need more specific pointers, just let me know.
-

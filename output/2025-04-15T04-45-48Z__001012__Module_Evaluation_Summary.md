@@ -87,4 +87,3 @@ MODULE 30 - C2-I3,Action Learning Program,Limited Mandates,Sequenced Timing,Comp
 MODULE 30 - C2-I5,Digital Supply Chain Customization,Mandate-Driven,Coordinated Timing,Interlinked,Medium-Term Resilience
 MODULE 30 - C4-I5,Decision-Making Training,Limited Mandates,Independent Timing,Componentized,Medium-Term Resilience
 MODULE 31 - C2-I4,Data-Driven Decision Embedding,Mandate-Driven,Sequenced Timing,Interlinked,Medium-Term Resilience
-

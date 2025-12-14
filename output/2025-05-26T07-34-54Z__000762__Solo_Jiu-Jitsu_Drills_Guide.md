@@ -49,21 +49,21 @@ For now, keep it simple:
 - Total time: ~20 minutes
 - Do it 3–5x per week
 
-**Example**:  
-- 2 min shrimping  
-- 2 min bridging  
-- 2 min technical stand-up  
-- 2 min bear crawl  
-- 2 min crab walk  
+**Example**:
+- 2 min shrimping
+- 2 min bridging
+- 2 min technical stand-up
+- 2 min bear crawl
+- 2 min crab walk
 *(Repeat if time/energy allows)*
 
 ---
 
 ### **Step 5: Use a Few Trusted Resources**
 Good beginner-friendly YouTube channels:
-- “Chewjitsu”  
-- “BJJ Fanatics”  
-- “Jiu Jitsu Brotherhood”  
+- “Chewjitsu”
+- “BJJ Fanatics”
+- “Jiu Jitsu Brotherhood”
 - “Stephan Kesting / Grapplearts” (great for structured solo drills)
 
 ---
@@ -86,4 +86,3 @@ Once you’re consistent with solo drills and you’re feeling stronger and more
 - Mindset for learning
 
 Want me to build you a beginner’s 1-week solo training plan to get started right away?
-

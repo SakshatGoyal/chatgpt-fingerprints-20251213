@@ -7,7 +7,6 @@ Hey Elliot, could you help me build an o3 prompt?
 I am conducting a comprehensive research project focused on Business-Level Strategy. The goal is to gather a broad yet relevant collection of resources that explore:
 
 
-
 Decision-Making Frameworks and Models used by Business Unit Leaders, General Managers, and Senior Directors.
 
 The role of AI-driven tools and insights in enhancing strategic decision-making processes.
@@ -15,11 +14,9 @@ The role of AI-driven tools and insights in enhancing strategic decision-makin
 Real-world examples, case studies, and best practices that demonstrate the successful (or unsuccessful) application of these strategies.
 
 
-
 Scope of Research
 
 ✅ Conduct a thorough investigation into six key Business-Level Strategy decision scenarios:
-
 
 
 Market Expansion – Decisions around entering new markets, forming partnerships, and digital expansion.
@@ -37,7 +34,6 @@ Mergers & Acquisitions (M&A) – Decisions around target selection, due diligen
 ✅ For each scenario, the search should focus on:
 
 
-
 Key Decision Criteria – What factors influence decision-making in this scenario?
 
 Frameworks and Models – Established mental models, strategy frameworks, or decision-making theories that guide these choices.
@@ -47,7 +43,6 @@ AI Integration – The role of AI tools (e.g., predictive analytics, NLP tool
 Common Pain Points and Cognitive Biases – Unique challenges executives face in these decision contexts.
 
 
-
 Source Prioritization
 
 The search must prioritize the following sources, ensuring the most credible and impactful resources are collected:
@@ -55,11 +50,9 @@ The search must prioritize the following sources, ensuring the most credible and
 ✅ Academic Journals — Prioritize well-cited, foundational research for strategy frameworks (even if older), but lean toward recent research for AI advancements.
 
 
-
 Recommended journals include: Strategic Management Journal, Harvard Business Review, MIT Sloan Management Review, California Management Review.
 
 ✅ Industry Reports & White Papers — Focus on recent insights from leading consulting firms that reflect current trends, AI applications, and practical decision frameworks.
-
 
 
 Recommended sources: McKinsey, BCG, Gartner, Forrester, Deloitte Insights.
@@ -67,11 +60,9 @@ Recommended sources: McKinsey, BCG, Gartner, Forrester, Deloitte Insights.
 ✅ Conference Proceedings — Search for AI-focused content in conferences known for emerging trends.
 
 
-
 Recommended conferences: NeurIPS (AI-focused), INFORMS (Decision Science), and AAAI Conference Papers.
 
 ✅ Case Studies — Seek detailed, real-world examples where companies implemented strategic decisions.
-
 
 
 Prioritize cases that demonstrate decision frameworks in action or reveal the role of AI in strategy.
@@ -79,15 +70,12 @@ Prioritize cases that demonstrate decision frameworks in action or reveal the�
 ✅ Executive Memoirs & Insights — Include insights from influential business leaders, particularly those reflecting on real-world strategic decisions.
 
 
-
 Examples: Satya Nadella’s “Hit Refresh”, Ben Horowitz’s “The Hard Thing About Hard Things”.
-
 
 
 Critical Consideration:
 
 DO NOT refer to blogposts. if your sources are web based, make sure you stick to the list I've shared with you. other than that, books and research publications can come from different places.
-
 
 
 Search Criteria & Precision
@@ -97,13 +85,11 @@ To ensure maximum relevance, apply the following criteria:
 ✅ Date Range:
 
 
-
 For AI-driven insights, prioritize publications from 2019 onward to reflect the latest developments.
 
 For decision-making frameworks, include older foundational models if they are widely cited or still relevant in practice.
 
 ✅ Search Keywords: Combine decision scenario terms with AI-related terminology for highly targeted searches. Examples include:
-
 
 
 (“Market expansion” AND “risk assessment” AND “AI forecasting”)
@@ -121,7 +107,6 @@ For decision-making frameworks, include older foundational models if they are
 ✅ Resource Screening: Prioritize content that includes:
 
 
-
 Clear frameworks or structured decision-making models
 
 Case studies or examples with actionable insights
@@ -129,7 +114,6 @@ Case studies or examples with actionable insights
 Comparative studies that evaluate multiple strategic models
 
 Visual frameworks that simplify complex concepts
-
 
 
 Key Reminders:
@@ -145,7 +129,6 @@ Highlight influential thought models — Even if older, prioritize landmark fra
 Provide ample variety — Include diverse perspectives from different industries, markets, and organizational structures.
 
 
-
 Success Criteria
 
 The final output should contain:
@@ -159,15 +142,9 @@ The final output should contain:
 ✅ A mix of AI-specific content, strategy frameworks, and real-world examples to ensure the insights are applicable.
 
 
-
-
-
-
-
 Data Presentation & Organization
 
 All gathered resources should be organized clearly in the following structure:
-
 
 
 Market Expansion:
@@ -181,7 +158,6 @@ Market Expansion:
 ...
 
 ...
-
 
 
 Product & Service Positioning:
@@ -251,4 +227,3 @@ Mergers & Acquisitions (M&A):
 ## ChatGPT (2025-03-13T06:51:32.689810+00:00)
 
 Your prompt has been structured with clear objectives, precise search criteria, and well-defined success metrics. If you'd like to refine specific sections (e.g., keyword strategy, success criteria, or search prioritization), let me know!
-

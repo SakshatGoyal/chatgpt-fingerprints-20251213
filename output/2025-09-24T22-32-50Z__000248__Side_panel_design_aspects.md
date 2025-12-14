@@ -70,4 +70,3 @@ Sakshat proposed that the side panel should include the following:
 ---
 
 Would you like me to mock up a layout or wireframe of what this drawer might look like based on Sakshat’s specs?
-

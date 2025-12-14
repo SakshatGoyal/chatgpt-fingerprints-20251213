@@ -76,9 +76,6 @@ ChatGPT Deep Research. (2025). OpenAI Deep Research C2-I1: Executive decision-ma
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 6 - C2-I1
 
 Digital Transformation & Customer Engagement
@@ -96,9 +93,6 @@ Gemini Research. (2025). Executive decision-making in the fast food and QSR indu
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 8 - C2-I1
 
 Localized Menu Decisions
@@ -114,9 +108,6 @@ Empirical examples such as McDonald’s McAloo Tikki burger in India, KFC’s re
 Gemini Research. (2025). Executive decision-making in the fast food and QSR industry: A comparative analysis of key strategic themes.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 14 - C2-I1
@@ -141,9 +132,6 @@ Civelek, M. E., Çemberci, M., & Eralp, N. E. (2016). The role of social media i
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 23 - C2-I1
 
 Conversion Efficiency and Loyalty Metrics in Fast Food Marketing
@@ -166,9 +154,6 @@ The study's detailed calculations show that while the Purchase Action Ratio (PAR
 Sujarwo, S., Hartono, R., & Safitri, P. R. D. (2023). The omni-channel marketing strategy and customer path in fast food industries: A comparison study. AIP Conference Proceedings, 2583, 110007. https://doi.org/10.1063/5.0118123
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 25 - C2-I1
@@ -196,9 +181,6 @@ Castillo, J. (2013). Impact of a localized marketing strategy on an internationa
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 28 - C2-I1
 
 Evolution and Critical Role of Digital Marketing Metrics
@@ -221,9 +203,6 @@ The historical analysis and case study evidence within the paper clearly illustr
 Ramachandran, K. K. (2023). Evaluating ROI in digital marketing campaigns: Metrics, measurement, and insights. International Journal of Management, 14(7), 190-204. https://iaeme.com/Home/issue/IJM?Volume=14&Issue=7
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 30 - C2-I1
@@ -250,9 +229,6 @@ Ramachandran, K. K. (2023). Evaluating ROI in digital marketing campaigns: Metri
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 33 - C2-I1
 
 The Importance of Cultural Nuances in Market Adaptation
@@ -274,9 +250,6 @@ Coca-Cola’s campaign in China, which incorporates culturally meaningful elemen
 White, R. (n.d.). Global brands that nailed localization in different markets. Language Intelligence. https://www.languageintelligence.com/post/global-brands-that-nailed-localization-in-different-markets
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 38 - C2-I1
@@ -301,9 +274,6 @@ Model fit statistics (e.g., CMIN/DF = 1.84 for the measurement model and 2.86 fo
 Makudza, F., Jaravaza, D. C., Govha, T., Mukucha, P., & Saruchera, F. (2023). Enhancing supply chain agility through e-procurement in a volatile frontier market. Journal of Transport and Supply Chain Management, 17(0), a847. https://doi.org/10.4102/jtscm.v17i0.847
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 47 - C2-I1
@@ -331,9 +301,6 @@ Mason, K., Jones, S., Benefield, M., & Walton, J. (2013). Consumer perceptions o
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 48 - C2-I1
 
 Insight on Menu Localization
@@ -355,9 +322,6 @@ The paper documents how McDonald’s in China responded to a meat contamination 
 Yue, D. (2023). Analysis on McDonald's localization strategy. Proceedings of the 2nd International Conference on Business and Policy Studies. https://doi.org/10.54254/2754-1169/10/20230426
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 49 - C2-I1
@@ -383,9 +347,6 @@ Yue, D. (2023). Analysis on McDonald's localization strategy. Proceedings of the
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 50 - C2-I1
 
 Insight on Localized Pricing Strategy
@@ -407,9 +368,6 @@ The paper details how McDonald’s adjusts its pricing strategies to match the e
 Yue, D. (2023). Analysis on McDonald's localization strategy. Proceedings of the 2nd International Conference on Business and Policy Studies. https://doi.org/10.54254/2754-1169/10/20230426
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 2 - C2-I2
@@ -437,9 +395,6 @@ Hirsch, J. (2022). The future of streaming and diverse content: Starz CEO Jeffre
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 3 - C2-I2
 
 Strategic Differentiation in Premium Tier Streaming
@@ -463,9 +418,6 @@ Hirsch underscores that Starz’s premium positioning is validated by successful
 Hirsch, J. (2022). The future of streaming and diverse content: Starz CEO Jeffrey Hirsch weighs in. McKinsey & Company. https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-future-of-streaming-and-diverse-content
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 4 - C2-I2
@@ -493,9 +445,6 @@ Hirsch, J. (2022). The future of streaming and diverse content: Starz CEO Jeffre
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 6 - C2-I2
 
 Localization and Content Strategy
@@ -519,9 +468,6 @@ Cui, Y. (2024). Research on Netflix’s expansion and competitive strategies in 
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 9 - C2-I2
 
 "Traditional reliance on direct consumer spending is being eclipsed by the rise of advertising as the dominant growth engine in the E&M industry, compelling firms to pivot their revenue strategies." [Empirical]
@@ -541,9 +487,6 @@ Supporting Context
 PwC. (2024). Perspectives: Global entertainment & media outlook 2024–2028. https://www.pwc.com/gx/en/issues/business-model-reinvention/outlook/insights-and-perspectives.html
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 10 - C2-I2
@@ -567,9 +510,6 @@ PwC. (2024). Perspectives: Global entertainment & media outlook 2024–2028. htt
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 11 - C2-I2
 
 "The gaming sector is evolving from traditional purchase and subscription models towards dynamic, ad-integrated revenue streams, reflecting a profound shift in consumer engagement and monetization strategies." [Empirical]
@@ -591,9 +531,6 @@ PwC. (2024). Perspectives: Global entertainment & media outlook 2024–2028. htt
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 12 - C2-I2
 
 "Distinct regional dynamics reveal that mature markets like the US are experiencing slower growth compared to rapid expansion in emerging markets, necessitating tailored strategies for diverse global audiences." [Empirical]
@@ -613,9 +550,6 @@ Supporting Context
 PwC. (2024). Perspectives: Global entertainment & media outlook 2024–2028. https://www.pwc.com/gx/en/issues/business-model-reinvention/outlook/insights-and-perspectives.html
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 14 - C2-I2
@@ -642,9 +576,6 @@ ChatGPT Deep Research. (2025). OpenAI Deep Research C2-I2: Cognitive models and 
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 15 - C2-I2
 
 Pricing Strategies: Evolving Models in a Saturated Market
@@ -667,9 +598,6 @@ The paper cites concrete figures—such as the consumer surveys indicating that 
 ChatGPT Deep Research. (2025). OpenAI Deep Research C2-I2: Cognitive models and executive decision-making in the streaming wars.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 16 - C2-I2
@@ -696,9 +624,6 @@ ChatGPT Deep Research. (2025). OpenAI Deep Research C2-I2: Cognitive models and 
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 18 - C2-I2
 
 "The study reveals that in today’s video streaming landscape, original content investment is the predominant competitive dynamic, superseding incremental improvements in service quality." [Empirical]
@@ -720,9 +645,6 @@ Supporting Context:
 Wang, K., & Shi, X. (2022). Investigation on competitive dynamics in video streaming market: Taking Netflix and Amazon Prime Video as analysis cases. Advances in Economics, Business and Management Research, 652, 1987–1991. https://doi.org/10.2991/aebmr.k.220603.272
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 19 - C2-I2
@@ -748,9 +670,6 @@ Wang, K., & Shi, X. (2022). Investigation on competitive dynamics in video strea
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 20 - C2-I2
 
 "Although both Netflix and Amazon Prime Video use free trial models to attract new subscribers, their subsequent pricing and service strategies diverge significantly, reflecting deeper strategic choices about customer acquisition versus retention." [Inferred]
@@ -774,9 +693,6 @@ Wang, K., & Shi, X. (2022). Investigation on competitive dynamics in video strea
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 34 - C2-I2
 
 "Introducing an ad-supported tier following the MGM acquisition represents a strategic recalibration where leveraging Prime Video’s vast subscriber base to generate advertising revenue effectively subsidizes premium content investments." [Empirical]
@@ -796,9 +712,6 @@ The study details that after launching the ad tier in January 2024, Prime Video 
 Li, J. (2024). Analyzing the reasons for Prime Video’s better performance. Proceedings of the Decoupling Corporate Finance Implications of Firm Climate Action - ICEMGD 2024, 87-93. https://doi.org/10.54254/2754-1169/102/2024ED0055
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 35 - C2-I2
@@ -822,9 +735,6 @@ ORIGINAL INSIGHT: "Expanding the original content library is a deliberate strate
 Li, J. (2024). Analyzing the reasons for Prime Video’s better performance. Proceedings of the Decoupling Corporate Finance Implications of Firm Climate Action - ICEMGD 2024, 87-93. https://doi.org/10.54254/2754-1169/102/2024ED0055
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 41 - C2-I2
@@ -851,9 +761,6 @@ Badr, N., Sharaf, S. M., & Mahrous, A. A. (2024). Streaming wars: An analysis of
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 1 - C2-I3
 
 Reconceptualizing Processes as Coordinated Competencies
@@ -872,9 +779,6 @@ The authors build their argument on the knowledge-based theory of the firm, argu
 Van Leijen, H., & Baets, W. R. J. (n.d.). A cognitive framework for knowledge-based process design. Systemics, Cybernetics and Informatics, 1(4), 1–7.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 6 - C2-I3
@@ -898,9 +802,6 @@ Marzi, G., Balzano, M., Magistretti, S., & Liedtka, J. (n.d.). Cognitive biases 
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 17 - C2-I3
 
 Innovative Integration of Locally-Trained GAI Models for Tailored Customer Interaction
@@ -914,14 +815,11 @@ Underlying Beliefs & Biases: There is a prevalent bias that more general models 
 Expected vs. Actual Outcomes: Locally-trained models are expected to deliver highly accurate, secure responses tailored to specific market needs; however, they may also face challenges in keeping pace with rapidly evolving consumer trends and creative demands.
 Broader Implications: The trade-off between local customization and broad applicability reflects a larger strategic decision that could influence long-term competitive positioning and regulatory compliance. [Speculative]
 3. Supporting Context
-The case study in the paper outlines a framework that integrates proprietary, locally-trained models with advanced embedding techniques and private vector databases. This approach ensures secure and context-specific customer interaction, though it hints at potential constraints in scalability and creative output. [Empirical] ​
+The case study in the paper outlines a framework that integrates proprietary, locally-trained models with advanced embedding techniques and private vector databases. This approach ensures secure and context-specific customer interaction, though it hints at potential constraints in scalability and creative output. [Empirical]
 
 Chamola, V., Sai, S., Tanneeru, R. S., Hussain, A., & Sikdar, B. (2024). Generative AI for consumer electronics: Enhancing user experience with cognitive and semantic computing. IEEE Consumer Electronics Magazine. https://doi.org/10.1109/MCE.2024.3387049
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 25 - C2-I3
@@ -941,9 +839,6 @@ Jalali, S. H. (2019). Cognitive capabilities and the strategic alliances’ perf
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 26 - C2-I3
 
 Differential Roles of Cognitive Dimensions
@@ -961,9 +856,6 @@ Jalali, S. H. (2019). Cognitive capabilities and the strategic alliances’ perf
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 27 - C2-I3
 
 Managerial Cognition in Partner Selection
@@ -979,9 +871,6 @@ Building on frameworks from cognitive and strategic management literature, the p
 Jalali, S. H. (2019). Cognitive capabilities and the strategic alliances’ performance: How time frame matters? International Journal of Management and Network Economics, 4(3), 230–245. https://doi.org/10.1504/IJMNE.2019.10027320
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 13 - C2-I4
@@ -1004,9 +893,6 @@ Li, K. (2023). Comparative analysis of the technology strategy in the high-tech 
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 16 - C2-I4
 
 Price-Based Competitive Strategy
@@ -1020,14 +906,11 @@ Underlying Beliefs & Biases: There is a prevalent assumption that lower prices a
 Expected vs. Actual Outcomes: Although cost reductions might seem attractive in theory, the paper shows that without matching performance improvements, such strategies do not significantly shift market dynamics.
 Broader Implications: Executives are encouraged to adopt a hybrid strategy that safeguards product quality while exploring judicious pricing adjustments, rather than defaulting to deep discounts. [Empirical]
 Supporting Context:
-The analysis illustrates that price-based strategies may help maintain current customers but do little to sway new users when product performance is lacking. Comparative insights drawn from parallel industries reinforce that a low-price focus can be counterproductive, ultimately harming brand reputation and long-term growth. [Empirical] ​
+The analysis illustrates that price-based strategies may help maintain current customers but do little to sway new users when product performance is lacking. Comparative insights drawn from parallel industries reinforce that a low-price focus can be counterproductive, ultimately harming brand reputation and long-term growth. [Empirical]
 
 Wan, H. (2023). Competitive strategies and approaches among electronics companies. Frontiers in Business, Economics and Management, 12(3), 66–68.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 28 - C2-I4
@@ -1050,9 +933,6 @@ Gemini Research. (2025). Strategic navigation in U.S. consumer electronics: An e
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 30 - C2-I4
 
 Market Positioning and Vertical Integration
@@ -1071,9 +951,6 @@ The paper details empirical market data such as AWS’s decline in market share 
 ChatGPT Deep Research. (2025). Platform and ecosystem strategy in SaaS & cloud computing: A 10-year integrative analysis. https://www.srgresearch.com/articles/cloud-market-jumped-to-330-billion-in-2024-genai-is-now-driving-half-of-the-growth
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 1 - C2-I5
@@ -1096,9 +973,6 @@ Lai, D. (2023). Analysis of marketing strategy of Porsche. Proceedings of the 20
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 6 - C2-I5
 
 Insight Statement
@@ -1118,9 +992,6 @@ McKinsey & Company. (2025). Collectible cars: From niche market to growth and in
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 9 - C2-I5
 
 Impact of Market Share on R&D Investment in Germany
@@ -1137,14 +1008,11 @@ Expected vs. Actual Outcomes: While many managers expect that robust domestic pe
 Broader Implications: This insight calls for a strategic recalibration where international market dynamics are prioritized, urging leaders to reallocate resources and adopt competitive strategies that capitalize on global opportunities. [Inferred]
 
 3. Supporting Context
-Regression models reveal that external market share exhibits a strong positive impact on R&D expenditures (e.g., a coefficient of 3.8298*** in the random effects model), confirming that global competition and export performance are key drivers in the German market. [Empirical] 
+Regression models reveal that external market share exhibits a strong positive impact on R&D expenditures (e.g., a coefficient of 3.8298*** in the random effects model), confirming that global competition and export performance are key drivers in the German market. [Empirical]
 
 Nikolaev, D., Akimova, L., Mylov, I., Kareva, D., & Azimov, T. (2016). Factors of investments in automobile companies’ R&D. Investment Management and Financial Innovations, 13(4), 27–32. https://doi.org/10.21511/imfi.13(4).2016.03
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 1 - C2-I6
@@ -1157,14 +1025,11 @@ Executive Decision-Making Context:
 Senior leaders are compelled to weigh risk versus reward, balancing short-term implementation challenges with long-term innovation benefits. In today’s dynamic market, aligning AI investments with human-centric values (as highlighted in the Industry 5.0 shift) is crucial for sustainable growth. [Inferred]
 
 Supporting Context:
-The paper documents improvements like a 20–30% increase in crop yields and a 25% reduction in water usage through AI-driven precision agriculture, alongside transformative applications in manufacturing and healthcare. Such quantitative evidence supports the strategic case for proactive AI investment. [Empirical] ​
+The paper documents improvements like a 20–30% increase in crop yields and a 25% reduction in water usage through AI-driven precision agriculture, alongside transformative applications in manufacturing and healthcare. Such quantitative evidence supports the strategic case for proactive AI investment. [Empirical]
 
 Rashid, A. B., & Kausik, M. A. K. (2024). AI revolutionizing industries worldwide: A comprehensive overview of its diverse applications. Hybrid Advances, 7, 100277. https://doi.org/10.1016/j.hybadv.2024.100277
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 9 - C2-I6
@@ -1187,9 +1052,6 @@ Ghorbani Asiabar, M., Ghorbani Asiabar, M., & Ghorbani Asiabar, A. (2024). Artif
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 12 - C2-I6
 
 Porter's Frameworks as Catalysts for Strategic Rigor
@@ -1207,9 +1069,6 @@ Porter’s frameworks are grounded in extensive empirical research and historica
 Stonehouse, G., & Snowdon, B. (2007). Competitive advantage revisited: Michael Porter on strategy and competitiveness. Journal of Management Inquiry, 16(3), 256–273. https://doi.org/10.1177/1056492607306333
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 13 - C2-I6
@@ -1231,9 +1090,6 @@ Stonehouse, G., & Snowdon, B. (2007). Competitive advantage revisited: Michael P
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 15 - C2-I6
 
 Profitability and Social Objectives: Creating Shared Value
@@ -1251,9 +1107,6 @@ Drawing on Porter's analysis of environmental strategies and corporate philanthr
 Stonehouse, G., & Snowdon, B. (2007). Competitive advantage revisited: Michael Porter on strategy and competitiveness. Journal of Management Inquiry, 16(3), 256–273. https://doi.org/10.1177/1056492607306333
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 20 - C2-I6
@@ -1277,9 +1130,6 @@ Gemini Research. (2025). The convergence of artificial intelligence and executiv
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 23 - C2-I6
 
 Hybrid Decision-Making Models: Balancing Human Intuition with AI Analytics
@@ -1299,9 +1149,6 @@ The discussion on synergistic strategies in the paper reinforces that combining 
 Gemini Research. (2025). The convergence of artificial intelligence and executive decision-making in North America.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 24 - C2-I6
@@ -1325,9 +1172,6 @@ Gemini Research. (2025). The convergence of artificial intelligence and executiv
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 25 - C2-I6
 
 Hybrid Decision-Making Models: Intuition Meets Analytics
@@ -1343,9 +1187,6 @@ Empirical support is drawn from case studies—Salesforce’s “Einstein” pro
 ChatGPT Deep Research. (2025). OpenAI Deep Research: C2-I6.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 26 - C2-I6
@@ -1365,9 +1206,6 @@ ChatGPT Deep Research. (2025). OpenAI Deep Research: C2-I6.
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 27 - C2-I6
 
 AI’s Augmentation of Human Intuition
@@ -1383,9 +1221,6 @@ Case studies highlight that companies leveraging AI-driven dashboards (e.g., Net
 ChatGPT Deep Research. (2025). OpenAI Deep Research: C2-I6.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 38 - C2-I6
@@ -1406,9 +1241,6 @@ The paper empirically supports this insight with detailed propositions showing h
 Raisch, S., & Fomina, K. (2024). Combining human and artificial intelligence: Hybrid problem solving in organizations. Academy of Management Review. https://doi.org/10.5465/amr.2021.0421
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 40 - C2-I6
@@ -1437,9 +1269,6 @@ Shams, I. M. (2025). AI as a decision-making strategic co-founder in startups: A
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 43 - C2-I6
 
 Structural Integration: Full Delegation, Hybrid, and Aggregated Approaches
@@ -1458,9 +1287,6 @@ The framework illustrated in Table 2, along with real-world examples (e.g., the 
 Shrestha, Y. R., Ben-Menahem, S. M., & von Krogh, G. (2019). Organizational decision-making structures in the age of artificial intelligence. California Management Review, 61(4), 66–83. https://doi.org/10.1177/0008125619862257
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 49 - C2-I6
@@ -1484,9 +1310,6 @@ Saha, G. C., Menon, R., Paulin, M. S., Yerasuri, S. S., Saha, H., & Dongol, P. (
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 2 - C3-I1
 
 Staged Evolution of AI Capabilities in Strategy
@@ -1505,9 +1328,6 @@ The transcript outlines six levels of AI functionality—from descriptive intell
 McKinsey & Company. (2023). Artificial intelligence in strategy. https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/artificial-intelligence-in-strategy
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 6 - C3-I1
@@ -1530,9 +1350,6 @@ Porter, M. E. (1985). Competitive advantage: Creating and sustaining superior pe
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 11 - C3-I1
 
 "Comparative analysis reveals that established 'big giants' favor hierarchical, risk-averse decision-making, whereas emerging 'rising stars' leverage agile, decentralized frameworks to capture rapid growth opportunities." [Empirical]
@@ -1545,14 +1362,11 @@ Expected vs. Actual Outcomes: While structured approaches tend to yield controll
 Broader Implications: Aligning decision-making frameworks with an organization’s stage of growth and market context is crucial, suggesting that a hybrid approach might be optimal as companies scale. [Empirical]
 Supporting Context:
 
-The report contrasts companies like Salesforce, Microsoft, and Adobe with emerging entities such as Momentum.io, illustrating how differences in governance and decision-making speed correlate with distinct market strategies and risk profiles. ​ [Empirical]
+The report contrasts companies like Salesforce, Microsoft, and Adobe with emerging entities such as Momentum.io, illustrating how differences in governance and decision-making speed correlate with distinct market strategies and risk profiles.  [Empirical]
 
 Gemini Research. (2025). Strategic Executive Choices in North American SaaS: Navigating Innovation and Transformation.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 23 - C3-I1
@@ -1572,9 +1386,6 @@ ChatGPT Deep Research. (2025). OpenAI Deep Research C3-I1: Functional & tactical
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 1 - C3-I2
 
 Strategic Integration of AI in Autonomous Vehicle Development
@@ -1588,14 +1399,11 @@ Underlying Beliefs & Biases: An initial overconfidence in achieving full autonom
 Expected vs. Actual Outcomes: Despite aggressive early strategies (e.g., GM’s Cruise initiative), safety concerns and regulatory pushback have necessitated a more cautious, stepwise approach.
 Broader Implications: This pivot not only reflects industry-wide risk aversion but also signals a broader recalibration of innovation priorities among top executives. [Empirical]
 3. Supporting Context
-Detailed evidence from the report shows GM’s strategic realignment—merging Cruise with a broader focus on ADAS (such as Super Cruise), which has accumulated millions of miles in real-world testing despite inherent limitations. Similar caution is echoed by other players like Ford and Toyota, underscoring the necessity for adaptive, data-driven adjustments. [Empirical] ​
+Detailed evidence from the report shows GM’s strategic realignment—merging Cruise with a broader focus on ADAS (such as Super Cruise), which has accumulated millions of miles in real-world testing despite inherent limitations. Similar caution is echoed by other players like Ford and Toyota, underscoring the necessity for adaptive, data-driven adjustments. [Empirical]
 
 Gemini Research. (2025). The evolving strategies of North American automotive executives in the age of electrification and automation.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 5 - C3-I2
@@ -1620,9 +1428,6 @@ ChatGPT Deep Research. (2025). OpenAI Deep Research C3-I2.
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 6 - C3-I2
 
 Building Supply Chain Resilience in the EV Ecosystem
@@ -1644,9 +1449,6 @@ The paper provides detailed examples: GM’s $650 million investment in Lithium 
 ChatGPT Deep Research. (2025). OpenAI Deep Research C3-I2.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 14 - C3-I2
@@ -1675,9 +1477,6 @@ Jagani, S., Marsillac, E., & Hong, P. (2024). The electric vehicle supply chain 
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 16 - C3-I2
 
 Tariff Impacts on Overseas Sourcing
@@ -1695,9 +1494,6 @@ The paper’s model (Theorem 1) quantifies how an increase in the tariff (t) dir
 Zhang, L., & Shi, W. (2025). The impacts of the US Inflation Reduction Act on EV supply chains. Sustainability, 17(653). https://doi.org/10.3390/su17020653
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 17 - C3-I2
@@ -1719,9 +1515,6 @@ Zhang, L., & Shi, W. (2025). The impacts of the US Inflation Reduction Act on EV
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 19 - C3-I2
 
 Strategic Localization of Battery Component Supply Chains
@@ -1737,9 +1530,6 @@ The paper details that while battery cell production in both regions is expected
 McKinsey & Company. (2024). The battery cell component opportunity in Europe and North America. https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-battery-cell-component-opportunity-in-europe-and-north-america
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 19 - C3-I3
@@ -1762,9 +1552,6 @@ Gemini Research. (2025). Strategic decision-making in the North American pharmac
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 22 - C3-I3
 
 Insight Statement
@@ -1784,9 +1571,6 @@ Gemini Research. (2025). Strategic decision-making in the North American pharmac
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 24 - C3-I3
 
 Strategic Collaborations as a Catalyst for Accelerated Innovation
@@ -1801,9 +1585,6 @@ Supporting Context: The review cites several case studies—such as collaboratio
 Visan, A. I., & Negut, I. (2024). Integrating artificial intelligence for drug discovery in the context of revolutionizing drug delivery. Life, 14(233). https://doi.org/10.3390/life14020233
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 28 - C3-I3
@@ -1828,9 +1609,6 @@ ChatGPT Deep Research. (2025). OpenAI Deep Research C3-I3: Decision-making strat
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 1 - C3-I5
 
 Definition of Bank Digital Transformation
@@ -1851,14 +1629,11 @@ Shanti, R., Avianto, W., & Wibowo, W. A. (2022). A systematic review on banking 
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 15 - C3-I5
 
 Strategic Digital Transformation and Operating Model
 1. Insight Statement
-DBS’s decision to model its transformation on technology giants rather than traditional banking peers fundamentally challenges conventional banking paradigms, urging leaders to rethink industry norms. [Empirical] ​
+DBS’s decision to model its transformation on technology giants rather than traditional banking peers fundamentally challenges conventional banking paradigms, urging leaders to rethink industry norms. [Empirical]
 
 2. Executive Decision-Making Context
 
@@ -1868,14 +1643,11 @@ Expected vs. Actual Outcomes: While conventional wisdom anticipated incremental 
 Broader Implications: This transformation underscores that a willingness to adopt unorthodox, technology-inspired strategies can deliver superior performance and long-term competitive advantage.
 [Empirical]
 3. Supporting Context
-The case details DBS’s development of 33 platforms and the innovative “2-in-a-box” leadership model, supported by a digital value capture framework that quantifies benefits like higher ROE and cost efficiencies. These operational shifts and metrics provide clear, data-backed evidence of the transformation’s success. [Empirical] ​
+The case details DBS’s development of 33 platforms and the innovative “2-in-a-box” leadership model, supported by a digital value capture framework that quantifies benefits like higher ROE and cost efficiencies. These operational shifts and metrics provide clear, data-backed evidence of the transformation’s success. [Empirical]
 
 McKinsey & Company. (n.d.). DBS: Transforming a banking leader into a technology leader. https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/how%20we%20help%20clients/impact%20stories/bcp/rewired-in-action-bcp.pdf
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 24 - C3-I5
@@ -1898,9 +1670,6 @@ Gemini Research. (2025). Strategic imperatives in North American banking's digit
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 41 - C3-I5
 
 Customer-Centric Competitive Positioning and Data-Driven Personalization
@@ -1916,9 +1685,6 @@ Evidence from the paper indicates that banks such as Chime and JPMorgan have ach
 ChatGPT Deep Research. (2025). OpenAI Deep Research: Functional and tactical strategy in banking—Navigating digital transformation, risk management, and competitive positioning.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 27 - C3-I6
@@ -1940,9 +1706,6 @@ Alexander, A., De Smet, A., & Weiss, L. (2020, June 15). How to make smart decis
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 44 - C3-I6
 
 Industry-Specific Decision-Making Dynamics
@@ -1958,12 +1721,9 @@ Broader Implications: Tailored AI strategies are necessary to reconcile industry
 3. Supporting Context
 Sector examples illustrate that while tech companies leverage AI for fast, iterative product decisions, financial institutions and healthcare organizations implement stringent review processes. These findings underscore the need for industry-adapted AI policies that account for different operational risks and regulatory demands. [Empirical]
 
-ChatGPT Deep Research. (2025). OpenAI Deep Research: Evolution of executive judgment in an AI-augmented business landscape. 
+ChatGPT Deep Research. (2025). OpenAI Deep Research: Evolution of executive judgment in an AI-augmented business landscape.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 63 - C4-I1
@@ -1987,9 +1747,6 @@ Cote, C. (2023, October 5). Business strategy vs. strategy execution: Which is r
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 71 - C4-I1
 
 Differentiation Strategy’s Role in Enhancing Banking Performance
@@ -2008,9 +1765,6 @@ Utilizing rigorous SEM-PLS techniques, the paper translates complex strategic va
 Waisapi, J. Y. (2024). Influence of strategic planning on banking performance via differentiation strategy. Nomico Journal, 1(7). https://doi.org/10.62872/2bmxbz92
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 72 - C4-I1
@@ -2033,9 +1787,6 @@ Waisapi, J. Y. (2024). Influence of strategic planning on banking performance vi
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 1 - C4-I6
 
 Employees as Critical Internal Stakeholders
@@ -2046,14 +1797,11 @@ Executive Decision-Making Context:
 Executives face the strategic dilemma of balancing rapid talent acquisition with the need for cultural cohesion. Decisions around recruitment and retention are influenced by the understanding that early employees not only drive technical innovation but also establish and propagate the company’s values, impacting long-term competitive positioning. [Empirical]
 
 Supporting Context:
-The chapter details how startup founders explicitly prioritize early employees—illustrated by practices such as designating “No. X” employees—to underscore their foundational role in both operational success and cultural formation. Interviews (e.g., CEO comments on the lasting impact of early hires) and comparisons with established companies (e.g., anecdotes about Alibaba’s “Eighteen Luohan”) provide empirical backing for these insights. [Empirical] 
+The chapter details how startup founders explicitly prioritize early employees—illustrated by practices such as designating “No. X” employees—to underscore their foundational role in both operational success and cultural formation. Interviews (e.g., CEO comments on the lasting impact of early hires) and comparisons with established companies (e.g., anecdotes about Alibaba’s “Eighteen Luohan”) provide empirical backing for these insights. [Empirical]
 
 Men, L. R., Ji, Y. G., & Chen, Z. F. (2020). Understanding the stakeholders of startups. In Strategic Communication for Startups and Entrepreneurs in China (pp. 35–56). Routledge. https://doi.org/10.4324/9780429274268-3
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 1 - C5-I2
@@ -2066,14 +1814,11 @@ Early and middle adopters of data-driven decision making achieve significantly h
 Executives must consider that embracing DDD early enables firms to benefit from a first-mover advantage—capturing productivity gains and learning curves that competitors may only achieve partially when adopting later. [Empirical]
 
 3. Supporting Context
-Empirical evidence from the study shows that plants adopting DDD in the 2005–2010 window saw productivity increases in the range of 7–8%, while late adopters demonstrated weaker benefits. Figures 1 and 2, as well as panel fixed-effects models, clearly illustrate the timing-dependent returns, emphasizing the strategic value of early digital transformation. [Empirical] 
+Empirical evidence from the study shows that plants adopting DDD in the 2005–2010 window saw productivity increases in the range of 7–8%, while late adopters demonstrated weaker benefits. Figures 1 and 2, as well as panel fixed-effects models, clearly illustrate the timing-dependent returns, emphasizing the strategic value of early digital transformation. [Empirical]
 
 Brynjolfsson, E., & McElheran, K. (2019). Data-driven decision making and predictive analytics in U.S. manufacturing. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2722502
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 14 - C5-I2
@@ -2094,9 +1839,6 @@ Comparative analysis shows that startups benefit from flatter organizational str
 Gemini Research. (2025). Strategic decision-making in the North American electric vehicle industry: Navigating innovation and growth.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 22 - C5-I3
@@ -2123,9 +1865,6 @@ Slávik, Š., Mišúnová Hudáková, I., Procházková, K., & Zagoršek, B. (20
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 23 - C5-I3
 
 "Start-ups encounter formidable external challenges—including intense competition, inconsistent product/market fit validation, and the complexities of international expansion—which compound the risks inherent in early-stage ventures." [Empirical]
@@ -2150,9 +1889,6 @@ Slávik, Š., Mišúnová Hudáková, I., Procházková, K., & Zagoršek, B. (20
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 11 - C5-I4
 
 1. Insight Statement
@@ -2170,9 +1906,6 @@ The paper provides empirical evidence through detailed case studies of Kia and H
 Lee, D. O., Chung, K., & Nam, K. Y. (2012). The impact of CEOs' "design-driven" decision making in the Korean automobile industry. Design Management Journal, 23(4), 40-49. https://doi.org/10.1111/j.1948-7177.2012.00034.x
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 1 - C5-I6
@@ -2195,9 +1928,6 @@ Flores-García, E., Bruch, J., Wiktorsson, M., & Jackson, M. (2019). Decision-ma
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 1 - C1-I1
 
 Insight Statement:
@@ -2214,9 +1944,6 @@ The paper details retail banks’ use of omnichannel engagements, youth banking 
 Gemini Research. (2025). Comparative analysis of strategic themes in retail and commercial banking.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 4 - C1-I1
@@ -2239,9 +1966,6 @@ Gemini Research. (2025). Comparative analysis of strategic themes in retail and 
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 5 - C1-I1
 
 Insight Statement:
@@ -2258,9 +1982,6 @@ The paper highlights tactics such as tiered interest rates, bundled product offe
 Gemini Research. (2025). Comparative analysis of strategic themes in retail and commercial banking.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 14 - C1-I2
@@ -2287,9 +2008,6 @@ Khan, M. T., & Khan, S. U. (2021). Global market penetration strategies of softw
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 24 - C1-I2
 
 Cultivating Ecosystem and Platform Strategies
@@ -2300,14 +2018,11 @@ Executive Decision-Making Context:
 In pursuing platform strategies, leaders are challenged to design robust APIs, foster developer communities, and implement governance structures that ensure third-party contributions enhance rather than dilute the core value proposition. This strategic decision often differentiates market leaders like Salesforce from less agile competitors.
 
 Supporting Context:
-Case studies in the paper—such as the successful evolution of Salesforce’s AppExchange and Slack’s early integration strategy—highlight how ecosystem development not only extends product functionality but also deepens customer stickiness. Executives must therefore evaluate integration partnerships through the dual lenses of strategic growth and potential competitive risk. 
+Case studies in the paper—such as the successful evolution of Salesforce’s AppExchange and Slack’s early integration strategy—highlight how ecosystem development not only extends product functionality but also deepens customer stickiness. Executives must therefore evaluate integration partnerships through the dual lenses of strategic growth and potential competitive risk.
 
 Lebaea, R., Roshe, Y., Ntontela, S., & Thango, B. A. (2024). The role of data governance in ensuring system success and long-term IT performance: A systematic review. https://doi.org/10.20944/preprints202410.1841.v1
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 39 - C1-I2
@@ -2331,9 +2046,6 @@ Deloitte. (2022). State of AI in the enterprise, 5th edition: Fueling the AI tra
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 41 - C1-I2
 
 Differentiators of Cloud Leaders
@@ -2351,14 +2063,11 @@ Expected vs. Actual Outcomes: Leaders demonstrate that strategic execution and c
 Broader Implications: This insight suggests that fostering a culture of continuous innovation and selecting the right cloud service mix are critical levers for competitive advantage across industries.
 
 Supporting Context:
-Data reveals that Leaders report significantly higher value from advanced cloud services such as AI/ML and cloud native development (with value multiples ranging from 1.7x to 10x higher than less advanced segments), reinforcing the importance of strategic action over cost alone. ​us-future-of-cloud-surv…
+Data reveals that Leaders report significantly higher value from advanced cloud services such as AI/ML and cloud native development (with value multiples ranging from 1.7x to 10x higher than less advanced segments), reinforcing the importance of strategic action over cost alone. us-future-of-cloud-surv…
 
 Deloitte. (2022). US future of cloud survey report: Closing the cloud strategy, technology, and innovation gap. https://www.deloitte.com/us/en/pages/consulting/articles/cloud-oil-and-gas-case-study.html
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 47 - C1-I2
@@ -2372,9 +2081,6 @@ Supporting Context: Empirical analyses within the paper reveal that organization
 Weyer, J. (2025). Explicating dynamic capabilities: The nature and microfoundations of (sustainable) enterprise performance. Strategic Management Journal. https://doi.org/10.1002/smj.640
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 1 - C1-I3
@@ -2392,9 +2098,6 @@ The report documents multiple disruptive events—ranging from escalating trade 
 World Manufacturing Foundation. (2024). New perspectives for the future of manufacturing: Outlook 2030. https://www.worldmanufacturing.org
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 16 - C1-I3
@@ -2440,10 +2143,10 @@ Your task is to read the module as a **narrative of behavior**, then apply tags
 - **Whether and how the decision resolved—or remained unstable**
 
 > ⚠️ Do not rely on keyword matching.
-> 
-> 
+>
+>
 > ✅ Focus on interpreting **causal mechanisms and narrative dynamics**.
-> 
+>
 
 ---
 
@@ -2452,17 +2155,17 @@ Your task is to read the module as a **narrative of behavior**, then apply tags
 Each module typically contains three structured parts:
 
 1. **Insight Statement**
-    
+
     > A summary of the strategic learning or takeaway at the highest level.
-    > 
+    >
 2. **Executive Decision-Making Context**
-    
+
     > A description of how leaders saw the problem, framed the options, and chose to act.
-    > 
+    >
 3. **Supporting Context**
-    
+
     > Concrete details: examples, signals, behaviors, and outcomes that demonstrate how the decision played out.
-    > 
+    >
 
 ---
 
@@ -2478,24 +2181,24 @@ Before applying any tags:
     - What forms of resistance, alignment, or consequence followed?
 
 > Your job is not to judge the decision or verify the facts.
-> 
-> 
+>
+>
 > Your job is to **map the structure of strategic behavior**.
-> 
+>
 
 ---
 
 # 🧠 How to Think While Tagging
 
 > This section defines evaluation logic for applying interpretive tags.
-> 
-> 
+>
+>
 > The evaluator’s task is to detect latent dynamics—not surface language—and assign labels accordingly.
-> 
+>
 > Interpretation is permitted, but must remain evidence-linked.
-> 
+>
 > Do not verify facts. Focus on mapping how strategic behavior is framed, resisted, or resolved.
-> 
+>
 
 ### ✅ 1. Evidence-Based Inference Is Allowed
 
@@ -2505,18 +2208,18 @@ Before applying any tags:
 **Valid Example**
 
 > “Executives didn’t say this directly, but the pattern of investment indicates a shift toward ecosystem alignment.”
-> 
-> 
+>
+>
 > → Apply tag: `Ecosystem Frame`
-> 
+>
 
 **Invalid Example**
 
 > “Companies should start thinking about ecosystem alignment.”
-> 
-> 
+>
+>
 > → ❌ Do not tag. This is a recommendation, not behavioral evidence.
-> 
+>
 
 ---
 
@@ -2528,18 +2231,18 @@ Before applying any tags:
 **Valid Example**
 
 > “Leaders assumed personalization would drive retention.”
-> 
-> 
+>
+>
 > → Apply tag: `Cognitive Fog` (if assumption was incorrect)
-> 
+>
 
 **Invalid Example**
 
 > “The literature suggests personalization is effective.”
-> 
-> 
+>
+>
 > → ❌ Do not tag. Describes external context, not actor behavior.
-> 
+>
 
 ---
 
@@ -2551,18 +2254,18 @@ Before applying any tags:
 **Valid Example**
 
 > “Executives prioritized automation despite cultural resistance.”
-> 
-> 
+>
+>
 > → Apply tag: `Cultural Drift`
-> 
+>
 
 **Invalid Example**
 
 > “Organizations must overcome resistance to succeed with automation.”
-> 
-> 
+>
+>
 > → ❌ Do not tag. This is a normative claim.
-> 
+>
 
 ---
 
@@ -2574,18 +2277,18 @@ Before applying any tags:
 **Valid Example**
 
 > “The pilot’s results tipped the decision toward full rollout.”
-> 
-> 
+>
+>
 > → Apply tag: `Tested First`
-> 
+>
 
 **Invalid Example**
 
 > “A pilot was conducted.”
-> 
-> 
+>
+>
 > → ❌ Do not tag. No link to decision shift.
-> 
+>
 
 ---
 
@@ -2597,18 +2300,18 @@ Before applying any tags:
 **Valid Example**
 
 > “Teams voiced alignment, but execution varied drastically across regions.”
-> 
-> 
+>
+>
 > → Apply tag: `Surface Alignment`
-> 
+>
 
 **Invalid Example**
 
 > “The strategy sounds clean, but I’m not sure everyone really agreed.”
-> 
-> 
+>
+>
 > → ❌ Use fallback tag: `Unknown`
-> 
+>
 
 ---
 
@@ -2620,18 +2323,18 @@ Before applying any tags:
 **Valid Example**
 
 > “Over several initiatives, feedback loops were consistently ignored.”
-> 
-> 
+>
+>
 > → Apply tag: `Ignored Insight`
-> 
+>
 
 **Invalid Example**
 
 > “This one initiative received negative feedback.”
-> 
-> 
+>
+>
 > → ❌ Do not tag. Not a pattern.
-> 
+>
 
 ---
 
@@ -2643,35 +2346,35 @@ Before applying any tags:
 **Valid Example**
 
 > “The team deferred launch three times due to cross-functional misalignment.”
-> 
-> 
+>
+>
 > → Apply tag: `Lost Direction` or `Alignment Achieved` (depending on resolution)
-> 
+>
 
 **Invalid Example**
 
 > “The launch happened in 2023.”
-> 
-> 
+>
+>
 > → ❌ Do not tag. No behavioral implication.
-> 
+>
 
 ---
 
 ### 📌 Summary Rule
 
 > Tag any excerpt that reconstructs how the decision was experienced or interpreted by actors.
-> 
-> 
+>
+>
 > Avoid tagging excerpts that describe how the decision *should* be made.
-> 
+>
 
 ---
 
 # 🌫️ **Ambiguity Type**
 
 > Identifies the specific source of uncertainty shaping a decision—whether it’s due to competing priorities, cultural mismatch, complex systems, conflicting data, or distorted thinking.
-> 
+>
 
 ---
 
@@ -2680,7 +2383,7 @@ Before applying any tags:
 ## 🪢 Value Clash
 
 > Identifies strategic ambiguity caused by an internal trade-off between two legitimate but incompatible goals. The decision context reflects mutual exclusivity: pursuing one value diminishes the other.
-> 
+>
 
 ---
 
@@ -2735,7 +2438,7 @@ Do not use `Value Clash` if:
 ## 🧭 Cultural Drift
 
 > Identifies ambiguity caused by uncertainty about cultural fit. The decision becomes unclear because it's not evident whether the move aligns with internal norms, organizational identity, or external expectations(e.g., ethics, brand, societal norms).
-> 
+>
 
 ---
 
@@ -2790,7 +2493,7 @@ Do not use `Cultural Drift` if:
 ## 🕸️ System Tangle
 
 > Identifies ambiguity caused by unclear or unpredictable interdependencies between systems, teams, tools, or structures. The decision environment is murky because the effects of changes are non-obvious or hard to trace.
-> 
+>
 
 ---
 
@@ -2845,7 +2548,7 @@ Do not use `System Tangle` if:
 ## 📊 **Signal Split**
 
 > Identifies ambiguity caused by conflicting or contradictory data signals. Decision-makers receive inconsistent metrics, dashboards, or interpretations, which prevent consensus on what is happening or what should happen.
-> 
+>
 
 ---
 
@@ -2900,7 +2603,7 @@ Do not use `Signal Split` if:
 ## 🧠 Cognitive Fog
 
 > Identifies ambiguity caused by distorted thinking or flawed mental models. The issue is not missing data, but the way decision-makers process or misinterpret available information.
-> 
+>
 
 ---
 
@@ -2956,7 +2659,7 @@ Do not use `Cognitive Fog` if:
 ## ❓ Unknown
 
 > Use when no valid tag can be applied due to insufficient evidence, speculative reasoning, or absence of observable dynamics. This is a deliberate fallback, not a judgment of quality.
-> 
+>
 
 ---
 
@@ -3011,7 +2714,7 @@ Do not use `Unknown` if:
 # 🪞 **Framing Move**
 
 > Captures how leaders frame or “make sense of” ambiguity—often using familiar stories, principles, or structures to justify action in uncertain contexts.
-> 
+>
 
 ---
 
@@ -3020,7 +2723,7 @@ Do not use `Unknown` if:
 ## 📊 Evidence Frame
 
 > Identifies moments where decision-makers reduce ambiguity by foregrounding evidence—such as data, pilots, benchmarks, or case studies—as the primary rationale for action.
-> 
+>
 
 ---
 
@@ -3075,7 +2778,7 @@ Do not use `Evidence Frame` if:
 ## ⚖️ Values Frame
 
 > Decision-makers resolve ambiguity by appealing to a moral, ethical, or societal principle—framing the move as not just smart, but right.
-> 
+>
 
 ---
 
@@ -3129,7 +2832,7 @@ Exclude when:
 ## ♻️ Both/And Frame
 
 > Decision-makers resolve ambiguity by reframing a binary trade-off as a hybrid solution—advancing multiple priorities in parallel rather than choosing one.
-> 
+>
 
 ---
 
@@ -3183,7 +2886,7 @@ Exclude when:
 ## 🧠 Capability Frame
 
 > Decision-makers reduce ambiguity by framing action as a way to build or leverage organizational capability—treating the decision as an investment in future strength.
-> 
+>
 
 ---
 
@@ -3237,7 +2940,7 @@ Exclude when:
 ## ⏱️ Urgency Frame
 
 > Decision-makers reduce ambiguity by framing immediate action as necessary, using time pressure, windows of opportunity, or crisis to justify bold or unclear moves.
-> 
+>
 
 ---
 
@@ -3291,7 +2994,7 @@ Exclude when:
 ## 🔗 Ecosystem Frame
 
 > Decision-makers reduce ambiguity by positioning the decision as part of a larger strategic system—giving it meaning and legitimacy through its role in a broader structure.
-> 
+>
 
 ---
 
@@ -3345,7 +3048,7 @@ Exclude when:
 ## ❓ Unknown (Framing)
 
 > Used when a decision is made or described, but the framing logic is not explicitly stated—there is no observable rationale guiding how ambiguity is being made sense of.
-> 
+>
 
 ---
 
@@ -3400,7 +3103,7 @@ Exclude when:
 # 🧱 **Stabilizer**
 
 > Identifies the key moments, mechanisms, or forces that turn ambiguity into action—by testing, aligning, legitimizing, or locking in a decision.
-> 
+>
 
 ---
 
@@ -3409,7 +3112,7 @@ Exclude when:
 ## 📐 Tested First
 
 > Ambiguity is resolved by empirical validation—through pilots, tests, or experiments that convert uncertainty into commitment.
-> 
+>
 
 ---
 
@@ -3463,7 +3166,7 @@ Exclude when:
 ## 🤝 Alignment Achieved
 
 > Ambiguity is resolved when internal agreement is reached across teams, functions, or leaders—enabling coordinated action that was previously blocked or stalled.
-> 
+>
 
 ---
 
@@ -3517,7 +3220,7 @@ Exclude when:
 ## 🌍 Outside Approval
 
 > Ambiguity is resolved when external signals legitimize the decision, reducing internal hesitation or perceived risk.
-> 
+>
 
 ---
 
@@ -3571,7 +3274,7 @@ Exclude when:
 ## 🔮 Future-Proofed
 
 > Ambiguity is resolved through structured forecasting, modeling, or scenario analysis that clarifies long-term implications and de-risks commitment.
-> 
+>
 
 ---
 
@@ -3625,7 +3328,7 @@ Exclude when:
 ## 🧱 Locked In
 
 > Ambiguity is eliminated through a hard-to-reverse organizational commitment—such as structural investment, resourcing, or irreversible action—that makes the decision real, final, and operational.
-> 
+>
 
 ---
 
@@ -3680,7 +3383,7 @@ Exclude when:
 ## ❓ Unknown (Stabilizer)
 
 > Use when a decision appears to move forward or resolve ambiguity, but no specific stabilizing mechanism—such as testing, alignment, external validation, forecasting, or hard commitment—is identifiable.
-> 
+>
 
 ---
 
@@ -3734,7 +3437,7 @@ Exclude when:
 # 🎭 **False Clarity**
 
 > Evaluates whether a decision that appears clear and aligned actually is—or whether it masks unresolved tensions, uneven understanding, or performative agreement.
-> 
+>
 
 ---
 
@@ -3743,7 +3446,7 @@ Exclude when:
 ## 🎭 Surface Alignment
 
 > A decision appears clear and supported, but underlying behavior reveals confusion, divergence, or unspoken resistance—creating a false sense of agreement.
-> 
+>
 
 ---
 
@@ -3797,7 +3500,7 @@ Exclude when:
 ## 🧠 True Clarity
 
 > A decision is genuinely understood and supported across roles and teams, with no hidden friction or confusion—creating durable, functional alignment.
-> 
+>
 
 ---
 
@@ -3851,7 +3554,7 @@ Exclude when:
 ## ❓ Unknown (Clarity)
 
 > Use when it is not possible to determine whether the decision is aligned or misaligned—because the module provides no visible signals of shared understanding, resistance, or divergence.
-> 
+>
 
 ---
 
@@ -3908,7 +3611,7 @@ Next: ⚖️ Global vs. Local?
 # ⚖️ **Tension Axis**
 
 > Maps out the deeper, often invisible strategic trade-offs that influence how decisions are made and why ambiguity persists. These are not problems to solve, but tensions to manage.
-> 
+>
 
 ---
 
@@ -3931,7 +3634,7 @@ Here's a summary table of the tension axis tags and their definitions:
 ## ⚖️ Global vs. Local
 
 > A decision involves tension between enterprise-wide consistency and local customization or autonomy—forcing trade-offs about who decides and how uniform the outcome should be.
-> 
+>
 
 ---
 
@@ -3985,7 +3688,7 @@ Exclude when:
 ## ⏳ Now vs. Later
 
 > A decision involves tension between short-term results and long-term value—forcing trade-offs between immediate delivery and strategic investment.
-> 
+>
 
 ---
 
@@ -4039,7 +3742,7 @@ Exclude when:
 ## 🎢 Bold vs. Safe
 
 > A decision involves tension between taking bold, risky action and preserving stability, compliance, or reputation—forcing trade-offs between innovation and control.
-> 
+>
 
 ---
 
@@ -4093,7 +3796,7 @@ Exclude when:
 ## 🤖 Vision vs. Reality
 
 > A decision involves tension between strategic ambition—often technological—and the organization’s actual operational capacity to deliver on that vision.
-> 
+>
 
 ---
 
@@ -4147,7 +3850,7 @@ Exclude when:
 ## 🏛️ Central vs. Flexible
 
 > A decision involves tension between centralized control and governance and local autonomy or adaptability—forcing trade-offs between uniformity and agility.
-> 
+>
 
 ---
 
@@ -4201,7 +3904,7 @@ Exclude when:
 ## 🏎️ Lean vs. Unique
 
 > A decision involves tension between operational efficiency and strategic distinctiveness—forcing trade-offs between scale and standardization vs. craft, nuance, or brand experience.
-> 
+>
 
 ---
 
@@ -4255,7 +3958,7 @@ Exclude when:
 ## 🔭 Plan vs. React
 
 > A decision involves tension between proactive, long-term planning and reactive, short-term responsiveness—forcing trade-offs between strategic foresight and tactical agility.
-> 
+>
 
 ---
 
@@ -4309,7 +4012,7 @@ Exclude when:
 ## ❓ Unknown (Tension)
 
 > Use when no clear strategic trade-off is identifiable—ambiguity exists, but there is no discernible tension axis such as time, risk, control, or differentiation.
-> 
+>
 
 ---
 
@@ -4365,7 +4068,7 @@ Exclude when:
 # 🛠️ **Organizational Implications**
 
 > Shows how contradictions and unresolved tensions shape the organization over time—through strain, misalignment, resistance, or, occasionally, growth. These are second-order effects: not the decision itself, but what it does to the system.
-> 
+>
 
 | **Tag** | **Definition** |
 | --- | --- |
@@ -4382,7 +4085,7 @@ Exclude when:
 ## 🧭 Lost Direction
 
 > Persistent ambiguity leads to organizational confusion about ownership, priorities, or how to proceed—resulting in delay, duplication, or inaction.
-> 
+>
 
 ---
 
@@ -4436,7 +4139,7 @@ Exclude when:
 ## 🧵 Overstretched Org
 
 > The organization commits to a strategy that exceeds its available capacity—causing overload, stalled progress, or systemic strain across time, talent, tools, or infrastructure.
-> 
+>
 
 ---
 
@@ -4490,7 +4193,7 @@ Exclude when:
 ## 🧨 Culture Clash
 
 > A strategic decision conflicts with existing norms, values, or identity, triggering resistance, skepticism, or internal friction—often quietly.
-> 
+>
 
 ---
 
@@ -4544,7 +4247,7 @@ Exclude when:
 ## 🐌 Execution Lag
 
 > A strategy fails to produce results because operations, systems, or incentives don’t keep up—creating friction between intent and delivery.
-> 
+>
 
 ---
 
@@ -4598,7 +4301,7 @@ Exclude when:
 ## 🔁 Reflex Mode
 
 > The organization abandons foresight and planning, defaulting to short-term reactions and ad hoc fixes—resulting in strategic drift and loss of proactive direction.
-> 
+>
 
 ---
 
@@ -4652,7 +4355,7 @@ Exclude when:
 ## 🌱 Adaptive Growth
 
 > The organization responds to tension or contradiction by developing new, flexible ways of working—creating systemic learning and lasting capability gains.
-> 
+>
 
 ---
 
@@ -4706,7 +4409,7 @@ Exclude when:
 ## 🧩 Governance Shift
 
 > Strategic tension or confusion triggers the creation of new decision-making structures, roles, or coordination mechanisms—clarifying ownership and enabling action.
-> 
+>
 
 ---
 
@@ -4760,7 +4463,7 @@ Exclude when:
 ## ❓ Unknown (Organizational Effects)
 
 > Use when a decision’s long-term organizational consequences are not described, implied, or inferable—there is no observable outcome on structure, behavior, or capability.
-> 
+>
 
 ---
 
@@ -4818,7 +4521,7 @@ Exclude when:
 ---
 
 > Recurring organizational patterns that create drag, resistance, or distortion in decision-making—rooted in culture, structure, incentives, or perception. These aren’t one-off problems—they’re repeatable patterns that stall or warp action.
-> 
+>
 
 Here's a summary table of the friction archetypes:
 
@@ -4843,7 +4546,7 @@ Here's a summary table of the friction archetypes:
 ## 🪨 Legacy Hold
 
 > Decision-making is distorted by reflexive attachment to outdated systems, models, or behaviors—even when better alternatives are available and acknowledged.
-> 
+>
 
 ---
 
@@ -4897,7 +4600,7 @@ Exclude when:
 ## 🧱 Silo Drag
 
 > Decision-making stalls or fragments because teams, functions, or departments act in isolation, blocking integration, coordination, or shared learning.
-> 
+>
 
 ---
 
@@ -4951,7 +4654,7 @@ Exclude when:
 ## 🎭 Shallow Change
 
 > The organization appears to embrace transformation, but beneath the surface, core behaviors, culture, or systems remain unchanged—creating the illusion of progress.
-> 
+>
 
 ---
 
@@ -5005,7 +4708,7 @@ Exclude when:
 ## ⏱️ Short-Term Pull
 
 > The organization habitually prioritizes immediate, measurable results over long-term strategy—undermining sustained progress and innovation.
-> 
+>
 
 ---
 
@@ -5059,7 +4762,7 @@ Exclude when:
 ## 🧠 Comfort Bias
 
 > Decision-makers favor familiar strategies, tools, or ideas out of habit—ignoring new evidence or changing context that requires adaptation.
-> 
+>
 
 ---
 
@@ -5113,7 +4816,7 @@ Exclude when:
 ## 🌀 Process Trap
 
 > Progress stalls because governance, review cycles, or consensus rituals become blockers—creating inertia disguised as thoroughness.
-> 
+>
 
 ---
 
@@ -5167,7 +4870,7 @@ Exclude when:
 ## 🤖 Tech Mirage
 
 > Leaders place overconfidence in technology as a solution to deeper problems—assuming tools will fix issues rooted in culture, strategy, or operations.
-> 
+>
 
 ---
 
@@ -5221,7 +4924,7 @@ Exclude when:
 ## 🛡️ Belief Bubble
 
 > Leaders selectively interpret evidence to protect a preferred narrative, filtering out contradictions and resisting feedback that challenges their view.
-> 
+>
 
 ---
 
@@ -5275,7 +4978,7 @@ Exclude when:
 ## 📉 Capability Gap
 
 > A strategy assumes skills, tools, or capacity that the organization does not possess—leading to failure or stall-out due to executional unpreparedness.
-> 
+>
 
 ---
 
@@ -5329,7 +5032,7 @@ Exclude when:
 ## 🗣️ Ignored Insight
 
 > Meaningful insights—especially from lower-level employees or external sources—are heard but not acted on, revealing a disconnect between information gathering and decision-making.
-> 
+>
 
 ---
 
@@ -5383,7 +5086,7 @@ Exclude when:
 ## 📏 Certainty Illusion
 
 > Leaders overtrust models, forecasts, or frameworks, treating them as accurate representations of reality—leading to rigid decisions in uncertain environments.
-> 
+>
 
 ---
 
@@ -5437,7 +5140,7 @@ Exclude when:
 ## 🌐 Outside Blindspot
 
 > The organization fails to account for known external dynamics—such as policies, partners, or competitors—leading to friction, exposure, or strategic failure.
-> 
+>
 
 ---
 
@@ -5491,7 +5194,7 @@ Exclude when:
 ## ❓ Unknown (Friction Archetypes)
 
 > Use when no recurring friction pattern is observable—there is no evidence of distortion caused by culture, structure, incentives, or perception that matches a known archetype.
-> 
+>
 
 ---
 
@@ -5619,4 +5322,3 @@ CATEGORICAL MODULE 22 - C5-I3,Unknown,Unknown,Unknown,Unknown,Unknown,Overstretc
 CATEGORICAL MODULE 23 - C5-I3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 CATEGORICAL MODULE 11 - C5-I4,Value Clash,Unknown,Unknown,Unknown,Lean vs. Unique,Unknown,Unknown,Unknown
 CATEGORICAL MODULE 1 - C5-I6,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-

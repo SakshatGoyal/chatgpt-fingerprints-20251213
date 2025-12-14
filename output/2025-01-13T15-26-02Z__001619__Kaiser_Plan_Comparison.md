@@ -7,9 +7,9 @@ ok, I know this sucks, but here's some info I copied from Kaiser's webpage for c
 
 3: Kaiser Permanente - Gold 80 HMO 0/30 PCP	6: Kaiser Permanente - Silver 70 HDHP HMO 3600/25% PCP	5: Kaiser Permanente - Silver 70 HMO 2850/50 PCP
 Monthly premium
-$722.26	
+$722.26
 Monthly premium
-$514.27	
+$514.27
 Monthly premium
 $546.67
 Annual deductible
@@ -221,15 +221,15 @@ I have adhd (or i think i do) i need to schedule doctor visits with a psychiatri
 If you expect frequent visits to a psychiatrist for ADHD treatment, the **Gold 80 HMO plan** is likely the best fit. Here's why:
 
 ### Why the Gold Plan is a Good Choice:
-1. **No Deductible**: 
+1. **No Deductible**:
    - You don’t need to spend a large sum upfront before your benefits kick in. This is important if you need immediate access to care.
 
-2. **Low Copay for Primary and Specialty Visits**: 
+2. **Low Copay for Primary and Specialty Visits**:
    - **Psychiatrist visits are considered specialty care**. The Gold plan charges $60 per visit, which is lower and more predictable than the Silver plans:
      - **HDHP**: 25% coinsurance after a $3,600 deductible (costs vary widely and can be high for specialty visits).
      - **Silver 70 HMO**: $80 per visit (higher than the Gold plan).
 
-3. **Predictable Costs**: 
+3. **Predictable Costs**:
    - The Gold plan focuses on copays (fixed amounts for services) rather than percentage-based coinsurance. This simplifies managing costs, especially for regular visits.
 
 4. **Virtual Care at No Charge**:
@@ -244,14 +244,14 @@ If you expect frequent visits to a psychiatrist for ADHD treatment, the **Gold 8
 - **Silver 70 HDHP**:
   - Requires you to pay the full cost of visits until you meet the $3,600 deductible. This could be expensive if you have regular visits.
   - Coinsurance (25%) instead of fixed copays adds uncertainty to costs.
-  
+
 - **Silver 70 HMO**:
   - Has a lower premium than the Gold plan, but higher copays for specialty visits ($80 per visit) make it less cost-effective for frequent care.
 
 ---
 
 ### Final Recommendation:
-Opt for the **Gold 80 HMO plan** if your priority is consistent and affordable access to psychiatric care, as it minimizes your out-of-pocket costs for frequent visits and eliminates the stress of managing a deductible. 
+Opt for the **Gold 80 HMO plan** if your priority is consistent and affordable access to psychiatric care, as it minimizes your out-of-pocket costs for frequent visits and eliminates the stress of managing a deductible.
 
 Would you like help figuring out how to enroll or check coverage details for ADHD-related care?
 
@@ -277,12 +277,12 @@ An **HMO (Health Maintenance Organization)** is a type of health insurance plan 
 ---
 
 ### **What is Coinsurance?**
-**Coinsurance** is the percentage of the cost you pay for medical services **after you've met your deductible**. 
+**Coinsurance** is the percentage of the cost you pay for medical services **after you've met your deductible**.
 
 For example:
-- **Deductible**: This is the amount you pay out of pocket before the insurance starts covering expenses. 
+- **Deductible**: This is the amount you pay out of pocket before the insurance starts covering expenses.
   - If your deductible is $3,600, you must pay for medical costs up to that amount first.
-- **Coinsurance**: Once the deductible is met, you share costs with your insurance. 
+- **Coinsurance**: Once the deductible is met, you share costs with your insurance.
   - Example: If your plan has 25% coinsurance:
     - You pay **25%** of the cost of a service.
     - Your insurance pays **75%**.
@@ -356,7 +356,7 @@ Here’s a comparison of the three plans based on the provided details, focusing
   - Individual: **$8,700**
   - Family: **$17,400**
 - **Virtual Care**: Email, E-visit, Phone, and Video visits at no charge.
-- **Key Features**: 
+- **Key Features**:
   - Predictable costs with no deductible.
   - Higher out-of-pocket max than the Deductible Gold plan.
 
@@ -368,7 +368,7 @@ Here’s a comparison of the three plans based on the provided details, focusing
   - Individual: **$7,800** (lower than Copayment Gold).
   - Family: **$15,600**.
 - **Virtual Care**: Email, E-visit, Phone, and Video visits at no charge.
-- **Key Features**: 
+- **Key Features**:
   - Same benefits as Copayment Gold but with a **lower out-of-pocket max**, meaning you'll hit the financial protection limit sooner if medical costs are high.
 
 ---
@@ -526,7 +526,7 @@ Considering your expected needs (psychiatrist visits under $5,000 annually):
    - Lowest deductible ($2,850) among all plans, with predictable copays for visits.
    - Slightly higher out-of-pocket max ($8,750) than HSA Silver.
 
-3. **Avoid**: 
+3. **Avoid**:
    - **Bronze Plans** unless you are confident in minimal medical usage due to their high deductibles and less favorable cost-sharing.
    - **Silver 70 HMO Off Exchange** due to its high deductible and minimal benefits compared to the other Silver plans.
 
@@ -545,7 +545,7 @@ Understanding the **difference between out-of-pocket costs and deductibles** is 
 ---
 
 ### **1. Deductible**
-- **What It Is**: 
+- **What It Is**:
   - The **amount you must pay for covered medical services** before your insurance begins to share costs.
   - For example, if your deductible is $3,600, you’ll pay the first $3,600 of your medical expenses before insurance contributes.
 
@@ -561,7 +561,7 @@ Understanding the **difference between out-of-pocket costs and deductibles** is 
 ---
 
 ### **2. Out-of-Pocket Costs**
-- **What It Is**: 
+- **What It Is**:
   - The total amount you pay **out of your own pocket** for medical services during a policy year.
   - Includes:
     - **Deductible** (the amount you pay before insurance kicks in).
@@ -609,12 +609,11 @@ I ended up taking the gold 80. does it have deductibles for video visits?
 
 ## ChatGPT (2025-02-28T02:44:33.253337+00:00)
 
-Great choice! The **Gold 80 HMO** **does not** have a deductible for video visits.  
+Great choice! The **Gold 80 HMO** **does not** have a deductible for video visits.
 
 ### **Here's how virtual care works under your plan:**
-✅ **Email, E-visit, Phone, and Video visits** → **No charge** (completely covered).  
+✅ **Email, E-visit, Phone, and Video visits** → **No charge** (completely covered).
 
-Since you expect to have frequent psychiatrist visits, this means you can do virtual consultations **without paying anything out of pocket** for the visit itself.  
+Since you expect to have frequent psychiatrist visits, this means you can do virtual consultations **without paying anything out of pocket** for the visit itself.
 
 Would you like help checking coverage for specific medications or in-person visits under your plan?
-

@@ -39,7 +39,7 @@ Yet the goal of evaluation is to surface **real-world patterns and decisions**�
 - **Locked In** might be tagged just because a recommendation sounds bold, even if no irreversible commitment was made.
 
 **Suggestion:** Add subtle reminders in tag descriptions:
-> ✅ What it is: A real shift or action, not just a stated recommendation.  
+> ✅ What it is: A real shift or action, not just a stated recommendation.
 > ❌ What it’s not: A “should” or “could” scenario without clear follow-through.
 
 ---
@@ -68,11 +68,11 @@ Without making the guide longer, consider these light-weight, high-impact additi
 ### ✅ Add a Quick “Reality Check” Box Near the Top
 Right after the “While Evaluating” section:
 
-> **🪞 Reality Check:**  
-> Ask yourself: *Is this describing what actually happened—or what someone wishes would happen?*  
->  
-> - Focus on observed decisions, behaviors, and tensions.  
-> - Be skeptical of “should,” “must,” and “ought to” language.  
+> **🪞 Reality Check:**
+> Ask yourself: *Is this describing what actually happened—or what someone wishes would happen?*
+>
+> - Focus on observed decisions, behaviors, and tensions.
+> - Be skeptical of “should,” “must,” and “ought to” language.
 > - If it’s unclear whether something happened, don’t assume it did.
 
 ---
@@ -127,9 +127,6 @@ Klus, M. F., Lohwasser, T. S., Holotiuk, F., & Moormann, J. (2019). Strategic al
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 40 - C1-I6
 
 "In the face of rising operational costs and margin compression, retail banks must reengineer their operating models to focus on dynamic, data-driven pricing and cost management strategies." [Empirical]
@@ -149,9 +146,6 @@ The report presents multiple exhibits highlighting rising IT, wage, and risk cos
 Garg, A., Nunez Maxwell, M., Riba, M., Flötotto, M., & Skau, O. (2024). The state of retail banking: Profitability and growth in the era of digital and AI. McKinsey & Company.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 41 - C1-I6
@@ -175,9 +169,6 @@ Garg, A., Nunez Maxwell, M., Riba, M., Flötotto, M., & Skau, O. (2024). The sta
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 52 - C1-I7
 
 Leveraging Generative AI for Accelerated R&D and Operational Efficiency
@@ -193,9 +184,6 @@ Deloitte’s analysis reveals that a top 10 biopharma company could capture betw
 Deloitte. (2024). 2024 Global Life Sciences Sector Outlook: Value creation through AI, M&A, and patient-centric strategies. https://www2.deloitte.com/content/dam/Deloitte/us/Documents/us-realizing-transformative-value-from-ai-and-genAI-in-life-sciences-040924.pdf
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 56 - C1-I7
@@ -215,14 +203,11 @@ Expected vs. Actual Outcomes: While legacy models favored slow, incremental chan
 Broader Implications: This shift underlines a fundamental change in executive thinking—where agile decision-making and proactive risk-taking are becoming imperative.
 
 Supporting Context:
-The survey data and accompanying case studies (e.g., the rapid deployment of cloud computing at Moderna and AI-driven efficiencies in clinical operations) underscore that leapfrog innovation is not just a reactive measure but a strategic priority for long-term resilience and market leadership. 
+The survey data and accompanying case studies (e.g., the rapid deployment of cloud computing at Moderna and AI-driven efficiencies in clinical operations) underscore that leapfrog innovation is not just a reactive measure but a strategic priority for long-term resilience and market leadership.
 
 Deloitte. (2021). Biopharma digital transformation: Gain an edge with leapfrog digital innovation. https://www2.deloitte.com/us/en/insights/industry/life-sciences/ai-and-pharma.html
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 63 - C1-I7
@@ -248,9 +233,6 @@ Gemini Research. (2025). A comparative analysis of executive decision-making in 
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 72 - C1-I7
 
 Executives must reevaluate their reliance on traditional therapeutic investments as new drug modalities demonstrate explosive growth—evidenced by a 14% pipeline value increase and seven of the top 10 biopharma products now being new modalities. [Empirical]
@@ -265,14 +247,11 @@ Expected vs. Actual Outcomes: Traditional models anticipated steady incremental 
 Broader Implications: This trend urges executives to diversify portfolios and adopt flexible investment strategies that accommodate disruptive innovation across multiple therapeutic areas .
 
 Supporting Context
-The report indicates that new modalities now represent $168 billion in projected pipeline value—a 14% increase from 2023—and have disrupted the ranking of top-selling biopharma products. This robust empirical evidence underscores the need for strategic recalibration in capital allocation and risk management. [Empirical] 
+The report indicates that new modalities now represent $168 billion in projected pipeline value—a 14% increase from 2023—and have disrupted the ranking of top-selling biopharma products. This robust empirical evidence underscores the need for strategic recalibration in capital allocation and risk management. [Empirical]
 
 Chen, L., Bush, B., Brochu, M., & King, G. (2024). New drug modalities 2024. Boston Consulting Group. https://www.bcg.com/industries/health-care/biopharma
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 79 - C1-I7
@@ -292,9 +271,6 @@ McKinsey & Company. (2025). Strengthening the R&D operating model for pharmaceut
 END OF CATEGORICAL MODULE.
 
 
-
-
-
 ### CATEGORICAL MODULE 46 - C2-I2
 
  Insight Statement
@@ -309,9 +285,6 @@ The textbook emphasizes that mission statements—when developed with broad mana
 David, F. R. (2011). Strategic management: Concepts and cases (13th ed.). Pearson Education.
 
 END OF CATEGORICAL MODULE.
-
-
-
 
 
 ### CATEGORICAL MODULE 41 - C2-I3
@@ -348,16 +321,16 @@ Even when tagged as `[Empirical]`, the modules frequently include **action-orien
 
 **Examples:**
 
-- Module 72:  
-  > “Executives must reevaluate their reliance on traditional therapeutic investments...”  
+- Module 72:
+  > “Executives must reevaluate their reliance on traditional therapeutic investments...”
   That “must” makes it sound like a recommendation—even though it’s followed by empirical backing.
 
-- Module 41:  
-  > “A cautious yet forward-thinking approach is required...”  
+- Module 41:
+  > “A cautious yet forward-thinking approach is required...”
   Who requires it? The data? The author? The field?
 
-- Module 56:  
-  > “Executives are increasingly compelled to adopt leapfrog digital innovation...”  
+- Module 56:
+  > “Executives are increasingly compelled to adopt leapfrog digital innovation...”
   “Compelled” implies a behavioral shift—but the actual action being taken may still be unclear.
 
 **Evaluator Risk:** These blur the line between **descriptive framing** and **prescriptive advocacy**, potentially triggering incorrect tags like `Values Frame`, `Urgency Frame`, or even `True Clarity`.
@@ -380,7 +353,7 @@ Several modules include **conditional logic** masked as real dynamics.
 Sometimes, the **supporting context is robustly empirical**, but the **insight and framing layer** leans advisory.
 
 **Example – Module 63:**
-> “...underscoring the urgent need for strategic innovations...”  
+> “...underscoring the urgent need for strategic innovations...”
 > “...could streamline operations…”
 
 This blends real conditions with a call to action.
@@ -412,10 +385,10 @@ Without extending the core document, here are three possible approaches:
 
 Under “While Evaluating,” insert this lightweight, memorable test:
 
-> **Reality vs. Recommendation?**  
-> Before tagging, ask: *Is this what happened—or what someone thinks should happen?*  
->  
-> - “Executives did X” → Evaluate as action  
+> **Reality vs. Recommendation?**
+> Before tagging, ask: *Is this what happened—or what someone thinks should happen?*
+>
+> - “Executives did X” → Evaluate as action
 > - “Executives must / should / could do X” → Be cautious. That’s likely advice.
 
 This reinforces the idea that **not all forward-looking or action-sounding language implies a real decision**.
@@ -447,8 +420,8 @@ Provide a short list of **language signals** that often indicate normative (vs. 
 
 Then follow with:
 
-> When you see these phrases:  
-> ✅ Look for **concrete behavior** or **organizational evidence**  
+> When you see these phrases:
+> ✅ Look for **concrete behavior** or **organizational evidence**
 > ❌ Don’t assume intent equals action
 
 ---
@@ -457,8 +430,8 @@ Then follow with:
 
 Here’s a simple, scalable instruction:
 
-> 🔎 If the module contains mostly **prescriptive or aspirational** language—  
-> - Tag as `Unknown` in appropriate categories (e.g., Framing Move, Stabilizer)  
+> 🔎 If the module contains mostly **prescriptive or aspirational** language—
+> - Tag as `Unknown` in appropriate categories (e.g., Framing Move, Stabilizer)
 > - Add a note: *“Contains strategic recommendation, but unclear if acted upon.”*
 
 This approach acknowledges ambiguity without forcing false certainty.
@@ -469,7 +442,7 @@ Would you like me to mock up a one-page Evaluator Tip Sheet (PDF-style) summariz
 
 ## You (2025-04-02T19:28:53.568000+00:00)
 
-I like you're idea of a micro glossary. Lets work on that. 
+I like you're idea of a micro glossary. Lets work on that.
 
 
 I'm attaching a random collection of text files that have these categorical modules. Read through them individually and extract any red flag phrases to look for.
@@ -488,7 +461,7 @@ These phrases fall into four thematic buckets—each one reflects a **common way
 
 ---
 
-### 📌 **Category 1: Pseudo-Action Language**  
+### 📌 **Category 1: Pseudo-Action Language**
 > Sounds like action, but often just sets a strategic intention or desired outcome.
 
 | **Phrase** | **Why It’s Risky** |
@@ -501,7 +474,7 @@ These phrases fall into four thematic buckets—each one reflects a **common way
 
 ---
 
-### 📌 **Category 2: Conditional / Hypothetical Framing**  
+### 📌 **Category 2: Conditional / Hypothetical Framing**
 > Often implies possibility, not actual behavior.
 
 | **Phrase** | **Why It’s Risky** |
@@ -514,7 +487,7 @@ These phrases fall into four thematic buckets—each one reflects a **common way
 
 ---
 
-### 📌 **Category 3: Value-Laden Signals**  
+### 📌 **Category 3: Value-Laden Signals**
 > Uses emotionally or strategically charged words that imply the “right” path.
 
 | **Phrase** | **Why It’s Risky** |
@@ -527,7 +500,7 @@ These phrases fall into four thematic buckets—each one reflects a **common way
 
 ---
 
-### 📌 **Category 4: Generalized Behavioral Attribution**  
+### 📌 **Category 4: Generalized Behavioral Attribution**
 > Over-generalizes from survey stats or trends.
 
 | **Phrase** | **Why It’s Risky** |
@@ -545,7 +518,7 @@ These phrases fall into four thematic buckets—each one reflects a **common way
 If evaluators encounter red flag phrases **without direct evidence** of real behavior or organizational shifts:
 
 - Tag the interpretive category as `Unknown`
-- Leave a short note like:  
+- Leave a short note like:
   _“Contains prescriptive framing; unclear if action has occurred.”_
 
 ---
@@ -554,7 +527,7 @@ Would you like this turned into a **one-page printable reference sheet** for eva
 
 ## You (2025-04-02T19:31:08.472000+00:00)
 
-ok, now build on top of your existing categories by knowledge from these files. You can either add categories, or expand on the categories. 
+ok, now build on top of your existing categories by knowledge from these files. You can either add categories, or expand on the categories.
 
 However, make sure you don't unnecessarily add redundancies. Only add if its essential for someone to know in order to flag those ambiguities.
 
@@ -573,7 +546,7 @@ Each category now includes:
 
 ---
 
-### 🧩 Category 1: **Pseudo-Action Language**  
+### 🧩 Category 1: **Pseudo-Action Language**
 > Phrases that imply decisions or behaviors have occurred—but actually describe intent, framing, or recommendations.
 
 | **Phrase** | **Interpretive Risk** |
@@ -682,28 +655,27 @@ Would you like this assembled into a **taggable reference sheet for evaluators**
 
 ## You (2025-04-02T19:42:52.802000+00:00)
 
-ok now here's a critical look. 
+ok now here's a critical look.
 
 this is tricky - Lets go category by category:
 
 Category 1: Pseudo-Action Language
 
-“It is imperative to…” one thing I've tried to do is to avoid any speculative references within summaries. All the content is coming directly from research papers. However, there are times that phrases like “It is imperative to…” are still valid to understand the context behind a problem, which further ties back to some of our tagging system introduced in the .md file i attached at the beginning. 
+“It is imperative to…” one thing I've tried to do is to avoid any speculative references within summaries. All the content is coming directly from research papers. However, there are times that phrases like “It is imperative to…” are still valid to understand the context behind a problem, which further ties back to some of our tagging system introduced in the .md file i attached at the beginning.
 
-Also, “Emerges as a strategic imperative”, that's critical information for anyone who's evaluating things like ambiguity type and frictional archetypes. 
+Also, “Emerges as a strategic imperative”, that's critical information for anyone who's evaluating things like ambiguity type and frictional archetypes.
 
 Category 2: Conditional / Hypothetical Framing:
 Phrases that I'm fine with flagging:
 “Could unlock…” / “Can deliver…”
 “Would likely…”
 
-However, the rest, its easy to confuse what the author is saying themselves, and the context of the story. So we'll need to be carefull. 
+However, the rest, its easy to confuse what the author is saying themselves, and the context of the story. So we'll need to be carefull.
 
 “May result in…” / “May lead to…”, “Expected to improve…”, “If implemented correctly…”, “Anticipated benefit…”... these phrases are at times used to convey the author's point of view, but at the same time are also used in many places to describe the situational context the module is describing. About what leaders were expecting, about what they were anticipating, etc...
 
 Category 3: Value-Laden and Overconfident Framing
 
-Same applies. A lot of these words are actually at times explaining situational context. 
+Same applies. A lot of these words are actually at times explaining situational context.
 
 ---
-

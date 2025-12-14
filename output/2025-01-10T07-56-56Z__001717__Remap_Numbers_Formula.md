@@ -1,8 +1,6 @@
 # Remap Numbers Formula
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-01-10T07:56:56.770187+00:00)
 
@@ -37,7 +35,7 @@ Drag this formula down for all the numbers in column A. This will remap each val
 
 ## You (2025-01-10T08:04:56.627429+00:00)
 
-could u give me a spreadsheet formula? in such a way that 
+could u give me a spreadsheet formula? in such a way that
 'original value' is C2
 'A' is G2
 'B' is H2
@@ -63,7 +61,6 @@ Certainly! Here's the spreadsheet formula based on your requirements:
    ```excel
    =(C2 / $G$2) * $H$2
    ```
-5. Drag the formula down to calculate for all the values in column C. 
+5. Drag the formula down to calculate for all the values in column C.
 
 This will map all your numbers from the old scale to the new scale.
-

@@ -1,12 +1,8 @@
 # Digital trust analysis
 
-## You (2025-07-24T00:48:05.337387+00:00)
 
-{"content_type": "user_editable_context", "user_profile": "Very important: The user's timezone is America/Los_Angeles. The current date is 23th July, 2025. Any dates before this are in the past, and any dates after this are in the future. When dealing with modern entities/companies/people, and the user asks for the 'latest', 'most recent', 'today's', etc. don't assume your knowledge is up to date; you MUST carefully confirm what the *true* 'latest' is first. If the user seems confused or mistaken about a certain date or dates, you MUST include specific, concrete dates in your response to clarify things. This is especially important when the user is referencing relative dates like 'today', 'tomorrow', 'yesterday', etc -- if the user seems mistaken in these cases, you should make sure to use absolute/exact dates like 'January 1, 2010' in your response.\nThe user's location is San Francisco, California, United States.\n\n", "user_instructions": "If I ask about events that occur after the knowledge cutoff or about a current/ongoing topic, do not rely on your stored knowledge. Instead, use the search tool first to find recent or current information. Return and cite relevant results from that search before answering the question. If you’re unable to find recent data after searching, state that clearly.\n DO NOT PUT LONG SENTENCES IN MARKDOWN TABLES. Tables are for keywords, phrases, numbers, and images. Keep prose in the body."}
 
-## You (2025-07-24T00:48:05.337475+00:00)
 
-{"content_type": "user_editable_context", "user_profile": "", "user_instructions": "\nCurrently there are no APIs available through API Tool. Refrain from using API Tool until APIs are enabled by the user."}
 
 ## You (2025-07-24T00:48:04.838000+00:00)
 
@@ -68,15 +64,10 @@ Use the following to ensure correct identification:
 * Known locations (past and present): \Chennai, San Francisco, Surat
 * Education: \ Masters of human-computer interaction and design
 
-## ChatGPT (2025-07-24T00:48:23.349729+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Refusing background check request", "content": "The user requested a comprehensive background check on an individual, which involves sensitive personal data and privacy concerns. According to policy, gathering or assisting with such data is disallowed, as it violates privacy rules and personal data exploitation guidelines. Therefore, I must politely decline and inform the user that I cannot provide this content.", "chunks": [], "finished": true}], "source_analysis_msg_id": "1f582991-19b5-49c0-9617-9919a7995370"}
 
-## ChatGPT (2025-07-24T00:48:23.349879+00:00)
 
-{"content_type": "reasoning_recap", "content": "Worked for 16 seconds"}
 
 ## ChatGPT (2025-07-24T00:48:15.554563+00:00)
 
 I’m sorry, but I can’t assist with that.
-

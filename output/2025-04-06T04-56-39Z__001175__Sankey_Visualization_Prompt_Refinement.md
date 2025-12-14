@@ -296,21 +296,21 @@ If you’re ready, I can take these insights and **begin creating the prompt**�
 
 for the output format, basically i want the entire code file for the file /Users/sakshatgoyal/Desktop/interactive-sankey/src/ParallelSets.svelte
 
-I do have the code already, should i paste the existing code as part of the context, or should i maybe just avoid that? i don't want it to get too biased by the current solution, and ONly want it to focus on the goals and things we want to avoid. That way i can get an independent solution that might actually work. 
+I do have the code already, should i paste the existing code as part of the context, or should i maybe just avoid that? i don't want it to get too biased by the current solution, and ONly want it to focus on the goals and things we want to avoid. That way i can get an independent solution that might actually work.
 
-"“Handle edge case: if multiple rows pass through the same node but diverge immediately after, preserve visual density while enabling row-level highlight tracing.”". I think i like this line. 
+"“Handle edge case: if multiple rows pass through the same node but diverge immediately after, preserve visual density while enabling row-level highlight tracing.”". I think i like this line.
 
 oh yeah, guadrails
 
-- maintaining the paths visually is priority 1. I should be able to select any node through the dropdown selections to select which node i want to focus on, and after selection, I want to maintain only the rows where that node value is true, and i want to see the journey end to end, not for smaller paths. 
+- maintaining the paths visually is priority 1. I should be able to select any node through the dropdown selections to select which node i want to focus on, and after selection, I want to maintain only the rows where that node value is true, and i want to see the journey end to end, not for smaller paths.
 
-- I do want a sankey chart-like diagram. I know parallel sets are better since we don't have numberic data - all our rows have text. It's almost like every row is a single package, ans we're mapping its location per phase. so at the end, we want to pick any one node, and highlight the journey . 
+- I do want a sankey chart-like diagram. I know parallel sets are better since we don't have numberic data - all our rows have text. It's almost like every row is a single package, ans we're mapping its location per phase. so at the end, we want to pick any one node, and highlight the journey .
 
-- I don't want to loose any context. If i select the node, the underlying structure shouldn't change - just the selection. I'm pasting an example where the background was gray and the selection was pink. 
+- I don't want to loose any context. If i select the node, the underlying structure shouldn't change - just the selection. I'm pasting an example where the background was gray and the selection was pink.
 
-- accuracy is priority 1. color selection, spacing, annotation, etc, are priority 2. 
+- accuracy is priority 1. color selection, spacing, annotation, etc, are priority 2.
 
-- I think we can add filters later, for now lets keep our file lean and focus on a single use-case. 
+- I think we can add filters later, for now lets keep our file lean and focus on a single use-case.
 
 •	**Contextual filters** (not visualized, but used to limit rows shown):
 
@@ -328,7 +328,7 @@ oh yeah, guadrails
 
 •	Knowledge Codifiability
 
-these filters can be visited later. 
+these filters can be visited later.
 
 ---
 
@@ -466,9 +466,7 @@ Ready for me to generate the actual Svelte file based on this?
 
 ## You (2025-04-06T05:21:07.008316+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-U3tAHM55knpLypisTnyomC', 'size_bytes': 268204, 'width': 747, 'height': 703, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-2WvXF5KNMUGcTEinnjoWXW', 'size_bytes': 740061, 'width': 824, 'height': 540, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-see the problem, even with this code, is that it keeps going back to the threads. 
+see the problem, even with this code, is that it keeps going back to the threads.
 
 I'm inserting two images. One of them is the sankey chart i like, and i want, and the second one is chatGPTs response. Somehow, the fact that I really need the 'paths' in a way that i can also see the quantity, not just the lines, that keeps gettng lost in every translation.
 
@@ -533,7 +531,7 @@ Here’s the **revised section** you can substitute into the prompt to hard-prev
 #### 🔒 Visual Guardrails (Revised)
 
 - 🔁 **Use Bundled Aggregation for Links**: For each node-pair between consecutive columns, **aggregate all rows** that share that transition and draw **a single ribbon** whose **thickness** reflects the number of matching rows.
-  
+
 - 🧠 **Retain Row Identity Within Links**: Each bundled path must **store the IDs of contributing rows**, so that when highlighting is triggered (e.g., by selecting a node), all relevant paths across the entire diagram can be recolored.
 
 - 🔍 **Selection Must Be Row-Based, Not Path-Based**: If a node is selected, highlight **all paths** associated with all rows that pass through that node—even if their journeys diverge afterward.
@@ -696,9 +694,9 @@ You are expected to implement the system **from first principles**, without bias
 
 Let me know if you'd like to:
 
-1. 🔧 Review any other edge cases before we generate the code  
-2. 🧠 Add diagnostic or accessibility features  
-3. 🛠 Proceed to generate the actual `ParallelSets.svelte` file based on this prompt  
+1. 🔧 Review any other edge cases before we generate the code
+2. 🧠 Add diagnostic or accessibility features
+3. 🛠 Proceed to generate the actual `ParallelSets.svelte` file based on this prompt
 
 Ready when you are.
 
@@ -932,6 +930,5 @@ Your implementation should be **modular and correct**, not just functional. Prio
 
 ---
 
-✅ Ready to generate `ParallelSets.svelte` based on this?  
+✅ Ready to generate `ParallelSets.svelte` based on this?
 Let me know if you'd like anything added before we start the code generation!
-

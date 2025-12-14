@@ -29,7 +29,7 @@ Here’s a reframed version you could use on Slack:
 
 👋 Hey all — sharing two SIGMA links here:
 
-1. **Synthesis of our research + insights**  
+1. **Synthesis of our research + insights**
 2. **Design principles derived from the AI-decision-making work**
 
 This is still a WIP, but I’d love some early feedback — especially before moving to a more polished Google Docs/Sheets version.
@@ -63,7 +63,7 @@ Here’s an updated version that keeps the concise flow for Slack, but adds more
 
 👋 Hey all — sharing two SIGMA links here:
 
-1. **Research synthesis (WIP)**  
+1. **Research synthesis (WIP)**
 2. **AI-focused design principles**
 
 This is still in an early shape, but I wanted to circulate it for feedback. Based on earlier input — especially around similar-looking insights being hard to distinguish — I made some structural adjustments that I hope make things easier to parse.
@@ -71,25 +71,25 @@ This is still in an early shape, but I wanted to circulate it for feedback. Base
 ### Quick overview:
 
 - **Archetypes**: We've refined the model from 6 to **4 archetypes** to reduce complexity. Each includes a short description, typical strategic tensions, and a mapping to relevant roles (some are speculative, since our sources weren’t always explicit).
-  
-- **Why not "insights"?**  
+
+- **Why not "insights"?**
   I initially tried organizing the synthesis by themes + insights, but found that *problem statements* did a better job of staying faithful to the nuance of the research without flattening it. So each row in the doc focuses on a distinct **people-problem**, with similar ones grouped together for comparison.
 
-- **Success measures**:  
-  For each problem, I included a rough draft of how we might know if it’s been meaningfully addressed. These are qualitative and speculative, and they follow a structure inspired by this prompt:  
-  ➤ *What’s the real problem?*  
-  ➤ *Why do we believe it’s a problem?*  
-  ➤ *How might we know if it’s resolved — regardless of the solution (AI agent, bot, etc.)?*  
+- **Success measures**:
+  For each problem, I included a rough draft of how we might know if it’s been meaningfully addressed. These are qualitative and speculative, and they follow a structure inspired by this prompt:
+  ➤ *What’s the real problem?*
+  ➤ *Why do we believe it’s a problem?*
+  ➤ *How might we know if it’s resolved — regardless of the solution (AI agent, bot, etc.)?*
   That last piece is tricky. Some measures are more “step two” (i.e. post-solution effects) rather than directly tied to the problem itself — I tried to adjust where I could, but it still needs sharpening.
 
-- **Design principles**:  
+- **Design principles**:
   This companion doc captures patterns we noticed around how AI may influence exec decision-making. We started from the data → extracted themes → shaped into early principles.
 
 Lastly, I’ve got some early thoughts on how this could lead to prototype directions, but they’re still vague — I’ll share a rough outline of that soon.
 
 Would especially appreciate reactions on:
-- Whether the current framing (archetypes + problem statements) feels actionable  
-- Any gaps or muddy spots in the success measures  
+- Whether the current framing (archetypes + problem statements) feels actionable
+- Any gaps or muddy spots in the success measures
 - Where you’d want to dig deeper as a next step
 
 Thanks in advance!
@@ -115,38 +115,38 @@ Here's a revised version of the message that:
 
 👋 Hey all — sharing two SIGMA links here:
 
-1. **Research synthesis (WIP)**  
+1. **Research synthesis (WIP)**
 2. **AI-focused design principles**
 
 Still early, but wanted to get this in front of you all for feedback. Based on earlier input, especially around how some of the insights felt similar or hard to distinguish, I’ve made a few structural choices that I hope make the document easier to navigate and understand.
 
 ### Quick context:
 
-- **Why Figma?**  
+- **Why Figma?**
   I’ve used Figma here (instead of Google Docs/Sheets) because the **spatial layout** helps visually group similar problem statements — making it easier to see distinctions and patterns at a glance. The feedback that some insights felt very close to one another is still valid, but hopefully the way they’re now grouped side-by-side brings more clarity.
 
 - **Archetypes**: We've consolidated from 6 to **4 archetypes** for simplicity. Each has a short description, the key strategic tensions it faces, and a mapping to typical roles (some speculative based on available data).
 
-- **Why problem statements, not “insights”?**  
+- **Why problem statements, not “insights”?**
   I moved away from listing general insights because I found that **problem framing** was more faithful to the nuance in the research — and avoided flattening meaning. Each row focuses on a people-problem, grouped near similar ones to make comparisons easier.
 
-- **Success measures**:  
-  For each problem, there’s a draft of how we *might* know if we’ve meaningfully addressed it — regardless of the specific solution (agent, bot, hybrid).  
-  These are qualitative and speculative, and they follow this framing:  
-  ➤ *What’s the real people-problem?*  
-  ➤ *Why do we believe it’s a problem?*  
-  ➤ *How might we know it’s being resolved — not just end-state, but progress?*  
+- **Success measures**:
+  For each problem, there’s a draft of how we *might* know if we’ve meaningfully addressed it — regardless of the specific solution (agent, bot, hybrid).
+  These are qualitative and speculative, and they follow this framing:
+  ➤ *What’s the real people-problem?*
+  ➤ *Why do we believe it’s a problem?*
+  ➤ *How might we know it’s being resolved — not just end-state, but progress?*
   Some measures still lean a bit too far into "step two" outcomes (i.e. what happens *after* a problem is solved). I’ve tried to correct that, but more refinement is probably needed.
 
-- **Design principles**:  
+- **Design principles**:
   This doc reflects a separate stream — how AI might shape exec decision-making. We started with a wide set of data points → extracted patterns → refined into early principles.
 
 Finally, the way the synthesis doc is laid out *is intentional* — even when similar problems appear under different archetypes. That reflects how similar challenges show up differently depending on context. I’ve debated whether to call that out explicitly or just let the structure speak for itself — open to thoughts there.
 
 Would love your feedback on:
-- Whether the structure/layout helps with clarity  
-- If the archetypes and problem framings feel grounded  
-- How we might sharpen the success measures  
+- Whether the structure/layout helps with clarity
+- If the archetypes and problem framings feel grounded
+- How we might sharpen the success measures
 - Any reactions that might guide next steps
 
 Thanks!
@@ -154,4 +154,3 @@ Thanks!
 ---
 
 This should land well in Slack — clear, thoughtful, not overwhelming, and shows your responsiveness to prior feedback while guiding the reader through how to engage. Want a compressed one-liner version at the top too, like “Dropping a first pass for feedback on our synthesis work — would love your eyes”?
-

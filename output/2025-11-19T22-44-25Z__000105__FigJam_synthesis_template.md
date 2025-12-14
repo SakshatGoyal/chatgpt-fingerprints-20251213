@@ -2,7 +2,7 @@
 
 ## You (2025-11-19T22:44:25.658000+00:00)
 
-This is a conversation between me and Tim, with a few additional participants. I'm giving this to a designer to try and breakdown the conversation into actionable information. I need you to think like a research/design manager and try to create a template that would be applicable to break down all the information into figjam. Like what scenarios were discussed, challenges, potential opportunities discussed, any information we need from them further, etc... Use your own approach. I'm attaching a brief about the project below for your reference. 
+This is a conversation between me and Tim, with a few additional participants. I'm giving this to a designer to try and breakdown the conversation into actionable information. I need you to think like a research/design manager and try to create a template that would be applicable to break down all the information into figjam. Like what scenarios were discussed, challenges, potential opportunities discussed, any information we need from them further, etc... Use your own approach. I'm attaching a brief about the project below for your reference.
 
 ---
 
@@ -165,19 +165,15 @@ A renewal‑centric list that ties **customer telemetry** to revenue risk. For e
 
 The net effect: a **guided, evidence‑first workflow** that keeps the forecast tight, focuses coaching where it matters, and reduces surprise at quarter end.
 
-## ChatGPT (2025-11-19T22:44:30.818222+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Structuring conversation for breakdown in FigJam", "content": "The user wants me to help design a template that breaks down a conversation into actionable insights, using FigJam. I'll need to organize it into sections such as scenarios discussed, challenges, opportunities, and info gaps. I'll create a flexible, structured board with stickies for each area, keeping in mind multiple participants like Tim, Chris, and others.", "chunks": ["The user wants me to help design a template that breaks down a conversation into actionable insights, using FigJam.", "I'll need to organize it into sections such as scenarios discussed, challenges, opportunities, and info gaps.", "I'll create a flexible, structured board with stickies for each area, keeping in mind multiple participants like Tim, Chris, and others."], "finished": true}, {"summary": "Creating a repeatable FigJam template for DSM interviews", "content": "I need to create a FigJam template for synthesizing DSM interviews for the cockpit product. It should include categories, swimlanes, sticky colors, and be flexible for future use. I'll provide structure, using examples from this interview for clarity. The template needs to be generic but easy to populate, with a citation for the transcript.", "chunks": ["I need to create a FigJam template for synthesizing DSM interviews for the cockpit product.", "It should include categories, swimlanes, sticky colors, and be flexible for future use.", "I'll provide structure, using examples from this interview for clarity.", "The template needs to be generic but easy to populate, with a citation for the transcript."], "finished": true}, {"summary": "Designing a FigJam template with clear structure", "content": "I’m thinking the FigJam template should have defined sections like scenarios, challenges, opportunities, and info gaps. I can draw inspiration from Julie Zhuo’s frameworks, like Purpose-People-Process or the 3-Question Product Lens, but I don’t need to force them. Let’s also add more sections, like job story, workflow, pain points, and AI gaps.", "chunks": ["I’m thinking the FigJam template should have defined sections like scenarios, challenges, opportunities, and info gaps.", "I can draw inspiration from Julie Zhuo’s frameworks, like Purpose-People-Process or the 3-Question Product Lens, but I don’t need to force them.", "Let’s also add more sections, like job story, workflow, pain points, and AI gaps."], "finished": true}, {"summary": "Creating a template for analyzing DSM's work patterns", "content": "The user wants a template for analyzing the conversation about DSM's tools, pain points, and AI usage patterns—not just a summary of the interview. I’ll structure the board with a layout that includes major sections and prompts to guide the designer in filling in relevant notes, like DSM's tools, pain points, and productivity concerns.", "chunks": ["The user wants a template for analyzing the conversation about DSM's tools, pain points, and AI usage patterns—not just a summary of the interview.", "I’ll structure the board with a layout that includes major sections and prompts to guide the designer in filling in relevant notes, like DSM's tools, pain points, and productivity concerns."], "finished": true}, {"summary": "Outlining FigJam synthesis template and structure", "content": "I’m creating a FigJam template with clearly defined sections: Interview meta, Personas & context, Workflows & scenarios, Pain points, and Product opportunities (mapped to IA). We’ll color-code specific areas, like yellow for quotes and blue for insights. I’ll also include an example from Tim’s interview for clarity, but keep it as a sample. The template will offer reusable instructions for designers and links to the transcript.", "chunks": ["I’m creating a FigJam template with clearly defined sections: Interview meta, Personas & context, Workflows & scenarios, Pain points, and Product opportunities (mapped to IA).", "We’ll color-code specific areas, like yellow for quotes and blue for insights.", "I’ll also include an example from Tim’s interview for clarity, but keep it as a sample.", "The template will offer reusable instructions for designers and links to the transcript."], "finished": true}], "source_analysis_msg_id": "dba534a1-20d7-4bdf-9f60-54048e1694de"}
 
-## ChatGPT (2025-11-19T22:45:11.804225+00:00)
 
-{"content_type": "reasoning_recap", "content": "Thought for 44s"}
 
 ## ChatGPT (2025-11-19T22:45:11.752567+00:00)
 
 Here’s a FigJam-ready synthesis template you can give your designer so they can turn this (and future) DSM interviews into structured, actionable insights for the cockpit.
 
-I’ll first outline the **board structure**, then detail each frame (with example prompts), and sprinkle in a few concrete examples from this Tim session so it’s clear how to use it. fileciteturn0file0  
+I’ll first outline the **board structure**, then detail each frame (with example prompts), and sprinkle in a few concrete examples from this Tim session so it’s clear how to use it. fileciteturn0file0
 
 ---
 
@@ -221,8 +217,8 @@ Suggested sticky/color key:
 - **High-level summary (3 bullets):**
   - 1–2 sentences each: “How they run the quarter”, “Where they struggle”, “How they think about AI/productivity”.
 
-*Example from Tim (for designer to fill):*  
-- “DSM, started Aug 1; new to role but 12 yrs as AE; manages mix of renewals, upsell, net new.” fileciteturn0file0  
+*Example from Tim (for designer to fill):*
+- “DSM, started Aug 1; new to role but 12 yrs as AE; manages mix of renewals, upsell, net new.” fileciteturn0file0
 
 ---
 
@@ -257,15 +253,15 @@ For each, capture:
 - **What do they use it for?**
 - **Pain points / limits?**
 
-*Example notes from Tim:*  
-- “Uses Clari for forecast reporting upstream to his boss.”  
-- “Has to jump between Clari, Learning Center, Sales 360, Salesforce for exec outreach reports to prep one QBR deck.” fileciteturn0file0  
+*Example notes from Tim:*
+- “Uses Clari for forecast reporting upstream to his boss.”
+- “Has to jump between Clari, Learning Center, Sales 360, Salesforce for exec outreach reports to prep one QBR deck.” fileciteturn0file0
 
 ### C. Mental Model of “Productivity”
 
 - How *they* define productivity (e.g., “time with customers vs admin”).
 - Their attitude towards micromanaging activity (they may resist it).
-- Any explicit non-negotiables (e.g., face-to-face meetings, EBCs, exec outreach). fileciteturn0file0  
+- Any explicit non-negotiables (e.g., face-to-face meetings, EBCs, exec outreach). fileciteturn0file0
 
 ---
 
@@ -293,22 +289,22 @@ Suggested core scenarios (based on this convo and your brief):
 7. **Monitoring rep activity & engagement (EBCs, exec outreach, etc.)**
 8. **Using AI tools (today) for sales workflows**
 
-For each scenario, designer fills stickies under the columns.  
+For each scenario, designer fills stickies under the columns.
 
-*Example row – “Preparing exec / territory reviews”:* fileciteturn0file0  
+*Example row – “Preparing exec / territory reviews”:* fileciteturn0file0
 
-- **Trigger:**  
+- **Trigger:**
   - Asked to present H1 + FY26 update; quarterly territory review; leadership wants view on net new vs upsell vs renewals.
-- **Goal:**  
+- **Goal:**
   - Show performance vs plan, growth vs last year, and spotlight problem areas.
-- **Steps & Tools:**  
-  - Pull numbers from Clari, Sales 360, Learning Center, Salesforce (exec outreach reports).  
+- **Steps & Tools:**
+  - Pull numbers from Clari, Sales 360, Learning Center, Salesforce (exec outreach reports).
   - Build manual deck summarizing everything.
-- **Metrics looked at:**  
+- **Metrics looked at:**
   - Growth rates YoY, mix of net new vs renewals, activity metrics (EBC count, exec outreach, etc.).
-- **Pain points:**  
-  - Very manual, duplicative work; data scattered across 4–5 systems.  
-- **Opportunities / hooks:**  
+- **Pain points:**
+  - Very manual, duplicative work; data scattered across 4–5 systems.
+- **Opportunities / hooks:**
   - Dashboard that automatically compiles these views and exports into a QBR-ready narrative.
 
 The designer repeats this structure for every scenario mentioned.
@@ -324,23 +320,23 @@ Use a **big frame** titled: **“What makes this hard?”**
 Inside, create clusters:
 
 1. **Data Fragmentation & Duplication**
-   - “Going into 4–5 systems to prepare one presentation.” fileciteturn0file0  
+   - “Going into 4–5 systems to prepare one presentation.” fileciteturn0file0
    - Duplicative meetings/updates (Thursday prep for Friday exec review).
 
 2. **Pipeline & Forecast Hygiene**
-   - Stale opportunity plans (not updated for months).  
-   - Surprise downgrades (“Rep tells me 3 deals aren’t in this FY anymore → ⅓ of pipe disappears.”). fileciteturn0file0  
+   - Stale opportunity plans (not updated for months).
+   - Surprise downgrades (“Rep tells me 3 deals aren’t in this FY anymore → ⅓ of pipe disappears.”). fileciteturn0file0
 
 3. **Rep Development & Coaching Visibility**
-   - Hard to see, in one view, how reps are doing on learning / mandatory courses vs performance.  
+   - Hard to see, in one view, how reps are doing on learning / mandatory courses vs performance.
    - No clear linkage between performance issues → coaching plan.
 
 4. **Activity & Engagement Insight**
-   - Wants to track EBCs, exec outreach, C-level meetings, but currently separate reports.  
+   - Wants to track EBCs, exec outreach, C-level meetings, but currently separate reports.
    - Wants to avoid micromanagement yet still see if non-negotiable activities are happening.
 
 5. **AI & Automation Gaps**
-   - Existing AI (e.g., in Clari) highlights risk/errors but doesn’t suggest next actions.  
+   - Existing AI (e.g., in Clari) highlights risk/errors but doesn’t suggest next actions.
    - AI not auto-updating account plans from external signals (e.g., annual reports).
 
 Each orange sticky = *one* pain point, written as a problem statement:
@@ -375,9 +371,9 @@ For each cell, designers place **green “opportunity” stickies**:
 ### A. Summary tab – opportunities
 
 - Orientation:
-  - “Single place to see: Plan, Closed, Commit, Best Case-In, Total-In + mix (net new vs upsell vs renewal).”  
+  - “Single place to see: Plan, Closed, Commit, Best Case-In, Total-In + mix (net new vs upsell vs renewal).”
 - Prioritization:
-  - “Highlight territories with low commit ratio *and* weak activity (few EBCs / exec meetings).”  
+  - “Highlight territories with low commit ratio *and* weak activity (few EBCs / exec meetings).”
 - Reporting:
   - “Export a simple summary that can drop into a QBR deck.”
 
@@ -386,7 +382,7 @@ For each cell, designers place **green “opportunity” stickies**:
 - Orientation:
   - “Per-AE view of CCBC, coverage, WoW momentum (velocity) across quarters.”
 - Coaching:
-  - “Overlay rep activity (EBCs, exec outreach, Learning completion) on performance quadrant to guide 1:1s.” fileciteturn0file0  
+  - “Overlay rep activity (EBCs, exec outreach, Learning completion) on performance quadrant to guide 1:1s.” fileciteturn0file0
 
 ### C. Opportunities – opportunities
 
@@ -407,7 +403,7 @@ For each cell, designers place **green “opportunity” stickies**:
 - Q&A bar:
   - Questions like, “Which territories are weak on net new vs renewal?” or “Which reps have low coverage and low EBCs this quarter?”
 - AI curations:
-  - “Show me opportunities in the next 3 quarters whose plans haven’t been updated in 90+ days.”  
+  - “Show me opportunities in the next 3 quarters whose plans haven’t been updated in 90+ days.”
   - “List reps behind on mandatory learning who are also behind on plan.”
 
 The designer’s job: turn each pain point from Frame 4 into at least one **green opportunity sticky** in this grid.
@@ -421,15 +417,15 @@ The designer’s job: turn each pain point from Frame 4 into at least one **gree
 Create three columns:
 
 1. **Automate**
-   - Auto-populate account plans with info from annual/quarterly reports. fileciteturn0file0  
+   - Auto-populate account plans with info from annual/quarterly reports. fileciteturn0file0
    - Auto-tag risk factors (stale plan, no exec engaged, no partner steps, etc.).
 
 2. **Augment Decisions**
-   - “Based on your standards, here are 5 opportunities where forecast category vs plan completeness is inconsistent.”  
+   - “Based on your standards, here are 5 opportunities where forecast category vs plan completeness is inconsistent.”
    - “Compared to similar districts, your net new is lagging; here’s where the shortfall concentrates.”
 
 3. **Assist Communication**
-   - Draft QBR/territory review narrative sections from current metrics.  
+   - Draft QBR/territory review narrative sections from current metrics.
    - Draft follow-up emails to reps: e.g., “Here’s your key risk deals and suggested actions before Thursday’s call.”
 
 Each sticky is phrased as **“AI could…”** or **“Assistant can…”** to avoid jumping straight into solution UI.
@@ -466,9 +462,9 @@ Create a simple **2x2 priority matrix**:
 
 Place **larger green stickies** for:
 
-- “Single cockpit that replaces the need to consult 4–5 systems for QBR prep.”  
-- “Curations that surface stale or low-credibility Commit and missing opportunity plans.”  
-- “Performance quadrant + activity & enablement overlay for coaching.”  
+- “Single cockpit that replaces the need to consult 4–5 systems for QBR prep.”
+- “Curations that surface stale or low-credibility Commit and missing opportunity plans.”
+- “Performance quadrant + activity & enablement overlay for coaching.”
 - “AI narrative that explains quarter posture and suggests where to intervene next (deals, reps, territories).”
 
 Below the matrix, add a small list:
@@ -496,7 +492,7 @@ Give your designer this simple workflow:
 6. **Note gaps / confusions** in Frame 7.
 7. **End with 3–5 top bets** in Frame 8.
 
-If you’d like, I can next:  
+If you’d like, I can next:
 - Take this exact Tim interview and **partially fill the template** (e.g., first 3 scenarios + opportunity grid) so your designer sees a concrete example.
 
 ## You (2025-11-19T22:47:18.967000+00:00)
@@ -516,24 +512,24 @@ Use **five frames** only. Each frame has a clear purpose and a few sticky catego
 
 ---
 
-# **FRAME 1 — Session Snapshot (5–10 min)**  
+# **FRAME 1 — Session Snapshot (5–10 min)**
 Purpose: Quickly anchor who/what/why.
 
 **Stickies (one row):**
-- **Person** (Role, region, team size)  
-- **Top Responsibilities** (1–3 bullets)  
-- **Goals of Conversation** (why we talked to them)  
+- **Person** (Role, region, team size)
+- **Top Responsibilities** (1–3 bullets)
+- **Goals of Conversation** (why we talked to them)
 - **Key Takeaways** (3 bullets max)
 
 ---
 
-# **FRAME 2 — What We Heard (45–60 min)**  
-Purpose: Capture everything said, but *lightly sorted.*  
+# **FRAME 2 — What We Heard (45–60 min)**
+Purpose: Capture everything said, but *lightly sorted.*
 
 Create **four columns**. Drop stickies directly from transcript summary.
 
 ### **1. Tasks / Workflows**
-(Things they do weekly or quarterly)  
+(Things they do weekly or quarterly)
 Examples: weekly forecast review, QBR prep, deal reviews, renewal triage.
 
 ### **2. Challenges / Pain Points**
@@ -549,59 +545,59 @@ This frame is messy **on purpose** — it’s your raw material.
 
 ---
 
-# **FRAME 3 — What They’re Trying to Solve (30–45 min)**  
+# **FRAME 3 — What They’re Trying to Solve (30–45 min)**
 Purpose: Convert the raw notes into **clear problem buckets.**
 
 Create **three clusters**:
 
-### **A. Forecast Discipline Problems**  
+### **A. Forecast Discipline Problems**
 (e.g., stale commits, missing opportunity plans, late surprises)
 
-### **B. Pipeline Health Problems**  
+### **B. Pipeline Health Problems**
 (e.g., low coverage, poor AE hygiene, unclear next steps)
 
-### **C. Renewal / Account Health Problems**  
+### **C. Renewal / Account Health Problems**
 (e.g., weak adoption signals, at-risk accounts not surfaced early)
 
 In each cluster, place 3–5 stickies summarizing the actual problems you heard.
 
-*Tip:* Use short “problem statements” like:  
-- *“Takes hours to pull data from 4–5 systems before exec reviews.”*  
+*Tip:* Use short “problem statements” like:
+- *“Takes hours to pull data from 4–5 systems before exec reviews.”*
 - *“Doesn’t trust commit because reps don’t update plans.”*
 
 ---
 
-# **FRAME 4 — Opportunities (45–60 min)**  
-Purpose: Turn problems into product opportunities.  
+# **FRAME 4 — Opportunities (45–60 min)**
+Purpose: Turn problems into product opportunities.
 Create **four columns** that map directly to the cockpit’s IA:
 
-1. **Summary tab**  
-2. **Sales Performance**  
-3. **Opportunities**  
+1. **Summary tab**
+2. **Sales Performance**
+3. **Opportunities**
 4. **Health**
 
 Under each, create 3–5 green stickies starting with phrases like:
 
-- **“Surface when…”**  
-- **“Help them see…”**  
-- **“Make it easier to…”**  
-- **“Automatically flag…”**  
+- **“Surface when…”**
+- **“Help them see…”**
+- **“Make it easier to…”**
+- **“Automatically flag…”**
 - **“Provide a simple view of…”**
 
-Examples:  
-- Summary → *“Surface territories with low coverage + weak activity.”*  
-- Opportunities → *“Flag high-value deals with no activity for 30+ days.”*  
+Examples:
+- Summary → *“Surface territories with low coverage + weak activity.”*
+- Opportunities → *“Flag high-value deals with no activity for 30+ days.”*
 - Health → *“Show renewals with declining technical health and <90 days left.”*
 
 ---
 
-# **FRAME 5 — Open Questions (10–20 min)**  
+# **FRAME 5 — Open Questions (10–20 min)**
 Purpose: Capture what we still don’t know.
 
 3 columns only:
 
-- **About their workflow** (e.g., “What’s the standard for opportunity plans?”)  
-- **About metrics/data**  
+- **About their workflow** (e.g., “What’s the standard for opportunity plans?”)
+- **About metrics/data**
 - **About AI usefulness / limits**
 
 These become follow-up items.
@@ -610,6 +606,5 @@ These become follow-up items.
 
 # **That’s the whole template. Simple, fast, repeatable.**
 
-If you want, I can now:  
+If you want, I can now:
 👉 **Auto-fill this template with content from the Tim conversation** (using your transcript) so your designer sees exactly how to use it.
-

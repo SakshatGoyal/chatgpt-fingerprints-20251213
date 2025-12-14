@@ -160,48 +160,48 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Hybrid Problem-Solving Processes and Outcomes
 
-**Insight Statement:**  
+**Insight Statement:**
 The research reveals that integrating AI into problem solving fundamentally transforms the search process. Autonomous search, which leverages AI’s ability to form comprehensive latent representations, generates more distant, innovative solutions, while sequential search—where humans refine AI-derived representations—leads to more local, incremental outcomes. This challenges the traditional assumption that breakthrough innovations stem solely from human creativity. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives face the challenge of choosing between fully automated AI-driven approaches and hybrid models that retain human oversight to balance innovation with contextual relevance.  
-- **Underlying Beliefs & Biases:** Conventional wisdom prizes human intuition; however, the paper shows that human biases—such as the tendency to favor proximate solutions—can be mitigated through AI’s objective evaluation.  
-- **Expected vs. Actual Outcomes:** While organizations might expect human-driven processes to excel in contextual nuance, empirical examples illustrate that autonomous AI search can uncover previously unexplored solutions that broaden the organizational search space.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives face the challenge of choosing between fully automated AI-driven approaches and hybrid models that retain human oversight to balance innovation with contextual relevance.
+- **Underlying Beliefs & Biases:** Conventional wisdom prizes human intuition; however, the paper shows that human biases—such as the tendency to favor proximate solutions—can be mitigated through AI’s objective evaluation.
+- **Expected vs. Actual Outcomes:** While organizations might expect human-driven processes to excel in contextual nuance, empirical examples illustrate that autonomous AI search can uncover previously unexplored solutions that broaden the organizational search space.
 - **Broader Implications:** This insight urges leaders to rethink reliance on solely human problem solving, advocating for strategic integration of AI to unlock innovative pathways that traditional approaches might overlook. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Drawing on empirical cases such as Insilico Medicine’s AI-driven drug discovery, the paper documents how AI-generated solutions differed markedly from conventional approaches. The use of metrics like search scope and depth substantiates the claim that autonomous search produces solutions that are both more innovative and less tied to existing knowledge. **[Empirical]**
 
 ---
 
 ### 2. Human–AI Interaction Dynamics and Bias Mitigation
 
-**Insight Statement:**  
+**Insight Statement:**
 The study challenges the prevailing reliance on human judgment by demonstrating that AI’s quantitative, anticipatory evaluations can effectively counterbalance human selection biases. This dynamic allows for more objective decision making even in complex problem-solving environments, thereby enhancing overall solution quality. **[Inferred]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must balance the risk of over-reliance on automated systems against the benefits of reducing human biases that can stifle innovation.  
-- **Underlying Beliefs & Biases:** There is a deep-seated belief in the indispensability of human insight; however, the research shows that human evaluators often default to local, familiar solutions, a bias that AI tools can help mitigate.  
-- **Expected vs. Actual Outcomes:** While executives might anticipate that human judgment adds necessary context, the empirical evidence suggests that AI’s data-driven assessments can more reliably identify high-performing solutions, particularly under conditions of cognitive overload.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must balance the risk of over-reliance on automated systems against the benefits of reducing human biases that can stifle innovation.
+- **Underlying Beliefs & Biases:** There is a deep-seated belief in the indispensability of human insight; however, the research shows that human evaluators often default to local, familiar solutions, a bias that AI tools can help mitigate.
+- **Expected vs. Actual Outcomes:** While executives might anticipate that human judgment adds necessary context, the empirical evidence suggests that AI’s data-driven assessments can more reliably identify high-performing solutions, particularly under conditions of cognitive overload.
 - **Broader Implications:** This finding encourages executives to adopt hybrid models that combine AI’s objective analysis with human contextual insights, ultimately refining strategic decision-making processes. **[Speculative]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper highlights mechanisms such as anticipatory quantification in autonomous search, where AI’s scoring of potential solutions reduces subjective biases in human selection. Case studies, including examples from high-stakes drug discovery scenarios, demonstrate how AI-driven evaluations can guide decision makers toward more innovative outcomes. **[Empirical]**
 
 ---
 
 ### 3. Moderating Factors – Time Scarcity and Expertise
 
-**Insight Statement:**  
+**Insight Statement:**
 The effectiveness of hybrid problem-solving approaches is significantly moderated by external factors such as time constraints and the level of human expertise. This insight challenges the one-size-fits-all mindset by showing that the optimal integration of AI depends critically on these contextual variables. **[Inferred]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must determine the appropriate balance between speed and thoroughness in decision making, especially when operating under tight deadlines or with varying levels of internal expertise.  
-- **Underlying Beliefs & Biases:** It is often assumed that AI’s capabilities are universally beneficial; however, without sufficient human expertise, even sophisticated AI outputs may lead to suboptimal decisions.  
-- **Expected vs. Actual Outcomes:** While time scarcity may enhance the advantages of autonomous search by expediting innovation, it can simultaneously constrain the depth of sequential and interactive searches, resulting in more conservative, less integrated outcomes.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must determine the appropriate balance between speed and thoroughness in decision making, especially when operating under tight deadlines or with varying levels of internal expertise.
+- **Underlying Beliefs & Biases:** It is often assumed that AI’s capabilities are universally beneficial; however, without sufficient human expertise, even sophisticated AI outputs may lead to suboptimal decisions.
+- **Expected vs. Actual Outcomes:** While time scarcity may enhance the advantages of autonomous search by expediting innovation, it can simultaneously constrain the depth of sequential and interactive searches, resulting in more conservative, less integrated outcomes.
 - **Broader Implications:** Leaders should calibrate their AI integration strategies to align with organizational capacity and operational tempo, ensuring that AI augments rather than undermines the decision-making process. **[Speculative]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper empirically supports this insight with detailed propositions showing how time scarcity and a lack of expertise can either reinforce or constrain the benefits of different hybrid search types. Examples from both pharmaceutical applications and creative industries underscore that these moderating factors critically influence whether AI-enhanced processes yield more innovative or merely incremental improvements. **[Empirical]**
 
 ---
@@ -450,21 +450,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -477,4 +477,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T08:46:38.759729+00:00)
 
 Raisch, S., & Fomina, K. (2024). Combining human and artificial intelligence: Hybrid problem solving in organizations. *Academy of Management Review*. https://doi.org/10.5465/amr.2021.0421
-

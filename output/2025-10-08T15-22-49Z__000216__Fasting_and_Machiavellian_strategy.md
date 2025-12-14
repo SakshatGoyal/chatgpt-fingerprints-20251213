@@ -2,9 +2,9 @@
 
 ## You (2025-10-08T15:22:49.399000+00:00)
 
-I'm fasting for the first time. It's just out of curiosity, to test myself. But I also have an event going to. 
+I'm fasting for the first time. It's just out of curiosity, to test myself. But I also have an event going to.
 
-Think through all the things that could go wrong, what I should keep in mind, and how Machiavelli would help is prince think through different situations. 
+Think through all the things that could go wrong, what I should keep in mind, and how Machiavelli would help is prince think through different situations.
 
 Finally, a machiavellian reality check, that's not discouraging to a prince, but helps him understand where to draw the line.
 
@@ -22,7 +22,7 @@ Without nourishment, your energy may falter. This makes you vulnerable—physica
 > *“A prince must avoid being disarmed in any respect, whether in battle or banquet.”*
 
 #### 2. **Cognitive Impairment**
-Low glucose degrades judgment, and the mind's sharp edge is blunted. In public, this risks humiliation. In negotiation, it risks concession. 
+Low glucose degrades judgment, and the mind's sharp edge is blunted. In public, this risks humiliation. In negotiation, it risks concession.
 
 #### 3. **Social Perception**
 If your fast becomes apparent to others—especially if you appear weak or distracted—they may perceive you as eccentric or unstable. A prince must never invite speculation about his health, mind, or motives. Power thrives in mystery, not in visible frailty.
@@ -66,4 +66,3 @@ So here is the line: **fast so long as the fast serves your command over yoursel
 ---
 
 If you wish, I can help you prepare specific lines or tactics for navigating the event while fasting. Or, if the real goal is to master your impulses, we can set that strategy too. Your will, Prince.
-

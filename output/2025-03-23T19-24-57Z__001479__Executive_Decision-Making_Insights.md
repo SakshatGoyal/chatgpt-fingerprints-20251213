@@ -158,54 +158,54 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Balancing Speed and Rigor in High-Stakes Decision-Making
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "While rapid decisions are often viewed as high risk, structured, agile decision frameworks enable executives to capture opportunities without sacrificing analytical rigor." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must choose between protracted deliberations to gather all data and the need for swift action to preempt competitors.  
-- **Underlying Beliefs & Biases:** There is a widespread assumption that increased speed inevitably compromises quality; however, structured models (e.g., stage-gate processes) challenge this notion.  
-- **Expected vs. Actual Outcomes:** Although slow, multi-layered reviews can delay action and result in missed opportunities, rapid yet well-informed decisions—as exemplified by Gilead Sciences’ acquisition strategy—demonstrate that speed, when paired with sufficient analysis, can yield transformative outcomes.  
-- **Broader Implications:** Organizations are encouraged to reengineer their decision protocols to empower teams for fast, decisive actions while maintaining rigorous evaluation standards.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must choose between protracted deliberations to gather all data and the need for swift action to preempt competitors.
+- **Underlying Beliefs & Biases:** There is a widespread assumption that increased speed inevitably compromises quality; however, structured models (e.g., stage-gate processes) challenge this notion.
+- **Expected vs. Actual Outcomes:** Although slow, multi-layered reviews can delay action and result in missed opportunities, rapid yet well-informed decisions—as exemplified by Gilead Sciences’ acquisition strategy—demonstrate that speed, when paired with sufficient analysis, can yield transformative outcomes.
+- **Broader Implications:** Organizations are encouraged to reengineer their decision protocols to empower teams for fast, decisive actions while maintaining rigorous evaluation standards.
 **[Empirical]**
 
-**3. Supporting Context**  
-The paper details how Gilead’s bold, expedited acquisition of Pharmasset—despite having only limited Phase II data—resulted in the breakthrough drug Sovaldi generating over $10 billion in sales within its first year. This outcome underscores that decision speed, when underpinned by robust analytic checkpoints (e.g., decision trees and sensitivity analyses), can drive superior performance even under high uncertainty.  
+**3. Supporting Context**
+The paper details how Gilead’s bold, expedited acquisition of Pharmasset—despite having only limited Phase II data—resulted in the breakthrough drug Sovaldi generating over $10 billion in sales within its first year. This outcome underscores that decision speed, when underpinned by robust analytic checkpoints (e.g., decision trees and sensitivity analyses), can drive superior performance even under high uncertainty.
 **[Empirical]**
 
 ---
 
 ### 2. Managing Cognitive Biases and Overcoming Internal Friction
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Even in data-rich environments, persistent cognitive biases—such as confirmation and champion biases—can skew decisions, underscoring the need for deliberate countermeasures to prevent costly errors." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders are challenged to balance intuitive judgment with objective data, while overcoming internal silos and committee-driven delays that often lead to decision paralysis.  
-- **Underlying Beliefs & Biases:** Executives may overvalue past experiences or the opinions of influential sponsors, leading to entrenched biases that obscure dissenting evidence.  
-- **Expected vs. Actual Outcomes:** Although data-driven processes are expected to minimize bias, internal friction—such as “decision by committee”—often results in delays and missed opportunities, as evidenced by cases where prolonged deliberations led to strategic losses.  
-- **Broader Implications:** The analysis reinforces the necessity for institutional mechanisms (like devil’s advocate sessions or external advisory reviews) to counteract bias and promote a more agile decision culture.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders are challenged to balance intuitive judgment with objective data, while overcoming internal silos and committee-driven delays that often lead to decision paralysis.
+- **Underlying Beliefs & Biases:** Executives may overvalue past experiences or the opinions of influential sponsors, leading to entrenched biases that obscure dissenting evidence.
+- **Expected vs. Actual Outcomes:** Although data-driven processes are expected to minimize bias, internal friction—such as “decision by committee”—often results in delays and missed opportunities, as evidenced by cases where prolonged deliberations led to strategic losses.
+- **Broader Implications:** The analysis reinforces the necessity for institutional mechanisms (like devil’s advocate sessions or external advisory reviews) to counteract bias and promote a more agile decision culture.
 **[Empirical]**
 
-**3. Supporting Context**  
-The research highlights how large pharmaceutical companies frequently encounter bottlenecks due to information overload and siloed decision-making. For example, one case illustrated how an overly lengthy, consensus-driven process resulted in a missed acquisition opportunity, prompting subsequent internal reforms to streamline decision rights and enhance accountability.  
+**3. Supporting Context**
+The research highlights how large pharmaceutical companies frequently encounter bottlenecks due to information overload and siloed decision-making. For example, one case illustrated how an overly lengthy, consensus-driven process resulted in a missed acquisition opportunity, prompting subsequent internal reforms to streamline decision rights and enhance accountability.
 **[Empirical]**
 
 ---
 
 ### 3. Adaptive Strategies for Company Scale: Big Pharma vs. Biotech Startups
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Tailoring decision frameworks to organizational scale is critical; while large firms benefit from diversified portfolios and structured protocols, startups thrive on agility and focused risk-taking." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders must determine the optimal balance between formal, multi-layered decision processes and flexible, rapid-response strategies that match their company’s size and market position.  
-- **Underlying Beliefs & Biases:** There is a common assumption that stringent decision protocols are universally beneficial; however, emerging biotechs demonstrate that lean, intuitive decision-making can yield breakthrough innovations under constrained resources.  
-- **Expected vs. Actual Outcomes:** While big pharma’s extensive review processes safeguard against risk, they can also incur delays leading to lost market opportunities; in contrast, startups that leverage agile, risk-sharing approaches often achieve accelerated innovation and market entry.  
-- **Broader Implications:** This analysis suggests that larger organizations should consider adopting more entrepreneurial practices, whereas startups may benefit from integrating selective structured oversight to temper the risks of over-reliance on intuition.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders must determine the optimal balance between formal, multi-layered decision processes and flexible, rapid-response strategies that match their company’s size and market position.
+- **Underlying Beliefs & Biases:** There is a common assumption that stringent decision protocols are universally beneficial; however, emerging biotechs demonstrate that lean, intuitive decision-making can yield breakthrough innovations under constrained resources.
+- **Expected vs. Actual Outcomes:** While big pharma’s extensive review processes safeguard against risk, they can also incur delays leading to lost market opportunities; in contrast, startups that leverage agile, risk-sharing approaches often achieve accelerated innovation and market entry.
+- **Broader Implications:** This analysis suggests that larger organizations should consider adopting more entrepreneurial practices, whereas startups may benefit from integrating selective structured oversight to temper the risks of over-reliance on intuition.
 **[Empirical]**
 
-**3. Supporting Context**  
-The paper’s comparative analysis—highlighting case studies such as OncoX’s successful pivot and NeuroNova’s fatal misstep—demonstrates that organizational scale significantly influences decision-making dynamics. While large firms can cushion failures through portfolio diversification, startups must make every decision count, emphasizing the need for adaptive frameworks that balance speed with accountability.  
+**3. Supporting Context**
+The paper’s comparative analysis—highlighting case studies such as OncoX’s successful pivot and NeuroNova’s fatal misstep—demonstrates that organizational scale significantly influences decision-making dynamics. While large firms can cushion failures through portfolio diversification, startups must make every decision count, emphasizing the need for adaptive frameworks that balance speed with accountability.
 **[Empirical]**
 
 ---
@@ -215,9 +215,9 @@ The paper’s comparative analysis—highlighting case studies such as OncoX’s
 - **Coverage Fit:** High — The paper comprehensively addresses executive decision-making, strategic reasoning, and the management of cognitive biases in the pharmaceutical and biotech sectors.
 - **Bias & Cognitive Modeling Content:** Present — Detailed discussions of confirmation bias, groupthink, and the impact of internal friction are well documented.
 - **Clarity of Methods & Outcomes:** Clear — The use of empirical case studies, comparative analyses, and structured models provides transparent methodological underpinnings and outcome metrics.
-- **Areas with No Data:**  
-  - Insight Statement: Fully supported  
-  - Executive Decision-Making Context: Fully supported  
+- **Areas with No Data:**
+  - Insight Statement: Fully supported
+  - Executive Decision-Making Context: Fully supported
   - Supporting Context: Fully supported
 
 This audit confirms that the source material provides robust, actionable insights and empirical evidence, making it a valuable resource for executives seeking to enhance decision-making processes in complex, high-stakes environments.
@@ -347,75 +347,75 @@ For each module, ask yourself:
 
 **INSIGHT MODULE 1:**
 
-**ORIGINAL INSIGHT:**  
+**ORIGINAL INSIGHT:**
 "While rapid decisions are often viewed as high risk, structured, agile decision frameworks enable executives to capture opportunities without sacrificing analytical rigor." **[Empirical]**
 
-🔹 **COUNTERFACTUAL SCENARIO:**  
+🔹 **COUNTERFACTUAL SCENARIO:**
 In a heavily unionized European industrial manufacturing firm undergoing restructuring, executives adopt an “agile” decision model to rapidly redeploy capital into new automation initiatives. Despite using structured frameworks, the decisions spark legal disputes with labor unions and violate procedural norms. The result is regulatory backlash, loss of stakeholder trust, and project delays—negating the benefits of speed and structure.
 
-🔹 **ASSUMPTIONS & BIASES:**  
-- Assumes agile frameworks can universally substitute for deliberation time  
-- Implicit belief that structure + speed = reduced risk  
-- Overconfidence in the replicability of best-case scenarios  
-- Outcome bias from highlighting Gilead’s success without weighing frequency of similar failures  
+🔹 **ASSUMPTIONS & BIASES:**
+- Assumes agile frameworks can universally substitute for deliberation time
+- Implicit belief that structure + speed = reduced risk
+- Overconfidence in the replicability of best-case scenarios
+- Outcome bias from highlighting Gilead’s success without weighing frequency of similar failures
 
-🔹 **CONTEXT LIMITATIONS:**  
-- May not apply in highly regulated, hierarchical, or stakeholder-heavy environments (e.g., defense, energy, unionized industries)  
-- Inapplicable in cultures where consensus and formal deliberation are deeply embedded (e.g., Japan, Germany)  
-- Assumes stable executive tenure; rapid decision systems may be misused in high turnover environments lacking institutional memory  
+🔹 **CONTEXT LIMITATIONS:**
+- May not apply in highly regulated, hierarchical, or stakeholder-heavy environments (e.g., defense, energy, unionized industries)
+- Inapplicable in cultures where consensus and formal deliberation are deeply embedded (e.g., Japan, Germany)
+- Assumes stable executive tenure; rapid decision systems may be misused in high turnover environments lacking institutional memory
 
-🔹 **FINAL CRITIQUE:**  
+🔹 **FINAL CRITIQUE:**
 The insight implies a universal compatibility between speed and rigor but underestimates how legal, cultural, or organizational frictions can undermine both. There’s an unresolved tension between agility and process integrity when external stakeholders impose slower cycles.
 
 ---
 
 **INSIGHT MODULE 2:**
 
-**ORIGINAL INSIGHT:**  
+**ORIGINAL INSIGHT:**
 "Even in data-rich environments, persistent cognitive biases—such as confirmation and champion biases—can skew decisions, underscoring the need for deliberate countermeasures to prevent costly errors." **[Empirical]**
 
-🔹 **COUNTERFACTUAL SCENARIO:**  
+🔹 **COUNTERFACTUAL SCENARIO:**
 In a fast-scaling consumer tech startup with minimal data governance, there’s no centralized analytics infrastructure and decisions rely heavily on intuition. Ironically, the absence of robust data makes bias less distortive—there’s little "evidence" to selectively interpret. In this context, attempting to implement formal debiasing processes slows down decisions and alienates a high-velocity team culture, stalling growth.
 
-🔹 **ASSUMPTIONS & BIASES:**  
-- Assumes cognitive biases primarily emerge in data-rich settings  
-- Overemphasizes rationality as a correctable default  
-- Status quo bias: presumes data-driven cultures should remain so even when they underperform  
-- Neglects adaptive biases that serve strategic value in ambiguous contexts  
+🔹 **ASSUMPTIONS & BIASES:**
+- Assumes cognitive biases primarily emerge in data-rich settings
+- Overemphasizes rationality as a correctable default
+- Status quo bias: presumes data-driven cultures should remain so even when they underperform
+- Neglects adaptive biases that serve strategic value in ambiguous contexts
 
-🔹 **CONTEXT LIMITATIONS:**  
-- Less applicable in early-stage or low-data environments where bias may be less influential or more functional  
-- Oversimplifies bias as inherently negative rather than sometimes adaptive (e.g., optimism bias driving innovation)  
-- Not calibrated for industries where intuitive, founder-led decisions dominate (e.g., entertainment, gaming, early-stage VC)  
+🔹 **CONTEXT LIMITATIONS:**
+- Less applicable in early-stage or low-data environments where bias may be less influential or more functional
+- Oversimplifies bias as inherently negative rather than sometimes adaptive (e.g., optimism bias driving innovation)
+- Not calibrated for industries where intuitive, founder-led decisions dominate (e.g., entertainment, gaming, early-stage VC)
 
-🔹 **FINAL CRITIQUE:**  
+🔹 **FINAL CRITIQUE:**
 The insight treats bias as an enemy of good judgment without acknowledging that in uncertain or ambiguous settings, heuristics may outperform deliberative logic. The framing presumes rational correction is always net beneficial, a debatable stance in fluid environments.
 
 ---
 
 **INSIGHT MODULE 3:**
 
-**ORIGINAL INSIGHT:**  
+**ORIGINAL INSIGHT:**
 "Tailoring decision frameworks to organizational scale is critical; while large firms benefit from diversified portfolios and structured protocols, startups thrive on agility and focused risk-taking." **[Empirical]**
 
-🔹 **COUNTERFACTUAL SCENARIO:**  
+🔹 **COUNTERFACTUAL SCENARIO:**
 A biotech startup in late-stage clinical development adopts an agile, risk-tolerant model but faces increasing regulatory scrutiny from the FDA. Without structured protocols, they mismanage documentation and fail inspections—resulting in trial delays and investor pullout. Meanwhile, a mid-sized pharma with more structured frameworks accelerates approval via regulatory alignment and documentation readiness.
 
-🔹 **ASSUMPTIONS & BIASES:**  
-- Assumes organizational maturity maps cleanly onto decision framework efficacy  
-- Anchoring bias on firm size as a determinant of capability  
-- Oversimplifies agility as uniformly advantageous for startups  
-- Underestimates need for structure in high-risk, late-stage environments  
+🔹 **ASSUMPTIONS & BIASES:**
+- Assumes organizational maturity maps cleanly onto decision framework efficacy
+- Anchoring bias on firm size as a determinant of capability
+- Oversimplifies agility as uniformly advantageous for startups
+- Underestimates need for structure in high-risk, late-stage environments
 
-🔹 **CONTEXT LIMITATIONS:**  
-- Fails in sectors with strict compliance requirements, regardless of company size (e.g., clinical trials, aviation)  
-- Less applicable during transition phases (e.g., startup to scale-up) where hybrid models outperform pure agility  
-- Overlooks intra-firm variation (e.g., a startup with seasoned executives may function structurally like a mature firm)  
+🔹 **CONTEXT LIMITATIONS:**
+- Fails in sectors with strict compliance requirements, regardless of company size (e.g., clinical trials, aviation)
+- Less applicable during transition phases (e.g., startup to scale-up) where hybrid models outperform pure agility
+- Overlooks intra-firm variation (e.g., a startup with seasoned executives may function structurally like a mature firm)
 
-🔹 **FINAL CRITIQUE:**  
+🔹 **FINAL CRITIQUE:**
 This insight creates a false dichotomy between structure and agility based on company size. It flattens the nuance of transitional firms and ignores that timing, not just scale, may drive the optimal decision framework.
 
---- 
+---
 
 All three modules present credible claims but embed assumptions that may not hold under varying strategic, regulatory, or cultural contexts. Their explanatory power rests on stable, idealized environments that often diverge from the messy realities executives confront.
 
@@ -457,21 +457,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -484,4 +484,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T19:28:02.174132+00:00)
 
 OpenAI Research. (2024). *OpenAI Deep Research C3-I3: Decision-making strategies in pharmaceutical and biotech executives*.
-

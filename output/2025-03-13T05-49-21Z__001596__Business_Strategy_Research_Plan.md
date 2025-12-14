@@ -2,40 +2,40 @@
 
 ## You (2025-03-13T05:49:21.029755+00:00)
 
-Hey Andrew, I need you to help me build out a prompt in canvas. 
+Hey Andrew, I need you to help me build out a prompt in canvas.
 
 
 I was given this brief research plan:
 
 
-I need the gpt to help me with steps 2 and 3. 
+I need the gpt to help me with steps 2 and 3.
 
-For step 2, I need the gpt to expand on the table it gave me, but be more comprehensive and thorough. that being said, this is just analysis on 1 category, and I need it to as much as possible try to avoid potential overlaps with the other categories, for example the Crisis Adaptation. 
+For step 2, I need the gpt to expand on the table it gave me, but be more comprehensive and thorough. that being said, this is just analysis on 1 category, and I need it to as much as possible try to avoid potential overlaps with the other categories, for example the Crisis Adaptation.
 
-the same for step 3. based on the outcome of step 2, I want it to expand and be more through about the instructions of step 3. 
+the same for step 3. based on the outcome of step 2, I want it to expand and be more through about the instructions of step 3.
 
-ofcourse this will need a lot of thinking things through. 
+ofcourse this will need a lot of thinking things through.
 
-Here's the plan I have 
+Here's the plan I have
 
 
-### **Research Plan for Business-Level Strategy Team**  
-**Objective:** Equip the team with a structured yet flexible approach to efficiently gather, analyze, and synthesize insights about **Business-Level Strategy** decision-making — with a focus on supporting executive thinking, identifying pain points, and understanding how AI can enhance this process.  
+### **Research Plan for Business-Level Strategy Team**
+**Objective:** Equip the team with a structured yet flexible approach to efficiently gather, analyze, and synthesize insights about **Business-Level Strategy** decision-making — with a focus on supporting executive thinking, identifying pain points, and understanding how AI can enhance this process.
 
 ---
 
 ## **Project Overview**
-The research team will conduct a **targeted literature review** supported by curated resources (academic papers, industry reports, and expert insights). The goal is to extract actionable insights about how Business Unit Leaders, General Managers, Senior Directors, and Industry Experts make strategic decisions.  
+The research team will conduct a **targeted literature review** supported by curated resources (academic papers, industry reports, and expert insights). The goal is to extract actionable insights about how Business Unit Leaders, General Managers, Senior Directors, and Industry Experts make strategic decisions.
 
-The research will focus on:  
-✅ **Key Decision Scenarios**  
-✅ **AI’s Role in Decision-Making**  
-✅ **Meta-Themes for Efficient Insight Extraction**  
+The research will focus on:
+✅ **Key Decision Scenarios**
+✅ **AI’s Role in Decision-Making**
+✅ **Meta-Themes for Efficient Insight Extraction**
 
 ---
 
 ## **Step 1: Establish Team Roles**
-To improve efficiency and ensure each member contributes meaningfully, assign the following roles:  
+To improve efficiency and ensure each member contributes meaningfully, assign the following roles:
 
 | **Role**                | **Primary Responsibilities** |
 |--------------------------|-----------------------------|
@@ -44,13 +44,13 @@ To improve efficiency and ensure each member contributes meaningfully, assign th
 | **Trend Spotter**            | Identifies recurring patterns, emerging behaviors, and common decision challenges. |
 | **Storyteller**              | Frames insights using relatable narratives, case studies, and examples. |
 
-✅ Assign team members based on their strengths rather than dividing work purely by content category.  
-✅ Hold a **kickoff workshop** to align on key goals and introduce this research framework.  
+✅ Assign team members based on their strengths rather than dividing work purely by content category.
+✅ Hold a **kickoff workshop** to align on key goals and introduce this research framework.
 
 ---
 
 ## **Step 2: Frame the Research Scope with “Key Decision Scenarios”**
-To make your findings more practical, structure your investigation around these core **decision scenarios** that occur in business-level strategy:  
+To make your findings more practical, structure your investigation around these core **decision scenarios** that occur in business-level strategy:
 
 | **Scenario**             | **Key Questions to Investigate** |
 |--------------------------|-----------------------------------|
@@ -60,43 +60,43 @@ To make your findings more practical, structure your investigation around these 
 | **Competitive Response**   | How do business leaders adjust to emerging competitors or industry shifts? |
 | **Crisis Adaptation**      | How are strategies adjusted during market volatility or economic shocks? |
 
-✅ These scenarios will ensure teams extract **decision-specific insights** rather than gathering general strategy theory.  
+✅ These scenarios will ensure teams extract **decision-specific insights** rather than gathering general strategy theory.
 
 ---
 
 ## **Step 3: Build a Search Strategy for Literature Review**
-Your team’s challenge is to efficiently filter high-quality insights without drowning in irrelevant information.  
+Your team’s challenge is to efficiently filter high-quality insights without drowning in irrelevant information.
 
 ### **Recommended Sources to Prioritize**
-✅ **Academic Journals:** For theoretical frameworks (e.g., *Strategic Management Journal*, *Harvard Business Review*, *MIT Sloan Management Review*).  
-✅ **Industry Reports & White Papers:** To uncover real-world trends (e.g., McKinsey, BCG, Gartner, Forrester).  
-✅ **Case Studies:** Use industry-specific examples to extract concrete insights about decision-making behaviors.  
-✅ **Conference Proceedings:** Emerging AI applications in decision-making often appear here first.  
-✅ **Executive Memoirs & Interviews:** These provide rare insights into the personal strategies of key decision-makers.  
+✅ **Academic Journals:** For theoretical frameworks (e.g., *Strategic Management Journal*, *Harvard Business Review*, *MIT Sloan Management Review*).
+✅ **Industry Reports & White Papers:** To uncover real-world trends (e.g., McKinsey, BCG, Gartner, Forrester).
+✅ **Case Studies:** Use industry-specific examples to extract concrete insights about decision-making behaviors.
+✅ **Conference Proceedings:** Emerging AI applications in decision-making often appear here first.
+✅ **Executive Memoirs & Interviews:** These provide rare insights into the personal strategies of key decision-makers.
 
-### **Search Keywords for Efficient Targeting**  
-Create search queries that combine:  
-✅ **Decision Context** (e.g., “market expansion,” “competitive positioning,” “resource allocation”)  
-✅ **Role/Title** (e.g., “business unit leader,” “general manager”)  
-✅ **Strategy Concepts** (e.g., “differentiation strategy,” “cost leadership,” “business-level strategy”)  
-✅ **AI-Related Terms** (e.g., “AI in decision-making,” “data-driven strategy,” “predictive analytics”)  
+### **Search Keywords for Efficient Targeting**
+Create search queries that combine:
+✅ **Decision Context** (e.g., “market expansion,” “competitive positioning,” “resource allocation”)
+✅ **Role/Title** (e.g., “business unit leader,” “general manager”)
+✅ **Strategy Concepts** (e.g., “differentiation strategy,” “cost leadership,” “business-level strategy”)
+✅ **AI-Related Terms** (e.g., “AI in decision-making,” “data-driven strategy,” “predictive analytics”)
 
-**Example Search Query:**  
-*"Business-level strategy" AND "market expansion" AND "decision-making framework" AND "AI insights"*  
+**Example Search Query:**
+*"Business-level strategy" AND "market expansion" AND "decision-making framework" AND "AI insights"*
 
-✅ Assign each team member to cover distinct search avenues (e.g., one team member focuses on academic literature, another on consulting white papers, etc.).  
+✅ Assign each team member to cover distinct search avenues (e.g., one team member focuses on academic literature, another on consulting white papers, etc.).
 
 ---
 
 ## **Step 4: Extract Key Insights Using “Meta-Themes”**
-Rather than gathering isolated facts, focus on identifying **patterns** across industries, decision types, and organizational structures. Ask team members to tag insights using the following themes:  
+Rather than gathering isolated facts, focus on identifying **patterns** across industries, decision types, and organizational structures. Ask team members to tag insights using the following themes:
 
 ### **Meta-Themes for Insight Extraction**
-✅ **Common Pain Points:** Identify recurring decision challenges (e.g., misalignment, slow response times).  
-✅ **Mental Models:** Identify frameworks or heuristics leaders rely on when making decisions.  
-✅ **Information Sources:** Map the most trusted data types used in strategic decisions.  
-✅ **Behavioral Patterns:** Observe differences between risk-averse vs. risk-tolerant leaders.  
-✅ **Bias and Blind Spots:** Note common cognitive biases that may influence decision outcomes.  
+✅ **Common Pain Points:** Identify recurring decision challenges (e.g., misalignment, slow response times).
+✅ **Mental Models:** Identify frameworks or heuristics leaders rely on when making decisions.
+✅ **Information Sources:** Map the most trusted data types used in strategic decisions.
+✅ **Behavioral Patterns:** Observe differences between risk-averse vs. risk-tolerant leaders.
+✅ **Bias and Blind Spots:** Note common cognitive biases that may influence decision outcomes.
 
 **Pro Tip:** Instruct your team to build an **Insight Log** — a shared document where members tag findings with these themes. This will accelerate synthesis later.
 
@@ -112,10 +112,10 @@ AI integration is central to your project. Encourage the team to explore AI’s 
 | **Decision Execution**| AI for tracking KPIs, optimizing resource allocation, and monitoring outcomes. |
 
 ### **Key AI-Related Questions to Investigate**
-✅ What types of **AI tools** are currently trusted in business-level strategy?  
-✅ How do leaders balance **AI insights** with **human intuition**?  
-✅ What role does **explainability** play in AI adoption for strategic decisions?  
-✅ What **fears or misconceptions** exist about AI-driven decisions?  
+✅ What types of **AI tools** are currently trusted in business-level strategy?
+✅ How do leaders balance **AI insights** with **human intuition**?
+✅ What role does **explainability** play in AI adoption for strategic decisions?
+✅ What **fears or misconceptions** exist about AI-driven decisions?
 
 ---
 
@@ -123,36 +123,36 @@ AI integration is central to your project. Encourage the team to explore AI’s 
 A well-structured synthesis process will ensure insights are actionable and meaningful.
 
 ### **Synthesis Process**
-✅ **Step 1:** Hold a midpoint check-in where each team member presents their top 3–5 insights.  
-✅ **Step 2:** Map insights by **decision scenario** and **meta-theme** using a collaborative tool (e.g., Miro, MURAL).  
-✅ **Step 3:** Identify recurring patterns and contradictions across sources.  
-✅ **Step 4:** Build 3-5 core **insight summaries** — concise narratives that describe key findings with examples or case studies.  
-✅ **Step 5:** Craft a **Visual Framework** — e.g., a decision journey map, an influence map, or a model of how data, intuition, and AI intersect.  
+✅ **Step 1:** Hold a midpoint check-in where each team member presents their top 3–5 insights.
+✅ **Step 2:** Map insights by **decision scenario** and **meta-theme** using a collaborative tool (e.g., Miro, MURAL).
+✅ **Step 3:** Identify recurring patterns and contradictions across sources.
+✅ **Step 4:** Build 3-5 core **insight summaries** — concise narratives that describe key findings with examples or case studies.
+✅ **Step 5:** Craft a **Visual Framework** — e.g., a decision journey map, an influence map, or a model of how data, intuition, and AI intersect.
 
 **Pro Tip:** Use real-world **mini case studies** wherever possible — this makes insights more relatable for your stakeholders.
 
 ---
 
 ## **Step 7: Deliverable Structure**
-To ensure clarity, I recommend structuring the final output like this:  
+To ensure clarity, I recommend structuring the final output like this:
 
 ### **Final Report Outline**
-1. **Introduction**  
-   - Overview of Business-Level Strategy  
-   - Research Process and Sources  
-2. **Key Decision Scenarios**  
-   - Summary of each scenario and key findings  
-3. **Meta-Theme Analysis**  
-   - Pain points, mental models, data sources, etc.  
-4. **AI’s Role in Business-Level Strategy**  
-   - Opportunities, risks, and adoption patterns  
-5. **Recommended Next Steps**  
-   - Key opportunities for tool design or further research  
+1. **Introduction**
+   - Overview of Business-Level Strategy
+   - Research Process and Sources
+2. **Key Decision Scenarios**
+   - Summary of each scenario and key findings
+3. **Meta-Theme Analysis**
+   - Pain points, mental models, data sources, etc.
+4. **AI’s Role in Business-Level Strategy**
+   - Opportunities, risks, and adoption patterns
+5. **Recommended Next Steps**
+   - Key opportunities for tool design or further research
 
 ---
 
 ## **Step 8: Timeline & Milestones**
-Here’s a recommended timeline for execution:  
+Here’s a recommended timeline for execution:
 
 | **Week** | **Milestone** |
 |-----------|----------------|
@@ -165,11 +165,11 @@ Here’s a recommended timeline for execution:
 ---
 
 ## **Step 9: Success Criteria**
-To ensure your research achieves the right depth and focus, evaluate success based on:  
-✅ **Breadth:** Coverage across industries and decision scenarios  
-✅ **Depth:** Evidence-backed insights with real-world examples  
-✅ **Relevance:** Clear implications for AI integration and decision-making  
-✅ **Clarity:** Insight summaries that stakeholders can easily absorb  
+To ensure your research achieves the right depth and focus, evaluate success based on:
+✅ **Breadth:** Coverage across industries and decision scenarios
+✅ **Depth:** Evidence-backed insights with real-world examples
+✅ **Relevance:** Clear implications for AI integration and decision-making
+✅ **Clarity:** Insight summaries that stakeholders can easily absorb
 
 ---
 
@@ -190,7 +190,7 @@ The prompt is now built out with detailed instructions for expanding both **Step
 
 could you rewrite this in a first person as if I'm giving instructions to a colleague, and not like the 'objective', 'prompt objective', etc...
 
-and write a line in their about the persona he has to embody, which is the design director and mentor who's also a very thoughtful leader and creating a specific direction for his team. 
+and write a line in their about the persona he has to embody, which is the design director and mentor who's also a very thoughtful leader and creating a specific direction for his team.
 
 for the step 2, particularly, I want him to put on his design researcher hat.
 
@@ -201,4 +201,3 @@ for the step 2, particularly, I want him to put on his design researcher hat.
 ## ChatGPT (2025-03-13T05:52:55.998359+00:00)
 
 I've reworked the instructions to read as if you're giving guidance directly to a colleague. The tone is now more collaborative and leadership-focused, and I included the key persona shift you wanted — emphasizing the **Design Director and Mentor** identity and the **Design Researcher** mindset for Step 2. Let me know if you'd like to refine it further.
-

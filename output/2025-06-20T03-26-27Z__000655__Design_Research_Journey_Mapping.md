@@ -37,4 +37,3 @@ That last one—personal strategy—felt like a wildcard at first. It didn’t s
 ---
 
 Ready to move on to the next part?
-

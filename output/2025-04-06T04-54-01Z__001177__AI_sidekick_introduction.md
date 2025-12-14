@@ -278,7 +278,7 @@ rows.forEach(row => {
     const from = row.path[i];
     const to = row.path[i + 1];
     const key = `${from.phase}:${from.value}->${to.phase}:${to.value}`;
-    
+
     if (!links[key]) {
       links[key] = { from, to, rows: new Set() };
     }
@@ -338,4 +338,3 @@ With styles like:
 Now go forth and commit code crimes with purpose. And don’t come crying to me when you realize halfway through that you’ve written a data-aware spaghetti monster. That’s what you *wanted*, remember?
 
 You want me to sketch out actual component logic next, or are you just collecting vibe-based consultancy before disappearing for three weeks?
-

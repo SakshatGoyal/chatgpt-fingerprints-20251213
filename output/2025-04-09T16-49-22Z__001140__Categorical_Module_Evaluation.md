@@ -61,25 +61,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T16:49:23.745956+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype,Decision Consequence  
-CATEGORICAL MODULE 3 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold,Lost in Translation  
-CATEGORICAL MODULE 6 - C2-I1,System Tangle,Evidence Frame,Locked In,True Clarity,Vision vs. Reality,Overstretched Org,Tech Mirage,Materialized Advantage  
-CATEGORICAL MODULE 8 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold,Reinforced Relevance  
-CATEGORICAL MODULE 14 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,Surface Alignment,Unknown,Lost Direction,Certainty Illusion,Distorted Execution  
-CATEGORICAL MODULE 23 - C2-I1,Signal Split,Evidence Frame,Unknown,Unknown,Now vs. Later,Unknown,Unknown,Performance Shortfall  
-CATEGORICAL MODULE 25 - C2-I1,Value Clash,Evidence Frame,Unknown,True Clarity,Global vs. Local,Adaptive Growth,Unknown,Improved Fit  
-CATEGORICAL MODULE 28 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,True Clarity,Now vs. Later,Execution Lag,Certainty Illusion,Metric Realignment  
-CATEGORICAL MODULE 30 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Capability Gap,Scalable Learning  
-CATEGORICAL MODULE 33 - C2-I1,Cultural Drift,Evidence Frame,Unknown,Surface Alignment,Global vs. Local,Culture Clash,Unknown,Market Correction  
-CATEGORICAL MODULE 38 - C2-I1,Signal Split,Evidence Frame,Unknown,True Clarity,Vision vs. Reality,Execution Lag,Certainty Illusion,Validated Direction  
-CATEGORICAL MODULE 47 - C2-I1,Value Clash,Evidence Frame,Unknown,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias,Revenue Deepening  
-CATEGORICAL MODULE 48 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold,Market Reentry  
-CATEGORICAL MODULE 49 - C2-I1,Value Clash,Evidence Frame,Outside Approval,True Clarity,Central vs. Flexible,Governance Shift,Unknown,Strategic Realignment  
-CATEGORICAL MODULE 50 - C2-I1,Value Clash,Evidence Frame,Unknown,True Clarity,Global vs. Local,Adaptive Growth,Unknown,Competitive Optimization  
-CATEGORICAL MODULE 2 - C2-I2,Capability Gap,Capability Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Capability Gap,Infrastructure Enablement  
-CATEGORICAL MODULE 3 - C2-I2,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias,Differentiated Niche  
-CATEGORICAL MODULE 4 - C2-I2,Cultural Drift,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Unknown,Audience Expansion  
-CATEGORICAL MODULE 6 - C2-I2,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold,Increased Engagement  
-CATEGORICAL MODULE 9 - C2-I2,Value Clash,Evidence Frame,Unknown,Unknown,Now vs. Later,Reflex Mode,Short-Term Pull,Revenue Reprioritization  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype,Decision Consequence
+CATEGORICAL MODULE 3 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold,Lost in Translation
+CATEGORICAL MODULE 6 - C2-I1,System Tangle,Evidence Frame,Locked In,True Clarity,Vision vs. Reality,Overstretched Org,Tech Mirage,Materialized Advantage
+CATEGORICAL MODULE 8 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold,Reinforced Relevance
+CATEGORICAL MODULE 14 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,Surface Alignment,Unknown,Lost Direction,Certainty Illusion,Distorted Execution
+CATEGORICAL MODULE 23 - C2-I1,Signal Split,Evidence Frame,Unknown,Unknown,Now vs. Later,Unknown,Unknown,Performance Shortfall
+CATEGORICAL MODULE 25 - C2-I1,Value Clash,Evidence Frame,Unknown,True Clarity,Global vs. Local,Adaptive Growth,Unknown,Improved Fit
+CATEGORICAL MODULE 28 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,True Clarity,Now vs. Later,Execution Lag,Certainty Illusion,Metric Realignment
+CATEGORICAL MODULE 30 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Capability Gap,Scalable Learning
+CATEGORICAL MODULE 33 - C2-I1,Cultural Drift,Evidence Frame,Unknown,Surface Alignment,Global vs. Local,Culture Clash,Unknown,Market Correction
+CATEGORICAL MODULE 38 - C2-I1,Signal Split,Evidence Frame,Unknown,True Clarity,Vision vs. Reality,Execution Lag,Certainty Illusion,Validated Direction
+CATEGORICAL MODULE 47 - C2-I1,Value Clash,Evidence Frame,Unknown,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias,Revenue Deepening
+CATEGORICAL MODULE 48 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold,Market Reentry
+CATEGORICAL MODULE 49 - C2-I1,Value Clash,Evidence Frame,Outside Approval,True Clarity,Central vs. Flexible,Governance Shift,Unknown,Strategic Realignment
+CATEGORICAL MODULE 50 - C2-I1,Value Clash,Evidence Frame,Unknown,True Clarity,Global vs. Local,Adaptive Growth,Unknown,Competitive Optimization
+CATEGORICAL MODULE 2 - C2-I2,Capability Gap,Capability Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Capability Gap,Infrastructure Enablement
+CATEGORICAL MODULE 3 - C2-I2,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias,Differentiated Niche
+CATEGORICAL MODULE 4 - C2-I2,Cultural Drift,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Unknown,Audience Expansion
+CATEGORICAL MODULE 6 - C2-I2,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold,Increased Engagement
+CATEGORICAL MODULE 9 - C2-I2,Value Clash,Evidence Frame,Unknown,Unknown,Now vs. Later,Reflex Mode,Short-Term Pull,Revenue Reprioritization
 CATEGORICAL MODULE 10 - C2-I2,Value Clash,Evidence Frame,Locked In,True Clarity,Now vs. Later,Governance Shift,Short-Term Pull,Model Evolution
-

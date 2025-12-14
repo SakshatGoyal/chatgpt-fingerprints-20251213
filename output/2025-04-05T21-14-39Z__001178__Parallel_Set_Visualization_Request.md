@@ -2,7 +2,7 @@
 
 ## You (2025-04-05T21:14:39.339594+00:00)
 
-Hey, i have this table. Originally this is saved as a csv file. 
+Hey, i have this table. Originally this is saved as a csv file.
 
 | Module ID | Strategy Type | Tension Axis | Ambiguity Type | Framing Move | Friction Archetype | Stabilizer | False Clarity | Org Implication | Functional Modality | Regulatory Scope | Temporal Coupling Sensitivity | Market Dispersion | Capital Substrate Intensity | Decomposability Gradient | Temporal Value Elasticity | Knowledge Codifiability |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Hey, i have this table. Originally this is saved as a csv file.
 | MODULE 1 - C1-I4 | Business-Level | Global vs. Local | Value Clash | Both/And Frame | Unknown | Alignment Achieved | True Clarity | Adaptive Growth | Menu Localization | Partial | Moderate | Global | Low | Segmented | Deferred-Stable | Hybrid |
 | MODULE 1 - C1-I5 | Adaptive & Crisis | Plan vs. React | System Tangle | Urgency Frame | Unknown | Alignment Achieved | True Clarity | Adaptive Growth | IPO Process Adaptation | Partial | Tight | Global | Low | Segmented | Immediate-Coupled | Codified-Dominant |
 
-I want to visualize elements of this in a parallel set (sankey like) visualization. Here’s a list of columns I want to visualize. 
+I want to visualize elements of this in a parallel set (sankey like) visualization. Here’s a list of columns I want to visualize.
 
 | Tension Axis |
 | --- |
@@ -23,7 +23,7 @@ I want to visualize elements of this in a parallel set (sankey like) visualizati
 | False Clarity |
 | Org Implication |
 
-And I want the following as ‘Filters’ at the top of the visualization. 
+And I want the following as ‘Filters’ at the top of the visualization.
 
 | Regulatory Scope |
 | --- |
@@ -107,13 +107,13 @@ You want a **parallel sets-style visualization** (like a Sankey diagram but for 
 
 ### ⚠️ Key Challenges You've Experienced (and Want to Avoid)
 
-1. **Path Bleed in Highlighting**  
+1. **Path Bleed in Highlighting**
    When you highlight something like "Legacy Hold" in Friction Archetype, it often causes future phases to light up **more than they should**, because those downstream nodes are connected to *multiple upstream paths*, not just the highlighted subset.
 
-2. **Diagram Re-Rendering**  
+2. **Diagram Re-Rendering**
    Most parallel sets re-render (change the layout) when you filter — you **want to avoid this**. Instead, the layout should remain fixed, and only coloring/highlighting should change.
 
-3. **Lack of Precise Subset Isolation**  
+3. **Lack of Precise Subset Isolation**
    You want to **isolate** a particular journey across all phases (like all rows where Tension Axis = "Lean vs. Unique") and track those rows across all phases — without the data from other rows interfering in that path.
 
 ---
@@ -375,10 +375,10 @@ Would you like me to now:
 
 ## You (2025-04-05T21:44:52.878951+00:00)
 
-lets start with the structure. Here's the folder i previously had. Now I'll need to know which ones i need to change and which ones i need to keep as is. 
+lets start with the structure. Here's the folder i previously had. Now I'll need to know which ones i need to change and which ones i need to keep as is.
 
 
-sakshatgoyal@MacBook-Pro ~ % tree /Users/sakshatgoyal/Desktop/interactive-sankey 
+sakshatgoyal@MacBook-Pro ~ % tree /Users/sakshatgoyal/Desktop/interactive-sankey
 /Users/sakshatgoyal/Desktop/interactive-sankey
 ├── node_modules
 │   ├── @esbuild
@@ -2172,14 +2172,14 @@ If `+page.svelte` already exists (from SvelteKit starter), we’ll just edit it 
 ## ✅ Next Step
 
 Do you want to:
-1. Start building the `ParallelSets.svelte` component from scratch now, or  
+1. Start building the `ParallelSets.svelte` component from scratch now, or
 2. First update the main page (`+page.svelte`) to load the component and show basic dropdowns?
 
 Let me know how you'd like to proceed.
 
 ## You (2025-04-05T21:52:23.406808+00:00)
 
-Here's a recap of what I understood. Here are the three files in discussion along with their current location. 
+Here's a recap of what I understood. Here are the three files in discussion along with their current location.
 
 /Users/sakshatgoyal/Desktop/interactive-sankey/public/data.csv
 /Users/sakshatgoyal/Desktop/interactive-sankey/src/App.svelte
@@ -2224,4 +2224,3 @@ Would you like to:
 2. First **set up `App.svelte` to load and display the component**?
 
 Either works — just let me know where you'd like to begin.
-

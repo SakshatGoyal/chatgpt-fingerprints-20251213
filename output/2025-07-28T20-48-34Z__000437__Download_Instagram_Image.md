@@ -12,15 +12,15 @@ Here’s how to download a high-resolution photo from Instagram using your brows
 
 ### ✅ Step-by-Step Instructions:
 
-1. **Open the Instagram post in a new tab**  
+1. **Open the Instagram post in a new tab**
    Make sure it’s the *single post view* (URL should look like: `https://www.instagram.com/p/abc123/`)
 
-2. **Right-click** on the image and select `Inspect`  
+2. **Right-click** on the image and select `Inspect`
    (Or press `Cmd+Option+I` on Mac or `Ctrl+Shift+I` on Windows to open the DevTools panel)
 
 3. **Go to the `Elements` tab**
 
-4. Use the mouse icon in the top-left corner of the panel (🔍) to **hover over the image**  
+4. Use the mouse icon in the top-left corner of the panel (🔍) to **hover over the image**
    You're looking for an `img` tag, often inside a `<div role="button">` or a `<div class="x..."` class block.
 
 5. Once you see an `img` tag like this:
@@ -29,7 +29,7 @@ Here’s how to download a high-resolution photo from Instagram using your brows
    ```
    Right-click on that `img` line and choose **"Open in new tab"**.
 
-6. In the new tab, **right-click the image and choose “Save Image As…”**  
+6. In the new tab, **right-click the image and choose “Save Image As…”**
    This is typically the **highest-resolution** version available from the page.
 
 ---
@@ -39,4 +39,3 @@ Here’s how to download a high-resolution photo from Instagram using your brows
 - You can also check the `Network` tab (before the page loads) and filter for `img` to catch the file as it’s loaded.
 
 Would you like me to help with the exact class name or image tag if you send a screenshot of the Inspect panel?
-

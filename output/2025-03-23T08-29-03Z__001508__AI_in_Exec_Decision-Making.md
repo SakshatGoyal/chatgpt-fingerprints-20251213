@@ -160,85 +160,85 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Insight 1: AI as a Catalyst for Enhanced Decision-Making
 
-**Insight Statement:**  
+**Insight Statement:**
 Integrating AI into executive decision-making has augmented traditional judgment by delivering rapid, data-driven insights that enhance forecasting and risk assessment. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must balance swift, algorithm-based analyses with the nuanced understanding that human intuition provides.  
-- **Underlying Beliefs & Biases:** There is an inherent tension between trusting data outputs and valuing experiential judgment, raising concerns about overreliance on technology.  
-- **Expected vs. Actual Outcomes:** While AI-driven systems promise accelerated decision cycles and higher accuracy, there is a risk of neglecting qualitative factors only human analysis can capture.  
-- **Broader Implications:** Organizations should develop frameworks that integrate AI tools without fully replacing the critical oversight of seasoned executives.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must balance swift, algorithm-based analyses with the nuanced understanding that human intuition provides.
+- **Underlying Beliefs & Biases:** There is an inherent tension between trusting data outputs and valuing experiential judgment, raising concerns about overreliance on technology.
+- **Expected vs. Actual Outcomes:** While AI-driven systems promise accelerated decision cycles and higher accuracy, there is a risk of neglecting qualitative factors only human analysis can capture.
+- **Broader Implications:** Organizations should develop frameworks that integrate AI tools without fully replacing the critical oversight of seasoned executives.
 **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper provides concrete examples—such as Netflix’s use of AI leading to 80% of content being viewed through its recommendation engine and the broader deployment of predictive analytics in streaming platforms—which empirically underscore AI’s role in refining strategic choices. **[Empirical]**
 
 ---
 
 ### Insight 2: The Human Element and Cognitive Biases in AI Integration
 
-**Insight Statement:**  
+**Insight Statement:**
 Despite AI’s advanced analytical capabilities, persistent human cognitive biases—such as confirmation bias and automation bias—continue to shape and sometimes undermine the effectiveness of AI-enhanced decision-making. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must reconcile the objectivity of AI insights with the subjective biases inherent in human judgment.  
-- **Underlying Beliefs & Biases:** Executives may selectively embrace AI outputs that confirm their preconceptions, risking a skewed interpretation of data.  
-- **Expected vs. Actual Outcomes:** Although AI can mitigate some bias by processing large datasets, overdependence may inadvertently entrench flawed assumptions.  
-- **Broader Implications:** Continuous training in AI literacy and cognitive awareness is essential to counterbalance these biases and foster a more robust decision framework.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must reconcile the objectivity of AI insights with the subjective biases inherent in human judgment.
+- **Underlying Beliefs & Biases:** Executives may selectively embrace AI outputs that confirm their preconceptions, risking a skewed interpretation of data.
+- **Expected vs. Actual Outcomes:** Although AI can mitigate some bias by processing large datasets, overdependence may inadvertently entrench flawed assumptions.
+- **Broader Implications:** Continuous training in AI literacy and cognitive awareness is essential to counterbalance these biases and foster a more robust decision framework.
 **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Drawing on detailed discussions from the paper, evidence highlights how cognitive pitfalls—like automation bias and selective data validation—affect executive reliance on AI, emphasizing the need for balanced human oversight. **[Empirical]**
 
 ---
 
 ### Insight 3: Ethical and Regulatory Challenges in AI-Enhanced Decisions
 
-**Insight Statement:**  
+**Insight Statement:**
 The absence of comprehensive national AI regulation and the risk of algorithmic bias underscore significant ethical and legal challenges that executives must address when integrating AI into strategic decision-making. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives face the challenge of harnessing AI’s benefits while navigating a fragmented regulatory landscape and safeguarding against ethical breaches.  
-- **Underlying Beliefs & Biases:** There exists a cautious sentiment regarding data privacy, algorithmic fairness, and the potential for AI to inadvertently reinforce systemic biases.  
-- **Expected vs. Actual Outcomes:** Although AI offers efficiency gains, unregulated or biased systems may yield discriminatory outcomes or reputational risks.  
-- **Broader Implications:** Leaders must invest in ethical frameworks and advocate for regulatory harmonization to ensure responsible AI integration.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives face the challenge of harnessing AI’s benefits while navigating a fragmented regulatory landscape and safeguarding against ethical breaches.
+- **Underlying Beliefs & Biases:** There exists a cautious sentiment regarding data privacy, algorithmic fairness, and the potential for AI to inadvertently reinforce systemic biases.
+- **Expected vs. Actual Outcomes:** Although AI offers efficiency gains, unregulated or biased systems may yield discriminatory outcomes or reputational risks.
+- **Broader Implications:** Leaders must invest in ethical frameworks and advocate for regulatory harmonization to ensure responsible AI integration.
 **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper details the fragmented U.S. regulatory environment and cites instances—such as biased predictive algorithms in the justice system—that illustrate the real-world ethical challenges associated with AI deployment. **[Empirical]**
 
 ---
 
 ### Insight 4: Hybrid Decision-Making Models: Balancing Human Intuition with AI Analytics
 
-**Insight Statement:**  
+**Insight Statement:**
 Hybrid decision-making models that strategically combine human insight with AI analytics yield more resilient and effective outcomes than relying solely on either approach. **[Inferred]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Determining the optimal integration of AI capabilities with human judgment remains a critical challenge for modern executives.  
-- **Underlying Beliefs & Biases:** There is a risk that either overreliance on AI or excessive skepticism towards technology could impair decision quality.  
-- **Expected vs. Actual Outcomes:** Empirical examples indicate that organizations employing a hybrid approach benefit from both rapid data processing and contextual, experience-based decision-making.  
-- **Broader Implications:** Institutional changes—including targeted training and cultural shifts—are essential for fostering effective human-AI collaboration.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Determining the optimal integration of AI capabilities with human judgment remains a critical challenge for modern executives.
+- **Underlying Beliefs & Biases:** There is a risk that either overreliance on AI or excessive skepticism towards technology could impair decision quality.
+- **Expected vs. Actual Outcomes:** Empirical examples indicate that organizations employing a hybrid approach benefit from both rapid data processing and contextual, experience-based decision-making.
+- **Broader Implications:** Institutional changes—including targeted training and cultural shifts—are essential for fostering effective human-AI collaboration.
 **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The discussion on synergistic strategies in the paper reinforces that combining AI’s computational strengths with human critical thinking leads to more nuanced and successful strategic initiatives, particularly in dynamic sectors like streaming platforms. **[Inferred]**
 
 ---
 
 ### Insight 5: Divergent AI Adoption Strategies: Leaders vs. Emerging Players
 
-**Insight Statement:**  
+**Insight Statement:**
 A comparative analysis reveals that while established industry leaders deploy comprehensive, resource-intensive AI solutions, emerging companies tend to adopt more agile, niche strategies, highlighting a bifurcated approach to AI integration. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** The challenge lies in resource allocation—balancing the benefits of large-scale AI investments against the flexibility of targeted, innovative applications.  
-- **Underlying Beliefs & Biases:** Large organizations often equate scale with efficiency, whereas smaller players leverage agility to compete in niche markets.  
-- **Expected vs. Actual Outcomes:** While giants secure broad operational improvements, emerging players may achieve high-impact results within focused domains.  
-- **Broader Implications:** Executives must tailor AI strategies to their organizational context, emphasizing either comprehensive integration or nimble, targeted initiatives based on available resources.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** The challenge lies in resource allocation—balancing the benefits of large-scale AI investments against the flexibility of targeted, innovative applications.
+- **Underlying Beliefs & Biases:** Large organizations often equate scale with efficiency, whereas smaller players leverage agility to compete in niche markets.
+- **Expected vs. Actual Outcomes:** While giants secure broad operational improvements, emerging players may achieve high-impact results within focused domains.
+- **Broader Implications:** Executives must tailor AI strategies to their organizational context, emphasizing either comprehensive integration or nimble, targeted initiatives based on available resources.
 **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper’s comparative analysis section and accompanying table clearly document the differential AI deployment between market leaders (like Netflix and Amazon Prime Video) and rising stars in the streaming industry, providing empirical support for these divergent strategies. **[Empirical]**
 
 ---
@@ -248,9 +248,9 @@ The paper’s comparative analysis section and accompanying table clearly docume
 - **Coverage Fit:** High — The paper extensively addresses executive decision-making through the lens of AI integration, offering rich insights into strategic challenges and opportunities.
 - **Bias & Cognitive Modeling Content:** Present — Detailed discussion of cognitive biases, human-AI interaction, and ethical considerations are well documented.
 - **Clarity of Methods & Outcomes:** Clear — The paper combines qualitative analysis with empirical case studies and comparative tables, though some quantitative methods are described broadly.
-- **Areas with No Data:**  
-  - Insight Statement: All insights are supported with content from the paper.  
-  - Executive Decision-Making Context: Fully addressed in all insights.  
+- **Areas with No Data:**
+  - Insight Statement: All insights are supported with content from the paper.
+  - Executive Decision-Making Context: Fully addressed in all insights.
   - Supporting Context: Empirical examples and comparative analysis are provided throughout.
 
 This comprehensive analysis reflects the paper’s robust examination of how AI is reshaping executive judgment and strategic decision-making, while also highlighting areas where executive leaders must remain vigilant about biases, ethical challenges, and the need for balanced human-AI collaboration.
@@ -546,21 +546,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -573,4 +573,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T08:32:17.083896+00:00)
 
 Gemini Research. (2024). *The convergence of artificial intelligence and executive decision-making in North America*.
-

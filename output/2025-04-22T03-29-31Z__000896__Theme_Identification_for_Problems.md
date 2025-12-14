@@ -2,7 +2,7 @@
 
 ## You (2025-04-22T03:29:31.441503+00:00)
 
-help me write a prompt for the following intent. 
+help me write a prompt for the following intent.
 
 I have this file called people-problem-statements-v4.md and then I have another file called archetype-things what I need is if you go through the file the people-problem-file, what you'll find is a series of people-problem-statements along with a how do we know this is a problem kind of statement so each of those think of those like proof of a problem so the problem proofs are actually based on some themes that are listed inside the .txt file so if you read the .txt file what you'll also find is each theme has like three content modules and so those content modules essentially represent some extracted information from from a research paper and so that acted as raw data for us and when we were formulating the people-problem-statements and identifying proof of the problem statement we based the proof on the actual modules within each theme now what I want chat-gpt to do is for each individual problem statement I want to understand which theme does it belong to so the best way to find that out would be to read through the problem proof which will be the how do we know this is a problem section read that and read other parts of the .txt file figure out which module it belongs to and return for each individual people-problem-statement I want to know which theme it belongs to just read through the two files and you might get a better sense
 
@@ -85,10 +85,10 @@ Here is your full O3-compatible prompt:
 
 ### 🔧 **Prompt Structure for O3**
 
-**Goal:**  
+**Goal:**
 For each “People Problem Statement” listed in a markdown file, assign one or more **Themes** from a research framework (contained in a second file) that best align with the rationale in the section titled “How do we know this is a problem?”. Use conceptual similarity and context to guide assignments, not just keyword overlap.
 
-**Return Format:**  
+**Return Format:**
 Return your results as a **Markdown table** with the following columns:
 - **People Problem ID** (e.g., Archetype 1 - Problem 1)
 - **Problem Summary** (shortened version of the people problem statement)
@@ -108,4 +108,3 @@ You are a **thematic analyst** trained in qualitative coding of empirical strate
 ---
 
 Would you like me to test this prompt immediately with a few examples from your files to show what the table might look like?
-

@@ -64,25 +64,24 @@ Start with the first 20 modules in the .txt file. Output only the CSV.
 
 ## ChatGPT (2025-04-09T18:44:38.024471+00:00)
 
-Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability  
-CATEGORICAL MODULE 6 - C1-I5,Patient Monitoring Systems,Mandate-Driven,Real-Time Reliant,Regional,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 10 - C1-I5,Protocol Design Reform,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 11 - C1-I5,Operational Streamlining,Limited Mandates,Sequenced Timing,Regional,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 3 - C1-I6,Iterative Strategy Development,Unbound,Independent Timing,Regional,End-to-End Integrated,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 31 - C2-I1,ROI Measurement Design,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 7 - C2-I2,Streaming Innovation Investment,Limited Mandates,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 40 - C2-I2,Digital Platform Migration,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 8 - C2-I3,Scenario Planning Systems,Unbound,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 28 - C2-I3,Cognitive Capability Development,Unbound,Independent Timing,Regional,End-to-End Integrated,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 7 - C3-I2,EV R&D Portfolio Structuring,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 13 - C4-I5,Supply Chain IT Investment,Mandate-Driven,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 16 - C4-I6,AI Strategy Scaling,Unbound,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 4 - C5-I1,Executive Risk Behavior,Unbound,Independent Timing,Regional,End-to-End Integrated,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 2 - C5-I2,DDD-IT Integration,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 12 - C5-I2,AI-Driven Battery R&D,Limited Mandates,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 6 - C5-I3,Vertical Integration Strategy,Limited Mandates,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 21 - C5-I3,Startup Novelty Validation,Unbound,Independent Timing,Regional,End-to-End Integrated,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 2 - C5-I6,Decision Mode Structuring,Unbound,Sequenced Timing,Regional,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 5 - C5-I6,Workflow Redesign Strategy,Unbound,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
+Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability
+CATEGORICAL MODULE 6 - C1-I5,Patient Monitoring Systems,Mandate-Driven,Real-Time Reliant,Regional,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 10 - C1-I5,Protocol Design Reform,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 11 - C1-I5,Operational Streamlining,Limited Mandates,Sequenced Timing,Regional,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 3 - C1-I6,Iterative Strategy Development,Unbound,Independent Timing,Regional,End-to-End Integrated,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 31 - C2-I1,ROI Measurement Design,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 7 - C2-I2,Streaming Innovation Investment,Limited Mandates,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 40 - C2-I2,Digital Platform Migration,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 8 - C2-I3,Scenario Planning Systems,Unbound,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 28 - C2-I3,Cognitive Capability Development,Unbound,Independent Timing,Regional,End-to-End Integrated,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 7 - C3-I2,EV R&D Portfolio Structuring,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 13 - C4-I5,Supply Chain IT Investment,Mandate-Driven,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 16 - C4-I6,AI Strategy Scaling,Unbound,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 4 - C5-I1,Executive Risk Behavior,Unbound,Independent Timing,Regional,End-to-End Integrated,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 2 - C5-I2,DDD-IT Integration,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 12 - C5-I2,AI-Driven Battery R&D,Limited Mandates,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 6 - C5-I3,Vertical Integration Strategy,Limited Mandates,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 21 - C5-I3,Startup Novelty Validation,Unbound,Independent Timing,Regional,End-to-End Integrated,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 2 - C5-I6,Decision Mode Structuring,Unbound,Sequenced Timing,Regional,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 5 - C5-I6,Workflow Redesign Strategy,Unbound,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
 CATEGORICAL MODULE 2 - C1-I1,Digital Interface Optimization,Limited Mandates,Sequenced Timing,Regional,Componentized,Short-Term Return,Guided Expertise
-

@@ -160,128 +160,128 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Strategic Misrepresentation
 
-**Insight Statement:**  
+**Insight Statement:**
 Strategic misrepresentation—where forecasts are deliberately skewed under political-organizational pressures—undermines objective project evaluation, challenging the common assumption that errors are merely due to unintentional cognitive bias. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must balance the need to secure funding against the risk of misleading projections, as political bias often leads to systematic underestimation of costs and overestimation of benefits.  
-- **Underlying Beliefs & Biases:** There is a tendency to attribute forecasting inaccuracies solely to optimism, overlooking deliberate distortions aimed at project approval.  
-- **Expected vs. Actual Outcomes:** Instead of achieving realistic estimates, high-stakes projects often experience severe cost overruns and schedule delays.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must balance the need to secure funding against the risk of misleading projections, as political bias often leads to systematic underestimation of costs and overestimation of benefits.
+- **Underlying Beliefs & Biases:** There is a tendency to attribute forecasting inaccuracies solely to optimism, overlooking deliberate distortions aimed at project approval.
+- **Expected vs. Actual Outcomes:** Instead of achieving realistic estimates, high-stakes projects often experience severe cost overruns and schedule delays.
 - **Broader Implications:** Instituting rigorous review mechanisms—such as reference class forecasting—can mitigate politically induced distortions in decision-making. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper provides extensive evidence from megaproject analyses and debates (including discussions with Kahneman) showing that strategic misrepresentation is prevalent in projects with high political pressure, with documented cases across diverse project types reinforcing its impact on cost and benefit misestimations. **[Empirical]**
 
 ---
 
 ### 2. Optimism Bias
 
-**Insight Statement:**  
+**Insight Statement:**
 Optimism bias leads executives to inadvertently underestimate risks and overestimate potential benefits, creating a hazardous disconnect between projected and actual project outcomes. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** While a can-do attitude is essential for project initiation, unchecked optimism can result in systematically flawed forecasts and unexpected overruns.  
-- **Underlying Beliefs & Biases:** A cultural predisposition to view challenges through a rosy lens may mask the need for rigorous risk assessment.  
-- **Expected vs. Actual Outcomes:** Forecasts based on idealized scenarios often fail to account for real-world complexities, leading to significant deviations during project execution.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** While a can-do attitude is essential for project initiation, unchecked optimism can result in systematically flawed forecasts and unexpected overruns.
+- **Underlying Beliefs & Biases:** A cultural predisposition to view challenges through a rosy lens may mask the need for rigorous risk assessment.
+- **Expected vs. Actual Outcomes:** Forecasts based on idealized scenarios often fail to account for real-world complexities, leading to significant deviations during project execution.
 - **Broader Implications:** Incorporating debiasing techniques—such as adjusting for optimism through empirical “uplifts”—is critical for aligning expectations with reality. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The research documents historical instances (e.g., adjustments during the Apollo program) where initial optimistic estimates had to be substantially revised, underscoring that while optimism energizes project efforts, it also precipitates significant forecasting errors if not critically managed. **[Empirical]**
 
 ---
 
 ### 3. Uniqueness Bias
 
-**Insight Statement:**  
+**Insight Statement:**
 Uniqueness bias causes project managers to view their projects as singular, thereby dismissing valuable external benchmarks and impairing their ability to learn from comparable projects. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives often overvalue the local distinctiveness of their projects, which discourages leveraging lessons from past similar ventures and skews risk assessment.  
-- **Underlying Beliefs & Biases:** The belief in a project’s exceptionalism can obscure the applicability of broader industry trends and historical data.  
-- **Expected vs. Actual Outcomes:** This misperception typically leads to inadequate planning and higher exposure to unforeseen risks.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives often overvalue the local distinctiveness of their projects, which discourages leveraging lessons from past similar ventures and skews risk assessment.
+- **Underlying Beliefs & Biases:** The belief in a project’s exceptionalism can obscure the applicability of broader industry trends and historical data.
+- **Expected vs. Actual Outcomes:** This misperception typically leads to inadequate planning and higher exposure to unforeseen risks.
 - **Broader Implications:** Cultivating an “outside view” that integrates external data can help counteract the myopia induced by perceived uniqueness. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper illustrates how institutional definitions reinforce uniqueness and how this bias promotes an “inside view” that neglects comparative analyses—consequently resulting in risk underestimation and missed opportunities for performance improvements. **[Empirical]**
 
 ---
 
 ### 4. The Planning Fallacy (Writ Large)
 
-**Insight Statement:**  
+**Insight Statement:**
 The planning fallacy—marked by the consistent underestimation of costs and risks alongside overestimation of benefits—demonstrates how reliance on best-case scenarios systematically distorts project forecasts. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Decision-makers struggle to reconcile their idealistic planning with the statistical realities of historical project data.  
-- **Underlying Beliefs & Biases:** There is a cognitive inclination to focus on specific, favorable components of a plan while neglecting broader distributional risks.  
-- **Expected vs. Actual Outcomes:** Overoptimistic planning yields outcomes that vastly diverge from initial projections, resulting in persistent overruns.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Decision-makers struggle to reconcile their idealistic planning with the statistical realities of historical project data.
+- **Underlying Beliefs & Biases:** There is a cognitive inclination to focus on specific, favorable components of a plan while neglecting broader distributional risks.
+- **Expected vs. Actual Outcomes:** Overoptimistic planning yields outcomes that vastly diverge from initial projections, resulting in persistent overruns.
 - **Broader Implications:** Executives are advised to integrate reference class forecasting to ground their projections in empirically derived risk distributions. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Evidence in the paper—highlighting the “EGAP principle” (Everything Goes According to Plan)—demonstrates that planners consistently underestimate critical variables, reinforcing the need for robust, statistically informed planning methodologies. **[Empirical]**
 
 ---
 
 ### 5. Overconfidence, Hindsight, and Availability Biases
 
-**Insight Statement:**  
+**Insight Statement:**
 A convergence of overconfidence, hindsight, and availability biases fosters an environment where leaders grossly underestimate uncertainty, thereby misjudging risks and reinforcing flawed decision-making processes. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders may rely too heavily on recent, emotionally charged, or easily recalled information, which skews their risk assessments and decision thresholds.  
-- **Underlying Beliefs & Biases:** The predisposition to overvalue readily available data leads to a narrowed focus that dismisses broader statistical evidence.  
-- **Expected vs. Actual Outcomes:** This biased reliance results in confidence intervals that fail to encompass the true variability of project outcomes.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders may rely too heavily on recent, emotionally charged, or easily recalled information, which skews their risk assessments and decision thresholds.
+- **Underlying Beliefs & Biases:** The predisposition to overvalue readily available data leads to a narrowed focus that dismisses broader statistical evidence.
+- **Expected vs. Actual Outcomes:** This biased reliance results in confidence intervals that fail to encompass the true variability of project outcomes.
 - **Broader Implications:** A disciplined review of comprehensive historical data is essential to counteract these overlapping biases and recalibrate risk estimations. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The study presents experiments where even experts, such as CFOs, significantly underestimated variance, thereby exemplifying how these intertwined biases operate in real-world scenarios and contribute to systemic underestimation of risks. **[Empirical]**
 
 ---
 
 ### 6. The Base Rate Fallacy
 
-**Insight Statement:**  
+**Insight Statement:**
 Neglecting base rate information in favor of case-specific details leads to the base rate fallacy, a distortion that critically skews project forecasts by ignoring statistically grounded norms. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives risk anchoring their decisions on anecdotal or isolated data, thereby failing to consider the broader performance patterns observed across similar projects.  
-- **Underlying Beliefs & Biases:** A focus on the immediate specifics of a project often obscures the relevance of historical base rates, leading to overconfident and misaligned projections.  
-- **Expected vs. Actual Outcomes:** This oversight frequently results in severe discrepancies between anticipated and actual project performance.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives risk anchoring their decisions on anecdotal or isolated data, thereby failing to consider the broader performance patterns observed across similar projects.
+- **Underlying Beliefs & Biases:** A focus on the immediate specifics of a project often obscures the relevance of historical base rates, leading to overconfident and misaligned projections.
+- **Expected vs. Actual Outcomes:** This oversight frequently results in severe discrepancies between anticipated and actual project performance.
 - **Broader Implications:** Integrating empirically derived base rates into forecasting processes is crucial for enhancing decision accuracy and managing risks. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper underpins its argument with data from 2,062 projects, demonstrating that cost and benefit estimates consistently deviate from the normative base rate of 1.0, thus empirically validating the pervasive impact of this bias. **[Empirical]**
 
 ---
 
 ### 7. Anchoring
 
-**Insight Statement:**  
+**Insight Statement:**
 Anchoring on initial or arbitrary information establishes a biased reference point that continues to distort subsequent judgments, even when new evidence emerges. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders may inadvertently fixate on early estimates or localized benchmarks that fail to represent the full spectrum of potential outcomes.  
-- **Underlying Beliefs & Biases:** The disproportionate influence of initial data leads to a persistent under-adjustment in response to new, contradicting information.  
-- **Expected vs. Actual Outcomes:** This anchoring effect results in a systematic underestimation of risks and an overreliance on flawed initial projections.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders may inadvertently fixate on early estimates or localized benchmarks that fail to represent the full spectrum of potential outcomes.
+- **Underlying Beliefs & Biases:** The disproportionate influence of initial data leads to a persistent under-adjustment in response to new, contradicting information.
+- **Expected vs. Actual Outcomes:** This anchoring effect results in a systematic underestimation of risks and an overreliance on flawed initial projections.
 - **Broader Implications:** Establishing anchors based on broad, empirically sound base rates can effectively counterbalance this bias and improve forecasting reliability. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper draws on classic experimental evidence and real-world project examples to illustrate how initial anchors—whether from previous project experiences or arbitrary figures—continue to skew decisions, reinforcing the necessity for data-driven recalibration. **[Empirical]**
 
 ---
 
 ### 8. Escalation of Commitment
 
-**Insight Statement:**  
+**Insight Statement:**
 Escalation of commitment drives executives to persist with failing projects due to prior investments, even in the face of mounting evidence that discontinuation would be the rational choice. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Decision-makers are often trapped by the sunk cost fallacy, which psychologically compels them to continue investing resources into underperforming projects.  
-- **Underlying Beliefs & Biases:** A reluctance to admit past errors and the emotional attachment to prior investments obscure objective reassessment of project viability.  
-- **Expected vs. Actual Outcomes:** Instead of mitigating losses, this bias leads to further financial and operational missteps, exacerbating project failures.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Decision-makers are often trapped by the sunk cost fallacy, which psychologically compels them to continue investing resources into underperforming projects.
+- **Underlying Beliefs & Biases:** A reluctance to admit past errors and the emotional attachment to prior investments obscure objective reassessment of project viability.
+- **Expected vs. Actual Outcomes:** Instead of mitigating losses, this bias leads to further financial and operational missteps, exacerbating project failures.
 - **Broader Implications:** Instituting systematic, objective project reviews can help break the cycle of escalation by challenging entrenched commitments and facilitating timely course corrections. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Through illustrative case studies—including examples from film production and infrastructure projects—the paper demonstrates how escalation of commitment not only perpetuates resource wastage but also compounds the adverse effects of preceding biases, thus calling for more disciplined decision frameworks. **[Empirical]**
 
 ---
@@ -675,21 +675,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -702,4 +702,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T23:40:20.725493+00:00)
 
 Flyvbjerg, B. (2021). Top ten behavioral biases in project management: An overview. *Project Management Journal, 52*(6), 531–546. https://doi.org/10.1177/87569728211049046
-

@@ -160,64 +160,64 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Insight 1
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Global supply chains are demonstrably vulnerable to geopolitical events, with disruptions directly translating into significant cost escalations and operational delays. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must decide between incurring immediate higher costs to redesign supply routes and the risk of severe disruptions if existing channels fail.  
-- **Underlying Beliefs & Biases:** There is a prevailing overconfidence in the stability of established logistics networks, despite clear indicators of increasing geopolitical volatility.  
-- **Expected vs. Actual Outcomes:** While decision-makers might expect moderate adjustments, empirical data (e.g., a 114% surge in the Shanghai Container Freight Index and additional transit days costing over $1 million per trip) reveal far graver impacts.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must decide between incurring immediate higher costs to redesign supply routes and the risk of severe disruptions if existing channels fail.
+- **Underlying Beliefs & Biases:** There is a prevailing overconfidence in the stability of established logistics networks, despite clear indicators of increasing geopolitical volatility.
+- **Expected vs. Actual Outcomes:** While decision-makers might expect moderate adjustments, empirical data (e.g., a 114% surge in the Shanghai Container Freight Index and additional transit days costing over $1 million per trip) reveal far graver impacts.
 - **Broader Implications:** This mismatch necessitates a strategic pivot towards more resilient, diversified supply chain infrastructures. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper provides concrete examples—such as route diversions during US/UK airstrikes in Yemen—that resulted in drastic increases in freight rates and extended transit times, underscoring the need for proactive risk management. **[Empirical]**
 
 ---
 
 ### Insight 2
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Effective supply chain management now demands flexible, adaptive strategies that can quickly respond to geopolitical disruptions. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders face the challenge of balancing the cost of immediate supply chain restructuring against the long-term benefits of resilience and flexibility.  
-- **Underlying Beliefs & Biases:** There is a tendency to underestimate rapid geopolitical shifts, which leads to delayed or insufficient strategic adaptations.  
-- **Expected vs. Actual Outcomes:** Although executives may anticipate minimal disruption under conventional planning, real-world outcomes show that companies employing adaptive tactics (such as production base diversification and advanced analytics) experience markedly improved continuity.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders face the challenge of balancing the cost of immediate supply chain restructuring against the long-term benefits of resilience and flexibility.
+- **Underlying Beliefs & Biases:** There is a tendency to underestimate rapid geopolitical shifts, which leads to delayed or insufficient strategic adaptations.
+- **Expected vs. Actual Outcomes:** Although executives may anticipate minimal disruption under conventional planning, real-world outcomes show that companies employing adaptive tactics (such as production base diversification and advanced analytics) experience markedly improved continuity.
 - **Broader Implications:** The necessity for continuous risk assessment and scenario planning becomes clear, urging a shift in strategic focus from cost-efficiency to dynamic resilience. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The article details multiple case studies where companies reoriented their supply chains by diversifying suppliers and integrating predictive analytics, thus validating the benefits of adaptive strategies despite the inherent short-term costs. **[Empirical]**
 
 ---
 
 ### Insight 3
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Technological innovations like automation and digitalization offer substantial benefits in mitigating geopolitical risks, yet an overreliance on these solutions can introduce new vulnerabilities, such as cyber security threats and data integration challenges. **[Inferred]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Decision-makers must weigh the promise of technology-driven resilience against potential pitfalls, including the risk of cyber attacks and the complexities of integrating vast data systems.  
-- **Underlying Beliefs & Biases:** There is an implicit bias toward viewing technology as a cure-all, which may obscure the emerging risks associated with high-tech dependency.  
-- **Expected vs. Actual Outcomes:** While initial technological deployments may reduce supply interruptions, they also create a dual-edged challenge by exposing supply chains to sophisticated cyber threats.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Decision-makers must weigh the promise of technology-driven resilience against potential pitfalls, including the risk of cyber attacks and the complexities of integrating vast data systems.
+- **Underlying Beliefs & Biases:** There is an implicit bias toward viewing technology as a cure-all, which may obscure the emerging risks associated with high-tech dependency.
+- **Expected vs. Actual Outcomes:** While initial technological deployments may reduce supply interruptions, they also create a dual-edged challenge by exposing supply chains to sophisticated cyber threats.
 - **Broader Implications:** A balanced approach is essential, one that incorporates robust cyber security measures alongside digital transformation initiatives. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical observations in the study highlight instances where digital platforms improved operational flexibility; concurrently, experts like Caldara (2022) note that rapid technological advances necessitate strengthened cyber security protocols, pointing to the inherent trade-offs in technological adoption. **[Empirical]**
 
 ---
 
 ### Insight 4
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Geopolitical risks are increasingly intertwined with environmental challenges, compelling companies to integrate sustainable practices into their supply chain strategies as both a risk mitigation tool and a competitive differentiator. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders must navigate the tension between the higher upfront costs of sustainable supply chain redesign and the long-term benefits of reduced environmental impact and enhanced market competitiveness.  
-- **Underlying Beliefs & Biases:** There is a common bias among some executives to prioritize short-term cost savings over environmental stewardship, despite emerging evidence of long-term strategic value.  
-- **Expected vs. Actual Outcomes:** Although initial investments in sustainability may seem burdensome, integrated renewable energy sources and resource-efficient practices are shown to bolster resilience and secure competitive advantage over time.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders must navigate the tension between the higher upfront costs of sustainable supply chain redesign and the long-term benefits of reduced environmental impact and enhanced market competitiveness.
+- **Underlying Beliefs & Biases:** There is a common bias among some executives to prioritize short-term cost savings over environmental stewardship, despite emerging evidence of long-term strategic value.
+- **Expected vs. Actual Outcomes:** Although initial investments in sustainability may seem burdensome, integrated renewable energy sources and resource-efficient practices are shown to bolster resilience and secure competitive advantage over time.
 - **Broader Implications:** This shift signals a broader transformation in global supply chain management, where environmental responsibility becomes a core strategic pillar. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The article leverages studies by Dutta (2022) and Adra (2023) to demonstrate that sustainable practices, when integrated into logistics strategies, can mitigate risks while enhancing long-term operational stability—even as they demand significant initial capital investment. **[Empirical]**
 
 ---
@@ -227,7 +227,7 @@ The article leverages studies by Dutta (2022) and Adra (2023) to demonstrate tha
 - **Coverage Fit:** High — The paper robustly addresses the interplay between geopolitical risks and global supply chain management, directly informing strategic executive decision-making.
 - **Bias & Cognitive Modeling Content:** Implied Only — While the paper primarily focuses on empirical impacts and management strategies, it indirectly suggests that executive overconfidence and underestimation of risk may hinder effective response.
 - **Clarity of Methods & Outcomes:** Clear — The methodology is well outlined through comprehensive literature reviews, data analyses, and case study examinations.
-- **Areas with No Data:**  
+- **Areas with No Data:**
     - Direct empirical analysis of executive cognitive biases and detailed internal decision-making processes was not explicitly addressed, though implications can be inferred from the strategic recommendations.
 
 ## You (2025-03-23T22:47:13.374000+00:00)
@@ -493,21 +493,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -520,4 +520,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T22:49:30.914444+00:00)
 
 Rasshyvalov, D., Portnoi, Y., Sigaieva, T., Alboshchii, O., & Rozumnyi, O. (2024). Navigating geopolitical risks: Implications for global supply chain management. *Multidisciplinary Reviews, 7*(e2024spe017). https://doi.org/10.31893/multirev.2024spe017
-

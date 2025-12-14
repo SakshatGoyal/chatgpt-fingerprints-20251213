@@ -26,12 +26,12 @@ Let me know if you need to highlight only the second and beyond instances, or if
 
 ## You (2025-04-09T19:26:12.065000+00:00)
 
-I have 2 sheets. 
+I have 2 sheets.
 
 'Scenario Tagging' - sheet 1 (has columns from A to H)
 'Industry Tagging' - sheet 2 (has columns from A to H)
 
-I want to bring all the values from sheet 1 to sheet 2. both sheets have the same values in column A, but in its own random order. 
+I want to bring all the values from sheet 1 to sheet 2. both sheets have the same values in column A, but in its own random order.
 
 Lets start from row 1. I want all values from B to H from sheet 1 to be copied into sheet 2, based on the matching values in column A. matching is critical.
 
@@ -160,4 +160,3 @@ Here are the **formulas to paste into `'Scenario Tagging'` (Sheet 1)** to bring 
 - Drag down each formula as far as needed to match your data in Column A.
 
 Let me know if you want to prevent circular references or maintain original data priority between the two sheets.
-

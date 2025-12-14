@@ -2,7 +2,7 @@
 
 ## You (2025-04-20T19:31:36.636000+00:00)
 
-help me ideate different solutions for how an AI agent would help augment executive decision making. 
+help me ideate different solutions for how an AI agent would help augment executive decision making.
 
 limitaitons of this agent include the inability to integrate with an executive's organizational or internal data. this will be an independent agent working with a decision maker at a personal level.
 
@@ -159,4 +159,3 @@ Executives need to understand *why* the agent offers what it does.
 ---
 
 Would you like to workshop how these might map to product principles or be used to evaluate early concepts? Or co-create a north star story for how the agent fits into an executive’s week?
-

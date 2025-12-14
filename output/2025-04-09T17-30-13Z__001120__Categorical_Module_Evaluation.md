@@ -62,25 +62,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:30:15.302060+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 5 - C4-I4,Value Clash,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 6 - C4-I4,Cognitive Fog,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 7 - C4-I4,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Lean vs. Unique,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 8 - C4-I4,Value Clash,Evidence Frame,Future-Proofed,Unknown,Global vs. Local,Governance Shift,Outside Blindspot  
-CATEGORICAL MODULE 9 - C4-I4,Now vs. Later,Capability Frame,Tested First,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 10 - C4-I4,Value Clash,Evidence Frame,Outside Approval,Surface Alignment,Lean vs. Unique,Lost Direction,Legacy Hold  
-CATEGORICAL MODULE 11 - C4-I4,Value Clash,Evidence Frame,Tested First,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 12 - C4-I4,System Tangle,Ecosystem Frame,Unknown,Unknown,Plan vs. React,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 13 - C4-I4,Value Clash,Capability Frame,Unknown,Surface Alignment,Now vs. Later,Overstretched Org,Short-Term Pull  
-CATEGORICAL MODULE 15 - C4-I4,Cognitive Fog,Capability Frame,Unknown,Surface Alignment,Vision vs. Reality,Culture Clash,Comfort Bias  
-CATEGORICAL MODULE 16 - C4-I4,System Tangle,Capability Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 25 - C4-I4,Value Clash,Capability Frame,Unknown,Surface Alignment,Now vs. Later,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 30 - C4-I4,Value Clash,Evidence Frame,Locked In,True Clarity,Plan vs. React,Adaptive Growth,Legacy Hold  
-CATEGORICAL MODULE 36 - C4-I4,Unknown,Capability Frame,Locked In,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 41 - C4-I4,Value Clash,Values Frame,Outside Approval,Unknown,Now vs. Later,Governance Shift,Short-Term Pull  
-CATEGORICAL MODULE 17 - C4-I5,Value Clash,Values Frame,Unknown,Surface Alignment,Global vs. Local,Culture Clash,Outside Blindspot  
-CATEGORICAL MODULE 18 - C4-I5,Cognitive Fog,Unknown,Unknown,Unknown,Bold vs. Safe,Execution Lag,Belief Bubble  
-CATEGORICAL MODULE 24 - C4-I5,Unknown,Capability Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 27 - C4-I5,Unknown,Capability Frame,Tested First,Unknown,Plan vs. React,Adaptive Growth,Unknown  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 5 - C4-I4,Value Clash,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 6 - C4-I4,Cognitive Fog,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 7 - C4-I4,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Lean vs. Unique,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 8 - C4-I4,Value Clash,Evidence Frame,Future-Proofed,Unknown,Global vs. Local,Governance Shift,Outside Blindspot
+CATEGORICAL MODULE 9 - C4-I4,Now vs. Later,Capability Frame,Tested First,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 10 - C4-I4,Value Clash,Evidence Frame,Outside Approval,Surface Alignment,Lean vs. Unique,Lost Direction,Legacy Hold
+CATEGORICAL MODULE 11 - C4-I4,Value Clash,Evidence Frame,Tested First,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 12 - C4-I4,System Tangle,Ecosystem Frame,Unknown,Unknown,Plan vs. React,Adaptive Growth,Unknown
+CATEGORICAL MODULE 13 - C4-I4,Value Clash,Capability Frame,Unknown,Surface Alignment,Now vs. Later,Overstretched Org,Short-Term Pull
+CATEGORICAL MODULE 15 - C4-I4,Cognitive Fog,Capability Frame,Unknown,Surface Alignment,Vision vs. Reality,Culture Clash,Comfort Bias
+CATEGORICAL MODULE 16 - C4-I4,System Tangle,Capability Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 25 - C4-I4,Value Clash,Capability Frame,Unknown,Surface Alignment,Now vs. Later,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 30 - C4-I4,Value Clash,Evidence Frame,Locked In,True Clarity,Plan vs. React,Adaptive Growth,Legacy Hold
+CATEGORICAL MODULE 36 - C4-I4,Unknown,Capability Frame,Locked In,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 41 - C4-I4,Value Clash,Values Frame,Outside Approval,Unknown,Now vs. Later,Governance Shift,Short-Term Pull
+CATEGORICAL MODULE 17 - C4-I5,Value Clash,Values Frame,Unknown,Surface Alignment,Global vs. Local,Culture Clash,Outside Blindspot
+CATEGORICAL MODULE 18 - C4-I5,Cognitive Fog,Unknown,Unknown,Unknown,Bold vs. Safe,Execution Lag,Belief Bubble
+CATEGORICAL MODULE 24 - C4-I5,Unknown,Capability Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Unknown
+CATEGORICAL MODULE 27 - C4-I5,Unknown,Capability Frame,Tested First,Unknown,Plan vs. React,Adaptive Growth,Unknown
 CATEGORICAL MODULE 4 - C4-I6,Value Clash,Ecosystem Frame,Outside Approval,Surface Alignment,Global vs. Local,Governance Shift,Silo Drag
-

@@ -376,4 +376,3 @@ This is where conversation becomes jazz. You drift—not to avoid, but to expand
 Each of these eight moves now holds a balance of power and tenderness, intrigue and intimacy. It’s still the *Velvet Knife*, but it cuts with resonance, not aggression.
 
 What do you think, maestro? Is this version hitting the note you were aiming for—or shall we add a bit more smoke to the mirror?
-

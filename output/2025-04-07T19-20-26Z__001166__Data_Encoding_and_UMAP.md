@@ -33,7 +33,7 @@ Convert the categorical tag columns in the CSV file "Tagging - Business Strategy
 - This transformation is part of a larger clustering pipeline and must preserve tag semantics for interpretability.
 
 # File Location:
-Input file is located at:  
+Input file is located at:
 `/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Data Viz experiment/Tagging - Business Strategy.csv`
 
 Simulate this pipeline in Python, using pandas, scikit-learn, and umap-learn as needed. Return or save the outputs as described above.
@@ -71,13 +71,13 @@ if one_hot_df.shape[1] > 100:
     # Apply UMAP with default parameters
     reducer = umap.UMAP(n_neighbors=15, min_dist=0.1, metric='euclidean', n_components=2)
     umap_components = reducer.fit_transform(one_hot_df)
-    
+
     # Create a DataFrame with the UMAP components
     umap_df = pd.DataFrame(umap_components, columns=["UMAP_1", "UMAP_2"])
-    
+
     # Combine Module ID with the UMAP components
     encoded_umap = pd.concat([module_id, umap_df], axis=1)
-    
+
     # Save the UMAP-reduced data
     encoded_umap.to_csv("encoded_umap.csv", index=False)
     print("Encoded UMAP shape:", encoded_umap.shape)
@@ -87,16 +87,16 @@ else:
 
 ### Explanation
 
-1. **Reading and Splitting Data:**  
+1. **Reading and Splitting Data:**
    The script reads the CSV from the given path, then separates the `Module ID` (which is left unchanged) from the other categorical columns.
 
-2. **One-Hot Encoding:**  
+2. **One-Hot Encoding:**
    The categorical columns are transformed into a binary (one-hot encoded) format using `pd.get_dummies()`. The resulting DataFrame is concatenated back with the `Module ID` and saved as `encoded_data.csv`.
 
-3. **Optional UMAP Dimensionality Reduction:**  
+3. **Optional UMAP Dimensionality Reduction:**
    The script checks if the one-hot encoded features exceed 100 columns. If yes, UMAP (with `n_neighbors=15`, `min_dist=0.1`, and `metric='euclidean'`) is applied to reduce the feature space to 2 components. These UMAP components are then combined with the `Module ID` and saved as `encoded_umap.csv`.
 
-4. **Shape Printing:**  
+4. **Shape Printing:**
    Finally, the shapes of both final matrices are printed for quick inspection.
 
 This pipeline meets the requirements by preserving the identifier, one-hot encoding the categories without imposing any false numerical order, and only applying UMAP when the feature space is sufficiently high-dimensional.
@@ -105,7 +105,7 @@ This pipeline meets the requirements by preserving the identifier, one-hot encod
 
 ok could you help me out with some basic stuff? like, what should i call this file, how should i run it, etc...
 
-I'm gonna save it in this folder. 
+I'm gonna save it in this folder.
 
 /Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Data Viz experiment/Business-Level Patterns
 
@@ -117,14 +117,14 @@ Absolutely! Here's how to set it up and run everything step by step.
 
 ### ✅ 1. **Create the Python script**
 
-**File name suggestion:**  
+**File name suggestion:**
 Call it something clear like:
 
 ```
 preprocess_tags_for_clustering.py
 ```
 
-**Full path to save it:**  
+**Full path to save it:**
 ```
 /Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Data Viz experiment/Business-Level Patterns/preprocess_tags_for_clustering.py
 ```
@@ -162,13 +162,13 @@ if one_hot_df.shape[1] > 100:
     # Apply UMAP with default parameters
     reducer = umap.UMAP(n_neighbors=15, min_dist=0.1, metric='euclidean', n_components=2)
     umap_components = reducer.fit_transform(one_hot_df)
-    
+
     # Create a DataFrame with the UMAP components
     umap_df = pd.DataFrame(umap_components, columns=["UMAP_1", "UMAP_2"])
-    
+
     # Combine Module ID with the UMAP components
     encoded_umap = pd.concat([module_id, umap_df], axis=1)
-    
+
     # Save the UMAP-reduced data
     encoded_umap.to_csv("encoded_umap.csv", index=False)
     print("Encoded UMAP shape:", encoded_umap.shape)
@@ -369,7 +369,6 @@ Let me know if you'd like me to help test if UMAP is installed correctly or if y
 does the program take time? I mean i ran it a few minutes ago, still nothing
 
 
-
 sakshatgoyal@MacBook-Pro Business-Level Patterns % python3 -m venv .venv
 sakshatgoyal@MacBook-Pro Business-Level Patterns % source .venv/bin/activate
 (.venv) sakshatgoyal@MacBook-Pro Business-Level Patterns % pip install pandas umap-learn
@@ -532,12 +531,12 @@ Here’s what just happened:
 
 ### ✅ Summary of Results
 
-- **One-hot encoded data:**  
-  → `encoded_data.csv`  
+- **One-hot encoded data:**
+  → `encoded_data.csv`
   → Shape: **259 rows × 321 columns**
 
-- **UMAP-reduced data:**  
-  → `encoded_umap.csv`  
+- **UMAP-reduced data:**
+  → `encoded_umap.csv`
   → Shape: **259 rows × 3 columns** (including `Module ID`, plus 2 UMAP components)
 
 - **That warning** you saw:
@@ -557,4 +556,3 @@ Let me know if you'd like to:
 - Or check which original tags drive each cluster
 
 Happy to guide you step by step!
-

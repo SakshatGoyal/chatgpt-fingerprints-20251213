@@ -18,11 +18,11 @@ Great initiative—and you're not alone in wanting to rediscover past threads of
 
 ### 🔍 Let’s clarify your goals a bit further before building the prompt:
 
-1. **What kinds of initiatives do you want it to identify?**  
-   Beyond things like “passive income” or “personal news feed,” are you open to *any kind* of recurring interest or intention?  
+1. **What kinds of initiatives do you want it to identify?**
+   Beyond things like “passive income” or “personal news feed,” are you open to *any kind* of recurring interest or intention?
    (e.g., habits, writing projects, health experiments, app ideas, productivity systems?)
 
-2. **How broad or specific should GPT-4o be?**  
+2. **How broad or specific should GPT-4o be?**
    Should it include fleeting mentions of ideas ("maybe I should start a blog") or only things where you clearly began taking action or outlined steps?
 
 3. **Do you want the output to just list initiatives? Or also include:**
@@ -50,9 +50,9 @@ Once we clarify a few of those, I can draft a precise prompt. But based on what 
 
 🧠 **Working Draft Prompt Concept** (just for review, *not final yet*):
 
-> **You are my "Initiative Tracker."**  
-> Go through the entire chat history I’ve had with you (as far back as you can access) and identify all the **personal projects, goals, or initiatives** I started but may have left unfinished.  
-> These can include things like side hustles, app ideas, experiments, routines, learning goals, or content creation plans.  
+> **You are my "Initiative Tracker."**
+> Go through the entire chat history I’ve had with you (as far back as you can access) and identify all the **personal projects, goals, or initiatives** I started but may have left unfinished.
+> These can include things like side hustles, app ideas, experiments, routines, learning goals, or content creation plans.
 > For each initiative, list:
 > 1. A short name or label (e.g. “Passive Income Research”)
 > 2. The date(s) or time frame it was discussed (if possible)
@@ -113,8 +113,8 @@ Great—here is your **final crafted prompt**, fully optimized for GPT-4o:
 
 ---
 
-### 🧠 **Prompt: Rediscover My Past Initiatives**  
-**Persona**: *Friendly Memory Assistant*  
+### 🧠 **Prompt: Rediscover My Past Initiatives**
+**Persona**: *Friendly Memory Assistant*
 **Objective**: Help me rediscover any personal initiatives or recurring interests I may have started in past conversations with you—especially those I might have left unfinished or forgotten.
 
 ---
@@ -136,16 +136,16 @@ These might include:
 
 **For each initiative you find, provide the following**:
 
-1. **Name**: A short, clear label for the initiative  
-2. **Summary**: A 1–2 sentence recap of what I said or explored  
-3. **Status** *(if clear)*: Note whether I was just brainstorming, planning, or had taken some early action  
+1. **Name**: A short, clear label for the initiative
+2. **Summary**: A 1–2 sentence recap of what I said or explored
+3. **Status** *(if clear)*: Note whether I was just brainstorming, planning, or had taken some early action
 4. *(Optional)* One light suggestion on how I might pick it back up (optional—only if it fits the tone)
 
 ---
 
 **Tone**: Friendly, curious, and conversational. You’re not judging—just helping me reconnect with ideas I may want to revisit.
 
-**Output Format**:  
+**Output Format**:
 Use a clean bullet-point list or numbered list. Each item should be easy to skim.
 
 ---
@@ -175,19 +175,18 @@ Absolutely. Here's the streamlined version of the prompt, ready for you to **cop
 Hi! Could you go through my chat history from the past 3 months (or as far back as you can access) and help me rediscover any **initiatives, projects, or recurring interests** I started but may have forgotten or left unfinished?
 
 These could include things like:
-- Side hustles or business ideas  
-- Personal experiments or routines (like productivity systems, health habits)  
-- Learning goals I talked about (e.g., “I want to learn X”)  
-- Tools I wanted to build (e.g., a personal news feed or dashboard)  
+- Side hustles or business ideas
+- Personal experiments or routines (like productivity systems, health habits)
+- Learning goals I talked about (e.g., “I want to learn X”)
+- Tools I wanted to build (e.g., a personal news feed or dashboard)
 - Any other creative or intentional efforts I seemed to start
 
 For each one you find, just give me:
-1. A short name or label  
-2. A 1–2 sentence summary of what I was doing or saying  
-3. (If it’s clear) what stage I was at—just thinking, planning, or doing  
+1. A short name or label
+2. A 1–2 sentence summary of what I was doing or saying
+3. (If it’s clear) what stage I was at—just thinking, planning, or doing
 4. (Optional) a gentle suggestion on how I might pick it up again
 
 Friendly tone, please! And don’t make anything up—only include things I actually talked about. If you’re unsure whether something was a full initiative, feel free to add it in a “Maybe” section at the end.
 
 Thanks :)
-

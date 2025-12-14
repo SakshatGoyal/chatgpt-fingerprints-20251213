@@ -16,7 +16,7 @@ Your task is to read each module in full and return a **single scoring table**, 
 4. Multiply each score by its assigned weight.
 5. Return:
    - A full table showing score, multiplier, and weighted value.
-   - Then on a new line:  
+   - Then on a new line:
      `CATEGORICAL MODULE XX - CX-IX = [Final Score]`
 
 ❗Do NOT include:
@@ -78,4 +78,3 @@ Each module is conceptually independent. Do not carry over assumptions, scoring 
 | Thematic Rarity | 4 | 3 | 12 |
 
 CATEGORICAL MODULE 5 - C2-I1 = 170
-

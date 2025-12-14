@@ -2,10 +2,10 @@
 
 ## You (2025-03-16T21:22:39.892000+00:00)
 
-Hye Elliot help me build a prompt. 
+Hye Elliot help me build a prompt.
 
 
-I want to conduct an extensive research on 
+I want to conduct an extensive research on
 
 Dr. Padmini Shamasundara, MD
 Psychiatrist
@@ -77,7 +77,7 @@ A:Yes, try looking for comments that indicate such behavior
 
 Audience and Formatting:
 Is this research purely for your personal evaluation, or might you also use it in discussions with healthcare professionals or family members?
-A:This is for me. I'm the patient. 
+A:This is for me. I'm the patient.
 
 Do you have a preferred format for the returned response (e.g., structured bullet points, detailed paragraphs, a tabular comparison, JSON)?
 A: Structured bullet points
@@ -90,11 +90,8 @@ A: yeah, keep it restricted to her professional practice.
 
 Here's your detailed, structured prompt optimized for the O1/O3 models, based on your clarified objectives:
 
-## ChatGPT (2025-03-16T21:26:40.809824+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"dr_shamasundara_eval\",\"type\":\"document\",\"content\":\"**Structured Prompt for Extensive Research on Dr. Padmini Shamasundara, MD, Psychiatrist (California)**\\n\\n**Goal:**\\nConduct an exhaustive, detailed analysis of Dr. Padmini Shamasundara's professional practice as a psychiatrist, specifically emphasizing her expertise in evaluating and treating ADHD/ADD.\\n\\n**Return Format:**\\n- Structured bullet points organized under clearly defined headers\\n- Easy to navigate sections for quick reference\\n\\n**Research Areas:**\\n1. **Educational Background and Credentials:**\\n   - Degrees and institutions attended\\n   - Specializations or additional training related to ADHD\\n   - Board certifications and licenses (with dates and validity status)\\n\\n2. **Professional Experience:**\\n   - Current practice details and affiliations\\n   - Past positions held (including hospitals, clinics, teaching roles)\\n   - Clinical publications, if any, particularly those related to ADHD or psychiatric conditions\\n\\n3. **Expertise in ADHD/ADD:**\\n   - Specific approaches or methodologies used in diagnosis and treatment\\n   - Types of treatments prescribed (medications, therapy methods, holistic treatments)\\n   - Recognized expertise, awards, or endorsements from professional organizations or peers specifically related to ADHD\\n\\n4. **Patient Feedback and Reviews:**\\n   - Summarize patient reviews from official and informal sources (Healthgrades, Vitals, Google Reviews)\\n   - Identify common themes in patient experiences (positive and negative)\\n   - Explicitly highlight feedback regarding:\\n     - Treatment effectiveness and patient satisfaction\\n     - Communication style and bedside manner\\n     - Any reports of \\\"sticky doctor\\\" behavior (excessive follow-ups without clear justification)\\n\\n5. **Disciplinary Actions and Legal History:**\\n   - Any disciplinary actions or complaints recorded by medical boards or licensing authorities\\n   - Legal cases or malpractice suits (past or present), including outcomes\\n\\n6. **Professional Reputation:**\\n   - Peer recognition or critiques (professional endorsements, evaluations from colleagues)\\n   - Any notable professional controversies or public concerns regarding her practice\\n\\n**Warnings and Constraints:**\\n- Focus strictly on professional details; exclude personal life or unrelated information.\\n- Provide only verified or clearly indicated patient-generated sources.\\n- Maintain objectivity; clearly differentiate between factual data and subjective patient reviews.\\n\\n**Context Dump:**\\n- User intends to visit Dr. Shamasundara soon for ADHD evaluation and potential treatment.\\n- The research is exclusively for the patient's personal preparation and decision-making process.\\n\\n**Self-Check:**\\n- Verify accuracy of credentials and disciplinary/legal information against official records.\\n- Ensure the feedback section explicitly identifies potential \\\"sticky doctor\\\" behaviors clearly.\\n- Confirm exhaustive coverage of available sources before returning the final structured bullet points.\"}"}
 
 ## ChatGPT (2025-03-16T21:27:20.222776+00:00)
 
 Please let me know if there's anything further you'd like to adjust or expand upon!
-

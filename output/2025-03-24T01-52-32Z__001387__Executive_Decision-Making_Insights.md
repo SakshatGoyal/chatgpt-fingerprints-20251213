@@ -149,9 +149,9 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:** The paper synthesizes empirical findings on naturalistic decision-making in high-risk environments, focusing on decision strategies (especially recognition-primed decision-making, or RPD), the influence of time pressure, stress, uncertainty, and the origins of decision errors.  
-- **Core Motivations:** The review is driven by the need to understand how skilled professionals—from healthcare to military and aviation—navigate dynamic, high-risk events. It seeks to inform the development of enhanced training protocols and decision support systems that could improve outcomes in critical situations.  
-- **Methodological Clarification:** A systematic literature review of 32 empiric studies was conducted using a structured qualitative rubric. The diverse studies were coded for common themes, with iterative consensus among reviewers helping to distill key decision-making components.  
+- **Key Themes:** The paper synthesizes empirical findings on naturalistic decision-making in high-risk environments, focusing on decision strategies (especially recognition-primed decision-making, or RPD), the influence of time pressure, stress, uncertainty, and the origins of decision errors.
+- **Core Motivations:** The review is driven by the need to understand how skilled professionals—from healthcare to military and aviation—navigate dynamic, high-risk events. It seeks to inform the development of enhanced training protocols and decision support systems that could improve outcomes in critical situations.
+- **Methodological Clarification:** A systematic literature review of 32 empiric studies was conducted using a structured qualitative rubric. The diverse studies were coded for common themes, with iterative consensus among reviewers helping to distill key decision-making components.
 - **Relevance Assessment:** The findings are directly relevant to executives and senior leaders who face crisis management decisions. Insights into intuitive versus analytical approaches, the role of stress and time constraints, and the need for standardized decision taxonomies offer actionable guidance for enhancing strategic decision-making in high-stakes contexts.
 
 ## Grounded Executive Insights
@@ -160,80 +160,80 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Reliance on Recognition-Primed Decision-Making (RPD)
 
-**Insight Statement:**  
+**Insight Statement:**
 Skilled decision-makers predominantly rely on recognition-primed decision-making (RPD) in high-risk environments, indicating that rapid, intuition-based responses often drive effective crisis management. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must balance the speed of intuitive judgments with the risk of overlooking alternative courses of action.  
-- **Underlying Beliefs & Biases:** Overreliance on past experiences may result in anchoring bias, potentially narrowing the perceived range of viable options.  
-- **Expected vs. Actual Outcomes:** While RPD can enhance response speed, it may also preclude deeper analysis when facing unprecedented challenges.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must balance the speed of intuitive judgments with the risk of overlooking alternative courses of action.
+- **Underlying Beliefs & Biases:** Overreliance on past experiences may result in anchoring bias, potentially narrowing the perceived range of viable options.
+- **Expected vs. Actual Outcomes:** While RPD can enhance response speed, it may also preclude deeper analysis when facing unprecedented challenges.
 - **Broader Implications:** Organizations should complement RPD training with frameworks that encourage periodic reassessment to mitigate risks associated with cognitive overconfidence. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The review reports that all analyzed studies identified RPD as the dominant strategy—with data showing, for instance, that naval officers implemented 78% of recognition-generated actions without further evaluation—underscoring its prevalence in urgent decision-making. **[Empirical]**
 
 ---
 
 ### 2. Impact of Time Pressure on Decision-Making
 
-**Insight Statement:**  
+**Insight Statement:**
 Time pressure critically constrains decision-makers by limiting the cognitive resources available for thorough analysis, thereby driving a shift toward more automatic, less deliberative processes. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives often face situations where swift decisions are imperative, forcing a trade-off between speed and comprehensive evaluation.  
-- **Underlying Beliefs & Biases:** High time pressure can intensify reliance on initial cues, potentially reinforcing confirmation bias and neglecting alternative perspectives.  
-- **Expected vs. Actual Outcomes:** Empirical evidence indicates that under severe time constraints, decision quality may decline, as seen in simulation studies with pilots and healthcare professionals.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives often face situations where swift decisions are imperative, forcing a trade-off between speed and comprehensive evaluation.
+- **Underlying Beliefs & Biases:** High time pressure can intensify reliance on initial cues, potentially reinforcing confirmation bias and neglecting alternative perspectives.
+- **Expected vs. Actual Outcomes:** Empirical evidence indicates that under severe time constraints, decision quality may decline, as seen in simulation studies with pilots and healthcare professionals.
 - **Broader Implications:** Investment in decision support tools and simulation-based training can help leaders better manage time-critical scenarios and improve overall decision accuracy. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Multiple studies within the review demonstrate that as time pressure increases, professionals drop non-critical tasks and rely on fewer informational cues—resulting in measurable declines in performance accuracy during simulations. **[Empirical]**
 
 ---
 
 ### 3. The Dual-Edged Role of Stress and Uncertainty
 
-**Insight Statement:**  
+**Insight Statement:**
 High levels of stress and pervasive uncertainty impair decision-making by disrupting cognitive function; however, experienced professionals leverage adaptive strategies such as pre-priming and mental simulation to counterbalance these adverse effects. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must navigate the twin challenges of stress and uncertainty, which can cloud judgment and lead to error-prone decisions.  
-- **Underlying Beliefs & Biases:** Stress may induce tunnel vision or fixation errors, while uncertainty can trigger excessive risk aversion or premature closure on a single hypothesis.  
-- **Expected vs. Actual Outcomes:** While the literature confirms that stress undermines cognitive clarity, it also shows that training and experience enable professionals to mitigate these effects effectively.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must navigate the twin challenges of stress and uncertainty, which can cloud judgment and lead to error-prone decisions.
+- **Underlying Beliefs & Biases:** Stress may induce tunnel vision or fixation errors, while uncertainty can trigger excessive risk aversion or premature closure on a single hypothesis.
+- **Expected vs. Actual Outcomes:** While the literature confirms that stress undermines cognitive clarity, it also shows that training and experience enable professionals to mitigate these effects effectively.
 - **Broader Implications:** Incorporating stress inoculation and uncertainty management into leadership training could enhance resilience and decision quality during crises. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The review highlights several studies where high stress resulted in impaired logical reasoning and increased fixation errors. Conversely, experienced practitioners demonstrated coping techniques—such as initiating mental rehearsals upon receiving early situational cues—that improved decision outcomes even under duress. **[Empirical]**
 
 ---
 
 ### 4. Origins and Management of Decision-Making Errors
 
-**Insight Statement:**  
+**Insight Statement:**
 Decision-making errors in high-risk settings are largely driven by intrinsic cognitive limitations, such as constrained attention and working memory, compounded by external pressures like stress and time constraints. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must achieve rapid responses while minimizing errors that can arise from cognitive overload.  
-- **Underlying Beliefs & Biases:** Overconfidence and habitual reliance on intuition can obscure the recognition of errors, allowing suboptimal decisions to persist.  
-- **Expected vs. Actual Outcomes:** Despite extensive experience, even highly skilled professionals are prone to fixation and other errors, emphasizing the need for systematic error management.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must achieve rapid responses while minimizing errors that can arise from cognitive overload.
+- **Underlying Beliefs & Biases:** Overconfidence and habitual reliance on intuition can obscure the recognition of errors, allowing suboptimal decisions to persist.
+- **Expected vs. Actual Outcomes:** Despite extensive experience, even highly skilled professionals are prone to fixation and other errors, emphasizing the need for systematic error management.
 - **Broader Implications:** Developing robust error management protocols and decision support systems is critical to mitigate cognitive biases and enhance overall decision accuracy in high-risk environments. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Empirical analyses within the review consistently attribute decision errors to factors like limited working memory and attentional lapses. Case studies in aviation and healthcare reveal that even seasoned professionals can fall prey to such errors when under significant pressure. **[Empirical]**
 
 ---
 
 ### 5. Research Gaps and Future Directions
 
-**Insight Statement:**  
+**Insight Statement:**
 The review identifies a significant research gap: the lack of a standardized taxonomy for decision-making strategies, which limits cross-domain comparisons and the development of tailored training interventions. **[Inferred]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Without a clear, standardized framework, executives struggle to benchmark and refine decision-making processes across varied contexts.  
-- **Underlying Beliefs & Biases:** The current diversity in terminology and methodological approaches may obscure critical differences between intuitive and analytical strategies.  
-- **Expected vs. Actual Outcomes:** The absence of uniform definitions hampers the translation of academic insights into practical, actionable strategies for leadership training.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Without a clear, standardized framework, executives struggle to benchmark and refine decision-making processes across varied contexts.
+- **Underlying Beliefs & Biases:** The current diversity in terminology and methodological approaches may obscure critical differences between intuitive and analytical strategies.
+- **Expected vs. Actual Outcomes:** The absence of uniform definitions hampers the translation of academic insights into practical, actionable strategies for leadership training.
 - **Broader Implications:** Future research aimed at developing an integrated taxonomy could significantly enhance the design of decision support technologies and executive training programs, ultimately leading to more resilient organizational decision-making. **[Speculative]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The authors explicitly note that the varied labels and lack of standardized definitions across studies present a barrier to understanding the boundary conditions of different decision-making strategies, thereby limiting their practical applicability. **[Empirical]**
 
 ---
@@ -243,8 +243,8 @@ The authors explicitly note that the varied labels and lack of standardized defi
 - **Coverage Fit:** High — The paper provides a comprehensive review of decision-making processes in high-risk events across multiple domains, offering valuable insights for understanding executive decision-making under crisis conditions.
 - **Bias & Cognitive Modeling Content:** Present — Detailed analysis of cognitive processes, decision strategies, and contributing biases are thoroughly examined.
 - **Clarity of Methods & Outcomes:** Clear — The systematic review methodology and thematic synthesis are well-articulated, enhancing the reliability of the findings.
-- **Areas with No Data:**  
-  - Insight Statement: While the paper provides rich empirical detail on naturalistic decision-making, it offers limited direct data on executive-level corporate decision-making processes.  
+- **Areas with No Data:**
+  - Insight Statement: While the paper provides rich empirical detail on naturalistic decision-making, it offers limited direct data on executive-level corporate decision-making processes.
   - Executive Decision-Making Context: Specific insights on long-term strategic outcomes in non-clinical corporate settings are not addressed.
 
 ## You (2025-03-24T01:53:19.070000+00:00)
@@ -533,21 +533,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -560,4 +560,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T01:56:03.622006+00:00)
 
 Reale, C., Salwei, M. E., Militello, L. G., Weinger, M. B., Burden, A., Sushereba, C., Torsher, L. C., Andreae, M. H., Gaba, D. M., McIvor, W. R., & Andreae, M. H. (2023). Decision-making during high-risk events: A systematic literature review. *Journal of Cognitive Engineering and Decision Making*, 17(2), 188–212. https://doi.org/10.1177/15553434221147415
-

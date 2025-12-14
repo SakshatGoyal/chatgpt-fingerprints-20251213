@@ -16,7 +16,7 @@ the Categorical modules are basically content modules with some critical data. E
 END OF CATEGORICAL MODULE.
 ```
 
-Notice how each module begins with “### CATEGORICAL MODULE” and always ends with ‘END OF CATEGORICAL MODULE.” Each module is assigned a specific code. These are some examples of what the categorical module heading looks like 
+Notice how each module begins with “### CATEGORICAL MODULE” and always ends with ‘END OF CATEGORICAL MODULE.” Each module is assigned a specific code. These are some examples of what the categorical module heading looks like
 
 ```jsx
 ### CATEGORICAL MODULE 57 - C3-I6
@@ -50,7 +50,7 @@ While sorting, we need to focus on these columns
 - Strategic Category
 - Final Research Question Assignment
 
-I need a python script that can use the csv file to create new text files in the same folder and shuffle the modules from the Compilation of Categorical Modules.txt file into their respective text files. 
+I need a python script that can use the csv file to create new text files in the same folder and shuffle the modules from the Compilation of Categorical Modules.txt file into their respective text files.
 
 The text files will be named based on a combination of the unique values of strategic Category and Final Research Question Assignment. So the structure will be
 
@@ -62,9 +62,9 @@ SC-03_RQ1.txt
 
 SC-04_RQ2.txt
 
-I think it’ll be roughly 6x3=18 files. 
+I think it’ll be roughly 6x3=18 files.
 
-This structure will also be used to direct each module from the compilation text file into the new text files. For example, if the python script sees a line in the csv like 
+This structure will also be used to direct each module from the compilation text file into the new text files. For example, if the python script sees a line in the csv like
 
 ```jsx
 Module ID,Strategic Category,RQ-1,RQ-2,RQ-3,Final Research Question Assignment
@@ -73,7 +73,7 @@ CATEGORICAL MODULE 57 - C3-I6,SC-3,0,3,0,RQ-2
 
 It’ll take ‘CATEGORICAL MODULE 57 - C3-I6’ as is, including the wrapper and the content inside, and paste it into file SC-3_RQ-2.txt
 
-There may be some categorical modules in the csv file that aren’t in the sompilation text file, and vice versa. If that happens, I don’t want the system to stop. I want it to flag it and continue running. That way, all categorical modules will be shuffled into their respective files. By my estimate we have about 903 categorical modules but i might be wrong. I’ll let the system decide. 
+There may be some categorical modules in the csv file that aren’t in the sompilation text file, and vice versa. If that happens, I don’t want the system to stop. I want it to flag it and continue running. That way, all categorical modules will be shuffled into their respective files. By my estimate we have about 903 categorical modules but i might be wrong. I’ll let the system decide.
 
 Now I want you to repeat what I said in a structured manner and ask me any questions you have about my intention that i may not have covered, along with potentially problematic situations.
 
@@ -87,8 +87,8 @@ Great—you're working on a structured card-sorting workflow where you're mappin
 
 #### 📁 Input Files
 
-1. **Categorical Module Compilation File**  
-   Path: `/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/Compilation of Categorical Modules.txt`  
+1. **Categorical Module Compilation File**
+   Path: `/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/Compilation of Categorical Modules.txt`
    Structure:
    ```
    ### CATEGORICAL MODULE [Module Code]
@@ -96,8 +96,8 @@ Great—you're working on a structured card-sorting workflow where you're mappin
    END OF CATEGORICAL MODULE.
    ```
 
-2. **Reference Mapping File**  
-   Path: `/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQA Scoring Sheet.csv`  
+2. **Reference Mapping File**
+   Path: `/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQA Scoring Sheet.csv`
    Key columns to focus on:
    - `Module ID` (matches the module heading from the .txt)
    - `Strategic Category` (e.g., SC-3, SC-4)
@@ -135,33 +135,33 @@ Each file will **contain only the modules** that match its corresponding `[Strat
 
 ### ❓ QUESTIONS TO CLARIFY BEFORE PROMPT CREATION
 
-1. **Matching Module IDs:**  
+1. **Matching Module IDs:**
    - Can we safely assume that the `Module ID` in the `.csv` matches the **entire line** starting with `### CATEGORICAL MODULE ...` in the `.txt`?
      (e.g., whitespace, casing, and dashes are exact matches?)
 
-2. **Module Content Handling:**  
+2. **Module Content Handling:**
    - Should we preserve the original formatting (e.g., blank lines, indentation) of the content between `### CATEGORICAL MODULE ...` and `END OF CATEGORICAL MODULE.`?
 
-3. **Output File Directory:**  
+3. **Output File Directory:**
    - Should the new `.txt` files be saved **in the same folder** as the original `.txt` file?
      (`/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/`)
 
-4. **Duplicates and Overlaps:**  
+4. **Duplicates and Overlaps:**
    - Could a module appear more than once in the `.csv` with different RQ assignments or strategic categories?
    - Should each module be **assigned to only one file**, or could it appear in multiple?
 
-5. **Logging Needs:**  
-   - What kind of logging do you want?  
+5. **Logging Needs:**
+   - What kind of logging do you want?
      - A `.log` file summarizing mismatches?
      - Printed console warnings?
      - Both?
 
-6. **Case Sensitivity / Variants:**  
+6. **Case Sensitivity / Variants:**
    - Should the script perform case-insensitive matching to accommodate any inconsistencies?
    - What if extra whitespace or formatting differences exist?
 
-7. **Output File Naming Conventions:**  
-   - You used both `SC-3_RQ-2.txt` and `SC-03_RQ1.txt`.  
+7. **Output File Naming Conventions:**
+   - You used both `SC-3_RQ-2.txt` and `SC-03_RQ1.txt`.
      Which is correct: `SC-3_RQ-2.txt` (dashes in RQ, raw category ID), or should we zero-pad (e.g., `SC-03`) and remove dashes (`RQ2`)?
 
 ---
@@ -172,59 +172,59 @@ Would love your thoughts on these! Once you're ready, just say **"begin creating
 
 1. **Matching Module IDs:**
     - Not necessarily. As you may have noticed the three hashtags “###” and a space are missing. One thing that is safe to assume is, the actual name, like ‘CATEGORICAL MODULE 20 - C5-I3’ without the three hashes and the space before will match. here’s an example of what a typical categorical module from the .txt file looks like
-        
+
         ```
         ### CATEGORICAL MODULE 20 - C5-I3
-        
+
         Research Gaps and Future Directions
         Insight Statement:
         The review identifies a significant research gap: the lack of a standardized taxonomy for decision-making strategies, which limits cross-domain comparisons and the development of tailored training interventions. [Inferred]
-        
+
         Executive Decision-Making Context:
-        
+
         Strategic Dilemma: Without a clear, standardized framework, executives struggle to benchmark and refine decision-making processes across varied contexts.
         Underlying Beliefs & Biases: The current diversity in terminology and methodological approaches may obscure critical differences between intuitive and analytical strategies.
         Expected vs. Actual Outcomes: The absence of uniform definitions hampers the translation of academic insights into practical, actionable strategies for leadership training.
         Broader Implications: Future research aimed at developing an integrated taxonomy could significantly enhance the design of decision support technologies and executive training programs, ultimately leading to more resilient organizational decision-making. [Speculative]
         Supporting Context:
         The authors explicitly note that the varied labels and lack of standardized definitions across studies present a barrier to understanding the boundary conditions of different decision-making strategies, thereby limiting their practical applicability. [Empirical]
-        
+
         END OF CATEGORICAL MODULE.
         ```
-        
+
         And here’s what that line in the CSV will look like
-        
+
         “CATEGORICAL MODULE 20 - C5-I3,SC-5,1,2,0,RQ-2”
-        
-        There may be some white space before and after but probably not within. 
-        
+
+        There may be some white space before and after but probably not within.
+
 2. **Module Content Handling:**
     - Yes, Please make sure to preserve the content.Another thing I will add is, when the modules are copied, I want them to have atleast 5 lines of blank space in between them. Here’s what it’ll look like:
-        
+
         [first categorical module]
-        
+
         [blank line]
-        
+
         [blank line]
-        
+
         [blank line]
-        
+
         [blank line]
-        
+
         [blank line]
-        
+
         [next categorical module]
-        
+
         …
-        
-        This is so its easy for me to read later. 
-        
+
+        This is so its easy for me to read later.
+
 3. **Output File Directory:**
     - Yes
 4. **Duplicates and Overlaps:**
-    
-    There is less than 0.1% chance that the same module appears twice in the same file, whether its csv or .txt. But if that does happen, I want the system to flag it, skip the operation for that particular module, and move on. 
-    
+
+    There is less than 0.1% chance that the same module appears twice in the same file, whether its csv or .txt. But if that does happen, I want the system to flag it, skip the operation for that particular module, and move on.
+
 5. **Logging Needs:**
     - I think a log in the terminal will be fine.
 6. **Case Sensitivity / Variants:**
@@ -264,27 +264,27 @@ Here is your fully structured O3 prompt, optimized for precise execution:
 
 ---
 
-### 🧠 **Goal**  
+### 🧠 **Goal**
 Write a Python script that automates the parsing and sorting of "Categorical Modules" from a master `.txt` file into multiple `.txt` files based on a mapping provided in a reference `.csv`. Each module should be placed into a new file determined by its `Strategic Category` and `Final Research Question Assignment`, while ensuring formatting fidelity, robust error handling, and full logging of mismatches or duplicates.
 
 ---
 
-### 📄 **Return Format**  
+### 📄 **Return Format**
 Provide a complete Python script that:
 
-1. Reads the `.csv` file at:  
+1. Reads the `.csv` file at:
    `/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQA Scoring Sheet.csv`
-2. Reads the `.txt` file at:  
+2. Reads the `.txt` file at:
    `/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/Compilation of Categorical Modules.txt`
-3. Extracts all modules with the format:  
+3. Extracts all modules with the format:
    ```
    ### CATEGORICAL MODULE [code]
    [content]
    END OF CATEGORICAL MODULE.
    ```
 4. Matches each module to its corresponding row in the `.csv` by normalizing `Module ID` (remove `### `, strip leading/trailing whitespace, ignore case).
-5. Sorts modules into new files named:  
-   `[Strategic Category]_[Final Research Question Assignment].txt`  
+5. Sorts modules into new files named:
+   `[Strategic Category]_[Final Research Question Assignment].txt`
    Example: `SC-4_RQ-2.txt`
 6. Preserves all internal formatting of each module.
 7. Adds **five blank lines** between modules in the output files.
@@ -307,7 +307,7 @@ Provide a complete Python script that:
 
 ### 📚 **Context & Additional Elements**
 
-- Working directory for both input and output is:  
+- Working directory for both input and output is:
   `/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/`
 - Expected number of output files ≈ 18 (based on 6 strategic categories × 3 RQ assignments), but the script should determine this dynamically.
 - Each module must be written in full, including both its header and the line `END OF CATEGORICAL MODULE.`
@@ -315,7 +315,7 @@ Provide a complete Python script that:
 
 ---
 
-### 👤 **Execution Persona**  
+### 👤 **Execution Persona**
 Act as a Python file-processing and data transformation expert. You specialize in clean, fault-tolerant parsing, working with unstructured data, and robust string normalization techniques. Prioritize clarity, maintainability, and readability in code. Implement clear logging to terminal and modular structure if appropriate.
 
 ---
@@ -341,9 +341,9 @@ Also, We HAVE to change the mapping logic. While earlier the mapping was entirel
 
 Strategic Category and **Final Research Question Assignment**
 
-Now we have to partially shift. The CSV has the incorrect mapping for strategic category, but the correct mapping for ‘final research question assignment’. So now here’s what i want the program to do - 
+Now we have to partially shift. The CSV has the incorrect mapping for strategic category, but the correct mapping for ‘final research question assignment’. So now here’s what i want the program to do -
 
-for each of the text files, create 3 files with the RQ-# as an extension to the name. For example, lets say we have 
+for each of the text files, create 3 files with the RQ-# as an extension to the name. For example, lets say we have
 
 Business Strategy Insights - condensed.txt
 
@@ -371,13 +371,13 @@ This means, this module belongs to RQ-1, and will go into the file
 
 Business Strategy Insights - condensed - RQ-1.txt
 
-this same process has to be repeated for all the files i’ve referenced above. It should be a total of 6 files. 
+this same process has to be repeated for all the files i’ve referenced above. It should be a total of 6 files.
 
 A couple more things, I’ve seen the different files and found no issues with extra white space or case sensitive discrepancies. Lets say in the text file a module is labeled
 
 ### CATEGORICAL MODULE 2 - C2-I1
 
-in the csv, it’ll be labelled 
+in the csv, it’ll be labelled
 CATEGORICAL MODULE 2 - C2-I1
 
 the only difference is the ‘### ‘ the three hashes and the space. so we don’t need to overcomplicate the code the way we did last time. I still do want to flag all the modules that are present in the text files, and not present in the csv, and vice versa.
@@ -398,12 +398,12 @@ All live in:
 /Users/sakshatgoyal/Desktop/Compilation/Condensed Versions/
 ```
 And include:
-- Business Strategy Insights - condensed.txt  
-- Corporate Strategy Insights - condensed.txt  
-- Functional Strategy Insights - condensed.txt  
-- Innovation Strategy Insights - condensed.txt  
-- Leadership Strategy Insights - condensed.txt  
-- Risk Management Strategy Insights - condensed.txt  
+- Business Strategy Insights - condensed.txt
+- Corporate Strategy Insights - condensed.txt
+- Functional Strategy Insights - condensed.txt
+- Innovation Strategy Insights - condensed.txt
+- Leadership Strategy Insights - condensed.txt
+- Risk Management Strategy Insights - condensed.txt
 
 Each file contains modules in the form:
 ```
@@ -415,7 +415,7 @@ END OF CATEGORICAL MODULE.
 ---
 
 ### 📊 Mapping File:
-- CSV:  
+- CSV:
   `/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQA Scoring Sheet.csv`
 
 - Relevant columns:
@@ -462,24 +462,24 @@ Here is your revised, precision-engineered O3 reasoning prompt:
 
 ---
 
-### 🧠 **Goal**  
+### 🧠 **Goal**
 Write a Python script that processes six strategy `.txt` files containing "Categorical Modules" and sorts those modules into new `.txt` files based solely on their `Final Research Question Assignment`, as indicated in a separate `.csv` mapping file. Each module must be extracted, matched, and routed to a new file named according to its original source file and assigned research question, while preserving all formatting and logging unmatched or duplicate entries.
 
 ---
 
-### 📄 **Return Format**  
+### 📄 **Return Format**
 Produce a Python script that:
 
-1. Reads the following six input `.txt` files from:  
-   `/Users/sakshatgoyal/Desktop/Compilation/Condensed Versions/`  
-   - Business Strategy Insights - condensed.txt  
-   - Corporate Strategy Insights - condensed.txt  
-   - Functional Strategy Insights - condensed.txt  
-   - Innovation Strategy Insights - condensed.txt  
-   - Leadership Strategy Insights - condensed.txt  
-   - Risk Management Strategy Insights - condensed.txt  
+1. Reads the following six input `.txt` files from:
+   `/Users/sakshatgoyal/Desktop/Compilation/Condensed Versions/`
+   - Business Strategy Insights - condensed.txt
+   - Corporate Strategy Insights - condensed.txt
+   - Functional Strategy Insights - condensed.txt
+   - Innovation Strategy Insights - condensed.txt
+   - Leadership Strategy Insights - condensed.txt
+   - Risk Management Strategy Insights - condensed.txt
 
-2. Reads the `.csv` mapping file at:  
+2. Reads the `.csv` mapping file at:
    `/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQA Scoring Sheet.csv`
 
 3. For each `.txt` file:
@@ -526,10 +526,9 @@ Produce a Python script that:
 
 ---
 
-### 👤 **Execution Persona**  
+### 👤 **Execution Persona**
 Act as a seasoned Python developer experienced in batch text processing, structured file parsing, and cross-referencing data from heterogeneous sources. You design clean, maintainable scripts with robust logging, edge-case awareness, and readability as a priority.
 
 ---
 
 Let me know if you want the script now, or want to test one file first before scaling to all six.
-

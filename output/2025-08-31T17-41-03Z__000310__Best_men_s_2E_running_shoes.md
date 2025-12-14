@@ -181,8 +181,8 @@ notes_for_retailer: >
 
 ## ChatGPT (2025-08-31T17:45:05.675214+00:00)
 
-**Executive Summary (What I found & how I graded it)**  
-I audited brand **US** sites only and filtered for **men’s 2E (wide)** daily road trainers that are **in stock right now in US 11.5**, **under \$200**, and suitable for a **neutral, heel‑striking runner with wide/high‑volume feet** on **SF concrete**. Four models met **all** hard constraints today: **ASICS GEL‑Nimbus 27 WIDE**, **ASICS GEL‑Cumulus 27 WIDE**, **Mizuno Wave Rider 28 2E**, and **Mizuno Wave Sky 8 2E**. Each was verified on the brand’s US page for **2E/Wide** labeling, **11.5 availability**, and **current price**, with specs captured where brands disclose them. The **Nimbus 27 WIDE** and **Cumulus 27 WIDE** are the most aligned with your 8–10 mm drop preference and wet‑road needs; Mizuno’s two options offer generous 2E volume and durable rubber, with the **Wave Sky 8 2E** providing the plushest Mizuno ride. Several common go‑tos (e.g., HOKA Clifton 10 Wide, Saucony Ride/Triumph Wide, Brooks Ghost/Glycerin Wide) list wide widths, but their size‑specific stock is not exposed server‑side; I did **not** include them in “Buy Now” without hard proof of **11.5 2E** availability. Result: **4 qualifying picks** today; I call out likely alternates under methodology if you want me to re‑verify later. **Availability check timestamp:** **Aug 31, 2025, 10:45 AM PT**. citeturn16view2turn18view0turn1search16
+**Executive Summary (What I found & how I graded it)**
+I audited brand **US** sites only and filtered for **men’s 2E (wide)** daily road trainers that are **in stock right now in US 11.5**, **under \$200**, and suitable for a **neutral, heel‑striking runner with wide/high‑volume feet** on **SF concrete**. Four models met **all** hard constraints today: **ASICS GEL‑Nimbus 27 WIDE**, **ASICS GEL‑Cumulus 27 WIDE**, **Mizuno Wave Rider 28 2E**, and **Mizuno Wave Sky 8 2E**. Each was verified on the brand’s US page for **2E/Wide** labeling, **11.5 availability**, and **current price**, with specs captured where brands disclose them. The **Nimbus 27 WIDE** and **Cumulus 27 WIDE** are the most aligned with your 8–10 mm drop preference and wet‑road needs; Mizuno’s two options offer generous 2E volume and durable rubber, with the **Wave Sky 8 2E** providing the plushest Mizuno ride. Several common go‑tos (e.g., HOKA Clifton 10 Wide, Saucony Ride/Triumph Wide, Brooks Ghost/Glycerin Wide) list wide widths, but their size‑specific stock is not exposed server‑side; I did **not** include them in “Buy Now” without hard proof of **11.5 2E** availability. Result: **4 qualifying picks** today; I call out likely alternates under methodology if you want me to re‑verify later. **Availability check timestamp:** **Aug 31, 2025, 10:45 AM PT**.
 
 ---
 
@@ -190,46 +190,46 @@ I audited brand **US** sites only and filtered for **men’s 2E (wide)** daily r
 
 ### **Buy Now** — meets all specs, **verified 2E US 11.5 in stock**, **<\$200**
 
-**1) ASICS GEL‑Nimbus 27 WIDE (2E)** — *Soft, stable, wet‑ready neutral cruiser*  
-**Weighted Score: 89/100**  
-• Fit/Comfort **36/40** • Width/Volume **18/20** • Durability/Outsole **13/15** • Ride/Geometry **14/15** • Price/Value **8/10**  
-**Why it fits:** True **2E** listing with **11.5 selectable**; 8 mm drop supports a heel striker and helps ease calf/Achilles load on SF hills. FF BLAST+ ECO midsole + **PureGEL** under heel cushion impact on concrete, while the **Hybrid ASICSGRIP™** outsole is designed for improved traction and durability in wet conditions. Heel structure is secure without intrusive posting; forefoot in 2E opens up toe splay for high‑volume feet. Insole is removable (ASICS typically uses an Ortholite sockliner) and orthotic‑friendly. **Specs (men):** drop **8 mm**, weight **~10.8 oz / 305 g** (brand spec), neutral, high cushion. **Outsole coverage:** hybrid rubber; brand indicates durability/traction upgrades vs prior Nimbus.  
-**Risks & who should skip:** If you prefer a firmer, snappier toe‑off, Nimbus can feel *very* soft. The knit upper runs warm for some in mid‑day sun (fine in SF fog).  
-**Evidence:** **ASICS US product page (WIDE)**, price **\$165**, **Wide (2E)** variant shown, **11.5 listed**, specs including drop/weight for Nimbus 27, **checked Aug 31, 2025, 10:45 AM PT**. citeturn19search1turn19search5  
+**1) ASICS GEL‑Nimbus 27 WIDE (2E)** — *Soft, stable, wet‑ready neutral cruiser*
+**Weighted Score: 89/100**
+• Fit/Comfort **36/40** • Width/Volume **18/20** • Durability/Outsole **13/15** • Ride/Geometry **14/15** • Price/Value **8/10**
+**Why it fits:** True **2E** listing with **11.5 selectable**; 8 mm drop supports a heel striker and helps ease calf/Achilles load on SF hills. FF BLAST+ ECO midsole + **PureGEL** under heel cushion impact on concrete, while the **Hybrid ASICSGRIP™** outsole is designed for improved traction and durability in wet conditions. Heel structure is secure without intrusive posting; forefoot in 2E opens up toe splay for high‑volume feet. Insole is removable (ASICS typically uses an Ortholite sockliner) and orthotic‑friendly. **Specs (men):** drop **8 mm**, weight **~10.8 oz / 305 g** (brand spec), neutral, high cushion. **Outsole coverage:** hybrid rubber; brand indicates durability/traction upgrades vs prior Nimbus.
+**Risks & who should skip:** If you prefer a firmer, snappier toe‑off, Nimbus can feel *very* soft. The knit upper runs warm for some in mid‑day sun (fine in SF fog).
+**Evidence:** **ASICS US product page (WIDE)**, price **\$165**, **Wide (2E)** variant shown, **11.5 listed**, specs including drop/weight for Nimbus 27, **checked Aug 31, 2025, 10:45 AM PT**.
 *Spec notes:* Weight/drop are listed on the standard Nimbus 27 page; identical platform applies to the WIDE last.
 
 ---
 
-**2) ASICS GEL‑Cumulus 27 WIDE (2E)** — *Lighter, still‑cushioned daily trainer with 8 mm drop*  
-**Weighted Score: 87/100**  
-• Fit/Comfort **34/40** • Width/Volume **18/20** • Durability/Outsole **12/15** • Ride/Geometry **14/15** • Price/Value **9/10**  
-**Why it fits:** Also a true **2E** with **11.5 selectable** and an **8 mm** drop that plays well for a heel striker. FF BLAST+ foam + **PureGEL** at the rearfoot provide soft landings without feeling wobbly. **FLUIDRIDE** outsole aims for smooth transitions; the geometry rolls cleanly without an aggressive rocker—good for easy miles and 10k buildup. Lighter than Nimbus, with a secure heel and a forgiving toe box in the **WIDE** last; insole is removable. **Specs (men):** drop **8 mm**, weight **~9.3 oz / 265 g** (brand spec), neutral, high cushion.  
-**Risks & who should skip:** Outsole compound is not labeled as a dedicated “wet‑grip” rubber—caution on paint/metal street features when it’s slick. Slightly lower stack than Nimbus for very long, slow days.  
-**Evidence:** **ASICS US product page (WIDE)**, price **\$140**, **Wide** selected, **size list includes 11.5**, brand spec shows **8 mm** drop and **~265 g** weight, **checked Aug 31, 2025, 10:45 AM PT**. citeturn21view0
+**2) ASICS GEL‑Cumulus 27 WIDE (2E)** — *Lighter, still‑cushioned daily trainer with 8 mm drop*
+**Weighted Score: 87/100**
+• Fit/Comfort **34/40** • Width/Volume **18/20** • Durability/Outsole **12/15** • Ride/Geometry **14/15** • Price/Value **9/10**
+**Why it fits:** Also a true **2E** with **11.5 selectable** and an **8 mm** drop that plays well for a heel striker. FF BLAST+ foam + **PureGEL** at the rearfoot provide soft landings without feeling wobbly. **FLUIDRIDE** outsole aims for smooth transitions; the geometry rolls cleanly without an aggressive rocker—good for easy miles and 10k buildup. Lighter than Nimbus, with a secure heel and a forgiving toe box in the **WIDE** last; insole is removable. **Specs (men):** drop **8 mm**, weight **~9.3 oz / 265 g** (brand spec), neutral, high cushion.
+**Risks & who should skip:** Outsole compound is not labeled as a dedicated “wet‑grip” rubber—caution on paint/metal street features when it’s slick. Slightly lower stack than Nimbus for very long, slow days.
+**Evidence:** **ASICS US product page (WIDE)**, price **\$140**, **Wide** selected, **size list includes 11.5**, brand spec shows **8 mm** drop and **~265 g** weight, **checked Aug 31, 2025, 10:45 AM PT**.
 
 ---
 
-**3) Mizuno Wave Sky 8 2E** — *Plushest Mizuno option; broad platform for wide/high‑volume feet*  
-**Weighted Score: 86/100**  
-• Fit/Comfort **34/40** • Width/Volume **19/20** • Durability/Outsole **12/15** • Ride/Geometry **13/15** • Price/Value **8/10**  
-**Why it fits:** Labeled **2E** and **11.5 selectable** on the US page. The Sky sits on Mizuno’s softest neutral platform (MIZUNO ENERZY NXT) with a broad base that feels inherently stable without posts—useful on cambered SF streets and downhill braking. Upper volume is generous for a high‑instep, high‑girth foot; heel counter holds well with a runner’s loop.  
-**Risks & who should skip:** **Spec uncertainty:** brand page does not publish **drop/weight/outsole compound**. Historically plush; quicker workouts may feel cumbersome. Rubber coverage appears robust, but wet‑grip compound isn’t named—use care on slick paint/rails.  
-**Evidence:** **Mizuno US product page (2E)**, price shown **\$170** (often on sale), size grid includes **11.5**, **checked Aug 31, 2025, 10:45 AM PT**. citeturn12search0
+**3) Mizuno Wave Sky 8 2E** — *Plushest Mizuno option; broad platform for wide/high‑volume feet*
+**Weighted Score: 86/100**
+• Fit/Comfort **34/40** • Width/Volume **19/20** • Durability/Outsole **12/15** • Ride/Geometry **13/15** • Price/Value **8/10**
+**Why it fits:** Labeled **2E** and **11.5 selectable** on the US page. The Sky sits on Mizuno’s softest neutral platform (MIZUNO ENERZY NXT) with a broad base that feels inherently stable without posts—useful on cambered SF streets and downhill braking. Upper volume is generous for a high‑instep, high‑girth foot; heel counter holds well with a runner’s loop.
+**Risks & who should skip:** **Spec uncertainty:** brand page does not publish **drop/weight/outsole compound**. Historically plush; quicker workouts may feel cumbersome. Rubber coverage appears robust, but wet‑grip compound isn’t named—use care on slick paint/rails.
+**Evidence:** **Mizuno US product page (2E)**, price shown **\$170** (often on sale), size grid includes **11.5**, **checked Aug 31, 2025, 10:45 AM PT**.
 
 ---
 
-**4) Mizuno Wave Rider 28 2E** — *Classic daily trainer feel; reliable heel durability for heel‑strikers*  
-**Weighted Score: 84/100**  
-• Fit/Comfort **32/40** • Width/Volume **18/20** • Durability/Outsole **12/15** • Ride/Geometry **12/15** • Price/Value **10/10**  
-**Why it fits:** Explicit **2E** labeling with **11.5 selectable** and current price **≤\$140** (often discounted). Rider’s neutral platform blends cushion and response; the heel rubber on the Rider line is known for durability—which matters for your rearfoot wear pattern. The 2E last offers solid forefoot room without an overly pointy toe, and the upper is breathable enough for SF’s cool, damp mornings.  
-**Risks & who should skip:** **Spec uncertainty:** brand page does **not** publish **drop/weight/outsole compound**; historically the Rider uses a **higher drop (~12 mm)** which some runners find “pitched forward.” If you’re sensitive to drop, you may prefer the 8 mm ASICS options.  
-**Evidence:** **Mizuno US product page (2E)**, price **\$140** (sale seen at **\$100**), **size list includes 11.5**, **checked Aug 31, 2025, 10:45 AM PT**. citeturn2search2
+**4) Mizuno Wave Rider 28 2E** — *Classic daily trainer feel; reliable heel durability for heel‑strikers*
+**Weighted Score: 84/100**
+• Fit/Comfort **32/40** • Width/Volume **18/20** • Durability/Outsole **12/15** • Ride/Geometry **12/15** • Price/Value **10/10**
+**Why it fits:** Explicit **2E** labeling with **11.5 selectable** and current price **≤\$140** (often discounted). Rider’s neutral platform blends cushion and response; the heel rubber on the Rider line is known for durability—which matters for your rearfoot wear pattern. The 2E last offers solid forefoot room without an overly pointy toe, and the upper is breathable enough for SF’s cool, damp mornings.
+**Risks & who should skip:** **Spec uncertainty:** brand page does **not** publish **drop/weight/outsole compound**; historically the Rider uses a **higher drop (~12 mm)** which some runners find “pitched forward.” If you’re sensitive to drop, you may prefer the 8 mm ASICS options.
+**Evidence:** **Mizuno US product page (2E)**, price **\$140** (sale seen at **\$100**), **size list includes 11.5**, **checked Aug 31, 2025, 10:45 AM PT**.
 
 ---
 
 ### **Try In‑Store** — meets specs but borderline on geometry/weight/fit nuance; stock is often **color‑dependent** (size‑level inventory is JS‑rendered on these pages)
 
-*(None listed today with **hard** proof of 11.5 2E in stock on the US brand page. Examples that frequently qualify and may be worth a quick in‑store check: **HOKA Clifton 10 (Wide/X‑Wide)**, **Saucony Ride 18 Wide**, **Saucony Triumph 23 Wide**—all under \$200 and offered in wide on their US sites, but the pages hide size‑by‑width stock until you interact with the selector. I withheld them from “Buy Now” without explicit 11.5 2E confirmation.)* citeturn16view2turn18view0
+*(None listed today with **hard** proof of 11.5 2E in stock on the US brand page. Examples that frequently qualify and may be worth a quick in‑store check: **HOKA Clifton 10 (Wide/X‑Wide)**, **Saucony Ride 18 Wide**, **Saucony Triumph 23 Wide**—all under \$200 and offered in wide on their US sites, but the pages hide size‑by‑width stock until you interact with the selector. I withheld them from “Buy Now” without explicit 11.5 2E confirmation.)*
 
 ### **Consider With Caveats** — outside ideal spec or unclear outsole/foam stability
 
@@ -237,62 +237,61 @@ I audited brand **US** sites only and filtered for **men’s 2E (wide)** daily r
 
 ---
 
-## Editorial Comparison (traction, SF hills, fit geometry, durability)  
-For **wet‑pavement traction**, **ASICS GEL‑Nimbus 27 WIDE** has the clearest brand claim: its **Hybrid ASICSGRIP™** outsole is described as improving traction and durability for daily use, which maps well to foggy SF mornings and wet paint lines at intersections. The **GEL‑Cumulus 27 WIDE** references a **FLUIDRIDE** outsole aimed at smoother transitions; while not marketed as “wet‑grip,” it has comprehensive coverage patterns that handle typical slick patches if you avoid metal plates and cable‑car tracks. **Mizuno’s** pages don’t name compounds here; empirically, **Wave Rider 28 2E** heel rubber tends to last, but on soaked downhill blocks it won’t feel tacky like a soft compound racing outsole—adjust braking accordingly. citeturn19search5turn21view0turn2search2
+## Editorial Comparison (traction, SF hills, fit geometry, durability)
+For **wet‑pavement traction**, **ASICS GEL‑Nimbus 27 WIDE** has the clearest brand claim: its **Hybrid ASICSGRIP™** outsole is described as improving traction and durability for daily use, which maps well to foggy SF mornings and wet paint lines at intersections. The **GEL‑Cumulus 27 WIDE** references a **FLUIDRIDE** outsole aimed at smoother transitions; while not marketed as “wet‑grip,” it has comprehensive coverage patterns that handle typical slick patches if you avoid metal plates and cable‑car tracks. **Mizuno’s** pages don’t name compounds here; empirically, **Wave Rider 28 2E** heel rubber tends to last, but on soaked downhill blocks it won’t feel tacky like a soft compound racing outsole—adjust braking accordingly.
 
-**Heel bevel & downhill braking:** The **Nimbus 27**’s 8 mm drop plus rearfoot **PureGEL** softens initial impact for heel‑strikers descending SF’s short, steep streets, reducing “slap” and easing quadriceps fatigue. **Cumulus 27** offers a similar 8 mm geometry with a touch less mass, which many runners find more controlled on varied grades. **Wave Sky 8**’s plush platform spreads load nicely but can feel a bit floaty if you really lean into steep braking, whereas **Rider 28**’s slightly firmer heel and (traditionally) higher drop can provide that “braced” feeling on declines—handy if you like more rearfoot support on descents. citeturn21view0
+**Heel bevel & downhill braking:** The **Nimbus 27**’s 8 mm drop plus rearfoot **PureGEL** softens initial impact for heel‑strikers descending SF’s short, steep streets, reducing “slap” and easing quadriceps fatigue. **Cumulus 27** offers a similar 8 mm geometry with a touch less mass, which many runners find more controlled on varied grades. **Wave Sky 8**’s plush platform spreads load nicely but can feel a bit floaty if you really lean into steep braking, whereas **Rider 28**’s slightly firmer heel and (traditionally) higher drop can provide that “braced” feeling on declines—handy if you like more rearfoot support on descents.
 
-**Forefoot room & volume:** All four are true **2E** offerings. The **Nimbus 27 WIDE** and **Wave Sky 8 2E** feel the most accommodating in height/volume over the toes for a high‑instep, high‑girth foot. **Cumulus 27 WIDE** is roomy laterally but a hair shallower over the big toe in some colorways; **Rider 28 2E** is generous side‑to‑side with a more tapered shape toward the big toe, so confirm you have **5–8 mm** front clearance on your right (longer) foot. citeturn19search1turn12search0turn21view0turn2search2
+**Forefoot room & volume:** All four are true **2E** offerings. The **Nimbus 27 WIDE** and **Wave Sky 8 2E** feel the most accommodating in height/volume over the toes for a high‑instep, high‑girth foot. **Cumulus 27 WIDE** is roomy laterally but a hair shallower over the big toe in some colorways; **Rider 28 2E** is generous side‑to‑side with a more tapered shape toward the big toe, so confirm you have **5–8 mm** front clearance on your right (longer) foot.
 
-**Midsole stability (not wobbly):** Both ASICS picks ride *soft‑stable*—the foams compress, but the platforms are well controlled and neutral. **Wave Sky 8** is similarly stable due to its wide base, though its cushioning is the plushest here, which some interpret as “less lively.” **Rider 28** is the most traditionally responsive; if you plan one faster session a week, it’s the easiest to push. citeturn12search0turn21view0
+**Midsole stability (not wobbly):** Both ASICS picks ride *soft‑stable*—the foams compress, but the platforms are well controlled and neutral. **Wave Sky 8** is similarly stable due to its wide base, though its cushioning is the plushest here, which some interpret as “less lively.” **Rider 28** is the most traditionally responsive; if you plan one faster session a week, it’s the easiest to push.
 
-**Upper breathability in cool/foggy SF:** All use engineered mesh/knit that ventilates adequately at 50–60°F. The Nimbus knit can feel warmer in mid‑day sun; **Cumulus 27** breathes a touch better. Mizuno uppers are airy with sturdy heel counters that accept a runner’s loop without biting. citeturn19search5turn21view0
+**Upper breathability in cool/foggy SF:** All use engineered mesh/knit that ventilates adequately at 50–60°F. The Nimbus knit can feel warmer in mid‑day sun; **Cumulus 27** breathes a touch better. Mizuno uppers are airy with sturdy heel counters that accept a runner’s loop without biting.
 
-**Outsole durability patterns:** Expect **heel wear** first (your pressure map peaks at rearfoot/distal forefoot). **Rider 28** is the safe bet for heel rubber longevity; **Nimbus 27** and **Cumulus 27** indicate enhanced durability on their product families, and **Sky 8** uses robust rubber coverage even if the compound isn’t called out. Rotate pairs or check wear at ~300–350 miles for cupping or exposed foam. citeturn2search2turn19search5turn21view0
+**Outsole durability patterns:** Expect **heel wear** first (your pressure map peaks at rearfoot/distal forefoot). **Rider 28** is the safe bet for heel rubber longevity; **Nimbus 27** and **Cumulus 27** indicate enhanced durability on their product families, and **Sky 8** uses robust rubber coverage even if the compound isn’t called out. Rotate pairs or check wear at ~300–350 miles for cupping or exposed foam.
 
 ---
 
 ## Fit & Try‑On Script (8–10 bullets)
-- Put on your usual **medium socks**; lace to the **second‑to‑top eyelet**.  
-- **Stand tall** and check **toe room on the right foot** (your longer foot): target **5–8 mm** space beyond the longest toe.  
-- **Forefoot splay test:** do 3–4 short lunges; confirm no pinching across the 1st–5th met heads.  
-- Tie a **runner’s‑loop (heel‑lock)** and jog 20–30 m; confirm **zero heel lift** on push‑off.  
-- Walk down a short **decline** (ramp/curb) and brake; look for stable rearfoot landings without your foot sliding forward.  
-- **Arch feel check:** with low arches, ensure the insole isn’t pushing uncomfortably—comfort should feel neutral, not propped.  
-- **Orthotic trial:** remove the stock insole, insert your orthotic; verify the heel stays **fully seated in the cup** with no collar rub.  
-- **Midfoot wrap:** re‑lace from the bottom, skipping an eyelet if the instep feels tight; check that tongue stays centered under load.  
-- **Wet‑grip sanity check:** on a damp patch, gently twist/plant; aim for confidence without squeal/slip.  
+- Put on your usual **medium socks**; lace to the **second‑to‑top eyelet**.
+- **Stand tall** and check **toe room on the right foot** (your longer foot): target **5–8 mm** space beyond the longest toe.
+- **Forefoot splay test:** do 3–4 short lunges; confirm no pinching across the 1st–5th met heads.
+- Tie a **runner’s‑loop (heel‑lock)** and jog 20–30 m; confirm **zero heel lift** on push‑off.
+- Walk down a short **decline** (ramp/curb) and brake; look for stable rearfoot landings without your foot sliding forward.
+- **Arch feel check:** with low arches, ensure the insole isn’t pushing uncomfortably—comfort should feel neutral, not propped.
+- **Orthotic trial:** remove the stock insole, insert your orthotic; verify the heel stays **fully seated in the cup** with no collar rub.
+- **Midfoot wrap:** re‑lace from the bottom, skipping an eyelet if the instep feels tight; check that tongue stays centered under load.
+- **Wet‑grip sanity check:** on a damp patch, gently twist/plant; aim for confidence without squeal/slip.
 - After 10–15 minutes, re‑check toe room; ensure the mesh hasn’t collapsed on the big‑toe knuckle.
 
 ---
 
-## Insole / Orthotic Primer (what, when, how)  
-An **insole** replaces the stock liner and subtly tunes **shape (arch contour)**, **cushion**, and **heel cup**. For **neutral, low‑arches**, a **neutral insole** can help by adding a slightly deeper heel cup and mild midfoot contact—reducing heel wobble and distributing pressure without forcing motion control. It’s most useful if you notice **heel hot‑spots**, **arch fatigue during longer runs**, or your foot feels like it’s **swimming** inside a high‑volume upper.  
+## Insole / Orthotic Primer (what, when, how)
+An **insole** replaces the stock liner and subtly tunes **shape (arch contour)**, **cushion**, and **heel cup**. For **neutral, low‑arches**, a **neutral insole** can help by adding a slightly deeper heel cup and mild midfoot contact—reducing heel wobble and distributing pressure without forcing motion control. It’s most useful if you notice **heel hot‑spots**, **arch fatigue during longer runs**, or your foot feels like it’s **swimming** inside a high‑volume upper.
 To test: remove the factory insole and drop yours in. Stand, then jog 20–30 m. Your **heel must remain fully seated in the cup**—if the insole raises you so high that the collar rubs or you feel perched, it’s the wrong combo. You should feel gentle, even contact under the arch, not a hard ridge. If toe room shrinks below **5 mm** after adding an insole, consider a thinner orthotic or a model with a touch more internal length.
 
 ---
 
 ## Methodology & Sources (brand pages only; size/width/price verified)
-- I searched **brand US sites only**, filtered for **men’s 2E/Wide**, confirmed **US 11.5 availability** on the product page, verified **price <\$200**, and captured **drop/stack/weight** where brands publish them. When pages hid size‑by‑width stock behind JavaScript, I did **not** list those shoes in “Buy Now” without server‑rendered proof of **11.5 2E**. **Timestamp:** **Aug 31, 2025, 10:45 AM PT**.  
-- **ASICS GEL‑Nimbus 27 WIDE (2E)** — price, WIDE labeling, size list; specs page with **8 mm** drop & **~305 g** weight. citeturn19search1turn19search5  
-- **ASICS GEL‑Cumulus 27 WIDE (2E)** — price, WIDE variant selected, size list including **11.5**, drop **8 mm**, weight **~265 g**. citeturn21view0  
-- **Mizuno Wave Sky 8 2E** — price, **2E** designation, size grid including **11.5**. *(Spec uncertainty: drop/weight/compound not published on product page.)* citeturn12search0  
-- **Mizuno Wave Rider 28 2E** — price, **2E** designation, size grid including **11.5**. *(Spec uncertainty: drop/weight/compound not published on product page.)* citeturn2search2  
-- **ASICS width notation (men’s Wide = 2E)** — brand **Shoe Width Guide**. citeturn19search8  
-- Related reference pages (not in Buy Now): **HOKA Clifton 10** shows **Regular/Wide/X‑Wide** and **11.5 in stock** at page level (JS gates width‑specific inventory), **Saucony Men’s Wide** category lists **Ride 18 Wide/Triumph 23 Wide**; excluded from Buy Now without explicit 11.5 2E confirmation. citeturn16view2turn18view0
+- I searched **brand US sites only**, filtered for **men’s 2E/Wide**, confirmed **US 11.5 availability** on the product page, verified **price <\$200**, and captured **drop/stack/weight** where brands publish them. When pages hid size‑by‑width stock behind JavaScript, I did **not** list those shoes in “Buy Now” without server‑rendered proof of **11.5 2E**. **Timestamp:** **Aug 31, 2025, 10:45 AM PT**.
+- **ASICS GEL‑Nimbus 27 WIDE (2E)** — price, WIDE labeling, size list; specs page with **8 mm** drop & **~305 g** weight.
+- **ASICS GEL‑Cumulus 27 WIDE (2E)** — price, WIDE variant selected, size list including **11.5**, drop **8 mm**, weight **~265 g**.
+- **Mizuno Wave Sky 8 2E** — price, **2E** designation, size grid including **11.5**. *(Spec uncertainty: drop/weight/compound not published on product page.)*
+- **Mizuno Wave Rider 28 2E** — price, **2E** designation, size grid including **11.5**. *(Spec uncertainty: drop/weight/compound not published on product page.)*
+- **ASICS width notation (men’s Wide = 2E)** — brand **Shoe Width Guide**.
+- Related reference pages (not in Buy Now): **HOKA Clifton 10** shows **Regular/Wide/X‑Wide** and **11.5 in stock** at page level (JS gates width‑specific inventory), **Saucony Men’s Wide** category lists **Ride 18 Wide/Triumph 23 Wide**; excluded from Buy Now without explicit 11.5 2E confirmation.
 
 ---
 
 ### Quick scoring rubric I applied
-- **Fit/Comfort 40** (toe box volume for wide/high‑girth forefoot, secure heel with runner’s loop, low‑arch friendliness, removable insole).  
-- **Width/Volume 20** (true 2E on brand page + accommodating last).  
-- **Durability/Outsole 15** (rubber coverage; named wet‑traction compounds get bonus).  
-- **Ride/Geometry 15** (neutral/stable, **8–10 mm** preferred, smooth roll/rocker, not wobbly).  
+- **Fit/Comfort 40** (toe box volume for wide/high‑girth forefoot, secure heel with runner’s loop, low‑arch friendliness, removable insole).
+- **Width/Volume 20** (true 2E on brand page + accommodating last).
+- **Durability/Outsole 15** (rubber coverage; named wet‑traction compounds get bonus).
+- **Ride/Geometry 15** (neutral/stable, **8–10 mm** preferred, smooth roll/rocker, not wobbly).
 - **Price/Value 10** (<\$200; foam longevity; brand support).
 
 ---
 
 ## Final notes & what limited the list
-- **Width & availability were enforced as hard constraints.** Without **verifiable 11.5 2E** on the **US brand page**, I did not place a shoe in “Buy Now.” Several usual suspects likely have stock, but their pages don’t expose size‑by‑width inventory without JS interaction.  
+- **Width & availability were enforced as hard constraints.** Without **verifiable 11.5 2E** on the **US brand page**, I did not place a shoe in “Buy Now.” Several usual suspects likely have stock, but their pages don’t expose size‑by‑width inventory without JS interaction.
 - If you want me to **re‑check those alternates** (HOKA Clifton 10 Wide, Saucony Ride 18/Triumph 23 Wide, Brooks Ghost/Glycerin Wide, New Balance 1080/880 Wide) and expand the list, say the word—I’ll re‑run a fresh stock check and append any that meet the same bar.
-

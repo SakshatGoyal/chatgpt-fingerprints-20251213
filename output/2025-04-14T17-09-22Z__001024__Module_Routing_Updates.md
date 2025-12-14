@@ -2,9 +2,9 @@
 
 ## You (2025-04-14T17:09:22.404658+00:00)
 
-Help me write a prompt for the following intent. 
+Help me write a prompt for the following intent.
 
-I have an existing python script that essentially takes text modules from one source file and sort of routes it into newly created files. I want to do the same, except here're some changes. 
+I have an existing python script that essentially takes text modules from one source file and sort of routes it into newly created files. I want to do the same, except here're some changes.
 
 1. Instead of 'Categorical Modules' and 'End of Categorical Module', its just 'MODULE' and 'END OF MODULE'
 
@@ -18,9 +18,9 @@ MODULE 1 - C4-I4,MODULE 13 - C1-I4,MODULE 17 - C2-I1,MODULE 10 - C3-I2,MODULE 1 
 MODULE 11 - C1-I1,MODULE 13 - C2-I4,MODULE 17 - C2-I4,MODULE 11 - C1-I6,MODULE 10 - C1-I4,MODULE 15 - C2-I5,MODULE 1 - C2-I4
 MODULE 12 - C3-I3,MODULE 17 - C2-I1,MODULE 18 - C3-I5,MODULE 11 - C3-I5,MODULE 11 - C1-I4,MODULE 16 - C2-I5,MODULE 1 - C2-I5
 
-Each header is the name of the new text file i need. 
+Each header is the name of the new text file i need.
 
-Some cells are empty, indicating that some text files have more modules than others. 
+Some cells are empty, indicating that some text files have more modules than others.
 
 Here's the Entire Code:
 
@@ -98,7 +98,7 @@ def parse_modules(file_path):
     modules = []
     with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-    
+
     i = 0
     while i < len(lines):
         # Look for module header.
@@ -119,7 +119,7 @@ def parse_modules(file_path):
                 module_lines.append(lines[i])
             else:
                 logging.warning(f"Reached end of file without finding end marker for module {module_id}.")
-            
+
             module_text = "".join(module_lines)
             modules.append((module_id, module_text))
         i += 1
@@ -128,10 +128,10 @@ def parse_modules(file_path):
 def main():
     # Base directory for the input .txt files.
     base_dir = "/Users/sakshatgoyal/Desktop/Compilation/Condensed Versions/"
-    
+
     # CSV mapping file.
     mapping_csv = "/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQA Scoring Sheet.csv"
-    
+
     # List of six input files.
     input_files = [
         "Business Strategy Insights - condensed.txt",
@@ -141,11 +141,11 @@ def main():
         "Leadership Strategy Insights - condensed.txt",
         "Risk Management Strategy Insights - condensed.txt"
     ]
-    
+
     # Load the CSV mapping.
     mapping = load_mapping(mapping_csv)
     mapping_module_ids = set(mapping.keys())
-    
+
     # To track duplicates across/within files.
     seen_module_ids = set()
     # To track which module IDs from the mapping have been encountered.
@@ -175,7 +175,7 @@ def main():
                 continue
             seen_module_ids.add(module_id)
             encountered_module_ids.add(module_id)
-            
+
             # Lookup the module in the CSV mapping.
             if module_id not in mapping:
                 logging.warning(f"Module {module_id} found in file {infile} is not present in the CSV mapping. Skipping.")
@@ -207,12 +207,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
 
 
 # this file has been modified over time, but the main idea seems to be that it'll identify modules based on a csv and route them to their respective files
@@ -288,7 +282,7 @@ def parse_modules(file_path):
     modules = []
     with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-    
+
     i = 0
     while i < len(lines):
         # Look for module header.
@@ -309,7 +303,7 @@ def parse_modules(file_path):
                 module_lines.append(lines[i])
             else:
                 logging.warning(f"Reached end of file without finding end marker for module {module_id}.")
-            
+
             module_text = "".join(module_lines)
             modules.append((module_id, module_text))
         i += 1
@@ -318,10 +312,10 @@ def parse_modules(file_path):
 def main():
     # Base directory for the input .txt files.
     base_dir = "/Users/sakshatgoyal/Desktop/Compilation/Condensed Versions/"
-    
+
     # CSV mapping file.
     mapping_csv = "/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQA Scoring Sheet.csv"
-    
+
     # List of six input files.
     input_files = [
         "Business Strategy Insights - condensed.txt",
@@ -331,11 +325,11 @@ def main():
         "Leadership Strategy Insights - condensed.txt",
         "Risk Management Strategy Insights - condensed.txt"
     ]
-    
+
     # Load the CSV mapping.
     mapping = load_mapping(mapping_csv)
     mapping_module_ids = set(mapping.keys())
-    
+
     # To track duplicates across/within files.
     seen_module_ids = set()
     # To track which module IDs from the mapping have been encountered.
@@ -365,7 +359,7 @@ def main():
                 continue
             seen_module_ids.add(module_id)
             encountered_module_ids.add(module_id)
-            
+
             # Lookup the module in the CSV mapping.
             if module_id not in mapping:
                 logging.warning(f"Module {module_id} found in file {infile} is not present in the CSV mapping. Skipping.")
@@ -465,9 +459,9 @@ flag the duplicates, but take only 1 version of the duplicate. But honestly its 
 
 B. A module appearing in two clusters from the csv file:
 
-Yes, one module may appear in two clusters, in which case i need the module to be copied in both text files. For example, if Module 001 appears in cluster 1 and 2, i need it copied in both cluster 1 and 2 text files. 
+Yes, one module may appear in two clusters, in which case i need the module to be copied in both text files. For example, if Module 001 appears in cluster 1 and 2, i need it copied in both cluster 1 and 2 text files.
 
-4. keep the same warnings as the one in the current python script. 
+4. keep the same warnings as the one in the current python script.
 
 5. No need for any renaming or normalizing rules.
 
@@ -523,10 +517,10 @@ Now that all pieces are in place:
 
 ### ✳️ Prompt (For O3 Execution)
 
-**Goal**  
+**Goal**
 Refactor an existing Python-based module routing system to process a single source text file and a cluster-based CSV, extracting and writing grouped module content into separate output files.
 
-**Return Format**  
+**Return Format**
 Return a complete Python script that does the following:
 - Parses the input text file for modules marked by `MODULE` and `END OF MODULE`.
 - Loads a CSV file where:
@@ -580,4 +574,3 @@ answer in 1 line - should i place the existing python script in this prompt?
 ## ChatGPT (2025-04-14T17:16:02.001194+00:00)
 
 No, you don't need to include the existing script—this prompt is designed to generate a new one from scratch based on your updated specifications.
-

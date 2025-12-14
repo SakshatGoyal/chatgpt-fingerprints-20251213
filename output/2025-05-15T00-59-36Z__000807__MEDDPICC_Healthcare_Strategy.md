@@ -105,7 +105,7 @@ Palo Alto Networks can use AI to turbocharge **pre-sales motions** by acting as 
 ---
 
 ### 🔍 1. **Account Research & Prioritization**
-**AI Assist:**  
+**AI Assist:**
 - Ingest third-party data (LinkedIn, Bombora, DiscoverOrg) + Cortex telemetry to recommend accounts with surging interest in cloud, endpoint, or ZTNA.
 - Rank accounts using fit + intent + risk (e.g., recent breach, ransomware incident, expansion triggers).
 
@@ -114,7 +114,7 @@ Palo Alto Networks can use AI to turbocharge **pre-sales motions** by acting as 
 ---
 
 ### 🧭 2. **Discovery & Qualification (MEDDPICC)**
-**AI Assist:**  
+**AI Assist:**
 - Use meeting transcripts to auto-tag MEDDPICC elements (e.g., Economic Buyer identified, Metrics discussed).
 - Suggest gaps in discovery and prompt next-best questions.
 - Auto-generate summaries and action items.
@@ -124,7 +124,7 @@ Palo Alto Networks can use AI to turbocharge **pre-sales motions** by acting as 
 ---
 
 ### 📑 3. **Proposal Creation & Quoting**
-**AI Assist:**  
+**AI Assist:**
 - Auto-generate first-draft scopes of work and solution overviews using account context and prior successful deals.
 - Recommend pricing bundles or services based on past wins (e.g., common Cortex SKUs + CSG hours for healthcare).
 - Flag risky discounts or inconsistent terms.
@@ -134,7 +134,7 @@ Palo Alto Networks can use AI to turbocharge **pre-sales motions** by acting as 
 ---
 
 ### 🧠 4. **Internal Deal Strategy & Forecasting**
-**AI Assist:**  
+**AI Assist:**
 - Summarize deal status and risk based on CRM activity, email sentiment, and stakeholder engagement.
 - Forecast likelihood to close using historical data and stage progression.
 - Coach AEs with “next best action” (e.g., “Schedule business value review with VP InfoSec”).
@@ -144,7 +144,7 @@ Palo Alto Networks can use AI to turbocharge **pre-sales motions** by acting as 
 ---
 
 ### 💬 5. **Demo & POV Execution**
-**AI Assist:**  
+**AI Assist:**
 - Suggest demo scripts based on vertical, persona, and deal stage.
 - Analyze POV telemetry in real time: where the customer engaged most, what failed, what should be remediated.
 - Post-POV: auto-generate win/loss reports with suggestions for similar future plays.
@@ -154,7 +154,7 @@ Palo Alto Networks can use AI to turbocharge **pre-sales motions** by acting as 
 ---
 
 ### 🔄 6. **Cross-Functional Collaboration**
-**AI Assist:**  
+**AI Assist:**
 - Summarize long Slack/email threads into key takeaways for RVPs, PMs, CSG, and legal.
 - Track customer escalations or blockers across deals and recommend escalation paths.
 - Auto-tag solution architects, PS, and PMs who handled similar challenges.
@@ -171,7 +171,7 @@ Imagine integrating Cortex XSIAM or XDR telemetry into Salesforce via an AI assi
 
 ---
 
-**Bottom Line:**  
+**Bottom Line:**
 AI should act like an elite pre-sales assistant: fast, strategic, always learning, and deeply embedded in your workflow. If implemented right, it lets AEs focus on *selling outcomes*, not chasing updates or manually stitching insights.
 
 Would you like to sketch a prototype AI workflow for pre-sales using PANW tools + third-party integrations?
@@ -225,7 +225,6 @@ Would you like a storyboard or customer-value positioning slide you can use to c
 
 ## You (2025-05-15T01:17:22.471000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-A5J4HLWR2CT8f43p9oiZAj', 'size_bytes': 6563186, 'width': 2048, 'height': 1208, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 this is sort of a mockup the internal teams created as a starting point but i feel that even for a starting point, its missing a lot of nuances that you need to orient yourself as you create a strategy for a sales quarter or a sales year. So tell me, what're your go-to metrics when you're trying to plan your quarter or year? How do you breakdown all the data and try to address multiple opportunities in an efficient way?
 
 ## ChatGPT (2025-05-15T01:17:24.055398+00:00)
@@ -292,7 +291,7 @@ Would you like me to sketch a revised AE-focused dashboard mockup? One that tran
 
 ## You (2025-05-15T01:22:51.454000+00:00)
 
-So, if you had to create a dashboard for yourself, how would you construct it? Feel free to take elements from the mockup, but I need you to give me an accurate look at how you might try to construct a dashboard, and where do you see AI helping you as a partner through this dashboard. 
+So, if you had to create a dashboard for yourself, how would you construct it? Feel free to take elements from the mockup, but I need you to give me an accurate look at how you might try to construct a dashboard, and where do you see AI helping you as a partner through this dashboard.
 
 While it's ok to be speculative about the technology and use cases of AI, I do want you to stick to realistic use cases that are contextual to PANW.
 
@@ -307,7 +306,6 @@ If I were designing a **sales execution dashboard for myself as a Palo Alto Netw
 ### **1. Top Line Orientation (North Star View)**
 > **Purpose:** Immediate readout of my business health and goal trajectory.
 
-- **Quota / Attainment (QTD & FYTD)**  
+- **Quota / Attainment (QTD & FYTD)**
   - % to target (split by net-new, renewals, cross-sell)
   - Acceler
-

@@ -2,15 +2,15 @@
 
 ## You (2025-05-15T02:10:37.550000+00:00)
 
-I need your help further refining this prompt and getting the most creative yet practical answer from chatGPT. 
+I need your help further refining this prompt and getting the most creative yet practical answer from chatGPT.
 
 this is my prompt:
 
-"Ok great! Now, I'd like you to maintain your core knowledge of an account executive at PANW, but this time I also want you to think like a strategic product designer who's an expert at designing meaningful and scalable dashboards. 
+"Ok great! Now, I'd like you to maintain your core knowledge of an account executive at PANW, but this time I also want you to think like a strategic product designer who's an expert at designing meaningful and scalable dashboards.
 
-I want you to group all these questions in the way in which you'd like to understand the data. Or rather, I need you to help me find the easiest ways to quickly capture the data. For example, some might be best represented with a single metric on a screen in small text. Some might be hero metrics, that need to appear larger on a screen. Some might be hero metrics, but they may also need some kind of trend line or bar graph for some context. Some might be best represented through a donut chart. 
+I want you to group all these questions in the way in which you'd like to understand the data. Or rather, I need you to help me find the easiest ways to quickly capture the data. For example, some might be best represented with a single metric on a screen in small text. Some might be hero metrics, that need to appear larger on a screen. Some might be hero metrics, but they may also need some kind of trend line or bar graph for some context. Some might be best represented through a donut chart.
 
-While thinking about what might be the best way to answer these questions for you, I also want you to think broadly. For example, 
+While thinking about what might be the best way to answer these questions for you, I also want you to think broadly. For example,
 
 "Which accounts typically require heavy SE/CS/PS support?"
 
@@ -185,9 +185,9 @@ Would you like any examples of how we might rephrase one of your current paragra
 
 ## You (2025-05-15T02:13:30.784000+00:00)
 
-1. something between a dashboard spec document with layout zones (hero, secondary, trend modules) and a high-level conceptual model showing reusability of certain visualizations. 
+1. something between a dashboard spec document with layout zones (hero, secondary, trend modules) and a high-level conceptual model showing reusability of certain visualizations.
 
-2. aim for multi-use visualizations that answer 3–5 questions each, but also give me additional questions it can answer. 
+2. aim for multi-use visualizations that answer 3–5 questions each, but also give me additional questions it can answer.
 
 3. Analytical and structured
 
@@ -214,40 +214,40 @@ Excellent. Based on your answers, we’ll now build a high-precision prompt that
 ## ✅ Final Optimized Prompt
 
 > **You are a dual-role expert:** a high-performing **Account Executive at Palo Alto Networks (PANW)** who also has the skillset of a **strategic product designer** specializing in **intelligent, scalable dashboard design**.
-> 
-> Your task:  
+>
+> Your task:
 > **Design an intelligent, multi-use dashboard layout** that visually answers a comprehensive set of PANW sales and customer lifecycle questions (listed below), while **minimizing cognitive load** and **maximizing reuse across components**.
-> 
+>
 > ### 🎯 Objectives:
 > 1. Group questions into logical **dashboard zones**:
 >     - **Hero Metrics** (always-visible, top-left, time-sensitive)
 >     - **Trend Visuals** (line charts, bar charts, etc.)
 >     - **Segmented Views / Filters** (customer cohort toggles, patch views)
 >     - **Context Modules** (support insights, usage depth, partner overlays)
-> 
+>
 > 2. For each visualization you propose:
 >     - Name the **chart type**
 >     - List **primary questions** it answers
 >     - Suggest **secondary questions** it could answer with filters or hover-states
 >     - Identify **overlapping or redundant questions** that can be consolidated into this view
 >     - Note any **visual design best practices** (e.g., sizing, placement, color use)
-> 
+>
 > 3. Identify **dashboard layout principles** as you go:
 >     - e.g., “Time-to-quota and pipeline sufficiency should be shown together in the hero zone due to their daily impact on AE priorities.”
 >     - Keep in mind the user context: a PANW AE in a typical desktop layout environment, possibly reviewing this daily or weekly.
-> 
+>
 > 4. Think critically about **reusability and multifunctionality**:
 >     - Prioritize visualizations that can **answer 3–5 related questions**
 >     - Flag **any opportunities to combine multiple data points into a single view**
 >     - Reduce chart overload by consolidating patterns (e.g., adoption, engagement, and risk) into layered visuals
-> 
+>
 > ### 📋 Input Questions:
 > *(Insert your full structured question set here—Sections 1 through 6 as provided above)*
-> 
+>
 > ---
-> 
+>
 > Return your output in this structure:
-> 
+>
 > ### 🔧 Dashboard Zone: [Zone Name]
 > - **Purpose**: [What this zone helps the AE accomplish]
 > - **Visualization 1**:
@@ -261,11 +261,11 @@ Excellent. Based on your answers, we’ll now build a high-precision prompt that
 >     - Redundant or Overlapping Question Consolidations:
 >         - Consolidate [X] and [Y] here
 >     - Design Notes: [e.g., Use conditional formatting to flag risk]
-> 
+>
 > *(Repeat per visualization/module)*
-> 
+>
 > ---
-> 
+>
 > Conclude with a section called **“📐 Layout Principles & Design Patterns”**, summarizing:
 > - Placement logic (e.g., hero metrics top-left)
 > - Color/contrast best practices
@@ -274,4 +274,3 @@ Excellent. Based on your answers, we’ll now build a high-precision prompt that
 ---
 
 Would you like me to generate a sample section using this prompt with your actual PANW AE questions, so you can see the structure in action?
-

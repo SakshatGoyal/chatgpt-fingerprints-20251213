@@ -60,14 +60,13 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T21:26:23.498387+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 9 - C5-I2,Value Clash,Capability Frame,Future-Proofed,Surface Alignment,Plan vs. React,Overstretched Org,Certainty Illusion  
-CATEGORICAL MODULE 31 - C4-I4,Cultural Drift,Capability Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Governance Shift,Shallow Change  
-CATEGORICAL MODULE 27 - C2-I2,Cognitive Fog,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Ignored Insight  
-CATEGORICAL MODULE 19 - C4-I4,System Tangle,Ecosystem Frame,Alignment Achieved,Surface Alignment,Plan vs. React,Governance Shift,Silo Drag  
-CATEGORICAL MODULE 13 - C1-I3,Value Clash,Values Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 28 - C3-I6,Value Clash,Ecosystem Frame,Locked In,Surface Alignment,Bold vs. Safe,Governance Shift,Process Trap  
-CATEGORICAL MODULE 70 - C4-I1,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Unknown,Certainty Illusion  
-CATEGORICAL MODULE 62 - C4-I1,Value Clash,Capability Frame,Alignment Achieved,Unknown,Vision vs. Reality,Overstretched Org,Capability Gap  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 9 - C5-I2,Value Clash,Capability Frame,Future-Proofed,Surface Alignment,Plan vs. React,Overstretched Org,Certainty Illusion
+CATEGORICAL MODULE 31 - C4-I4,Cultural Drift,Capability Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Governance Shift,Shallow Change
+CATEGORICAL MODULE 27 - C2-I2,Cognitive Fog,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Ignored Insight
+CATEGORICAL MODULE 19 - C4-I4,System Tangle,Ecosystem Frame,Alignment Achieved,Surface Alignment,Plan vs. React,Governance Shift,Silo Drag
+CATEGORICAL MODULE 13 - C1-I3,Value Clash,Values Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 28 - C3-I6,Value Clash,Ecosystem Frame,Locked In,Surface Alignment,Bold vs. Safe,Governance Shift,Process Trap
+CATEGORICAL MODULE 70 - C4-I1,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Unknown,Certainty Illusion
+CATEGORICAL MODULE 62 - C4-I1,Value Clash,Capability Frame,Alignment Achieved,Unknown,Vision vs. Reality,Overstretched Org,Capability Gap
 CATEGORICAL MODULE 10 - C4-I3,Cultural Drift,Evidence Frame,Unknown,Unknown,Global vs. Local,Culture Clash,Silo Drag
-

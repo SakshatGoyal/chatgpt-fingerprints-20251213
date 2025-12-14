@@ -55,19 +55,19 @@ Awesome — thanks for laying that out so clearly. Before we *begin creating the
 
 ### 🧠 Clarification & Assumptions Check
 
-1. **On Categorical Granularity**:  
+1. **On Categorical Granularity**:
    Are all the non-ID columns purely categorical (nominal, not ordinal)? Any edge cases with mixed data types or multi-select fields?
 
-2. **Dimensionality Preference**:  
+2. **Dimensionality Preference**:
    You mentioned UMAP/PCA optionally — should the model *automatically* apply dimensionality reduction based on a threshold (e.g., >100 columns after encoding), or should it return both the high-dimensional and reduced versions?
 
-3. **Output Use Case**:  
+3. **Output Use Case**:
    Is the transformed data going directly into HDBSCAN, or will there be any additional preprocessing (e.g., normalization, feature selection) after this step?
 
-4. **UMAP Settings (if used)**:  
+4. **UMAP Settings (if used)**:
    Would you like to specify parameters (e.g., `n_neighbors`, `min_dist`) or let the model choose reasonable defaults?
 
-5. **Return Format Preference**:  
+5. **Return Format Preference**:
    Do you prefer the final output as two separate files — (a) the one-hot encoded dataframe, and (b) an optional reduced version — or merged into one CSV/DataFrame?
 
 ---
@@ -204,7 +204,7 @@ Convert the categorical tag columns in the CSV file "Tagging - Business Strategy
 - This transformation is part of a larger clustering pipeline and must preserve tag semantics for interpretability.
 
 # File Location:
-Input file is located at:  
+Input file is located at:
 `/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Data Viz experiment/Tagging - Business Strategy.csv`
 
 Simulate this pipeline in Python, using pandas, scikit-learn, and umap-learn as needed. Return or save the outputs as described above.
@@ -213,4 +213,3 @@ Simulate this pipeline in Python, using pandas, scikit-learn, and umap-learn as 
 ---
 
 Would you like me to also generate the **Python script** for this prompt now?
-

@@ -115,8 +115,8 @@ Example Output Structure (Abbreviated)
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Tension statement**  
-> Full quote from module  
+**1. Tension statement**
+> Full quote from module
 — MODULE 1 - C3-I3, Archetype 3.txt
 
 [...]
@@ -125,10 +125,9 @@ Example Output Structure (Abbreviated)
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. Belief statement**  
-> Full quote from module  
+**1. Belief statement**
+> Full quote from module
 — MODULE 1 - C3-I3, Archetype 3.txt
-
 
 
 ⸻
@@ -159,47 +158,46 @@ This archetype reflects senior decision-makers navigating the biopharmaceutical 
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Decision frameworks shift from scientific rigor to market appeal as candidates advance.**  
-> “Decision criteria evolve as drug candidates progress through clinical trials, with increased emphasis on market-oriented factors—such as formulary adoption, competitor activity, and projected peak sales—in later phases.”  
+**1. Decision frameworks shift from scientific rigor to market appeal as candidates advance.**
+> “Decision criteria evolve as drug candidates progress through clinical trials, with increased emphasis on market-oriented factors—such as formulary adoption, competitor activity, and projected peak sales—in later phases.”
 — MODULE 2 - C3-I3, Archetype 2.txt
 
-**2. Pharmacoeconomic data is inconsistently applied, despite its acknowledged importance.**  
-> “While pharmacoeconomics is acknowledged as a vital tool for evaluating drug value, its integration into the R&D decision-making process is uneven, indicating potential gaps in the strategic adoption of economic evaluation methods.”  
+**2. Pharmacoeconomic data is inconsistently applied, despite its acknowledged importance.**
+> “While pharmacoeconomics is acknowledged as a vital tool for evaluating drug value, its integration into the R&D decision-making process is uneven, indicating potential gaps in the strategic adoption of economic evaluation methods.”
 — MODULE 3 - C3-I3, Archetype 2.txt
 
-**3. Global operational efficiency is often in tension with localized regulatory and market needs.**  
-> “Multinational life sciences companies must carefully balance the advantages of global scale with the need for localized strategies to navigate diverse regulatory landscapes and market dynamics.”  
+**3. Global operational efficiency is often in tension with localized regulatory and market needs.**
+> “Multinational life sciences companies must carefully balance the advantages of global scale with the need for localized strategies to navigate diverse regulatory landscapes and market dynamics.”
 — MODULE 54 - C1-I7, Archetype 2.txt
 
-**4. Success in complex regulatory environments favors those who act early and flexibly.**  
-> “Executives who proactively engage regulators and adopt innovative market entry strategies—such as strategic licensing and differential pricing—demonstrate superior ability to launch products successfully in globally complex regulatory environments.”  
+**4. Success in complex regulatory environments favors those who act early and flexibly.**
+> “Executives who proactively engage regulators and adopt innovative market entry strategies—such as strategic licensing and differential pricing—demonstrate superior ability to launch products successfully in globally complex regulatory environments.”
 — MODULE 87 - C1-I7, Archetype 2.txt
 
-**5. Later-phase commercial optimism may obscure early-stage operational risks.**  
-> “Late-phase decisions may overestimate market prospects, reflecting a cognitive shift toward commercial optimism... shifts in prioritization may mask underlying operational risks overlooked in early assessments.”  
+**5. Later-phase commercial optimism may obscure early-stage operational risks.**
+> “Late-phase decisions may overestimate market prospects, reflecting a cognitive shift toward commercial optimism... shifts in prioritization may mask underlying operational risks overlooked in early assessments.”
 — MODULE 2 - C3-I3, Archetype 2.txt
 
 ---
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. “Market readiness trumps technical detail in later phases.”**  
-> “Decision criteria evolve… with increased emphasis on market-oriented factors… in later phases.”  
+**1. “Market readiness trumps technical detail in later phases.”**
+> “Decision criteria evolve… with increased emphasis on market-oriented factors… in later phases.”
 — MODULE 2 - C3-I3, Archetype 2.txt
 
-**2. “Economic evaluations are useful—but too complex for routine use.”**  
-> “Executives may undervalue pharmacoeconomic inputs due to perceived complexity or a lack of familiarity, resulting in inconsistent application…”  
+**2. “Economic evaluations are useful—but too complex for routine use.”**
+> “Executives may undervalue pharmacoeconomic inputs due to perceived complexity or a lack of familiarity, resulting in inconsistent application…”
 — MODULE 3 - C3-I3, Archetype 2.txt
 
-**3. “Global strategy must bend to local regulation.”**  
-> “Companies must… balance the advantages of global scale with the need for localized strategies to navigate diverse regulatory landscapes and market dynamics.”  
+**3. “Global strategy must bend to local regulation.”**
+> “Companies must… balance the advantages of global scale with the need for localized strategies to navigate diverse regulatory landscapes and market dynamics.”
 — MODULE 54 - C1-I7, Archetype 2.txt
 
-**4. “Regulatory engagement is not just compliance—it’s a strategic enabler.”**  
-> “Early regulator engagement and adaptive market access strategies enable both revenue realization and public health impact.”  
+**4. “Regulatory engagement is not just compliance—it’s a strategic enabler.”**
+> “Early regulator engagement and adaptive market access strategies enable both revenue realization and public health impact.”
 — MODULE 87 - C1-I7, Archetype 2.txt
 
 ---
 
 Let me know if you'd like this formatted into a slide deck, included in a synthesis report, or converted into personas for design workshops.
-

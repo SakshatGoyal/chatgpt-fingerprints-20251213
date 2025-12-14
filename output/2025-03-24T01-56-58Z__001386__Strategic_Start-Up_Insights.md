@@ -149,16 +149,16 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:**  
+- **Key Themes:**
   The paper centers on the strategic preconditions of start-ups, emphasizing how business ideas—primarily technological and socially oriented—are conceived, validated, and transformed into scalable ventures. It examines internal resource constraints, subjective assessments of novelty, and the interplay between independence and external partnership needs.
 
-- **Core Motivations:**  
+- **Core Motivations:**
   Driven by the high failure rate and limited viability of start-ups, the research seeks to elucidate how founders’ strategic choices, cognitive biases in assessing novelty, and resource limitations shape operational decisions. The study is motivated by the need to provide a clear strategic balance that informs the decision-making process for both nascent and scaling ventures.
 
-- **Methodological Clarification:**  
+- **Methodological Clarification:**
   Using a qualitative approach, the study analyzed personal statements from 147 start-up founders in Slovakia. Data were clustered by key themes (e.g., business idea, internal and external environments, vision and goals) and synthesized into a strategic balance sheet. This method offers rich, context-specific insights but carries limitations inherent to non-probabilistic sampling and self-reported data.
 
-- **Relevance Assessment:**  
+- **Relevance Assessment:**
   The findings are directly relevant to executive decision-makers facing similar strategic dilemmas in start-ups and early-stage companies. They offer empirical grounding on the tension between innovative ideas and resource limitations, thereby informing strategic planning and partnership engagement in competitive, rapidly evolving markets.
 
 ---
@@ -167,102 +167,102 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Start-up business ideas are predominantly rooted in technological and socially noble domains, yet their claimed novelty is largely justified through subjective, region-specific criteria rather than through objective, external validation." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:**  
-  Founders face the challenge of distinguishing between a truly unique value proposition and an idea whose novelty is merely perceived through limited local benchmarks.  
-- **Underlying Beliefs & Biases:**  
-  There is an inherent bias toward overestimating the uniqueness of one’s own idea, influenced by personal experiences and local market conditions.  
-- **Expected vs. Actual Outcomes:**  
-  While founders expect that a novel idea will automatically attract market interest, the lack of robust, external validation often results in later strategic corrections or even wasted resources.  
-- **Broader Implications:**  
-  This misalignment between perceived and validated novelty may necessitate more rigorous, objective market analyses to mitigate strategic risks.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:**
+  Founders face the challenge of distinguishing between a truly unique value proposition and an idea whose novelty is merely perceived through limited local benchmarks.
+- **Underlying Beliefs & Biases:**
+  There is an inherent bias toward overestimating the uniqueness of one’s own idea, influenced by personal experiences and local market conditions.
+- **Expected vs. Actual Outcomes:**
+  While founders expect that a novel idea will automatically attract market interest, the lack of robust, external validation often results in later strategic corrections or even wasted resources.
+- **Broader Implications:**
+  This misalignment between perceived and validated novelty may necessitate more rigorous, objective market analyses to mitigate strategic risks.
 **[Empirical]**
 
-**Supporting Context**  
-The study shows that approximately 65.3% of start-up ideas are technologically based, yet nearly one-quarter provide no objective justification for their novelty. The data, drawn from personal interviews, highlight that subjective claims of “being first” or “unique” are common, underscoring the need for critical scrutiny in early-stage strategic planning.  
+**Supporting Context**
+The study shows that approximately 65.3% of start-up ideas are technologically based, yet nearly one-quarter provide no objective justification for their novelty. The data, drawn from personal interviews, highlight that subjective claims of “being first” or “unique” are common, underscoring the need for critical scrutiny in early-stage strategic planning.
 **[Empirical]**
 
 ---
 
-**2. Insight Statement**  
+**2. Insight Statement**
 "Internal resource constraints—marked by a lack of capital, specialized know-how, and operational experience—severely limit a start-up’s capacity to scale, often forcing founders to rely on personal savings despite the availability of external funding." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:**  
-  Executives must balance the desire to maintain control and independence with the critical need for external capital to achieve growth.  
-- **Underlying Beliefs & Biases:**  
-  Founders’ overreliance on internal resources reflects a cognitive bias that undervalues the potential benefits of external investment, often due to a fear of relinquishing control.  
-- **Expected vs. Actual Outcomes:**  
-  Although founders expect that personal savings will sustain the venture, the evidence shows that such reliance limits scalability and long-term competitiveness.  
-- **Broader Implications:**  
-  This highlights a crucial decision point where embracing external partnerships and funding could accelerate growth, yet hesitation remains due to ingrained risk aversion.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:**
+  Executives must balance the desire to maintain control and independence with the critical need for external capital to achieve growth.
+- **Underlying Beliefs & Biases:**
+  Founders’ overreliance on internal resources reflects a cognitive bias that undervalues the potential benefits of external investment, often due to a fear of relinquishing control.
+- **Expected vs. Actual Outcomes:**
+  Although founders expect that personal savings will sustain the venture, the evidence shows that such reliance limits scalability and long-term competitiveness.
+- **Broader Implications:**
+  This highlights a crucial decision point where embracing external partnerships and funding could accelerate growth, yet hesitation remains due to ingrained risk aversion.
 **[Empirical]**
 
-**Supporting Context**  
-Survey results indicate that 63.9% of the start-ups use only founder savings, with a notable shortage in professional expertise and formalized processes. This internal deficiency is corroborated by qualitative clustering of responses, which consistently point to operational limitations as a barrier to rapid growth.  
+**Supporting Context**
+Survey results indicate that 63.9% of the start-ups use only founder savings, with a notable shortage in professional expertise and formalized processes. This internal deficiency is corroborated by qualitative clustering of responses, which consistently point to operational limitations as a barrier to rapid growth.
 **[Empirical]**
 
 ---
 
-**3. Insight Statement**  
+**3. Insight Statement**
 "Start-ups encounter formidable external challenges—including intense competition, inconsistent product/market fit validation, and the complexities of international expansion—which compound the risks inherent in early-stage ventures." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:**  
-  The tension lies in choosing between operating within a familiar domestic market and the imperative to enter international markets for sustainable growth.  
-- **Underlying Beliefs & Biases:**  
-  There is often an overestimation of initial customer feedback and a corresponding underestimation of competitive pressures, leading to insufficient market validation.  
-- **Expected vs. Actual Outcomes:**  
-  While many start-ups expect early success from domestic operations, the reality is that only systematic, rigorous market validation can ensure readiness for global competition.  
-- **Broader Implications:**  
-  Executives need to develop robust frameworks for product/market fit that account for diverse market dynamics, thereby reducing the likelihood of strategic missteps when scaling internationally.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:**
+  The tension lies in choosing between operating within a familiar domestic market and the imperative to enter international markets for sustainable growth.
+- **Underlying Beliefs & Biases:**
+  There is often an overestimation of initial customer feedback and a corresponding underestimation of competitive pressures, leading to insufficient market validation.
+- **Expected vs. Actual Outcomes:**
+  While many start-ups expect early success from domestic operations, the reality is that only systematic, rigorous market validation can ensure readiness for global competition.
+- **Broader Implications:**
+  Executives need to develop robust frameworks for product/market fit that account for diverse market dynamics, thereby reducing the likelihood of strategic missteps when scaling internationally.
 **[Empirical]**
 
-**Supporting Context**  
-Findings reveal that 59.9% of start-ups primarily serve B2B markets and that verification of product/market fit varies markedly—from unsystematic, impression-based methods to more rigorous pre-market analyses. These disparities underline the critical need for standardized validation protocols in strategic planning.  
+**Supporting Context**
+Findings reveal that 59.9% of start-ups primarily serve B2B markets and that verification of product/market fit varies markedly—from unsystematic, impression-based methods to more rigorous pre-market analyses. These disparities underline the critical need for standardized validation protocols in strategic planning.
 **[Empirical]**
 
 ---
 
-**4. Insight Statement**  
+**4. Insight Statement**
 "Ambitious visions of domestic and international expansion are common among start-up founders; however, these aspirations often lack the support of a coherent internal identity and brand differentiation necessary for sustainable competitive advantage." **[Inferred]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:**  
-  Leaders must reconcile lofty expansion goals with the practical challenges of establishing a distinctive market identity amid internal resource constraints.  
-- **Underlying Beliefs & Biases:**  
-  There is a tendency toward over-optimism regarding market potential, which may lead to underinvestment in critical aspects of brand development and internal capability building.  
-- **Expected vs. Actual Outcomes:**  
-  Although the vision is to dominate both domestic and international markets, the absence of clear internal strategies often results in diluted market positioning and slower-than-expected growth.  
-- **Broader Implications:**  
-  This insight prompts a reexamination of strategic priorities, urging executives to integrate internal branding efforts with expansion plans to foster long-term differentiation.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:**
+  Leaders must reconcile lofty expansion goals with the practical challenges of establishing a distinctive market identity amid internal resource constraints.
+- **Underlying Beliefs & Biases:**
+  There is a tendency toward over-optimism regarding market potential, which may lead to underinvestment in critical aspects of brand development and internal capability building.
+- **Expected vs. Actual Outcomes:**
+  Although the vision is to dominate both domestic and international markets, the absence of clear internal strategies often results in diluted market positioning and slower-than-expected growth.
+- **Broader Implications:**
+  This insight prompts a reexamination of strategic priorities, urging executives to integrate internal branding efforts with expansion plans to foster long-term differentiation.
 **[Inferred]**
 
-**Supporting Context**  
-Approximately one-third of start-ups articulate a vision centered on market expansion, yet many responses indicate an indistinct sense of identity. This gap between ambition and execution is inferred from qualitative data highlighting the minimal focus on unique branding and internal process solidification among founders.  
+**Supporting Context**
+Approximately one-third of start-ups articulate a vision centered on market expansion, yet many responses indicate an indistinct sense of identity. This gap between ambition and execution is inferred from qualitative data highlighting the minimal focus on unique branding and internal process solidification among founders.
 **[Inferred]**
 
 ---
 
-**5. Insight Statement**  
+**5. Insight Statement**
 "The strategic balance sheet reveals that start-ups are caught in a paradox: while operational independence is highly valued, external partnerships are critical to overcoming resource deficiencies and achieving scale." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:**  
-  Executives face the challenge of maintaining control versus leveraging external resources to fuel growth, with each option presenting significant trade-offs.  
-- **Underlying Beliefs & Biases:**  
-  A reluctance to engage with external partners, driven by a desire to preserve autonomy, often clashes with the practical necessity of filling resource gaps.  
-- **Expected vs. Actual Outcomes:**  
-  Although independence is celebrated, the lack of external investment and collaboration frequently impedes rapid expansion and competitive positioning.  
-- **Broader Implications:**  
-  The findings suggest that embracing strategic partnerships—even at the cost of some control—could substantially improve operational capabilities and market competitiveness.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:**
+  Executives face the challenge of maintaining control versus leveraging external resources to fuel growth, with each option presenting significant trade-offs.
+- **Underlying Beliefs & Biases:**
+  A reluctance to engage with external partners, driven by a desire to preserve autonomy, often clashes with the practical necessity of filling resource gaps.
+- **Expected vs. Actual Outcomes:**
+  Although independence is celebrated, the lack of external investment and collaboration frequently impedes rapid expansion and competitive positioning.
+- **Broader Implications:**
+  The findings suggest that embracing strategic partnerships—even at the cost of some control—could substantially improve operational capabilities and market competitiveness.
 **[Empirical]**
 
-**Supporting Context**  
-The synthesis in the paper details multiple dilemmas (e.g., independence versus dependence, slow growth versus fast growth, own savings versus venture capital) and emphasizes that partner engagement is pivotal in bridging internal shortcomings. The empirical data consistently demonstrate that external collaborations help compensate for deficiencies in capital, know-how, and process management.  
+**Supporting Context**
+The synthesis in the paper details multiple dilemmas (e.g., independence versus dependence, slow growth versus fast growth, own savings versus venture capital) and emphasizes that partner engagement is pivotal in bridging internal shortcomings. The empirical data consistently demonstrate that external collaborations help compensate for deficiencies in capital, know-how, and process management.
 **[Empirical]**
 
 ---
@@ -272,9 +272,9 @@ The synthesis in the paper details multiple dilemmas (e.g., independence versus 
 - **Coverage Fit:** High — The paper comprehensively addresses executive decision-making within start-ups, detailing strategic challenges, internal resource constraints, and external market dynamics.
 - **Bias & Cognitive Modeling Content:** Present — The analysis explicitly highlights subjective biases in assessing novelty and decision-making under resource constraints, providing a window into cognitive predispositions affecting strategic choices.
 - **Clarity of Methods & Outcomes:** Clear — The qualitative methodology, based on detailed interviews and clustering of founders’ responses, is well-articulated, and the outcomes are synthesized into an actionable strategic balance sheet.
-- **Areas with No Data:**  
-  - Insight Statement: All insights are supported by qualitative data.  
-  - Executive Decision-Making Context: No significant gaps identified.  
+- **Areas with No Data:**
+  - Insight Statement: All insights are supported by qualitative data.
+  - Executive Decision-Making Context: No significant gaps identified.
   - Supporting Context: Sufficient empirical evidence is provided throughout the paper.
 
 ## You (2025-03-24T01:57:42.264000+00:00)
@@ -566,21 +566,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -593,4 +593,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T02:00:14.990612+00:00)
 
 Slávik, Š., Mišúnová Hudáková, I., Procházková, K., & Zagoršek, B. (2022). Strategic background of the start-up—Qualitative analysis. *Administrative Sciences, 12*(1), 17. https://doi.org/10.3390/admsci12010017
-

@@ -2,9 +2,9 @@
 
 ## You (2025-03-25T11:48:27.326079+00:00)
 
-hey help me build a prompt. I'm looking for a creative director at IDEO who has a lot of experience turning insightful yet open ended insights into actionable insights, and has a lot of experience mentoring, leading, and managing designers. 
+hey help me build a prompt. I'm looking for a creative director at IDEO who has a lot of experience turning insightful yet open ended insights into actionable insights, and has a lot of experience mentoring, leading, and managing designers.
 
-My objective is to create an outline of instructions for a whole group of designers. Designers can be liberal so its very easy for them to interpret the same thing in many different ways, so its important to be as precise as possible. 
+My objective is to create an outline of instructions for a whole group of designers. Designers can be liberal so its very easy for them to interpret the same thing in many different ways, so its important to be as precise as possible.
 
 We have about 950 insight modules and a typical structure for the insight module will be pasted below. Our main job is to figure out a sort of card sorting exercise. It's think of it like a bucketing exercise where we have these 950 modules and we have to figure out which of those inside modules aligns best with a particular bucket. There are three buckets totally and I'll explain how to figure out that bucketing system too but yeah we have three buckets in total so the idea is we can figure out a way to find out how many of those inside modules fit into those three buckets.
 
@@ -14,7 +14,7 @@ the three buckets / groups are
 - Understanding Challenges in Decision-Making
 - AI’s Role in Executive Decision-Making
 
-Each designer is supposed to look at about 200 of those insight modules and see which of these questions does it help answer. Some of these questions are yes / no questions, but the objective is not to 'find the answer' to those questions, the objective is to simply check which of the questions can a particular insight module **help** to answer. Another way of thinking of this is, think of the question as a discussion topic. So does the insight module discuss that topic? Here're the questions - 
+Each designer is supposed to look at about 200 of those insight modules and see which of these questions does it help answer. Some of these questions are yes / no questions, but the objective is not to 'find the answer' to those questions, the objective is to simply check which of the questions can a particular insight module **help** to answer. Another way of thinking of this is, think of the question as a discussion topic. So does the insight module discuss that topic? Here're the questions -
 
 ## **Understanding How Executives Make Decisions**
 
@@ -54,7 +54,7 @@ Each designer is supposed to look at about 200 of those insight modules and see 
 
 So the idea is, while looking at the Insight Module, a designer will see which of these questions or discussion topics is this Insight Module talking about or trying to answer. Now, understandably, one Insight Module can try to answer multiple questions, which is fine. The designers are supposed to make a table, basically plotting a yes or no response, or you can think of it as a score of 0 or 1. So, let's say one Insight Module answers 3 questions, then against each of those 3 questions, the designer will put a score of 1 and he will put a score of 0 against all the remaining 18 questions. So, there are a total of 21 questions, each category has 3 questions.
 
-Now, once this table, the calculations of this table is completed, then what the designer will do is see which category scores the highest. So for example, if one insight module answers three questions under the first category and one question under the second category, then the final score for category 1 will be 3, the final score for category 2 will be 1, the final score for category 3 will be 0. And based on the highest score, the designer will decide that, okay, this one particular insight module belongs to category 1. It's also possible that one insight module does not answer any of the seven questions. In that case, the designer will say that, okay, this insight module is invalid. 
+Now, once this table, the calculations of this table is completed, then what the designer will do is see which category scores the highest. So for example, if one insight module answers three questions under the first category and one question under the second category, then the final score for category 1 will be 3, the final score for category 2 will be 1, the final score for category 3 will be 0. And based on the highest score, the designer will decide that, okay, this one particular insight module belongs to category 1. It's also possible that one insight module does not answer any of the seven questions. In that case, the designer will say that, okay, this insight module is invalid.
 
 So, at the end, we're looking for two deliverables. One is a table that contains all these 21 questions. And how does the particular insight module score against all those 7 questions. And we're looking for a bottom node which has the insight module's code and the final conclusive category.
 
@@ -71,28 +71,28 @@ This is where the strategic idea is introduced, contextualized, and supported.
 ### 🔹 What to Look For:
 
 - **Insight Statement**
-    
+
     Concise, critical framing of a core idea. Often challenges prevailing logic or introduces a surprising pattern.
-    
+
     > What assumption or mental model is being questioned?
-    
+
 - **Executive Decision-Making Context**
-    
+
     Includes:
-    
+
     - Strategic dilemma (what’s at stake?)
     - Underlying beliefs and biases (what assumptions are being surfaced?)
     - Expected vs. actual outcomes (what went differently than planned?)
     - Broader implications (what could change systemically?)
-    
+
     > Who’s making the decision? What kind of decision is it? What organizational layer does it affect?
-    
+
 - **Supporting Context**
-    
+
     Empirical grounding or theoretical basis for the insight. Includes references to data, frameworks, case studies, or precedent.
-    
+
     > Does this insight come from market dynamics, internal operations, innovation logic, or individual reflection?
-    
+
 
 ---
 
@@ -114,14 +114,14 @@ This is a beautifully complex and high-stakes sorting challenge—very IDEO in s
 
 ---
 
-## 🧠 Stage 1: Conversational Discovery  
+## 🧠 Stage 1: Conversational Discovery
 Let’s deeply explore and surface all nuances to craft the perfect prompt.
 
 ---
 
 ### ✅ Let’s confirm what we know so far:
 
-**Your Objective**:  
+**Your Objective**:
 Create a highly precise, instructionally clear outline for designers to **categorize 950 insight modules** into one of **three thematic buckets** based on how well the content aligns with 21 predefined, nuanced strategic questions.
 
 ---
@@ -141,34 +141,34 @@ Create a highly precise, instructionally clear outline for designers to **catego
 - Sum the scores across the 3 categories.
 - Assign the module to the category with the highest score.
 - If the module scores **0 across all 21**, mark it **invalid**.
-- Deliverables:  
-  - A **table** per module with binary scores for all 21 questions.  
+- Deliverables:
+  - A **table** per module with binary scores for all 21 questions.
   - A **final category assignment or invalidation note** at the bottom.
 
 ---
 
 ### 🕵️‍♀️ Now, a few clarifying questions before we “begin building the prompt”:
 
-1. **Tone & Format for Instructions**:  
+1. **Tone & Format for Instructions**:
    Should the final instructions read like a formal project brief, a human-to-human team email, a Figma/Notion-style bullet doc, or something else?
 
-2. **Output Medium & Environment**:  
-   Where will designers encounter these instructions? (Google Docs? Miro? Figma? Notion?)  
+2. **Output Medium & Environment**:
+   Where will designers encounter these instructions? (Google Docs? Miro? Figma? Notion?)
    This helps determine formatting fidelity, example structure, etc.
 
-3. **Time Constraints or Heuristics?**  
+3. **Time Constraints or Heuristics?**
    Should we offer guidance on how long a designer should spend evaluating each module? Any heuristics if they’re unsure?
 
-4. **Edge Case Handling**:  
+4. **Edge Case Handling**:
    If two buckets tie (e.g., 2 questions in Bucket 1, 2 questions in Bucket 2, 0 in Bucket 3), what should the designer do?
 
-5. **Preferred Terminology**:  
+5. **Preferred Terminology**:
    Do you want to stick with words like *“discussion topics,”* *“buckets,”* and *“score of 1 or 0”*, or would you prefer more polished terms like *“categorical tags,”* *“thematic alignment,”* or *“binary mapping”*?
 
-6. **Who is the audience?**  
+6. **Who is the audience?**
    Are these junior, mid, or senior-level designers? Should the instructions include mindset guidance, reminders to avoid bias, or an example module breakdown?
 
-7. **Need Examples?**  
+7. **Need Examples?**
    Do you want me to embed one or two worked-out sample modules (real or fictional) as a reference inside the instructions?
 
 ---
@@ -195,16 +195,16 @@ Unless you have anything else to add right now, I’m ready to move to:
 
 Here’s what I’ll include:
 
-1. ✅ Clear Objective Summary  
-2. 🧠 Execution Persona: "IDEO Creative Director"  
-3. 📐 Structural Thinking (chain-of-thought baked into tone)  
-4. 🎭 Instructional Style: Conversational, polished  
-5. 🧱 Placeholder sections:  
-   - [INSERT QUESTION SET HERE]  
-   - [INSERT SAMPLE MODULE HERE]  
-   - [INSERT MODULE STRUCTURE REFERENCE HERE]  
-6. 📊 Output Format Description (Binary Mapping Table + Final Category Tag)  
-7. 🧼 Assumptions & Verification Guidance  
+1. ✅ Clear Objective Summary
+2. 🧠 Execution Persona: "IDEO Creative Director"
+3. 📐 Structural Thinking (chain-of-thought baked into tone)
+4. 🎭 Instructional Style: Conversational, polished
+5. 🧱 Placeholder sections:
+   - [INSERT QUESTION SET HERE]
+   - [INSERT SAMPLE MODULE HERE]
+   - [INSERT MODULE STRUCTURE REFERENCE HERE]
+6. 📊 Output Format Description (Binary Mapping Table + Final Category Tag)
+7. 🧼 Assumptions & Verification Guidance
 
 ---
 
@@ -220,21 +220,21 @@ Awesome. Here we go.
 
 ---
 
-## 🧠 PromptCraft Output: Instructional Prompt for GPT-4o  
+## 🧠 PromptCraft Output: Instructional Prompt for GPT-4o
 **Persona to Assume**: *Creative Director at IDEO — experienced in mentoring designers, turning open-ended insight into structured action, and leading design teams through ambiguity with clarity and rigor.*
 
 ---
 
-### ✳️ OBJECTIVE  
+### ✳️ OBJECTIVE
 You're helping a group of junior-to-mid-level designers categorize 950 insight modules into three thematic buckets. Each insight module will be evaluated based on whether it meaningfully contributes to answering any of 21 strategic discussion questions.
 
 You’re crafting **a conversational, mentor-style instruction set** that explains:
 
-- How to read and assess each module thoroughly  
-- How to assign binary scores against a set of predefined questions  
-- How to determine the dominant thematic alignment for each module  
-- How to document the outcome in a structured format  
-- And how to eliminate a module when it provides no thematic contribution  
+- How to read and assess each module thoroughly
+- How to assign binary scores against a set of predefined questions
+- How to determine the dominant thematic alignment for each module
+- How to document the outcome in a structured format
+- And how to eliminate a module when it provides no thematic contribution
 
 Use **precise language**, **polished terminology**, and a tone that feels like an experienced creative lead walking their team through an open-ended but high-stakes interpretive task.
 
@@ -248,57 +248,57 @@ Keep the instructions **tight**, **clear**, and **motivational** — conversatio
 
 **Hey team—gather around. Let’s talk through the framework we’ll be using to sort through our insight modules.**
 
-We’re sitting on a collection of around 950 insight modules. Each of them holds a different kind of pattern, strategic dilemma, or executive behavior, and your job is to help us figure out where each one most meaningfully belongs.  
+We’re sitting on a collection of around 950 insight modules. Each of them holds a different kind of pattern, strategic dilemma, or executive behavior, and your job is to help us figure out where each one most meaningfully belongs.
 
 We’ve got **three thematic categories**—think of them as conceptual lenses that reflect how executives approach decision-making. Each category is supported by a set of **discussion questions** (which I’ll drop below) that help us get specific about what kinds of patterns we’re trying to surface.
 
 ---
 
-### 🧩 Your Role:  
+### 🧩 Your Role:
 For each module, your job is to:
 
-1. **Read the entire module closely.**  
-   Don’t rely on just the Insight Statement or the Strategic Dilemma—they rarely tell the full story on their own. The deeper patterns often sit in the framing, breakdowns, or implications.  
-   
-2. **Match the module against our full set of 21 discussion questions.**  
-   These questions are grouped into three thematic categories. For each question, ask yourself:  
-   👉 *Does this module meaningfully contribute to answering this discussion topic?*  
-   We’re not looking for perfect matches or yes/no answers—we’re looking for relevance. If the module **speaks to** the theme of the question in a meaningful way, it gets a score of **1**. If it doesn’t, it gets a **0**.  
+1. **Read the entire module closely.**
+   Don’t rely on just the Insight Statement or the Strategic Dilemma—they rarely tell the full story on their own. The deeper patterns often sit in the framing, breakdowns, or implications.
+
+2. **Match the module against our full set of 21 discussion questions.**
+   These questions are grouped into three thematic categories. For each question, ask yourself:
+   👉 *Does this module meaningfully contribute to answering this discussion topic?*
+   We’re not looking for perfect matches or yes/no answers—we’re looking for relevance. If the module **speaks to** the theme of the question in a meaningful way, it gets a score of **1**. If it doesn’t, it gets a **0**.
    This is what we call **binary mapping**.
 
-3. **Total the scores across the three categories.**  
-   Each of the three categories has 7 questions. Once you’ve assigned a score of 1 or 0 to all 21 questions, you’ll total up the score for each category.  
+3. **Total the scores across the three categories.**
+   Each of the three categories has 7 questions. Once you’ve assigned a score of 1 or 0 to all 21 questions, you’ll total up the score for each category.
    Whichever category scores the highest becomes the **primary thematic alignment** for that module.
 
-4. **If a module scores 0 across all 21 questions:**  
+4. **If a module scores 0 across all 21 questions:**
    That’s totally okay. Some insight modules won’t be relevant to this exercise. If none of the questions apply, mark the module as **invalid**—you don’t need to force-fit it.
 
 ---
 
 ### 🧾 What You’ll Submit (Per Module):
 
-- A simple **binary mapping table** with all 21 questions and a 0 or 1 score for each.  
+- A simple **binary mapping table** with all 21 questions and a 0 or 1 score for each.
 - A final note at the bottom stating:
-  - The **Insight Module Code**  
-  - The **Final Thematic Category Tag** (based on the highest score), or  
+  - The **Insight Module Code**
+  - The **Final Thematic Category Tag** (based on the highest score), or
   - Mark as **Invalid** if none of the questions apply.
 
 ---
 
-### 🧱 [INSERT STRUCTURE OF INSIGHT MODULE HERE]  
+### 🧱 [INSERT STRUCTURE OF INSIGHT MODULE HERE]
 This section will include an overview of the layout of an insight module so designers know what to expect (e.g., Insight Statement, Executive Context, Stress Test, etc.)
 
 ---
 
-### ❓ [INSERT QUESTION SET HERE]  
+### ❓ [INSERT QUESTION SET HERE]
 Drop the full list of 21 discussion questions here, grouped into the three thematic categories:
-- Understanding How Executives Make Decisions  
-- Understanding Challenges in Decision-Making  
+- Understanding How Executives Make Decisions
+- Understanding Challenges in Decision-Making
 - AI’s Role in Executive Decision-Making
 
 ---
 
-### 📌 [INSERT SAMPLE MODULE + WORKED EXAMPLE HERE]  
+### 📌 [INSERT SAMPLE MODULE + WORKED EXAMPLE HERE]
 Here’s where you’ll walk through a sample insight module and show how a designer might assign 1s and 0s and arrive at a final thematic tag. Include the full binary table and final categorization note for clarity.
 
 ---
@@ -312,4 +312,3 @@ You’ve got this.
 ---
 
 Would you like me to help you populate the placeholders next—or refine anything in the tone or structure?
-

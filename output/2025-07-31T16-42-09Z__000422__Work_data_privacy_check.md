@@ -15,9 +15,9 @@ That’s a very real and valid concern — especially when you're using a person
 If you've logged into your work Google Workspace account on your personal laptop, here are ways your employer *could* gain visibility — but each depends on what *exactly* is installed or set up:
 
 #### 1. **Google Workspace Access Alone (Browser Login Only)**
-- **Can your employer see your ChatGPT messages, web history, or files?**  
+- **Can your employer see your ChatGPT messages, web history, or files?**
   **No**, not just by you logging into Gmail, Drive, or Calendar on Chrome or Safari.
-- **What they *can* see:**  
+- **What they *can* see:**
   - Your *activity within* Google Workspace (like edits to Docs, Sheets).
   - Metadata (login IPs, browser types).
   - Files you store in *Google Drive* under your work account.
@@ -38,7 +38,7 @@ If you've logged into your work Google Workspace account on your personal laptop
   - **Google Endpoint Management**
   - **Jamf** (on macOS)
   - **CrowdStrike, Microsoft Defender ATP**, etc.
-  
+
   Then they **may** have deeper access:
   - Screen activity
   - App usage
@@ -92,4 +92,3 @@ Unless your company:
 ---
 
 If you’d like, I can walk you through a **step-by-step audit** of your MacBook to confirm there are no monitoring tools installed. Just say the word.
-

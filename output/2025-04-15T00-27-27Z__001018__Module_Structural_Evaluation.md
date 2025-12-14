@@ -87,4 +87,3 @@ MODULE 19 - C3-I1,Reflective Leadership Cultivation,Limited Mandates,Sequenced T
 MODULE 19 - C5-I3,Cognitive Error Management,Mandate-Driven,Coordinated Timing,Interlinked,Medium-Term Resilience
 MODULE 2 - C3-I6,Team-Based Bias Reduction,Limited Mandates,Sequenced Timing,Componentized,Medium-Term Resilience
 MODULE 2 - C5-I1,Premortem Risk Evaluation,Limited Mandates,Sequenced Timing,Componentized,Short-Term Return
-

@@ -160,64 +160,64 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### **Insight 1: Transformative Potential of Generative AI in EP&R**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Generative AI significantly enhances real-time situational awareness and optimizes resource allocation by processing vast, diverse data sets, thereby enabling more timely and informed emergency responses." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders must decide how to integrate advanced AI tools without over-relying on automated outputs that might miss critical contextual nuances.  
-- **Underlying Beliefs & Biases:** There is often an overestimation of technology’s ability to replace nuanced human judgment in crisis scenarios.  
-- **Expected vs. Actual Outcomes:** While AI-driven early warning systems have shown promise, their success depends on complementary human oversight, a factor that many decision-makers may undervalue.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders must decide how to integrate advanced AI tools without over-relying on automated outputs that might miss critical contextual nuances.
+- **Underlying Beliefs & Biases:** There is often an overestimation of technology’s ability to replace nuanced human judgment in crisis scenarios.
+- **Expected vs. Actual Outcomes:** While AI-driven early warning systems have shown promise, their success depends on complementary human oversight, a factor that many decision-makers may undervalue.
 - **Broader Implications:** Embracing generative AI could redefine crisis response protocols, but it necessitates a recalibration of decision-making processes to balance rapid data analysis with human intuition. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical examples in the paper—such as the HealthMap project for early disease outbreak detection and AI-driven wildfire monitoring—demonstrate an 18–20% improvement in early-warning capabilities. However, these pilots are often limited in scale, and challenges like legacy system integration and data biases remain. **[Empirical]**
 
 ---
 
 ### **Insight 2: Data Integration and Security as Critical Barriers**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Data integration and security challenges significantly impede the scaling of AI solutions in emergency management, as fragmented data systems and legacy infrastructures raise vulnerability and operational risks." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives face the difficult trade-off between achieving seamless data integration and maintaining stringent security protocols to protect sensitive information.  
-- **Underlying Beliefs & Biases:** There is a prevalent assumption that centralized data systems inherently boost efficiency, despite their increased exposure to cybersecurity threats.  
-- **Expected vs. Actual Outcomes:** Although integrated systems can enhance predictive analytics, they simultaneously elevate the risk of cyberattacks—a risk many leaders underestimate.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives face the difficult trade-off between achieving seamless data integration and maintaining stringent security protocols to protect sensitive information.
+- **Underlying Beliefs & Biases:** There is a prevalent assumption that centralized data systems inherently boost efficiency, despite their increased exposure to cybersecurity threats.
+- **Expected vs. Actual Outcomes:** Although integrated systems can enhance predictive analytics, they simultaneously elevate the risk of cyberattacks—a risk many leaders underestimate.
 - **Broader Implications:** The deployment of advanced encryption methods and federated learning models is imperative, prompting a re-evaluation of investment priorities toward both technological innovation and robust governance frameworks. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper cites the fragmented nature of U.S. public health data during the COVID-19 crisis and highlights how over a third of local agencies struggled with real-time surveillance data. Advanced methods like homeomorphic encryption and federated learning are proposed as solutions, though their adoption is still emerging. **[Empirical]**
 
 ---
 
 ### **Insight 3: Imperative of Human–Machine Teaming and Adaptive Governance**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Effective human–machine teaming is indispensable in emergency management; AI’s data-crunching capabilities must be paired with human judgment to navigate the unpredictable nuances of disaster response." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Determining the right balance between leveraging AI for efficiency and preserving human oversight to address ethical, cultural, and situational subtleties.  
-- **Underlying Beliefs & Biases:** There exists a risk of overvaluing AI’s analytical power, potentially underestimating the indispensable role of human intuition and empathy in crisis contexts.  
-- **Expected vs. Actual Outcomes:** While AI can rapidly process complex datasets, its lack of cultural awareness and emotional intelligence necessitates deliberate human intervention to avoid misinterpretation of signals.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Determining the right balance between leveraging AI for efficiency and preserving human oversight to address ethical, cultural, and situational subtleties.
+- **Underlying Beliefs & Biases:** There exists a risk of overvaluing AI’s analytical power, potentially underestimating the indispensable role of human intuition and empathy in crisis contexts.
+- **Expected vs. Actual Outcomes:** While AI can rapidly process complex datasets, its lack of cultural awareness and emotional intelligence necessitates deliberate human intervention to avoid misinterpretation of signals.
 - **Broader Implications:** Organizations must invest in continuous training and adaptive governance that emphasize collaborative decision-making, ensuring that AI augments rather than replaces human capabilities. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Case studies within the paper, including the integration of AI tools during the COVID-19 pandemic, reveal that hybrid systems—where AI supports human responders—yield better crisis management outcomes. Nonetheless, scaling such models requires overcoming significant organizational and training challenges. **[Empirical]**
 
 ---
 
 ### **Insight 4: Organizational Challenges and the Need for Strategic Collaboration**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Scaling AI in emergency management is as much an organizational challenge as it is a technological one, demanding strategic collaboration across government, industry, and academia to overcome resource and integration barriers." **[Inferred]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders must navigate budget constraints and workforce reskilling while striving to institutionalize AI-driven innovations that move beyond isolated pilot projects.  
-- **Underlying Beliefs & Biases:** There is often an overreliance on short-term pilot successes, which may obscure the long-term need for broad, cross-sector collaboration.  
-- **Expected vs. Actual Outcomes:** Although pilot projects demonstrate AI’s potential, the absence of coordinated, enterprise-level strategies leads to resource fragmentation and stalled scalability.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders must navigate budget constraints and workforce reskilling while striving to institutionalize AI-driven innovations that move beyond isolated pilot projects.
+- **Underlying Beliefs & Biases:** There is often an overreliance on short-term pilot successes, which may obscure the long-term need for broad, cross-sector collaboration.
+- **Expected vs. Actual Outcomes:** Although pilot projects demonstrate AI’s potential, the absence of coordinated, enterprise-level strategies leads to resource fragmentation and stalled scalability.
 - **Broader Implications:** A more integrated ecosystem—bolstered by initiatives like the NIH’s Bridge to Artificial Intelligence—can help align diverse stakeholder goals, ensuring sustained investment and effective implementation. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The analysis emphasizes the importance of collaboration, noting that organizations with dedicated AI roles are 60% more likely to meet project objectives. Despite these promising figures, the evidence remains largely derived from early-stage projects, underscoring the need for ongoing research and policy support to validate long-term impacts. **[Inferred]**
 
 ---
@@ -227,7 +227,7 @@ The analysis emphasizes the importance of collaboration, noting that organizatio
 - **Coverage Fit:** High — The paper provides a comprehensive discussion on how AI can transform emergency management, detailing both its potential benefits and the challenges inherent in scaling these technologies.
 - **Bias & Cognitive Modeling Content:** Implied Only — While the discussion includes human–machine teaming and the need for adaptive governance, explicit analyses of executive cognitive biases and decision-making frameworks are limited.
 - **Clarity of Methods & Outcomes:** Clear — The paper leverages case studies, pilot examples, and empirical data to articulate its findings, offering a well-structured narrative on AI integration challenges.
-- **Areas with No Data:**  
+- **Areas with No Data:**
     - **Executive Decision-Making Context:** Direct evidence on specific cognitive biases influencing executive decisions is limited.
     - **Insight Statement & Supporting Context:** While robust on operational and technical insights, explicit discussion on the nuances of executive strategic reasoning is less pronounced.
 
@@ -494,21 +494,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -521,4 +521,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T00:44:42.528980+00:00)
 
 Haseley, A., Karnik, C., Kamoie, B., Sinha, I., Mariani, J., & Egizi, A. M. (2023). Leveraging AI in emergency management and crisis response. Deloitte Insights. https://www2.deloitte.com/us/en/insights/industry/public-sector/leveraging-ai-in-emergency-management-and-crisis-response.html
-

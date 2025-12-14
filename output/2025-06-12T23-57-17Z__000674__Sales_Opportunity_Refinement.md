@@ -2,12 +2,12 @@
 
 ## You (2025-06-12T23:57:17.259000+00:00)
 
-I need you to refine the following sentences. 
+I need you to refine the following sentences.
 
 
 ---
-Global Solutions LLC is at a ‘late stage’ and have $72,300 worth of potential opportunities untouched through 2 sales plays. There’s a high confidence for upsell if you can begin engagement with them by this week. 
-Synergy Enterprises has over $90,000 worth of potential opportunities with 3 untouched ‘sales plays’. 
+Global Solutions LLC is at a ‘late stage’ and have $72,300 worth of potential opportunities untouched through 2 sales plays. There’s a high confidence for upsell if you can begin engagement with them by this week.
+Synergy Enterprises has over $90,000 worth of potential opportunities with 3 untouched ‘sales plays’.
 Quantum Dynamic has a ‘High Confidence’ with $90,000 with of potential opportunities with untouched ‘Sales Plays’.
 ---
 
@@ -43,9 +43,8 @@ Certainly. Here's a version with sentence length reduced by roughly 25%, keeping
 
 **Synergy Enterprises** has $90,000+ tied to 3 untouched ‘sales plays’. Prioritize outreach now to activate pipeline before quarter-end.
 
-**Quantum Dynamic** shows ‘High Confidence’ with $90,000 in untapped ‘Sales Plays’. A direct touchpoint this week could trigger key buying signals—move fast. 
+**Quantum Dynamic** shows ‘High Confidence’ with $90,000 in untapped ‘Sales Plays’. A direct touchpoint this week could trigger key buying signals—move fast.
 
 ---
 
 Want a variant fit for Slack or Salesforce chatter alerts?
-

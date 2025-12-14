@@ -48,12 +48,10 @@ MODULE 1 - C4-I4,MODULE 13 - C1-I4,
 MODULE 11 - C1-I1,,MODULE 17 - C2-I1
 
 
-
 Example module structure in text file:
 MODULE 1 - C4-I4
 <text content>
 END OF MODULE
-
 
 
 Output directory can be the same as the CSV location or current working directory.
@@ -82,7 +80,7 @@ def parse_source_file(file_path):
     """
     Parses the text file at file_path extracting modules defined between
     lines starting with 'MODULE' and 'END OF MODULE'.
-    
+
     Returns:
         dict: A dictionary mapping module IDs (the header line) to the full module content.
     """
@@ -132,7 +130,7 @@ def parse_source_file(file_path):
             # Continue collecting module content if inside a module
             if inside_module:
                 current_module_lines.append(line)
-    
+
     # If file ended while still inside a module, log and add it.
     if inside_module and current_module_id:
         logging.warning("File ended but module '%s' was not closed properly. Adding module anyway.", current_module_id)
@@ -140,14 +138,14 @@ def parse_source_file(file_path):
             logging.warning("Duplicate module definition for '%s' found. Skipping duplicate.", current_module_id)
         else:
             modules[current_module_id] = ''.join(current_module_lines)
-    
+
     return modules
 
 def parse_csv_routing(csv_file_path):
     """
     Parses the CSV file where the first row contains cluster names (output file names)
     and subsequent rows contain module IDs (or blank cells). Blank cells are skipped.
-    
+
     Returns:
         dict: A dictionary mapping cluster names to ordered lists of module IDs.
     """
@@ -159,16 +157,16 @@ def parse_csv_routing(csv_file_path):
     except Exception as e:
         logging.error("Error reading CSV file '%s': %s", csv_file_path, e)
         sys.exit(1)
-    
+
     if not rows:
         logging.error("CSV file '%s' is empty.", csv_file_path)
         sys.exit(1)
-    
+
     # The first row contains the cluster names
     cluster_names = [name.strip() for name in rows[0] if name.strip()]
     for name in cluster_names:
         cluster_modules[name] = []
-    
+
     # Process each subsequent row
     for row in rows[1:]:
         for col_index, cell in enumerate(row):
@@ -178,14 +176,14 @@ def parse_csv_routing(csv_file_path):
                 if cluster_name:
                     module_id = cell.strip()
                     cluster_modules[cluster_name].append(module_id)
-                    
+
     return cluster_modules
 
 def write_output_files(cluster_modules, modules_dict, output_dir):
     """
     Writes out one text file per cluster. Each file contains the module content
     for every module listed in that cluster in CSV order with five blank lines between modules.
-    
+
     If a module is missing from the source file, a warning is logged.
     """
     for cluster, module_list in cluster_modules.items():
@@ -212,7 +210,7 @@ def log_unused_modules(modules_dict, cluster_modules):
     used_modules = set()
     for module_list in cluster_modules.values():
         used_modules.update(module_list)
-    
+
     # Check for modules in the source file that are not used.
     for module_id in modules_dict.keys():
         if module_id not in used_modules:
@@ -221,25 +219,25 @@ def log_unused_modules(modules_dict, cluster_modules):
 def main():
     # Configure logging
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
-    
+
     # Define file paths
     source_file_path = "/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Strategy Insights Data Pipeline/Business_Strategy_Modules.txt"
     csv_file_path = "/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Strategy Insights Data Pipeline/Tagging 2 - Cluster Routing.csv"
-    
+
     # Output directory (can be the same as CSV directory)
     output_dir = os.path.dirname(csv_file_path)
-    
+
     logging.info("Parsing source file: %s", source_file_path)
     modules_dict = parse_source_file(source_file_path)
     logging.info("Total modules parsed from source file: %d", len(modules_dict))
-    
+
     logging.info("Parsing CSV routing file: %s", csv_file_path)
     cluster_modules = parse_csv_routing(csv_file_path)
     logging.info("Clusters discovered: %s", ", ".join(cluster_modules.keys()))
-    
+
     # Write the modules into their respective cluster output files.
     write_output_files(cluster_modules, modules_dict, output_dir)
-    
+
     # Optionally log the modules that were not referenced in the CSV.
     log_unused_modules(modules_dict, cluster_modules)
 
@@ -249,19 +247,19 @@ if __name__ == "__main__":
 
 ### How It Works
 
-1. **Parsing the Source File**  
+1. **Parsing the Source File**
    The `parse_source_file` function reads through the source text file line by line. When it detects a line starting with `"MODULE"`, it begins a new module capture. On encountering `"END OF MODULE"`, it finalizes the module content. If the same module header is encountered again, a warning is logged and the duplicate is ignored.
 
-2. **Processing the CSV**  
+2. **Processing the CSV**
    The `parse_csv_routing` function reads the CSV file. It uses the first row for cluster names, then iterates through the remaining rows to build a mapping of clusters to module IDs (ignoring empty cells).
 
-3. **Writing Output Files**  
+3. **Writing Output Files**
    The `write_output_files` function iterates through each cluster, looks up the corresponding module content in the modules dictionary, and writes the content into an output text file. It separates consecutive modules with five blank lines. If a module is missing in the source, it logs a warning.
 
-4. **Logging Unused Modules**  
+4. **Logging Unused Modules**
    The function `log_unused_modules` logs an informational message for any module extracted from the source file that is not referenced in the CSV, which is useful for troubleshooting.
 
-5. **Error Handling and Logging**  
+5. **Error Handling and Logging**
    The script uses error handling around file operations and logs key information to the terminal.
 
 This script should be run in an environment where the specified file paths are valid. Adjust the paths if necessary.
@@ -528,7 +526,7 @@ Sometimes you’ll see this in a source file:
 or
 
 ```
-### MODULE 43 - C2-I2  
+### MODULE 43 - C2-I2
 ```
 
 Even a period or extra space will make the match fail.
@@ -658,7 +656,7 @@ This is super helpful — thanks for sharing the output. It tells us exactly wha
 
 ## 🚨 What’s Broken
 
-### 1. **Only one module was parsed**  
+### 1. **Only one module was parsed**
 ```
 INFO: Parsed module IDs from source: ['### MODULE 1 - C1-I4']
 ```
@@ -795,7 +793,7 @@ def parse_source_file(file_path):
     Parses the text file at file_path extracting modules defined between
     lines starting with '### MODULE' and 'END OF MODULE'. The "### " prefix is removed
     so that the module header matches the CSV.
-    
+
     Returns:
         dict: A dictionary mapping module IDs (e.g. "MODULE 55 - C3-I6") to the complete module content.
     """
@@ -834,7 +832,7 @@ def parse_source_file(file_path):
         else:
             if inside_module:
                 current_module_lines.append(line)
-    
+
     # If file ends without a closing 'END OF MODULE', log a warning and add it
     if inside_module and current_module_id:
         logging.warning("File ended but module '%s' was not closed properly. Adding module anyway.", current_module_id)
@@ -842,7 +840,7 @@ def parse_source_file(file_path):
             logging.warning("Duplicate module definition for '%s' found. Skipping duplicate.", current_module_id)
         else:
             modules[current_module_id] = ''.join(current_module_lines)
-    
+
     logging.info("Parsed module IDs from source: %s", list(modules.keys()))
     return modules
 
@@ -850,7 +848,7 @@ def parse_csv_routing(csv_file_path):
     """
     Parses the CSV file where the first row contains cluster names (which become output file names)
     and each subsequent row may include module IDs. Blank cells are ignored.
-    
+
     Returns:
         dict: A dictionary mapping cluster names to ordered lists of module IDs.
     """
@@ -862,16 +860,16 @@ def parse_csv_routing(csv_file_path):
     except Exception as e:
         logging.error("Error reading CSV file '%s': %s", csv_file_path, e)
         sys.exit(1)
-    
+
     if not rows:
         logging.error("CSV file '%s' is empty.", csv_file_path)
         sys.exit(1)
-    
+
     # First row contains the cluster names.
     cluster_names = [name.strip() for name in rows[0] if name.strip()]
     for name in cluster_names:
         cluster_modules[name] = []
-    
+
     # Process the subsequent rows; for each cell, add non-blank module IDs.
     for row in rows[1:]:
         for col_index, cell in enumerate(row):
@@ -880,14 +878,14 @@ def parse_csv_routing(csv_file_path):
                 if cluster_name:
                     module_id = cell.strip()
                     cluster_modules[cluster_name].append(module_id)
-                    
+
     return cluster_modules
 
 def write_output_files(cluster_modules, modules_dict, output_dir):
     """
     Writes one text output file per cluster. Each file contains the module content for every module
     listed in that cluster (in the CSV order) with five blank lines inserted between modules.
-    
+
     If a module is missing in the source file, a warning is logged. If a near-match is found,
     a warning is generated as well.
     """
@@ -924,7 +922,7 @@ def log_unused_modules(modules_dict, cluster_modules):
     used_modules = set()
     for module_list in cluster_modules.values():
         used_modules.update(module_list)
-    
+
     for module_id in modules_dict.keys():
         if module_id not in used_modules:
             logging.info("Module '%s' found in source file but not used in any cluster.", module_id)
@@ -932,24 +930,24 @@ def log_unused_modules(modules_dict, cluster_modules):
 def main():
     # Set up logging – adjust level to DEBUG if you need more detailed output.
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
-    
+
     # Define file paths
     source_file_path = "/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Strategy Insights Data Pipeline/Business_Strategy_Modules.txt"
     csv_file_path = "/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Strategy Insights Data Pipeline/Tagging 2 - Cluster Routing.csv"
-    
+
     # Output directory: same as CSV location.
     output_dir = os.path.dirname(csv_file_path)
-    
+
     logging.info("Parsing source file: %s", source_file_path)
     modules_dict = parse_source_file(source_file_path)
     logging.info("Total modules parsed from source file: %d", len(modules_dict))
-    
+
     logging.info("Parsing CSV routing file: %s", csv_file_path)
     cluster_modules = parse_csv_routing(csv_file_path)
     logging.info("Clusters discovered: %s", ", ".join(cluster_modules.keys()))
-    
+
     write_output_files(cluster_modules, modules_dict, output_dir)
-    
+
     # Log modules that were parsed but not used in any cluster (optional)
     log_unused_modules(modules_dict, cluster_modules)
 
@@ -961,19 +959,19 @@ if __name__ == "__main__":
 
 ### Quick Overview
 
-1. **Module Parsing:**  
-   – It detects module headers starting with `"### MODULE"`, then removes `"### "` so that the key becomes `"MODULE X - Y"`.  
+1. **Module Parsing:**
+   – It detects module headers starting with `"### MODULE"`, then removes `"### "` so that the key becomes `"MODULE X - Y"`.
    – It appends module content until it sees `"END OF MODULE"`.
 
-2. **CSV Parsing:**  
-   – The first row determines cluster names (which become output file names).  
+2. **CSV Parsing:**
+   – The first row determines cluster names (which become output file names).
    – Subsequent rows assign module IDs (trimmed) to clusters.
 
-3. **Output Files:**  
-   – For each cluster, a text file is written with the corresponding module content.  
+3. **Output Files:**
+   – For each cluster, a text file is written with the corresponding module content.
    – If a module isn’t found, it logs a warning, and it also checks for near-matches.
 
-4. **Logging:**  
+4. **Logging:**
    – There are various logging statements to help you verify parsed keys and find mismatches.
 
 Run this script and let the logs guide further tweaks if needed. Enjoy testing the updated implementation!
@@ -1003,13 +1001,13 @@ def parse_source_file(file_path):
     """
     Parses the text file at file_path extracting modules defined between module header lines and
     'END OF MODULE'. This version uses a regex to extract the module header so that a line like:
-    
+
         ### MODULE 55 - C3-I6
-    
+
     is captured as:
-    
+
         MODULE 55 - C3-I6
-    
+
     Returns:
         dict: A dictionary mapping module IDs (e.g. "MODULE 55 - C3-I6") to the complete module content.
     """
@@ -1053,7 +1051,7 @@ def parse_source_file(file_path):
         else:
             if inside_module:
                 current_module_lines.append(line)
-    
+
     # If file ended while a module was not properly closed, log a warning and add it.
     if inside_module and current_module_id:
         logging.warning("File ended but module '%s' was not closed properly. Adding module anyway.", current_module_id)
@@ -1061,7 +1059,7 @@ def parse_source_file(file_path):
             logging.warning("Duplicate module definition for '%s' found. Skipping duplicate.", current_module_id)
         else:
             modules[current_module_id] = ''.join(current_module_lines)
-    
+
     logging.info("Parsed module IDs from source: %s", list(modules.keys()))
     return modules
 
@@ -1070,7 +1068,7 @@ def parse_csv_routing(csv_file_path):
     Parses the CSV file where the first row contains cluster names (which become output file names)
     and subsequent rows list module IDs (blank cells are skipped). Module IDs in the CSV should match
     the processed source module IDs exactly.
-    
+
     Returns:
         dict: A dictionary mapping cluster names to ordered lists of module IDs.
     """
@@ -1082,16 +1080,16 @@ def parse_csv_routing(csv_file_path):
     except Exception as e:
         logging.error("Error reading CSV file '%s': %s", csv_file_path, e)
         sys.exit(1)
-    
+
     if not rows:
         logging.error("CSV file '%s' is empty.", csv_file_path)
         sys.exit(1)
-    
+
     # First row is assumed to be cluster names.
     cluster_names = [name.strip() for name in rows[0] if name.strip()]
     for name in cluster_names:
         cluster_modules[name] = []
-    
+
     # Process each subsequent row: for every cell that's non-blank, add the module ID to the cluster.
     for row in rows[1:]:
         for col_index, cell in enumerate(row):
@@ -1100,14 +1098,14 @@ def parse_csv_routing(csv_file_path):
                 if cluster_name:
                     module_id = cell.strip()
                     cluster_modules[cluster_name].append(module_id)
-                    
+
     return cluster_modules
 
 def write_output_files(cluster_modules, modules_dict, output_dir):
     """
     Writes one output .txt file per cluster. Each file contains the concatenated module content for every module
     listed in the cluster (as per CSV order) with five blank lines inserted between modules.
-    
+
     If a module is missing in the source file, a warning is logged. Also checks for near-matches.
     """
     for cluster, module_list in cluster_modules.items():
@@ -1139,30 +1137,30 @@ def log_unused_modules(modules_dict, cluster_modules):
     used_modules = set()
     for module_list in cluster_modules.values():
         used_modules.update(module_list)
-    
+
     for module_id in modules_dict.keys():
         if module_id not in used_modules:
             logging.info("Module '%s' found in source file but not used in any cluster.", module_id)
 
 def main():
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
-    
+
     source_file_path = "/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Strategy Insights Data Pipeline/Business_Strategy_Modules.txt"
     csv_file_path = "/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Strategy Insights Data Pipeline/Tagging 2 - Cluster Routing.csv"
-    
+
     # Use the CSV's directory as the output directory.
     output_dir = os.path.dirname(csv_file_path)
-    
+
     logging.info("Parsing source file: %s", source_file_path)
     modules_dict = parse_source_file(source_file_path)
     logging.info("Total modules parsed from source file: %d", len(modules_dict))
-    
+
     logging.info("Parsing CSV routing file: %s", csv_file_path)
     cluster_modules = parse_csv_routing(csv_file_path)
     logging.info("Clusters discovered: %s", ", ".join(cluster_modules.keys()))
-    
+
     write_output_files(cluster_modules, modules_dict, output_dir)
-    
+
     # Optional: log modules that weren't referenced in any cluster
     log_unused_modules(modules_dict, cluster_modules)
 
@@ -1201,21 +1199,21 @@ Here’s a **clear and complete outline of the requirements** for an engineer to
 
 ### 📁 **Input Files**
 
-1. **Source File (TXT)**  
-   Path:  
+1. **Source File (TXT)**
+   Path:
    `/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Strategy Insights Data Pipeline/Business_Strategy_Modules.txt`
 
    **Format:**
    - Contains multiple modules.
-   - Each module starts with a header line like:  
-     `### MODULE 64 - C4-I1`  
-   - Ends with a line:  
+   - Each module starts with a header line like:
+     `### MODULE 64 - C4-I1`
+   - Ends with a line:
      `END OF MODULE`
    - There may be blank lines between modules.
    - The `###` prefix may vary in spacing or number of hashes — the script must robustly extract just the `"MODULE X - Y"` portion as the **module ID**.
 
-2. **Cluster CSV File**  
-   Path:  
+2. **Cluster CSV File**
+   Path:
    `/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Strategy Insights Data Pipeline/Tagging 2 - Cluster Routing.csv`
 
    **Format:**
@@ -1266,4 +1264,3 @@ Use Python’s `logging` module. Log level: `INFO` and `WARNING`.
 ---
 
 Let me know if you want a shorter or even more technical/implementation-focused version!
-

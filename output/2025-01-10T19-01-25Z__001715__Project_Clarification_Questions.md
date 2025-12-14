@@ -100,4 +100,3 @@ Cisco is hiring a vendor to deliver certain services and products related to **c
 It provides a detailed plan for what the vendor will deliver, how it will be done, and how they will be compensated. It ensures both parties are clear on expectations, responsibilities, and the terms of their collaboration.
 
 Let me know if you'd like more details or clarification on any section!
-

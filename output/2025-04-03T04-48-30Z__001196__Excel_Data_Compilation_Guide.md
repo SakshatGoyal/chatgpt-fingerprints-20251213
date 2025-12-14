@@ -4,11 +4,11 @@
 
 I have 3 sheets:
 
-sheet 1 is 'Decision Tagging', 
-sheet 2 is 'Axes Tagging', and 
-sheet 3 is 'Strategy Tagging'. 
+sheet 1 is 'Decision Tagging',
+sheet 2 is 'Axes Tagging', and
+sheet 3 is 'Strategy Tagging'.
 
-Column A is the exact same in all 3. Now in a seperate sheet, I've copied column A and B from sheet 3, and i need to compile everything in this new sheet. 
+Column A is the exact same in all 3. Now in a seperate sheet, I've copied column A and B from sheet 3, and i need to compile everything in this new sheet.
 
 from sheet 1, i want all column values from column B to I
 from sheet 2, i want all column values from column B to I
@@ -64,4 +64,3 @@ Paste this in `K1`, then fill across to `R1`:
 - Drag both rows **down** as far as needed to cover your data set.
 
 Let me know if you need headers or column mapping details.
-

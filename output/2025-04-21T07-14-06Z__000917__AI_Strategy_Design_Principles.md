@@ -14,7 +14,7 @@ Our next phase will focus on translating these insights into concrete product be
 
 Now, our team has created a series of design principles coming from different contributors reading the same data. I'm going to attach the document for your reference. All of them are formatted in the same way, but within the headings you may find that the people who have written those design principles have been named. Like you may find responses from Tim, from Bill, from Rebecca, and so on. So what I need you to do is assume the role of a design leader and now that you know all the context of what we are trying to achieve, I want you to read through all the principles one by one along with the counter principles and the 'why it matters' section to draw on their meaning. I want you to also read through the examples and help me understand where or which principles from the different people have the highest degree of overlap. Like are multiple people talking about the same principles or are all the principles distinctly or categorically unique in their own way. I think Paul's principles might be the most unique, but I might be wrong. Please correct me if I'm wrong.
 
-A little bit about the counter principles. The counter principles or the opposite principles are as important as the core principles. The idea is that we don't just want these design principles to be sort of the feel-good design principles or quote, okay, sounds good, unquote type of design principles. We want them to be real tensions. We want them to be real decisions that we as design team will make. And so the counter principles have to be truly plausible in their own way. If the opposites are not plausible or something that we may never want to consider, then flag those as well. 
+A little bit about the counter principles. The counter principles or the opposite principles are as important as the core principles. The idea is that we don't just want these design principles to be sort of the feel-good design principles or quote, okay, sounds good, unquote type of design principles. We want them to be real tensions. We want them to be real decisions that we as design team will make. And so the counter principles have to be truly plausible in their own way. If the opposites are not plausible or something that we may never want to consider, then flag those as well.
 
 Lastly, I want your opinion, as a product design leader, on which principle + counter principle combo offer the most unique and strategic room for exploration.
 
@@ -69,7 +69,7 @@ Despite varied phrasing, many contributors converge on a **core design philosoph
 Here are the most prominent thematic overlaps:
 
 ### **A. Human Agency + Strategic Ownership**
-**Overlapping Across:** Tim (P1, P3, P6), Rebecca (P3), John (P3), Paul (P3), Bill (P3)  
+**Overlapping Across:** Tim (P1, P3, P6), Rebecca (P3), John (P3), Paul (P3), Bill (P3)
 All emphasize that AI should not “decide for” the executive but should frame options, prompt reflection, and return control. The “steering wheel stays with the human.”
 
 > **Shared pattern:** Empower through prompts like “Would you like to…?”, “What matters more here…?”, “What trade-off are you willing to accept?”
@@ -77,7 +77,7 @@ All emphasize that AI should not “decide for” the executive but should frame
 ---
 
 ### **B. Transparency + Explainability vs. Opaque Efficiency**
-**Overlapping Across:** Tim (P2, P5), John (P1), Bill (P4), Paul (P2)  
+**Overlapping Across:** Tim (P2, P5), John (P1), Bill (P4), Paul (P2)
 This theme pits **transparency and reasoning traceability** against **speed and simplicity**. The trade-off is credibility vs. confidence.
 
 > **Shared pattern:** “Executives trust what they can interrogate.”
@@ -85,7 +85,7 @@ This theme pits **transparency and reasoning traceability** against **speed and 
 ---
 
 ### **C. Challenge vs. Affirmation**
-**Overlapping Across:** Rebecca (P2), John (P2), Bill (P5), Paul (P5)  
+**Overlapping Across:** Rebecca (P2), John (P2), Bill (P5), Paul (P5)
 This dynamic centers on **when to introduce friction** — should the AI reflect the executive’s framing, or strategically provoke them to revisit assumptions?
 
 > **Shared pattern:** AI as *thought partner*, not hype man. Challenge is useful — but must be **well-timed** and **context-aware**.
@@ -93,7 +93,7 @@ This dynamic centers on **when to introduce friction** — should the AI reflect
 ---
 
 ### **D. Framing First vs. Exploration First**
-**Overlapping Across:** Rebecca (P1), Bill (P1), Paul (P1), Tim (P3)  
+**Overlapping Across:** Rebecca (P1), Bill (P1), Paul (P1), Tim (P3)
 These principles wrestle with *when* and *how* structure enters the experience. Is it better to start with a point of view? Or let the user derive one?
 
 > **Shared pattern:** Trade-off between **cognitive anchoring** and **unbiased discovery**.
@@ -101,7 +101,7 @@ These principles wrestle with *when* and *how* structure enters the experience. 
 ---
 
 ### **E. Adaptive Interaction Styles**
-**Overlapping Across:** Rebecca (P4), Bill (P6), Paul (P4), Tim (P6)  
+**Overlapping Across:** Rebecca (P4), Bill (P6), Paul (P4), Tim (P6)
 All reflect on how AI should **shift tone or behavior based on the context**: exploration vs. evaluation, early vs. late stage, novice vs. expert.
 
 > **Shared pattern:** “Different moments call for different postures — coach, curator, challenger, synthesizer.”
@@ -169,7 +169,7 @@ This makes it **not only distinct**, but a **lynchpin principle** — where many
 
 🎯 **Paul’s principles** are the most **strategically distinct** — framing AI as a co-pilot that adapts not just its content, but its **structure and stance** to the executive’s intent.
 
-⚡️ **Most generative tension to explore**:  
+⚡️ **Most generative tension to explore**:
 **Paul P4** — *When and how frameworks enter the room* — it’s a strategic hinge for how AI supports decision-making **without closing off exploration too early.**
 
 ---
@@ -198,7 +198,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **1. Agency vs. Automation**  
+### **1. Agency vs. Automation**
 > *How much control does the AI retain vs. hand back to the user?*
 
 - **Tim P1** – Elevate human discernment
@@ -211,7 +211,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **2. Interpretability vs. Performance Optimization**  
+### **2. Interpretability vs. Performance Optimization**
 > *Is it more important that users understand how the AI works, or that it works well?*
 
 - **Tim P2** – Prioritize interpretability
@@ -223,7 +223,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **3. Divergence vs. Convergence**  
+### **3. Divergence vs. Convergence**
 > *Does the AI widen the aperture of possibilities, or help narrow toward action?*
 
 - **Tim P3** – Design for divergence
@@ -235,7 +235,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **4. Framing First vs. Exploration First**  
+### **4. Framing First vs. Exploration First**
 > *Should the AI lead with a point of view or let users discover one?*
 
 - **Rebecca P1** – Frame before info
@@ -247,7 +247,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **5. Challenge Timing vs. Unconditional Support**  
+### **5. Challenge Timing vs. Unconditional Support**
 > *When is the “right time” to introduce dissenting perspectives?*
 
 - **John P2** – Strategic provocateur
@@ -258,7 +258,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **6. Explicit Ambiguity vs. Smoothed Confidence**  
+### **6. Explicit Ambiguity vs. Smoothed Confidence**
 > *Do we show the messiness of strategic reality, or project confidence and simplicity?*
 
 - **Tim P7** – Expose ambiguity
@@ -270,7 +270,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **7. Structure On-Demand vs. Structure Upfront**  
+### **7. Structure On-Demand vs. Structure Upfront**
 > *When do frameworks and models help — and when do they hurt?*
 
 - **Paul P4** – On-demand structure vs. structure-first
@@ -282,7 +282,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **8. Internal Motivation vs. External Benchmarking**  
+### **8. Internal Motivation vs. External Benchmarking**
 > *Does AI help users reflect on their values, or optimize to external patterns?*
 
 - **Paul P7** – Self-reflective design
@@ -293,7 +293,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **9. Role Fluidity vs. Static Function**  
+### **9. Role Fluidity vs. Static Function**
 > *Should the AI shift tone and function based on the moment, or stay consistent?*
 
 - **Rebecca P4** – Adaptive tone by context
@@ -304,7 +304,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **10. Ethical Anticipation vs. Post-Hoc Accountability**  
+### **10. Ethical Anticipation vs. Post-Hoc Accountability**
 > *Do ethical considerations show up in-the-moment, or as afterthoughts?*
 
 - **Tim P4** – Ethics in the workflow vs. in audit
@@ -315,7 +315,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **11. Sensemaking Support vs. Execution Enablement**  
+### **11. Sensemaking Support vs. Execution Enablement**
 > *Is the AI helping users think better or act faster?*
 
 - **Paul P5** – Co-agency vs. productivity
@@ -327,7 +327,7 @@ Each cluster is labeled by the core design tension it represents, followed by wh
 
 ---
 
-### **12. Surprise & Signal Detection vs. Pattern Synthesis**  
+### **12. Surprise & Signal Detection vs. Pattern Synthesis**
 > *What should AI prioritize: the anomaly or the trend?*
 
 - **John P4** – Prioritize outliers and “unexpecteds”
@@ -352,4 +352,3 @@ Or, we can use these clusters to:
 - Test how executives respond to different AI “stances”
 
 Let me know where you’d like to zoom in next.
-

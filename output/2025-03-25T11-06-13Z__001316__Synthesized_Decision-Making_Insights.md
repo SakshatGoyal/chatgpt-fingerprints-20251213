@@ -60,56 +60,56 @@ Here is a synthesized set of **7 insight-rich questions**, along with rationale 
 
 ### **1. What makes certain strategic decisions especially difficult for executives, and how do they navigate uncertainty, internal resistance, or second-guessing in those moments?**
 
-**Rationale:**  
-Consolidates: 1, 3, 4, 11  
+**Rationale:**
+Consolidates: 1, 3, 4, 11
 Surfaces the emotional, interpersonal, and psychological dimensions of decision-making difficulty — not just the tactical. It also invites reflection on how executives cope with ambiguity and internal pushback, providing insight into resilience, confidence, and organizational dynamics.
 
 ---
 
 ### **2. What are the most common internal bottlenecks or sources of friction that slow down or derail strategic decisions — from misalignment and politics to culture and stakeholder dynamics?**
 
-**Rationale:**  
-Consolidates: 2, 7, 10, 14, 16, 18  
+**Rationale:**
+Consolidates: 2, 7, 10, 14, 16, 18
 Captures a wide range of internal dynamics (politics, culture, alignment, resistance) that impede decision flow. Prioritizes inclusivity by making room for less obvious blockers like cultural inertia, and invites stories that reveal systemic patterns.
 
 ---
 
 ### **3. How do executives weigh competing priorities and trade-offs when strategic goals conflict — and what frameworks or instincts guide those choices?**
 
-**Rationale:**  
-Consolidates: 5, 12, 13, 17  
+**Rationale:**
+Consolidates: 5, 12, 13, 17
 Explores the balancing act of competing goals, the tools (or gut instincts) leaders use, and how they judge decision quality. Also gets at bias management and adaptive thinking without being overly technical.
 
 ---
 
 ### **4. What external forces — such as investors, regulators, customers, or the market — exert the most pressure on decision-making, and how do executives respond when those pressures conflict with internal priorities or long-term vision?**
 
-**Rationale:**  
-Consolidates: 6, 17 (external/internal trade-offs), 19 (execution risk influenced by external forces)  
+**Rationale:**
+Consolidates: 6, 17 (external/internal trade-offs), 19 (execution risk influenced by external forces)
 Uncovers how executives manage the tension between short-term external demands and longer-term internal goals — a key source of strategic complexity. Also highlights how external actors shape internal decisions.
 
 ---
 
 ### **5. When faced with disruption — whether from new technologies or market shifts — how do executives decide whether to stay the course or pivot, and what signals do they trust most in making that call?**
 
-**Rationale:**  
-Consolidates: 8, 13, 15  
+**Rationale:**
+Consolidates: 8, 13, 15
 Focuses on adaptability and foresight. Gets at how leaders sense when change is needed and what sources of data, intuition, or signals they prioritize. Invites discussion of risk perception and openness to transformation.
 
 ---
 
 ### **6. How do challenges in decision-making differ between small, fast-moving companies and large, complex enterprises — and what lessons do executives carry between those contexts?**
 
-**Rationale:**  
-Consolidates: 9, 20  
+**Rationale:**
+Consolidates: 9, 20
 Invites comparative insight, not just contrast. Encourages reflection on how scale, structure, and pace shape leadership decisions — and whether executives are consciously adapting or defaulting to habitual patterns.
 
 ---
 
 ### **7. What concerns executives most during the transition from strategy formulation to execution, and how do they ensure strategic intent survives operational realities?**
 
-**Rationale:**  
-Consolidates: 19 (primary), with echoes of 2 and 17  
+**Rationale:**
+Consolidates: 19 (primary), with echoes of 2 and 17
 Targets the crucial execution gap, surfacing the fears and risks that arise *after* the “big decision” is made. This reveals where leadership attention often shifts — or fails to — and how accountability and momentum are maintained.
 
 ---
@@ -129,4 +129,3 @@ The tone should be clear, thoughtful, and slightly reflective — as if preparin
 The seven synthesized questions are designed to uncover how executives *think*, *feel*, and *act* when navigating complex, high-stakes decisions. We’re seeking insight into the hidden architecture of their decision-making — the trade-offs they weigh, the tensions they wrestle with, and the patterns they fall into or try to break. These questions aim to surface values (what they prioritize when everything feels urgent), biases (how they protect against or succumb to them), collaboration styles (who they lean on or resist), and strategic instincts (how they interpret risk, pressure, or disruption). We’re not just trying to understand what decisions are made — we want to understand *how people show up* in the moments that define those decisions, especially when outcomes are uncertain and consensus is elusive.
 
 We are *not* looking for polished, rehearsed answers or generic best practices that could be found in a leadership blog post. We don’t want surface-level responses overloaded with role-specific jargon or overly simplified frameworks that mask the nuance of real human behavior. This inquiry is not about identifying “right” answers — it’s about making space for authentic reflection, for the tensions, hesitations, and lived experience that shape how decisions unfold in practice. Encourage vulnerability over certainty, and complexity over clarity when it reveals something real. We’re listening for *thinking in motion*, not tidy summaries.
-

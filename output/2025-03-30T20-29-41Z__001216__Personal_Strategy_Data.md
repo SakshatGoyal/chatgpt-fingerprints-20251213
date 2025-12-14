@@ -30,7 +30,7 @@ Each cluster should include:
 - A list of associated ModuleIDs
 
 > ✅ If fewer than three valid clusters are found, return only those supported by the data. Do not fabricate clusters.
-> 
+>
 
 ---
 
@@ -83,7 +83,7 @@ For each case:
 - List the associated ModuleIDs
 
 > Only include tags that are not "Unknown", and fall in the bottom 25% of frequency in their column.
-> 
+>
 
 ---
 
@@ -98,7 +98,7 @@ For each such tag:
 - List the associated ModuleIDs
 
 > Only include tags that are not "Unknown", and fall in the top 25% of frequency within the rare subset.
-> 
+>
 
 ---
 
@@ -183,66 +183,66 @@ Below is a data‐driven breakdown of the clusters observed in the dataset. Note
 
 ---
 
-**Category 1: Most Common Tag Combinations**  
+**Category 1: Most Common Tag Combinations**
 *(Full combinations that appear 3 or more times)*
 
-1. **Summary:** Modules frequently show a bias for familiarity paired with trade‑off blindness and overconfidence.  
-   **Tag Combination:** (Bias for Familiarity, Trade‑off Blindness, Overconfidence)  
-   **ModuleIDs:**  
-   • CATEGORICAL MODULE 7 - C3-I1  
-   • CATEGORICAL MODULE 29 - C3-I6  
-   • CATEGORICAL MODULE 20 - C1-I2  
-   • CATEGORICAL MODULE 37 - C1-I4  
+1. **Summary:** Modules frequently show a bias for familiarity paired with trade‑off blindness and overconfidence.
+   **Tag Combination:** (Bias for Familiarity, Trade‑off Blindness, Overconfidence)
+   **ModuleIDs:**
+   • CATEGORICAL MODULE 7 - C3-I1
+   • CATEGORICAL MODULE 29 - C3-I6
+   • CATEGORICAL MODULE 20 - C1-I2
+   • CATEGORICAL MODULE 37 - C1-I4
    • CATEGORICAL MODULE 13 - C1-I5
 
-2. **Summary:** A dominant configuration is seen where confirmation cocoon aligns with trade‑off blindness and overconfidence.  
-   **Tag Combination:** (Confirmation Cocoon, Trade‑off Blindness, Overconfidence)  
-   **ModuleIDs:**  
-   • CATEGORICAL MODULE 21 - C2-I6  
-   • CATEGORICAL MODULE 21 - C3-I6  
-   • CATEGORICAL MODULE 38 - C3-I6  
+2. **Summary:** A dominant configuration is seen where confirmation cocoon aligns with trade‑off blindness and overconfidence.
+   **Tag Combination:** (Confirmation Cocoon, Trade‑off Blindness, Overconfidence)
+   **ModuleIDs:**
+   • CATEGORICAL MODULE 21 - C2-I6
+   • CATEGORICAL MODULE 21 - C3-I6
+   • CATEGORICAL MODULE 38 - C3-I6
    • CATEGORICAL MODULE 69 - C4-I1
 
-3. **Summary:** A distinct cluster is marked by a false certainty trap combined with trade‑off blindness and overconfidence.  
-   **Tag Combination:** (False Certainty Trap, Trade‑off Blindness, Overconfidence)  
-   **ModuleIDs:**  
-   • CATEGORICAL MODULE 33 - C2-I2  
-   • CATEGORICAL MODULE 45 - C2-I2  
+3. **Summary:** A distinct cluster is marked by a false certainty trap combined with trade‑off blindness and overconfidence.
+   **Tag Combination:** (False Certainty Trap, Trade‑off Blindness, Overconfidence)
+   **ModuleIDs:**
+   • CATEGORICAL MODULE 33 - C2-I2
+   • CATEGORICAL MODULE 45 - C2-I2
    • CATEGORICAL MODULE 33 - C2-I3
 
 ---
 
-**Category 2: Least Common Tag Combinations**  
+**Category 2: Least Common Tag Combinations**
 *(Full combinations that appear only once or twice)*
 
-1. **Summary:** A rare combination emerges where legacy lock‑in and cultural fit result in cultural friction.  
-   **Tag Combination:** (Legacy Lock‑In, Cultural Fit, Cultural Friction)  
-   **ModuleIDs:**  
-   • CATEGORICAL MODULE 29 - C2-I3  
+1. **Summary:** A rare combination emerges where legacy lock‑in and cultural fit result in cultural friction.
+   **Tag Combination:** (Legacy Lock‑In, Cultural Fit, Cultural Friction)
+   **ModuleIDs:**
+   • CATEGORICAL MODULE 29 - C2-I3
    • CATEGORICAL MODULE 33 - C2-I5
 
-2. **Summary:** A scarce pattern highlights a talent‑capability gap with capability doubt and translation breakdown.  
-   **Tag Combination:** (Talent‑Capability Gap, Capability Doubt, Translation Breakdown)  
-   **ModuleIDs:**  
-   • CATEGORICAL MODULE 34 - C2-I6  
+2. **Summary:** A scarce pattern highlights a talent‑capability gap with capability doubt and translation breakdown.
+   **Tag Combination:** (Talent‑Capability Gap, Capability Doubt, Translation Breakdown)
+   **ModuleIDs:**
+   • CATEGORICAL MODULE 34 - C2-I6
    • CATEGORICAL MODULE 45 - C3-I5
 
-3. **Summary:** A unique configuration is observed that combines a false certainty trap, ambiguity, and signal denial.  
-   **Tag Combination:** (False Certainty Trap, Ambiguity, Signal Denial)  
-   **ModuleIDs:**  
+3. **Summary:** A unique configuration is observed that combines a false certainty trap, ambiguity, and signal denial.
+   **Tag Combination:** (False Certainty Trap, Ambiguity, Signal Denial)
+   **ModuleIDs:**
    • CATEGORICAL MODULE 39 - C1-I5
 
 ---
 
-**Category 3: Least Common Tags Within Common Combinations**  
-*(Within the common full combinations, no individual column tag falls in the bottom 25% frequency.)*  
+**Category 3: Least Common Tags Within Common Combinations**
+*(Within the common full combinations, no individual column tag falls in the bottom 25% frequency.)*
 
 No clusters were found.
 
 ---
 
-**Category 4: Most Common Tags Within Rare Combinations**  
-*(Within the rare combinations, no column‐specific tag appears in multiple clusters.)*  
+**Category 4: Most Common Tags Within Rare Combinations**
+*(Within the rare combinations, no column‐specific tag appears in multiple clusters.)*
 
 No clusters were found.
 
@@ -315,4 +315,3 @@ Below is the summarized output in the requested format:
 ```
 
 Each finding is strictly based on the observed data without speculative inference.
-

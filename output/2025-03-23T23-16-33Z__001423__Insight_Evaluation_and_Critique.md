@@ -153,7 +153,7 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 - **Core Motivations:** The study is motivated by the need to understand why complex supply chain crises occur despite conventional risk management practices. It addresses the gap in analytical models for pre-crisis decision making and highlights the organizational challenges of balancing cost efficiencies with crisis preparedness.
 
-- **Methodological Clarification:** Utilizing qualitative case studies of major global companies (e.g., Ericsson, Toyota, Dole, Chiquita, Land Rover, Dell, GM), the authors employed histogram analyses and correlation calculations on key decision-making characteristics. Although exploratory, these methods offer initial empirical insights into crisis management strategies while acknowledging limitations due to sample size and diversity. citeturn0file0
+- **Methodological Clarification:** Utilizing qualitative case studies of major global companies (e.g., Ericsson, Toyota, Dole, Chiquita, Land Rover, Dell, GM), the authors employed histogram analyses and correlation calculations on key decision-making characteristics. Although exploratory, these methods offer initial empirical insights into crisis management strategies while acknowledging limitations due to sample size and diversity.
 
 - **Relevance Assessment:** For contemporary executives, the findings underscore the importance of investing in proactive risk management and maintaining operational flexibility—even when such investments appear counterintuitive during stable periods. These insights are directly applicable to strategic decision-making in volatile global markets.
 
@@ -161,49 +161,49 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### **Insight 1: Proactive Risk Management as a Critical Success Factor**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Investing in proactive risk management—despite its cost during stable periods—is crucial for mitigating supply chain crises, as demonstrated by the rapid recovery observed in companies like Toyota and Chiquita. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must decide whether to allocate resources for proactive risk management during non-crisis times, a choice that can seem counterintuitive given immediate cost pressures.  
-- **Underlying Beliefs & Biases:** There is a prevalent bias toward short-term cost savings which may underestimate latent risks.  
-- **Expected vs. Actual Outcomes:** While conventional wisdom favors minimizing overhead, empirical evidence in the paper shows that firms with preemptive risk measures experienced significantly less downtime and damage during crises.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must decide whether to allocate resources for proactive risk management during non-crisis times, a choice that can seem counterintuitive given immediate cost pressures.
+- **Underlying Beliefs & Biases:** There is a prevalent bias toward short-term cost savings which may underestimate latent risks.
+- **Expected vs. Actual Outcomes:** While conventional wisdom favors minimizing overhead, empirical evidence in the paper shows that firms with preemptive risk measures experienced significantly less downtime and damage during crises.
 - **Broader Implications:** This insight calls for a strategic shift towards embedding risk anticipation and contingency planning into everyday operations. **[Empirical]**
 
-**3. Supporting Context**  
-The paper’s case analyses reveal that firms such as Toyota not only planned for alternative suppliers before a crisis struck but also executed these plans effectively when disruption occurred. The statistical correlation between proactive risk management and successful crisis mitigation is clearly documented through qualitative methods and histogram analyses. **[Empirical]** citeturn0file0
+**3. Supporting Context**
+The paper’s case analyses reveal that firms such as Toyota not only planned for alternative suppliers before a crisis struck but also executed these plans effectively when disruption occurred. The statistical correlation between proactive risk management and successful crisis mitigation is clearly documented through qualitative methods and histogram analyses. **[Empirical]**
 
 ---
 
 ### **Insight 2: Vulnerabilities of Sole Sourcing and Poor Supplier Relationships**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Relying on a single supplier and neglecting robust supplier relationship management significantly heightens vulnerability during supply chain disruptions, as evidenced by the adverse outcomes for Ericsson, Land Rover, and GM. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives face the challenge of balancing cost efficiency through sole sourcing against the risks of supply chain disruption.  
-- **Underlying Beliefs & Biases:** There exists a cognitive bias favoring immediate cost reductions which can overshadow the long-term risks associated with limited supplier diversity.  
-- **Expected vs. Actual Outcomes:** Although sole sourcing promises competitive pricing, the actual outcomes in crisis scenarios reveal dramatic production stoppages and operational failures.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives face the challenge of balancing cost efficiency through sole sourcing against the risks of supply chain disruption.
+- **Underlying Beliefs & Biases:** There exists a cognitive bias favoring immediate cost reductions which can overshadow the long-term risks associated with limited supplier diversity.
+- **Expected vs. Actual Outcomes:** Although sole sourcing promises competitive pricing, the actual outcomes in crisis scenarios reveal dramatic production stoppages and operational failures.
 - **Broader Implications:** This finding suggests a need to re-evaluate supplier selection strategies, integrating risk assessment as a core component of procurement decisions. **[Empirical]**
 
-**3. Supporting Context**  
-Through both qualitative case study reviews and correlation analyses presented in Tables I and II, the paper documents that failures in crisis management are strongly associated with sole supplier dependency and deteriorated supplier relationships. Quantitative evidence highlights that companies with these vulnerabilities suffered the most severe disruptions, confirming the need for diversified sourcing. **[Empirical]** citeturn0file0
+**3. Supporting Context**
+Through both qualitative case study reviews and correlation analyses presented in Tables I and II, the paper documents that failures in crisis management are strongly associated with sole supplier dependency and deteriorated supplier relationships. Quantitative evidence highlights that companies with these vulnerabilities suffered the most severe disruptions, confirming the need for diversified sourcing. **[Empirical]**
 
 ---
 
 ### **Insight 3: The Strategic Advantage of Capacity Flexibility and Multiple Sourcing**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Maintaining capacity flexibility and diversifying supplier bases, although seemingly cost-intensive during normal operations, provide a decisive strategic advantage by enabling rapid recovery and continuity during a crisis. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives are often challenged to justify investments in underutilized capacity and multiple supplier arrangements in the absence of immediate crises.  
-- **Underlying Beliefs & Biases:** The conventional focus on maximizing operational efficiency may lead to underinvestment in backup capacity, despite evidence suggesting its critical role in crisis recovery.  
-- **Expected vs. Actual Outcomes:** Firms that maintained flexibility, such as Toyota and Dell, demonstrated a markedly faster recovery and lower overall losses when faced with disruptions, contrary to the expectations based solely on short-term cost assessments.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives are often challenged to justify investments in underutilized capacity and multiple supplier arrangements in the absence of immediate crises.
+- **Underlying Beliefs & Biases:** The conventional focus on maximizing operational efficiency may lead to underinvestment in backup capacity, despite evidence suggesting its critical role in crisis recovery.
+- **Expected vs. Actual Outcomes:** Firms that maintained flexibility, such as Toyota and Dell, demonstrated a markedly faster recovery and lower overall losses when faced with disruptions, contrary to the expectations based solely on short-term cost assessments.
 - **Broader Implications:** This insight advocates for a reassessment of capital allocation priorities, emphasizing that strategic investments in flexibility yield high returns under crisis conditions. **[Empirical]**
 
-**3. Supporting Context**  
-The analysis in the paper shows that companies with multiple sourcing strategies and capacity flexibility not only minimized production losses but also recovered swiftly, as illustrated by comparative histogram analyses. The empirical data, including correlation metrics, solidify the argument that these characteristics are instrumental in managing supply chain disruptions effectively. **[Empirical]** citeturn0file0
+**3. Supporting Context**
+The analysis in the paper shows that companies with multiple sourcing strategies and capacity flexibility not only minimized production losses but also recovered swiftly, as illustrated by comparative histogram analyses. The empirical data, including correlation metrics, solidify the argument that these characteristics are instrumental in managing supply chain disruptions effectively. **[Empirical]**
 
 ---
 
@@ -212,9 +212,9 @@ The analysis in the paper shows that companies with multiple sourcing strategies
 - **Coverage Fit:** High — The paper directly addresses executive decision-making and strategic reasoning in supply chain crisis management through detailed case studies and statistical analyses.
 - **Bias & Cognitive Modeling Content:** Implied Only — While the paper emphasizes decision-making characteristics, explicit discussion of cognitive biases is limited, though underlying behavioral assumptions are evident.
 - **Clarity of Methods & Outcomes:** Clear — The methodology (qualitative analysis, histograms, and correlation calculations) is well-articulated, with outcomes directly tied to the empirical cases.
-- **Areas with No Data:**  
-    - Insight Statement: Fully supported  
-    - Executive Decision-Making Context: Fully elaborated  
+- **Areas with No Data:**
+    - Insight Statement: Fully supported
+    - Executive Decision-Making Context: Fully elaborated
     - Supporting Context: Empirical data is available and appropriately integrated
 
 ## You (2025-03-23T23:17:05.342000+00:00)
@@ -454,21 +454,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -481,4 +481,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T23:18:58.881340+00:00)
 
 Leonard, K. M., & Hittle, B. (2011). Decision making in advance of a supply chain crisis. *Management Decision, 49*(7), 1182–1193. https://doi.org/10.1108/00251741111151208
-

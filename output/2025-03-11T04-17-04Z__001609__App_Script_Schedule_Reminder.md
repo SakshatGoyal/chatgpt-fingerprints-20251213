@@ -57,33 +57,33 @@ Request details: flowName=GeneralOAuthFlow
 
 ## ChatGPT (2025-03-11T04:18:22.677914+00:00)
 
-The error **"Error 401: deleted_client"** usually indicates an issue with Google’s OAuth authentication. This can happen if:  
+The error **"Error 401: deleted_client"** usually indicates an issue with Google’s OAuth authentication. This can happen if:
 
-1. **The script is using an outdated OAuth client** – If you copied this script from an old project, it may have lost access.  
-2. **Google revoked access** – If your script was using an OAuth client that is no longer valid, Google may have disabled it.  
-3. **You're not authenticated properly** – If you're running the script in an environment where authentication isn't set up correctly.  
+1. **The script is using an outdated OAuth client** – If you copied this script from an old project, it may have lost access.
+2. **Google revoked access** – If your script was using an OAuth client that is no longer valid, Google may have disabled it.
+3. **You're not authenticated properly** – If you're running the script in an environment where authentication isn't set up correctly.
 
 ### Possible Fixes:
-#### **1. Reauthorize Google Apps Script**  
-- Go to **Google Apps Script Editor** (`script.google.com`).  
-- Click **Services (⚙️ icon) > Google Calendar API** > Remove & re-add it.  
-- Try running the script again. It should prompt you to reauthorize access.  
+#### **1. Reauthorize Google Apps Script**
+- Go to **Google Apps Script Editor** (`script.google.com`).
+- Click **Services (⚙️ icon) > Google Calendar API** > Remove & re-add it.
+- Try running the script again. It should prompt you to reauthorize access.
 
-#### **2. Enable Google Calendar API in Google Cloud Console**  
-1. Go to **Google Cloud Console**: [console.cloud.google.com](https://console.cloud.google.com/)  
-2. Select your project or create a new one.  
-3. Navigate to **APIs & Services > Library**  
-4. Search for **Google Calendar API** and enable it.  
+#### **2. Enable Google Calendar API in Google Cloud Console**
+1. Go to **Google Cloud Console**: [console.cloud.google.com](https://console.cloud.google.com/)
+2. Select your project or create a new one.
+3. Navigate to **APIs & Services > Library**
+4. Search for **Google Calendar API** and enable it.
 
-#### **3. Use an Alternate Authentication Method**  
-- Instead of `CalendarApp.getDefaultCalendar()`, try specifying the calendar explicitly:  
+#### **3. Use an Alternate Authentication Method**
+- Instead of `CalendarApp.getDefaultCalendar()`, try specifying the calendar explicitly:
   ```javascript
   var calendar = CalendarApp.getCalendarById("your-email@gmail.com");
   ```
-  Replace `"your-email@gmail.com"` with your actual Google Calendar email.  
+  Replace `"your-email@gmail.com"` with your actual Google Calendar email.
 
-#### **4. Try Running in an Incognito Window**  
-- If Google remembers an expired authentication session, try running the script in an incognito window.  
+#### **4. Try Running in an Incognito Window**
+- If Google remembers an expired authentication session, try running the script in an incognito window.
 
 Let me know if the issue persists, and I can guide you further! 🚀
 
@@ -109,16 +109,16 @@ function createMarch11Schedule() {
     {title: "Buffer / Review / Interview Prep", start: "2024-03-11T11:00:00", end: "2024-03-11T12:00:00"},
     {title: "User Interview", start: "2024-03-11T12:00:00", end: "2024-03-11T13:00:00"}
   ];
-  
+
   events.forEach(function(event) {
     var newEvent = calendar.createEvent(event.title, new Date(event.start), new Date(event.end));
     newEvent.addPopupReminder(5); // 5-minute reminder for all events
-    
+
     if (event.title === "Call Doctor’s Office") {
       newEvent.addPopupReminder(15); // Special reminder at 7:55 AM
     }
   });
-  
+
   Logger.log("Schedule for March 11, 2024, has been created.");
 }
 
@@ -154,4 +154,3 @@ hey, sry could u start the day at 6:30 instead of 6, and just move all the event
 ## ChatGPT (2025-03-11T13:16:04.942197+00:00)
 
 I've shifted all events forward by 30 minutes, starting the day at **6:30 AM** instead of **6:00 AM**. Let me know if you need further refinements! 🚀
-

@@ -53,4 +53,3 @@ Let’s use the **Velvet Knife** framework to respond.
 
 - “I’ve only told one person my real answer to that. I’m not sure I regret it.”
 - “I could tell you. Or I could take you there and let you guess why
-

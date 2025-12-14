@@ -39,8 +39,8 @@ We can use her **Purpose–People–Process** filter:
 
 ---
 
-**My strong suggestion:**  
-**Prioritize one small, scalable format first.**  
+**My strong suggestion:**
+**Prioritize one small, scalable format first.**
 Don't try to polish everything into decks immediately — instead, ship a Minimum Viable Playbook.
 
 If you want, I can help you mock up one or two options (like a "People Problem Pattern Map" or a "Notion structure") based on what you're leaning toward.
@@ -73,21 +73,21 @@ You’re thinking about this really clearly — you’ve scoped your Purpose–P
 ### Based on that, here's my recommendation:
 
 **Deliverable Design:**
-- **Slide Deck Primary Layer:**  
+- **Slide Deck Primary Layer:**
   - Table of 16 people problems → short phrasing only.
   - Highlight different frictions over time → maybe shaded rows / cycles.
   - Each table entry hyperlinked (or footnoted) to the deeper content.
 
-- **Supplementary Layer (Reference Guide):**  
-  - Single document (PDF or Notion/Doc site) titled something like  
-    🛠️ **"People Frictions Reference Guide — Version 1.0"**  
+- **Supplementary Layer (Reference Guide):**
+  - Single document (PDF or Notion/Doc site) titled something like
+    🛠️ **"People Frictions Reference Guide — Version 1.0"**
   - Organized cleanly:
     - 1-page intro: *“Why these frictions matter.”*
     - 1-page on *how to use the table and when to dive deeper.*
     - Each friction has 1–2 pages max: full description + how you know it's a problem + what success would look like (the content you already wrote).
 
 ---
-  
+
 ### Quick Template Idea for the Reference Guide:
 
 ```markdown
@@ -107,13 +107,13 @@ You’re thinking about this really clearly — you’ve scoped your Purpose–P
 
 ## Friction #1: Short-term Efficiency vs Long-term Resilience
 
-**What ‘people problem’ are we trying to solve?**  
+**What ‘people problem’ are we trying to solve?**
 (Your full statement)
 
-**How do we know this is a problem?**  
+**How do we know this is a problem?**
 (Examples)
 
-**How might we know if we’ve solved this?**  
+**How might we know if we’ve solved this?**
 (Behavioral success markers)
 
 ---
@@ -121,19 +121,19 @@ You’re thinking about this really clearly — you’ve scoped your Purpose–P
 (repeat for each friction)
 ```
 
-And if you want to future-proof it even slightly:  
+And if you want to future-proof it even slightly:
 🔖 Add a date and version (so it feels like a living artifact, even if you don't update it).
 
 ---
 
 ### What should PMs remember?
 
-You asked me: *"I don't know, you tell me."*  
+You asked me: *"I don't know, you tell me."*
 Here's what *I* would want PMs to remember after touching this:
 
 > **"Every persistent friction among people is a signal of future strategic drag or risk. Smart leaders catch it early, name it, and design around it — before it becomes expensive."**
 
-Because this isn’t *just* literature.  
+Because this isn’t *just* literature.
 It’s a **tool for pattern recognition** before problems metastasize.
 
 ---
@@ -145,7 +145,6 @@ It’s a **tool for pattern recognition** before problems metastasize.
 
 ---
 
-Would you like me to sketch what a few slides could look like too, just so you can visualize? 🎨  
-(It’ll only take a few minutes.)  
+Would you like me to sketch what a few slides could look like too, just so you can visualize? 🎨
+(It’ll only take a few minutes.)
 Would you prefer a "minimal serious" deck design or a "slightly dynamic" one with a few visual cues for friction categories?
-

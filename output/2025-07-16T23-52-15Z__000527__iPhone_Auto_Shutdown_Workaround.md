@@ -48,4 +48,3 @@ Apple deliberately restricts automatic shutdown/startup for safety, reliability,
 ---
 
 Let me know if you'd like help setting up a Sleep Focus that mimics full shutdown behavior as closely as possible (no sounds, no notifications, no distractions).
-

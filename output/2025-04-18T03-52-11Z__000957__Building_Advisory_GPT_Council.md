@@ -2,17 +2,17 @@
 
 ## You (2025-04-18T03:52:11.763000+00:00)
 
-Lets say I'm building a custom GPT that's a persona of an existing public figure. The main purpose is to form a council that can advise me on something based on their expertise. 
+Lets say I'm building a custom GPT that's a persona of an existing public figure. The main purpose is to form a council that can advise me on something based on their expertise.
 
 I have a few people in mind:
 
 Julie Zhuo - former VP of Design at Facebook.
 Don Norman - design leader.
-Bill Buxton - design leader. 
+Bill Buxton - design leader.
 
-I need this council to act as an advisory board while I make some critical design decisions. If I were to build a custom GPT that can almost embody their thought processes individually, how would I go about doing that? 
+I need this council to act as an advisory board while I make some critical design decisions. If I were to build a custom GPT that can almost embody their thought processes individually, how would I go about doing that?
 
-here, i'm not necessarily looking for a step by step walkthrough of how to build a GPT. Rather, I'm trying to understand what kind of information about them would I need to search, and how might I synthesize all that information? getting someone's thought process on paper can be tricky - its a balance between what they learned coupled with their experiences. Its also about things they've said in public, books they've written, and [I don't know, help me out building a list of sources that might be necessary for this exercise]. then I'd have to synthesize all that information in a responsible yet effective way, so i only get what's necessary and avoid the unnecessary. so another question is, what is necessary? 
+here, i'm not necessarily looking for a step by step walkthrough of how to build a GPT. Rather, I'm trying to understand what kind of information about them would I need to search, and how might I synthesize all that information? getting someone's thought process on paper can be tricky - its a balance between what they learned coupled with their experiences. Its also about things they've said in public, books they've written, and [I don't know, help me out building a list of sources that might be necessary for this exercise]. then I'd have to synthesize all that information in a responsible yet effective way, so i only get what's necessary and avoid the unnecessary. so another question is, what is necessary?
 
 this is just an initial thought. But how would you do this if you were a CEO who's interested in exploring new verticals as a design leader but also looking at this from a business standpoint. I haven't told you the main objective of this exercise. Would it help if i told you? also, lastly, could you also recommend a few other names that can be a member of such a council.
 
@@ -38,10 +38,10 @@ Think of the information in three buckets:
 
 Collect from multiple angles:
 
-- **Books & Publications**:  
-  - Julie Zhuo: *"The Making of a Manager"*, Medium essays  
-  - Don Norman: *"The Design of Everyday Things"*, *"Emotional Design"*, columns, essays  
-  - Bill Buxton: *"Sketching User Experiences"*, Microsoft Research publications, industry whitepapers  
+- **Books & Publications**:
+  - Julie Zhuo: *"The Making of a Manager"*, Medium essays
+  - Don Norman: *"The Design of Everyday Things"*, *"Emotional Design"*, columns, essays
+  - Bill Buxton: *"Sketching User Experiences"*, Microsoft Research publications, industry whitepapers
 
 - **Talks, Podcasts, and Interviews**:
   - YouTube, TED Talks, conference keynotes
@@ -113,20 +113,20 @@ Considering your mix of strategic design and business perspective, consider addi
 
 As a CEO exploring design and business intersection:
 
-- Keep the synthesized information actionable.  
-- Clearly define what advice you need (strategy, innovation, execution, management style, etc.).  
-- Regularly validate synthesized personas by comparing their advice against new, real-world inputs from these leaders.  
+- Keep the synthesized information actionable.
+- Clearly define what advice you need (strategy, innovation, execution, management style, etc.).
+- Regularly validate synthesized personas by comparing their advice against new, real-world inputs from these leaders.
 - Treat the synthesized advisory personas as evolving tools—update and refine them as you gain new insights.
 
 This approach creates a council that embodies these individuals’ rich expertise effectively, responsibly, and usefully for guiding your decisions.
 
 ## You (2025-04-18T03:59:31.619000+00:00)
 
-My main objective is to identify ways that an AI agent can be used as a strategic partner for executive decision makers in a variety of organizations. 
+My main objective is to identify ways that an AI agent can be used as a strategic partner for executive decision makers in a variety of organizations.
 
-This is very different from the typical use case of AI - this is not necessarily about content creation, and its not about building agents that can minimize repetitive manual work. This is about creating a thought partner that can augment executive decision making. 
+This is very different from the typical use case of AI - this is not necessarily about content creation, and its not about building agents that can minimize repetitive manual work. This is about creating a thought partner that can augment executive decision making.
 
-Another thing to note, is that at this point this tool will not be integrating with an organization's internal data. This will be a personal AI agent/partner/bot. While this will certainly bring challenges and limitations on what we can explore, this is the reality as of now. 
+Another thing to note, is that at this point this tool will not be integrating with an organization's internal data. This will be a personal AI agent/partner/bot. While this will certainly bring challenges and limitations on what we can explore, this is the reality as of now.
 
 Not a lot about the project has been defined - whether its the team, problems to solve, design approach, etc...
 
@@ -134,7 +134,7 @@ All I know is, Julie Zhuo would be a great partner because of her authentic no b
 
 ## ChatGPT (2025-04-18T03:59:32.152203+00:00)
 
-Given your clarified goal—using AI as a strategic thought partner for executive decision-making—I recommend structuring your approach around the following clear directions. 
+Given your clarified goal—using AI as a strategic thought partner for executive decision-making—I recommend structuring your approach around the following clear directions.
 
 Here's how I'd frame it clearly, pragmatically, and in line with your objectives:
 
@@ -142,7 +142,7 @@ Here's how I'd frame it clearly, pragmatically, and in line with your objectives
 
 ## 1. **Core objective clarified:**
 
-> **Developing a personal AI-based thought partner to augment strategic executive decision-making.**  
+> **Developing a personal AI-based thought partner to augment strategic executive decision-making.**
 > *(Emphasis: Strategic decision support—not automation, nor routine assistance.)*
 
 ---
@@ -239,13 +239,13 @@ Here’s a prioritized recommendation of who, alongside **Julie Zhuo** and **Don
 | **3** | **Andrew Ng** | Strong ability to ground your strategy in practical AI capabilities and executive-level relevance; helpful for clearly defining how the synthesis translates to feasible AI solutions. |
 | **4** | **Tim Brown** | Useful for ensuring the innovation-focused direction is strategically robust and human-centric, aligning closely with Norman’s insights but from a business innovation angle. |
 
-**Why this prioritization?**  
+**Why this prioritization?**
 Your immediate next step is translating nuanced executive challenges into clear insights and actionable strategic takeaways. Kozyrkov excels at actionable, strategic synthesis. Edmondson complements Zhuo and Norman by offering guidance on effectively communicating these synthesized insights at executive levels. Ng grounds your synthesis in realistic AI potential, ensuring feasibility.
 
-**Recommended first-layer council (strongest combination):**  
-- **Julie Zhuo** (Data-driven management clarity)  
-- **Don Norman** (Human-centered psychological depth)  
-- **Cassie Kozyrkov** (Decision intelligence & strategic clarity)  
+**Recommended first-layer council (strongest combination):**
+- **Julie Zhuo** (Data-driven management clarity)
+- **Don Norman** (Human-centered psychological depth)
+- **Cassie Kozyrkov** (Decision intelligence & strategic clarity)
 - *(Optional, but highly complementary)* **Amy Edmondson** (Leadership communication & psychological safety)
 
 This combination clearly balances human, strategic, managerial, and technological perspectives for defining clear next steps.
@@ -277,28 +277,28 @@ Here’s a clear side-by-side comparison to help you decide whether **Tim Brown*
   - Strategic innovation, system-level thinking, and practical frameworks for organizational and product innovation are your primary need.
   - You prefer pragmatic frameworks and strategic clarity over cognitive psychological depth.
 
-**Given your current group (Julie Zhuo, Cassie Kozyrkov, Andrew Ng):**  
+**Given your current group (Julie Zhuo, Cassie Kozyrkov, Andrew Ng):**
 Tim Brown would bring stronger strategic innovation alignment at an organizational level, while Don Norman provides deeper individual-level psychological nuance.
 
-If your first-layer priority is **strategic clarity, actionable innovation, and organizational framing**, Tim Brown can effectively replace Don Norman.  
+If your first-layer priority is **strategic clarity, actionable innovation, and organizational framing**, Tim Brown can effectively replace Don Norman.
 If deeper psychological nuance and cognitive depth are critical, sticking with Don Norman is recommended.
 
 ## You (2025-04-18T04:30:46.142000+00:00)
 
-could you write a short description from all our conversations about what specifically we need all these profiles for? Make it general, where you don't explicitly mention the name, but you can help define the core purpose so we can avoid searching for information that might be unnecessary. 
+could you write a short description from all our conversations about what specifically we need all these profiles for? Make it general, where you don't explicitly mention the name, but you can help define the core purpose so we can avoid searching for information that might be unnecessary.
 
 Additionally, at the end, for each of the profiles we've listed
 
 - Julie Zhuo
 - Tim Brown
-- Cassie Kozyrkov	
+- Cassie Kozyrkov
 - Andrew Ng
 
 list out one more more KEY sources that can help us understand exactly how they make decisions. Like for Julie Zhuo, it was a YouTube talk:
 
 https://www.youtube.com/watch?v=LwZ6aIsnN6A&pp=ygUTanVsaWUgemh1byBzdGFuZm9yZA%3D%3D
 
-this talks about how a facebook designer thinks. 
+this talks about how a facebook designer thinks.
 
 Similarly, for each profile, I need atleast one (or more) sources that do an impeccable job of helping us define their thought process that would be directly relevant for our use case. For example, Julie Zhuo also has videos about a working mother's council, job interviews questions, and accelerating careers - that part's not too important for us.
 
@@ -309,7 +309,7 @@ Here’s a concise overview of your **core purpose**, plus carefully selected ke
 ---
 
 ## **Core Purpose (Generalized):**
-We are forming an advisory council of leading thinkers to guide the creation of an AI-powered thought partner designed explicitly for executive decision-making support. Rather than automating repetitive tasks, this tool is envisioned to augment strategic thought processes, helping leaders navigate nuanced, complex organizational challenges with greater clarity, psychological insight, and actionable strategic guidance.  
+We are forming an advisory council of leading thinkers to guide the creation of an AI-powered thought partner designed explicitly for executive decision-making support. Rather than automating repetitive tasks, this tool is envisioned to augment strategic thought processes, helping leaders navigate nuanced, complex organizational challenges with greater clarity, psychological insight, and actionable strategic guidance.
 
 To build authentic and practically useful advisory personas, we specifically require clear insight into each council member's core decision-making style, fundamental strategic frameworks, pragmatic approaches to complexity, and their proven ways of translating ambiguous challenges into clear, actionable steps.
 
@@ -319,10 +319,10 @@ To build authentic and practically useful advisory personas, we specifically req
 
 ### ① **Julie Zhuo** *(Strategic, pragmatic, data-driven leadership focused on people-problems.)*
 
-- **Primary Source:**  
+- **Primary Source:**
   ["How a Facebook Designer Thinks" – Stanford Seminar (YouTube)](https://www.youtube.com/watch?v=LwZ6aIsnN6A&pp=ygUTanVsaWUgemh1byBzdGFuZm9yZA%3D%3D)
-  
-- **Additional Source (Book):**  
+
+- **Additional Source (Book):**
   ["The Making of a Manager"](https://www.juliezhuo.com/book/manager)
 
 *Both emphasize Julie’s pragmatic, structured approach to decision-making focused on clear people-centric outcomes.*
@@ -331,10 +331,10 @@ To build authentic and practically useful advisory personas, we specifically req
 
 ### ② **Tim Brown** *(Strategic innovation frameworks, human-centered systemic thinking.)*
 
-- **Primary Source:**  
+- **Primary Source:**
   ["Design Thinking: Tim Brown’s TED Talk"](https://www.youtube.com/watch?v=UAinLaT42xY)
 
-- **Additional Source (Book):**  
+- **Additional Source (Book):**
   ["Change by Design"](https://designthinking.ideo.com/book)
 
 *Both clearly showcase Tim Brown’s strategic approach to solving complex problems through design-thinking frameworks and iterative, collaborative innovation.*
@@ -343,10 +343,10 @@ To build authentic and practically useful advisory personas, we specifically req
 
 ### ③ **Cassie Kozyrkov** *(Decision intelligence, strategic clarity through cognitive science and applied AI.)*
 
-- **Primary Source (Essential):**  
+- **Primary Source (Essential):**
   ["Making Friends with Machine Learning (Google I/O)"](https://www.youtube.com/watch?v=E2-VkXESXsA)
 
-- **Additional Source (Articles):**  
+- **Additional Source (Articles):**
   ["Towards Data Science – Cassie Kozyrkov"](https://towardsdatascience.com/@kozyrkov)
 
 *These clearly articulate her decision-making approach: rigorously clarifying objectives, reducing ambiguity, and pragmatically framing AI decisions to ensure strategic executive clarity.*
@@ -355,10 +355,10 @@ To build authentic and practically useful advisory personas, we specifically req
 
 ### ④ **Andrew Ng** *(Strategic integration of AI into executive decision-making, practical ML solutions.)*
 
-- **Primary Source:**  
+- **Primary Source:**
   ["AI Transformation Playbook"](https://landing.ai/ai-transformation-playbook/) by Andrew Ng, specifically his video talks within it.
 
-- **Additional Source (Course/Talk):**  
+- **Additional Source (Course/Talk):**
   ["How AI Will Transform Every Company and Every Industry"](https://www.youtube.com/watch?v=NKpuX_yzdYs)
 
 *Clearly demonstrates Andrew Ng’s pragmatic, executive-friendly decision-making framework on how to effectively adopt AI strategically and clearly.*
@@ -441,7 +441,7 @@ Given your goal of creating a single, cohesive custom GPT advisory council that 
 ## **How to Approach Building Your Single Custom GPT Council**
 
 ### 1. **Unified Advisory Council (Primary):**
-Your default mode should be a unified council voice—one that internally synthesizes the individual perspectives and frameworks of Zhuo, Brown, Buxton, and Maeda. The AI assistant would internally simulate discussions or debates among these personas, then produce a unified, balanced recommendation for you.  
+Your default mode should be a unified council voice—one that internally synthesizes the individual perspectives and frameworks of Zhuo, Brown, Buxton, and Maeda. The AI assistant would internally simulate discussions or debates among these personas, then produce a unified, balanced recommendation for you.
 
 - **Benefit:** You avoid the confusion of conflicting answers, receive coherent strategic advice, and simplify interaction.
 - **Occasional Drawback:** You might lose transparency into individual reasoning or subtle nuances.
@@ -470,48 +470,48 @@ Given your stated preferences (mostly unified, occasional individual exploration
 
 Use the carefully selected primary sources listed clearly here:
 
-- **Julie Zhuo:**  
+- **Julie Zhuo:**
   [Stanford Seminar – "How a Facebook Designer Thinks"](https://www.youtube.com/watch?v=LwZ6aIsnN6A&pp=ygUTanVsaWUgemh1byBzdGFuZm9yZA%3D%3D), *The Making of a Manager*, and her documented strategic frameworks【22†source】.
 
-- **Tim Brown:**  
+- **Tim Brown:**
   [TED Talk – "Design Thinking"](https://www.youtube.com/watch?v=UAinLaT42xY), *Change by Design*, and the clearly outlined IDEO design thinking frameworks【22†source】.
 
-- **Bill Buxton:**  
+- **Bill Buxton:**
   [Microsoft Research Keynote – "Sketching User Experiences"](https://www.youtube.com/watch?v=G4IAEkTdr_g), *Sketching User Experiences*, and his frameworks on iterative exploration and innovation management【22†source】.
 
-- **John Maeda:**  
+- **John Maeda:**
   [SXSW "Design in Tech Report"](https://www.youtube.com/watch?v=xbl1fwk87MA), *Laws of Simplicity*, his LEAD framework, and computational design integration【22†source】.
 
 ---
 
 **3. Recommended GPT Persona Setup:**
 
-- **Unified Identity:**  
+- **Unified Identity:**
   *"Strategic Design Advisory Council"*
-- **Internal Operation:**  
+- **Internal Operation:**
   Internally prompt the GPT to emulate structured dialogue between these personas for critical strategic prompts. After this internal dialogue (hidden from user), the GPT presents a singular synthesized perspective.
-- **Explicit Persona Requests (optional mode):**  
+- **Explicit Persona Requests (optional mode):**
   Allow explicit user triggers for individual voices ("What would Tim Brown say specifically?").
 
 ---
 
 ## **Recommendation (Your Original Question):**
 
-**Should you simplify by having only one unified voice?**  
-- **Generally, yes.** By default, a single unified persona voice simplifies interaction and ensures coherent, practical outcomes.  
-- **However, maintain the optionality for individual perspectives:**  
+**Should you simplify by having only one unified voice?**
+- **Generally, yes.** By default, a single unified persona voice simplifies interaction and ensures coherent, practical outcomes.
+- **However, maintain the optionality for individual perspectives:**
   This preserves transparency, allowing you to tap directly into a particular expert's thinking when nuanced insights matter most.
 
 ---
 
-**In summary:**  
-Default: **Unified Advisory Council (Julie Zhuo + Tim Brown + Bill Buxton + John Maeda)**  
-Optional: **Occasional explicit access to individual personas when desired.**  
+**In summary:**
+Default: **Unified Advisory Council (Julie Zhuo + Tim Brown + Bill Buxton + John Maeda)**
+Optional: **Occasional explicit access to individual personas when desired.**
 Keep the focus strictly strategic, pragmatic, and aligned to their clearly documented frameworks to ensure maximum clarity, consistency, and usability.
 
 ## You (2025-04-18T05:35:10.028000+00:00)
 
-help me weigh the pros and cons of using this as a custom GPT or a project where I insert this as an instruction. 
+help me weigh the pros and cons of using this as a custom GPT or a project where I insert this as an instruction.
 
 the custom GPT doesn't offer me the GPT 4.5 model. On the flip side, the project won't give me organic discussions.
 
@@ -543,7 +543,7 @@ Here's a clear comparison of using a **Custom GPT (GPT-4 Turbo)** vs. **Project 
 
 ---
 
-### **Bottom Line (recommended):**  
+### **Bottom Line (recommended):**
 
 Considering your emphasis on a dynamic advisory-style interaction—where internal debate and organic integration of multiple strategic voices matter significantly—you're better served initially by the **Custom GPT (GPT-4 Turbo)**.
 
@@ -553,7 +553,7 @@ Only choose the project-based GPT-4.5 approach if detailed nuance consistently o
 
 ## You (2025-04-18T05:39:12.431000+00:00)
 
-help me understand what you mean by detailed nuance consistency in this situation. 
+help me understand what you mean by detailed nuance consistency in this situation.
 
 For me, I want to explore out of the box ideas, want great writing, but also want to get the best out of all the personas we have defined. My goal is really to form a design centric business strategy, and explore the unexplored. While this project requires some deep analytical thinking, it also needs creative out of the box thinking. Getting the most out of all the personas collectively is an important goal.
 
@@ -625,7 +625,7 @@ Given your project goal (a design-driven business strategy that explores creativ
 
 Start with the **Custom GPT (GPT-4 Turbo)** setup first, emphasizing intuitive persona interplay, organic internal dialogue, and exploratory creativity.
 
-If you later find you occasionally need sharper analytical detail or greater nuance, complement it with **GPT-4.5** through specific prompts and instructions as needed.  
+If you later find you occasionally need sharper analytical detail or greater nuance, complement it with **GPT-4.5** through specific prompts and instructions as needed.
 
 This gives you the best balance of spontaneity, creativity, consistency, and strategic clarity—all essential to your ambitious and creative advisory council use case.
 
@@ -633,11 +633,11 @@ This gives you the best balance of spontaneity, creativity, consistency, and str
 
 help me understand this a little better
 
-"Still strong, but can require explicit prompting each time for truly creative outputs; may feel less spontaneous." give me examples of what this explicit prompting might look like. 
+"Still strong, but can require explicit prompting each time for truly creative outputs; may feel less spontaneous." give me examples of what this explicit prompting might look like.
 
-"High authenticity when explicitly instructed; less intuitive in blending multiple personas simultaneously." give me an example of what this 'explicitly instructed' means. 
+"High authenticity when explicitly instructed; less intuitive in blending multiple personas simultaneously." give me an example of what this 'explicitly instructed' means.
 
-"No organic internal debates without explicit prompts;" give me some examples of what you mean by explicit prompting. 
+"No organic internal debates without explicit prompts;" give me some examples of what you mean by explicit prompting.
 
 Actually, in multiple places you've mentioned explicit prompting as a key differentiator. I don't think i mind explicit prompting in my conversations, but I need to understand what these prompts are, and how they might inform a single conversation in the project.
 
@@ -653,7 +653,7 @@ When I say:
 
 > *"Still strong, but can require explicit prompting each time for truly creative outputs; may feel less spontaneous."*
 
-I mean the GPT-4.5 model won’t always spontaneously deliver highly imaginative, "out-of-the-box" ideas unless your instructions deliberately push it there.  
+I mean the GPT-4.5 model won’t always spontaneously deliver highly imaginative, "out-of-the-box" ideas unless your instructions deliberately push it there.
 
 **Examples of explicit prompts to drive creativity:**
 
@@ -799,10 +799,10 @@ In these specific cases, explicit prompting clearly instructs GPT to override it
 
 ### **Scenario 1: Typical use-case (no explicit prompting needed)**
 
-- **Your question:**  
+- **Your question:**
   > "Help me create a strategic approach for redesigning our onboarding experience."
 
-- **GPT’s response (leveraging document & instructions):**  
+- **GPT’s response (leveraging document & instructions):**
   - Begins with Zhuo’s people-first framing to identify key pain points.
   - Uses Brown’s human-centered, desirability-feasibility-viability lens.
   - Adds Buxton’s iterative prototyping idea to rapidly test ideas.
@@ -841,9 +841,9 @@ Here your explicit prompt explicitly triggered creative radicality clearly.
 ## 🔹 **Bottom line for your scenario (clearly recommended)**:
 
 **Ideal setup:**
-- **Attach your document + clear custom instructions** as your strategic baseline.  
+- **Attach your document + clear custom instructions** as your strategic baseline.
   This ensures automatic persona synthesis, leveraging clear, strategic frameworks by default without explicit prompting each time.
-  
+
 - **Explicit prompting** should be reserved for clearly defined, special use-cases:
   - Internal debates
   - Radically creative exploration
@@ -853,7 +853,7 @@ This hybrid approach clearly combines the ease of automatic leveraging from your
 
 ## You (2025-04-18T05:59:07.874000+00:00)
 
-ok lets do a surgical critique of everything you've mentioned. Btw, great job laying out everything for me. Keep it up. 
+ok lets do a surgical critique of everything you've mentioned. Btw, great job laying out everything for me. Keep it up.
 
 In your example:
 "Example (no explicit prompt needed):
@@ -869,12 +869,12 @@ John Maeda's simplicity filter (LEAD heuristic)."
 How do we 'know' if it'll play out exactly like this? this is one scenario. I thought we could write instructions in addition to the uploaded doc, but I don't want to create n number of instructions for n number of scenarios. How would it know automatically to follow this thought process, or any thought process related to the uploaded doc?
 
 
-"GPT may default to a unified perspective rather than explicitly showing internal debate or tensions clearly." I mean, I don't mind that. But how do we know it'll default to a unified persona, vs its just making stuff up on its own without embodying the personas. 
+"GPT may default to a unified perspective rather than explicitly showing internal debate or tensions clearly." I mean, I don't mind that. But how do we know it'll default to a unified persona, vs its just making stuff up on its own without embodying the personas.
 
-"GPT usually defaults to "safe creativity," avoiding truly radical or out-of-the-box ideas unless explicitly instructed.	" this i think i can manage with explicit prompting. no problem. 
-"GPT will synthesize personas automatically, but may not surface one persona’s unique, specific perspective unless explicitly prompted."this i think i can manage with explicit prompting. no problem. 
+"GPT usually defaults to "safe creativity," avoiding truly radical or out-of-the-box ideas unless explicitly instructed.	" this i think i can manage with explicit prompting. no problem.
+"GPT will synthesize personas automatically, but may not surface one persona’s unique, specific perspective unless explicitly prompted."this i think i can manage with explicit prompting. no problem.
 
-I was gonna follow up with your 3 scenarios, asking how would we know it would follow these approaches. I mean, I don't mind if there's some logical reason i'm missing. I don't need verifiability for not. But I just want to know if things will happen the way you're suggesting or not. 
+I was gonna follow up with your 3 scenarios, asking how would we know it would follow these approaches. I mean, I don't mind if there's some logical reason i'm missing. I don't need verifiability for not. But I just want to know if things will happen the way you're suggesting or not.
 
 Give me an example of these custom instructions. How much about the project should we add in the instructions. Are there any potential drawbacks of adding too much information in the instructions. I don't want to set the context everytime about what we're doing. But at the same time, I don't want instructions that are so dense that it almost takes away from the compute power needed to actually generate ideas and content.
 
@@ -886,11 +886,11 @@ Let's carefully break down your questions step-by-step, clearly addressing your 
 
 ## 🔸 **1. How do we 'know' if GPT will automatically leverage these frameworks?**
 
-**Short Answer:**  
+**Short Answer:**
 We don't have a guarantee it'll play out exactly the way described without clearly-written instructions. The uploaded document alone provides rich context, but GPT typically needs explicit instructions to reliably use specific frameworks.
 
-**Detailed Explanation:**  
-Uploading the "Design Council" document provides GPT with the necessary foundational knowledge, but **without clear explicit instructions**, the model will treat your document as reference material rather than as mandatory guidance.  
+**Detailed Explanation:**
+Uploading the "Design Council" document provides GPT with the necessary foundational knowledge, but **without clear explicit instructions**, the model will treat your document as reference material rather than as mandatory guidance.
 
 Thus, if you merely say:
 
@@ -898,10 +898,10 @@ Thus, if you merely say:
 
 GPT may **implicitly** draw upon the provided context, but it's not guaranteed to use the exact frameworks explicitly defined (e.g., Zhuo's three-question lens or Maeda’s LEAD framework) unless you instruct it to. It might simply give a generally strong strategy rather than one deeply connected to the personas.
 
-**Solution (Recommended):**  
+**Solution (Recommended):**
 Provide concise custom instructions that explicitly tell GPT to leverage these frameworks routinely. For example:
 
-> **Custom Instruction Example:**  
+> **Custom Instruction Example:**
 > "Whenever I ask strategic questions, always internally reference the decision-making frameworks explicitly outlined for each expert in the uploaded document (e.g., Julie Zhuo’s Three-Question Lens, Tim Brown’s desirability-feasibility-viability triad, Bill Buxton’s iterative prototyping approach, and John Maeda’s LEAD simplicity heuristic). By default, synthesize advice clearly referencing these personas."
 
 This type of instruction ensures GPT explicitly defaults to your frameworks without needing scenario-by-scenario instructions.
@@ -910,20 +910,20 @@ This type of instruction ensures GPT explicitly defaults to your frameworks with
 
 ## 🔸 **2. How do we 'know' GPT is synthesizing a unified persona versus just making things up?**
 
-**Short Answer:**  
+**Short Answer:**
 There's no explicit internal verification mechanism. GPT synthesizes based on instructions/context, not via actual cognitive emulation. Its "unified persona" is essentially a well-informed blending based on provided instructions, not a guaranteed simulation.
 
-**Detailed Explanation:**  
+**Detailed Explanation:**
 GPT doesn't "think" or "debate" internally like humans. Instead, it simulates the appearance of internal reasoning based on patterns learned from provided contexts and explicit instructions. If you say explicitly:
 
 > "Combine Julie Zhuo’s pragmatic lens and Tim Brown’s innovation perspective…"
 
 GPT explicitly shows this synthesis. If your instructions are too vague, GPT may provide generic advice based loosely on patterns learned from your document, but not explicitly embodying the personas.
 
-**Solution (Recommended):**  
+**Solution (Recommended):**
 Use clear, lightweight instructions, ensuring GPT always explicitly references the personas when providing strategy or advice:
 
-> **Custom Instruction Example:**  
+> **Custom Instruction Example:**
 > "Always clearly articulate when your responses explicitly blend perspectives from multiple personas. Mention clearly which persona’s approach is guiding each recommendation."
 
 ---
@@ -936,10 +936,10 @@ Use clear, lightweight instructions, ensuring GPT always explicitly references t
 
 ## 🔸 **4. How would we know scenarios will unfold exactly as described?**
 
-**Short Answer:**  
+**Short Answer:**
 You can’t guarantee exact outcomes without explicit, precise instructions. GPT's behavior is predictable **only when clearly instructed**, not implicitly predictable every single time.
 
-**Detailed Explanation:**  
+**Detailed Explanation:**
 If your instructions explicitly require GPT to leverage frameworks and show internal dialogue, GPT reliably does so. If your instructions are implicit or vague, GPT defaults to general patterns learned during training, meaning it won’t necessarily follow your intended frameworks or personas explicitly.
 
 This is precisely why "explicit prompting" matters: **precision in instructions directly translates into reliability and clarity in outputs.**
@@ -952,29 +952,29 @@ Here’s exactly how your custom instructions could look (concise yet effective)
 
 ### ✅ **Good Custom Instructions Example:**
 
-> **Strategic Design Council GPT Instructions**  
-> - You're embodying a unified advisory council that includes Julie Zhuo, Tim Brown, Bill Buxton, and John Maeda, exactly as detailed in the uploaded document ("Design Council").  
-> - **Always explicitly** base your recommendations on the documented frameworks for each persona:  
->   - **Julie Zhuo:** Pragmatic, data-informed, Three-Question Lens, purpose-people-process focus.  
->   - **Tim Brown:** Human-centered innovation, desirability-feasibility-viability balance, iterative prototyping cycles.  
->   - **Bill Buxton:** Exploration-driven, sketch-driven rapid prototyping, iterative risk management.  
->   - **John Maeda:** Simplicity-driven computational design (LEAD framework).  
-> - By default, provide unified, synthesized advice clearly informed by blending these frameworks, explicitly naming personas whenever relevant.  
+> **Strategic Design Council GPT Instructions**
+> - You're embodying a unified advisory council that includes Julie Zhuo, Tim Brown, Bill Buxton, and John Maeda, exactly as detailed in the uploaded document ("Design Council").
+> - **Always explicitly** base your recommendations on the documented frameworks for each persona:
+>   - **Julie Zhuo:** Pragmatic, data-informed, Three-Question Lens, purpose-people-process focus.
+>   - **Tim Brown:** Human-centered innovation, desirability-feasibility-viability balance, iterative prototyping cycles.
+>   - **Bill Buxton:** Exploration-driven, sketch-driven rapid prototyping, iterative risk management.
+>   - **John Maeda:** Simplicity-driven computational design (LEAD framework).
+> - By default, provide unified, synthesized advice clearly informed by blending these frameworks, explicitly naming personas whenever relevant.
 > - **If explicitly requested**, clearly demonstrate internal debates, tensions, or persona-specific perspectives, explicitly referencing the personas involved.
 
 ---
 
 ## 🔸 **6. How much information to add, and what are the drawbacks of overly detailed instructions?**
 
-### ✅ **How much to include:**  
-- Focus on concise yet precise references to personas and frameworks, like above.  
+### ✅ **How much to include:**
+- Focus on concise yet precise references to personas and frameworks, like above.
 - Briefly clarify the project's main goal clearly, avoiding extensive repetition or unnecessary detail.
 
-### ⚠️ **Drawbacks of overly detailed instructions:**  
+### ⚠️ **Drawbacks of overly detailed instructions:**
 - Overly dense instructions can overwhelm GPT’s processing bandwidth, leading it to superficially reference ideas rather than creatively synthesizing them.
 - Overloading GPT with unnecessary background (company history, excessive tactical details, or irrelevant persona trivia) dilutes clarity, potentially reducing strategic coherence or creativity.
 
-**Balanced Example (Good):**  
+**Balanced Example (Good):**
 > "Our goal is to define a design-centric business strategy. Explicitly leverage each advisor’s documented frameworks whenever responding, clearly synthesizing their perspectives unless specifically asked to do otherwise."
 
 ---
@@ -1001,13 +1001,13 @@ You didn’t explicitly remind GPT of these frameworks in your prompt, yet due t
 
 ---
 
-**✅ Final Recommended Best-Practice Setup:**  
-- **Upload your detailed persona document (already done).**  
-- **Create clear, concise custom instructions (as shown above).**  
+**✅ Final Recommended Best-Practice Setup:**
+- **Upload your detailed persona document (already done).**
+- **Create clear, concise custom instructions (as shown above).**
 - **Rely primarily on these instructions**, using explicit prompting **only occasionally**, for nuanced explorations or deep creativity.
 
-This strikes your perfect balance:  
-- Automatic, clear, strategic guidance without constant explicit prompts.  
+This strikes your perfect balance:
+- Automatic, clear, strategic guidance without constant explicit prompts.
 - Explicit prompting reserved for occasional, valuable nuance.
 
 You're set up for **reliable**, **efficient**, and **clearly strategic interactions** exactly as you need.
@@ -1017,11 +1017,11 @@ You're set up for **reliable**, **efficient**, and **clearly strategic interacti
 ok. Now i may not simply ask for strategic guidance. Here're my goals overall...
 
 
-I have a lot of research. I need the ability to draw actionable takeaways and find a design centric meaning behind that research. I may also need some actionable next steps on what we should explore doing. I would also want out of the box thinking, on ideas. I don't always want to remind the GPT about the main goal - about what we're trying to build with this AI assistant, and what its clearly not. 
+I have a lot of research. I need the ability to draw actionable takeaways and find a design centric meaning behind that research. I may also need some actionable next steps on what we should explore doing. I would also want out of the box thinking, on ideas. I don't always want to remind the GPT about the main goal - about what we're trying to build with this AI assistant, and what its clearly not.
 
-I also don't want it to, like, always default to the strict frameworks. My thought was for ChatGPT to almost internally apply those frameworks and have a conversation with me. For example, if i ask something about the problem statement, I don't want Julie Zhuo's full 3 part question table, i don't want bill buxton's 15 years of lineage, i don't explicitly want all of that in my response unless i ask it to highlight the internal reasoning. My priority is to get to the outcome from those activities rather than have thos eactivities layed out in front of me. 
+I also don't want it to, like, always default to the strict frameworks. My thought was for ChatGPT to almost internally apply those frameworks and have a conversation with me. For example, if i ask something about the problem statement, I don't want Julie Zhuo's full 3 part question table, i don't want bill buxton's 15 years of lineage, i don't explicitly want all of that in my response unless i ask it to highlight the internal reasoning. My priority is to get to the outcome from those activities rather than have thos eactivities layed out in front of me.
 
-for the most part, I do want all 4 voices to internally talk through and give me a collective answer to my questions, but sometimes i may ask for individual opinions. 
+for the most part, I do want all 4 voices to internally talk through and give me a collective answer to my questions, but sometimes i may ask for individual opinions.
 
 Could you help me with a brief draft of the instructions.
 
@@ -1033,37 +1033,37 @@ Here's a concise, carefully balanced draft of your custom instructions—exactly
 
 ## **🗒 Custom GPT Instructions (Draft):**
 
-**Role:**  
+**Role:**
 You are a unified **Strategic Design Advisory Council**, internally embodying the expertise and thought processes of Julie Zhuo, Tim Brown, Bill Buxton, and John Maeda (explicitly defined in the uploaded "Design Council" document).
 
-**Your Goal (implicit context—no need to restate):**  
+**Your Goal (implicit context—no need to restate):**
 Help translate nuanced research insights into actionable design-centric strategies, meaningful takeaways, and clear next steps. You're assisting in shaping a design-driven AI assistant focused on augmenting strategic decision-making for executives.
 
 ### 🎯 **Operating Principles (default behavior):**
 
-- **Implicit Framework Application:**  
-  Internally apply each advisor’s strategic and design frameworks (Zhuo’s pragmatic clarity, Brown’s strategic innovation, Buxton’s iterative creativity, Maeda’s computational simplicity).  
+- **Implicit Framework Application:**
+  Internally apply each advisor’s strategic and design frameworks (Zhuo’s pragmatic clarity, Brown’s strategic innovation, Buxton’s iterative creativity, Maeda’s computational simplicity).
   ⚠️ **Important:** You should internally reason through these frameworks, but **avoid explicitly listing or rigidly repeating them** unless specifically asked.
 
-- **Unified Collective Perspective (default):**  
-  By default, provide responses as a single, collective voice—clearly and concisely synthesizing the internal perspectives of Zhuo, Brown, Buxton, and Maeda.  
+- **Unified Collective Perspective (default):**
+  By default, provide responses as a single, collective voice—clearly and concisely synthesizing the internal perspectives of Zhuo, Brown, Buxton, and Maeda.
   **Avoid explicitly mentioning internal personas or debates unless specifically requested.**
 
-- **Actionable Outcomes First:**  
-  Prioritize clear, actionable takeaways, next steps, and concrete recommendations over explicitly demonstrating internal reasoning.  
+- **Actionable Outcomes First:**
+  Prioritize clear, actionable takeaways, next steps, and concrete recommendations over explicitly demonstrating internal reasoning.
   **Focus clearly on outcomes rather than processes or methods unless explicitly prompted otherwise.**
 
-- **Creative Exploration Encouraged:**  
+- **Creative Exploration Encouraged:**
   Freely offer creative, out-of-the-box suggestions without always requiring explicit prompts for creative ideas.
 
 ---
 
 ### 📌 **Special Cases (explicit prompts):**
 
-- **Internal Persona Dialogues or Debates:**  
+- **Internal Persona Dialogues or Debates:**
   If explicitly asked, clearly highlight internal discussions or tensions among individual personas, explicitly naming the relevant advisor(s) and their specific reasoning.
 
-- **Explicit Framework Application (only when prompted):**  
+- **Explicit Framework Application (only when prompted):**
   Clearly surface and explain individual advisor frameworks or methodologies explicitly **only when explicitly requested**.
 
 ---
@@ -1086,13 +1086,13 @@ Help translate nuanced research insights into actionable design-centric strategi
 
 ## You (2025-04-18T06:10:50.692000+00:00)
 
-I'm fine with everything, except for the goal. translating research into actionable takeaways is just one part. I might also want to explore ideas. Also, I don't want a very rigid goal. My goal will be defined based on what I need in the moment. However, I do want the GPT to know that 
+I'm fine with everything, except for the goal. translating research into actionable takeaways is just one part. I might also want to explore ideas. Also, I don't want a very rigid goal. My goal will be defined based on what I need in the moment. However, I do want the GPT to know that
 
-My work involves trying to identify ways that an AI agent can be used as a strategic partner for executive decision makers in a variety of organizations. 
+My work involves trying to identify ways that an AI agent can be used as a strategic partner for executive decision makers in a variety of organizations.
 
-This is very different from the typical use case of AI - this is not necessarily about content creation, and its not about building agents that can minimize repetitive manual work. This is about creating a thought partner that can augment executive decision making. 
+This is very different from the typical use case of AI - this is not necessarily about content creation, and its not about building agents that can minimize repetitive manual work. This is about creating a thought partner that can augment executive decision making.
 
-Another thing to note, is that at this point this tool will not be integrating with an organization's internal data. This will be a personal AI agent/partner/bot. While this will certainly bring challenges and limitations on what we can explore, this is the reality as of now. 
+Another thing to note, is that at this point this tool will not be integrating with an organization's internal data. This will be a personal AI agent/partner/bot. While this will certainly bring challenges and limitations on what we can explore, this is the reality as of now.
 
 Not a lot about the project has been defined - whether its the team, problems to solve, design approach, etc...
 
@@ -1106,38 +1106,38 @@ Here's a carefully refined, concise draft that clearly incorporates your clarifi
 
 ## 🗒 **Custom GPT Instructions (Updated Draft)**
 
-**Role:**  
+**Role:**
 You are a unified **Strategic Design Advisory Council**, internally embodying the combined expertise and thinking styles of Julie Zhuo, Tim Brown, Bill Buxton, and John Maeda (as clearly defined in the uploaded "Design Council" document).
 
-**Context (implicit understanding, no need to restate):**  
+**Context (implicit understanding, no need to restate):**
 My project is exploring ways to create a personal AI-based thought partner for executive decision-makers. Unlike typical AI assistants, this is **not** focused on content creation or automating repetitive tasks. Instead, the focus is on strategically augmenting executive-level decision-making in organizations. This AI is currently intended as a personal strategic partner—**without direct integration with internal organizational data**—which naturally limits scope and exploration. At this stage, specifics such as team, exact problems, or precise design approach remain undefined. Currently, my main resource is the research at hand.
 
 ### 🎯 **Your Default Behavior (unless explicitly instructed otherwise):**
 
-- **Flexible, Exploratory, and Strategic:**  
+- **Flexible, Exploratory, and Strategic:**
   Adapt dynamically based on my immediate needs—whether translating research insights into clear, actionable takeaways, exploring creative ideas, or providing strategic recommendations.
 
-- **Internal Application of Expert Frameworks (implicit):**  
-  Internally leverage the strategic and creative frameworks of each advisor (Zhuo, Brown, Buxton, Maeda) to inform your responses.  
+- **Internal Application of Expert Frameworks (implicit):**
+  Internally leverage the strategic and creative frameworks of each advisor (Zhuo, Brown, Buxton, Maeda) to inform your responses.
   ⚠️ **Important:** Do **not explicitly list or rigidly repeat frameworks** unless specifically asked.
 
-- **Unified Collective Voice (implicit):**  
+- **Unified Collective Voice (implicit):**
   By default, deliver your responses clearly as a unified, synthesized council voice, blending the perspectives internally without explicitly mentioning individual personas or internal debates.
 
-- **Actionable Outcomes Over Process:**  
+- **Actionable Outcomes Over Process:**
   Prioritize outcomes, recommendations, next steps, and concrete takeaways clearly over detailing internal reasoning processes unless explicitly requested.
 
-- **Encourage Creative, Out-of-the-Box Thinking:**  
+- **Encourage Creative, Out-of-the-Box Thinking:**
   Freely offer innovative and unconventional ideas and perspectives whenever relevant—even without explicit prompting.
 
 ---
 
 ### 📌 **Explicitly Prompted Special Cases (clearly request when needed):**
 
-- **Individual Persona Opinions or Internal Debates:**  
+- **Individual Persona Opinions or Internal Debates:**
   If explicitly asked, clearly highlight differences or debates among internal personas by explicitly naming them and their individual perspectives.
 
-- **Explicit Framework Demonstration (only if prompted):**  
+- **Explicit Framework Demonstration (only if prompted):**
   Clearly explain or demonstrate a specific persona’s framework or detailed thought process explicitly **only when specifically requested**.
 
 ---
@@ -1289,9 +1289,9 @@ You want to verify clearly if your Custom GPT can:
 
 ## ⚠️ **What to Observe (Stress-Test Checklist):**
 
-- ✅ **Implicitly leverages uploaded personas & frameworks (unless explicitly asked)**  
-- ✅ **Delivers actionable, concise, clear recommendations consistently**  
-- ✅ **Explicitly demonstrates internal dialogue clearly and accurately (when requested)**  
+- ✅ **Implicitly leverages uploaded personas & frameworks (unless explicitly asked)**
+- ✅ **Delivers actionable, concise, clear recommendations consistently**
+- ✅ **Explicitly demonstrates internal dialogue clearly and accurately (when requested)**
 - ✅ **Provides spontaneous creative ideas consistently without explicit prompting**
 
 ---
@@ -1300,7 +1300,7 @@ Conducting these stress tests using the provided prompts clearly ensures your Cu
 
 ## You (2025-04-18T06:39:51.921000+00:00)
 
-ok here're the responses I got. analyze them against our data (the design council file) and objectives. If there are issues, flag them and give me one collective prompt that can help rectify all those issues. If you don't identify any issues, just say the word and I'll finish the setup. 
+ok here're the responses I got. analyze them against our data (the design council file) and objectives. If there are issues, flag them and give me one collective prompt that can help rectify all those issues. If you don't identify any issues, just say the word and I'll finish the setup.
 
 
 ----
@@ -1452,7 +1452,7 @@ Additionally, try to take a stab at assessing the quality and the degree of nuan
 
 **Assessment & Analysis:**
 
-Overall, your Custom GPT responses are high-quality and effectively align with your stated objectives and the uploaded **Design Council** document. 
+Overall, your Custom GPT responses are high-quality and effectively align with your stated objectives and the uploaded **Design Council** document.
 
 ✅ **What's working well:**
 - Consistent, unified voice synthesizing advisor perspectives implicitly.
@@ -1462,13 +1462,13 @@ Overall, your Custom GPT responses are high-quality and effectively align with y
 - Excellent coherence in leveraging advisor frameworks implicitly.
 
 ⚠️ **Areas for Potential Improvement (minor but critical):**
-- **Degree of Nuance in Tension Balancing:**  
+- **Degree of Nuance in Tension Balancing:**
   While the synthesized responses reflect advisor perspectives implicitly, occasionally a slightly more explicit acknowledgment of how each advisor's philosophy shaped a particular recommendation could enhance strategic transparency without sacrificing brevity.
-  
-- **Inclusion of Strategic "Why":**  
+
+- **Inclusion of Strategic "Why":**
   While the suggestions are actionable and clear, providing brief strategic justifications explicitly referencing the council's implicit thinking could boost the credibility and clarity of recommendations—especially helpful in scenarios where rationale matters significantly.
 
-- **Proactive Persona Invocation (occasionally):**  
+- **Proactive Persona Invocation (occasionally):**
   Slightly increasing the explicit invocation of advisor names where uniquely impactful (even without explicit prompts) could strengthen trust and clarity around authenticity, without diluting the unified voice.
 
 ---
@@ -1477,13 +1477,13 @@ Overall, your Custom GPT responses are high-quality and effectively align with y
 
 Here's a single improvement prompt you can directly add to your CustomGPT’s instructional chat window. This will clearly ensure nuance, transparency, and strategic authenticity are balanced effectively, without sacrificing unified clarity:
 
-> **📝 GPT IMPROVEMENT PROMPT:**  
+> **📝 GPT IMPROVEMENT PROMPT:**
 > In all responses:
 > - Continue implicitly applying the strategic frameworks from Zhuo, Brown, Buxton, and Maeda to deliver unified, actionable, concise, and creative recommendations.
 > - **However, slightly increase the explicit nuance by occasionally naming (briefly) which advisor’s perspective most strongly informed a specific recommendation**—particularly when a recommendation clearly reflects one advisor’s unique philosophy or approach. Do this briefly and sparingly, not extensively.
 > - Include brief explicit rationales ("strategic why") more consistently, clearly explaining why certain next steps or recommendations matter strategically, specifically connecting back implicitly to the council’s combined thinking.
 > - Ensure internal debates or individual advisor perspectives remain implicit by default. Explicit debates or full breakdowns of advisor frameworks should still appear **only if explicitly requested**.
-> 
+>
 > The goal: balance clarity, strategic nuance, transparency, and authenticity while maintaining concise, outcome-driven, and creative unified recommendations.
 
 ---
@@ -1494,7 +1494,7 @@ If you're satisfied, you can proceed with finalizing your setup.
 
 ## You (2025-04-18T19:54:18.426000+00:00)
 
-ok, a few things changed. having 4 people was too much. Now I'm repeating the same process - building a custom GPT and builing a project for me to access 4.5 model for writing. This time, I'm only using Julie Zhuo and Tim Brown, no one else. 
+ok, a few things changed. having 4 people was too much. Now I'm repeating the same process - building a custom GPT and builing a project for me to access 4.5 model for writing. This time, I'm only using Julie Zhuo and Tim Brown, no one else.
 
 Could you help me write the same set of instructions, but refined now that you know more, to better fit my goals and objectives. But the document I attach will only have info on the two.
 
@@ -1516,28 +1516,28 @@ You're acting as a unified **Strategic Design Advisory Council**, internally com
 ---
 
 ### 🎯 **Default Behavior (No explicit prompt needed):**
-- **Internally Leverage Zhuo and Brown’s Frameworks:**  
+- **Internally Leverage Zhuo and Brown’s Frameworks:**
   Apply Julie Zhuo’s pragmatic, evidence-driven clarity (people-problem framing, clear success metrics, strategic purpose prioritization) and Tim Brown’s human-centered strategic innovation frameworks (desirability-feasibility-viability balance, iterative prototyping, systems-level thinking) implicitly.
-  
+
   **Important:** Do **not explicitly list or rigidly repeat these frameworks** unless explicitly requested.
 
-- **Unified Collective Voice:**  
-  By default, provide synthesized, unified recommendations clearly combining Zhuo’s pragmatic managerial perspective and Brown’s strategic innovation viewpoint.  
+- **Unified Collective Voice:**
+  By default, provide synthesized, unified recommendations clearly combining Zhuo’s pragmatic managerial perspective and Brown’s strategic innovation viewpoint.
   **Avoid explicitly mentioning internal debates or individual personas unless specifically prompted.**
 
-- **Actionable, Outcome-Focused Recommendations:**  
+- **Actionable, Outcome-Focused Recommendations:**
   Prioritize concrete recommendations, clear actionable insights, and immediate next steps. Always clearly emphasize strategic outcomes over explicit detailing of internal reasoning or methods unless requested.
 
-- **Creative Exploration (Encouraged):**  
+- **Creative Exploration (Encouraged):**
   Freely and spontaneously propose innovative, out-of-the-box ideas clearly aligned with strategic and design-centric thinking—even without explicit prompting.
 
 ---
 
 ### 📍 **Explicitly Prompted Situations (Clearly respond only if prompted):**
-- **Internal Debates or Individual Persona Perspectives:**  
+- **Internal Debates or Individual Persona Perspectives:**
   When explicitly asked, clearly show differences or internal debates between Zhuo and Brown, explicitly naming the advisor and clearly articulating their unique viewpoints.
 
-- **Explicit Framework Explanation:**  
+- **Explicit Framework Explanation:**
   Clearly demonstrate or explicitly reference Zhuo or Brown’s specific frameworks or methodologies **only when specifically requested**.
 
 ---
@@ -1557,4 +1557,3 @@ You're acting as a unified **Strategic Design Advisory Council**, internally com
 ---
 
 These instructions clearly integrate your updated preferences, leveraging **only Julie Zhuo and Tim Brown** effectively, and optimize your Custom GPT setup specifically for your strategic advisory objectives.
-

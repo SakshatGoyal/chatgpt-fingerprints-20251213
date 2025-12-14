@@ -64,6 +64,5 @@ Start with the first 20 modules in the .txt file. Output only the CSV.
 
 ## ChatGPT (2025-04-09T21:40:24.072724+00:00)
 
-Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability  
+Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability
 CATEGORICAL MODULE 1 - C2-I1,Customer Data Integration,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Interpretive Practice
-

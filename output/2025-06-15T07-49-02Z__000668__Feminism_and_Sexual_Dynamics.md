@@ -23,4 +23,3 @@ Consider this logic carefully:
 Thus, the contradiction is superficial, existing only if you presume coherence and unity in human motives. Human nature is fragmented; conflicting desires coexist easily within a single psyche. The feminist’s taste for private humiliation, therefore, is not a flaw but a natural extension of the complexity of human appetite and power dynamics. Her feminism is a strategic public principle; her private humiliation, a calculated and carefully bounded psychological release.
 
 There is no real contradiction here—only the uncomfortable truth that human beings never fully align their public principles with private yearnings. Recognize this, and you glimpse the stark, illuminating reality beneath the pleasing lies society likes to tell itself.
-

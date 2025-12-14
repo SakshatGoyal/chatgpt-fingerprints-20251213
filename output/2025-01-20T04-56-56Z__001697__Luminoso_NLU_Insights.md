@@ -45,7 +45,7 @@ Here’s a fleshed-out version of the **Creator** and **Consumer** archetypes ba
 ---
 
 ### **Archetype 1: The Creator**
-**Role**: Data Scientist / Data Analyst / Insights Specialist  
+**Role**: Data Scientist / Data Analyst / Insights Specialist
 **Primary Goal**: Translate complex data into digestible insights through dashboards and reports that drive decision-making.
 
 #### **Key Characteristics**:
@@ -80,7 +80,7 @@ Here’s a fleshed-out version of the **Creator** and **Consumer** archetypes ba
 ---
 
 ### **Archetype 2: The Consumer**
-**Role**: C-Level Executive / Senior VP / Decision-Maker  
+**Role**: C-Level Executive / Senior VP / Decision-Maker
 **Primary Goal**: Quickly understand the key insights from data to make informed, strategic decisions.
 
 #### **Key Characteristics**:
@@ -127,4 +127,3 @@ Here’s a fleshed-out version of the **Creator** and **Consumer** archetypes ba
 ---
 
 Let me know if you’d like additional dimensions (e.g., example scenarios, tools used, or preferences) or if you’re ready to move on to building out detailed personas based on these archetypes.
-

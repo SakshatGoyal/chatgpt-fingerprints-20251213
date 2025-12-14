@@ -2,13 +2,13 @@
 
 ## You (2025-11-17T12:59:38.211000+00:00)
 
-help me create a good prompt. I'm using a customGPT which thinks like a psychiatrist so i don't need to define a persona. But I'm going to attach the following document and i need help with a few things. 
+help me create a good prompt. I'm using a customGPT which thinks like a psychiatrist so i don't need to define a persona. But I'm going to attach the following document and i need help with a few things.
 
 ---
 
-I need to get a better understanding of which medications work and which ones don't. And the ones that don't, why do they not work. What's the core reason for this shaking. Why we haven't seen any true progress yet. What do each of these medications do. What have the medications done to the patient (positive or negative). And based on historical evidence, what might be the best combination of medications and why. 
+I need to get a better understanding of which medications work and which ones don't. And the ones that don't, why do they not work. What's the core reason for this shaking. Why we haven't seen any true progress yet. What do each of these medications do. What have the medications done to the patient (positive or negative). And based on historical evidence, what might be the best combination of medications and why.
 
-For additional context, the last doctor - doctor jyothirmayi, has a history of carelessly reducing medications. I do not want to go to her becuase she has multiple conflicts of interests - based on several patterns observed, we believe that she wants my mother to be hospitalized in a specific clinic that has financial ties with this doctor. 
+For additional context, the last doctor - doctor jyothirmayi, has a history of carelessly reducing medications. I do not want to go to her becuase she has multiple conflicts of interests - based on several patterns observed, we believe that she wants my mother to be hospitalized in a specific clinic that has financial ties with this doctor.
 
 We need help understanding the ideal combination of medications.
 
@@ -53,12 +53,12 @@ Before we **begin creating the prompt**, would you like to:
 3. Have the model offer a **ranked or tiered recommendation plan** (e.g., first-line combo vs backup)?
 4. Include concerns about **hospitalization pressure** or medical ethics?
 
-Let me know if you’d like to explore any of these, or if you're ready to proceed with:  
+Let me know if you’d like to explore any of these, or if you're ready to proceed with:
 **“Begin creating the prompt.”**
 
 ## You (2025-11-17T13:02:34.716000+00:00)
 
-additionally we want a deeper understanding of the medications. I want this GPT to do a thorough breakdown of the actual medications. I also need it to refer to some medical research or documentation. 
+additionally we want a deeper understanding of the medications. I want this GPT to do a thorough breakdown of the actual medications. I also need it to refer to some medical research or documentation.
 
 begin creating the prompt.
 
@@ -81,65 +81,64 @@ Analyze and evaluate the longitudinal psychiatric medication history of Suparna 
 ---
 
 ### **📦 Return Format**
-- **Section 1: Chronological Efficacy Matrix**  
+- **Section 1: Chronological Efficacy Matrix**
   Table summarizing each treatment phase with:
-  - Date range  
-  - Medication(s) & dosages  
-  - Observed benefits  
-  - Observed side-effects  
-  - Notable behavioral changes  
-  - Adherence status  
+  - Date range
+  - Medication(s) & dosages
+  - Observed benefits
+  - Observed side-effects
+  - Notable behavioral changes
+  - Adherence status
 
-- **Section 2: Medication Mechanism Overview**  
+- **Section 2: Medication Mechanism Overview**
   For each drug (e.g. Olanzapine, Risperidone, Paliperidone, Aripiprazole, Pacitane, Betacap, Nexito):
-  - Drug class  
-  - Mechanism of action  
-  - Primary therapeutic role in schizophrenia or related conditions  
-  - Common side-effects, especially extrapyramidal symptoms  
-  - Pharmacodynamic or pharmacokinetic interactions with other drugs used  
+  - Drug class
+  - Mechanism of action
+  - Primary therapeutic role in schizophrenia or related conditions
+  - Common side-effects, especially extrapyramidal symptoms
+  - Pharmacodynamic or pharmacokinetic interactions with other drugs used
   - Citations or references to relevant medical literature (e.g., NIH, PubMed, WHO, peer-reviewed psychiatric journals)
 
-- **Section 3: Root Cause Analysis of Tremors**  
-  - Timeline of tremor onset vs medication changes  
-  - Evaluate likelihood of **acute vs tardive extrapyramidal symptoms**  
-  - Clinical interpretation of Pacitane and Betacap effectiveness  
-  - Potential irreversible neuroleptic-induced changes  
+- **Section 3: Root Cause Analysis of Tremors**
+  - Timeline of tremor onset vs medication changes
+  - Evaluate likelihood of **acute vs tardive extrapyramidal symptoms**
+  - Clinical interpretation of Pacitane and Betacap effectiveness
+  - Potential irreversible neuroleptic-induced changes
   - Judgment on which drug(s) most likely contributed to or worsened the tremors, supported by mechanism and research
 
-- **Section 4: Ethical & Treatment Context Review**  
-  - Note family’s documented concern about **Dr. Jyothirmayi**, including suspected conflict of interest with a specific clinic  
-  - Evaluate any patterns of **careless dose reductions** or **inadequate monitoring of motor side effects**  
+- **Section 4: Ethical & Treatment Context Review**
+  - Note family’s documented concern about **Dr. Jyothirmayi**, including suspected conflict of interest with a specific clinic
+  - Evaluate any patterns of **careless dose reductions** or **inadequate monitoring of motor side effects**
   - Caution against over-reliance on providers with known trust violations
 
-- **Section 5: Treatment Recommendation Plan**  
-  - Clear, layered recommendation:  
-    - **Primary regimen** – based on best clinical evidence and this patient’s history  
-    - **Contingency/backup options** – in case of side-effects or poor response  
-  - If appropriate, recommend long-acting vs short-acting options  
-  - Include realistic management strategies for adherence, given patient’s history of deception and resistance  
+- **Section 5: Treatment Recommendation Plan**
+  - Clear, layered recommendation:
+    - **Primary regimen** – based on best clinical evidence and this patient’s history
+    - **Contingency/backup options** – in case of side-effects or poor response
+  - If appropriate, recommend long-acting vs short-acting options
+  - Include realistic management strategies for adherence, given patient’s history of deception and resistance
   - List **any labs, monitoring, or assessments** that should accompany the plan (e.g., AIMS scale for TD, thyroid tests)
 
 ---
 
 ### **⚠️ Warnings & Guardrails**
-- Avoid assumptions unsupported by the clinical history provided.  
-- Clearly **distinguish speculation from evidence** (e.g., hallucinations have *not* been reported—don’t overweigh antipsychotics for that symptom).  
-- Maintain neutrality regarding psychiatrist intentions—report observed patterns, not motives.  
-- Do not prescribe—this is a clinical reasoning task for educational or preparatory purposes only.  
+- Avoid assumptions unsupported by the clinical history provided.
+- Clearly **distinguish speculation from evidence** (e.g., hallucinations have *not* been reported—don’t overweigh antipsychotics for that symptom).
+- Maintain neutrality regarding psychiatrist intentions—report observed patterns, not motives.
+- Do not prescribe—this is a clinical reasoning task for educational or preparatory purposes only.
 - Patient has historically demonstrated extreme control behaviors, dietary delusions, and poor insight—medication effectiveness should be judged **behaviorally and relationally**, not just via internal symptom reports.
 
 ---
 
 ### **📚 Context & Additional Elements**
-- Patient: Suparna Goyal  
-- Diagnosis: Schizophrenia (no hallucinations, prominent paranoia, dietary delusions, intermittent aggression)  
-- History of extreme **isolation, fasting, controlling behaviors**, and **involuntary physical symptoms (tremors)**.  
-- Timeline of all medications, behaviors, and regressions is documented in detail.  
-- Family has taken over care coordination and is seeking an evidence-based synthesis and treatment optimization.  
-- You are a **psychiatrist** interpreting this history with the lens of psychopharmacology, patient safety, and adherence psychology.  
+- Patient: Suparna Goyal
+- Diagnosis: Schizophrenia (no hallucinations, prominent paranoia, dietary delusions, intermittent aggression)
+- History of extreme **isolation, fasting, controlling behaviors**, and **involuntary physical symptoms (tremors)**.
+- Timeline of all medications, behaviors, and regressions is documented in detail.
+- Family has taken over care coordination and is seeking an evidence-based synthesis and treatment optimization.
+- You are a **psychiatrist** interpreting this history with the lens of psychopharmacology, patient safety, and adherence psychology.
 - Refer to real-world psychiatric and pharmacological research where appropriate.
 
 ---
 
 Would you like this prompt adapted into a downloadable note, or inserted into the CustomGPT as-is?
-

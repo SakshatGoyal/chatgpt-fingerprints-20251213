@@ -152,7 +152,7 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Key Themes:** The paper centers on how Amazon innovates to manage global supply chain complexities by deploying localized expansion strategies, advanced technological solutions for last-mile delivery, and sustainable practices that balance operational efficiency with environmental responsibilities.
 - **Core Motivations:** Driven by the need to overcome logistical challenges in diverse markets—such as India’s varied geography—and to address seasonal demand surges and crisis-induced disruptions (e.g., COVID-19), the study examines the strategic imperatives behind Amazon’s multi-faceted approach.
 - **Methodological Clarification:** Utilizing case studies, descriptive analysis, and quantitative metrics (e.g., capacity enhancements, carbon intensity reductions), the research offers empirical evidence alongside strategic narratives. However, some areas lean on inferred reasoning rather than rigorous experimental validation.
-- **Relevance Assessment:** The findings speak directly to contemporary executive concerns, highlighting how adaptive investments, technological innovation, and sustainable practices can transform supply chain operations in an increasingly complex global market. citeturn0file0
+- **Relevance Assessment:** The findings speak directly to contemporary executive concerns, highlighting how adaptive investments, technological innovation, and sustainable practices can transform supply chain operations in an increasingly complex global market.
 
 ## Grounded Executive Insights
 
@@ -233,12 +233,12 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Coverage Fit:** High — The paper thoroughly addresses key aspects of executive decision-making and strategic reasoning in the context of global supply chain challenges.
 - **Bias & Cognitive Modeling Content:** Implied Only — Although not explicitly focused on cognitive biases, the strategic decision-making narrative implies that overcoming traditional assumptions is critical.
 - **Clarity of Methods & Outcomes:** Clear — The methodological approach, combining case studies and quantitative performance metrics, is well articulated and transparent.
-- **Areas with No Data:**  
-  - Insight Statement: Fully supported.  
-  - Executive Decision-Making Context: Fully supported.  
+- **Areas with No Data:**
+  - Insight Statement: Fully supported.
+  - Executive Decision-Making Context: Fully supported.
   - Supporting Context: Fully supported.
 
-This analysis elucidates how Amazon’s multifaceted strategy—spanning localized global expansion, proactive demand management, technological disruption in last-mile delivery, sustainability, and crisis resilience—offers robust, empirically grounded insights for senior executives navigating complex operational challenges. citeturn0file0
+This analysis elucidates how Amazon’s multifaceted strategy—spanning localized global expansion, proactive demand management, technological disruption in last-mile delivery, sustainability, and crisis resilience—offers robust, empirically grounded insights for senior executives navigating complex operational challenges.
 
 ## You (2025-03-23T23:42:11.549000+00:00)
 
@@ -529,21 +529,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -556,4 +556,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T23:44:27.885320+00:00)
 
 Lu, Y. (2024). *Mastering complexity: Amazon’s innovative approach to global supply chain challenges*. In L. Chang et al. (Eds.), *Proceedings of the 2024 8th International Seminar on Education, Management and Social Sciences (ISEMSS 2024)* (pp. 751–762). Atlantis Press. https://doi.org/10.2991/978-2-38476-297-2_92
-

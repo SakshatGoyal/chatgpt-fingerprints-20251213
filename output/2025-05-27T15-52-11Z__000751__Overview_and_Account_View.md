@@ -5,13 +5,13 @@
 If you have any questions about the following objective, let me know. And if not, I can begin sharing the user stories with you.
 
 #Maintain the following in your working memory
-You're the account executive, and I'm the product designer. 
+You're the account executive, and I'm the product designer.
 
-I am going to share an interaction flow plan along with a user story. I am designing two views: an overview and an account view. 
+I am going to share an interaction flow plan along with a user story. I am designing two views: an overview and an account view.
 
 The overview will display data from all accounts and will focus on high-level, critical metrics, data, and information, making it the most actionable. For each outcome or interaction flow plan, I will identify the most relevant and important pieces of information that would initially capture your interest in an account.
 
-In contrast, the account view will provide detailed information and activity related to just one account, allowing you to take more informed actions. 
+In contrast, the account view will provide detailed information and activity related to just one account, allowing you to take more informed actions.
 
 Think of the overview page as a way to notice key insights, while the account view serves as a space to learn and understand in-depth details.
 
@@ -22,35 +22,35 @@ I'll be sharing a lot of different user stories with you. Here's the format:
 - User Story
 - Flow
 - Edge Cases
-- Outcome. 
+- Outcome.
 
-The user story represents your scenario, which can be seen as the task you are trying to accomplish. 
+The user story represents your scenario, which can be seen as the task you are trying to accomplish.
 
-The flow describes how I interpret the path you might take to reach the desired outcome. 
+The flow describes how I interpret the path you might take to reach the desired outcome.
 
-Edge cases refer to potential issues or complications that could arise during the process. 
+Edge cases refer to potential issues or complications that could arise during the process.
 
 The outcome is what you hope to achieve at the end of the interaction.
 
 ---
 
-Here's the format I expect from you. 
+Here's the format I expect from you.
 
 ##Overview Page
 ###Inputs
 ###Ideal structure
-###Expected Output. 
+###Expected Output.
 
 ##Account Page
 ###Inputs
 ###Ideal Structure
-###Expected Output. 
+###Expected Output.
 
-The inputs represent the information you might need to take action on each page for an individual page. This could be data, data visualizations, call-outs, tags, or anything else that you might feel is the most effective way for you to get a quick glance. 
+The inputs represent the information you might need to take action on each page for an individual page. This could be data, data visualizations, call-outs, tags, or anything else that you might feel is the most effective way for you to get a quick glance.
 
-The ideal structure is the format in which you'd like the inputs to be received. If it's a table, let me know the headers and rows along with some sample values. If it's a data visualization, tell me how you'd like to visualize it—it could be quantities over time, quantities by category, qualitative tags, whatever it may be. But I'd like you to use specific data examples to illustrate your structure. 
+The ideal structure is the format in which you'd like the inputs to be received. If it's a table, let me know the headers and rows along with some sample values. If it's a data visualization, tell me how you'd like to visualize it—it could be quantities over time, quantities by category, qualitative tags, whatever it may be. But I'd like you to use specific data examples to illustrate your structure.
 
-The expected output is completely optional and may not apply to all user stories. And if you feel it doesn't, call it out. But its basically meant to represent anything that you might want the system to tell you either through the interaction, or at the end of an interaction, or both. 
+The expected output is completely optional and may not apply to all user stories. And if you feel it doesn't, call it out. But its basically meant to represent anything that you might want the system to tell you either through the interaction, or at the end of an interaction, or both.
 
 ---
 
@@ -71,15 +71,15 @@ Crystal clear—and I appreciate the structure and clarity. Here's a quick summa
 - **User stories** come with: User Story, Flow, Edge Cases, Outcome.
 - You want **my perspective as a PANW AE**—what info and structure I’d need to take action or make decisions on each page, using realistic AE workflows and outcomes.
 - You'll get my response in this format:
-  
-  ## Overview Page  
-  - **Inputs** (What info I need to notice and prioritize accounts)  
-  - **Ideal Structure** (Format/layout for that info)  
+
+  ## Overview Page
+  - **Inputs** (What info I need to notice and prioritize accounts)
+  - **Ideal Structure** (Format/layout for that info)
   - **Expected Output** (Optional – what I'd want the system to tell me or help surface)
 
-  ## Account Page  
-  - **Inputs** (What I need to understand or act decisively on one account)  
-  - **Ideal Structure** (Layout or components that support action and decision-making)  
+  ## Account Page
+  - **Inputs** (What I need to understand or act decisively on one account)
+  - **Ideal Structure** (Layout or components that support action and decision-making)
   - **Expected Output** (Optional – outcomes or next best actions)
 
 I'll flag any illogical or ambiguous flows with context, offer interpretations, and seek clarification when necessary.
@@ -137,7 +137,7 @@ Perfect—this is a classic scenario that AEs in Majors encounter constantly, es
 - Renewals as a timeline with urgency indicators (green/yellow/red)
 
 ### **Expected Output**
-The goal is to quickly spot which Majors accounts are “review ready” vs. which need deeper prep. A callout like:  
+The goal is to quickly spot which Majors accounts are “review ready” vs. which need deeper prep. A callout like:
 > “3 Majors accounts have <60% product coverage and upcoming renewals. Generate snapshots?”
 
 ---
@@ -156,7 +156,7 @@ The goal is to quickly spot which Majors accounts are “review ready” vs. whi
 ### **Ideal Structure**
 **Layout: Executive Snapshot Panel + Engagement Feed + Product Usage Grid**
 
-1. **Executive Snapshot Panel**  
+1. **Executive Snapshot Panel**
    - 4-quadrant summary of product presence
    - Milestone flags: upcoming renewals, partial deployments, high engagement
 
@@ -167,15 +167,15 @@ The goal is to quickly spot which Majors accounts are “review ready” vs. whi
 | Prisma Access | PAN-PAAS | 5000 Users | 2700 | 54% | 2025-09-01 |
 | Cortex XDR | XDR-Pro | 3000 Endpoints | 0 | 0% | 2026-01-15 |
 
-3. **Engagement Feed (Timeline View):**  
-   - “Feb 5: EBC with CIO”  
-   - “Mar 1: SE DLP PoC walkthrough”  
+3. **Engagement Feed (Timeline View):**
+   - “Feb 5: EBC with CIO”
+   - “Mar 1: SE DLP PoC walkthrough”
    - “Apr 10: TAC case #12345 escalated to P1 – resolved”
 
-4. **Data Quality Notices:**  
+4. **Data Quality Notices:**
    - If data missing: “Telemetry data for Prisma Cloud not available. Click to refresh or sync with SE.”
 
-5. **Export Button:**  
+5. **Export Button:**
    - Format selector (PDF / PPT / GSlide), customizable cover image, notes field.
 
 ### **Expected Output**
@@ -323,11 +323,11 @@ This is spot on for what Majors AEs need—proof that *others like them* have wa
 
 **Card Example:**
 ```
-🏢 MegaBank – Financial Services  
-✅ SIEM replaced with XSIAM in <6 months  
-🎯 KPI: 62% faster incident response  
-🔗 [External] PDF, 3-min Video  
-📎 Tags: Financial | XSIAM | SIEM | SOC Transformation  
+🏢 MegaBank – Financial Services
+✅ SIEM replaced with XSIAM in <6 months
+🎯 KPI: 62% faster incident response
+🔗 [External] PDF, 3-min Video
+📎 Tags: Financial | XSIAM | SIEM | SOC Transformation
 ⬆ Similarity: 88% | [Add to Pack] | [Preview]
 ```
 
@@ -351,7 +351,7 @@ Curated, permission-safe content pack tailored to the target account or campaign
 ### **Ideal Structure**
 **Layout: “Case Study Recommender” Sidebar + Pack Builder + Engagement Log**
 
-1. **Recommender Sidebar**  
+1. **Recommender Sidebar**
    Auto-suggests 2–3 closest match case studies based on:
    - Industry + company size
    - Product strategy match (e.g., Cortex replacing Splunk)
@@ -534,7 +534,7 @@ This use case is gold for accelerating trust in a first-touch strategy—especia
 - CTA: “Suggest Intro Message”
 
 ### **Expected Output**
-Quick signal: where have we been, who do we know, who do we need to meet?  
+Quick signal: where have we been, who do we know, who do we need to meet?
 System nudge:
 > “12 Majors accounts have unbuilt org maps. You’re missing AI buyers in 4 of them.”
 
@@ -567,14 +567,14 @@ System nudge:
 
    **Example:**
    ```
-   🛡️ Security:  
-   – Sarah Kim, CISO (Past engagement – 2 meetings)  
+   🛡️ Security:
+   – Sarah Kim, CISO (Past engagement – 2 meetings)
    – James Lin, Sr. Dir SecOps (New)
 
-   🔐 DPO/Privacy:  
+   🔐 DPO/Privacy:
    – Carla DeMarco, Chief Privacy Officer (LinkedIn post on DLP policy refresh)
 
-   🤖 AI Leaders:  
+   🤖 AI Leaders:
    – Amit Shah, VP Data Innovation (mentions LLM project in Gartner panel)
    ```
 
@@ -590,7 +590,7 @@ System nudge:
    - Option to sync message to CRM/Outreach and tag SE
 
 ### **Expected Output**
-Clean, deduped, relationship-primed org map that helps me strategize multi-threading and sequencing.  
+Clean, deduped, relationship-primed org map that helps me strategize multi-threading and sequencing.
 Smart prompt example:
 > “Start with CISO (known contact), then loop in DPO via mutual privacy theme. Recommend: SE-led call + privacy readiness asset.”
 
@@ -1073,21 +1073,21 @@ Account-wide visibility into follow-up health + fast access to demo recap automa
 
 2. **Email Composer**
    - Auto-draft:
-     > Subject: Thanks for your time – AI Runtime Security Demo Recap  
-     > Hi [Name],  
-     >  
-     > Great connecting today. Here's a quick summary of what we covered:  
-     >  
-     > • Your priority: securing LLMs across cloud infra  
-     > • Demoed: agentless runtime protection, prompt injection alerting  
-     > • Next steps:  
-     > – [AE] Schedule workshop  
-     > – [SE] Share demo login  
-     > – [Prospect] Share AWS config doc  
-     >  
-     > Let me know if we missed anything. Looking forward to keeping momentum strong.  
-     >  
-     > Best,  
+     > Subject: Thanks for your time – AI Runtime Security Demo Recap
+     > Hi [Name],
+     >
+     > Great connecting today. Here's a quick summary of what we covered:
+     >
+     > • Your priority: securing LLMs across cloud infra
+     > • Demoed: agentless runtime protection, prompt injection alerting
+     > • Next steps:
+     > – [AE] Schedule workshop
+     > – [SE] Share demo login
+     > – [Prospect] Share AWS config doc
+     >
+     > Let me know if we missed anything. Looking forward to keeping momentum strong.
+     >
+     > Best,
      > Alex
 
    - Buttons: [Edit], [Copy to Gmail], [Send & Log], [Set Reminder]
@@ -1203,10 +1203,10 @@ High-level awareness of discovery readiness across accounts with built-in pacing
 
 ### **Expected Output**
 A tailored, CISO-safe discovery agenda that moves beyond pain-mining into executive influence. Final agenda preview:
-> **DISCOVERY AGENDA (30 mins)**  
-> - SIEM Pain & Vision (8 mins)  
-> - SOC Optimization Goals (7 mins)  
-> - AI in Threat Response (8 mins)  
+> **DISCOVERY AGENDA (30 mins)**
+> - SIEM Pain & Vision (8 mins)
+> - SOC Optimization Goals (7 mins)
+> - AI in Threat Response (8 mins)
 > - DLP Coverage Gaps (7 mins)
 
 ---
@@ -1374,10 +1374,10 @@ This is a must-have for Majors AEs operating in competitive, high-scrutiny cycle
 | “XSIAM Complexity” | Architect | Bakeoff | May 18 | 75% | [Refine Tone] |
 
 **Sidebar Preview (on click):**
-- 🎙️ **Talk Track** (30 seconds):  
+- 🎙️ **Talk Track** (30 seconds):
   > “Cost is a lens—but value is the outcome. Our platform replaces 3–5 siloed tools and returns measurable productivity and risk savings. Our average customer sees a 30–40% net reduction in SecOps overhead.”
-- 📊 **Proof Points**:  
-  - “$2.8M ROI at Fortune 100 FinServ – replaced CrowdStrike + Splunk”  
+- 📊 **Proof Points**:
+  - “$2.8M ROI at Fortune 100 FinServ – replaced CrowdStrike + Splunk”
   - “Analyst report: XSIAM cuts alert fatigue by 95% in SOCs with <10 analysts”
 
 - CTA: [Copy to Notes], [Tag for Email], [Insert Slide]
@@ -1405,7 +1405,7 @@ Real-time visibility into top objections across pipeline—plus which rebuttals 
    - AI generates:
      - 🔊 **Talk Track (30 sec)**: concise, outcome-focused, role-calibrated
      - 📌 **2 Proof Points**:
-       > “IDC: 35% faster MTTD with unified XSIAM vs. Splunk+CrowdStrike”  
+       > “IDC: 35% faster MTTD with unified XSIAM vs. Splunk+CrowdStrike”
        > “Healthcare org replaced 4 tools—cut SOC tickets 70% in 60 days”
 
    - Tone selector: (Analytical | Confident | Empathetic | Exec-Safe)
@@ -1581,10 +1581,10 @@ This flow addresses the #1 deal velocity killer in Majors: **misaligned meetings
 
 **Sidebar Preview:**
 - 📅 “Earliest match: May 30, 2:00–2:45 PM ET (All parties free)”
-- 📌 Draft Agenda:  
-  - Intro & Roles (5 min)  
-  - AI Security Gaps & GenAI Risk (15 min)  
-  - Live Q&A + Next Steps (10 min)  
+- 📌 Draft Agenda:
+  - Intro & Roles (5 min)
+  - AI Security Gaps & GenAI Risk (15 min)
+  - Live Q&A + Next Steps (10 min)
 - 🔗 “Pre-read: Unit 42 AI Risk Brief + PANW AI Security Primer”
 
 ### **Expected Output**
@@ -1620,11 +1620,11 @@ Pipeline-level visibility into which deals have well-prepped joint discovery sch
 
 2. **Smart Agenda Builder**
    - Uses opportunity notes + transcript tags to generate:
-     > **Draft Agenda (45 mins)**  
-     > - Welcome & Objectives (5 min)  
-     > - AI Security Gaps: Prompt Risk, Unmonitored APIs (15 min)  
-     > - Cortex XSIAM Fit (15 min)  
-     > - Recap & Next Steps (10 min)  
+     > **Draft Agenda (45 mins)**
+     > - Welcome & Objectives (5 min)
+     > - AI Security Gaps: Prompt Risk, Unmonitored APIs (15 min)
+     > - Cortex XSIAM Fit (15 min)
+     > - Recap & Next Steps (10 min)
    - Auto-trim if over slot length
    - Optional: Attach deck or pre-read links
 
@@ -1633,7 +1633,7 @@ Pipeline-level visibility into which deals have well-prepped joint discovery sch
    - Preview Branded Email
    - Auto-log meeting in CRM (with tags: joint_discovery, AI_focus, DLP_gap)
    - Pre-assign success criteria for post-call scoring:
-     > “Did CISO confirm AI use cases?”  
+     > “Did CISO confirm AI use cases?”
      > “Did prospect show urgency around DLP expansion?”
 
 ### **Expected Output**
@@ -1739,10 +1739,10 @@ Clear pipeline-wide view of call coverage and next steps. Nudge:
 
 ### **Expected Output**
 A fully documented call, with action items routed and tracked automatically. Sample log:
-> “Call with CISO logged. Notes saved to Opportunity.  
-> Tasks created:  
-> – XSIAM TCO model – Alex – Due May 30  
-> – Schedule AI Security workshop – [SE Name] – Due June 3  
+> “Call with CISO logged. Notes saved to Opportunity.
+> Tasks created:
+> – XSIAM TCO model – Alex – Due May 30
+> – Schedule AI Security workshop – [SE Name] – Due June 3
 > Reminders set via Slack + Email.”
 
 ---
@@ -1801,7 +1801,7 @@ This is pipeline hygiene meets orchestration—crucial for keeping Majors motion
   - Metrics = “15% MTTR reduction goal” ✔️
   - Decision Process = “CTO-led, formal RFP” ✔️
   - Paper Process = 🔴 Not logged
-- Auto-Notify Targets:  
+- Auto-Notify Targets:
   > 🧠 SE (Slack), 💼 RVP (Email), 📋 CSM (Chatter)
 
 ### **Expected Output**
@@ -1831,8 +1831,8 @@ A single-screen view of deal momentum + comms completeness. Smart prompt:
 
 2. **Notification Composer**
    - Pre-fills smart update:
-     > “Opportunity *SynthLogic* moved to *Technical Validation*.  
-     > Key wins: DLP PoC greenlit, SE to build XSIAM ROI model.  
+     > “Opportunity *SynthLogic* moved to *Technical Validation*.
+     > Key wins: DLP PoC greenlit, SE to build XSIAM ROI model.
      > Ask: SC leader review by May 30.”
 
    - Channel Matrix:
@@ -1877,8 +1877,8 @@ Want me to build a **stage-specific auto-message library** (e.g., Proposal Stage
 
 **Edge Cases:**
 
-1. Clause sunset, 
-2. no match found (legal chat link), 
+1. Clause sunset,
+2. no match found (legal chat link),
 3. wrong regional variant selected.
 
 **Outcome:** A legally sound, up-to-date proposal draft is ready in minutes.
@@ -1909,9 +1909,9 @@ This use case compresses what’s typically a multiday legal + operations proces
 | Telmeta Health | 5 Years | Full Stack | 🟢 Final | May 23 | [View Final] |
 
 **Sidebar Preview:**
-- Selected Clauses:  
-  - ✅ Master Data Security (v3.7)  
-  - ✅ AI Service Terms (v1.4 – updated May 25)  
+- Selected Clauses:
+  - ✅ Master Data Security (v3.7)
+  - ✅ AI Service Terms (v1.4 – updated May 25)
   - ⚠️ Regional Privacy Addendum (EU not selected—flagged)
 
 - CTA: [Insert Clause], [Update Pillars], [Push to CPQ]
@@ -1933,9 +1933,9 @@ Deal-wide visibility into EA draft readiness and legal alignment. Nudge:
   - Version No.
   - Last Reviewed Date
   - Legal Reviewer Name
-- Live Links to:  
-  - Pricing Table  
-  - Legal Clause Repository  
+- Live Links to:
+  - Pricing Table
+  - Legal Clause Repository
   - CPQ BOM workspace
 
 ### **Ideal Structure**
@@ -1953,7 +1953,7 @@ Deal-wide visibility into EA draft readiness and legal alignment. Nudge:
 2. **Clause Search Sidebar**
    - Type: “AI,” “SaaS,” “Exit clause” → returns ranked matches
    - Example:
-     > AI SLA v1.4 (US Variant, Reviewed May 2025)  
+     > AI SLA v1.4 (US Variant, Reviewed May 2025)
      > “Customer agrees to not inject PII into model prompts…”
      > [Insert] [Flag Sunset Risk] [View Change Log]
 
@@ -1971,9 +1971,9 @@ Deal-wide visibility into EA draft readiness and legal alignment. Nudge:
 
 ### **Expected Output**
 A fully populated, legally sound, CPQ-aligned EA draft within minutes. Final output sample:
-> “EA proposal draft generated for Arcology Inc.  
->  Term: 3 Years | Pillars: Prisma Cloud, Cortex XSIAM, AI Security  
->  Clauses: AI SLA v1.4, Master Services v3.7, US DPA v2.1  
+> “EA proposal draft generated for Arcology Inc.
+>  Term: 3 Years | Pillars: Prisma Cloud, Cortex XSIAM, AI Security
+>  Clauses: AI SLA v1.4, Master Services v3.7, US DPA v2.1
 >  Legal links + pricing table live-synced. Ready for BOM push.”
 
 ---
@@ -2026,10 +2026,10 @@ This use case directly boosts **presales leverage**, reduces **internal churn**,
 | BioNova | SOC Transformation (XSIAM) | 🟢 Scheduled | May 31 | A. Reyes | – | [Track Progress] |
 
 **Sidebar Preview:**
-- Summary:  
-  > “Requested: May 26 by AE  
-  > Focus: LLM prompt risk, Prisma DLP, data lineage via XSIAM  
-  > Account: $3M ARR potential, AI maturity = strategic  
+- Summary:
+  > “Requested: May 26 by AE
+  > Focus: LLM prompt risk, Prisma DLP, data lineage via XSIAM
+  > Account: $3M ARR potential, AI maturity = strategic
   > NDA: 🔴 Not in CRM”
 
 - [Attach NDA], [View Ticket], [Sync to Mutual Plan]
@@ -2060,9 +2060,9 @@ Territory-wide snapshot of which opportunities are pulling in high-impact worksh
    - Pre-fills with:
      - Contact Info, SE Partner, Product Interest
      - AI Signals: “Uses GPT API,” “No DLP on SaaS,” “SOC triage fatigue logged May 20”
-     - Suggested Goals:  
-       > – “Map alert triage to XSIAM automation”  
-       > – “Demo prompt inspection in GenAI”  
+     - Suggested Goals:
+       > – “Map alert triage to XSIAM automation”
+       > – “Demo prompt inspection in GenAI”
        > – “Show DLP + Cortex XDR integration paths”
 
    - Upload Field: NDA, Call Recap, PoC Summary
@@ -2093,8 +2093,8 @@ Territory-wide snapshot of which opportunities are pulling in high-impact worksh
 
 ### **Expected Output**
 Instant alignment across field, presales, and services—with no manual back-and-forth. Final confirmation:
-> “Workshop request confirmed: ‘AI Security & DLP Workshop’ for Skylytix, target June 12.  
-> PM assigned: A. Reyes  
+> “Workshop request confirmed: ‘AI Security & DLP Workshop’ for Skylytix, target June 12.
+> PM assigned: A. Reyes
 > Tasks launched for SE content prep, NDA pending. Calendar hold sent to stakeholders.”
 
 ---
@@ -2176,19 +2176,19 @@ Fast pipeline visibility into which opportunities have pre-validated bundles—a
 
 1. **BOM Builder**
    - SKU Pre-Fill by Solution:
-     > “Selected: SASE + Enterprise DLP”  
+     > “Selected: SASE + Enterprise DLP”
      > Auto-inserts:
-     > – PAN-PAAS-PRM-8000  
-     > – ADEM-M-8000  
-     > – PAN-DLP-API-SaaS  
-     > – Standard Support  
+     > – PAN-PAAS-PRM-8000
+     > – ADEM-M-8000
+     > – PAN-DLP-API-SaaS
+     > – Standard Support
      > – Optional: Add URL Filtering or Premium Support
 
    - Manual adjustments: quantities, add-ons, subscription term
 
 2. **SKU Validator**
    - Live warnings:
-     - ❌ Deprecated SKU detected  
+     - ❌ Deprecated SKU detected
      - ⚠️ Max log ingestion threshold exceeded (XSIAM)
      - 🧩 Architecture gap: “DLP module selected, but no Prisma Access enabled”
    - Fix Suggestions: “Replace SKU → [Auto-Fix]”
@@ -2259,11 +2259,11 @@ This use case is a **deal-acceleration powerhouse**—especially in Majors where
 | ClearShift | Prisma Cloud Expansion | 🟢 3 Variants (Sent) | 1Y, 3Y, Phased | Standard, Premium | [Track DocuSign] |
 
 **Sidebar Preview:**
-- Quote A: 1Y term, 500 endpoints, Standard Support  
-- Quote B: 3Y term, 700 endpoints, Premium Support  
+- Quote A: 1Y term, 500 endpoints, Standard Support
+- Quote B: 3Y term, 700 endpoints, Premium Support
 - Quote C: Phased deployment (DLP → XSIAM Y2), volume-tier discount
 
-- Flags: ⚠️ Currency mismatch in B → GBP vs. USD  
+- Flags: ⚠️ Currency mismatch in B → GBP vs. USD
 - CTA: [Export as PDF], [Merge], [Send via Portal or DocuSign]
 
 ### **Expected Output**
@@ -2293,8 +2293,8 @@ Visibility across quote flexibility stages in Majors deals + automation that cut
      - “Phased DLP-to-XSIAM model → add time-based pricing logic”
    - Editable SKUs, term lengths, support options
    - Label auto-suggest:
-     - Quote A = “Good” (Base)  
-     - Quote B = “Better” (Longer term + support)  
+     - Quote A = “Good” (Base)
+     - Quote B = “Better” (Longer term + support)
      - Quote C = “Best” (Phased rollout, bundled modules)
 
 2. **Summary Comparator**
@@ -2322,10 +2322,10 @@ Visibility across quote flexibility stages in Majors deals + automation that cut
 
 ### **Expected Output**
 Ready-to-send quote set that presents choice and invites faster consensus. Final output example:
-> “Generated 3-variant quote for Nexora:  
-> – 1Y XSIAM base  
-> – 3Y bundled with AI Security  
-> – 3Y phased rollout (DLP now, XSIAM Y2)  
+> “Generated 3-variant quote for Nexora:
+> – 1Y XSIAM base
+> – 3Y bundled with AI Security
+> – 3Y phased rollout (DLP now, XSIAM Y2)
 > PDF bundled and sent to CISO via DocuSign. Legal tagged for approval on >25% discount in Quote B.”
 
 ---
@@ -2378,11 +2378,11 @@ This flow is a **critical force multiplier**—turning a “product deal” into
 | AeroDelta | AI DLP Rollout | 🟢 Attached (120 hrs) | ⚠️ High (28%) | 🔴 Not Notified | [Send Alert] |
 
 **Sidebar Preview:**
-- Recommended Engagement:  
-  > “Essential Deployment – Cortex XSIAM Migration (SKU: PS-XSIAM-DEP-ESS)”  
-  > 80 hours, 4 workstreams (Log Normalization, Alert Schema Mapping, Playbook UAT, Go-Live Tuning)  
-  > Attach Rate: 93% on similar Majors deployments  
-  > Quote Add: +$28,000  
+- Recommended Engagement:
+  > “Essential Deployment – Cortex XSIAM Migration (SKU: PS-XSIAM-DEP-ESS)”
+  > 80 hours, 4 workstreams (Log Normalization, Alert Schema Mapping, Playbook UAT, Go-Live Tuning)
+  > Attach Rate: 93% on similar Majors deployments
+  > Quote Add: +$28,000
 - Actions: [Adjust Hours], [Include Advisory Only], [Flag PM]
 
 ### **Expected Output**
@@ -2406,40 +2406,40 @@ This flow is a **critical force multiplier**—turning a “product deal” into
 1. **PS Recommender Panel**
    - Deployment detected: e.g., “SIEM Replacement with Cortex XSIAM”
    - AI suggests:
-     > 📌 Essential Deployment – XSIAM (80 hrs)  
-     > 💼 Advisory-Only SKU (30 hrs) – if MSSP active  
+     > 📌 Essential Deployment – XSIAM (80 hrs)
+     > 💼 Advisory-Only SKU (30 hrs) – if MSSP active
      > 🛠️ Custom Scoping Option (SE-defined) – use if >1.5TB/day ingest
 
-   - Metrics:  
-     - Attach Rate: 92%  
-     - Avg Deal Value: $1.6M  
+   - Metrics:
+     - Attach Rate: 92%
+     - Avg Deal Value: $1.6M
      - PS% of Total: 16–22% norm
 
 2. **Scope Composer**
    - Editable SOW Assumptions:
-     - Ingest Setup: 20 hrs  
-     - Alert Schema: 18 hrs  
-     - XQL Tuning: 12 hrs  
+     - Ingest Setup: 20 hrs
+     - Alert Schema: 18 hrs
+     - XQL Tuning: 12 hrs
      - PoC to Prod Support: 30 hrs
 
    - Adjust slider or manual override (e.g., “Customer has Splunk parser team – reduce ingest hrs”)
 
-   - Warning:  
+   - Warning:
      - ⚠️ Quote over PS budget ratio → “Suggest remove UAT support or advisory SKU only?”
 
 3. **Quote Integrator**
    - SKUs auto-insert to CPQ:
-     - PS-XSIAM-DEP-ESS  
-     - PS-DLP-ROLL-ENT  
-     - PS-AI-SCRTY-FRMWRK  
+     - PS-XSIAM-DEP-ESS
+     - PS-DLP-ROLL-ENT
+     - PS-AI-SCRTY-FRMWRK
    - Quote recalculates total + margin
    - Options:
-     - [Save & Notify PM]  
-     - [Push to Deal Desk for Scope Check]  
+     - [Save & Notify PM]
+     - [Push to Deal Desk for Scope Check]
      - [Bundle with Product in Summary PDF]
 
 4. **Edge Handling**
-   - PS Version Change: “New framework v1.6 launched – refresh scope?”  
+   - PS Version Change: “New framework v1.6 launched – refresh scope?”
    - Managed Services: “Flagged MS engagement – use PS-AI-ADV-SVC instead”
 
 ### **Expected Output**
@@ -2499,14 +2499,14 @@ This workflow is essential for **deal velocity without governance compromise**�
 | Neuronet | –10% | –$100K | 62% → 56% | Auto-Approved | 🟢 Approved | [Download PDF] |
 
 **Sidebar Preview:**
-- Discount Details:  
-  > “Strategic discount: –18% applied to $1.2M XSIAM + DLP quote”  
-  > ARR Impact: $960K projected  
-  > Margin Drop: 64% → 48%  
-- Approval Chain:  
-  - RVP Sales ✅  
-  - Finance Director 🕒 (3h SLA remaining)  
-  - Legal (not required)  
+- Discount Details:
+  > “Strategic discount: –18% applied to $1.2M XSIAM + DLP quote”
+  > ARR Impact: $960K projected
+  > Margin Drop: 64% → 48%
+- Approval Chain:
+  - RVP Sales ✅
+  - Finance Director 🕒 (3h SLA remaining)
+  - Legal (not required)
 - [Attach Business Case], [Escalate], [Resubmit]
 
 ### **Expected Output**
@@ -2534,19 +2534,19 @@ Live visibility into discount risk, margin impact, and governance flow. Prompt e
 1. **Discount Impact Panel**
    - Input: “Enter discount % → –18%”
    - Auto-output:
-     - ARR: $1.2M → $960K  
-     - Margin: 64% → 48%  
+     - ARR: $1.2M → $960K
+     - Margin: 64% → 48%
      - Flags: “Below threshold for auto-approval (≤15%). Approval required.”
 
-   - Visual gauge:  
+   - Visual gauge:
      > 🔵 Healthy → 🟡 Warning → 🔴 Requires Exec Review
 
 2. **Approval Ladder**
    - Auto-built:
-     - AE Manager (auto ✅)  
-     - RVP Sales (⚠️ 3h SLA)  
-     - Finance Director (🕒 pending)  
-   - Notifications triggered: Slack, email  
+     - AE Manager (auto ✅)
+     - RVP Sales (⚠️ 3h SLA)
+     - Finance Director (🕒 pending)
+   - Notifications triggered: Slack, email
    - SLA Clock = visible countdown (editable by Ops)
 
    - Approver Notes Panel:
@@ -2559,14 +2559,14 @@ Live visibility into discount risk, margin impact, and governance flow. Prompt e
    - Escalation Option: “Block exceeded – request Exec Review?” (enabled via VP only)
 
 4. **Edge Handling**
-   - Exceeds Discount Ceiling: Hard block + override workflow  
-   - Approver OOO: Auto-reroute to delegate with visible tag  
+   - Exceeds Discount Ceiling: Hard block + override workflow
+   - Approver OOO: Auto-reroute to delegate with visible tag
    - Missing Document: Submission blocked, red prompt: “Business Case Required”
 
 ### **Expected Output**
 Discounts aligned with governance, plus speed to quote approval. Final log:
-> “–18% discount applied. ARR = $960K. Margin = 48%.  
-> Approval flow: RVP signed off (2h), Finance Dir pending (3h SLA).  
+> “–18% discount applied. ARR = $960K. Margin = 48%.
+> Approval flow: RVP signed off (2h), Finance Dir pending (3h SLA).
 > Business case uploaded. Auto-notifications sent. Audit log saved to Opp #1984.”
 
 ---
@@ -2626,10 +2626,10 @@ This is where **execution meets perception**—delivering a **polished, value-fo
 
 **Sidebar Preview:**
 - Proposal v1.3 includes:
-  - 3-year EA (AI Security + XSIAM)  
-  - 96-hr PS scope for DLP rollout  
-  - Security outcome: “Centralized detection + GenAI policy enforcement”  
-- Exported: Branded PDF + Secure Share Link  
+  - 3-year EA (AI Security + XSIAM)
+  - 96-hr PS scope for DLP rollout
+  - Security outcome: “Centralized detection + GenAI policy enforcement”
+- Exported: Branded PDF + Secure Share Link
 - CTA: [Edit], [Download PDF], [Launch E-Signature]
 
 ### **Expected Output**
@@ -2654,11 +2654,11 @@ Clear visibility into proposal maturity across active opps, plus instant actions
 
 1. **Proposal Composer**
    - Sections Toggled:
-     - ✅ BOM + Pricing Summary  
-     - ✅ EA Terms  
-     - ✅ PS SOW Summary  
-     - ✅ TCO Snapshot  
-     - ⬜ Customer Case Study (optional)  
+     - ✅ BOM + Pricing Summary
+     - ✅ EA Terms
+     - ✅ PS SOW Summary
+     - ✅ TCO Snapshot
+     - ⬜ Customer Case Study (optional)
      - ✅ Security Outcome Narrative
 
    - Region Match Validator:
@@ -2672,7 +2672,7 @@ Clear visibility into proposal maturity across active opps, plus instant actions
      > “This proposal delivers a unified SOC through XSIAM, enterprise-wide DLP enforcement, and secure GenAI enablement—designed to replace legacy SIEM, simplify toolchains, and improve SOC outcomes.”
 
    - Auto-injected Metrics (from quote/TCO):
-     > “Expected OpEx reduction: 22% over 3 years  
+     > “Expected OpEx reduction: 22% over 3 years
      > Avg. MTTD reduction: 58% in peer accounts”
 
 3. **Export Hub**
@@ -2683,17 +2683,17 @@ Clear visibility into proposal maturity across active opps, plus instant actions
    - CRM Integration: auto-attaches to Opportunity Record
 
 4. **Edge Handling**
-   - ❌ Region-Specific Clause Missing: “Your EA draft lacks APAC DPA—update before export”  
-   - 🔁 Branding Update Detected: “New PDF styling template v4.5 applied pre-export”  
+   - ❌ Region-Specific Clause Missing: “Your EA draft lacks APAC DPA—update before export”
+   - 🔁 Branding Update Detected: “New PDF styling template v4.5 applied pre-export”
    - 🧩 Section Conflict: “PS SOW scope refers to 90 hrs, quote shows 60 hrs—align?”
 
 ### **Expected Output**
 A clean, CISO-ready proposal that blends **technical rigor**, **commercial transparency**, and **outcome framing**. Final export sample:
-> “CloudLynx Proposal v1.3 – includes:  
-> – BOM: XSIAM + AI Sec + DLP  
-> – 3Y EA  
-> – 96 hrs PS Scope  
-> – Narrative: Replace legacy SIEM, enforce GenAI guardrails, achieve 58% MTTD reduction  
+> “CloudLynx Proposal v1.3 – includes:
+> – BOM: XSIAM + AI Sec + DLP
+> – 3Y EA
+> – 96 hrs PS Scope
+> – Narrative: Replace legacy SIEM, enforce GenAI guardrails, achieve 58% MTTD reduction
 > – Branded PDF generated. Sent via DocuSign. CRM link attached to Opp #2743.”
 
 ---
@@ -2747,11 +2747,11 @@ This use case hits the **heart of NRR execution**—proactive, insight-driven re
 | Pharos Health | Jun 28 (30d) | Prisma Access | $2.1M | DLP + ADEM | 🟡 In Planning | [Assign Task] |
 
 **Sidebar Preview:**
-- “Zenith Cloud: XSIAM 3Y EA up in 60 days.  
-  ARR: $1.6M | Co-term overlap: Prisma Access (Y2 of 3)  
-  Expansion Ideas:  
-  – Position AI Security for LLM governance  
-  – Propose XSIAM + SOAR bundling for SOC automation  
+- “Zenith Cloud: XSIAM 3Y EA up in 60 days.
+  ARR: $1.6M | Co-term overlap: Prisma Access (Y2 of 3)
+  Expansion Ideas:
+  – Position AI Security for LLM governance
+  – Propose XSIAM + SOAR bundling for SOC automation
   – Highlight Cortex 3.2 ROI outcomes”
 
 - CTA: [Insert Persona Email], [Assign SE Follow-up], [Book Renewal Prep Call]
@@ -2779,12 +2779,12 @@ A dashboard tuned for NRR defense and growth, not just contract hygiene. System 
 **Layout: Renewal Radar Tile + Expansion Planner + Engagement Timeline**
 
 1. **Renewal Radar Tile**
-   - Renewal Date: Jul 29, 2025  
-   - Product: XSIAM + Cortex Agent Bundle  
-   - ARR at Renewal: $1.6M  
-   - Expansion Uplift Range: $400–650K (based on tiering + PS add-ons)  
+   - Renewal Date: Jul 29, 2025
+   - Product: XSIAM + Cortex Agent Bundle
+   - ARR at Renewal: $1.6M
+   - Expansion Uplift Range: $400–650K (based on tiering + PS add-ons)
    - Flags:
-     - ❗ Data Integrity: ERP shows Aug 2 – confirm sync  
+     - ❗ Data Integrity: ERP shows Aug 2 – confirm sync
      - 🧩 Overlap: Prisma Access 3Y EA mid-term
 
 2. **Expansion Planner**
@@ -2795,26 +2795,26 @@ A dashboard tuned for NRR defense and growth, not just contract hygiene. System 
      - “Revisit SOAR to reduce analyst headcount strain (tie to XSIAM)”
 
    - Recommended Persona Targets:
-     - CISO – AI & risk reduction  
-     - Dir SOC – XSIAM enhancements  
+     - CISO – AI & risk reduction
+     - Dir SOC – XSIAM enhancements
      - Privacy Counsel – DLP modernization
 
    - CTA: [Generate Persona Email], [Insert into QBR Deck], [Assign SE/CSM Tasks]
 
 3. **Engagement Timeline**
-   - Jun 1: SE-led roadmap call scheduled  
-   - Jun 10: Draft QBR deck in review  
+   - Jun 1: SE-led roadmap call scheduled
+   - Jun 10: Draft QBR deck in review
    - Jun 15: Initial proposal review + renewal framework
 
 4. **Error Handling**
-   - ⚠️ Data Gap in Entitlements → prompt: “Confirm current license scope via SE or backend”  
-   - 🔁 ERP Change Detected → “Renewal moved to Aug 2. Timeline adjusted.”  
+   - ⚠️ Data Gap in Entitlements → prompt: “Confirm current license scope via SE or backend”
+   - 🔁 ERP Change Detected → “Renewal moved to Aug 2. Timeline adjusted.”
    - 🧮 Multi-Year Spend Tip: “Prisma Access co-terming inflates 2025 spend view – hover for true impact”
 
 ### **Expected Output**
 A proactive, strategy-aligned renewal motion with integrated expansion thinking. Final output example:
-> “Renewal Radar: XSIAM contract up Jul 29 ($1.6M).  
-> Expansion Plays: AI Sec + SOAR bundle ($480K uplift), PS for GenAI coverage.  
+> “Renewal Radar: XSIAM contract up Jul 29 ($1.6M).
+> Expansion Plays: AI Sec + SOAR bundle ($480K uplift), PS for GenAI coverage.
 > CISO outreach drafted. Renewal prep call booked. QBR to include expansion track.”
 
 ---
@@ -2868,9 +2868,9 @@ This use case is **core to value realization and NRR expansion**—turning consu
 
 **Sidebar Preview:**
 - “CloudNex: 63% of entitlement used, 40% feature activation. Spike: EU region, Compute Module → Tagging gaps.”
-- Recommendations:  
-  > – “XSIAM: ingest workload logs for cross-cloud correlation”  
-  > – “DLP: scan for exfil risk in public S3 buckets”  
+- Recommendations:
+  > – “XSIAM: ingest workload logs for cross-cloud correlation”
+  > – “DLP: scan for exfil risk in public S3 buckets”
   > – “Enable risk-based CSPM policy enforcement”
 
 - [Insert to QBR], [Assign SE], [Create Renewal Insight]
@@ -2896,8 +2896,8 @@ Portfolio-level awareness of usage gaps + value expansion tracks. Smart nudge:
 
 1. **Consumption Lens Dashboard**
    - 📊 Burn Graph:
-     > Credit consumption vs. entitlement  
-     > Forecasted depletion date  
+     > Credit consumption vs. entitlement
+     > Forecasted depletion date
      > Peaks tagged with module + region
    - 🧠 Module Use Table:
      | Module | Enabled? | Usage Level | Notes |
@@ -2911,20 +2911,20 @@ Portfolio-level awareness of usage gaps + value expansion tracks. Smart nudge:
 
 2. **Risk Map**
    - Highlights:
-     - Region: EU-West  
-     - Service: AWS Compute  
-     - Alert: Misconfig + elevated container privilege  
+     - Region: EU-West
+     - Service: AWS Compute
+     - Alert: Misconfig + elevated container privilege
    - [See Logs], [Enable Auto-Remediation], [Flag for XSIAM Feed]
 
 3. **Expansion Strategy Panel**
    - AI-Driven Suggestion Paths:
-     - “Ingest CloudTrail + workload logs into XSIAM for unified detection”  
-     - “Deploy Prisma DLP module for inline S3 scanning + prompt-aware AI guardrails”  
+     - “Ingest CloudTrail + workload logs into XSIAM for unified detection”
+     - “Deploy Prisma DLP module for inline S3 scanning + prompt-aware AI guardrails”
      - “Bundle in Cortex SOAR for response orchestration across cloud infra”
 
    - Action Buttons:
-     - [Create QBR Slide]  
-     - [Send FinOps Summary]  
+     - [Create QBR Slide]
+     - [Send FinOps Summary]
      - [Attach to Expansion Plan]
 
 4. **Export Hub**
@@ -2933,8 +2933,8 @@ Portfolio-level awareness of usage gaps + value expansion tracks. Smart nudge:
    - Export Log → CRM + Opportunity
 
 5. **Edge Handling**
-   - Telemetry Lag > 24h: “Data may be stale – last update May 25”  
-   - Tagging Gap Detected: “44% of workloads untagged – click for fix guide”  
+   - Telemetry Lag > 24h: “Data may be stale – last update May 25”
+   - Tagging Gap Detected: “44% of workloads untagged – click for fix guide”
    - Legacy Metering Detected: “You are on v1 metering – some metrics may not align with v2 schema”
 
 ### **Expected Output**
@@ -2992,12 +2992,12 @@ This use case weaponizes **data + timing** to unlock proactive, qualified pipeli
 | Medigenix | 85 | IBM QRadar | Inline DLP Missing | 8.7 | 🟡 Outreach Scheduled | [Track] |
 
 **Sidebar Preview:**
-- Account: Aegis Financial  
-  > – PAN-OS 11 across all 5400s  
-  > – SIEM: Splunk Cloud (visible in CRM + telemetry)  
-  > – DLP: Email-only + no inline SaaS  
-  > – Industry: FinServ (GLBA + NYDFS coverage)  
-  > 🔁 Suggestion: “Target for XSIAM intro w/ FinServ risk lens”  
+- Account: Aegis Financial
+  > – PAN-OS 11 across all 5400s
+  > – SIEM: Splunk Cloud (visible in CRM + telemetry)
+  > – DLP: Email-only + no inline SaaS
+  > – Industry: FinServ (GLBA + NYDFS coverage)
+  > 🔁 Suggestion: “Target for XSIAM intro w/ FinServ risk lens”
   > 🧩 Add: PS advisory or workshop on DLP-in-Cloud posture
 
 - [Create Outreach Task], [Add to Cadence], [Notify Specialist]
@@ -3023,41 +3023,41 @@ A live, intelligent campaign planner built on telemetry + market data. Smart pro
 
 1. **Fit Insight Panel**
    - 🎯 Highlights:
-     - PANW NGFW + Panorama fully deployed  
-     - SIEM: Splunk (2 yrs)  
-     - No SaaS DLP detected  
-     - Industry: Financial (GLBA + PCI-DSS scope)  
+     - PANW NGFW + Panorama fully deployed
+     - SIEM: Splunk (2 yrs)
+     - No SaaS DLP detected
+     - Industry: Financial (GLBA + PCI-DSS scope)
      - Cloud: 75% infra in AWS
 
-   - 🔥 Fit Score: 9.4  
-   - AI Reasoning:  
+   - 🔥 Fit Score: 9.4
+   - AI Reasoning:
      > “Strata presence = trust. Splunk creates conversion vector for XSIAM. No inline SaaS DLP = Enterprise DLP play. FinServ = urgency driver.”
 
 2. **Campaign Builder**
    - Select Campaign Type:
-     - XSIAM Conversion  
-     - DLP Expansion  
+     - XSIAM Conversion
+     - DLP Expansion
      - AI Security + DLP Bundle
 
    - Assign:
-     - Specialist: [Dropdown]  
-     - Task: [Auto-create “Intro Email,” “QBR Slide Insert,” “SE Sync”]  
+     - Specialist: [Dropdown]
+     - Task: [Auto-create “Intro Email,” “QBR Slide Insert,” “SE Sync”]
      - Timeline: [Suggested 2-week sprint]
 
    - Upload: [Optional customer QBR deck or use case brief]
 
 3. **Progress Tracker**
    - Stages:
-     - 🟡 Campaign Launched  
-     - 🔵 Meeting Scheduled  
-     - 🟢 Demo / Workshop Delivered  
+     - 🟡 Campaign Launched
+     - 🔵 Meeting Scheduled
+     - 🟢 Demo / Workshop Delivered
      - ✅ Opportunity Created
 
    - CRM Sync: All tasks logged, progress auto-updated
 
 4. **Edge Handling**
-   - Sparse Data: “No SIEM in CRM – recommend enrich via G2/LinkedIn or AE notes”  
-   - Specialist Overcapacity: auto-defers or rebalances to next available  
+   - Sparse Data: “No SIEM in CRM – recommend enrich via G2/LinkedIn or AE notes”
+   - Specialist Overcapacity: auto-defers or rebalances to next available
    - Duplicate Campaign: “Similar effort launched May 2024 – merge/continue?”
 
 ### **Expected Output**
@@ -3118,11 +3118,11 @@ This QBR generation capability is a **strategic differentiator**—especially in
 | Nexora | TBD | 24 | AI Sec | 🟡 In Draft | [Trim & Finalize] |
 
 **Sidebar Preview:**
-- Slide Skeleton Includes:  
-  > – Solution KPIs (90-day uptime = 99.98%)  
-  > – Threat Trends: “GenAI phishing variants up 42% in sector”  
-  > – Underused Module: SaaS DLP (enablement suggestion included)  
-  > – Recommended Expansion: XSIAM + AI Runtime Protection  
+- Slide Skeleton Includes:
+  > – Solution KPIs (90-day uptime = 99.98%)
+  > – Threat Trends: “GenAI phishing variants up 42% in sector”
+  > – Underused Module: SaaS DLP (enablement suggestion included)
+  > – Recommended Expansion: XSIAM + AI Runtime Protection
 - Prompt: “Slide 21 flagged as overflow – suggest merging?”
 
 ### **Expected Output**
@@ -3147,42 +3147,42 @@ Full portfolio visibility into QBR coverage + readiness. Nudge example:
 
 1. **Slide Builder**
    - Sections Auto-Generated:
-     - 📈 Solution Performance Overview  
-     - 🔒 Threat Intel (Unit 42 - tailored to sector + AI threats)  
-     - 💳 Consumption & ROI Trends  
-     - 🚀 Expansion Opportunities:  
-       > e.g., “Enable Cortex XSIAM for unified detection,”  
+     - 📈 Solution Performance Overview
+     - 🔒 Threat Intel (Unit 42 - tailored to sector + AI threats)
+     - 💳 Consumption & ROI Trends
+     - 🚀 Expansion Opportunities:
+       > e.g., “Enable Cortex XSIAM for unified detection,”
        > “Deploy Enterprise DLP to cover prompt leakage in GenAI apps”
 
-   - Toggle: [Include / Exclude] per slide or section  
+   - Toggle: [Include / Exclude] per slide or section
    - Warnings: “4 slides flagged as placeholders – missing telemetry data”
 
 2. **Data Feed Summary**
    - Metrics Snapshot:
-     - Prisma Access usage = 54%  
-     - Cortex XDR log ingest = 1.8TB/day  
-     - Alert triage time down 38% Q/Q  
+     - Prisma Access usage = 54%
+     - Cortex XDR log ingest = 1.8TB/day
+     - Alert triage time down 38% Q/Q
      - AI-Targeting Threats: “PromptLock ransomware active in FinTech”
 
    - Notes Panel: Add internal context or customer quotes
 
 3. **Export Hub**
-   - [Export as PPTX] – branded automatically  
+   - [Export as PPTX] – branded automatically
    - Optional:
-     - Include Executive Summary PDF  
-     - Insert “Platform Vision Slide” (XSIAM + DLP roadmap)  
+     - Include Executive Summary PDF
+     - Insert “Platform Vision Slide” (XSIAM + DLP roadmap)
      - Auto-send QBR invite with deck attached
 
 4. **Error Handling**
-   - Missing Data: “Strata log ingestion unavailable for Feb – slide flagged”  
-   - Brand Refresh: “New QBR deck template v5.2 applied”  
+   - Missing Data: “Strata log ingestion unavailable for Feb – slide flagged”
+   - Brand Refresh: “New QBR deck template v5.2 applied”
    - Overlength Deck: “24 slides – prompt user to trim or auto-compress”
 
 ### **Expected Output**
 A polished, data-backed QBR deck tailored to the account’s current performance and future roadmap. Final export sample:
-> “Nexora QBR deck (v1.0) generated:  
-> – 18 slides: Performance, Threats, Consumption, Expansion  
-> – Expansion Plays: XSIAM for SIEM replacement, AI Runtime Sec, Full-SaaS DLP  
+> “Nexora QBR deck (v1.0) generated:
+> – 18 slides: Performance, Threats, Consumption, Expansion
+> – Expansion Plays: XSIAM for SIEM replacement, AI Runtime Sec, Full-SaaS DLP
 > – Branded PPTX exported + QBR meeting set for Jun 5”
 
 ---
@@ -3235,13 +3235,13 @@ This capability is a **proactive NRR safeguard and upsell ignition system**. By 
 | Nexora | AI Risk flagged by SE | AI Security Gap | 🔴 Not Started | May 5 | [Start Plan] |
 
 **Sidebar Preview:**
-- Signal: Cortex XDR activity dropped 28% in past 30 days  
-- MTTR rose from 3.1 hrs → 6.9 hrs  
-- AI Quote Logged: “How are you protecting our models from prompt injection?”  
-- Suggested Actions:  
-  > – CSM: Schedule usage review  
-  > – SA: Demo XSIAM’s auto-correlation + threat coverage  
-  > – AE: Position AI Security + Enterprise DLP expansion  
+- Signal: Cortex XDR activity dropped 28% in past 30 days
+- MTTR rose from 3.1 hrs → 6.9 hrs
+- AI Quote Logged: “How are you protecting our models from prompt injection?”
+- Suggested Actions:
+  > – CSM: Schedule usage review
+  > – SA: Demo XSIAM’s auto-correlation + threat coverage
+  > – AE: Position AI Security + Enterprise DLP expansion
 
 - [Create Plan], [Tag for QBR], [Dismiss as Seasonal]
 
@@ -3264,41 +3264,41 @@ A real-time pulse on where NRR risk is materializing—and the toolkit to stop i
 **Layout: Risk Insight Panel + Recovery Plan Builder + Outcome Tracker**
 
 1. **Risk Insight Panel**
-   - Cortex XDR: 28% usage drop  
-   - MTTR spike = 120% increase  
-   - No XSIAM correlation pipeline active  
-   - AI Quote: “Concerned about data leaving our LLM via SaaS input”  
+   - Cortex XDR: 28% usage drop
+   - MTTR spike = 120% increase
+   - No XSIAM correlation pipeline active
+   - AI Quote: “Concerned about data leaving our LLM via SaaS input”
    - 🔥 Risk Flag: “NRR Threat + AI Security Concern”
 
 2. **Recovery Plan Builder**
    - Auto-template created:
-     - CSM: “Schedule 30-min usage review + module enablement”  
-     - SA: “Demo XSIAM playbook automation + correlate missed alerts”  
-     - AE: “Position AI Security module w/ prompt filtering + SaaS DLP”  
-   - Due Dates Auto-Assigned (T+2, T+5, T+7 cadence)  
+     - CSM: “Schedule 30-min usage review + module enablement”
+     - SA: “Demo XSIAM playbook automation + correlate missed alerts”
+     - AE: “Position AI Security module w/ prompt filtering + SaaS DLP”
+   - Due Dates Auto-Assigned (T+2, T+5, T+7 cadence)
    - Flag if PS support needed for deeper config recovery
 
    - Optional: “Add to upcoming QBR slides as key intervention point”
 
 3. **Outcome Tracker**
-   - Metrics: Usage rebound %, MTTR trend, Stakeholder feedback  
+   - Metrics: Usage rebound %, MTTR trend, Stakeholder feedback
    - Status:
-     - Plan Created  
-     - In Execution  
-     - Resolved (healthy)  
+     - Plan Created
+     - In Execution
+     - Resolved (healthy)
      - Closed (opportunity created or retained)
 
    - CRM/Slack Activity Writeback: all logged to Opp + renewal cadence
 
 4. **Edge Handling**
-   - Seasonal Pattern? Alex marks “Expected” → snoozes alert for 30 days  
-   - False Positive (data delay)? Auto-verified, closed  
+   - Seasonal Pattern? Alex marks “Expected” → snoozes alert for 30 days
+   - False Positive (data delay)? Auto-verified, closed
    - Duplicate Owners? System deduplicates + tags cross-functionally
 
 ### **Expected Output**
 A live, actionable recovery play built on real data and team accountability. Final entry:
-> “Recovery Plan launched for Stratovant – XDR usage down 28%, MTTR doubled.  
-> Tasks created: CSM call set, SA demo booked, AE AI Sec brief underway.  
+> “Recovery Plan launched for Stratovant – XDR usage down 28%, MTTR doubled.
+> Tasks created: CSM call set, SA demo booked, AE AI Sec brief underway.
 > Tracking resolution over next 14 days.”
 
 ---
@@ -3349,20 +3349,20 @@ This capability is a **go-to-market multiplier**—turning data chaos into focus
 **Format:** Interactive Bubble Heatmap + Filter Toolbar + Action Sidebar
 
 **Bubble Example:**
-- Size = ARR Potential  
-- Color = High (Green), Medium (Yellow), Low (Red)  
+- Size = ARR Potential
+- Color = High (Green), Medium (Yellow), Low (Red)
 - Hover Card:
-  > “Medigenix:  
-  > ARR: $3.8M | Product: Strata + Prisma  
-  > SIEM: Splunk | Trigger: New CISO May 2025  
-  > AI Initiative: LLM-enabled claims processor”  
-  > 🔥 Suggested Plays: XSIAM Conversion + AI Security Bundle  
+  > “Medigenix:
+  > ARR: $3.8M | Product: Strata + Prisma
+  > SIEM: Splunk | Trigger: New CISO May 2025
+  > AI Initiative: LLM-enabled claims processor”
+  > 🔥 Suggested Plays: XSIAM Conversion + AI Security Bundle
   > Confidence Score: 92% (minor telemetry gap)”
 
 **Sidebar CTA Options:**
-- [Add to Focus List]  
-- [Launch “XSIAM Conversion” Cadence]  
-- [Share Bubble Report with SE]  
+- [Add to Focus List]
+- [Launch “XSIAM Conversion” Cadence]
+- [Share Bubble Report with SE]
 - [Set Weekly Touch Reminder]
 
 ### **Expected Output**
@@ -3397,26 +3397,26 @@ A living, data-rich command center for territory focus and play targeting. Syste
 
 2. **Trigger Feed**
    - Chronological Event Markers:
-     - Apr 2025 – “New CISO announced (LinkedIn)”  
-     - Mar 2025 – “AI-powered chatbot pilot in HR (press release)”  
-     - Jan 2025 – “Reported data breach (Unit 42)”  
+     - Apr 2025 – “New CISO announced (LinkedIn)”
+     - Mar 2025 – “AI-powered chatbot pilot in HR (press release)”
+     - Jan 2025 – “Reported data breach (Unit 42)”
    - [Link to Source], [Log to CRM Notes]
 
 3. **Activation Panel**
-   - Select Play(s): [XSIAM SIEM Conversion]  
+   - Select Play(s): [XSIAM SIEM Conversion]
    - Auto-create:
-     - Outreach Cadence Template (CISO + SecOps)  
-     - Pre-read Content (XSIAM ROI brief + GenAI Threat Brief)  
-     - SE Sync Task  
-     - First-touch Email Draft  
+     - Outreach Cadence Template (CISO + SecOps)
+     - Pre-read Content (XSIAM ROI brief + GenAI Threat Brief)
+     - SE Sync Task
+     - First-touch Email Draft
      - CRM Flag: “Play Activated: XSIAM_CONV_MAY25”
 
 4. **Manual Override + Justification**
-   - “Override Risk to Medium – budget frozen in Q3”  
+   - “Override Risk to Medium – budget frozen in Q3”
    - Notes auto-saved with timestamp + owner ID
 
 5. **Error Handling**
-   - ⚠️ Trigger API Unavailable → “Data stale as of May 25. Check back tomorrow.”  
+   - ⚠️ Trigger API Unavailable → “Data stale as of May 25. Check back tomorrow.”
    - ⚠️ Confidence <70% → Prompt: “Low trust score – recommend AE validation before outreach.”
 
 ### **Expected Output**
@@ -3473,13 +3473,13 @@ This is **pursuit discipline in action**—turning strategy into shared executio
 | NovaML | Secure GenAI | Full Team | 12 of 15 | ⚠️ Planner Sync Fail | [Retry] |
 
 **Sidebar Preview:**
-- Current Play: SOC Modernization  
-  > – Opportunity Stage: Eval  
-  > – Roles: AE (Alex), SE (Jen R.), No CSM assigned  
-  > – Tasks:  
-     • SE to demo XSIAM UBA module – due May 30  
-     • AE to confirm renewal posture – due May 31  
-     • Add PS advisory SKU to BOM – due Jun 3  
+- Current Play: SOC Modernization
+  > – Opportunity Stage: Eval
+  > – Roles: AE (Alex), SE (Jen R.), No CSM assigned
+  > – Tasks:
+     • SE to demo XSIAM UBA module – due May 30
+     • AE to confirm renewal posture – due May 31
+     • Add PS advisory SKU to BOM – due Jun 3
   > Digest Post: Monday 9am Slack/Teams summary
 
 - CTA: [Assign Missing Roles], [Resync Plan], [Export to PDF]
@@ -3528,28 +3528,28 @@ Live view into multi-role plan execution, synced to real-world tools. Smart nudg
    - [Assign], [Request Help], [Escalate Staffing]
 
 3. **Sync Panel**
-   - Planner Status: 🟢 Active  
-   - Quip Status: 🟢 Active  
-   - Last Sync: May 27, 10:45 AM  
+   - Planner Status: 🟢 Active
+   - Quip Status: 🟢 Active
+   - Last Sync: May 27, 10:45 AM
    - Conflict Handling:
      > “2 tasks edited externally – [Merge] or [Accept Quip Version]?”
 
    - Buttons:
-     - [Push Updates]  
-     - [Refresh Digest Preview]  
+     - [Push Updates]
+     - [Refresh Digest Preview]
      - [Notify Channel]
 
 4. **Edge Handling**
-   - ⚠️ Missing CSM: “No assigned CSM for this account – alerting manager”  
-   - 🔁 Duplicate Tasks Detected: “3 similar actions across cadence and QBR – [Merge] or [De-dupe]?”  
+   - ⚠️ Missing CSM: “No assigned CSM for this account – alerting manager”
+   - 🔁 Duplicate Tasks Detected: “3 similar actions across cadence and QBR – [Merge] or [De-dupe]?”
    - ❌ Planner Sync Fail: “Retry in 5 mins; alert sent to Ops”
 
 ### **Expected Output**
 A living, role-specific execution plan built around the chosen play. Final export example:
-> “Skylytix – SOC Modernization with XSIAM Plan v1.2  
-> Owners: Alex (AE), Jen (SE)  
-> 10 tasks created, synced to Planner + Quip  
-> Slack digest posts weekly (Monday 9am PT)  
+> “Skylytix – SOC Modernization with XSIAM Plan v1.2
+> Owners: Alex (AE), Jen (SE)
+> 10 tasks created, synced to Planner + Quip
+> Slack digest posts weekly (Monday 9am PT)
 > No CSM assigned – escalation logged.”
 
 ---
@@ -3603,13 +3603,13 @@ This capability is a **demand-gen meets GTM alignment engine**—allowing you to
 | Secure Your AI | Head of AI | 🟢 Active | 5-touch | 43% | 9% | 2 | [View Live] |
 
 **Sidebar Preview:**
-- Play: “Secure AI Innovations”  
-  > Target: Chief Data Officers @ AI-active Majors  
-  > Emails:  
-     1. “Is your AI pipeline security-aware?”  
-     2. “PromptGuard + Prisma DLP = Confidence to scale GenAI”  
-     3. [Specialist name] on GenAI threats in your sector  
-     4. ROI snapshot + QBR readiness  
+- Play: “Secure AI Innovations”
+  > Target: Chief Data Officers @ AI-active Majors
+  > Emails:
+     1. “Is your AI pipeline security-aware?”
+     2. “PromptGuard + Prisma DLP = Confidence to scale GenAI”
+     3. [Specialist name] on GenAI threats in your sector
+     4. ROI snapshot + QBR readiness
   > Co-signed: Alex (AE) + T. Chen (AI Security SE)
 
 - [Schedule Launch], [Insert to CRM Notes], [Route Hot Leads]
@@ -3634,50 +3634,50 @@ A fast-launch, insight-backed outbound motion with GTM alignment. Nudge:
 
 1. **Sequence Composer**
    - Auto-generated based on play:
-     > **Touch 1**: “Reimagining your SOC in the age of GenAI”  
-     > – Value: “Cortex XSIAM eliminates 90% of alert triage noise.”  
-     > – CTA: “Would you be open to a short call with [Specialist Name]?”  
+     > **Touch 1**: “Reimagining your SOC in the age of GenAI”
+     > – Value: “Cortex XSIAM eliminates 90% of alert triage noise.”
+     > – CTA: “Would you be open to a short call with [Specialist Name]?”
 
-     > **Touch 2**: Industry threat + solution highlight  
+     > **Touch 2**: Industry threat + solution highlight
      > – “Unit 42 flagged AI-augmented phishing in financial SOCs. Here's how we correlate faster.”
 
-     > **Touch 3**: ROI Stat + Customer Story  
+     > **Touch 3**: ROI Stat + Customer Story
      > – “Fidelity cut MTTR by 68% with XSIAM. Want to see how?”
 
      > **Touch 4**: Exec-ready visual brief + workshop CTA
 
-   - [Edit Tone: Consultative | Direct | Technical | Exec]  
+   - [Edit Tone: Consultative | Direct | Technical | Exec]
    - [Change CTA: Meeting | Reply | Content Download]
 
 2. **Persona Preview**
-   - “CISO @ FinServ” → ROI, threat intel, automation  
-   - “Head of AI” → prompt security, DLP, model integrity  
+   - “CISO @ FinServ” → ROI, threat intel, automation
+   - “Head of AI” → prompt security, DLP, model integrity
    - “Chief Data Officer” → governance, privacy, cloud risk
 
    - Placeholder fallback: “Unknown persona – using balanced message set”
 
 3. **Co-Signature & Launch Controls**
-   - [Add Specialist]: Select from calendar-available pool  
+   - [Add Specialist]: Select from calendar-available pool
    - Capacity full? Prompt: “SE load >80% – stagger launch or re-route to alternate SE”
 
-   - GDPR Check: auto-scan CRM/Outreach for compliance flag  
+   - GDPR Check: auto-scan CRM/Outreach for compliance flag
    - [Set Launch Window], [Enroll Segment], [Launch]
 
 4. **Live Routing & Reporting**
    - Dashboard widget:
-     > – 58% open  
-     > – 12% reply  
+     > – 58% open
+     > – 12% reply
      > – 4 leads routed → [Create Opp] or [Assign Follow-up]
 
    - Lead Scoring Based on:
-     - Clicked DLP link? Route to AI/DLP SE  
+     - Clicked DLP link? Route to AI/DLP SE
      - Replied with urgency? Flag as “Hot Lead” and push to calendar
 
 ---
 
 **Final Output Example:**
-> “Campaign: ‘Secure Your AI Innovation’ launched to 132 AI Leaders.  
-> 5-Touch cadence, co-signed by Alex (AE) + T. Chen (AI SE).  
+> “Campaign: ‘Secure Your AI Innovation’ launched to 132 AI Leaders.
+> 5-Touch cadence, co-signed by Alex (AE) + T. Chen (AI SE).
 > 12 replies, 4 routed leads, 2 demos booked. GDPR verified. Live in Outreach.”
 
 ---
@@ -3728,13 +3728,13 @@ This capability equips you to **win the room**—especially in Majors, where you
 | BioNova | Wiz | AI Sec | 🟡 92 days | ⚠️ Refresh Needed | [Request Update] |
 
 **Sidebar Preview:**
-- Competitor: Splunk Cloud  
-  > Product: Cortex XSIAM  
-  > Feature Gaps:  
-     • Unified data lake vs. multiple tools  
-     • Native SOAR + ML → less config, faster MTTR  
-     • Agent reuse with Cortex XDR → lower friction  
-  > Talk Track: “Splunk requires stitching XDR, SOAR, UBA. XSIAM was built to unify them. Result: 90% triage reduction, 5x faster response.”  
+- Competitor: Splunk Cloud
+  > Product: Cortex XSIAM
+  > Feature Gaps:
+     • Unified data lake vs. multiple tools
+     • Native SOAR + ML → less config, faster MTTR
+     • Agent reuse with Cortex XDR → lower friction
+  > Talk Track: “Splunk requires stitching XDR, SOAR, UBA. XSIAM was built to unify them. Result: 90% triage reduction, 5x faster response.”
   > Recent Win: $3.1M displacement in SLED vertical – cited alert fatigue and TCO.
 
 - CTA: [Copy Bullets to Deck], [Export PDF], [Set Refresh Alert]
@@ -3748,17 +3748,17 @@ Live readiness signal for competitive positioning. Smart nudge:
 ## **Account Page**
 
 ### **Inputs**
-- Installed Stack (from CRM + telemetry)  
-- Logged Pain Points (MTTR, tool sprawl, data noise, ROI pressure)  
-- Competitor Selected (Splunk, Wiz, Lacework, etc.)  
-- Industry Context + Prior Outcomes  
+- Installed Stack (from CRM + telemetry)
+- Logged Pain Points (MTTR, tool sprawl, data noise, ROI pressure)
+- Competitor Selected (Splunk, Wiz, Lacework, etc.)
+- Industry Context + Prior Outcomes
 - Product Focus (XSIAM, AI Security, DLP)
 
 ### **Ideal Structure**
 **Layout: Competitive Summary Sheet + Persona Talk Tracks + Export Hub**
 
 1. **Competitive Summary Sheet**
-   - Headline: “XSIAM vs. Splunk Cloud – Why You Win in FinServ”  
+   - Headline: “XSIAM vs. Splunk Cloud – Why You Win in FinServ”
    - Key Gaps in Competitor:
      | Capability | XSIAM | Splunk Cloud | Why It Matters |
      |------------|--------|----------------|------------------|
@@ -3766,29 +3766,29 @@ Live readiness signal for competitive positioning. Smart nudge:
      | UBA + Threat Correlation | ✅ Real-time | ⚠️ Rule-based | Better detection of polymorphic threats |
      | Pricing Model | Transparent | Variable + ingest penalties | Predictable TCO, easier to scale |
 
-   - ROI Quote: “$2.7M 3-year savings + 58% MTTD reduction – XSIAM vs. Splunk”  
+   - ROI Quote: “$2.7M 3-year savings + 58% MTTD reduction – XSIAM vs. Splunk”
    - Win Story Snippet: “Global Pharma moved from QRadar + XDR to XSIAM in 2024 citing 70% analyst headcount savings”
 
 2. **Persona Talk Tracks**
-   - For CISO: “Less tools, less risk. With XSIAM, your SOC runs leaner and sees more.”  
-   - For Architect: “You don’t need to wire together XDR, SOAR, UBA. We already did.”  
+   - For CISO: “Less tools, less risk. With XSIAM, your SOC runs leaner and sees more.”
+   - For Architect: “You don’t need to wire together XDR, SOAR, UBA. We already did.”
    - For Procurement: “Flat-rate ingest, transparent cost, no connector fees.”
 
 3. **Export Hub**
-   - [Copy to Slide], [Download PDF], [Log Battlecard to CRM Notes]  
-   - [Schedule Auto-Refresh in 30 Days]  
+   - [Copy to Slide], [Download PDF], [Log Battlecard to CRM Notes]
+   - [Schedule Auto-Refresh in 30 Days]
    - [Request Enablement Update] (if flagged stale)
 
 4. **Edge Handling**
-   - Competitor Missing: “Not in catalog – click to request field intel summary”  
-   - Intel Stale (>90d): “Proceed with caution – recent benchmarks may have shifted”  
+   - Competitor Missing: “Not in catalog – click to request field intel summary”
+   - Intel Stale (>90d): “Proceed with caution – recent benchmarks may have shifted”
    - Viewer Role Restriction: “Pricing section redacted (non-AE profile)”
 
 ### **Expected Output**
 An account-specific, high-confidence competitive summary ready for deck, email, or exec call. Final output example:
-> “Generated: ‘XSIAM vs. Splunk Cloud’ battlecard for Finlogix  
-> – Unified story: less config, faster MTTR, 90% alert triage cut  
-> – Win story: $3.1M SLED conversion  
+> “Generated: ‘XSIAM vs. Splunk Cloud’ battlecard for Finlogix
+> – Unified story: less config, faster MTTR, 90% alert triage cut
+> – Win story: $3.1M SLED conversion
 > – Persona bullets copied to call deck. Auto-refresh set pre-QBR.”
 
 ---
@@ -3840,9 +3840,9 @@ This is a **cross-sell goldmine**. It converts **Prisma Cloud alerts and DLP eve
 | VantaBio | Unused IAM Key + Shadow Container | XSIAM + XSOAR | 🔴 Not Started | – | [Create] |
 
 **Sidebar Preview:**
-- Alert: “Sensitive .csv file uploaded to public S3 (May 25, flagged by DLP)”  
-  > – Map to: Enterprise DLP (inline enforcement), XSIAM (alert correlation)  
-  > – Suggested Email Snippet:  
+- Alert: “Sensitive .csv file uploaded to public S3 (May 25, flagged by DLP)”
+  > – Map to: Enterprise DLP (inline enforcement), XSIAM (alert correlation)
+  > – Suggested Email Snippet:
      > “Hi [Prospect], this alert reveals a critical risk—data exfil via S3. Let’s explore how PANW’s DLP + XSIAM can lock this down in real time and provide audit-ready insights.”
 
 - [Export to Email], [Assign SE], [Log to CRM Notes]
@@ -3859,14 +3859,14 @@ Live visibility into incident-triggered expansion paths across the portfolio. Sy
 - Alert Feed (Prisma Cloud + Enterprise DLP, last 30–90 days)
 - Alert Metadata (type, severity, asset, region, source user)
 - Clustering by:
-  - Data Exfil  
-  - Shadow AI/Cloud Use  
-  - Privilege Misuse  
+  - Data Exfil
+  - Shadow AI/Cloud Use
+  - Privilege Misuse
   - Misconfigurations
 - Module Mapping:
-  - XSIAM: cross-correlation, timeline, automated SOAR  
-  - XDR: endpoint linkage, behavioral trigger  
-  - XSOAR: playbook execution  
+  - XSIAM: cross-correlation, timeline, automated SOAR
+  - XDR: endpoint linkage, behavioral trigger
+  - XSOAR: playbook execution
   - DLP: policy enforcement, AI-aware scanning
 
 ### **Ideal Structure**
@@ -3874,8 +3874,8 @@ Live visibility into incident-triggered expansion paths across the portfolio. Sy
 
 1. **Incident Map**
    - Timeline view of incidents:
-     > “May 25: Public S3 bucket w/ PII file”  
-     > “May 22: Unused IAM credential reused in APAC”  
+     > “May 25: Public S3 bucket w/ PII file”
+     > “May 22: Unused IAM credential reused in APAC”
      > “May 18: GPT API call from unapproved SaaS domain”
 
    - [Expand], [View Source Data], [Flag Sensitive Content] (auto-anonymized if needed)
@@ -3893,19 +3893,19 @@ Live visibility into incident-triggered expansion paths across the portfolio. Sy
    - Prebuilt:
      > “Hi [Name], a recent risk flagged by Prisma Cloud—a sensitive data upload to an open bucket—exposes a real need for policy-based controls + smarter correlation. We’ve seen other customers solve this by integrating XSIAM + Enterprise DLP. I’d be happy to show what that looks like…”
 
-   - Tone Toggle: Exec | Technical | Consultative  
+   - Tone Toggle: Exec | Technical | Consultative
    - CTA: “Book a short session,” “Join next week’s workshop,” “See the DLP/XSIAM integration live”
 
    - [Copy to Email], [Insert to QBR Deck], [Send with SE CC’d]
 
 4. **Automation Hooks**
-   - [Create SE Task]: “Demo XSIAM + DLP policy flow” – Due T+3  
-   - [Log Insight]: Push to Opportunity Notes  
+   - [Create SE Task]: “Demo XSIAM + DLP policy flow” – Due T+3
+   - [Log Insight]: Push to Opportunity Notes
    - [Track Outcome]: Route reply → create Opp / expand CRM notes
 
 5. **Edge Handling**
-   - No Recent Alerts: “Pulling sample from vertical peer accounts—want to use as anchor?”  
-   - Alert Volume Too High: Suggest filter by severity, type  
+   - No Recent Alerts: “Pulling sample from vertical peer accounts—want to use as anchor?”
+   - Alert Volume Too High: Suggest filter by severity, type
    - Sensitive Flag: Auto-mask user/asset in email snippet
 
 ### **Expected Output**
@@ -4003,11 +4003,11 @@ This use case gives you **first-mover advantage** on the fastest growing risk ve
 | Nexora | 87 | “LLM research published – GitHub” | AI Sec Assurance | 🟡 Discovery Task Open | [Track] |
 
 **Sidebar Preview:**
-- Triggers:  
-  > – “Q1 earnings call: ‘We’re embedding LLMs into customer service and fraud detection.’”  
-  > – “4 active GitHub repos tagged ‘LLM inference security’”  
-  > – “Hiring: AI compliance analyst (NYC)”  
-  > Signal Score: 91  
+- Triggers:
+  > – “Q1 earnings call: ‘We’re embedding LLMs into customer service and fraud detection.’”
+  > – “4 active GitHub repos tagged ‘LLM inference security’”
+  > – “Hiring: AI compliance analyst (NYC)”
+  > Signal Score: 91
   > Confidence: 🟢 High (multi-source corroboration)
 
 - CTA: [Create Discovery Task for SE], [Insert Play Slide to Deck], [Log to CRM Notes]
@@ -4031,40 +4031,40 @@ Signal-driven outreach and discovery, aligned with real AI activity—not generi
 **Layout: AI Signal Profile + Sales Play Alignment + Activation Panel**
 
 1. **AI Signal Profile**
-   - Score: 91/100  
-   - AI Posture: “Active LLM dev + SaaS deployment”  
+   - Score: 91/100
+   - AI Posture: “Active LLM dev + SaaS deployment”
    - Signals:
-     > • Job post: “Prompt Safety Engineer” – May 15  
-     > • GitHub: “LLM memory sandbox repo” – active  
+     > • Job post: “Prompt Safety Engineer” – May 15
+     > • GitHub: “LLM memory sandbox repo” – active
      > • News: “Announced in Q1 call – AI as 2025 strategic pillar”
 
    - Risk Insight: “No active DLP for SaaS/Pastebin layer. Risk: Prompt Injection, Shadow AI usage.”
 
 2. **Sales Play Alignment**
    - 🔐 AI Security Assurance:
-     > – Secure LLM APIs + enforce token boundaries  
-     > – Detect unauthorized inference attempts  
+     > – Secure LLM APIs + enforce token boundaries
+     > – Detect unauthorized inference attempts
    - 🧠 Enterprise DLP:
-     > – Scan for structured/unstructured sensitive data in GenAI pipelines  
+     > – Scan for structured/unstructured sensitive data in GenAI pipelines
      > – Control uploads to ChatGPT-like interfaces (SaaS/API)
 
 3. **Activation Panel**
-   - [Add to Focus List: AI Risk Campaign]  
-   - [Create Discovery Task for SE]  
-   - [Generate Talk Track Snippet]  
+   - [Add to Focus List: AI Risk Campaign]
+   - [Create Discovery Task for SE]
+   - [Generate Talk Track Snippet]
    - [Launch Persona Email: “Securing Your GenAI Pipeline”]
 
    - Conflict Check: “DLP Renewal Campaign Active – Merge Plays?”
 
 4. **Edge Handling**
-   - False Positives: “Dismiss signal – AI mention was generic. Feedback logged to improve model.”  
-   - Signal Staleness: “Last AI activity >6mo ago – low confidence.”  
+   - False Positives: “Dismiss signal – AI mention was generic. Feedback logged to improve model.”
+   - Signal Staleness: “Last AI activity >6mo ago – low confidence.”
    - Duplicate Play: “Another AE launched ‘AI Sec’ on this account in April – merge team?”
 
 ### **Expected Output**
 A laser-focused expansion motion rooted in AI activity, mapped to PANW platform value. Final outcome:
-> “LumaBank flagged: High AI activity, no SaaS DLP, active LLM dev.  
-> Play launched: AI Security + DLP Assurance.  
+> “LumaBank flagged: High AI activity, no SaaS DLP, active LLM dev.
+> Play launched: AI Security + DLP Assurance.
 > SE task created, campaign slide inserted, tracked under Opp #3081.”
 
 ---
@@ -4108,22 +4108,22 @@ This is your **quarterly cockpit**—bringing **forecast clarity, product-line f
 
 ### **Main View: ARR Trajectory Chart**
 
-**Structure:** 3-Line Forecast Model  
-- **Best Case** – everything with a path to win (stage ≥ “Evaluate”)  
-- **Commit** – manager-reviewed or confidence >75%  
-- **Worst Case** – slippage-adjusted for timing, size, or signal flags  
+**Structure:** 3-Line Forecast Model
+- **Best Case** – everything with a path to win (stage ≥ “Evaluate”)
+- **Commit** – manager-reviewed or confidence >75%
+- **Worst Case** – slippage-adjusted for timing, size, or signal flags
 
-**Color Shading by Pillar:**  
-- XSIAM: Blue  
-- AI Security: Purple  
-- DLP: Teal  
-- Prisma Cloud: Orange  
-- Strata: Gray  
+**Color Shading by Pillar:**
+- XSIAM: Blue
+- AI Security: Purple
+- DLP: Teal
+- Prisma Cloud: Orange
+- Strata: Gray
 
-> Example:  
-> “Q2 Quota: $3.5M  
-> Current Commit: $2.2M  
-> Best Case: $3.7M  
+> Example:
+> “Q2 Quota: $3.5M
+> Current Commit: $2.2M
+> Best Case: $3.7M
 > Shortfall Risk: AI Sec @ 34% of plan, needs $550K surge.”
 
 ---
@@ -4150,30 +4150,29 @@ This is your **quarterly cockpit**—bringing **forecast clarity, product-line f
 
 ### **Weekly Digest Summary (Email + Slack)**
 
-- “QTD Progress: 63% to quota | Commit: $2.2M of $3.5M”  
-- “Risk: AI Security under-leveraged – 3 active deals flagged red”  
-- “Top Actions:  
-  1. Book PS intro on Deal Y  
-  2. Triage DLP Deal Z w/ SE”  
+- “QTD Progress: 63% to quota | Commit: $2.2M of $3.5M”
+- “Risk: AI Security under-leveraged – 3 active deals flagged red”
+- “Top Actions:
+  1. Book PS intro on Deal Y
+  2. Triage DLP Deal Z w/ SE”
 - “3 deals need updated stage info – click to fix”
 
 ---
 
 ### **Edge Case Handling**
 
-- 🟡 *Missing Stage Data*: “2 deals missing commit signals – prompt AE update”  
-- 🟠 *Low History Confidence*: “No prior AI Sec deal >$500K – forecast flagged ‘Emerging’”  
+- 🟡 *Missing Stage Data*: “2 deals missing commit signals – prompt AE update”
+- 🟠 *Low History Confidence*: “No prior AI Sec deal >$500K – forecast flagged ‘Emerging’”
 - 🔁 *Quota Change Mid-Q*: “Updated May 20 → forecast reset; commit reclassified for Deal A & B”
 
 ---
 
 ### **Outcome:**
 A personalized, continuously updating ARR engine that:
-- Shows your risk/gap per product pillar  
-- Helps you overachieve with focused motion  
+- Shows your risk/gap per product pillar
+- Helps you overachieve with focused motion
 - Gives you and your team (SE, CSM, RVP) the same live pulse
 
 ---
 
 Would you like this structured into a **QBR-ready performance tracker** you can drop into forecast calls, SE huddles, and RVP check-ins?
-

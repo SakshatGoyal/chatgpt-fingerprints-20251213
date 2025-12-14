@@ -2,12 +2,12 @@
 
 ## You (2025-08-17T06:08:07.689000+00:00)
 
-I'm going to share a couple of exchanges between ChatGPT and me. For now, just internalize these, then I'll ask you some questions. 
+I'm going to share a couple of exchanges between ChatGPT and me. For now, just internalize these, then I'll ask you some questions.
 ---
 ---
 ---
 Me:
-So, I need you to put on your professional hat as an AI researcher and scientist who's special skillset involves designing custom GPTs. 
+So, I need you to put on your professional hat as an AI researcher and scientist who's special skillset involves designing custom GPTs.
 
 How much of making a custom GPT is about prompt engineering vs context engineering?
 
@@ -88,7 +88,7 @@ Would you like me to sketch out a **framework for evaluating your own custom GPT
 Me:
 Actually, I want to create an outline for research. My goal is to understand frameworks and any additional research professionals have done on the topic of context engineering. You were able to set up a good outline of the main levers: Contextual framing, context injection, context structuring, context weighting, contextual boundaries... But I'm sure most professional researchers may or may not have necessarily classified their research in these terms. If they have, that's great. But if not, then I'm sure it's something new, and if it has enough citations, then it's probably a novel idea or approach to context engineering that we don't know about. Could you think through how we could structure our research?
 
-My goal is to create a research plan that centers around analyzing both research papers, as well as reputable sources like Databricks, OpenAI, Anthropic, IBM, and maybe others. In addition, it wouldn't be bad to also look at some practical applications from startups. 
+My goal is to create a research plan that centers around analyzing both research papers, as well as reputable sources like Databricks, OpenAI, Anthropic, IBM, and maybe others. In addition, it wouldn't be bad to also look at some practical applications from startups.
 
 Start by thinking through all the context you might need to understand more about my goals and objectives clearly, and ask me additional questions. I am looking to develop a comprehensive outline for a research project focused on understanding the various frameworks and research findings related to context engineering. In our previous discussions, you provided a solid foundation by outlining the main levers associated with this field, including contextual framing, context injection, context structuring, context weighting, and contextual boundaries. However, I recognize that many professional researchers may not categorize their work using these specific terminologies. If such classifications do exist within the literature, that would be highly beneficial. Conversely, if they do not, this could indicate a novel approach to context engineering that warrants attention, particularly if it has garnered significant citations or recognition in the field.
 
@@ -201,7 +201,6 @@ I am particularly interested in mapping case studies that demonstrate how startu
 Should our approach be descriptive in nature, surveying how various stakeholders characterize context engineering? I believe it is important to acknowledge that terminology can vary significantly across different fields, and embracing this diversity can enhance our understanding and application of the concept. Thus, identifying and analyzing these differing perspectives will be beneficial in creating a comprehensive overview.
 
 
-
 ---
 Based on the information I have provided in this as well as the previous response, outline a comprehensive multi-phase research and synthesis plan. This should encompass the following stages:
 
@@ -215,7 +214,7 @@ Based on the information I have provided in this as well as the previous respons
 
 ---
 
-As you engage in this process, envision yourself as a seasoned research director at IDEO, a leader with extensive experience in overseeing research teams that tackle innovative and complex subjects. Throughout your career, you have honed your ability to distill vague and ambiguous insights into clear, actionable strategies that drive meaningful outcomes. 
+As you engage in this process, envision yourself as a seasoned research director at IDEO, a leader with extensive experience in overseeing research teams that tackle innovative and complex subjects. Throughout your career, you have honed your ability to distill vague and ambiguous insights into clear, actionable strategies that drive meaningful outcomes.
 
 In this particular project, you are taking on the challenge of guiding your team in the specialized field of context engineering. This involves not only identifying and understanding the nuances of various contexts but also translating those insights into practical applications that can enhance user experiences and inform design decisions. Your leadership will be crucial in helping the team navigate this intricate landscape, as you encourage collaboration, creativity, and critical thinking to uncover valuable insights that can be transformed into impactful solutions.
 Each phase should detail specific tasks and outline the approaches to be considered for clarity and organization throughout the research process.
@@ -554,15 +553,15 @@ This plan gives you a **systematic yet creative** path to: (1) map and name the 
 
 ## ChatGPT (2025-08-17T06:08:08.351509+00:00)
 
-Got it — I’ve fully internalized the exchanges you shared. I see the progression:  
+Got it — I’ve fully internalized the exchanges you shared. I see the progression:
 
-1. You started by distinguishing **prompt engineering vs context engineering** in custom GPTs.  
-2. Then you pushed toward building a **research plan** to survey both academic and industry work on context engineering — not just descriptive, but aiming for synthesis and potentially novel framing.  
-3. Finally, you laid out preferences: **hybrid theory + practice, interdisciplinary scope, LLM-era focus, inductive thematic analysis balanced with deductive scaffolding, and case studies of startups**.  
+1. You started by distinguishing **prompt engineering vs context engineering** in custom GPTs.
+2. Then you pushed toward building a **research plan** to survey both academic and industry work on context engineering — not just descriptive, but aiming for synthesis and potentially novel framing.
+3. Finally, you laid out preferences: **hybrid theory + practice, interdisciplinary scope, LLM-era focus, inductive thematic analysis balanced with deductive scaffolding, and case studies of startups**.
 
 The other ChatGPT responded with a **multi-phase research and synthesis plan** — essentially a full IDEO-style research strategy, broken into **data gathering, collection, sense-making, and outputs**, complete with methods, deliverables, and even templates.
 
-I’m holding all of this context.  
+I’m holding all of this context.
 
 Would you like me, as your “Michael” persona, to now **critique and refine that plan** (e.g., where it might be too heavy, where it could be sharper, or more aligned with real-world research execution)? Or would you prefer me to **zoom out first** and help you clarify what success looks like for you personally in this research project (e.g., academic credibility, practitioner toolkit, thought leadership)?
 
@@ -625,12 +624,12 @@ Finally, you **package the knowledge** so others can use it.
 
 ---
 
-🔑 **Super-simplified metaphor**:  
+🔑 **Super-simplified metaphor**:
 
-1. **Stage 1: Plan the trip** (pick your map, routes, and rules).  
-2. **Stage 2: Collect souvenirs** (papers, interviews, product teardowns, experiments).  
-3. **Stage 3: Sort the souvenirs** (group them, analyze patterns, connect dots).  
-4. **Stage 4: Make a travel guide** (share the highlights, tips, and lessons with others).  
+1. **Stage 1: Plan the trip** (pick your map, routes, and rules).
+2. **Stage 2: Collect souvenirs** (papers, interviews, product teardowns, experiments).
+3. **Stage 3: Sort the souvenirs** (group them, analyze patterns, connect dots).
+4. **Stage 4: Make a travel guide** (share the highlights, tips, and lessons with others).
 
 ---
 
@@ -644,129 +643,67 @@ You can access the three files, which serve as supplementary data for Stage 2, a
 
 https://github.com/SakshatGoyal/Context-Engineering-Research/tree/main/Research_Plan_Basics/Stage_1/V1
 
-## ChatGPT (2025-08-17T06:31:49.479389+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Analyzing stage 1 outcomes", "content": "I need to analyze the outcomes from files in a GitHub repo. I'll review three files, providing objectivity in my analysis: evaluating strengths, gaps, and offering advice. For clarity, I'll keep the analysis concise but thorough, citing the GitHub files. No need for extra UI elements or image elements here.", "chunks": [], "finished": true}], "source_analysis_msg_id": "8878f4cf-768d-43c7-8536-cc44f729f575"}
 
-## ChatGPT (2025-08-17T06:31:48.754920+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"open\": [{\"ref_id\": \"https://github.com/SakshatGoyal/Context-Engineering-Research/tree/main/Research_Plan_Basics/Stage_1/V1\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:31:56.369050+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Navigating the repository", "content": "It", "chunks": [], "finished": true}], "source_analysis_msg_id": "f4ea78b3-d20a-487b-be64-ce65bbb0600d"}
 
-## ChatGPT (2025-08-17T06:31:54.263471+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"open\": [{\"ref_id\": \"turn0view0\"}], \"response_length\": \"long\"}"}
 
-## ChatGPT (2025-08-17T06:31:58.038981+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Accessing raw GitHub content", "content": "It looks like the page didn’t render because the tool didn’t capture a dynamic load. So, I’ll try another method: using the GitHub API to request raw content. This should let me list the files from the directory directly. Let's try the contents API and see what happens!", "chunks": [], "finished": true}], "source_analysis_msg_id": "90e030d1-bdbf-4b3e-b2dd-49cfed7d5824"}
 
-## ChatGPT (2025-08-17T06:31:56.364930+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"open\": [{\"ref_id\": \"https://api.github.com/repos/SakshatGoyal/Context-Engineering-Research/contents/Research_Plan_Basics/Stage_1/V1\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:00.276008+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Finding GitHub repository content", "content": "The tool restricts opening new domains, but since the user's message includes a GitHub link, I can work with that. I might not be able to access the API directly, though. My best bet is to search within GitHub or start at the repository root and navigate through the commit tree. Let's give it a try!", "chunks": [], "finished": true}], "source_analysis_msg_id": "1860b269-dcf1-4080-aff3-e6e6ad611b4d"}
 
-## ChatGPT (2025-08-17T06:31:59.069218+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"search_query\": [{\"q\": \"SakshatGoyal Context-Engineering-Research Research_Plan_Basics Stage_1 V1\"}, {\"q\": \"Context-Engineering-Research Stage_1 V1 GitHub\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:06.980356+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Accessing GitHub files", "content": "I tried searching, but the results didn’t bring up the user’s specific repo due to limitations on dynamic content. Since the link is known, I’m thinking of guessing the file names from the \"Stage_1/V1\" directory. I'll try appending \"?plain=1\" to open the files directly and see if that works. Fingers crossed!", "chunks": [], "finished": true}, {"summary": "Accessing repo content", "content": "It looks like I can't modify the URL, but I might still be able to access the content by clicking the links on the page. Since the directory listing didn’t load due to a \"loading error,\" I’ll try opening the \"Research_Plan_Basics\" directory instead in hopes that it will show the contents and subdirectories. Let's give that a shot!", "chunks": [], "finished": true}], "source_analysis_msg_id": "48610b4e-a9c8-40ee-979e-01fe07d7d0c9"}
 
-## ChatGPT (2025-08-17T06:32:02.063723+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"open\": [{\"ref_id\": \"https://github.com/SakshatGoyal/Context-Engineering-Research\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:12.421328+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Navigating to the directory", "content": "I see that the repository root has a link to the \"Research_Plan_Basics\" directory, along with a README. Let’s click on that link to see what files and subdirectories are inside. I hope it will bring us closer to finding the contents the user needs!", "chunks": [], "finished": true}], "source_analysis_msg_id": "f7a0d3b1-be5f-467c-908d-eb8e16d0d89e"}
 
-## ChatGPT (2025-08-17T06:32:10.950178+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"click\": [{\"ref_id\": \"turn4view0\", \"id\": 67}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:16.062729+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Trying another directory option", "content": "The", "chunks": [], "finished": true}], "source_analysis_msg_id": "517e8579-e4bf-4f3d-843b-2a17d2d91071"}
 
-## ChatGPT (2025-08-17T06:32:12.398285+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"click\": [{\"ref_id\": \"turn4view0\", \"id\": 69}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:24.799264+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Handling GitHub access restrictions", "content": "It seems like there’s an issue with loading content from dynamic GitHub pages, and the \"Raw\" file link might be inaccessible—it’s not in the previous results. I could try fetching the raw URL, or possibly click the \"Raw\" button on the page, but the content isn’t fully loaded due to restrictions. This makes things tricky.", "chunks": [], "finished": true}, {"summary": "Searching within GitHub", "content": "Hmm. Using a direct GitHub URL with a \"raw=1\" tag could work, but the tool limits the URLs we can use. However, since I can search GitHub directly, I’ll try searching within GitHub for the “README” in the repository. That might help us find the exact content we need to access.", "chunks": [], "finished": true}], "source_analysis_msg_id": "004f8c2e-22bb-48fe-9981-96517dc91fae"}
 
-## ChatGPT (2025-08-17T06:32:16.032784+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"search_query\": [{\"q\": \"site:github.com \\\"SakshatGoyal\\\" \\\"Context-Engineering-Research\\\" README\"}, {\"q\": \"site:github.com SakshatGoyal/Context-Engineering-Research Research_Plan_Basics Stage_1 V1 file\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:28.353925+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Evaluating Stage 1 Outcomes", "content": "The tool is limiting access to the files due to GitHub page constraints, so I can’t provide a detailed analysis of the files just yet. I’ll still suggest a rubric for evaluating Stage 1 outcomes, focusing on critical aspects and suggesting a template to capture gaps. I'll ask for their content or files if possible.", "chunks": [], "finished": true}, {"summary": "Providing Objective Evaluation", "content": "I can’t load the GitHub content due to a rendering issue, so I won’t be able to review the three files directly. Instead, I’ll transparently share this limitation and propose an objective rubric for Stage 1 evaluation, highlighting key areas like research questions, sampling plan, and ethics. I'll also offer sample feedback based on common strengths and weaknesses.", "chunks": [], "finished": true}], "source_analysis_msg_id": "eec0cb40-3d82-41f7-bb0c-9e8f5e614bf3"}
 
-## ChatGPT (2025-08-17T06:32:26.106358+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"click\": [{\"ref_id\": \"turn4view0\", \"id\": 66}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:32.573154+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"click\": [{\"ref_id\": \"turn8view0\", \"id\": 61}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:37.779853+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Accessing Stage 1 Files", "content": "The commit page shows file diffs, which is great. I see the three files: \"STAGE1_DATA_SPEC.json\", \"STAGE1_INSTRUMENTS_AND_TEMPLATES.md\", and \"STAGE1_README.md\". I’ll try clicking on them; they might be linked within the commit file tree. I'll begin by exploring the \"STAGE1_README.md\" file and look for an ID or pattern.", "chunks": [], "finished": true}], "source_analysis_msg_id": "19d10631-ac2a-44a9-bbcd-073396d72127"}
 
-## ChatGPT (2025-08-17T06:32:34.265854+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"find\": [{\"ref_id\": \"turn9view0\", \"pattern\": \"STAGE1_README\"}, {\"ref_id\": \"turn9view0\", \"pattern\": \"STAGE1_DATA_SPEC\"}, {\"ref_id\": \"turn9view0\", \"pattern\": \"STAGE1_INSTRUMENTS\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:43.499881+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Accessing Files in Stage_1/V1", "content": "I need to review the three Stage_1/V1 files: \"STAGE1_DATA_SPEC.json,\" \"STAGE1_INSTRUMENTS_AND_TEMPLATES.md,\" and \"STAGE1_README.md.\" These files are in the commit's file tree, but I can't directly click them. I’m thinking of using the exact URL for each file, since it’s on the same domain, but I’m unsure if that’s allowed based on the rules.", "chunks": [], "finished": true}], "source_analysis_msg_id": "ea10c2ac-5c69-4bb3-a7f2-6aa18735ba15"}
 
-## ChatGPT (2025-08-17T06:32:38.899838+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"open\": [{\"ref_id\": \"https://github.com/SakshatGoyal/Context-Engineering-Research/blob/main/Research_Plan_Basics/Stage_1/V1/STAGE1_README.md\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:45.740260+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"open\": [{\"ref_id\": \"https://github.com/SakshatGoyal/Context-Engineering-Research/raw/main/Research_Plan_Basics/Stage_1/V1/STAGE1_README.md\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:48.989959+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Accessing next file", "content": "Great! I’ve successfully accessed the STAGE1_README.md raw content, which gives me lots of information. Now, I need to open the raw version of STAGE1_INSTRUMENTS_AND_TEMPLATES.md to continue the review. Let's move on to that next.", "chunks": [], "finished": true}], "source_analysis_msg_id": "9bb841f8-904f-4c67-baa3-64b812704d07"}
 
-## ChatGPT (2025-08-17T06:32:47.668261+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"open\": [{\"ref_id\": \"https://github.com/SakshatGoyal/Context-Engineering-Research/raw/main/Research_Plan_Basics/Stage_1/V1/STAGE1_INSTRUMENTS_AND_TEMPLATES.md\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:53.348079+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Opening next file", "content": "Now, it's time to open the STAGE1_DATA_SPEC.json file. I'll review it for any important details that might be relevant to the task at hand. Let's dive into this file next.", "chunks": [], "finished": true}], "source_analysis_msg_id": "2fef899e-ad5b-4ad9-89cc-140152c2e532"}
 
-## ChatGPT (2025-08-17T06:32:50.284011+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"open\": [{\"ref_id\": \"https://github.com/SakshatGoyal/Context-Engineering-Research/raw/main/Research_Plan_Basics/Stage_1/V1/STAGE1_DATA_SPEC.json\"}], \"response_length\": \"short\"}"}
 
-## ChatGPT (2025-08-17T06:32:54.669854+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"open\": [{\"ref_id\": \"turn14view0\"}], \"response_length\": \"long\"}"}
 
-## ChatGPT (2025-08-17T06:33:01.584585+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Planning critique structure", "content": "I’ve reviewed all three files, so it’s time to analyze the outcomes from Stage 1. I’ll take a professor-style approach, focusing on strengths, clarity, rigor, consistency, sufficiency, risks, and possible improvements. I’ll also assess if these outcomes are actionable and ready for Stage 2.", "chunks": [], "finished": true}, {"summary": "Reviewing Stage 1 contents", "content": "From Stage 1, we have three major components: the README, Instruments & Templates, and Data Spec. I’ll focus on providing an objective analysis of each, looking at factors like clarity, rigor, sufficiency, and whether they’re actionable for Stage 2. I’ll also assess the overall quality of the outcomes and suggest improvements.", "chunks": [], "finished": true}, {"summary": "Suggesting improvements and considerations", "content": "I’m thinking through practical suggestions for Stage 1 analysis: prioritizing bias reduction, including diverse sources (including non-English), and calibrating quotas. I also consider emergent category processes and cognitive load. Plus, I need to address risk of over-reliance on tools like ChatGPT, ensuring proper guardrails and model disclaimers.", "chunks": [], "finished": true}, {"summary": "Identifying key issues and citing sources", "content": "I need to pinpoint 5-10 blocking issues that need to be addressed before Stage 2. Although adding UI elements is tricky, I can still include citations for each file. I'll reference the file commit page and note that the Stage 1 files include \"Outline v1.md,\" which might be relevant.", "chunks": [], "finished": true}], "source_analysis_msg_id": "2715d176-408c-41bd-8e9d-b76e59eca353"}
 
-## ChatGPT (2025-08-17T06:33:18.171563+00:00)
 
-{"content_type": "reasoning_recap", "content": "Thought for 1m 28s"}
 
 ## ChatGPT (2025-08-17T06:32:57.076935+00:00)
 
@@ -776,87 +713,87 @@ Got it. I reviewed the three Stage-1 files in that repo and I’ll give you a cl
 
 # What’s strong (you set yourselves up well)
 
-- **Clear research focus and scope.** The Stage-1 README crisply states purpose, payoff, an LLM-era scope, and the core RQs. It also operationalizes the five primary levers plus secondary ones, which will prevent hand-wavy coding later. citeturn12view0  
-- **Operational definitions (taxonomy)** with examples/non-examples for each lever. This is gold for inter-coder consistency and later ablations. citeturn12view0  
-- **Method discipline end-to-end.** Inclusion/exclusion criteria, credibility tiers, sampling strategy (systematic + snowball + stratified + theoretical), PRISMA flow, and quality gates are all present and specific. citeturn12view0turn13view0  
-- **Instrumentation is practical and complete.** Screening form, coding sheet (aligned to the JSON schema), interview guide, survey bank, case-study template, risk register, and even experiment skeletons are ready. This is unusually thorough for a V1. citeturn13view0  
-- **Data spec is thoughtful.** The JSON Schema covers IDs, domains, lever tags (including emergent tags), methods, metrics, risks, governance signals, export formats, and an inter-coder reliability plan (κ target, adjudication steps). Examples are included—great for dry runs. citeturn15view0
+- **Clear research focus and scope.** The Stage-1 README crisply states purpose, payoff, an LLM-era scope, and the core RQs. It also operationalizes the five primary levers plus secondary ones, which will prevent hand-wavy coding later.
+- **Operational definitions (taxonomy)** with examples/non-examples for each lever. This is gold for inter-coder consistency and later ablations.
+- **Method discipline end-to-end.** Inclusion/exclusion criteria, credibility tiers, sampling strategy (systematic + snowball + stratified + theoretical), PRISMA flow, and quality gates are all present and specific.
+- **Instrumentation is practical and complete.** Screening form, coding sheet (aligned to the JSON schema), interview guide, survey bank, case-study template, risk register, and even experiment skeletons are ready. This is unusually thorough for a V1.
+- **Data spec is thoughtful.** The JSON Schema covers IDs, domains, lever tags (including emergent tags), methods, metrics, risks, governance signals, export formats, and an inter-coder reliability plan (κ target, adjudication steps). Examples are included—great for dry runs.
 
 ---
 
 # Where you’re exposed (gaps, ambiguities, likely pain points)
 
-1. **Over-tight keyword logic risks false negatives at screening.**  
-   The `NonContextTopic` rule leans on title/abstract keywords; many solid HCI/IR papers won’t say “context” explicitly. Expect misses unless reviewers can override with guidance. Add concrete synonym lists and a “semantic similarity” backstop procedure. citeturn15view0
+1. **Over-tight keyword logic risks false negatives at screening.**
+   The `NonContextTopic` rule leans on title/abstract keywords; many solid HCI/IR papers won’t say “context” explicitly. Expect misses unless reviewers can override with guidance. Add concrete synonym lists and a “semantic similarity” backstop procedure.
 
-2. **Venue/credibility mapping is a bit brittle.**  
-   Tiers keyed to “top venues” + org types can down-rank rigorous grey literature (e.g., strong industry evals) and non-English venues. Add an evidence-based override rubric (methods + artifacts trump venue) and explicitly allow non-English sources with translation notes. citeturn15view0
+2. **Venue/credibility mapping is a bit brittle.**
+   Tiers keyed to “top venues” + org types can down-rank rigorous grey literature (e.g., strong industry evals) and non-English venues. Add an evidence-based override rubric (methods + artifacts trump venue) and explicitly allow non-English sources with translation notes.
 
-3. **Groundedness vs. faithfulness needs harmonized definitions.**  
-   You list both but don’t standardize how coders should identify or prefer one metric vs. another across sources—this will create synthesis noise. Add canonical definitions + mapping to common proxies (e.g., citation-matching vs. human justification checks). citeturn15view0
+3. **Groundedness vs. faithfulness needs harmonized definitions.**
+   You list both but don’t standardize how coders should identify or prefer one metric vs. another across sources—this will create synthesis noise. Add canonical definitions + mapping to common proxies (e.g., citation-matching vs. human justification checks).
 
-4. **Sampling quotas are ambitious and may bias the corpus.**  
-   Minimums like “≥40 per primary lever” can push coders toward borderline inclusions, and the per-org cap may under-represent major labs that dominate certain levers. Pilot the quotas; convert some to targets with stopping rules tied to saturation and κ stability. citeturn12view0
+4. **Sampling quotas are ambitious and may bias the corpus.**
+   Minimums like “≥40 per primary lever” can push coders toward borderline inclusions, and the per-org cap may under-represent major labs that dominate certain levers. Pilot the quotas; convert some to targets with stopping rules tied to saturation and κ stability.
 
-5. **Emergent tag promotion rule is unproven.**  
-   “≥5 records ⇒ formalize” could lock in noisy categories. Require cross-coder agreement and cross-domain presence (e.g., 5 records across ≥2 domains and ≥2 org types) before promotion. citeturn15view0
+5. **Emergent tag promotion rule is unproven.**
+   “≥5 records ⇒ formalize” could lock in noisy categories. Require cross-coder agreement and cross-domain presence (e.g., 5 records across ≥2 domains and ≥2 org types) before promotion.
 
-6. **Risk/governance signals are well listed but unevenly actionable.**  
-   You’ll code “third_party_audit,” “policy_alignment,” etc.—but many sources won’t disclose these. Add “unknown/not stated” and capture *evidence source* (claims vs. artifact) to avoid optimistic bias. citeturn15view0
+6. **Risk/governance signals are well listed but unevenly actionable.**
+   You’ll code “third_party_audit,” “policy_alignment,” etc.—but many sources won’t disclose these. Add “unknown/not stated” and capture *evidence source* (claims vs. artifact) to avoid optimistic bias.
 
-7. **ChatGPT-as-primary-tool risks (drift, leakage, hallucinated extraction) not yet addressed in protocol.**  
-   You mention traceability and κ, but not the *LLM extraction process* itself (model version logging, double-pass extraction, human verification). Add a tool-use SOP (below). citeturn12view0
+7. **ChatGPT-as-primary-tool risks (drift, leakage, hallucinated extraction) not yet addressed in protocol.**
+   You mention traceability and κ, but not the *LLM extraction process* itself (model version logging, double-pass extraction, human verification). Add a tool-use SOP (below).
 
-8. **Ambiguity at the edges of levers.**  
-   For example, “Selection” (filtering out low-quality docs) sits between Injection and Weighting but isn’t named; you rely on non-examples. Add an explicit “selection/filtration” sub-code to keep boundaries clean. citeturn12view0
+8. **Ambiguity at the edges of levers.**
+   For example, “Selection” (filtering out low-quality docs) sits between Injection and Weighting but isn’t named; you rely on non-examples. Add an explicit “selection/filtration” sub-code to keep boundaries clean.
 
 ---
 
 # Concrete fixes I’d make for V1.1 (quick wins)
 
 **A. Screening & coding reliability**
-- Expand `NonContextTopic` with a controlled synonym list (e.g., “prompt orchestration,” “tool routing,” “planner,” “context window,” “memory,” “knowledge grounding,” “guardrails,” “policy prompts,” “retrieval”). Add a human-review fallback whenever semantic match > threshold or venue/methods look relevant. citeturn15view0
-- Add a **pilot run**: 30–50 mixed items, double-coded, report κ per field; freeze codebook once κ≥0.75, then start the main ingest. (You already plan κ, just formalize the pilot gate.) citeturn15view0
+- Expand `NonContextTopic` with a controlled synonym list (e.g., “prompt orchestration,” “tool routing,” “planner,” “context window,” “memory,” “knowledge grounding,” “guardrails,” “policy prompts,” “retrieval”). Add a human-review fallback whenever semantic match > threshold or venue/methods look relevant.
+- Add a **pilot run**: 30–50 mixed items, double-coded, report κ per field; freeze codebook once κ≥0.75, then start the main ingest. (You already plan κ, just formalize the pilot gate.)
 
 **B. Metric harmonization**
-- Add a mini-glossary for **faithfulness vs. groundedness** (what evidence each requires, acceptable proxies) and a decision tree for coding when papers use idiosyncratic metrics. citeturn15view0
+- Add a mini-glossary for **faithfulness vs. groundedness** (what evidence each requires, acceptable proxies) and a decision tree for coding when papers use idiosyncratic metrics.
 
 **C. Adjust quotas from hard minimums to evidence-sensitive targets**
-- Convert some per-lever quotas to **targets with saturation checks** (e.g., stop when 3 additional items yield <5% new subcodes for that lever). Keeps quality > quantity. citeturn12view0
+- Convert some per-lever quotas to **targets with saturation checks** (e.g., stop when 3 additional items yield <5% new subcodes for that lever). Keeps quality > quantity.
 
 **D. Clarify “selection/filtration”**
-- Add `selection_filtration` as a secondary or sub-code under Injection to capture pruning/quality filters distinctly from reranking (Weighting). citeturn12view0
+- Add `selection_filtration` as a secondary or sub-code under Injection to capture pruning/quality filters distinctly from reranking (Weighting).
 
 **E. Governance/risk coding hygiene**
-- For each governance or risk tag, require an **evidence_type** field: {artifact, explicit statement, inference}. Add “not stated.” This will keep downstream analyses honest. citeturn15view0
+- For each governance or risk tag, require an **evidence_type** field: {artifact, explicit statement, inference}. Add “not stated.” This will keep downstream analyses honest.
 
 **F. ChatGPT tool-use SOP (Stage-2-ready)**
-- Log **model fingerprint** (provider, model, exact version, date/time) on every extraction.  
-- Use **two-pass extraction**: (1) structured pull to the schema; (2) verification pass that quotes the exact passage/figure/table supporting each coded field.  
-- Enforce **source-linked citations** in the coded record (URL + anchor/section).  
+- Log **model fingerprint** (provider, model, exact version, date/time) on every extraction.
+- Use **two-pass extraction**: (1) structured pull to the schema; (2) verification pass that quotes the exact passage/figure/table supporting each coded field.
+- Enforce **source-linked citations** in the coded record (URL + anchor/section).
 - Run **consistency checks** (e.g., IDs unique, date formats, arrays non-empty where required) and a **random 10% human audit** per batch.
 
 ---
 
 # “Professor” assessment (snap verdict)
 
-- **Rigor:** A- (excellent scaffolding; needs reliability pilot + metric harmonization to hit A).  
-- **Clarity:** A- (taxonomy is clear; add selection/filtration and tighten metric definitions).  
-- **Feasibility:** B+ (ambitious quotas/targets; make them conditional on saturation to avoid low-value inclusions).  
-- **Reproducibility/Traceability:** A- (great JSON schema and export spec; add LLM tool-use SOP).  
+- **Rigor:** A- (excellent scaffolding; needs reliability pilot + metric harmonization to hit A).
+- **Clarity:** A- (taxonomy is clear; add selection/filtration and tighten metric definitions).
+- **Feasibility:** B+ (ambitious quotas/targets; make them conditional on saturation to avoid low-value inclusions).
+- **Reproducibility/Traceability:** A- (great JSON schema and export spec; add LLM tool-use SOP).
 - **Bias & Coverage:** B (venue-centric tiering and English-language bias are likely; add explicit multilingual/grey-lit paths).
 
 ---
 
 # Stage-2 readiness checklist (use this before you start)
 
-- [ ] Pilot screen + code 30–50 items; publish κ per unit and codebook changes. citeturn15view0  
-- [ ] Adopt ChatGPT extraction SOP (model fingerprinting, two-pass extraction, human spot-checks). citeturn12view0  
-- [ ] Add metric glossary + decision tree for groundedness/faithfulness and common proxies. citeturn15view0  
-- [ ] Convert hard quotas to targets with saturation rules; document stopping criteria. citeturn12view0  
-- [ ] Expand screening synonyms; enable human review for semantic matches. citeturn15view0  
-- [ ] Add `selection_filtration` sub-code and update examples/non-examples. citeturn12view0  
-- [ ] Add evidence_type to risk/governance tags; allow “not stated.” citeturn15view0
+- [ ] Pilot screen + code 30–50 items; publish κ per unit and codebook changes.
+- [ ] Adopt ChatGPT extraction SOP (model fingerprinting, two-pass extraction, human spot-checks).
+- [ ] Add metric glossary + decision tree for groundedness/faithfulness and common proxies.
+- [ ] Convert hard quotas to targets with saturation rules; document stopping criteria.
+- [ ] Expand screening synonyms; enable human review for semantic matches.
+- [ ] Add `selection_filtration` sub-code and update examples/non-examples.
+- [ ] Add evidence_type to risk/governance tags; allow “not stated.”
 
 ---
 
@@ -868,55 +805,54 @@ ok, could you explain this outcome to me in simple terms? Cuz while I want a res
 
 ## ChatGPT (2025-08-17T06:35:26.254774+00:00)
 
-Totally fair — the feedback I gave was written in a very “professorly” way, which makes it sound heavier than it actually is. Let me step back and explain the outcome of your Stage 1 in **plain, simple language**, so you can see both what’s good and where the rough spots are without feeling overwhelmed.  
+Totally fair — the feedback I gave was written in a very “professorly” way, which makes it sound heavier than it actually is. Let me step back and explain the outcome of your Stage 1 in **plain, simple language**, so you can see both what’s good and where the rough spots are without feeling overwhelmed.
 
 ---
 
 ### **The Good News (what you got right)**
-- **Clear focus.** You’ve nailed down what you want to study (how people engineer “context” into AI systems) and broken it into manageable pieces (“framing, injection, structuring, weighting, boundaries”). That’s a great start.  
-- **Solid structure.** You wrote down rules for what papers to include, how to tag them, and how to capture extra details (like risks, evaluation methods, or governance). This makes your process more professional than just “reading around.”  
-- **Tools are ready.** You already drafted checklists, templates, and even a data format for recording what you find. That’s more preparation than most early-stage projects have.  
+- **Clear focus.** You’ve nailed down what you want to study (how people engineer “context” into AI systems) and broken it into manageable pieces (“framing, injection, structuring, weighting, boundaries”). That’s a great start.
+- **Solid structure.** You wrote down rules for what papers to include, how to tag them, and how to capture extra details (like risks, evaluation methods, or governance). This makes your process more professional than just “reading around.”
+- **Tools are ready.** You already drafted checklists, templates, and even a data format for recording what you find. That’s more preparation than most early-stage projects have.
 
-👉 In short: You’ve built a strong foundation and avoided the classic “we’ll figure it out later” trap.  
+👉 In short: You’ve built a strong foundation and avoided the classic “we’ll figure it out later” trap.
 
 ---
 
 ### **Where It Feels a Bit Off (the tricky parts)**
-Here’s why you (rightly) feel like something is “off” — you’ve got a **very ambitious research plan** for a first run. The issues aren’t fatal, but they’re like trying to sprint before you’ve walked.  
+Here’s why you (rightly) feel like something is “off” — you’ve got a **very ambitious research plan** for a first run. The issues aren’t fatal, but they’re like trying to sprint before you’ve walked.
 
-1. **You might miss important stuff.**  
-   Your screening rules look for obvious keywords like “context” — but many relevant papers won’t actually use that word (they might say “prompt orchestration” or “retrieval”). So you risk excluding useful work just because of how it’s phrased.  
+1. **You might miss important stuff.**
+   Your screening rules look for obvious keywords like “context” — but many relevant papers won’t actually use that word (they might say “prompt orchestration” or “retrieval”). So you risk excluding useful work just because of how it’s phrased.
 
-2. **Some definitions are fuzzy.**  
-   Terms like “groundedness” and “faithfulness” overlap, and unless you lock down what they mean in your project, you’ll end up with messy, inconsistent coding later.  
+2. **Some definitions are fuzzy.**
+   Terms like “groundedness” and “faithfulness” overlap, and unless you lock down what they mean in your project, you’ll end up with messy, inconsistent coding later.
 
-3. **Targets are a bit rigid.**  
-   You set numeric goals like “at least 40 papers per lever.” That sounds good, but it might push you to include borderline or low-value papers just to hit the quota, rather than focusing on quality.  
+3. **Targets are a bit rigid.**
+   You set numeric goals like “at least 40 papers per lever.” That sounds good, but it might push you to include borderline or low-value papers just to hit the quota, rather than focusing on quality.
 
-4. **Your categories aren’t 100% complete.**  
-   For example, you don’t yet have a clear place for “selection/filtration” (filtering out low-quality sources). Right now, it doesn’t cleanly fit under injection or weighting, which could confuse coders.  
+4. **Your categories aren’t 100% complete.**
+   For example, you don’t yet have a clear place for “selection/filtration” (filtering out low-quality sources). Right now, it doesn’t cleanly fit under injection or weighting, which could confuse coders.
 
-5. **You’re leaning heavily on ChatGPT itself.**  
-   That’s fine, but you don’t yet have a solid “safety procedure” for using it as your extraction tool (e.g., making sure it doesn’t hallucinate, drift, or silently skip details). Without guardrails, that could undermine your data quality.  
+5. **You’re leaning heavily on ChatGPT itself.**
+   That’s fine, but you don’t yet have a solid “safety procedure” for using it as your extraction tool (e.g., making sure it doesn’t hallucinate, drift, or silently skip details). Without guardrails, that could undermine your data quality.
 
-👉 In short: You’ve got the map and gear, but the compass is a bit fuzzy, and you’re asking yourselves to cover too much terrain too fast.  
+👉 In short: You’ve got the map and gear, but the compass is a bit fuzzy, and you’re asking yourselves to cover too much terrain too fast.
 
 ---
 
 ### **How to Think About This Simply**
-Imagine you’re building a house:  
+Imagine you’re building a house:
 
-- **Foundation (Stage 1)** — You poured concrete, set up the frame, and made a clear floor plan. That’s solid.  
-- **The issues** — A couple of your measurements are imprecise, and you’re insisting on building 10 rooms even if only 6 are practical at first. Also, your tape measure (ChatGPT) sometimes lies, so you need a second check.  
+- **Foundation (Stage 1)** — You poured concrete, set up the frame, and made a clear floor plan. That’s solid.
+- **The issues** — A couple of your measurements are imprecise, and you’re insisting on building 10 rooms even if only 6 are practical at first. Also, your tape measure (ChatGPT) sometimes lies, so you need a second check.
 
-It doesn’t mean your house will collapse — just that you should **tighten a few things before moving to Stage 2**, or you’ll waste effort later fixing misaligned walls.  
+It doesn’t mean your house will collapse — just that you should **tighten a few things before moving to Stage 2**, or you’ll waste effort later fixing misaligned walls.
 
 ---
 
-✅ **Bottom line in plain terms:**  
-Your Stage 1 is **really strong groundwork**. The problems aren’t about “doing it wrong,” they’re about being **too ambitious and a little too rigid**. If you loosen the quotas, clean up a couple fuzzy definitions, and add a safety check for ChatGPT outputs, you’ll be in excellent shape to move forward.  
+✅ **Bottom line in plain terms:**
+Your Stage 1 is **really strong groundwork**. The problems aren’t about “doing it wrong,” they’re about being **too ambitious and a little too rigid**. If you loosen the quotas, clean up a couple fuzzy definitions, and add a safety check for ChatGPT outputs, you’ll be in excellent shape to move forward.
 
 ---
 
 Do you want me to **make you a simplified “Stage 1 corrections checklist”** — basically 5–6 quick fixes you can focus on, without all the research jargon? That way you’ll know exactly what to adjust before diving into Stage 2.
-

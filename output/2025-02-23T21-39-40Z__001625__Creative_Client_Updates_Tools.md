@@ -1,8 +1,6 @@
 # Creative Client Updates Tools
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-02-23T21:39:40.736625+00:00)
 
@@ -12,39 +10,38 @@ Hey, so we're working on this research project for a client. It's a research pro
 
 Here’s a plan that keeps your client updated in a creative way while minimizing your time spent on it:
 
-### **Creative Update Methods (Low Effort, High Engagement)**  
+### **Creative Update Methods (Low Effort, High Engagement)**
 
-1. **AI-Generated Podcast (Like Notebook, but More Controlled)**  
-   - Use AI voice tools (like **ElevenLabs, Descript, or Play.ht**) to create engaging audio updates.  
-   - You can use **ChatGPT or Claude** to script a back-and-forth discussion, keeping it concise and engaging.  
-   - Structure: One "host" (you) and one "AI analyst" discussing progress, insights, or challenges.  
+1. **AI-Generated Podcast (Like Notebook, but More Controlled)**
+   - Use AI voice tools (like **ElevenLabs, Descript, or Play.ht**) to create engaging audio updates.
+   - You can use **ChatGPT or Claude** to script a back-and-forth discussion, keeping it concise and engaging.
+   - Structure: One "host" (you) and one "AI analyst" discussing progress, insights, or challenges.
 
-2. **Weekly “Story-style” Email or WhatsApp Update**  
-   - Instead of a boring report, craft updates as a **story or analogy**.  
-   - Example: **“This week’s research felt like assembling a puzzle where one missing piece finally clicked. Here’s what we uncovered…”**  
-   - Use **ChatGPT’s TL;DR mode** to summarize key points in an engaging way.  
+2. **Weekly “Story-style” Email or WhatsApp Update**
+   - Instead of a boring report, craft updates as a **story or analogy**.
+   - Example: **“This week’s research felt like assembling a puzzle where one missing piece finally clicked. Here’s what we uncovered…”**
+   - Use **ChatGPT’s TL;DR mode** to summarize key points in an engaging way.
 
-3. **AI-Generated Visuals or Data Snapshots**  
-   - Create quick visuals using **Beautiful.ai, Canva, or Notion AI** to turn insights into digestible, engaging slides.  
-   - **Lumen5** can turn research updates into a short video with subtitles.  
+3. **AI-Generated Visuals or Data Snapshots**
+   - Create quick visuals using **Beautiful.ai, Canva, or Notion AI** to turn insights into digestible, engaging slides.
+   - **Lumen5** can turn research updates into a short video with subtitles.
 
-4. **“Text Chat” Style Updates**  
-   - Format the update as a **fake chat screenshot** where two personas (you + AI) discuss progress.  
-   - Example tools: **ChatGPT (to generate dialogues), Poe, or any fake text generator.**  
+4. **“Text Chat” Style Updates**
+   - Format the update as a **fake chat screenshot** where two personas (you + AI) discuss progress.
+   - Example tools: **ChatGPT (to generate dialogues), Poe, or any fake text generator.**
 
-5. **“Field Notes” Style Blog Post (Auto-Generated)**  
-   - Post updates as **quick research logs** on a Notion or Medium page, keeping it conversational.  
-   - **Typefully, Substack, or even a simple Google Docs with commenting enabled** can work.  
+5. **“Field Notes” Style Blog Post (Auto-Generated)**
+   - Post updates as **quick research logs** on a Notion or Medium page, keeping it conversational.
+   - **Typefully, Substack, or even a simple Google Docs with commenting enabled** can work.
 
 ---
 
-### **Tools for Podcast-Style Updates (More Control Than Notebook)**  
+### **Tools for Podcast-Style Updates (More Control Than Notebook)**
 
-1. **Descript** – Lets you edit text to change the script and generate AI voiceovers.  
-2. **ElevenLabs** – High-quality AI voices with emotion and control over pacing.  
-3. **Play.ht** – Offers lifelike AI voice conversations with customizable dialogue.  
-4. **Podcastle** – Converts text into podcast-style dialogues and allows some control over scripting.  
-5. **Runway AI (for video with voiceover)** – Auto-generates talking head videos for updates.  
+1. **Descript** – Lets you edit text to change the script and generate AI voiceovers.
+2. **ElevenLabs** – High-quality AI voices with emotion and control over pacing.
+3. **Play.ht** – Offers lifelike AI voice conversations with customizable dialogue.
+4. **Podcastle** – Converts text into podcast-style dialogues and allows some control over scripting.
+5. **Runway AI (for video with voiceover)** – Auto-generates talking head videos for updates.
 
 Would you like me to draft a sample 2-minute update using one of these formats?
-

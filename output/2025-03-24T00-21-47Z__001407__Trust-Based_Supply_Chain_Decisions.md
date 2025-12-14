@@ -149,16 +149,16 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:**  
+- **Key Themes:**
   The paper centers on how trust-based decision making—particularly in trust-sensitive order allocation—affects the dynamics and stability of pharmaceutical supply chains under disruption. It examines the interplay between buyer–supplier interactions, oscillatory trust updates, and the resulting cost implications.
 
-- **Core Motivations:**  
+- **Core Motivations:**
   Driven by the critical need to address drug shortages and supply chain instability, the research investigates how decision makers’ reliance on trust metrics can both mitigate and exacerbate disruption impacts. This is particularly relevant for industries facing unpredictable supply constraints and operational risks.
 
-- **Methodological Clarification:**  
+- **Methodological Clarification:**
   Employing a multiagent simulation framework enhanced with Theory-of-Mind reasoning, the study models interactions among manufacturers, distributors, and healthcenters. It systematically varies the trust update sensitivity (δ) and disruption profiles (short, moderate, and long) to analyze how these factors jointly influence supply chain performance.
 
-- **Relevance Assessment:**  
+- **Relevance Assessment:**
   The findings offer actionable insights for executives by challenging conventional trust-based ordering practices. The research underscores the importance of calibrating decision parameters to the specific nature of disruptions, thereby informing strategic risk management and resilience planning.
 
 ## Grounded Executive Insights
@@ -167,54 +167,54 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Insight 1: Trust-Sensitive Buyer Disadvantage
 
-1. **Insight Statement:**  
+1. **Insight Statement:**
    "In disrupted supply chains, reliance on trust-based order allocation can backfire—triggering oscillatory demand patterns and increasing overall costs compared to more stable, equal-split ordering strategies." **[Empirical]**
 
-2. **Executive Decision-Making Context:**  
-   - **Strategic Dilemma:** Decision makers must choose between adapting orders based on perceived trustworthiness versus maintaining consistent, stable ordering to mitigate the risk of cost volatility.  
-   - **Underlying Beliefs & Biases:** There is a tendency to overvalue recent trust signals, leading to reactive adjustments that may destabilize the supply chain.  
-   - **Expected vs. Actual Outcomes:** Although trust-based ordering is intended to secure better supplier performance, the simulation shows that it can induce cyclical disruptions and higher costs—contrary to its presumed benefits.  
-   - **Broader Implications:** Executives should reconsider the reliance on dynamic trust metrics in volatile contexts and explore more balanced, data-driven ordering policies.  
+2. **Executive Decision-Making Context:**
+   - **Strategic Dilemma:** Decision makers must choose between adapting orders based on perceived trustworthiness versus maintaining consistent, stable ordering to mitigate the risk of cost volatility.
+   - **Underlying Beliefs & Biases:** There is a tendency to overvalue recent trust signals, leading to reactive adjustments that may destabilize the supply chain.
+   - **Expected vs. Actual Outcomes:** Although trust-based ordering is intended to secure better supplier performance, the simulation shows that it can induce cyclical disruptions and higher costs—contrary to its presumed benefits.
+   - **Broader Implications:** Executives should reconsider the reliance on dynamic trust metrics in volatile contexts and explore more balanced, data-driven ordering policies.
    **[Empirical]**
 
-3. **Supporting Context:**  
-   Simulation results reveal that when healthcenters adjust orders based on fluctuating trust assessments (as seen in scenarios comparing Trust HC versus Equal HC), the trust-sensitive buyer can incur up to a 41% cost increase. This counterintuitive outcome underscores the risk of instability when trust signals lead to overreactive ordering behavior.  
+3. **Supporting Context:**
+   Simulation results reveal that when healthcenters adjust orders based on fluctuating trust assessments (as seen in scenarios comparing Trust HC versus Equal HC), the trust-sensitive buyer can incur up to a 41% cost increase. This counterintuitive outcome underscores the risk of instability when trust signals lead to overreactive ordering behavior.
    **[Empirical]**
 
 ---
 
 ### Insight 2: Sensitivity Factor δ's Role in Mitigating Volatility
 
-1. **Insight Statement:**  
+1. **Insight Statement:**
    "The calibration of the sensitivity factor (δ) in trust updates is pivotal—lower δ values can stabilize ordering behavior during disruptions, while higher δ values may amplify cost volatility due to exaggerated reactions to recent performance changes." **[Empirical]**
 
-2. **Executive Decision-Making Context:**  
-   - **Strategic Dilemma:** Leaders must determine the optimal balance between being responsive to supplier performance and avoiding excessive order variability that can worsen disruption impacts.  
-   - **Underlying Beliefs & Biases:** There is often an assumption that rapid adjustment (high δ) will immediately improve performance, yet this may inadvertently increase system instability.  
-   - **Expected vs. Actual Outcomes:** Rather than uniformly enhancing performance, a high sensitivity factor can lead to pronounced oscillations in trust measures and order quantities, whereas a moderated sensitivity fosters steadier operations.  
-   - **Broader Implications:** Strategic calibration of trust update parameters is critical; executives should adjust δ based on the specific disruption profile to avoid unintended destabilization.  
+2. **Executive Decision-Making Context:**
+   - **Strategic Dilemma:** Leaders must determine the optimal balance between being responsive to supplier performance and avoiding excessive order variability that can worsen disruption impacts.
+   - **Underlying Beliefs & Biases:** There is often an assumption that rapid adjustment (high δ) will immediately improve performance, yet this may inadvertently increase system instability.
+   - **Expected vs. Actual Outcomes:** Rather than uniformly enhancing performance, a high sensitivity factor can lead to pronounced oscillations in trust measures and order quantities, whereas a moderated sensitivity fosters steadier operations.
+   - **Broader Implications:** Strategic calibration of trust update parameters is critical; executives should adjust δ based on the specific disruption profile to avoid unintended destabilization.
    **[Empirical]**
 
-3. **Supporting Context:**  
-   Empirical evidence from the simulation indicates that reducing δ from 0.5 to lower values (e.g., 0.05) significantly dampens oscillations in trust and order volumes. This stabilization effect translates into lower overall costs, highlighting the need for a measured, context-dependent approach to trust sensitivity.  
+3. **Supporting Context:**
+   Empirical evidence from the simulation indicates that reducing δ from 0.5 to lower values (e.g., 0.05) significantly dampens oscillations in trust and order volumes. This stabilization effect translates into lower overall costs, highlighting the need for a measured, context-dependent approach to trust sensitivity.
    **[Empirical]**
 
 ---
 
 ### Insight 3: Non-linear Impact of Disruption Profiles on Costs
 
-1. **Insight Statement:**  
+1. **Insight Statement:**
    "The relationship between disruption duration and supply chain costs is non-linear; moderate disruptions can result in higher overall costs than either short or long disruptions due to a misalignment in the timing of order adjustments and supplier production responses." **[Empirical]**
 
-2. **Executive Decision-Making Context:**  
-   - **Strategic Dilemma:** Decision makers face the challenge of managing risk in an environment where disruption effects do not scale linearly, complicating the development of straightforward mitigation strategies.  
-   - **Underlying Beliefs & Biases:** A common assumption is that longer disruptions invariably lead to higher costs; however, this study reveals that the timing and intensity of disruptions can produce unexpected cost dynamics.  
-   - **Expected vs. Actual Outcomes:** Rather than a smooth increase in costs with disruption length, the simulation shows that moderate disruptions induce the highest cost surges due to delayed adjustments in order fulfillment and product flow.  
-   - **Broader Implications:** Executives must integrate non-linear risk assessments into their planning processes and tailor mitigation strategies to the specific temporal characteristics of each disruption scenario.  
+2. **Executive Decision-Making Context:**
+   - **Strategic Dilemma:** Decision makers face the challenge of managing risk in an environment where disruption effects do not scale linearly, complicating the development of straightforward mitigation strategies.
+   - **Underlying Beliefs & Biases:** A common assumption is that longer disruptions invariably lead to higher costs; however, this study reveals that the timing and intensity of disruptions can produce unexpected cost dynamics.
+   - **Expected vs. Actual Outcomes:** Rather than a smooth increase in costs with disruption length, the simulation shows that moderate disruptions induce the highest cost surges due to delayed adjustments in order fulfillment and product flow.
+   - **Broader Implications:** Executives must integrate non-linear risk assessments into their planning processes and tailor mitigation strategies to the specific temporal characteristics of each disruption scenario.
    **[Empirical]**
 
-3. **Supporting Context:**  
-   Data from the simulation—particularly scenario S5—demonstrates that moderate disruptions lead to disproportionate cost increases compared to short or long disruptions. This is driven by the delayed increase in product flow and persistent oscillations in trust metrics, underscoring the complex interplay of timing and response in disrupted environments.  
+3. **Supporting Context:**
+   Data from the simulation—particularly scenario S5—demonstrates that moderate disruptions lead to disproportionate cost increases compared to short or long disruptions. This is driven by the delayed increase in product flow and persistent oscillations in trust metrics, underscoring the complex interplay of timing and response in disrupted environments.
    **[Empirical]**
 
 ---
@@ -469,21 +469,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -496,4 +496,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T00:24:21.353099+00:00)
 
 Doroudi, R., Sequeira, P., Marsella, S., Ergun, O., Azghandi, R., Kaeli, D., Sun, Y., & Griffin, J. (2020). Effects of trust-based decision making in disrupted supply chains. *PLOS ONE, 15*(2), e0224761. https://doi.org/10.1371/journal.pone.0224761
-

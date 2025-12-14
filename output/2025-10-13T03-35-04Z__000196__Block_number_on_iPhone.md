@@ -31,4 +31,3 @@ Here’s how to block a number on your iPhone:
 Once blocked, you won’t receive calls, texts, or FaceTime from that number.
 
 Want to check all your blocked numbers or unblock someone? I can walk you through that too.
-

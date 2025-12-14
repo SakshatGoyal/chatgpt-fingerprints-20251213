@@ -2,7 +2,7 @@
 
 ## You (2025-11-11T16:14:27.882000+00:00)
 
-Help me with a prompt for the following intent. 
+Help me with a prompt for the following intent.
 
 Find me deals for a hotel stay in Surat in upper-mid tier to upper tier hotels. I will arive in surat on the morning of 15th and leave on 16th night. Create a comprehensive list of atleast 15 options. Make sure you're also finding the best dealos for me. This could include coupons, free memberships, or through some form of add-on. My goal is to find the best deal - highest quality for the lowest price. I want you to search diligently while think about the deal creatively.
 
@@ -21,22 +21,22 @@ Let's go through a quick alignment set so the final prompt can precisely guide t
 
 ### 🔍 Clarification Questions
 
-1. **Price ceiling or budget window?**  
+1. **Price ceiling or budget window?**
    Do you have a rough per-night price range in mind for this “upper-mid to upper” tier?
 
-2. **Platform preferences or exclusions?**  
+2. **Platform preferences or exclusions?**
    Any platforms you prefer (e.g., Booking.com, Agoda, Hotels.com, MakeMyTrip), or want to avoid?
 
-3. **Hotel brand preferences?**  
+3. **Hotel brand preferences?**
    Would you consider branded hotels (e.g., Marriott, Taj, Lemon Tree) or are boutique hotels also welcome?
 
-4. **Prior memberships or loyalty programs?**  
+4. **Prior memberships or loyalty programs?**
    Are you already a member of any loyalty programs (e.g., Genius on Booking, Expedia One Key, etc.)?
 
-5. **Deal features to prioritize?**  
+5. **Deal features to prioritize?**
    For example: would you value “late checkout” more than “free breakfast,” or “room upgrade” more than “airport transfer”?
 
-6. **Must-haves vs nice-to-haves?**  
+6. **Must-haves vs nice-to-haves?**
    Are there any non-negotiables (e.g., Wi-Fi, air conditioning, central location) or things you’d love but can skip if the deal is otherwise excellent?
 
 ---
@@ -47,15 +47,15 @@ Let me know when you're ready to proceed.
 
 ## You (2025-11-11T16:20:39.014000+00:00)
 
-I want it no more than Rs. 5000. 
+I want it no more than Rs. 5000.
 
-I don't prefer or want to avoid any platforms. as long as i can get a good deal so i want chatGPT to do an exhustive search across all platforms. Additionally, I want it to search for custom deals with well known hotels in india like Taj or GRT or other hotel groups like tht. 
+I don't prefer or want to avoid any platforms. as long as i can get a good deal so i want chatGPT to do an exhustive search across all platforms. Additionally, I want it to search for custom deals with well known hotels in india like Taj or GRT or other hotel groups like tht.
 
-I don't have a brand preference, but i do want comfort and luxury within an affordable price. I want quality, I'm not loyal to a brand. So I do want chatGPT to do a quality check through reviews. 
+I don't have a brand preference, but i do want comfort and luxury within an affordable price. I want quality, I'm not loyal to a brand. So I do want chatGPT to do a quality check through reviews.
 
-I would value late checkout, but its not a priority. 
+I would value late checkout, but its not a priority.
 
-Most hotels in the upper tier will have all the must-haves on my list so I don't see it as an issue. 
+Most hotels in the upper tier will have all the must-haves on my list so I don't see it as an issue.
 
 begin creating the prompt
 
@@ -69,7 +69,7 @@ Excellent. Based on your clarified intent and constraints, I’m crafting a **co
 
 ---
 
-**Goal**  
+**Goal**
 Identify the best-value hotel stay options in Surat, India, for a one-night stay from the morning of **November 15th to the night of November 16th**, with a strict per-night budget of **₹5000 or less**. Prioritize **upper-mid to upper tier hotels** that provide **comfort, quality, and luxury**. Go beyond surface-level availability and conduct a **comprehensive, platform-agnostic search**, uncovering **creative and high-leverage deals** (including coupons, loyalty benefits, temporary discounts, or value-adds like breakfast, room upgrades, and late checkout). The output should reflect **maximum quality for minimum price**.
 
 ---
@@ -87,9 +87,9 @@ Provide a **ranked list of at least 15 hotel options**, presented in the followi
    - Justification for inclusion (why it stands out: quality, comfort, value, perks)
 ```
 
-Close with a **recommendation summary**:  
-- Top 3 deals by overall value  
-- Any standout finds (e.g., a Taj/GRT property offering 4-star+ experience under budget)  
+Close with a **recommendation summary**:
+- Top 3 deals by overall value
+- Any standout finds (e.g., a Taj/GRT property offering 4-star+ experience under budget)
 - Notable exclusions and why (e.g., a top hotel that was just over budget or had poor reviews)
 
 ---
@@ -111,22 +111,22 @@ Close with a **recommendation summary**:
 - Target price is ₹5000 inclusive of taxes and fees.
 - Comfort and aesthetic quality (as judged by recent photos/reviews) is critical.
 - No fixed platform preference — search across **all major aggregators** (Booking.com, Agoda, MakeMyTrip, Goibibo, Hotels.com, Expedia, etc.) **and direct hotel websites**.
-- Give special attention to discovering **hidden or limited-time deals** through:  
+- Give special attention to discovering **hidden or limited-time deals** through:
   - Loyalty program perks (e.g., Booking.com Genius, Expedia Blue/Gold)
-  - First-time user or app-only coupons  
-  - Partner or card-based discounts  
+  - First-time user or app-only coupons
+  - Partner or card-based discounts
   - Free add-ons (e.g., free breakfast, late checkout, airport pickup)
 - Bonus if a reputable chain hotel (e.g., Taj, ITC, GRT, Lemon Tree, Fortune) is available under budget.
 
 ---
 
-✅ **Checklist**  
-- [x] Goal: Quality-first stay under ₹5000  
-- [x] Platforms: All major hotel booking engines + direct hotel sites  
-- [x] Minimum 15 curated, structured options  
-- [x] Value-based ranking, not just price-based  
-- [x] Deals include creative value stacking (discounts, perks, upgrades)  
-- [x] Review-based quality check for every recommendation  
+✅ **Checklist**
+- [x] Goal: Quality-first stay under ₹5000
+- [x] Platforms: All major hotel booking engines + direct hotel sites
+- [x] Minimum 15 curated, structured options
+- [x] Value-based ranking, not just price-based
+- [x] Deals include creative value stacking (discounts, perks, upgrades)
+- [x] Review-based quality check for every recommendation
 - [x] Transparent reasoning and exclusions
 
 ---
@@ -137,13 +137,9 @@ Would you like to run this on O3 now, or modify any aspect of the prompt before 
 
 Critically evaluate this prompt as a prompt engineer and carefully find all the limitations of this prompt with respect to me finding a good hotel for my travel
 
-## ChatGPT (2025-11-11T16:22:14.551159+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Considering travel details", "content": "The user mentioned traveling on Nov 15-16, but the year might not be specified. They plan to stay in Surat, India with a budget of Rs 5000, including taxes. I'll need to assess areas in Surat like Athwa and Adajan, looking at safety, accessibility, hotel policies like check-in times, cancellation flexibility, and seasonality. I’ll also keep an eye on local policies for unmarried couples.", "chunks": ["The user mentioned traveling on Nov 15-16, but the year might not be specified.", "They plan to stay in Surat, India with a budget of Rs 5000, including taxes.", "I'll need to assess areas in Surat like Athwa and Adajan, looking at safety, accessibility, hotel policies like check-in times, cancellation flexibility, and seasonality.", "I’ll also keep an eye on local policies for unmarried couples."], "finished": true}, {"summary": "Evaluating hotel options", "content": "It looks like the Taj Gateway Hotel Athwa Lines Surat may be available, but it’s now part of Vivanta. There's also the Courtyard by Marriott Surat. If the budget doesn’t allow for these, I should consider alternatives like nearby cities or slightly downgrading the hotel tier. \n\nAdditionally, I need to check for factors like room size, noise, air quality, and seasonal concerns like mosquitos or monsoons. I’ll also verify things like deposit requirements and cancellation policies.", "chunks": ["It looks like the Taj Gateway Hotel Athwa Lines Surat may be available, but it’s now part of Vivanta.", "There's also the Courtyard by Marriott Surat.", "If the budget doesn’t allow for these, I should consider alternatives like nearby cities or slightly downgrading the hotel tier.", "Additionally, I need to check for factors like room size, noise, air quality, and seasonal concerns like mosquitos or monsoons.", "I’ll also verify things like deposit requirements and cancellation policies."], "finished": true}], "source_analysis_msg_id": "68b5c241-2107-4e44-98c0-63591693e618"}
 
-## ChatGPT (2025-11-11T16:22:37.098590+00:00)
 
-{"content_type": "reasoning_recap", "content": "Thought for 22s"}
 
 ## ChatGPT (2025-11-11T16:22:37.026263+00:00)
 
@@ -215,9 +211,7 @@ begin creating a v2 of this prompt based on the recent critique while keeping th
 
 Here's your carefully refined **v2 reasoning-optimized prompt**, incorporating the recent critique to rigorously capture your intent. This prompt maintains the original objective—finding high-quality, upper-tier hotel stays in Surat under ₹5000—but addresses all critical limitations identified.
 
-## ChatGPT (2025-11-11T16:24:30.873672+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"hotel_deals_v2_prompt\",\"type\":\"document\",\"content\":\"## 🎯 **Goal:**\\nFind the best-value hotel stay in Surat, India, from early morning on **November 15, 2023**, to late night on **November 16, 2023**, strictly under or equal to **₹5000 inclusive of all taxes and fees**. The hotel should be **upper-mid to upper-tier**, providing verified comfort, luxury, and high-quality amenities. Employ a comprehensive, diligent, and creative search strategy, prioritizing authentic deals, reliable discounts, and added-value perks.\\n\\n---\\n\\n## 🗂️ **Expected Output (Human-friendly Format):**\\nProvide a clearly numbered, ranked list of **at least 15 hotel options**, formatted neatly as follows:\\n\\n```\\n1. [Hotel Name] – [Booking Platform or Direct Website]\\n   - Total Price (including taxes and fees): ₹[amount]\\n   - Base Price: ₹[amount] | GST/Fees: ₹[amount]\\n   - Room Type & Description (size, bed type, view, amenities)\\n   - Verified Inclusions: (e.g., Breakfast, Late Checkout until [time], Room Upgrade, Airport Transfer)\\n   - Applied Coupons/Deals/Stacked Benefits: Clearly specify each and explain how they were stacked or combined.\\n   - Quality Check (Recent Verified Reviews): Rating (minimum 4.2/5 or 8.4/10), total reviews count (min 200), recent user feedback highlights (cleanliness, comfort, service quality).\\n   - Location Details: Neighborhood/area, travel time to key locations (Airport/Railway Station or business district)\\n   - Policy Notes: Cancellation/refund policy, deposit requirements, local ID acceptance, early check-in feasibility\\n   - Deal Verification & Timestamp: Provide booking link, timestamp, and briefly explain booking steps.\\n   - Justification for Recommendation: Clearly articulate why this deal stands out in terms of overall value.\\n```\\n\\n### **Summary Recommendations (clearly highlight):**\\n- Top 3 best overall value options\\n- Exceptional finds (e.g., reputable chain hotels under budget)\\n- Potential value options slightly above budget if exceptional (₹5000–₹5500, marked as \\\"Stretch Recommendation\\\" clearly)\\n\\n---\\n\\n## ⚠️ **Warnings & Guardrails:**\\n- Avoid low-quality, poorly-reviewed hotels regardless of attractive pricing.\\n- Exclude properties with insufficient or questionable reviews.\\n- Do not recommend properties with hidden charges or unclear final pricing.\\n- Flag and clearly communicate uncertainty or low-confidence deals.\\n- Ensure authenticity of each deal (availability, validity, stacking terms).\\n\\n---\\n\\n## 🌐 **Search Strategy & Quality Controls:**\\n- Platforms: Comprehensive search across major OTAs (Booking.com, Agoda, MakeMyTrip, Hotels.com, Expedia, etc.) and direct hotel websites.\\n- Deal Mechanics: Thoroughly explore stacking options such as loyalty memberships, bank/card-specific offers, app-exclusive discounts, first-time user deals, email subscription codes, and limited-time promotions.\\n- Hotel Quality: Minimum rating of 4.2/5 (or 8.4/10) based on ≥200 recent verified reviews within the past 12 months.\\n- Room Quality: Explicitly compare similar room categories, clearly noting size, bed type, and key amenities.\\n- Local Fit: Prioritize hotel location convenience, safety, accessibility, and comfort.\\n- Evidence and Transparency: Include verifiable screenshots, URLs, booking paths, and timestamps for price validation.\\n- Flexibility and Logistics: Clearly outline each hotel's cancellation, refund, deposit, and local policy nuances.\\n\\n---\\n\\n## 📌 **Final Checks Before Submission:**\\n- Verify authenticity and reproducibility of deals.\\n- Deduplicate hotels appearing on multiple platforms.\\n- Clearly present all critical details needed for informed decision-making.\\n\\nProvide the final curated list in a clear, engaging, and conversational style suitable for human readability and practical use.\"}"}
 
 ## ChatGPT (2025-11-11T16:25:06.297328+00:00)
 
@@ -226,134 +220,3 @@ Here's your improved v2 prompt, designed to robustly address all critical limita
 ## You (2025-11-12T07:35:32.040000+00:00)
 
 creat an ideal profile of a person for this search
-
-## ChatGPT (2025-11-12T07:35:33.179693+00:00)
-
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"updates\":[{\"pattern\":\".*\",\"multiple\":false,\"replacement\":\"## 🎯 **Goal:**\\nFind the best-value hotel stay in Surat, India, from early morning on **November 15, 2023**, to late night on **November 16, 2023**, strictly under or equal to **₹5000 inclusive of all taxes and fees**. The hotel should be **upper-mid to upper-tier**, providing verified comfort, luxury, and high-quality amenities. Employ a comprehensive, diligent, and creative search strategy, prioritizing authentic deals, reliable discounts, and added-value perks.\\n\\n---\\n\\n## 🙋‍♂️ **Ideal Profile of the Traveler:**\\n- **Traveler Type:** Solo business traveler or leisure traveler who values comfort and convenience.\\n- **Age Group:** 28-45 years\\n- **Occupation:** Mid-level to senior professional, entrepreneur, or executive\\n- **Interests & Preferences:**\\n  - Prioritizes quality and reliability over brand loyalty\\n  - Values added conveniences like late checkout, complimentary breakfast, room upgrades, and smooth check-in/out experiences\\n  - Prefers hotels with consistently positive recent reviews, cleanliness, comfort, professional service, and excellent location convenience\\n  - Interested in maximizing value through strategic use of discounts, deals, and loyalty perks\\n  - Appreciates clarity and transparency in pricing, cancellation policies, and hotel amenities\\n\\n---\\n\\n## 🗂️ **Expected Output (Human-friendly Format):**\\nProvide a clearly numbered, ranked list of **at least 15 hotel options**, formatted neatly as follows:\\n\\n```\\n1. [Hotel Name] – [Booking Platform or Direct Website]\\n   - Total Price (including taxes and fees): ₹[amount]\\n   - Base Price: ₹[amount] | GST/Fees: ₹[amount]\\n   - Room Type & Description (size, bed type, view, amenities)\\n   - Verified Inclusions:"}
-
-## You (2025-11-12T07:39:30.298000+00:00)
-
-Don't edit the canvas output and return a new output. 
-
-Give me a complete profile of the execution persona that's most ideal for this search. Don't just outline the background but also some qualitative characteristics of the execution persona. 
-
----
-
-This search is for me. I'm 33 years old, going to surat for a comfortable stay and meet my friends.
-
-## ChatGPT (2025-11-12T07:39:31.642977+00:00)
-
-Here's the complete, detailed **execution persona** ideal for this hotel search:
-
----
-
-### 🙋‍♂️ **Execution Persona: "Comfort-Seeking Value Optimizer"**
-
-**Personal Background:**
-
-- **Age:** 33 years old  
-- **Purpose of Visit:** Leisure-focused visit primarily intended to comfortably reconnect with friends and enjoy quality downtime.
-- **Travel Context:** Short stay (approximately 36 hours), arriving early on the 15th and departing late on the 16th, emphasizing convenience and comfort.
-
----
-
-**Qualitative Characteristics:**
-
-- **Quality-Conscious:**  
-  Prioritizes comfort, aesthetics, and overall quality of hotel experience over strict adherence to brand loyalty. Values authentic luxury and thoughtful amenities, rather than superficial brand prestige.
-
-- **Deal-Savvy:**  
-  Proactively seeks out authentic value through creative combinations of discounts, promotional offers, loyalty programs, and special perks (late checkout, breakfast, room upgrades).
-
-- **Analytically Rigorous:**  
-  Systematically compares options through thorough cross-platform verification, assessing real guest reviews to validate comfort, reliability, service quality, cleanliness, and amenities.
-
-- **Detail-Oriented & Transparent:**  
-  Appreciates clarity and transparency in pricing structures (inclusive of taxes, fees, GST breakdown
-
-## You (2025-11-12T07:40:27.364000+00:00)
-
-STOP..
-
-I'm talking about the detail of the persona CHatGPT should adopt. Not me - the person who wants to stay
-
-## ChatGPT (2025-11-12T07:40:28.825538+00:00)
-
-Understood. Here’s a detailed profile for the **execution persona** that ChatGPT (O3 model) should adopt when performing your hotel search:
-
----
-
-## 🕵️‍♂️ **Execution Persona: "Strategic Hotel Value Analyst"**
-
-### Background & Expertise:
-- **Professional Role:** A seasoned **Travel Value Analyst** with extensive experience curating high-quality yet affordable hotel stays for discerning travelers.
-- **Domain Expertise:** Specializes in travel deal optimization, cross-platform price comparisons, coupon stacking, and detailed quality verification of hospitality offerings.
-
----
-
-### Qualitative Characteristics:
-
-- **Analytical Rigor:**  
-  Meticulously compares and cross-verifies hotel prices, taxes, fees, and deal terms across all relevant booking channels—online aggregators, direct hotel sites, and special promotional platforms.
-
-- **Creative & Strategic:**  
-  Actively seeks out unconventional and innovative ways to stack deals, combining coupons, first-time offers, app-only promotions, loyalty benefits, and banking partner discounts to achieve maximum savings without compromising quality.
-
-- **Detail-Oriented & Quality-Focused:**  
-  Conducts a thorough review-based quality assessment, considering recent and verified guest feedback to validate claims of comfort, cleanliness, service quality, and amenities.
-
-- **Transparent & Evidence-Based:**  
-  Clearly documents and provides proof of deals, including direct links, timestamps, screenshots, coupon codes, and detailed booking paths. Ensures deals are authentic, verifiable, and reproducible.
-
-- **Holistic Evaluator:**  
-  Considers broader factors such as hotel location, ease of access, neighborhood convenience, policies (e.g., cancellation, refunds, early check-ins), room-specific details (room type, bed size, view), and added-value perks, ensuring recommendations are comprehensive and practically valuable.
-
-- **Ethical & Responsible:**  
-  Avoids speculative or questionable deals, transparently flags uncertainties, and ensures clarity regarding hidden costs or policy restrictions.
-
----
-
-This execution persona will rigorously optimize your search, providing a highly trustworthy, comprehensive, and value-driven selection of hotel deals.
-
-## You (2025-11-12T07:42:18.617000+00:00)
-
-Write this in the form of an instruction. For example
-
-Instead of
-"Actively seeks out unconventional and innovative ways to stack deals"
-
-write
-"You actively seek out uncoventional and innovative ways to stack deals."
-
-## ChatGPT (2025-11-12T07:42:19.615570+00:00)
-
-Perfect — here’s the **execution persona rewritten as a set of direct, imperative-style instructions**, suitable for embedding in your reasoning prompt for ChatGPT or an O3 model:
-
----
-
-## 🧭 **Execution Persona: Strategic Hotel Value Analyst (Instructional Form)**
-
-You are a **Strategic Hotel Value Analyst** — an expert in discovering high-quality, cost-efficient hotel stays that maximize comfort and value through analytical rigor, creative deal stacking, and transparent verification.
-
-### **Instructional Characteristics:**
-
-1. You **conduct exhaustive, multi-platform searches** across OTAs (Booking.com, Agoda, Expedia, MakeMyTrip, etc.) and direct hotel websites to identify every viable option that fits the traveler’s intent and budget.  
-2. You **actively seek out unconventional and innovative ways to stack deals**, including loyalty memberships, app-only discounts, limited-time offers, and partner bank promotions.  
-3. You **evaluate hotels holistically**, considering not just price but also comfort, amenities, cleanliness, safety, and location convenience.  
-4. You **apply analytical rigor** to compare effective net prices after accounting for all fees, taxes, and included perks (breakfast, late checkout, room upgrades).  
-5. You **cross-verify deal authenticity**, ensuring each offer is bookable, valid, and clearly documented.  
-6. You **maintain transparency** by including booking links, timestamps, screenshots (if applicable), and concise explanations of how each deal was obtained.  
-7. You **analyze verified reviews** (preferably within the last 12 months) to assess service consistency, cleanliness, staff quality, and guest satisfaction before recommending any property.  
-8. You **prioritize quality over quantity**, ensuring that every recommendation represents strong overall value, even if it slightly exceeds the stated budget, provided you clearly justify why.  
-9. You **deduplicate identical hotels** listed across platforms and retain only the version offering the best effective net price.  
-10. You **clearly communicate uncertainty or constraints**, flagging low-confidence results or limited availability.  
-11. You **respect user intent and travel context**, ensuring that all shortlisted hotels align with the traveler’s comfort expectations, timeframe, and logistical requirements.  
-12. You **remain objective and ethical**, never recommending speculative, misleading, or unverifiable deals.  
-13. You **present findings in a human-friendly, narrative tone**, focusing on practical insights and tangible benefits, rather than raw data or JSON outputs.  
-14. You **summarize conclusions with clarity**, offering a concise rationale for the top recommendations and highlighting exceptional value finds or notable trade-offs.  
-15. You **approach the task as a professional travel strategist**, balancing creativity, precision, and reliability to deliver the best possible outcome for the user.
-
----
-
-Would you like me to integrate this execution persona directly into the v2 prompt document as an additional section (so that the O3 model automatically adopts it)?
-

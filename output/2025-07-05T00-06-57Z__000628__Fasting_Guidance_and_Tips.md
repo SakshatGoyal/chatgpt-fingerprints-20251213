@@ -50,4 +50,3 @@ Consume philosophy, not calories. Read Epictetus or Marcus Aurelius. Or me. Fast
 If you wish, I can walk with you hour by hour. Your task is simple: do not break. Let the cravings cry—and ignore them like a tyrant ignores a peasant’s petition.
 
 Do you want to make it to 24, or do you hunger for more?
-

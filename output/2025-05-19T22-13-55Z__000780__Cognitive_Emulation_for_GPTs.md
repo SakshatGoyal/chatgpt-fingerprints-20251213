@@ -2,18 +2,18 @@
 
 ## You (2025-05-19T22:13:55.778000+00:00)
 
-I need your help refining the following prompt. 
+I need your help refining the following prompt.
 
-Basically, our main goal is to create custom GPTs that can emulate an individual's thought process, like Gandhi or Einstein. This is not about just invoking a person's name within a prompt; this is about truly deconstructing their thought process and emulating it through a custom GPT. 
+Basically, our main goal is to create custom GPTs that can emulate an individual's thought process, like Gandhi or Einstein. This is not about just invoking a person's name within a prompt; this is about truly deconstructing their thought process and emulating it through a custom GPT.
 
-So the first step was to try to figure out how thought processes can be deconstructed. And then we could really read through all of those and extract some kind of actionable takeaways from all of those. 
+So the first step was to try to figure out how thought processes can be deconstructed. And then we could really read through all of those and extract some kind of actionable takeaways from all of those.
 
 I want the instructions in two ways, and this is a sample set of instructions I used for another chat window bu t try to extract the core essence of what I'm trying to achieve with these instructions rather than take the literal meaning
 
 ---
 Takeaway structure:
 
-1: Defining constraints. 
+1: Defining constraints.
 Similar to architecture, where the site, context, and additional factors create a set of constraints, is like you to create a set of strong constraints that are almost like pitfalls to avoid. But don't think of these as negative constraints. Think of these constraints like defining directions for ideal outcome. Kinda like how windpaths are defined as constraints for a wind to achieve an ideal outcome.
 
 2. Improving efficiency.
@@ -23,22 +23,18 @@ These instructions would help find unique ways of improvement. While the earlier
 ----
 Current Prompt:
 
-I need you to analyse all the takeaways from all the papers in the list of papers I've given you. and compile them into a report with the following output. You need to follow a combination of inductive analysis while extracting takeaways  
-[paper title 1] 
-[actionable takeaway 1] 
-[short description] 
+I need you to analyse all the takeaways from all the papers in the list of papers I've given you. and compile them into a report with the following output. You need to follow a combination of inductive analysis while extracting takeaways
+[paper title 1]
+[actionable takeaway 1]
+[short description]
 
-... 
+...
 ... .
-..     
+..
 
 
-
-
-
-
-List of papers. 
-*   **Title:** Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior 
+List of papers.
+*   **Title:** Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior
 ...
 ...
 ...
@@ -67,9 +63,9 @@ You’re asking for:
 You're using this format:
 
 ```
-[paper title]  
-[actionable takeaway]  
-[short description]  
+[paper title]
+[actionable takeaway]
+[short description]
 ```
 
 **Q:** Do you want the takeaways categorized into the two frameworks you outlined (Constraints & Efficiency Enhancements), or is that your job later?
@@ -94,22 +90,22 @@ Once I get your thoughts on these, we’ll be ready to move into **Stage 2: Prom
 
 ## You (2025-05-19T22:24:16.634000+00:00)
 
-1. Actually, I don't know too much about what exactly the papers talk about. I just wanted to give you all the context so that we can find the most relevant takeaways from the papers, regardless of what they talk about, to our specific end goal. The objective is to learn. Some papers talk about AI, some about psychology, some about just random topics. I'm working under the assumption that this collection of papers will all have at least some knowledge that will be crucial for us. 
+1. Actually, I don't know too much about what exactly the papers talk about. I just wanted to give you all the context so that we can find the most relevant takeaways from the papers, regardless of what they talk about, to our specific end goal. The objective is to learn. Some papers talk about AI, some about psychology, some about just random topics. I'm working under the assumption that this collection of papers will all have at least some knowledge that will be crucial for us.
 
-2. The format was just a sample. I mean, I'm sure there might be papers that have way more than one takeaway (practical and actionable), and some might just have one slightly unimportant takeaway. At the moment, we're not ranking takeaways by quality, just trying to get together as much information as possible. 
-I think it would be good to gather the takeaways in the constraints and efficiency enhancement buckets. so I think the format I gave you might not be that good. I just wanted someway to add traceability so I know which paper some takeaway comes from, but that's ok I guess. 
+2. The format was just a sample. I mean, I'm sure there might be papers that have way more than one takeaway (practical and actionable), and some might just have one slightly unimportant takeaway. At the moment, we're not ranking takeaways by quality, just trying to get together as much information as possible.
+I think it would be good to gather the takeaways in the constraints and efficiency enhancement buckets. so I think the format I gave you might not be that good. I just wanted someway to add traceability so I know which paper some takeaway comes from, but that's ok I guess.
 
-3. I do want takeaways to be translated at a slightly abstract level, but I'm cautious about oversimplifying the takeaways. Usually, ChatGPT just turns really thoughtful, actionable, articulate, and practical takeaways into almost like generic punchlines, which removes the whole point of the endeavour. So lets do it in a very responsible way. 
+3. I do want takeaways to be translated at a slightly abstract level, but I'm cautious about oversimplifying the takeaways. Usually, ChatGPT just turns really thoughtful, actionable, articulate, and practical takeaways into almost like generic punchlines, which removes the whole point of the endeavour. So lets do it in a very responsible way.
 
-4. I do want an exhaustive extraction per paper. I think in the later prompts we'll explore some cross sectional synthesis of themes. 
+4. I do want an exhaustive extraction per paper. I think in the later prompts we'll explore some cross sectional synthesis of themes.
 
-5. If the papers conflict, that's fine. for now we're extracting information. If it lacks direct actionable content, its ok to infer, but tag it as such. 
+5. If the papers conflict, that's fine. for now we're extracting information. If it lacks direct actionable content, its ok to infer, but tag it as such.
 
 Use the appropriate persona. Begin crafting the prompt. in your response, give me only the prompt and nothing else.
 
 ## ChatGPT (2025-05-19T22:24:18.904863+00:00)
 
-Sure. Here's your refined prompt:  
+Sure. Here's your refined prompt:
 
 ---
 
@@ -148,7 +144,7 @@ For each paper:
 - Maintain a thoughtful, analytical tone and avoid slogans or clichés.
 
 List of Papers:
-* **Title:** Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior  
+* **Title:** Naturalistic Computational Cognitive Science: Towards generalizable models and theories that capture the full range of natural behavior
 ...
 ...
 ...
@@ -182,8 +178,8 @@ You're absolutely right to demand depth, nuance, and rigor. Let's critically dis
 
 **Consequence:**
 - The model may force-fit insights or default to superficial examples like:
-  - *Constraint: Bias is a problem.*  
-  - *Efficiency: Use models that reduce bias.*  
+  - *Constraint: Bias is a problem.*
+  - *Efficiency: Use models that reduce bias.*
   → Not useful.
 
 ---
@@ -268,14 +264,14 @@ Use the following structured method for each paper:
 #### Step 2: Extract and Classify Takeaways
 Divide takeaways into two categories:
 
-**A. Cognitive Constraints**  
+**A. Cognitive Constraints**
 These are structural or boundary conditions that govern how a mind frames or navigates reality. Examples:
 - Attentional limitations
 - Core biases or heuristics
 - Moral priors or perceptual framing devices
 - Environmental or social context as shaping cognition
 
-**B. Efficiency Enhancements**  
+**B. Efficiency Enhancements**
 These are rare, often non-obvious techniques that optimize cognitive output or clarity. Examples:
 - Thought shortcuts that retain depth
 - Reframing strategies under ambiguity
@@ -323,4 +319,3 @@ Within each category, include:
 
 ### FINAL NOTE:
 Prioritize comprehensiveness over brevity. Think like a cognitive systems engineer reverse-engineering a legendary mind—not like a summarizer. Every extracted element should serve the goal of enabling deep mental emulation.
-

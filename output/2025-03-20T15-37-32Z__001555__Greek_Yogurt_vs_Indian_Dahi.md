@@ -62,4 +62,3 @@ Dahi, or Indian curd, is fermented milk made using traditional starter cultures,
 - **Indian Dahi**: Unique due to its probiotic diversity, traditional homemade freshness, cultural integration, and versatility in savory dishes and beverages.
 
 Ultimately, your choice between the two depends on your nutritional needs, taste preference, culinary purpose, and cultural or dietary habits.
-

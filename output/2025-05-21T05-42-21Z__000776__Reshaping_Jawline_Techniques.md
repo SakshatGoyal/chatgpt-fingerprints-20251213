@@ -52,4 +52,3 @@ Even **subtle beard stubble**, strategic grooming, or a shadow under the jaw can
 ---
 
 Would you like a **vegetarian jawline-sculpting protocol** tailored for visible definition in 6–8 weeks, with anti-aging skin support as well?
-

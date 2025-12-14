@@ -17,7 +17,7 @@ Review the existing Sankey + Donut chart visualization codebase and return a ver
 •	The height must be **calculated dynamically at runtime** using the formula:
 
 > height = (16 / 9) * width
-> 
+>
 
 •	The Sankey chart must adjust height on both:
 
@@ -144,8 +144,6 @@ The Sankey diagram must visually distinguish between the following states:
 •	Inline comments where necessary to clarify logic changes.
 
 ---
-
-
 
 
 import pandas as pd
@@ -435,7 +433,7 @@ def dropdown_filter_block(col):
         html.Label(f"{col}:"),
         dcc.Dropdown(
             id=f'filter-{col}',
-            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())] 
+            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())]
                 if col in df_full.columns else [],
             multi=True,
             placeholder=f"Highlight by {col}..."
@@ -731,42 +729,42 @@ if __name__ == '__main__':
 
 ## ChatGPT (2025-04-07T15:21:57.321444+00:00)
 
-Below is an **updated version** of your Dash app code that implements all requested enhancements.  
-Comments in-line note the major changes for responsiveness, donut chart ordering/appearance,  
-tabular display of filtered rows, and Sankey color states.  
+Below is an **updated version** of your Dash app code that implements all requested enhancements.
+Comments in-line note the major changes for responsiveness, donut chart ordering/appearance,
+tabular display of filtered rows, and Sankey color states.
 
 ---
 
 ## Key Changes & Highlights
 
-1. **Responsive Sankey**  
-   - Uses a clientside callback to watch `window.innerWidth`.  
-   - Maintains a 16:9 aspect ratio:  
+1. **Responsive Sankey**
+   - Uses a clientside callback to watch `window.innerWidth`.
+   - Maintains a 16:9 aspect ratio:
      \[
        \text{height} = \frac{16}{9} \times \text{width}
      \]
    - Dynamically resizes on page load and window resize without breaking other Dash components.
 
-2. **Donut Chart Enhancements**  
-   - All arcs start at **12 o’clock** (via `startangle=90`) and draw **clockwise** (`direction='clockwise'`).  
-   - Segments are **sorted ascending by magnitude** (shortest arc first, then larger ones).  
-   - Unified **legend** with consistent color mappings across donut charts.  
+2. **Donut Chart Enhancements**
+   - All arcs start at **12 o’clock** (via `startangle=90`) and draw **clockwise** (`direction='clockwise'`).
+   - Segments are **sorted ascending by magnitude** (shortest arc first, then larger ones).
+   - Unified **legend** with consistent color mappings across donut charts.
 
-3. **Tabular Display of Filtered Rows**  
-   - Adds a `dash_table.DataTable` directly under the Sankey diagram.  
-   - Shows only rows that match the currently selected filter(s).  
-   - Displays all original columns.  
-   - Includes a caption with the row count (e.g. “12 rows match current filters”).  
-   - Scrolls if needed.  
+3. **Tabular Display of Filtered Rows**
+   - Adds a `dash_table.DataTable` directly under the Sankey diagram.
+   - Shows only rows that match the currently selected filter(s).
+   - Displays all original columns.
+   - Includes a caption with the row count (e.g. “12 rows match current filters”).
+   - Scrolls if needed.
 
-4. **Sankey Color States**  
-   - If **no filters** are active, all nodes and links use a single **default color**.  
-   - If **any filter** is active, nodes/links in the subset appear in **highlight color**,  
-     while the rest appear in a **muted** color.  
+4. **Sankey Color States**
+   - If **no filters** are active, all nodes and links use a single **default color**.
+   - If **any filter** is active, nodes/links in the subset appear in **highlight color**,
+     while the rest appear in a **muted** color.
 
-5. **Graceful Degradation & Accessibility**  
-   - Shows a simple “Please select at least 2 stages...” message if fewer than 2 columns chosen for Sankey.  
-   - No console errors on load, and default CSS ensures font/visual consistency.  
+5. **Graceful Degradation & Accessibility**
+   - Shows a simple “Please select at least 2 stages...” message if fewer than 2 columns chosen for Sankey.
+   - No console errors on load, and default CSS ensures font/visual consistency.
 
 ---
 
@@ -1381,39 +1379,39 @@ if __name__ == '__main__':
 
 ### Explanation of Major Updates
 
-1. **Responsive 16:9 Sankey**  
-   - We added a `dcc.Store(id='window-width')` that will hold the current browser width.  
-   - An `interval-resize` callback (or alternative) can update this store.  
-   - In the main callback, we read `window_width` and compute `height = (16/9) * window_width`.  
-   - We assign `height` to `fig.update_layout(...)`, ensuring the Sankey always keeps a 16:9 ratio.  
+1. **Responsive 16:9 Sankey**
+   - We added a `dcc.Store(id='window-width')` that will hold the current browser width.
+   - An `interval-resize` callback (or alternative) can update this store.
+   - In the main callback, we read `window_width` and compute `height = (16/9) * window_width`.
+   - We assign `height` to `fig.update_layout(...)`, ensuring the Sankey always keeps a 16:9 ratio.
 
-2. **Donut Chart Arc Ordering & Position**  
-   - We apply `startangle=90` and `direction='clockwise'` to place the first arc at 12 o’clock.  
-   - We explicitly sort the value counts ascending (`vc.sort_values(ascending=True)`) before building each `go.Pie`.  
-   - `sort=False` inside `go.Pie` ensures Plotly does not rearrange slices further.  
+2. **Donut Chart Arc Ordering & Position**
+   - We apply `startangle=90` and `direction='clockwise'` to place the first arc at 12 o’clock.
+   - We explicitly sort the value counts ascending (`vc.sort_values(ascending=True)`) before building each `go.Pie`.
+   - `sort=False` inside `go.Pie` ensures Plotly does not rearrange slices further.
 
-3. **Consistent Colors + Legend**  
-   - We define a global `DONUT_COLORS` palette and map slices in order.  
-   - `showlegend=True` on each Pie ensures we get a single combined legend.  
-   - We move the legend out of the way using `legend=dict(x=1.05, y=0.5)`.  
+3. **Consistent Colors + Legend**
+   - We define a global `DONUT_COLORS` palette and map slices in order.
+   - `showlegend=True` on each Pie ensures we get a single combined legend.
+   - We move the legend out of the way using `legend=dict(x=1.05, y=0.5)`.
 
-4. **Tabular Display**  
-   - A new `dash_table.DataTable` (ID = `filtered-table`) is placed below the Sankey.  
-   - The same callback that filters `df_highlight` passes `.to_dict("records")` into the table’s `data`.  
-   - All original columns are displayed via `table_cols = [{'name': c, 'id': c} for c in df_full.columns]`.  
-   - A label shows the row count with `f"{subset_row_count} rows match current filters"`.  
+4. **Tabular Display**
+   - A new `dash_table.DataTable` (ID = `filtered-table`) is placed below the Sankey.
+   - The same callback that filters `df_highlight` passes `.to_dict("records")` into the table’s `data`.
+   - All original columns are displayed via `table_cols = [{'name': c, 'id': c} for c in df_full.columns]`.
+   - A label shows the row count with `f"{subset_row_count} rows match current filters"`.
 
-5. **Sankey Highlight vs. Default**  
-   - If **no filters** are active, each link gets a single “default link color,” and each node a “default node color.”  
-   - If **filters** reduce the dataset (`df_highlight` < full set), we produce 2 sets of links: highlight (red) vs. remainder (gray).  
-   - The same logic applies to node colors.  
+5. **Sankey Highlight vs. Default**
+   - If **no filters** are active, each link gets a single “default link color,” and each node a “default node color.”
+   - If **filters** reduce the dataset (`df_highlight` < full set), we produce 2 sets of links: highlight (red) vs. remainder (gray).
+   - The same logic applies to node colors.
 
 With these changes, you should have an **interactive, responsive** Dash app that cleanly meets the requirements for:
 
-- (1) **Sankey resizing**,  
-- (2) **Donut chart arc orientation/ordering**,  
-- (3) **Filter-driven data table**,  
-- (4) **Color states** for default vs. highlighted data.  
+- (1) **Sankey resizing**,
+- (2) **Donut chart arc orientation/ordering**,
+- (3) **Filter-driven data table**,
+- (4) **Color states** for default vs. highlighted data.
 
 > **Note:** In a real deployment, you’ll likely use a true clientside callback or a dedicated JS snippet to read the actual `window.innerWidth` dynamically (instead of returning a fixed `1200`). Several Dash community examples demonstrate capturing window resize events; you can adapt those if needed.
 
@@ -1457,7 +1455,7 @@ In your terminal where the app is running, press:
 Ctrl + C
 ```
 
-That immediately stops the Dash server and halts all error messages.  
+That immediately stops the Dash server and halts all error messages.
 You can restart it later with:
 
 ```bash
@@ -1495,7 +1493,6 @@ Let me know what specific errors are showing up and I’ll walk you through fixi
 
 ## You (2025-04-07T15:26:12.629964+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-Tzo6pmzhEe6qhREpADVRrE', 'size_bytes': 495828, 'width': 573, 'height': 1259, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 this is the repeated error
 
 ## ChatGPT (2025-04-07T15:26:15.083654+00:00)
@@ -1523,7 +1520,7 @@ In your **terminal** (wherever you ran `python full_analyzer.py`), press:
 Ctrl + C
 ```
 
-This will stop the Dash server immediately.  
+This will stop the Dash server immediately.
 The browser will stop retrying callbacks once the server is no longer reachable.
 
 ---
@@ -1570,7 +1567,6 @@ Would you like help debugging the callback logic or cleaning up the client-side 
 
 ## You (2025-04-07T15:27:18.681081+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-8qHruxg7dV5f6ud3wWmx7f', 'size_bytes': 521372, 'width': 565, 'height': 1354, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 I'm now seeing this error. And since its an endless stream, i'm not able to pause and take a snapshot of the entire message
 
 ## ChatGPT (2025-04-07T15:27:20.056276+00:00)
@@ -1595,7 +1591,7 @@ You're using the property:
 startangle=90
 ```
 
-…but Plotly **doesn’t support `startangle`** in `go.Pie`.  
+…but Plotly **doesn’t support `startangle`** in `go.Pie`.
 The correct property name is:
 
 ```python
@@ -1691,8 +1687,8 @@ Input('window-width', 'data')
 1. **No useful window width data is coming in**.
 2. The app **keeps updating every 0.5 seconds**, causing:
 
-   - Constant callback reruns  
-   - Graph redraws  
+   - Constant callback reruns
+   - Graph redraws
    - Massive console spam
 
 ---
@@ -1755,7 +1751,6 @@ Let me know if you want to add true window size tracking later (with Dash Extens
 
 ## You (2025-04-07T15:30:45.857335+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-2furPzpF4DismaWBLV6Xiz', 'size_bytes': 280956, 'width': 1536, 'height': 921, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 I receive one additional error
 
 "Attempting to connect a callback Input item to component:
@@ -1867,16 +1862,15 @@ Let me know if you want to implement a **fully responsive resize solution** late
 
 ## You (2025-04-07T15:36:19.023726+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-L49MsCnFTNfeQmNwFREeoy', 'size_bytes': 112281, 'width': 634, 'height': 276, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 If i delete this line
 
 Input('window-width', 'data')
 
-the sankey disappears alltogether. So i'm leaving that as is. 
+the sankey disappears alltogether. So i'm leaving that as is.
 
 ---
 
-For your suggestion, Set height=720 in your Sankey layout and remove dynamic sizing. I set it to 750. However, while this reduced the overall height of the chart, which is good, I still see a bleed. 
+For your suggestion, Set height=720 in your Sankey layout and remove dynamic sizing. I set it to 750. However, while this reduced the overall height of the chart, which is good, I still see a bleed.
 
 Basically, the vertical size of everything is fine, just need to make sure nothing gets cropped.
 
@@ -1988,7 +1982,7 @@ DONUT_COLORS = [
 
 This will keep your arcs:
 
-- Visually consistent across charts  
+- Visually consistent across charts
 - Sorted from darkest (smallest slice) to lightest (largest slice)
 
 ---
@@ -2171,7 +2165,6 @@ Let me know if you want these labels styled differently (e.g. bold, uppercase, l
 
 ## You (2025-04-07T15:49:27.595054+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-WFZvCy9PobCP8YEeP95Ph9', 'size_bytes': 52653, 'width': 1536, 'height': 232, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 the annotations have completely disappeared
 
 ## ChatGPT (2025-04-07T15:49:28.966121+00:00)
@@ -2313,7 +2306,6 @@ Let me know if you want to center the **entire donut row** horizontally too — 
 
 ## You (2025-04-07T15:51:44.918780+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-1nYmQKLxCducFnCzWo9Kux', 'size_bytes': 54880, 'width': 1535, 'height': 205, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 ok see, they're not in the center of the donut chart. It seems they're more structured to be distributed evenly across the width of the page, rather than being at the center of the donut
 
 ## ChatGPT (2025-04-07T15:51:46.080432+00:00)
@@ -2373,7 +2365,6 @@ Let me know if you want to make the labels larger, bold, or uppercase next.
 
 ## You (2025-04-07T15:54:13.215093+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-Wx9T1W46w2F8CAVhpbsBaw', 'size_bytes': 259211, 'width': 1193, 'height': 1028, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 can we annotate the donut chart in this way, where the annotations apepar outside the donut instead of inside the arcs?
 
 ## ChatGPT (2025-04-07T15:54:14.312241+00:00)
@@ -2536,16 +2527,16 @@ could you rewrite this using hex codes instead of rgba?
 DEFAULT_NODE_COLOR = 'rgba(160,160,160,0.8)'
 
 # Link color when no filters are active
-DEFAULT_LINK_COLOR = 'rgba(160,160,160,0.3)'     
+DEFAULT_LINK_COLOR = 'rgba(160,160,160,0.3)'
 
 # Node color for highlight subset
-HIGHLIGHT_NODE_COLOR = 'rgba(180, 0, 35, 0.8)'  
+HIGHLIGHT_NODE_COLOR = 'rgba(180, 0, 35, 0.8)'
 
 # Node color for non-highlight subset
-NON_HIGHLIGHT_NODE_COLOR = 'rgba(200,200,200,0.4)'  
+NON_HIGHLIGHT_NODE_COLOR = 'rgba(200,200,200,0.4)'
 
 # Link color for highlight subset
-HIGHLIGHT_LINK_COLOR = 'rgba(180, 0, 35, 0.6)'   
+HIGHLIGHT_LINK_COLOR = 'rgba(180, 0, 35, 0.6)'
 
 # Link color for non-highlight subset
 NON_HIGHLIGHT_LINK_COLOR = 'rgba(160,160,160,0.2)'
@@ -2832,7 +2823,6 @@ Want me to scan your existing code and show exactly what lines to edit?
 in the app.layout, there're a few places where i see html.Div. Could you modify this block based on your instructions
 
 
-
 app.layout = html.Div([
     html.H1("Parallel Sets-Style Visualization with Highlighting"),
 
@@ -3006,4 +2996,3 @@ Let me know if you'd like to:
 - Adjust font **size** globally
 - Make **bold headings** or titles
 - Apply the font to tooltips or hovertext in Sankey and donut charts too
-

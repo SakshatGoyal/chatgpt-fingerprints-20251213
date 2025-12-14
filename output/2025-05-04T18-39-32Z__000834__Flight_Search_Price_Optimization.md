@@ -4,11 +4,11 @@
 
 Help me make an o3 prompt for the following intent:
 
-Help me find a flight from San Francisco to Hyderabad on either Emirates or Cathay Pacific for any date between May 23rd and May 30th. 
+Help me find a flight from San Francisco to Hyderabad on either Emirates or Cathay Pacific for any date between May 23rd and May 30th.
 
-Make sure you explore every possible option available on every different site, my goal is to find the lowest fair prices. 
+Make sure you explore every possible option available on every different site, my goal is to find the lowest fair prices.
 
-I don't want flights where I have to swtich airlines. I don't want the overall journey including lay over to be more than 28 hours. 
+I don't want flights where I have to swtich airlines. I don't want the overall journey including lay over to be more than 28 hours.
 ---
 
 Basically, I want chatgpt to explore every possible option. I want to make sure I am getting the cheapest possible flight. Oh, and I want the amount in INR. My dad is booking from india so I need to make sure that the sites I'm exploring are in india.
@@ -48,13 +48,13 @@ Would you like to include both one-stop and direct flights, or direct only?
 
 ## You (2025-05-04T18:42:34.681363+00:00)
 
-i want both - one stop and direct flights. However one stop has a higher likelihood of being cheaper so lets stick with one stop. But not two stop. 
+i want both - one stop and direct flights. However one stop has a higher likelihood of being cheaper so lets stick with one stop. But not two stop.
 
-Yes, but just to be sure, the overall 'journey', not the layover should be 28 hours. Meaning, I Do not want the layover to be 28 hours, the complete trip including flying hours should not exceed 28 hours. 
+Yes, but just to be sure, the overall 'journey', not the layover should be 28 hours. Meaning, I Do not want the layover to be 28 hours, the complete trip including flying hours should not exceed 28 hours.
 
-No sort by price only for now. 
+No sort by price only for now.
 
-No don't exclude flights arriving at odd hours. 
+No don't exclude flights arriving at odd hours.
 
 The only facotrs include price, travel time, and the airlines (has to either be emirates or cathay pacific)
 
@@ -66,22 +66,22 @@ Perfect—that’s the level of clarity we need for a sharp O3 prompt. Here’s 
 
 ### ✅ Finalized Analytical Intent Summary
 
-- **Route:** San Francisco (SFO) → Hyderabad (HYD)  
-- **Airlines:** Emirates or Cathay Pacific only  
-- **Date Range:** May 23–30 (any departure date in this range)  
-- **Stops:** Direct or **one-stop only**; **no two-stop** itineraries  
-- **Total Journey Time:** Must be **28 hours or less**, including all layovers  
-- **Currency:** Prices shown in **INR**, as booking will be done from India  
-- **Sources to Explore:** All major **India-facing portals** (e.g., MakeMyTrip, Yatra, Cleartrip, airline websites with /in regional pages)  
-- **Class:** Economy (assumed)  
-- **Priorities:** **Price first**, then airline constraint and total travel time  
+- **Route:** San Francisco (SFO) → Hyderabad (HYD)
+- **Airlines:** Emirates or Cathay Pacific only
+- **Date Range:** May 23–30 (any departure date in this range)
+- **Stops:** Direct or **one-stop only**; **no two-stop** itineraries
+- **Total Journey Time:** Must be **28 hours or less**, including all layovers
+- **Currency:** Prices shown in **INR**, as booking will be done from India
+- **Sources to Explore:** All major **India-facing portals** (e.g., MakeMyTrip, Yatra, Cleartrip, airline websites with /in regional pages)
+- **Class:** Economy (assumed)
+- **Priorities:** **Price first**, then airline constraint and total travel time
 - **No exclusions** based on time-of-day or layover length (as long as within 28 hrs total)
 
 Let’s move into prompt generation.
 
 ---
 
-Please confirm with: **"begin creating the prompt"**  
+Please confirm with: **"begin creating the prompt"**
 And I’ll generate the full structured O3 reasoning model prompt, complete with guardrails and execution persona.
 
 ## You (2025-05-04T18:42:47.499868+00:00)
@@ -96,7 +96,7 @@ Excellent. Based on everything you've shared, here's the fully structured O3-opt
 
 ### ✳️ O3 Reasoning Prompt for Cheapest Flight Search (SFO → HYD)
 
-#### 1. **Goal**  
+#### 1. **Goal**
 Identify the **lowest fare** economy-class flight from **San Francisco (SFO) to Hyderabad (HYD)** between **May 23 and May 30**, operated **exclusively by Emirates or Cathay Pacific**, with **no more than one stop**, and a **total journey duration (including layovers) not exceeding 28 hours**. The objective is to optimize for **minimum total fare in INR** as seen from **India-facing travel platforms**.
 
 #### 2. **Return Format**
@@ -127,4 +127,3 @@ Provide:
 ---
 
 Would you like me to convert this into a reusable tool prompt format (e.g., for recurring use or API)?
-

@@ -7,7 +7,7 @@ Hey, I need some content created for educational purposes and I need you help to
 1. Understand the right prompting approach (one step or multi-step)
 2. Create prompts for each of those step(s)
 
-I have this document that discusses different types of strategies, but I also have many students who often have many questions, which confuse me. It's hard for people to distinguish the different types of strategies clearly. Each strategic move often co-relates to a particular kind of strategy (with the types discussed in this document as the reference). However, I always come across instances where there's a blur. 
+I have this document that discusses different types of strategies, but I also have many students who often have many questions, which confuse me. It's hard for people to distinguish the different types of strategies clearly. Each strategic move often co-relates to a particular kind of strategy (with the types discussed in this document as the reference). However, I always come across instances where there's a blur.
 
 So I need some well-educated, well-experienced Harvard business school professor to create a set of documents for me that can clearly explain what these different types of strategies are and how they differ. I think I'll need some content explaining what each of them is in detail and some comparisons among the various types because that's how students learn - by comparing things. The documents should be concise, but brevity should never take precedence over clarity. I need someone who's also a good writter and can clearly communicate all the distinctions.
 
@@ -59,13 +59,13 @@ Let’s refine the core objectives first with some key questions:
 ---
 
 Once we finalize these answers, I’ll help you:
-✅ Determine if one-step or multi-step prompting makes more sense  
-✅ Build custom prompts for each phase using an HBS-professor-level persona  
+✅ Determine if one-step or multi-step prompting makes more sense
+✅ Build custom prompts for each phase using an HBS-professor-level persona
 ✅ Ensure clarity, distinction, and high-quality explanatory writing
 
 ---
 
-Let’s start with those five areas above, and then we’ll get to prompt crafting.  
+Let’s start with those five areas above, and then we’ll get to prompt crafting.
 Which one would you like to dive into first? Or feel free to answer them all in a single go if you're ready.
 
 ## You (2025-03-24T04:10:21.791000+00:00)
@@ -73,9 +73,9 @@ Which one would you like to dive into first? Or feel free to answer them all in 
 ### 1. **End Goal Clarification**
 
 - Are these documents intended as **teaching tools** (e.g., student handouts), **study aids** (e.g., quick reference guides), or **lecture content** (e.g., professor notes with examples)?
-    
+
     My students have been conducting some literature reviews and they have a lot of written content. Their job is to almost ‘card sort’ all insights into one or the other category of strategy to form a deeper understanding of strategy types. So I’m thinking this content can essentially educate them, help them understand how to distinguish situations and insights, and clearly categorize them into the type of strategy. The content covers a lot, like decision making dilemma, approach, biases, expected outcomes vs actual outcomes, and a lot more. Once they are able to sort all these insights into different strategies, they can form a deeper understanding with real life data and stories to back it. But its like which comes first, the chicken or the egg. I think having a clear document that can help them distinguish between the different types might help them in their card sorting.
-    
+
 - Should the output feel like it's coming from a professor explaining in class or from a textbook section?
 Not necessarily. It can come from anyone, that’s not the important part. I defined the persona because I thought that might help narrow down on which type of intelligence to use. But the main goal is for students to clearly understand how to identify which category of strategy a particular insight is best aligned with.
 
@@ -89,7 +89,7 @@ Not necessarily. It can come from anyone, that’s not the important part. I def
     - Flashcard-style Q&A?
 - Do you want **charts**, **examples**, or **matrices** (e.g., side-by-side comparison tables)?
 
-I’m not able to decide what the best format might be. Anything that might help a student clearly understand the differences would be helpful. Comparisons are always helpful though, because people find it easy to understand a concept when compared to another. contrasts are important. 
+I’m not able to decide what the best format might be. Anything that might help a student clearly understand the differences would be helpful. Comparisons are always helpful though, because people find it easy to understand a concept when compared to another. contrasts are important.
 
 ---
 
@@ -98,7 +98,7 @@ I’m not able to decide what the best format might be. Anything that might help
 - What’s the **education level** or prior knowledge of your students? MBA? Undergrad? Early-career professionals?
 - Do they struggle more with **definitions**, **distinctions**, or **applications** of these strategies?
 
-Lets say they’re studying undergrad and are struggling with very basic concepts of business. 
+Lets say they’re studying undergrad and are struggling with very basic concepts of business.
 
 ---
 
@@ -109,16 +109,16 @@ Lets say they’re studying undergrad and are struggling with very basic concept
     - Conversational and explanatory (like a live lecture)?
     - Pragmatic and real-world oriented (consultant/executive brief)?
 
-Academic works. 
+Academic works.
 
 ---
 
 ### 5. **Prompting Strategy Preference**
 
 - Are you planning to **generate this content all at once**, or do you want to **guide GPT-4o step-by-step** (e.g., first generate individual strategy breakdowns, then generate comparative matrices, etc.)?
-    
+
     Guide GPT step by step
-    
+
 - Would you like to **reuse prompts later** (i.e., design them modularly), or is this a one-time creation effort?
 this is a one time effort.
 
@@ -158,19 +158,19 @@ Here’s how I suggest we break this into a few promptable parts:
 
 ### 🧩 STEP 1: **Foundational Strategy Explainers**
 > One per strategy type. Clear, academically toned explanation including:
-- Definition  
-- Core decision-making characteristics  
-- Common dilemmas, biases, and expected vs. actual outcomes  
-- Example real-life strategic choices or signals  
+- Definition
+- Core decision-making characteristics
+- Common dilemmas, biases, and expected vs. actual outcomes
+- Example real-life strategic choices or signals
 - Decision criteria: *How to tell it apart from others*
 
 ### 🧩 STEP 2: **Comparison Tables Across Types**
 > Side-by-side matrix highlighting how each strategy type compares in:
-- Scope & Decision Focus  
-- Strategic Actors (e.g., who typically makes these decisions)  
-- Time Horizon  
-- Typical Business Context (e.g., market disruption, scaling, crisis, etc.)  
-- Key Mistakes/Misclassifications  
+- Scope & Decision Focus
+- Strategic Actors (e.g., who typically makes these decisions)
+- Time Horizon
+- Typical Business Context (e.g., market disruption, scaling, crisis, etc.)
+- Key Mistakes/Misclassifications
 
 ### 🧩 STEP 3: **Common Confusions & How to Resolve Them**
 > A short document on where students often go wrong (e.g., "Is M&A always corporate strategy?") and how to resolve borderline cases.
@@ -193,28 +193,28 @@ Great—here’s the master prompt for **Step 1: Foundational Strategy Explainer
 
 ## ✳️ PromptCraft Summary for Step 1
 
-**🎯 Objective:**  
+**🎯 Objective:**
 Help undergraduate students clearly understand and distinguish between the six types of strategy by generating a detailed, academically toned explanation for each strategy type individually.
 
-**📘 Context Source:**  
+**📘 Context Source:**
 Reference the rich and structured content provided in the uploaded document on strategy types (used as factual and framing ground).
 
-**🧠 Execution Persona for GPT-4o:**  
-**Persona: Experienced Strategy Educator with an Academic Lens**  
+**🧠 Execution Persona for GPT-4o:**
+**Persona: Experienced Strategy Educator with an Academic Lens**
 Act like a professor who’s taught business strategy for years and is focused on helping beginners grasp foundational concepts.
 
 **🛠️ Output Requirements:**
 For each strategy type, output should include:
 
-1. **Definition** – What this strategy type means in plain but precise terms  
-2. **Decision Focus** – The core dilemmas or decisions it addresses  
-3. **Strategic Actors** – Who typically makes these decisions  
-4. **Characteristics** – Traits that signal it’s *this* type of strategy (not another)  
-5. **Common Mistakes or Confusions** – How it gets confused with other types  
-6. **Example** – One clear, real-world strategic move aligned with this type  
+1. **Definition** – What this strategy type means in plain but precise terms
+2. **Decision Focus** – The core dilemmas or decisions it addresses
+3. **Strategic Actors** – Who typically makes these decisions
+4. **Characteristics** – Traits that signal it’s *this* type of strategy (not another)
+5. **Common Mistakes or Confusions** – How it gets confused with other types
+6. **Example** – One clear, real-world strategic move aligned with this type
 7. **Comparison Pointer** – How this contrasts with at least one other type
 
-Tone: Academic, explanatory, accessible for undergrad-level comprehension  
+Tone: Academic, explanatory, accessible for undergrad-level comprehension
 Style: Clear, structured, no fluff, clarity over brevity
 
 ---
@@ -232,25 +232,25 @@ Focus on ONE strategy type at a time. Use the following structure and tone:
 
 **Strategy Type: [Insert Type Here]**
 
-1. **Definition**  
+1. **Definition**
    Provide a clear, academically grounded definition of this strategy type in one paragraph.
 
-2. **Core Decision Focus**  
+2. **Core Decision Focus**
    What kinds of decisions, dilemmas, or trade-offs does this strategy type deal with?
 
-3. **Who Makes These Decisions?**  
+3. **Who Makes These Decisions?**
    Identify the typical roles or organizational actors responsible.
 
-4. **Key Characteristics**  
+4. **Key Characteristics**
    List 4–6 traits that help students recognize this type of strategy when analyzing real-world data or insights.
 
-5. **Common Confusions (and How to Avoid Them)**  
+5. **Common Confusions (and How to Avoid Them)**
    Explain where this type is often misclassified or confused with another—and how to avoid that error.
 
-6. **Example**  
+6. **Example**
    Provide one real-world company action or decision and explain why it belongs under this strategy type.
 
-7. **Contrast with Another Strategy Type**  
+7. **Contrast with Another Strategy Type**
    Briefly compare this strategy type with one that is frequently confused with it.
 
 ---
@@ -282,25 +282,25 @@ Absolutely — that’s a smart move. We can pivot the structure of Step 1 to be
 
 ## ✳️ PromptCraft Breakdown
 
-**🎯 Goal:**  
+**🎯 Goal:**
 Explain all six strategy types in a single, academically toned document that could easily span 2 pages (≈700–1000 words). Prioritize clarity and contrast hints (but don’t go deep into comparisons yet).
 
-**📘 Context:**  
+**📘 Context:**
 Use your uploaded document as the primary reference (structure, industry framing, definitions, scope).
 
-**👤 Execution Persona for GPT-4o:**  
+**👤 Execution Persona for GPT-4o:**
 **Persona: Academic Business Strategist Explaining to Undergraduate Students**
 
 **🛠️ Output Format (for all 6 types):**
 
 For each strategy type, include:
 
-- **Title**: Strategy Type Name  
-- **One-sentence Definition**  
-- **Brief Overview**: ~2–3 sentences explaining scope, who uses it, and typical context  
-- **Strategic Focus**: What kinds of decisions it deals with  
-- **Signal Markers**: 2–3 signals that help identify this type (keep light for now)  
-- *(Optional)*: Mention one industry where this type is often visible  
+- **Title**: Strategy Type Name
+- **One-sentence Definition**
+- **Brief Overview**: ~2–3 sentences explaining scope, who uses it, and typical context
+- **Strategic Focus**: What kinds of decisions it deals with
+- **Signal Markers**: 2–3 signals that help identify this type (keep light for now)
+- *(Optional)*: Mention one industry where this type is often visible
 
 ---
 
@@ -311,20 +311,20 @@ You are a strategy educator writing an academic guide for undergraduate students
 
 Your task is to write a two-page educational summary that introduces and explains the six major types of strategy. These are:
 
-1. Corporate-Level Strategy  
-2. Business-Level Strategy  
-3. Functional & Tactical Strategy  
-4. Adaptive & Crisis Strategy  
-5. Innovation & Growth Strategy  
+1. Corporate-Level Strategy
+2. Business-Level Strategy
+3. Functional & Tactical Strategy
+4. Adaptive & Crisis Strategy
+5. Innovation & Growth Strategy
 6. Personal & Leadership Strategy
 
 For each type, include:
 
-- **Title**: Strategy Type  
-- **Definition**: One sentence, academic tone  
-- **Overview**: 2–3 sentences on what it covers, who engages in it, and why it matters  
-- **Strategic Focus**: What kind of decisions or actions define it  
-- **Signal Markers**: 2–3 signs that an insight or decision likely belongs to this type  
+- **Title**: Strategy Type
+- **Definition**: One sentence, academic tone
+- **Overview**: 2–3 sentences on what it covers, who engages in it, and why it matters
+- **Strategic Focus**: What kind of decisions or actions define it
+- **Signal Markers**: 2–3 signs that an insight or decision likely belongs to this type
 - (Optional) Mention an industry or role where this type is especially relevant
 
 Do NOT include comparisons between types yet. This is just the foundational overview. Be clear, academically toned, and easy to understand. The tone should be similar to a professor’s lecture notes or a study guide.
@@ -357,11 +357,11 @@ Your task is to write a two-page educational summary that introduces and explain
 
 These are the six strategy types to explain:
 
-1. Corporate-Level Strategy  
-2. Business-Level Strategy  
-3. Functional & Tactical Strategy  
-4. Adaptive & Crisis Strategy  
-5. Innovation & Growth Strategy  
+1. Corporate-Level Strategy
+2. Business-Level Strategy
+3. Functional & Tactical Strategy
+4. Adaptive & Crisis Strategy
+5. Innovation & Growth Strategy
 6. Personal & Leadership Strategy
 
 For each type, include the following structure:
@@ -398,24 +398,24 @@ Awesome — glad the demo worked well for Step 1. Now let’s move on to **Step 
 
 ### 🎯 Goal:
 Help students **differentiate between strategy types** by showing:
-- Where they overlap or get confused  
-- How they differ in scope, focus, decision-maker, context, and strategic signals  
+- Where they overlap or get confused
+- How they differ in scope, focus, decision-maker, context, and strategic signals
 - Practical cues to “spot the difference” when analyzing case data or insights
 
 ---
 
 ### ✅ Suggested Output Formats:
 We’ll build prompts for **two outputs**:
-1. **Comparison Matrix/Table**  
+1. **Comparison Matrix/Table**
    Side-by-side across strategy types — e.g.:
-   - Strategic Scope  
-   - Time Horizon  
-   - Primary Decision-Maker  
-   - Common Business Context  
-   - Typical Triggers (e.g., crisis, expansion, disruption)  
-   - Common Misclassifications  
+   - Strategic Scope
+   - Time Horizon
+   - Primary Decision-Maker
+   - Common Business Context
+   - Typical Triggers (e.g., crisis, expansion, disruption)
+   - Common Misclassifications
 
-2. **Mini-Scenarios with Classification Tips**  
+2. **Mini-Scenarios with Classification Tips**
    Give 3–5 short business decision scenarios and show how the correct strategy type is identified based on cues.
 
 ---
@@ -429,21 +429,21 @@ They already have a foundational understanding of the six strategy types. Now th
 
 Your task is to create a detailed **comparison matrix** across the six major types of strategy:
 
-1. Corporate-Level Strategy  
-2. Business-Level Strategy  
-3. Functional & Tactical Strategy  
-4. Adaptive & Crisis Strategy  
-5. Innovation & Growth Strategy  
+1. Corporate-Level Strategy
+2. Business-Level Strategy
+3. Functional & Tactical Strategy
+4. Adaptive & Crisis Strategy
+5. Innovation & Growth Strategy
 6. Personal & Leadership Strategy
 
 For each strategy type, populate the following comparison attributes:
 
-- **Strategic Scope**: What level of the organization this strategy operates at (macro, business unit, department, individual)  
-- **Time Horizon**: Short, medium, or long-term  
-- **Primary Decision-Makers**: Roles most involved in shaping the strategy (e.g., CEO, CMO, GM)  
-- **Typical Strategic Context**: When this type of strategy tends to be activated (e.g., growth planning, market turbulence, downturns, pivots)  
-- **Common Confusions**: Strategy types it often gets mistaken for  
-- **Key Distinction Tips**: How to tell this strategy apart from similar ones  
+- **Strategic Scope**: What level of the organization this strategy operates at (macro, business unit, department, individual)
+- **Time Horizon**: Short, medium, or long-term
+- **Primary Decision-Makers**: Roles most involved in shaping the strategy (e.g., CEO, CMO, GM)
+- **Typical Strategic Context**: When this type of strategy tends to be activated (e.g., growth planning, market turbulence, downturns, pivots)
+- **Common Confusions**: Strategy types it often gets mistaken for
+- **Key Distinction Tips**: How to tell this strategy apart from similar ones
 - **Example Strategic Decision**: A 1-line description of a real-world decision that fits this type
 
 Tone: Academic but accessible. Make it practical for undergraduates analyzing real data. Your output should be structured as a comparison table or clearly formatted matrix.
@@ -474,21 +474,21 @@ You’ve already created a foundational overview of each strategy type (from Ste
 
 These are the six types of strategy you're comparing:
 
-1. Corporate-Level Strategy  
-2. Business-Level Strategy  
-3. Functional & Tactical Strategy  
-4. Adaptive & Crisis Strategy  
-5. Innovation & Growth Strategy  
+1. Corporate-Level Strategy
+2. Business-Level Strategy
+3. Functional & Tactical Strategy
+4. Adaptive & Crisis Strategy
+5. Innovation & Growth Strategy
 6. Personal & Leadership Strategy
 
 Your comparison should be structured clearly and include the following attributes for **each** strategy type:
 
-- **Strategic Scope** – What level of the organization this strategy operates at (e.g., macro, business unit, department, individual)  
-- **Time Horizon** – Typical planning horizon (short / medium / long term)  
-- **Primary Decision-Makers** – Which roles are typically responsible for this type of strategy (e.g., CEO, GM, Product Head, etc.)  
-- **Typical Strategic Context** – The situations in which this strategy type is activated (e.g., growth, crisis, transformation, expansion)  
-- **Common Confusions** – Other strategy types that it is often mistaken for  
-- **How to Distinguish It** – Practical tips to tell it apart from those lookalikes  
+- **Strategic Scope** – What level of the organization this strategy operates at (e.g., macro, business unit, department, individual)
+- **Time Horizon** – Typical planning horizon (short / medium / long term)
+- **Primary Decision-Makers** – Which roles are typically responsible for this type of strategy (e.g., CEO, GM, Product Head, etc.)
+- **Typical Strategic Context** – The situations in which this strategy type is activated (e.g., growth, crisis, transformation, expansion)
+- **Common Confusions** – Other strategy types that it is often mistaken for
+- **How to Distinguish It** – Practical tips to tell it apart from those lookalikes
 - **Example Strategic Decision** – One example of a real-world decision or move that fits this strategy type
 
 Tone: Academic, but designed for clarity. The matrix will be used as a reference guide during a card-sorting activity where students classify insights.
@@ -533,11 +533,11 @@ Instructions:
    - If applicable, briefly mention **why it’s *not* another type** that it could be confused with
 
 Here are the six strategy types again for reference:
-- Corporate-Level Strategy  
-- Business-Level Strategy  
-- Functional & Tactical Strategy  
-- Adaptive & Crisis Strategy  
-- Innovation & Growth Strategy  
+- Corporate-Level Strategy
+- Business-Level Strategy
+- Functional & Tactical Strategy
+- Adaptive & Crisis Strategy
+- Innovation & Growth Strategy
 - Personal & Leadership Strategy
 
 Tone: Academic but approachable. Use realistic, non-hypothetical business decisions drawn from executive-level viewpoints. This output will be used as a classification training exercise alongside the comparison matrix.
@@ -563,8 +563,8 @@ Awesome — you're building this out beautifully. Step 3 is where we bring it al
 
 ### 🎯 Goal:
 Help students understand:
-- **Where strategy types get confused** in real-world situations  
-- **Why** that confusion happens (e.g., overlapping decision-makers, nested strategy levels, timing mismatches)  
+- **Where strategy types get confused** in real-world situations
+- **Why** that confusion happens (e.g., overlapping decision-makers, nested strategy levels, timing mismatches)
 - **How to resolve ambiguity** using practical decision cues or diagnostic questions
 
 ---
@@ -573,16 +573,16 @@ Help students understand:
 
 We can frame this as a **"Strategy Distinction Playbook"** made up of:
 
-1. **Common Confusion Pairs**  
+1. **Common Confusion Pairs**
    e.g., Corporate vs. Business, Business vs. Functional, Adaptive vs. Innovation, etc.
 
-2. **Why They Get Confused**  
+2. **Why They Get Confused**
    Structural overlaps, shared decision triggers, etc.
 
-3. **How to Distinguish Them**  
+3. **How to Distinguish Them**
    Practical tests: decision scope, strategic altitude, intent vs. execution, etc.
 
-4. **Edge Case Examples with Resolution**  
+4. **Edge Case Examples with Resolution**
    Mini-cases or gray zones (e.g., M&A driven by product expansion — corporate or business?) with analysis.
 
 ---
@@ -628,9 +628,9 @@ This prompt creates a **strategic thinking tool** that bridges classroom theory 
 ## 🔁 Optional Next Step After Step 3:
 
 If you want to **go even further** to help your students:
-- **Build a Prompt for Interactive Flashcard Practice**  
-  → Feed insights and get model to classify the strategy type and explain why  
-- **Design a Strategy Sorting Game**  
+- **Build a Prompt for Interactive Flashcard Practice**
+  → Feed insights and get model to classify the strategy type and explain why
+- **Design a Strategy Sorting Game**
   → GPT creates 15–20 strategic "moves" and asks students to classify them
 
 Let me know if you’d like to draft those — otherwise, you’re ready to roll with Step 3.
@@ -713,15 +713,15 @@ Your task is to create **a new section of reading material** that addresses thes
 
 Think of this as an **advanced clarification chapter** — something like:
 
-- “Clarifying Strategic Boundaries”  
-- “How Strategy Types Overlap (and How to Navigate It)”  
-- “Making Sense of Strategic Ambiguity”  
-- “A Deeper Dive into Strategy Classification”  
+- “Clarifying Strategic Boundaries”
+- “How Strategy Types Overlap (and How to Navigate It)”
+- “Making Sense of Strategic Ambiguity”
+- “A Deeper Dive into Strategy Classification”
 
 Guidelines:
-- Identify and group the core themes or confusion types embedded in the student questions  
-- Create 3–5 sections based on those themes (e.g., “Nested Strategies”, “Corporate vs. Business Confusions”, “Strategic Intent vs. Execution”)  
-- For each section, write clear explanations, introduce helpful distinctions, and offer examples where needed  
+- Identify and group the core themes or confusion types embedded in the student questions
+- Create 3–5 sections based on those themes (e.g., “Nested Strategies”, “Corporate vs. Business Confusions”, “Strategic Intent vs. Execution”)
+- For each section, write clear explanations, introduce helpful distinctions, and offer examples where needed
 - Reinforce key decision cues or thinking tools that help with classification
 
 Your tone should remain academic but now a little more reflective — like you’re addressing advanced students who are no longer memorizing definitions, but trying to think like strategists.
@@ -736,4 +736,3 @@ Once ready, I will paste in the full set of student questions below this prompt.
 When you’re ready, simply paste the **28 student questions** below that prompt, and GPT-4o will build the **clarification layer** as a narrative or structured guide.
 
 Would you also like to design a follow-up activity prompt based on this supplemental reading? (e.g., “Based on the clarification guide, evaluate these 3 strategic moves...”)
-

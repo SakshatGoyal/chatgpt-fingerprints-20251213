@@ -55,4 +55,3 @@ When pursuing innovation or growth, leaders often fail to account for the system
 ---
 
 Would you also like a slightly sharper or punchier version depending on whether this needs to lean more toward a diagnostic document, an exec presentation, or a team alignment artifact?
-

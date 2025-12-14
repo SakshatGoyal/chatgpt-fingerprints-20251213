@@ -65,7 +65,7 @@ Precisely guide AI agents on *how* to communicate insights, ensuring maximum cla
 ---
 ---
 ---
-The following are the two sets of principles to follow. 
+The following are the two sets of principles to follow.
 
 ---
 AI SYNTHESIS GUIDELINES
@@ -78,17 +78,17 @@ AI SYNTHESIS GUIDELINES
 **Use-cases:**
 
 - When a user filters for deals in the "Critical" or "At-risk" account health category, AI highlights common, high-impact risk factors:
-    
+
     > "8 deals (\$4.2M) marked Critical share common risks: mandatory professional services removed (6 deals), low adoption rate (4 deals)."
-    > 
+    >
 - When filtering opportunities by high-value renewals (> \$1M), identify clusters of risk:
-    
+
     > "3 out of 5 high-value renewals totaling \$7.2M are at-risk due to no partner finalized and pending budget approval."
-    > 
+    >
 - When viewing specific products (e.g., Cortex & Cloud), highlight recurring risks specific to the product:
-    
+
     > "60% of Cortex deals in Pipeline status have risk factors of low customer adoption and no recent EBC activity."
-    > 
+    >
 
 ---
 
@@ -99,17 +99,17 @@ AI SYNTHESIS GUIDELINES
 **Use-cases:**
 
 - When users filter for deals closing soon (<45 days), AI detects stalled progress:
-    
+
     > "4 'Commit' stage deals totaling \$3.1M have had no activity for over 30 days; predominantly in SASE."
-    > 
+    >
 - When filtering for upsell opportunities, pinpoint potential slowdown points:
-    
+
     > "Two large upsell opportunities (\$1.9M) have been stuck in 'Solution' stage beyond average timelines, both lack a secured technical win."
-    > 
+    >
 - When viewing high-value renewals, surface pipeline inactivity:
-    
+
     > "25% of renewals above \$500K show no activity for 30+ days, primarily due to pending quote approvals and lack of partner selection."
-    > 
+    >
 
 ---
 
@@ -120,17 +120,17 @@ AI SYNTHESIS GUIDELINES
 **Use-cases:**
 
 - When filtering for "Commit" forecast deals, highlight contradictions in the data:
-    
+
     > "1 Commit deal valued at \$1.2M (Capstone Logistics) has Critical account health and multiple unresolved risk factors."
-    > 
+    >
 - Upon filtering for large deals, show counterintuitive flags (e.g., high-value "Best Case" deals with extensive risk):
-    
+
     > "2 of your top 5 ‘Best Case’ deals (\$2.3M) exhibit unexpected risk factors: budget conversations incomplete, no technical win secured."
-    > 
+    >
 - When examining net-new opportunities, highlight critical risks that could derail optimistic forecasts:
-    
+
     > "3 of 6 high-value net-new deals forecasted positively (\$2.1M total) currently have critical technical health and zero partner activity."
-    > 
+    >
 
 ---
 
@@ -141,17 +141,17 @@ AI SYNTHESIS GUIDELINES
 **Use-cases:**
 
 - When viewing deals closing in the next 90 days, flag prolonged inactivity:
-    
+
     > "5 high-value (\$2.8M total) opportunities have had zero activity in the past month; most show no EBC engagement."
-    > 
+    >
 - Filtering opportunities by renewal status identifies inactive renewal opportunities:
-    
+
     > "3 of your renewal opportunities totaling \$1.1M have no logged activity for over 45 days, and have mandatory PS removed."
-    > 
+    >
 - Upon examining large enterprise accounts, highlight dormant, high-risk opportunities:
-    
+
     > "2 enterprise accounts (>\$1M each) currently show zero pipeline activities in the last 30 days and risk losing momentum."
-    > 
+    >
 
 ---
 
@@ -184,9 +184,7 @@ Make the insight actionable without necessarily writing opinions or next steps. 
 
 Here's a structured, actionable set of principles designed explicitly for guiding AI agents in consistently extracting and articulating insights from high-dimensional business datasets, tailored from a seasoned, IDEO-style strategic design research perspective.
 
-## ChatGPT (2025-07-24T14:07:14.440064+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"ai_insight_principles\",\"type\":\"document\",\"content\":\"## Guiding Principles for AI-driven Insight Synthesis\\n\\n---\\n\\n### 1. Insight Extraction Principles\\n\\n**Intent:**\\nClearly guide AI agents on *what* to focus on when analyzing high-dimensional business data to consistently surface meaningful and actionable insights.\\n\\n**Must-follow:**\\n\\n- Always identify and clearly quantify clusters of risks, bottlenecks, contradictions, and silent zones.\\n- Detect contradictions explicitly between optimistic business forecasts and underlying data realities.\\n- Surface unusual inactivity proactively, especially for high-value or business-critical opportunities.\\n- Quantify insights precisely using clear metrics: counts, percentages, financial impact, and timelines.\\n- Maintain objective, data-driven analysis without subjective assumptions or unsupported speculations.\\n\\n**Nice-to-follow:**\\n\\n- Highlight systemic issues rather than isolated incidents.\\n- Implicitly suggest potential root causes through recurring patterns without making explicit causal claims.\\n- Contextualize data-driven risks and opportunities clearly within business-specific categories, stages, or timeframes.\\n- Flag anomalies and outliers selectively and succinctly to avoid insight fatigue.\\n\\n---\\n\\n### 2. Insight Articulation Principles\\n\\n**Intent:**\\nGuide AI agents explicitly on *how* to communicate insights to ensure clarity, readability, and usability, facilitating rapid and informed human decision-making.\\n\\n**Must-follow:**\\n\\n- Use clear, plain, and concise language free from jargon or subjective interpretations.\\n- Structure each insight consistently:\\n  1. Start with quantitative data (counts or percentages).\\n  2. Specify relevant business categories or stages explicitly.\\n  3. Clearly describe the identified risk, contradiction, or inactivity.\\n  4. Include monetary impacts or relevant timelines when meaningful.\\n- Ensure each insight is independently understandable without additional context.\\n- Avoid prescribing explicit solutions or next steps; present neutral, fact-based information to empower user judgment.\\n\\n**Nice-to-follow:**\\n\\n- Provide succinct comparative baselines or benchmarks where valuable (e.g., \\\"above-average inactivity\\\").\\n- Utilize measured language to subtly indicate urgency or magnitude (e.g., \\\"notably high risk,\\\" \\\"significant inactivity\\\").\\n- Craft insights to be brief yet informative, facilitating quick understanding in dynamic environments.\\n\\n---\\n\\n### Examples of Articulation (DOs and DON'Ts)\\n\\n**✅ DO:**\\n- \\\"12 of 20 renewal opportunities (totaling $5.4M) have shown no activity in the past 45 days, primarily due to delayed quote approvals.\\\"\\n- \\\"60% of 'Commit' deals lack secured technical wins, affecting approximately $3.2M in projected revenue.\\\"\\n\\n**❌ DON'T:**\\n- \\\"Several renewal deals seem neglected lately.\\\"\\n- \\\"Many deals look risky because sales haven't secured wins yet.\\\"\\n\\n---\"}"}
 
 ## ChatGPT (2025-07-24T14:08:00.653266+00:00)
 
@@ -200,11 +198,8 @@ Risk Densities	Momentum Bottlenecks	Contradiction Detection	Silent Zones
 
 We need to create a clear definition for these. And for your context, every extraction should have 4 insights - one representing each of the 4 groups. the insights should be very concise and actionable without being too prescriptive or opinionated.
 
-## ChatGPT (2025-07-24T14:09:52.878365+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"updates\":[{\"pattern\":\".*\",\"multiple\":false,\"replacement\":\"## Guiding Principles for AI-driven Insight Synthesis\\n\\n---\\n\\n### 1. Insight Extraction Principles\\n\\n**Intent:**\\nClearly guide AI agents on *what* to focus on when analyzing high-dimensional business data to consistently surface meaningful and actionable insights across four distinct categories:\\n\\n### Definitions of Insight Types:\\n\\n- **Risk Densities:** \\n  Identify concentrated clusters of recurring risks or vulnerabilities within specific business areas, categories, or stages.\\n\\n- **Momentum Bottlenecks:**\\n  Highlight stalled or slowed progress points within critical processes or stages, especially those impacting timelines or revenue.\\n\\n- **Contradiction Detection:**\\n  Surface discrepancies between optimistic forecasts or expectations and the underlying, measurable business realities indicated by data.\\n\\n- **Silent Zones:**\\n  Pinpoint significant areas of prolonged inactivity or lack of engagement, particularly where timely actions are crucial.\\n\\n**Must-follow:**\\n\\n- Always identify and clearly quantify clusters of risks, bottlenecks, contradictions, and silent zones.\\n- Detect contradictions explicitly between optimistic business forecasts and underlying data realities.\\n- Surface unusual inactivity proactively, especially for high-value or business-critical opportunities.\\n- Quantify insights precisely using clear metrics: counts, percentages, financial impact, and timelines.\\n- Maintain objective, data-driven analysis without subjective assumptions or unsupported speculations.\\n\\n**Nice-to-follow:**\\n\\n- Highlight systemic issues rather than isolated incidents.\\n- Implicitly suggest potential root causes through recurring patterns without making explicit causal claims.\\n- Contextualize data-driven risks and opportunities clearly within business-specific categories, stages, or timeframes.\\n- Flag anomalies and outliers selectively and succinctly to avoid insight fatigue.\\n\\n---\\n\\n### 2. Insight Articulation Principles\\n\\n**Intent:**\\nGuide AI agents explicitly on *how* to communicate insights to ensure clarity, readability, and usability, facilitating rapid and informed human decision-making.\\n\\n**Must-follow:**\\n\\n- Use clear, plain, and concise language free from jargon or subjective interpretations.\\n- Structure each insight consistently:\\n  1. Start with quantitative data (counts or percentages).\\n  2. Specify relevant business categories or stages explicitly.\\n  3. Clearly describe the identified risk, contradiction, or inactivity.\\n  4. Include monetary impacts or relevant timelines when meaningful.\\n- Ensure each insight is independently understandable without additional context.\\n- Avoid prescribing explicit solutions or next steps; present neutral, fact-based information to empower user judgment.\\n\\n**Nice-to-follow:**\\n\\n- Provide succinct comparative baselines or benchmarks where valuable (e.g., \\\"above-average inactivity\\\").\\n- Utilize measured language to subtly indicate urgency or magnitude (e.g., \\\"notably high risk,\\\" \\\"significant inactivity\\\").\\n- Craft insights to be brief yet informative, facilitating quick understanding in dynamic environments.\\n\\n---\\n\\n### Examples of Articulation (DOs and DON'Ts)\\n\\n**✅ DO:**\\n- **Risk Densities:** \\\"8 of 15 renewal deals ($3.4M total) have common risks: delayed quotes and low partner engagement.\\\"\\n- **Momentum Bottlenecks:** \\\"7 'Commit' deals ($2.1M) have stalled with no progress for over 30 days, primarily in the Solution stage.\\\"\\n- **Contradiction Detection:** \\\"5 'Best Case' deals ($1.8M) are flagged as critical despite optimistic forecasts, showing unresolved risks.\\\"\\n- **Silent Zones:** \\\"12 opportunities totaling $4.5M have no logged activity in the last 45 days.\\\"\\n\\n**❌ DON'T:**\\n- \\\"Several renewal deals seem neglected lately.\\\"\\n- \\\"Many deals look risky because sales haven't secured wins yet.\\\"\\n\\n---\"}]}"}
 
 ## ChatGPT (2025-07-24T14:10:31.181539+00:00)
 
 I've clearly articulated the four distinct insight types—Risk Densities, Momentum Bottlenecks, Contradiction Detection, and Silent Zones—and included concise examples. Let me know if there's anything else you'd like to refine!
-

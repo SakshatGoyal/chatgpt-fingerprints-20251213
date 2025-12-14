@@ -35,12 +35,12 @@ Let me know your thoughts on these questions or if there's anything else you thi
 
 ## You (2025-06-13T20:46:30.549000+00:00)
 
-1. Intimate, personal, intellectually stimulating. 
+1. Intimate, personal, intellectually stimulating.
 2. Maybe about 2-3 hours, but we can end earlier
 3. Yes
-4. I don't know activities she knows. Let's just say she's a liberal, not a conservative. 
-5. Well let's not involve things like Zoom or skype. I'm gonna facetime her from my laptop to her phone. 
-6. Let's do virtual tours or virtual experiences, but ones that would really get a woman excited. Not something mundane. 
+4. I don't know activities she knows. Let's just say she's a liberal, not a conservative.
+5. Well let's not involve things like Zoom or skype. I'm gonna facetime her from my laptop to her phone.
+6. Let's do virtual tours or virtual experiences, but ones that would really get a woman excited. Not something mundane.
 
 In the next step, let's discuss the persona qualities needed for this prompt.
 
@@ -72,4 +72,3 @@ Excellent! Now let's focus on identifying the ideal **execution persona** qualit
 Do these qualities align with what you envision, or would you like to adjust or add to them?
 
 When you're ready, confirm or adjust, and say **"begin creating the prompt."**
-

@@ -46,4 +46,3 @@ Here are several things you can try at home to reduce or eliminate snoring:
 If snoring persists despite these measures or you're experiencing symptoms like daytime fatigue, gasping, or pauses in breathing, consider medical consultation. This could signal sleep apnea, which warrants professional evaluation.
 
 Want more detail on any of these approaches?
-

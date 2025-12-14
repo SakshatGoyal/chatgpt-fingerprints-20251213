@@ -87,4 +87,3 @@ MODULE 29 - C2-I3,Mental Model Reconfiguration,Limited Mandates,Sequenced Timing
 MODULE 29 - C3-I3,Innovation-Capital Balancing,Mandate-Driven,Sequenced Timing,Interlinked,Medium-Term Resilience
 MODULE 29 - C3-I5,Decentralized Data Management,Mandate-Driven,Coordinated Timing,Componentized,Medium-Term Resilience
 MODULE 3 - C1-I3,Sustainability Integration,Governed End-to-End,Coordinated Timing,Interlinked,Medium-Term Resilience
-

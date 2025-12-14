@@ -5,7 +5,7 @@
 Hey Andrew, help me write a prompt. keep in mind, the following prompt outlines things i like, and things i dont like in context of another ongoing chat thread. so please make sure that you preserve some of that context. Here's my version of the prompt:
 
 
-I’m gonna give you examples of two things i like;1. the ‘expanded table of decision scnearios’I like how thorough this was. Let’s take the first example:Scenario: Market ExpansionKey Questions to Investigate: How do leaders assess risk? What data sources are most critical? How do they validate demand in uncertain markets?Subcategories: 
+I’m gonna give you examples of two things i like;1. the ‘expanded table of decision scnearios’I like how thorough this was. Let’s take the first example:Scenario: Market ExpansionKey Questions to Investigate: How do leaders assess risk? What data sources are most critical? How do they validate demand in uncertain markets?Subcategories:
 - New Geographic Regions (e.g., international expansion)
 - Digital Market Expansion (e.g., e-commerce penetration)
 - Strategic Partnerships (e.g., alliances for joint market entry)
@@ -18,18 +18,18 @@ AI-Relevant Aspects:- Predictive analytics for demand forecasting
 - PESTEL Analysis for understanding external factors
 - CAGE Framework for assessing cultural, administrative, geographic, and economic distance
 
-What I liked: 
-I was able to use this with my team to create a very comprehensive list of search queries tailored to the context. It helped us avoid a lot of manual work, and keep a targetted search. 
-What i didn’t like:This was missing industries, which diverted our search into a few tangential industries. 
+What I liked:
+I was able to use this with my team to create a very comprehensive list of search queries tailored to the context. It helped us avoid a lot of manual work, and keep a targetted search.
+What i didn’t like:This was missing industries, which diverted our search into a few tangential industries.
 
 
-2. I really liked the “Recommended Insustries and Vertical Segments for your research” I particularly liked the “Industry + Vertical Pairings for Maximum Contrast” section you gave me. 
+2. I really liked the “Recommended Insustries and Vertical Segments for your research” I particularly liked the “Industry + Vertical Pairings for Maximum Contrast” section you gave me.
 
 What I liked:
-It gave us industries and verticals within the industry. 
+It gave us industries and verticals within the industry.
 
 What i didn’t like:
-It lacked a connection to ‘research questions’, common painpoints to look for. 
+It lacked a connection to ‘research questions’, common painpoints to look for.
 
 
 Objective: I want to see if we can create a combination of the two, and create a very exhastive collection. This collection will help us to then refine our search, so that we don’t go off on tangenets. This combined output will also give us an exhaustive list of queries. I don’t need you to create a collection of querries, that’s our job. But you could help create a very comprehensive list of industries in combination with verticals, along with things like scenrios, key questions to investigate, subcategories, common painpoints, etc…
@@ -65,19 +65,19 @@ Before drafting the final prompt, let’s clarify a few essential points to ensu
 
 ## You (2025-03-17T01:06:17.224000+00:00)
 
-1. I want a detailed exploration within 'the' select industries the bot 'michael' has mentioned in a previous chat response. 
+1. I want a detailed exploration within 'the' select industries the bot 'michael' has mentioned in a previous chat response.
 
-2. I want to prioritize the industries and verticals that Michael has outlined previously. 
+2. I want to prioritize the industries and verticals that Michael has outlined previously.
 
-3. The verticals is also something chat chatgpt (Michael) has outlined in the previous response. 
+3. The verticals is also something chat chatgpt (Michael) has outlined in the previous response.
 
 4. Stick with the scenarios, painpoints, industries, and verticals Michael has outlines in the previous responses
 
 5. Sure, lets outline AI relevant aspects too
 
-6. I want the output in structured bullet points. 
+6. I want the output in structured bullet points.
 
-7. I'm not sure, I want chatgpt to think through and determine the best call to action. 
+7. I'm not sure, I want chatgpt to think through and determine the best call to action.
 
 ---
 
@@ -87,11 +87,8 @@ Keep in mind, I'm giving these instructions to 'Michael'
 
 Here's the structured, optimized prompt to send directly to **Michael**, precisely capturing your objectives and clearly referencing the previous context:
 
-## ChatGPT (2025-03-17T01:06:20.646100+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"industry_vertical_prompt\",\"type\":\"document\",\"content\":\"**Optimized Prompt for Michael:**\\n\\n**Goal & Core Objective:**\\nCreate an exhaustive, structured, and detailed exploration combining the previous two responses: (1) the 'Expanded Table of Decision Scenarios' and (2) the 'Recommended Industries and Vertical Segments.' This combined resource should thoroughly cover the industries and vertical pairings you've previously outlined, including scenarios, key questions, subcategories, common pain points, and clearly identified AI-relevant aspects.\\n\\n**Step-by-Step Reasoning:**\\n1. Clearly list each of the industries and corresponding vertical pairings previously mentioned.\\n2. For each industry-vertical pairing:\\n   - Define clearly stated scenarios (e.g., Market Expansion) relevant to that pairing.\\n   - Provide key investigative questions tailored to each scenario.\\n   - Clearly specify subcategories for deeper exploration within each scenario.\\n   - Identify common pain points clearly and precisely.\\n   - Explicitly outline AI-relevant aspects applicable to each scenario, such as predictive analytics, NLP tools, or partnership candidate identification.\\n3. Ensure the industries, vertical pairings, and scenarios are directly aligned with your previous recommendations.\\n\\n**Output Format:**\\n- Use structured bullet points clearly segmented under:\\n  - **Industry & Vertical Pairing:** (clearly identified)\\n  - **Scenario:** (clearly named)\\n  - **Key Questions:** (bullet points)\\n  - **Subcategories:** (bullet points)\\n  - **Common Pain Points:** (bullet points)\\n  - **AI-Relevant Aspects:** (bullet points)\\n\\n**Constraints & Assumptions:**\\n- Stick strictly to the industries, verticals, scenarios, and pain points you previously identified.\\n- Do not introduce unrelated industries or tangential verticals unless directly relevant to the previously identified scenario or vertical.\\n\\n**Context & Background:**\\nThis detailed collection aims to support targeted search query creation, avoiding tangential exploration and enhancing our team's ability to focus precisely on high-value scenarios, relevant industry-vertical combinations, and associated pain points.\\n\\n**Persona and Role Definition:**\\nMaintain your persona as 'Michael', ensuring consistency with the previous tone, depth of insight, and relevance to industry research.\\n\\n**Adaptive Follow-Up Guidance:**\\nIf there are areas or blind spots you identify that would significantly enhance the comprehensiveness or effectiveness of our structured exploration, explicitly highlight them along with a recommended action.\"}"}
 
 ## ChatGPT (2025-03-17T01:06:48.283533+00:00)
 
 Does this align with your vision for Michael? Let me know if any refinements are needed!
-

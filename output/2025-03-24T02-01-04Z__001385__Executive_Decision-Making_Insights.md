@@ -354,82 +354,82 @@ For each module, ask yourself:
 
 ## ChatGPT (2025-03-24T02:01:53.454892+00:00)
 
-**INSIGHT MODULE 1:**  
-**ORIGINAL INSIGHT:**  
+**INSIGHT MODULE 1:**
+**ORIGINAL INSIGHT:**
 "While organizations have established documentation systems for major decisions, these systems predominantly capture outcomes rather than the underlying decision-making processes, potentially limiting opportunities for institutional learning." **[Empirical]**
 
-🔹 **COUNTERFACTUAL SCENARIO:**  
+🔹 **COUNTERFACTUAL SCENARIO:**
 Imagine a small, agile biotech startup where decision-making is inherently rapid and iterative, with built-in informal retrospectives that capture both outcomes and the thought processes behind them. In this scenario, explicit documentation of the process is unnecessary because lessons are learned in real time, and the agile culture makes the separation between process and outcome irrelevant.
 
-🔹 **ASSUMPTIONS & BIASES:**  
-- Assumes that capturing the decision process is universally critical for learning.  
-- Implies that outcome documentation is insufficient on its own, potentially reflecting a bias toward process-oriented frameworks.  
+🔹 **ASSUMPTIONS & BIASES:**
+- Assumes that capturing the decision process is universally critical for learning.
+- Implies that outcome documentation is insufficient on its own, potentially reflecting a bias toward process-oriented frameworks.
 - Overreliance on survey data from regulated, larger organizations may skew the assumption.
 
-🔹 **CONTEXT LIMITATIONS:**  
+🔹 **CONTEXT LIMITATIONS:**
 This insight might not hold in highly dynamic environments—such as startups or agile industries—where informal feedback loops and continuous improvement negate the need for detailed process documentation. It is particularly tailored to heavily regulated sectors like pharmaceuticals.
 
-🔹 **FINAL CRITIQUE:**  
+🔹 **FINAL CRITIQUE:**
 The insight presents a clear dichotomy between outcome and process documentation, yet it may oversimplify contexts where informal mechanisms effectively capture learning without structured process records.
 
 ---
 
-**INSIGHT MODULE 2:**  
-**ORIGINAL INSIGHT:**  
+**INSIGHT MODULE 2:**
+**ORIGINAL INSIGHT:**
 "The lack of formal incentives and feedback mechanisms in existing documentation systems undermines their potential to be effectively integrated into ongoing decision-making processes, leading to underutilized organizational knowledge." **[Empirical]**
 
-🔹 **COUNTERFACTUAL SCENARIO:**  
+🔹 **COUNTERFACTUAL SCENARIO:**
 Consider a mature financial services firm where a strong internal culture of continuous improvement and peer-driven accountability exists, even in the absence of formally codified incentives. Here, intrinsic motivation and informal reward systems drive the effective use of documented knowledge, rendering formal mechanisms less critical.
 
-🔹 **ASSUMPTIONS & BIASES:**  
-- Presumes that only formal, structured incentives can ensure effective utilization of documented knowledge.  
-- Implies a one-size-fits-all approach to motivating employees, neglecting the role of intrinsic motivation and established cultural norms.  
+🔹 **ASSUMPTIONS & BIASES:**
+- Presumes that only formal, structured incentives can ensure effective utilization of documented knowledge.
+- Implies a one-size-fits-all approach to motivating employees, neglecting the role of intrinsic motivation and established cultural norms.
 - Potential bias toward extrinsic rewards over informal, culturally embedded practices.
 
-🔹 **CONTEXT LIMITATIONS:**  
+🔹 **CONTEXT LIMITATIONS:**
 This insight is primarily applicable to organizations lacking a strong internal culture of knowledge sharing. It may not hold in environments where long-established norms and peer-driven systems already ensure the effective use of documentation.
 
-🔹 **FINAL CRITIQUE:**  
+🔹 **FINAL CRITIQUE:**
 While the insight underscores a common issue, it risks oversimplification by not accounting for environments where informal, intrinsic incentives are sufficient to drive effective integration of documentation into decision-making.
 
 ---
 
-**INSIGHT MODULE 3:**  
-**ORIGINAL INSIGHT:**  
+**INSIGHT MODULE 3:**
+**ORIGINAL INSIGHT:**
 "Leveraging advanced technology—including artificial intelligence for data extraction—emerges as a promising strategy to enhance decision documentation, but its successful integration demands overcoming both technical challenges and entrenched cultural norms." **[Inferred]**
 
-🔹 **COUNTERFACTUAL SCENARIO:**  
+🔹 **COUNTERFACTUAL SCENARIO:**
 Imagine a tech-forward consumer electronics company where digital transformation is already deeply embedded in the organizational culture. In such an environment, the workforce is highly adaptable to new technologies, and legacy systems have been modernized. Here, AI integration for documentation faces minimal cultural resistance and technical hurdles, undermining the insight’s implied challenges.
 
-🔹 **ASSUMPTIONS & BIASES:**  
-- Assumes that resistance to technology adoption is pervasive and that legacy systems are the norm.  
-- Reflects a bias that organizational change is always slow and culturally entrenched, ignoring sectors where digital transformation is routine.  
+🔹 **ASSUMPTIONS & BIASES:**
+- Assumes that resistance to technology adoption is pervasive and that legacy systems are the norm.
+- Reflects a bias that organizational change is always slow and culturally entrenched, ignoring sectors where digital transformation is routine.
 - Overgeneralizes the obstacles based on experiences from more conservative industries.
 
-🔹 **CONTEXT LIMITATIONS:**  
+🔹 **CONTEXT LIMITATIONS:**
 This insight is most relevant in industries with longstanding legacy systems and resistance to change, such as traditional pharmaceuticals. It might not apply in modern, tech-driven sectors where the integration of AI is already streamlined.
 
-🔹 **FINAL CRITIQUE:**  
+🔹 **FINAL CRITIQUE:**
 The insight captures a potential barrier to technological integration but may exaggerate the challenges by presuming a universal cultural inertia that does not exist across all industries or organizations.
 
 ---
 
-**INSIGHT MODULE 4:**  
-**ORIGINAL INSIGHT:**  
+**INSIGHT MODULE 4:**
+**ORIGINAL INSIGHT:**
 "Discrepancies in perceived transparency between pharmaceutical companies and regulatory agencies highlight the urgent need for harmonized public assessment reports to foster greater external accountability." **[Empirical]**
 
-🔹 **COUNTERFACTUAL SCENARIO:**  
+🔹 **COUNTERFACTUAL SCENARIO:**
 Envision a scenario in a collaborative healthcare consortium where both pharmaceutical companies and regulatory agencies operate under a unified governance framework with aligned transparency standards. In this setting, perceptions of transparency are congruent across stakeholders, and the call for harmonized public assessment reports loses its urgency.
 
-🔹 **ASSUMPTIONS & BIASES:**  
-- Assumes that the disparity in transparency perceptions is inherent and pervasive between companies and regulators.  
-- Suggests that harmonization through standardized reports is the only remedy, potentially ignoring alternative collaborative mechanisms.  
+🔹 **ASSUMPTIONS & BIASES:**
+- Assumes that the disparity in transparency perceptions is inherent and pervasive between companies and regulators.
+- Suggests that harmonization through standardized reports is the only remedy, potentially ignoring alternative collaborative mechanisms.
 - Reflects a bias towards the need for formalized public reporting without considering existing integrated practices.
 
-🔹 **CONTEXT LIMITATIONS:**  
+🔹 **CONTEXT LIMITATIONS:**
 This insight is particularly applicable in fragmented regulatory environments but may not hold in sectors or regions where regulatory bodies and companies already share closely aligned transparency practices due to cooperative industry standards or integrated oversight.
 
-🔹 **FINAL CRITIQUE:**  
+🔹 **FINAL CRITIQUE:**
 The insight presents a binary view of transparency that may oversimplify the dynamics between companies and regulators, overlooking scenarios where aligned practices already foster sufficient external accountability.
 
 ## You (2025-03-24T02:04:25.808000+00:00)
@@ -470,21 +470,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -497,4 +497,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T02:04:27.176114+00:00)
 
 Bujar, M., McAuslane, N., Connelly, P., & Walker, S. R. (2020). Quality decision-making practices in pharmaceutical companies and regulatory authorities: Current and proposed approaches to its documentation. *Therapeutic Innovation & Regulatory Science, 54*(6), 1404–1415. https://doi.org/10.1007/s43441-020-00167-7
-

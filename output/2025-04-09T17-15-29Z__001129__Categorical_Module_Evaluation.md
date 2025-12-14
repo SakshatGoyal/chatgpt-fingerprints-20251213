@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:15:30.649508+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 91 - C1-I7,Value Clash,Capability Frame,Future-Proofed,Unknown,Now vs. Later,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 34 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Shallow Change  
-CATEGORICAL MODULE 44 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Unknown,Comfort Bias  
-CATEGORICAL MODULE 28 - C2-I2,Signal Split,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Ignored Insight  
-CATEGORICAL MODULE 29 - C2-I2,Signal Split,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 3 - C2-I3,Value Clash,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Overstretched Org,Process Trap  
-CATEGORICAL MODULE 17 - C2-I4,Cultural Drift,Capability Frame,Unknown,Unknown,Now vs. Later,Adaptive Growth,Legacy Hold  
-CATEGORICAL MODULE 30 - C2-I5,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 8 - C2-I6,Cultural Drift,Capability Frame,Alignment Achieved,Unknown,Vision vs. Reality,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 3 - C3-I1,Cognitive Fog,Evidence Frame,Alignment Achieved,Unknown,Vision vs. Reality,Adaptive Growth,Belief Bubble  
-CATEGORICAL MODULE 21 - C3-I1,System Tangle,Evidence Frame,Future-Proofed,Unknown,Vision vs. Reality,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 10 - C3-I2,Cognitive Fog,Evidence Frame,Unknown,Unknown,Plan vs. React,Lost Direction,Certainty Illusion  
-CATEGORICAL MODULE 3 - C3-I3,Cognitive Fog,Capability Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Capability Gap  
-CATEGORICAL MODULE 10 - C3-I3,Value Clash,Evidence Frame,Future-Proofed,True Clarity,Now vs. Later,Governance Shift,Shallow Change  
-CATEGORICAL MODULE 14 - C3-I3,System Tangle,Evidence Frame,Alignment Achieved,Unknown,Plan vs. React,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 6 - C3-I5,Value Clash,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 14 - C3-I5,Unknown,Capability Frame,Locked In,Unknown,Plan vs. React,Adaptive Growth,Legacy Hold  
-CATEGORICAL MODULE 27 - C3-I5,Value Clash,Capability Frame,Alignment Achieved,Unknown,Vision vs. Reality,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 28 - C3-I5,Value Clash,Evidence Frame,Future-Proofed,True Clarity,Plan vs. React,Adaptive Growth,Shallow Change  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 91 - C1-I7,Value Clash,Capability Frame,Future-Proofed,Unknown,Now vs. Later,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 34 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Shallow Change
+CATEGORICAL MODULE 44 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Unknown,Comfort Bias
+CATEGORICAL MODULE 28 - C2-I2,Signal Split,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Ignored Insight
+CATEGORICAL MODULE 29 - C2-I2,Signal Split,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 3 - C2-I3,Value Clash,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Overstretched Org,Process Trap
+CATEGORICAL MODULE 17 - C2-I4,Cultural Drift,Capability Frame,Unknown,Unknown,Now vs. Later,Adaptive Growth,Legacy Hold
+CATEGORICAL MODULE 30 - C2-I5,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 8 - C2-I6,Cultural Drift,Capability Frame,Alignment Achieved,Unknown,Vision vs. Reality,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 3 - C3-I1,Cognitive Fog,Evidence Frame,Alignment Achieved,Unknown,Vision vs. Reality,Adaptive Growth,Belief Bubble
+CATEGORICAL MODULE 21 - C3-I1,System Tangle,Evidence Frame,Future-Proofed,Unknown,Vision vs. Reality,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 10 - C3-I2,Cognitive Fog,Evidence Frame,Unknown,Unknown,Plan vs. React,Lost Direction,Certainty Illusion
+CATEGORICAL MODULE 3 - C3-I3,Cognitive Fog,Capability Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Capability Gap
+CATEGORICAL MODULE 10 - C3-I3,Value Clash,Evidence Frame,Future-Proofed,True Clarity,Now vs. Later,Governance Shift,Shallow Change
+CATEGORICAL MODULE 14 - C3-I3,System Tangle,Evidence Frame,Alignment Achieved,Unknown,Plan vs. React,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 6 - C3-I5,Value Clash,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 14 - C3-I5,Unknown,Capability Frame,Locked In,Unknown,Plan vs. React,Adaptive Growth,Legacy Hold
+CATEGORICAL MODULE 27 - C3-I5,Value Clash,Capability Frame,Alignment Achieved,Unknown,Vision vs. Reality,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 28 - C3-I5,Value Clash,Evidence Frame,Future-Proofed,True Clarity,Plan vs. React,Adaptive Growth,Shallow Change
 CATEGORICAL MODULE 1 - C3-I6,Cognitive Fog,Capability Frame,Unknown,True Clarity,Plan vs. React,Adaptive Growth,Comfort Bias
-

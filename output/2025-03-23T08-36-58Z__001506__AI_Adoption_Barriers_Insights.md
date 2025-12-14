@@ -157,46 +157,46 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 ## Grounded Executive Insights
 
 ### Insight 1: Cognitive Resistance Driven by Mistrust and Fear
-**1. Insight Statement:**  
+**1. Insight Statement:**
 Executives should recognize that cognitive resistance is primarily driven by fears of job displacement and mistrust in “black box” AI systems, underscoring the need for transparent and explainable AI processes. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Balancing the rapid integration of AI technologies with the imperative to address employee fears and build trust.  
-- **Underlying Beliefs & Biases:** Confirmation bias and an inherent distrust of opaque decision-making processes contribute to resistance, reinforcing negative perceptions of AI.  
-- **Expected vs. Actual Outcomes:** Although AI promises enhanced efficiency, without clear communication and transparency, organizations risk persistent skepticism and suboptimal adoption.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** Balancing the rapid integration of AI technologies with the imperative to address employee fears and build trust.
+- **Underlying Beliefs & Biases:** Confirmation bias and an inherent distrust of opaque decision-making processes contribute to resistance, reinforcing negative perceptions of AI.
+- **Expected vs. Actual Outcomes:** Although AI promises enhanced efficiency, without clear communication and transparency, organizations risk persistent skepticism and suboptimal adoption.
 - **Broader Implications:** This dynamic calls for proactive change management and strategic communication to recalibrate employee expectations and foster a culture of openness. **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The study draws on multiple sources (e.g., Shahed et al., 2022; Bond, 2024) to demonstrate that when organizations provide clear, accessible explanations of AI mechanisms and incorporate comprehensive training, cognitive resistance is significantly reduced. Evidence indicates that transparency not only alleviates fear but also enhances trust, making it an essential strategy for successful AI adoption. **[Empirical]**
 
 ---
 
 ### Insight 2: Organizational Resistance and the Need for Aligned Leadership
-**1. Insight Statement:**  
+**1. Insight Statement:**
 The research highlights that organizational resistance, fueled by structural inertia and misaligned strategies, necessitates that leaders actively align AI initiatives with broader business objectives and foster a culture receptive to innovation. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Overcoming entrenched organizational practices that impede AI readiness while ensuring that new technology initiatives are integrated with existing structures.  
-- **Underlying Beliefs & Biases:** A deep-rooted adherence to traditional workflows and skepticism toward disruptive change often hinders progress, calling for strong, task-oriented leadership.  
-- **Expected vs. Actual Outcomes:** Although AI can drive significant efficiency gains, misalignment between strategy and execution typically results in fragmented implementation and diminished returns.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** Overcoming entrenched organizational practices that impede AI readiness while ensuring that new technology initiatives are integrated with existing structures.
+- **Underlying Beliefs & Biases:** A deep-rooted adherence to traditional workflows and skepticism toward disruptive change often hinders progress, calling for strong, task-oriented leadership.
+- **Expected vs. Actual Outcomes:** Although AI can drive significant efficiency gains, misalignment between strategy and execution typically results in fragmented implementation and diminished returns.
 - **Broader Implications:** Leaders must leverage robust governance frameworks and high-performance work systems to bridge the gap between innovative potential and operational reality. **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The paper’s conceptual framework (Cai et al., 2023) details how resistance to change adversely affects AI readiness and demonstrates that task-oriented leadership and supportive organizational systems can moderate this effect. This evidence reinforces the need for strategic alignment and proactive leadership to overcome structural barriers. **[Empirical]**
 
 ---
 
 ### Insight 3: Ethical and Transparency Concerns as Crucial Barriers
-**1. Insight Statement:**  
+**1. Insight Statement:**
 Ethical challenges—such as algorithmic bias, privacy breaches, and accountability issues—are pivotal barriers to AI adoption, mandating the implementation of transparent governance and robust ethical frameworks. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Balancing the push for innovative AI solutions with the imperative to uphold ethical standards and protect stakeholder interests.  
-- **Underlying Beliefs & Biases:** The prevalent mistrust in “black box” decision-making processes is exacerbated by concerns over bias and accountability, which can derail adoption efforts if not properly addressed.  
-- **Expected vs. Actual Outcomes:** While AI can streamline decision-making and operational processes, failure to address ethical concerns can lead to reputational risks and regulatory backlash.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** Balancing the push for innovative AI solutions with the imperative to uphold ethical standards and protect stakeholder interests.
+- **Underlying Beliefs & Biases:** The prevalent mistrust in “black box” decision-making processes is exacerbated by concerns over bias and accountability, which can derail adoption efforts if not properly addressed.
+- **Expected vs. Actual Outcomes:** While AI can streamline decision-making and operational processes, failure to address ethical concerns can lead to reputational risks and regulatory backlash.
 - **Broader Implications:** The need for transparent protocols, ethical guidelines, and proactive stakeholder engagement is critical to ensure that AI initiatives are both innovative and socially responsible. **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 Empirical evidence within the paper, supported by sources such as Barocas et al. (2019) and Floridi et al. (2018), underscores that ethical dilemmas—if left unchecked—can significantly undermine stakeholder trust. The study suggests that rigorous data protection impact assessments and ethical training programs are essential to mitigate these risks and build confidence in AI systems. **[Empirical]**
 
 ---
@@ -447,21 +447,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -474,4 +474,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T08:39:50.136910+00:00)
 
 Ivchyk, V. (2024). *Overcoming barriers to artificial intelligence adoption*. Three Seas Economic Journal, 5(4). https://doi.org/10.30525/2661-5150/2024-4-3
-

@@ -1,8 +1,6 @@
 # AI Medical Report Analysis
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2024-12-06T18:33:17.997098+00:00)
 
@@ -63,45 +61,43 @@ This setup would allow your assistant to work effectively with minimal medical k
 
 no you don't want to build a tool, but rather use an out-of-the-box solution. Think of it like NotebookLM, but for medical diagnosis.
 
-## ChatGPT (2024-12-06T18:35:17.101319+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search(\"no you don't want to build a tool, but rather use an out-of-the-box solution. Think of it like NotebookLM, but for medical diagnosis. \")"}
 
 ## ChatGPT (2024-12-06T18:35:17.101510+00:00)
 
-For efficiently analyzing and summarizing medical reports without developing a custom solution, consider the following AI-powered tools:
+For efficiently analyzing and summarizing medical reports without developing a custom solution, consider the following AI-powered tools:
 
 :::contextList
 【{"image_fetch": "Dodon AI medical record summarization"}】
-**Dodon AI**  
-Utilizes advanced algorithms to process complex medical data, generating concise summaries and chronologies of patient healthcare histories, including doctor visits, injuries, and illnesses. citeturn0search2
+**Dodon AI**
+Utilizes advanced algorithms to process complex medical data, generating concise summaries and chronologies of patient healthcare histories, including doctor visits, injuries, and illnesses.
 :::
 
 :::contextList
 【{"image_fetch": "YesChat Doctor AI Report Expert"}】
-**Doctor AI Report Expert by YesChat**  
-Designed to interpret and analyze medical and X-ray reports, this tool assists in preliminary reviews by highlighting significant findings, identifying abnormalities, and suggesting areas for further medical evaluation. citeturn0search4
+**Doctor AI Report Expert by YesChat**
+Designed to interpret and analyze medical and X-ray reports, this tool assists in preliminary reviews by highlighting significant findings, identifying abnormalities, and suggesting areas for further medical evaluation.
 :::
 
 :::contextList
 【{"image_fetch": "MediScan AI medical record summarization"}】
-**MediScan AI**  
-Delivers accurate medical record summaries and chronologies in minutes, powered by cutting-edge AI built for physicians and attorneys, streamlining the review process. citeturn0search21
+**MediScan AI**
+Delivers accurate medical record summaries and chronologies in minutes, powered by cutting-edge AI built for physicians and attorneys, streamlining the review process.
 :::
 
 :::contextList
 【{"image_fetch": "Wisedocs AI medical record summary platform"}】
-**Wisedocs**  
-Implements state-of-the-art machine learning to provide immediate, concise summaries of medical records, aiding in efficient processing and review. citeturn0search24
+**Wisedocs**
+Implements state-of-the-art machine learning to provide immediate, concise summaries of medical records, aiding in efficient processing and review.
 :::
 
 :::contextList
 【{"image_fetch": "Abridge AI medical scribe"}】
-**Abridge**  
-Records patient visits (with consent) and automatically generates summaries for medical records, facilitating billing and coding, and is utilized by thousands of clinicians. citeturn0news45
+**Abridge**
+Records patient visits (with consent) and automatically generates summaries for medical records, facilitating billing and coding, and is utilized by thousands of clinicians.
 :::
 
-These tools offer out-of-the-box solutions for summarizing medical reports, enabling assistants without medical expertise to efficiently process and interpret patient data.
+These tools offer out-of-the-box solutions for summarizing medical reports, enabling assistants without medical expertise to efficiently process and interpret patient data.
 
 ## You (2024-12-06T18:41:39.576518+00:00)
 
@@ -188,4 +184,3 @@ An **Ultrasound of the Abdomen and Pelvis** typically takes **20 to 30 minutes**
    - Type and quality of ultrasound machine being used.
 
 Overall, the procedure itself is usually brief, efficient, and non-invasive.
-

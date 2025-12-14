@@ -217,15 +217,15 @@ Begin laying the groundwork and executing the application process by following a
 ---
 
 ### 📌 Applicant Context (Input Facts):
-- Age: 62  
-- Immigration Status: Tourist visa (non-citizen, non-permanent resident)  
-- Income: $0  
-- Assets: Significant assets in India (not counted for eligibility)  
-- Health Insurance: None  
-- Residency: Temporarily staying in the Bay Area with a family member, willing to establish residency  
-- Language: Speaks and understands English  
-- Needs: Affordable prescription access for ongoing medical treatment  
-- Urgency: Access needed within days to 1–2 weeks max  
+- Age: 62
+- Immigration Status: Tourist visa (non-citizen, non-permanent resident)
+- Income: $0
+- Assets: Significant assets in India (not counted for eligibility)
+- Health Insurance: None
+- Residency: Temporarily staying in the Bay Area with a family member, willing to establish residency
+- Language: Speaks and understands English
+- Needs: Affordable prescription access for ongoing medical treatment
+- Urgency: Access needed within days to 1–2 weeks max
 
 ---
 
@@ -241,7 +241,7 @@ Prepare the following documents or declarations:
 - [ ] Optional: Any recent medical receipts to request **retroactive coverage**
 
 #### 2. **Online Application Initiation**
-- Begin application at [https://benefitscal.com](https://benefitscal.com)  
+- Begin application at [https://benefitscal.com](https://benefitscal.com)
 - Ensure all eligibility answers are framed according to Health4All guidance:
   - **Resident of California?** → Yes
   - **Intend to remain?** → Yes
@@ -277,7 +277,7 @@ Initiate this process today. Your goal is to complete all necessary intake steps
 
 ## You (2025-05-02T00:17:05.910000+00:00)
 
-hey wait, just to be clear, most of thee documents are not with me right now, and obviously the operator [if its not clear, i'm tlaking about the ChatGPT operator, that's a web browsing agent]. I need it to basically navigate the process, start filling out the necessary details and basically act as my copilot, just call me when I need to 'upload' documents but it can fill out the forms and start getting the basics ready for me. 
+hey wait, just to be clear, most of thee documents are not with me right now, and obviously the operator [if its not clear, i'm tlaking about the ChatGPT operator, that's a web browsing agent]. I need it to basically navigate the process, start filling out the necessary details and basically act as my copilot, just call me when I need to 'upload' documents but it can fill out the forms and start getting the basics ready for me.
 
 Also, my mom's age is 60. her email id will be s.goyalfamilydocuments@gmail.com.
 
@@ -303,40 +303,39 @@ You are authorized to:
 - Alert the user only when action is required (e.g., confirmation, signature, file upload)
 
 ### ✅ Known Applicant Details:
-- **Full Name**: S. Goyal  
-- **Age**: 60  
-- **Email**: s.goyalfamilydocuments@gmail.com  
-- **Immigration Status**: On a U.S. tourist visa  
-- **Residency**: Temporarily staying in California with intention to remain  
-- **Income**: $0  
-- **Assets**: All assets held in India — not counted for Medi-Cal  
-- **Social Security Number**: Not applicable  
-- **Health Insurance**: None  
-- **Languages Spoken**: English  
-- **Current Address**: Will be provided later via document upload or typed input  
+- **Full Name**: S. Goyal
+- **Age**: 60
+- **Email**: s.goyalfamilydocuments@gmail.com
+- **Immigration Status**: On a U.S. tourist visa
+- **Residency**: Temporarily staying in California with intention to remain
+- **Income**: $0
+- **Assets**: All assets held in India — not counted for Medi-Cal
+- **Social Security Number**: Not applicable
+- **Health Insurance**: None
+- **Languages Spoken**: English
+- **Current Address**: Will be provided later via document upload or typed input
 - **Medical Need**: Needs immediate access to prescriptions under Medi-Cal
 
 ### 🔧 Copilot Instructions:
 1. Navigate to [https://benefitscal.com](https://benefitscal.com) and begin the **Medi-Cal application process**.
 2. For any section requiring:
-   - Proof of ID  
-   - Proof of California address  
-   - Letter of residency intent  
-   - Income declaration letter  
+   - Proof of ID
+   - Proof of California address
+   - Letter of residency intent
+   - Income declaration letter
    ...pause and notify the user to upload or draft the required document.
 3. Ensure that:
    - The **Older Adult Expansion** pathway (50+ immigrant eligibility) is selected
    - The user **requests retroactive coverage** if prompted
    - Any SSN or immigration doc questions are marked as “Not applicable” or “Not available”
 4. Confirm and record:
-   - Application tracking number  
-   - Submission status  
-   - Any pending tasks or verification steps  
+   - Application tracking number
+   - Submission status
+   - Any pending tasks or verification steps
 5. If any field requires info not yet provided, stop and ask the user to supply it directly.
 
 Keep the user updated on progress and next steps in real time. Actively minimize their involvement to only what is legally or technically required.
 
---- 
+---
 
 Let me know if you'd like this version to be updated with more identifying details (like an address, phone number, or placeholder values) or if you want help drafting the actual support or residency letters next.
-

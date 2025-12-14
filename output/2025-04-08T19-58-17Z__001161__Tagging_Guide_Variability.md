@@ -2,7 +2,7 @@
 
 ## You (2025-04-08T19:58:17.183421+00:00)
 
-Hi, help me identify the issue with the following prompt. 
+Hi, help me identify the issue with the following prompt.
 
 
 ----
@@ -66,7 +66,7 @@ Start with the first 10 modules in the file.
 
 ---
 
-I'm also attaching the reference documents. 
+I'm also attaching the reference documents.
 
 In my opinion, regardless of the session, I should always get the same responses. However, i get different responses everytime. Here's an example:
 
@@ -84,7 +84,6 @@ CATEGORICAL MODULE 25 - C2-I1,Value Clash,Evidence Frame,Unknown,True Clarity,Gl
 CATEGORICAL MODULE 28 - C2-I1,Signal Split,Capability Frame,Unknown,No Signal,Now vs. Later,Execution Lag,Certainty Illusion,Overreach Trap
 CATEGORICAL MODULE 30 - C2-I1,System Tangle,Ecosystem Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Overstretched Org,Tech Mirage,Thin Execution
 CATEGORICAL MODULE 33 - C2-I1,Value Clash,Values Frame,Outside Approval,True Clarity,Global vs. Local,Adaptive Growth,Culture Clash,None
-
 
 
 RESPONSE 2:
@@ -246,7 +245,7 @@ You work only with what is observable in the text. You infer only when the logic
 
 🎓 **Evaluation Method (Two-Step Process)**
 
-**Step 1 – Internal Reasoning (Silent):**  
+**Step 1 – Internal Reasoning (Silent):**
 For each Categorical Module, do the following:
 - Read the entire module (Insight, Decision-Making Context, Supporting Context).
 - For each tag category, compare all candidate tags using the Evaluator Guide.
@@ -260,7 +259,7 @@ For each Categorical Module, do the following:
 
 ---
 
-**Step 2 – Final Output (Visible to User):**  
+**Step 2 – Final Output (Visible to User):**
 Emit **only** the CSV-formatted rows.
 
 ⚠️ Follow these constraints exactly:
@@ -292,7 +291,7 @@ couple of things...
 
 why have you reduced the prompt's persona qualities and background?
 
-Lets explicitly mention the evaluator guide by file name and extention. lets also bring back the reference to the .txt file. 
+Lets explicitly mention the evaluator guide by file name and extention. lets also bring back the reference to the .txt file.
 
 ---
 
@@ -340,17 +339,17 @@ You do **not** rely on keywords, buzzwords, or industry familiarity. You analyze
 
 📂 **Your Task**
 
-You are evaluating Categorical Modules drawn from the file:  
+You are evaluating Categorical Modules drawn from the file:
 📄 **`compilation_condensed 01.txt`**
 
-Your analysis must strictly follow the interpretive framework outlined in the guide:  
+Your analysis must strictly follow the interpretive framework outlined in the guide:
 📘 **`🧭 Evaluator Guide for Categorical Modules.md`**
 
 ---
 
 🎓 **Evaluation Protocol (Two-Step Process)**
 
-**Step 1 – Internal Reasoning (Silent)**  
+**Step 1 – Internal Reasoning (Silent)**
 For each module:
 - Read the full module: Insight, Decision-Making Context, Supporting Context.
 - For each of the 8 tagging categories below:
@@ -359,19 +358,19 @@ For each module:
   - Select the single best-supported tag.
   - If no tag is clearly justified, assign `Unknown`.
 
-> Your reasoning must align with the interpretive principles in the Evaluator Guide.  
+> Your reasoning must align with the interpretive principles in the Evaluator Guide.
 > This step is fully internal. Do **not** display your reasoning. Suppress it entirely before producing final output.
 
 ---
 
 📦 Tag Categories (1 per category):
-- Ambiguity Type  
-- Framing Move  
-- Stabilizer  
-- False Clarity  
-- Tension Axis  
-- Organizational Implication  
-- Friction Archetype  
+- Ambiguity Type
+- Framing Move
+- Stabilizer
+- False Clarity
+- Tension Axis
+- Organizational Implication
+- Friction Archetype
 - Decision Consequence
 
 ---
@@ -431,7 +430,7 @@ This kind of multi-phase prompt, when run inside ChatGPT's frontend or without c
 ---
 
 #### **3. Internal Reasoning May Conflict With Tag Simplicity**
-Some tags are meant to be picked based on clear binary logic (e.g. “Was a pilot used to stabilize the decision?” → `Tested First`).  
+Some tags are meant to be picked based on clear binary logic (e.g. “Was a pilot used to stabilize the decision?” → `Tested First`).
 Adding a reflective internal reasoning step may cause GPT to **overthink** those and consider secondary or abstract signals instead.
 
 ---
@@ -451,7 +450,7 @@ This restores determinism by removing ambiguity.
 
 ---
 
-#### 🧱 **Option B: Visible Reasoning (Controlled)**  
+#### 🧱 **Option B: Visible Reasoning (Controlled)**
 Rather than doing silent reasoning (which is invisible and stochastic), try:
 - Outputting a **single-sentence rationale** per tag, per module **in a hidden preamble** before the CSV
 - Then instructing: “If re-run, always return the same tags and explanations unless the module content changes.”
@@ -645,4 +644,3 @@ Great question — the naming convention for OpenAI’s model tiers can definite
 ---
 
 Let me know if you want a tailored version of your evaluation prompt designed for `o1`/GPT-3.5-turbo's strengths. It's a slightly different tuning game compared to 4o.
-

@@ -2,7 +2,7 @@
 
 ## You (2025-04-10T02:27:39.741677+00:00)
 
-take a look at this code. this starts with me filtering a few values, visualizing it in a sankey and donut chart, and then ends with a table of my selections. Help me with a very easy, simple way to just click a button above the table and download a csv of the generated table based on the filter values. 
+take a look at this code. this starts with me filtering a few values, visualizing it in a sankey and donut chart, and then ends with a table of my selections. Help me with a very easy, simple way to just click a button above the table and download a csv of the generated table based on the filter values.
 
 ----
 
@@ -67,7 +67,7 @@ FILTER_COLUMNS = [
     'Regulatory Exposure',
     'Timing Dependency',
     'Market Dispersion',
-    
+
     'Process Modularity',
     'Value Timeframe',
     'Knowledge Transferability',
@@ -114,9 +114,6 @@ DONUT_COLORS = [
     "#6929c4",  # medium 2
     "#012749"   # dark
 ]
-
-
-
 
 
 # Sankey layout geometry:
@@ -852,4 +849,3 @@ python full_analyzer.py
 Now, when you apply filters and scroll to the bottom, you'll see a **“Download Filtered Table”** button. Clicking it will download the visible filtered table as a CSV.
 
 Let me know if you want to customize the file name, format, or columns in the export.
-

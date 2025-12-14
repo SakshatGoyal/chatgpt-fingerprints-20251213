@@ -16,7 +16,7 @@ This breakdown of the event journey into four high-level phases is clear, logica
 2. **Attendance Phase:**
    - Since this phase can be quite dense, do you plan to subdivide it (e.g., keynotes, breakout sessions, networking) to analyze varying engagement levels?
    - How will you account for attendee multitasking or disengagement (e.g., checking phones, zoning out) during this phase? Is this behavior of interest?
-   
+
 3. **Reflection Phase:**
    - How do you plan to measure the timing of reflection (immediate vs. delayed) and its depth? Are there indicators you're considering (e.g., post-event surveys, social media posts)?
    - Is the goal to guide or structure this phase, or to observe how it naturally unfolds?
@@ -27,19 +27,19 @@ This breakdown of the event journey into four high-level phases is clear, logica
    - What tools or follow-ups (if any) do you envision supporting this phase (e.g., newsletters, resources)?
 
 ### Observations
-1. **Overlap Between Reflection and Divergence:**  
+1. **Overlap Between Reflection and Divergence:**
    For some attendees, the reflection and divergence phases might blend. For example, someone reflecting on what they learned may simultaneously begin acting on that knowledge. Do you see value in exploring these overlaps?
 
-2. **Persona-Specific Nuances:**  
+2. **Persona-Specific Nuances:**
    As you proceed to personas, consider whether certain personas might skip or shorten phases. For instance, a highly motivated professional might start reflecting mid-event, while a casual attendee might skip deep reflection and proceed straight to divergence.
 
-3. **Role of Event Design in Shaping Phases:**  
+3. **Role of Event Design in Shaping Phases:**
    How much do you want to shape these phases proactively? For example:
    - Can you structure pre-event prep to improve mental readiness?
    - Can post-event content (e.g., summaries, recordings) deepen reflection?
    - Could follow-up engagement strategies extend the divergence phase and encourage positive outcomes?
 
-4. **Metrics of Success:**  
+4. **Metrics of Success:**
    Have you considered metrics to evaluate each phase? For example:
    - Preparation: % of attendees who open pre-event emails or complete prep tasks.
    - Attendance: Engagement scores or session participation.
@@ -47,4 +47,3 @@ This breakdown of the event journey into four high-level phases is clear, logica
    - Divergence: Continued interaction (e.g., attending future events, joining communities).
 
 Does this feedback resonate with your framework? I'd love to collaborate further to refine these concepts!
-

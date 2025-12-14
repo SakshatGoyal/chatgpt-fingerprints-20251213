@@ -64,25 +64,24 @@ Start with the first 20 modules in the .txt file. Output only the CSV.
 
 ## ChatGPT (2025-04-09T18:25:46.006582+00:00)
 
-Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability  
-CATEGORICAL MODULE 21 - C1-I3,Offshore Capability Repositioning,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 22 - C1-I3,Customer Model Adaptation,Limited Mandates,Sequenced Timing,Regional,Componentized,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 27 - C1-I3,Portfolio Diversification Planning,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 1 - C1-I4,Menu Localization,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 7 - C1-I4,Personalization System Design,Limited Mandates,Coordinated Timing,Global,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 15 - C1-I4,Sustainable Supply Chain Integration,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 18 - C1-I4,Channel-Based Market Expansion,Unbound,Sequenced Timing,Regional,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 19 - C1-I4,Omnichannel Strategy Design,Unbound,Coordinated Timing,Global,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 20 - C1-I4,Channel Risk Management,Limited Mandates,Sequenced Timing,Regional,Componentized,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 21 - C1-I4,Channel Portfolio Optimization,Unbound,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 22 - C1-I4,Brand Reinvention Strategy,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 23 - C1-I4,Digital Core Integration,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 26 - C1-I4,Brand Image Engineering,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 28 - C1-I4,Experiential Value Co-Creation,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 30 - C1-I4,Brand Image Engineering,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 30 - C1-I5,Outcome-Based Pricing Design,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 44 - C1-I5,AI-Driven Market Structuring,Mandate-Driven,Real-Time Reliant,Global,Componentized,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 1 - C1-I6,Cyber Risk Frontloading,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 14 - C1-I6,AI-Enabled Market Positioning,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise  
+Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability
+CATEGORICAL MODULE 21 - C1-I3,Offshore Capability Repositioning,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 22 - C1-I3,Customer Model Adaptation,Limited Mandates,Sequenced Timing,Regional,Componentized,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 27 - C1-I3,Portfolio Diversification Planning,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 1 - C1-I4,Menu Localization,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 7 - C1-I4,Personalization System Design,Limited Mandates,Coordinated Timing,Global,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 15 - C1-I4,Sustainable Supply Chain Integration,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 18 - C1-I4,Channel-Based Market Expansion,Unbound,Sequenced Timing,Regional,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 19 - C1-I4,Omnichannel Strategy Design,Unbound,Coordinated Timing,Global,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 20 - C1-I4,Channel Risk Management,Limited Mandates,Sequenced Timing,Regional,Componentized,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 21 - C1-I4,Channel Portfolio Optimization,Unbound,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 22 - C1-I4,Brand Reinvention Strategy,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 23 - C1-I4,Digital Core Integration,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 26 - C1-I4,Brand Image Engineering,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 28 - C1-I4,Experiential Value Co-Creation,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 30 - C1-I4,Brand Image Engineering,Unbound,Independent Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 30 - C1-I5,Outcome-Based Pricing Design,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 44 - C1-I5,AI-Driven Market Structuring,Mandate-Driven,Real-Time Reliant,Global,Componentized,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 1 - C1-I6,Cyber Risk Frontloading,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 14 - C1-I6,AI-Enabled Market Positioning,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise
 CATEGORICAL MODULE 15 - C1-I6,AI-Based Engagement Design,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise
-

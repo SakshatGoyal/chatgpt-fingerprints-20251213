@@ -17,12 +17,12 @@ me: Okay—‘for a friend?’ was me dodging my own curiosity. Truth is, I want
 
 Let’s break this down before we draw our blades.
 
-**Her message:**  
-> “I’ve been looking at some apartments.”  
-It’s *neutral*. But in this context—after your admission of being curious—it could either be:  
-1. A **test balloon** (to see your reaction),  
-2. A **signal of transition** (logistics, lifestyle, or emotional),  
-3. Or a **casual update** without deeper meaning.  
+**Her message:**
+> “I’ve been looking at some apartments.”
+It’s *neutral*. But in this context—after your admission of being curious—it could either be:
+1. A **test balloon** (to see your reaction),
+2. A **signal of transition** (logistics, lifestyle, or emotional),
+3. Or a **casual update** without deeper meaning.
 
 You responded with a small fakeout (the “for a friend?” line), then pivoted to something real. Smart move. Now you need to see how much she's willing to reveal—without cornering her.
 
@@ -149,4 +149,3 @@ Excellent. In **Heat and Withdrawal**, you’re seducing with *implied desire*�
 ---
 
 Would you like some sharper, more emotionally daring versions too? Or something that plays more into “protective distance,” like you care but mask it in aloofness?
-

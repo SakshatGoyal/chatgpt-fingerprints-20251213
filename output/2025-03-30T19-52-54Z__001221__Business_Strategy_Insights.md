@@ -30,7 +30,7 @@ Each cluster should include:
 - A list of associated `ModuleID`s
 
 > ✅ If fewer than three valid clusters are found, return only those supported by the data. Do not fabricate clusters.
-> 
+>
 
 ---
 
@@ -83,7 +83,7 @@ For each case:
 - List the associated `ModuleID`s
 
 > Only include tags that are not "Unknown", and fall in the bottom 25% of frequency in their column.
-> 
+>
 
 ---
 
@@ -98,7 +98,7 @@ For each such tag:
 - List the associated `ModuleID`s
 
 > Only include tags that are not "Unknown", and fall in the top 25% of frequency within the rare subset.
-> 
+>
 
 ---
 
@@ -227,46 +227,46 @@ Below is a structured, data‐driven analysis of the 3‑tag patterns across mod
 
 These clusters are based on full (Friction Archetype, Dilemma Type, Failure Mode) tuples that appear three or more times. (Note that no “Unknown” values are present in these clusters.)
 
-**Cluster 1**  
-- **Summary:** A dominant combination where an outcome focus is paired with trade‑off blindness and translation issues.  
-- **Tag Combination:**  
-  • Friction Archetype: *Outcome Obsession*  
-  • Dilemma Type: *Trade‑off Blindness*  
-  • Failure Mode: *Translation Breakdown*  
-- **ModuleIDs:**  
-  CATEGORICAL MODULE 43 - C2-I1,  
-  CATEGORICAL MODULE 37 - C2-I2,  
-  CATEGORICAL MODULE 43 - C2-I2,  
-  CATEGORICAL MODULE 12 - C2-I5,  
-  CATEGORICAL MODULE 47 - C2-I6,  
-  CATEGORICAL MODULE 70 - C4-I1,  
-  CATEGORICAL MODULE 40 - C1-I2,  
+**Cluster 1**
+- **Summary:** A dominant combination where an outcome focus is paired with trade‑off blindness and translation issues.
+- **Tag Combination:**
+  • Friction Archetype: *Outcome Obsession*
+  • Dilemma Type: *Trade‑off Blindness*
+  • Failure Mode: *Translation Breakdown*
+- **ModuleIDs:**
+  CATEGORICAL MODULE 43 - C2-I1,
+  CATEGORICAL MODULE 37 - C2-I2,
+  CATEGORICAL MODULE 43 - C2-I2,
+  CATEGORICAL MODULE 12 - C2-I5,
+  CATEGORICAL MODULE 47 - C2-I6,
+  CATEGORICAL MODULE 70 - C4-I1,
+  CATEGORICAL MODULE 40 - C1-I2,
   CATEGORICAL MODULE 43 - C1-I2
 
-**Cluster 2**  
-- **Summary:** A frequently observed configuration suggesting that a bias for familiar patterns coincides with trade‑off blindness and translation issues.  
-- **Tag Combination:**  
-  • Friction Archetype: *Bias for Familiarity*  
-  • Dilemma Type: *Trade‑off Blindness*  
-  • Failure Mode: *Translation Breakdown*  
-- **ModuleIDs:**  
-  CATEGORICAL MODULE 22 - C2-I2,  
-  CATEGORICAL MODULE 29 - C2-I4,  
-  CATEGORICAL MODULE 32 - C2-I4,  
-  CATEGORICAL MODULE 2 - C2-I5,  
-  CATEGORICAL MODULE 1 - C1-I1,  
+**Cluster 2**
+- **Summary:** A frequently observed configuration suggesting that a bias for familiar patterns coincides with trade‑off blindness and translation issues.
+- **Tag Combination:**
+  • Friction Archetype: *Bias for Familiarity*
+  • Dilemma Type: *Trade‑off Blindness*
+  • Failure Mode: *Translation Breakdown*
+- **ModuleIDs:**
+  CATEGORICAL MODULE 22 - C2-I2,
+  CATEGORICAL MODULE 29 - C2-I4,
+  CATEGORICAL MODULE 32 - C2-I4,
+  CATEGORICAL MODULE 2 - C2-I5,
+  CATEGORICAL MODULE 1 - C1-I1,
   CATEGORICAL MODULE 11 - C1-I2
 
-**Cluster 3**  
-- **Summary:** A recurring pairing where an outcome‐focused archetype under trade‑off blindness is linked with overconfidence.  
-- **Tag Combination:**  
-  • Friction Archetype: *Outcome Obsession*  
-  • Dilemma Type: *Trade‑off Blindness*  
-  • Failure Mode: *Overconfidence*  
-- **ModuleIDs:**  
-  CATEGORICAL MODULE 10 - C2-I4,  
-  CATEGORICAL MODULE 15 - C2-I4,  
-  CATEGORICAL MODULE 10 - C2-I5,  
+**Cluster 3**
+- **Summary:** A recurring pairing where an outcome‐focused archetype under trade‑off blindness is linked with overconfidence.
+- **Tag Combination:**
+  • Friction Archetype: *Outcome Obsession*
+  • Dilemma Type: *Trade‑off Blindness*
+  • Failure Mode: *Overconfidence*
+- **ModuleIDs:**
+  CATEGORICAL MODULE 10 - C2-I4,
+  CATEGORICAL MODULE 15 - C2-I4,
+  CATEGORICAL MODULE 10 - C2-I5,
   CATEGORICAL MODULE 16 - C2-I5
 
 ---
@@ -275,35 +275,35 @@ These clusters are based on full (Friction Archetype, Dilemma Type, Failure Mode
 
 These clusters come from full 3‑tag tuples that appear only once or twice.
 
-**Cluster 1**  
-- **Summary:** A unique instance where false certainty paired with ambiguity leads to translation breakdown.  
-- **Tag Combination:**  
-  • Friction Archetype: *False Certainty Trap*  
-  • Dilemma Type: *Ambiguity*  
-  • Failure Mode: *Translation Breakdown*  
-- **Rarity:** Appears only once  
-- **ModuleIDs:**  
+**Cluster 1**
+- **Summary:** A unique instance where false certainty paired with ambiguity leads to translation breakdown.
+- **Tag Combination:**
+  • Friction Archetype: *False Certainty Trap*
+  • Dilemma Type: *Ambiguity*
+  • Failure Mode: *Translation Breakdown*
+- **Rarity:** Appears only once
+- **ModuleIDs:**
   CATEGORICAL MODULE 29 - C2-I1
 
-**Cluster 2**  
-- **Summary:** An isolated configuration linking a confirmation‐oriented archetype under trade‑off blindness with symbolic compliance.  
-- **Tag Combination:**  
-  • Friction Archetype: *Confirmation Cocoon*  
-  • Dilemma Type: *Trade‑off Blindness*  
-  • Failure Mode: *Symbolic Compliance*  
-- **Rarity:** Appears only once  
-- **ModuleIDs:**  
+**Cluster 2**
+- **Summary:** An isolated configuration linking a confirmation‐oriented archetype under trade‑off blindness with symbolic compliance.
+- **Tag Combination:**
+  • Friction Archetype: *Confirmation Cocoon*
+  • Dilemma Type: *Trade‑off Blindness*
+  • Failure Mode: *Symbolic Compliance*
+- **Rarity:** Appears only once
+- **ModuleIDs:**
   CATEGORICAL MODULE 17 - C2-I2
 
-**Cluster 3**  
-- **Summary:** A rare pairing where false certainty combined with ambiguity shifts toward overconfidence.  
-- **Tag Combination:**  
-  • Friction Archetype: *False Certainty Trap*  
-  • Dilemma Type: *Ambiguity*  
-  • Failure Mode: *Overconfidence*  
-- **Rarity:** Appears twice  
-- **ModuleIDs:**  
-  CATEGORICAL MODULE 9 - C2-I3,  
+**Cluster 3**
+- **Summary:** A rare pairing where false certainty combined with ambiguity shifts toward overconfidence.
+- **Tag Combination:**
+  • Friction Archetype: *False Certainty Trap*
+  • Dilemma Type: *Ambiguity*
+  • Failure Mode: *Overconfidence*
+- **Rarity:** Appears twice
+- **ModuleIDs:**
+  CATEGORICAL MODULE 9 - C2-I3,
   CATEGORICAL MODULE 23 - C2-I4
 
 ---
@@ -312,13 +312,13 @@ These clusters come from full 3‑tag tuples that appear only once or twice.
 
 Within the top (common) combinations, we looked for any single tag (by column) that is rare in its overall column (falling in the bottom 25% of frequency). Based on the full‐dataset counts:
 
-- For **Friction Archetype**, the least frequent tags are *Feedback Dissonance* (1), *Confirmation Cocoon* (2), and *None* (2).  
-- For **Dilemma Type**, the rarest are *None* (1) and *Cultural Fit* (2).  
+- For **Friction Archetype**, the least frequent tags are *Feedback Dissonance* (1), *Confirmation Cocoon* (2), and *None* (2).
+- For **Dilemma Type**, the rarest are *None* (1) and *Cultural Fit* (2).
 - For **Failure Mode**, the rarest are *Capacity Collapse* (2) and *None* (3).
 
-None of these low‑frequency tags appear within the three most common full‑tuples.  
+None of these low‑frequency tags appear within the three most common full‑tuples.
 
-**Result:**  
+**Result:**
 No valid clusters are found in this category.
 
 ---
@@ -327,14 +327,13 @@ No valid clusters are found in this category.
 
 Within the set of rare full combinations (from Category 2), we identify individual tags that recur in multiple rare tuples and are among the most frequent within that rare subset.
 
-**Cluster 1**  
-- **Column & Tag:** *Friction Archetype* – **False Certainty Trap**  
-- **Rare Combinations Involving This Tag:**  
-  • *False Certainty Trap | Ambiguity | Translation Breakdown*  
-  – Module: CATEGORICAL MODULE 29 - C2-I1  
-  • *False Certainty Trap | Ambiguity | Overconfidence*  
-  – Modules: CATEGORICAL MODULE 9 - C2-I3, CATEGORICAL MODULE 23 - C2-I4  
+**Cluster 1**
+- **Column & Tag:** *Friction Archetype* – **False Certainty Trap**
+- **Rare Combinations Involving This Tag:**
+  • *False Certainty Trap | Ambiguity | Translation Breakdown*
+  – Module: CATEGORICAL MODULE 29 - C2-I1
+  • *False Certainty Trap | Ambiguity | Overconfidence*
+  – Modules: CATEGORICAL MODULE 9 - C2-I3, CATEGORICAL MODULE 23 - C2-I4
 - **Observation:** *False Certainty Trap* appears in two of the three rare combinations.
 
 **Cluster 2**
-

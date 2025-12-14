@@ -9,7 +9,7 @@ hey, i ran this python file...
 import pandas as pd
 import umap.umap_ as umap
 
-# 
+#
 
 
 # File path to the input CSV
@@ -37,20 +37,19 @@ if one_hot_df.shape[1] > 20:
     # Apply UMAP with default parameters
     reducer = umap.UMAP(n_neighbors=15, min_dist=0.1, metric='euclidean', n_components=2)
     umap_components = reducer.fit_transform(one_hot_df)
-    
+
     # Create a DataFrame with the UMAP components
     umap_df = pd.DataFrame(umap_components, columns=["UMAP_1", "UMAP_2"])
-    
+
     # Combine Module ID with the UMAP components
     encoded_umap = pd.concat([module_id, umap_df], axis=1)
-    
+
     # Save the UMAP-reduced data
     encoded_umap.to_csv("encoded_umap.csv", index=False)
     print("Encoded UMAP shape:", encoded_umap.shape)
 else:
     print("The one-hot encoded data has less than or equal to 100 columns; UMAP dimensionality reduction was skipped.")
 ------
-
 
 
 I got this error in the terminal
@@ -88,12 +87,12 @@ just means that UMAP was skipped **because** your one-hot encoded data only has 
 
 If you want to always get a 2D layout via UMAP (even with just 20 columns), do this:
 
-- **FIND THIS**  
+- **FIND THIS**
   ```python
   if one_hot_df.shape[1] > 20:
   ```
 
-- **REPLACE WITH THIS**  
+- **REPLACE WITH THIS**
   ```python
   if True:
   ```
@@ -224,7 +223,7 @@ Want me to edit your script so it always applies UMAP and sets you up for cluste
 
 ok here's something else....
 
-i tried creating another script to hellp me find the optimal sizing for cluster and sample inputs. at the time the main goal was to find unique, almost mutually exclusive clusters, just like this one. I used the following script (at the end of this message). My question to you is, can i use the same approach again, or is there some other approach i should use? Keep in mind, I'm looking for a quick answer and not something that would require additional scripting. If there are minor edits that i can consider which will exponentially give me better results, great! if not, then I want you to be honest with me instead of placating to me. 
+i tried creating another script to hellp me find the optimal sizing for cluster and sample inputs. at the time the main goal was to find unique, almost mutually exclusive clusters, just like this one. I used the following script (at the end of this message). My question to you is, can i use the same approach again, or is there some other approach i should use? Keep in mind, I'm looking for a quick answer and not something that would require additional scripting. If there are minor edits that i can consider which will exponentially give me better results, great! if not, then I want you to be honest with me instead of placating to me.
 
 
 For your reference, here's the current result of the script:
@@ -278,7 +277,7 @@ min_cluster_size: 12, min_samples: 10, Median Unique Tags: 4.5, Mean Unique Tags
 
 -------
 
-And here's the code. 
+And here's the code.
 
 import pandas as pd
 import numpy as np
@@ -291,7 +290,6 @@ import matplotlib.pyplot as plt
 # cd "/Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Data Viz experiment/Business-Level Patterns"
 # source .venv/bin/activate
 # python optimal_HDBSCAN_sizing.py
-
 
 
 # --- Step 1: Data Merging and Preprocessing ---
@@ -311,7 +309,7 @@ decision_groups = [
     'Process Modularity_',
     'Value Timeframe_',
     'Knowledge Transferability_'
-    
+
 ]
 
 # Extract all tag columns that belong to these groups
@@ -340,30 +338,30 @@ for min_cluster_size in min_cluster_sizes:
         # Fit HDBSCAN on the UMAP coordinates
         clusterer = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples)
         clusterer.fit(df_subset[['UMAP_1', 'UMAP_2']])
-        
+
         # Store cluster labels into a temporary column for evaluation
         df_subset['cluster'] = clusterer.labels_
-        
+
         # Evaluate only non-outlier clusters
         clusters = df_subset.loc[df_subset['cluster'] != -1, 'cluster'].unique()
         cluster_metrics = []
         cluster_dominance_scores = []  # to store average dominance per cluster
-        
+
         for cluster in clusters:
             cluster_data = df_subset[df_subset['cluster'] == cluster]
             n_stories = len(cluster_data)
-            
+
             unique_counts = {}
             dominance_counts = {}  # store top tag prevalence (in %) per group
-            
+
             for group in decision_groups:
                 group_columns = [col for col in tag_cols if col.startswith(group)]
-                
+
                 # --- Unique Tags Computation ---
                 active_tags = cluster_data[group_columns].sum(axis=0)
                 active_tags = active_tags[active_tags > 0]  # only count tags that are active at least once
                 unique_counts[group] = len(active_tags)
-                
+
                 # --- Dominance Computation ---
                 # If any tag is active for this group, get the highest prevalence
                 if not active_tags.empty:
@@ -371,17 +369,17 @@ for min_cluster_size in min_cluster_sizes:
                     dominance_counts[group] = (top_count / n_stories) * 100  # convert to percentage
                 else:
                     dominance_counts[group] = 0.0
-            
+
             # Compute metrics for the cluster
             counts = list(unique_counts.values())
             mean_unique = np.mean(counts)
             median_unique = np.median(counts)
-            
+
             # Average dominance across groups for this cluster
             dom_values = list(dominance_counts.values())
             mean_dominance = np.mean(dom_values)
             median_dominance = np.median(dom_values)
-            
+
             cluster_metrics.append({
                 'cluster': cluster,
                 'mean_unique': mean_unique,
@@ -392,14 +390,14 @@ for min_cluster_size in min_cluster_sizes:
                 'dominance_counts': dominance_counts
             })
             cluster_dominance_scores.append(mean_dominance)
-        
+
         # Aggregate metrics over clusters (if any clusters were found)
         if cluster_metrics:
             cluster_mean_vals = [m['mean_unique'] for m in cluster_metrics]
             cluster_median_vals = [m['median_unique'] for m in cluster_metrics]
             overall_mean_unique = np.mean(cluster_mean_vals)
             overall_median_unique = np.median(cluster_median_vals)
-            
+
             overall_mean_dominance = np.mean(cluster_dominance_scores)
             overall_median_dominance = np.median(cluster_dominance_scores)
         else:
@@ -407,11 +405,11 @@ for min_cluster_size in min_cluster_sizes:
             overall_median_unique = None
             overall_mean_dominance = None
             overall_median_dominance = None
-        
+
         # Count total clusters (excluding outliers) and calculate % of data clustered
         num_clusters = len(clusters)
         pct_clustered = 100.0 * df_subset[df_subset['cluster'] != -1].shape[0] / df_subset.shape[0]
-        
+
         # Record results for the current parameter combination
         eval_results.append({
             'min_cluster_size': min_cluster_size,
@@ -434,12 +432,12 @@ for min_cluster_size in min_cluster_sizes:
 # - Number of clusters between 4 and 9
 # - % of data clustered ≥ 65%
 optimal_params = [
-    res for res in eval_results 
-    if res['overall_median_unique'] is not None 
-       and res['overall_median_unique'] <= 3.5 
-       and res['overall_mean_dominance'] is not None 
+    res for res in eval_results
+    if res['overall_median_unique'] is not None
+       and res['overall_median_unique'] <= 3.5
+       and res['overall_mean_dominance'] is not None
        and res['overall_mean_dominance'] >= 60
-       and 4 <= res['num_clusters'] <= 9 
+       and 4 <= res['num_clusters'] <= 9
        and res['pct_clustered'] >= 65
 ]
 
@@ -471,7 +469,7 @@ if recommended_best:
     best_clusterer.fit(df_subset[['UMAP_1', 'UMAP_2']])
     df_subset['cluster'] = best_clusterer.labels_
     df_subset.to_csv('merged_dataset_with_clusters.csv', index=False)
-    
+
     # 2. Generate a cluster summary CSV (showing top tag prevalence for each decision-making group)
     cluster_summary = []
     for cluster in df_subset['cluster'].unique():
@@ -489,7 +487,7 @@ if recommended_best:
                 summary[f"{group} top tag {idx+1}"] = row[f'{group} tag']
                 summary[f"{group} tag {idx+1} prevalence (%)"] = round(100.0 * row[f'{group} count'] / total, 1)
         cluster_summary.append(summary)
-    
+
     pd.DataFrame(cluster_summary).to_csv('cluster_summary.csv', index=False)
 
 print("\n--- All Parameter Combinations ---")
@@ -617,4 +615,3 @@ Yes — those filtering and ranking rules are **well-calibrated** for your speci
 
 ## ✅ Final Answer:
 Yes, your filtering + ranking logic is **already doing the right job**. No changes needed. You're set up for quality **contrast-first** cluster discovery.
-

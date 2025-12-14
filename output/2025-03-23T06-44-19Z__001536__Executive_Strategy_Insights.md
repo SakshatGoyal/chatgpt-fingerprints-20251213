@@ -158,81 +158,81 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Ineffective Resource Allocation
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Poor resource allocation—illustrated by Circuit City's reduction of experienced sales staff—undermines the capacity to execute even the most well-crafted strategies, leading to a loss of competitive edge." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 - **Strategic Dilemma:** Leaders must decide where to allocate scarce resources to maximize long-term strategic outcomes, often balancing short-term cost pressures against critical long-term investments. **[Empirical]**
 - **Underlying Beliefs & Biases:** There is a prevalent bias toward immediate cost-cutting that undervalues the role of skilled human capital, leading to decisions that favor short-term savings over sustained competitive advantage. **[Inferred]**
 - **Expected vs. Actual Outcomes:** While executives may expect efficiency gains, the actual outcome—such as diminished service quality and loss of market relevance—is starkly illustrated by the decline of Circuit City. **[Empirical]**
 - **Broader Implications:** Systematic misallocation can disrupt organizational capability, eroding the foundation needed for strategic innovation and market responsiveness. **[Inferred]**
 
-**3. Supporting Context:**  
-"Empirical evidence from the article highlights that eliminating key resources, like experienced sales staff, directly contributed to Circuit City’s inability to maintain service quality and competitive positioning. The recommendation of tools like the Job Design Optimization Tool (JDOT) reinforces the need for strategic alignment in resource allocation." **[Empirical]** citeturn0file0
+**3. Supporting Context:**
+"Empirical evidence from the article highlights that eliminating key resources, like experienced sales staff, directly contributed to Circuit City’s inability to maintain service quality and competitive positioning. The recommendation of tools like the Job Design Optimization Tool (JDOT) reinforces the need for strategic alignment in resource allocation." **[Empirical]**
 
 ---
 
 ### 2. Ineffective Risk Management
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Inadequate internal controls and risk management, as exemplified by Enron’s collapse, expose organizations to internal vulnerabilities that can devastate strategic execution." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 - **Strategic Dilemma:** Executives are tasked with balancing external competitive pressures while ensuring robust internal safeguards—an equilibrium that is often difficult to achieve. **[Empirical]**
 - **Underlying Beliefs & Biases:** A common misjudgment is overvaluing external threats at the expense of internal risks, leading to an underinvestment in necessary controls and oversight mechanisms. **[Inferred]**
 - **Expected vs. Actual Outcomes:** Despite expectations for secure and steady operations, the failure to implement strong internal controls can lead to catastrophic financial and reputational damage, as seen in Enron’s history. **[Empirical]**
 - **Broader Implications:** A failure in risk management not only undermines current strategy execution but also weakens long-term stakeholder trust and organizational stability. **[Inferred]**
 
-**3. Supporting Context:**  
-"The article uses Enron’s collapse as a vivid example of how the absence of robust internal controls—whether structural, systematic, or personnel-based—can precipitate severe strategic failures. This reinforces the necessity for comprehensive internal risk management frameworks." **[Empirical]** citeturn0file0
+**3. Supporting Context:**
+"The article uses Enron’s collapse as a vivid example of how the absence of robust internal controls—whether structural, systematic, or personnel-based—can precipitate severe strategic failures. This reinforces the necessity for comprehensive internal risk management frameworks." **[Empirical]**
 
 ---
 
 ### 3. Vague Strategic Goals
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Ambiguity in strategic objectives, highlighted by Target’s failure in the Canadian market, generates misaligned expectations and operational inefficiencies that ultimately derail execution." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 - **Strategic Dilemma:** Establishing clear, measurable goals is vital for coherent strategy execution; however, vague or overly broad objectives lead to miscommunication and fragmented action plans. **[Empirical]**
 - **Underlying Beliefs & Biases:** Leaders may mistakenly assume that a broad vision is sufficient to inspire action, neglecting the critical need for detailed, operational directives that guide employee efforts. **[Inferred]**
 - **Expected vs. Actual Outcomes:** The intended clarity of a strategy often dissipates into operational confusion, as evidenced by Target’s inability to effectively communicate and implement its strategic goals in Canada. **[Empirical]**
 - **Broader Implications:** Ambiguous goals create systemic vulnerabilities that impede the organization’s ability to adapt and respond to market demands, ultimately stifling performance. **[Inferred]**
 
-**3. Supporting Context:**  
-"Target’s misadventure in Canada serves as a case study in the pitfalls of vague goal-setting. The article further advocates for the balanced scorecard approach as a means to transform abstract visions into actionable, measurable objectives." **[Empirical]** citeturn0file0
+**3. Supporting Context:**
+"Target’s misadventure in Canada serves as a case study in the pitfalls of vague goal-setting. The article further advocates for the balanced scorecard approach as a means to transform abstract visions into actionable, measurable objectives." **[Empirical]**
 
 ---
 
 ### 4. Lack of Organizational Support
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Strategic initiatives falter without strong organizational support, as seen in JCPenney’s 2011 rebranding failure, where insufficient employee buy-in and misaligned core values derailed the execution process." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 - **Strategic Dilemma:** Securing widespread organizational support is crucial for the successful implementation of strategic initiatives; a top-down approach without genuine engagement often leads to internal resistance. **[Empirical]**
 - **Underlying Beliefs & Biases:** There is a bias that assumes top-level directives alone are adequate, which can lead to an underappreciation of the need for aligning core values and fostering a culture of support. **[Inferred]**
 - **Expected vs. Actual Outcomes:** While leadership may expect smooth implementation, the reality is that disjointed communication and inadequate training can cause strategic initiatives to collapse, as demonstrated by JCPenney’s rebranding missteps. **[Empirical]**
 - **Broader Implications:** A lack of internal cohesion not only impairs strategy execution but also risks long-term damage to organizational culture and employee morale. **[Inferred]**
 
-**3. Supporting Context:**  
-"JCPenney’s rebranding failure underscores the importance of obtaining genuine employee engagement and aligning core values with strategic objectives. The article presents this case as a cautionary tale for executives to invest in building robust organizational support mechanisms." **[Empirical]** citeturn0file0
+**3. Supporting Context:**
+"JCPenney’s rebranding failure underscores the importance of obtaining genuine employee engagement and aligning core values with strategic objectives. The article presents this case as a cautionary tale for executives to invest in building robust organizational support mechanisms." **[Empirical]**
 
 ---
 
 ### 5. Imbalance of Innovation and Control
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "An imbalance between the drive for innovation and the need for internal controls, as highlighted by Uber’s operational challenges, can lead to regulatory setbacks and strategic disarray." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 - **Strategic Dilemma:** Executives face the critical challenge of fostering innovation while ensuring that necessary internal controls are maintained to safeguard against operational risks and misconduct. **[Empirical]**
 - **Underlying Beliefs & Biases:** There is a cognitive bias that overvalues rapid innovation, often at the expense of implementing adequate control mechanisms—resulting in overoptimistic risk assessments. **[Inferred]**
 - **Expected vs. Actual Outcomes:** Although innovation is pursued to drive growth, insufficient controls can lead to regulatory and operational failures, as observed in Uber’s historical challenges. **[Empirical]**
 - **Broader Implications:** The failure to balance innovation with control can erode stakeholder confidence and compromise long-term strategic stability, highlighting the need for carefully calibrated operational boundaries. **[Inferred]**
 
-**3. Supporting Context:**  
-"Uber’s experience with balancing breakthrough innovation against necessary regulatory oversight provides a clear illustration of the risks associated with an unbalanced approach. The discussion in the article emphasizes the importance of setting strategic boundaries that align innovation with overall business objectives." **[Empirical]** citeturn0file0
+**3. Supporting Context:**
+"Uber’s experience with balancing breakthrough innovation against necessary regulatory oversight provides a clear illustration of the risks associated with an unbalanced approach. The discussion in the article emphasizes the importance of setting strategic boundaries that align innovation with overall business objectives." **[Empirical]**
 
 ---
 
@@ -241,9 +241,9 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Coverage Fit:** High — The paper offers a comprehensive exploration of the multifaceted challenges in strategy execution, directly addressing executive decision-making and strategic reasoning.
 - **Bias & Cognitive Modeling Content:** Present — The analysis uncovers implicit cognitive biases, such as overconfidence in short-term savings, neglect of internal risks, and assumptions about organizational support, which shape strategic outcomes.
 - **Clarity of Methods & Outcomes:** Clear — The use of case studies and empirical examples provides a well-defined framework for understanding the failures in strategy execution, though the qualitative approach limits statistical generalizability.
-- **Areas with No Data:**  
-    - Insight Statement: All insights are supported by specific empirical cases.  
-    - Executive Decision-Making Context: Comprehensive data is available for all examined aspects.  
+- **Areas with No Data:**
+    - Insight Statement: All insights are supported by specific empirical cases.
+    - Executive Decision-Making Context: Comprehensive data is available for all examined aspects.
     - Supporting Context: Each insight is underpinned by robust case evidence and empirical examples.
 
 ---
@@ -539,21 +539,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -566,4 +566,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T06:48:15.926986+00:00)
 
 Gibson, K. (2023, December 21). 5 reasons strategy execution fails. *Harvard Business School Online*. https://online.hbs.edu/blog/post/why-do-strategic-plans-fail
-

@@ -11,7 +11,7 @@ From the transcript of the meeting between Intelligaia (Rajiv and Sakshat) and L
 ### Core Expectations:
 
 1. **Enhancement of the Existing Dashboard:**
-   Luminoso needs Intelligaia to improve their existing dashboard, focusing on user experience (UX) and user interface (UI) to make it professional and appealing. 
+   Luminoso needs Intelligaia to improve their existing dashboard, focusing on user experience (UX) and user interface (UI) to make it professional and appealing.
    - *"We have working dashboards... but when you size it a certain way, the lines in the widget get messed up... We want to simplify this."*【5†source】
    - *"Take a look under the hood and see... if there’s some quick changes you can make, both on the user experience side, but also the UI."*【5†source】
 
@@ -59,4 +59,3 @@ From the transcript of the meeting between Intelligaia (Rajiv and Sakshat) and L
 - Propose future design and development directions to align with competitive standards.
 
 This collaborative effort focuses on quick wins for Luminoso’s sales needs while laying the groundwork for a more comprehensive overhaul if needed.
-

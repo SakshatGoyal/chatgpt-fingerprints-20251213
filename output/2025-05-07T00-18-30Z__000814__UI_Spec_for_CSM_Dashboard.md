@@ -76,7 +76,7 @@ This dashboard is a modular, role-aware workspace for CSMs to monitor and act on
 - Surfaces success stories of interventions that worked.
 
 > ✳️ Note: Same underlying AI model used in SC dashboard, but prompts + outputs adapted for post-sale focus.
-> 
+>
 
 ---
 
@@ -109,22 +109,18 @@ This dashboard is a modular, role-aware workspace for CSMs to monitor and act on
 - **Assisted Action, Not Automation**: AI never hides the “why” behind a nudge.
 - **Low Friction, High Signal**: Information density is high, but cognitive load is light.
 
-## ChatGPT (2025-05-07T00:18:42.785615+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Adapting PRD for PAN UI", "content": "I need to adapt the PRD for Palo Alto Networks, focusing on modular UI components and layout customized to their products. Typical product names like Cortex XSOAR, Prisma Access, and Panorama will be referenced, along with telemetry terms like Cortex Data Lake and AIOps. For the CSM dashboard, the \"Customer Health Score\" can be derived from firewall status, threat prevention, and risk analysis. I'll also mention \"Application Adoption,\" perhaps highlighting threat prevention usage or DNS Security adoption.", "chunks": [], "finished": true}], "source_analysis_msg_id": "f3ac342b-3a5f-4607-9fe2-a8fb275c6da6"}
 
-## ChatGPT (2025-05-07T00:18:46.869124+00:00)
 
-{"content_type": "reasoning_recap", "content": "Thought for 11 seconds"}
 
 ## ChatGPT (2025-05-07T00:18:30.911464+00:00)
 
-### Palo Alto Networks — “Command View CSM” UI Spec  
-*(adapted from the original PRD without altering structure or intent)*  
+### Palo Alto Networks — “Command View CSM” UI Spec
+*(adapted from the original PRD without altering structure or intent)*
 
 ---
 
-## 1. Modular Components & Layout  
+## 1. Modular Components & Layout
 
 | Section (per PRD) | PAN-Aligned Component | Key Fields / Interactions | Data Source(s) |
 | --- | --- | --- | --- |
@@ -140,7 +136,7 @@ This dashboard is a modular, role-aware workspace for CSMs to monitor and act on
 
 ---
 
-## 2. Telemetry Mapping to PAN Products  
+## 2. Telemetry Mapping to PAN Products
 
 | PRD Metric | PAN Signal | Collection Path |
 | --- | --- | --- |
@@ -153,7 +149,7 @@ This dashboard is a modular, role-aware workspace for CSMs to monitor and act on
 
 ---
 
-## 3. Visual Theming & Interaction Guidelines  
+## 3. Visual Theming & Interaction Guidelines
 
 | Aspect | PAN Convention | Spec |
 | --- | --- | --- |
@@ -168,33 +164,32 @@ This dashboard is a modular, role-aware workspace for CSMs to monitor and act on
 
 ---
 
-## 4. Component States & Microcopy Examples  
+## 4. Component States & Microcopy Examples
 
-- **Adoption Card (green):** “87 % of licensed features active — keep momentum.”  
-- **Adoption Card (red):** “DNS Security inactive on all NGFWs. Risk to renewal.”  
-- **AI Nudge:** “Churn risk increased by 12 %. Similar accounts saw 18 % improvement after enabling Advanced URL Filtering. → Run ‘URL-F Adoption’ playbook.”  
-- **Playbook Toast Success:** “Playbook triggered in XSOAR. Track progress in Incident #43702.”  
+- **Adoption Card (green):** “87 % of licensed features active — keep momentum.”
+- **Adoption Card (red):** “DNS Security inactive on all NGFWs. Risk to renewal.”
+- **AI Nudge:** “Churn risk increased by 12 %. Similar accounts saw 18 % improvement after enabling Advanced URL Filtering. → Run ‘URL-F Adoption’ playbook.”
+- **Playbook Toast Success:** “Playbook triggered in XSOAR. Track progress in Incident #43702.”
 
 ---
 
-## 5. Interaction Flow Highlights  
+## 5. Interaction Flow Highlights
 
-1. **CSM opens tenant dash →** Header shows health = Red, Renewal in 45 days.  
-2. **AI Panel auto-opens** with churn risk nudge.  
-3. **Click “Run playbook” →** Quick Actions fires XSOAR workflow; toast confirmation.  
-4. **Timeline auto-filters** to show last 90 days; user expands “Escalation Resolved” to read RCA.  
+1. **CSM opens tenant dash →** Header shows health = Red, Renewal in 45 days.
+2. **AI Panel auto-opens** with churn risk nudge.
+3. **Click “Run playbook” →** Quick Actions fires XSOAR workflow; toast confirmation.
+4. **Timeline auto-filters** to show last 90 days; user expands “Escalation Resolved” to read RCA.
 5. **Linked Artifact click** opens Success Plan in modal for comparison to sold scope.
 
 ---
 
 ## 6. KPI Instrumentation (for Success Metrics section)
 
-- `surprise_churn_count` (CDS)  
-- `playbook_triggered_count` (XSOAR)  
-- `csm_dash_daily_active` (CDL + UI telemetry)  
+- `surprise_churn_count` (CDS)
+- `playbook_triggered_count` (XSOAR)
+- `csm_dash_daily_active` (CDL + UI telemetry)
 - `expectation_alignment_score` (text diff of DoR vs Success Plan; AIOps NLP)
 
 ---
 
 **End of UI Spec**
-

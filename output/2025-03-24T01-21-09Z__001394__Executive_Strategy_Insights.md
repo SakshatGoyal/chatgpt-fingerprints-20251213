@@ -160,52 +160,52 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### **Insight 1: Unintended Consequences of Strategic Choices Undermine Executive Control**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Executives should recognize that even deliberate, seemingly rational strategic choices may inadvertently sow the seeds of their own undoing, as NorthCo’s case vividly demonstrates. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 In high-stakes environments, leaders often prioritize immediate problem-solving over long-term stability. This case illustrates how decisions such as outsourcing manufacturing or liquidating financial positions—made to counter short-term challenges—can trigger cascading effects (e.g., supplier disruptions, credit constraints) that ultimately compromise organizational viability. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The five-year longitudinal study of NorthCo documents multiple instances where tactical responses to immediate pressures (like changing financing arrangements and adapting supply chains) generated unintended negative outcomes. Detailed timelines and quantitative references (e.g., losses in the millions, drastic sales declines) provide clear evidence that the interplay of choice and chance can destabilize even robust strategic frameworks. **[Empirical]**
 
 ---
 
 ### **Insight 2: The Decisive Role of Unowned Processes and Environmental Flux**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 The research challenges the dominant narrative that managerial agency alone drives outcomes by demonstrating that unowned processes and persistent environmental flux are equally decisive in shaping strategic change. **[Inferred]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 For top management teams, this insight implies a strategic dilemma: relying exclusively on internal decision-making may blind executives to peripheral events and uncontrollable external shifts. As NorthCo’s experience shows, failing to account for the impact of sudden environmental changes—such as macroeconomic fluctuations and unexpected competitor moves—can erode competitive advantage over time. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 NorthCo’s case highlights that factors like abrupt changes in credit markets, currency appreciations, and unforeseen supplier issues played critical roles in the company’s decline. The authors’ processual analysis, supported by extensive interview data and a timeline of events, reinforces the need for a balanced approach that integrates environmental scanning with internal strategic planning. **[Empirical]**
 
 ---
 
 ### **Insight 3: Embracing Strategic Flexibility Through Scenario Planning**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 To mitigate the risk of cascading unintended consequences, executives must shift from linear decision-making models to flexible, scenario-based planning that anticipates a spectrum of possible futures. **[Speculative]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 In the context of volatile markets and unpredictable external shocks—as evidenced by NorthCo’s experience with shifting supplier dynamics and macroeconomic pressures—leaders face the challenge of balancing short-term operational fixes with long-term strategic resilience. Integrating scenario thinking into decision frameworks can help executives prepare for black swan events and peripheral disruptions. **[Speculative]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Although the paper stops short of prescribing specific interventions, its extensive discussion on unintended consequences and unowned process dynamics suggests that building contingency strategies and enhancing adaptive capacity are crucial. The evidence from NorthCo’s unfolding crisis supports the idea that traditional forecasting methods may be inadequate in environments characterized by constant change. **[Inferred]**
 
 ---
 
 ### **Insight 4: Reorienting Strategic Management Toward Processual Dynamics**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 The study advocates for a paradigmatic shift in strategic management—from a static, agent-centric view to a dynamic, processual perspective that fully incorporates the inherent uncertainty and flux of organizational environments. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 For senior leaders, this reorientation necessitates a rethinking of how success is defined and measured. Rather than relying solely on stable benchmarks and predictable outcomes, executives should cultivate continuous monitoring and agile response mechanisms that recognize the transient nature of both internal capabilities and external conditions. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The authors detail how NorthCo’s failure cannot be solely attributed to managerial errors or environmental pressures but is better understood as the outcome of interlocking process complexes where every decision triggers residual, often unanticipated, effects. The empirical richness of the case study, including iterative rounds of downsizing and strategic pivots, underscores the need for a more fluid conceptualization of change. **[Empirical]**
 
 ---
@@ -215,7 +215,7 @@ The authors detail how NorthCo’s failure cannot be solely attributed to manage
 - **Coverage Fit:** High — The paper comprehensively addresses the interplay of strategic choices, chance events, and unowned processes in executive decision-making, offering deep insights relevant to senior leaders.
 - **Bias & Cognitive Modeling Content:** Present — The analysis challenges traditional biases favoring managerial agency and highlights cognitive blind spots in overlooking peripheral and emergent dynamics.
 - **Clarity of Methods & Outcomes:** Clear — Detailed methodological description (longitudinal case study, extensive interviews, and observational data) supports robust conclusions despite the inherent limitations of a single-case study.
-- **Areas with No Data:**  
+- **Areas with No Data:**
   - In some sections, specific prescriptive guidance for mitigating unintended consequences is absent, leaving the scenario planning recommendation partially inferential.
   - Certain aspects of cognitive bias identification remain implied rather than explicitly detailed in the empirical data.
 
@@ -482,21 +482,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -509,4 +509,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T01:28:27.057899+00:00)
 
 MacKay, R. B., & Chia, R. (2013). Choice, chance, and unintended consequences in strategic change: A process understanding of the rise and fall of NorthCo Automotive. *Academy of Management Journal, 56*(1), 208–230. https://doi.org/10.5465/amj.2010.0734
-

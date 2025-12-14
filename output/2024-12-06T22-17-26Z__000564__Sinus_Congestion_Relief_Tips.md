@@ -1,8 +1,6 @@
 # Sinus Congestion Relief Tips
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2024-12-06T22:17:26.993993+00:00)
 
@@ -98,7 +96,7 @@ Pain during nasal irrigation, especially intense pain in your sinuses and head, 
 
 #### 1. **Blocked Sinuses or Severe Congestion**
    - **What happens**: If your nasal passages are completely blocked or swollen, forcing water through can create pressure, leading to pain in your sinuses or even your head.
-   - **What to do**: 
+   - **What to do**:
      - Use a decongestant spray (like oxymetazoline) 10-15 minutes before irrigation to reduce swelling and open up the nasal passages.
      - Try steam inhalation to loosen mucus before attempting nasal irrigation again.
 
@@ -121,7 +119,7 @@ Pain during nasal irrigation, especially intense pain in your sinuses and head, 
 
 #### 5. **Eustachian Tube Dysfunction**
    - **What happens**: If water accidentally enters the Eustachian tubes (which connect your middle ear to your throat), it can cause pressure or pain radiating into your head and skull.
-   - **What to do**: 
+   - **What to do**:
      - Use less force or a slower flow when pouring the water.
      - Avoid irrigation if you have a history of ear problems or a blocked Eustachian tube.
 
@@ -178,4 +176,3 @@ Vicks inhalers contain active ingredients like **menthol**, **camphor**, and som
 ---
 
 If you’re looking for something beyond temporary relief or want to address severe or chronic congestion, let me know, and I can suggest other strategies!
-

@@ -151,7 +151,7 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 - **Key Themes:** The report dissects transformative market dynamics in the luxury automotive sector, focusing on differentiated growth, digital redefinition of luxury, regional market shifts—especially in China—and evolving distribution models that enhance profitability.
 - **Core Motivations:** Driven by increasing ultra-high-net-worth populations, technological advancements, and shifting consumer expectations, the research addresses how traditional luxury brands must adapt to retain competitive advantage amid global economic and regulatory shifts.
-- **Methodological Clarification:** Using scenario analysis (baseline and accelerated) supported by expert interviews, market data, and quantitative forecasts, the study maps out future growth rates, electrification trends, and profitability margins. Limitations include reliance on forecast assumptions and rapidly evolving consumer preferences. citeturn0file0
+- **Methodological Clarification:** Using scenario analysis (baseline and accelerated) supported by expert interviews, market data, and quantitative forecasts, the study maps out future growth rates, electrification trends, and profitability margins. Limitations include reliance on forecast assumptions and rapidly evolving consumer preferences.
 - **Relevance Assessment:** The findings offer strategic clarity for executives by highlighting opportunities in premium segmentation, digital transformation, and direct-to-consumer initiatives—critical for steering luxury brands in a competitive, globalized market.
 
 ## Grounded Executive Insights
@@ -168,7 +168,7 @@ Executives must recalibrate product portfolios and investment priorities to capt
 
 **Supporting Context**
 
-The report forecasts luxury market growth at 8–14 percent annually—far exceeding the approximately 1 percent growth in the mass market—with double-digit margins in higher price bands versus low single-digit figures in mainstream segments. citeturn0file0 **[Empirical]**
+The report forecasts luxury market growth at 8–14 percent annually—far exceeding the approximately 1 percent growth in the mass market—with double-digit margins in higher price bands versus low single-digit figures in mainstream segments.  **[Empirical]**
 
 ---
 
@@ -182,7 +182,7 @@ Senior leaders should prioritize localized strategies that integrate digital inn
 
 **Supporting Context**
 
-Projections indicate significant annual growth in China’s luxury market share—with consumer surveys revealing that local buyers demand high connectivity and customization, positioning the region as a critical growth driver. citeturn0file0 **[Empirical]**
+Projections indicate significant annual growth in China’s luxury market share—with consumer surveys revealing that local buyers demand high connectivity and customization, positioning the region as a critical growth driver.  **[Empirical]**
 
 ---
 
@@ -196,7 +196,7 @@ Executives are urged to integrate cross-industry innovations by embracing seamle
 
 **Supporting Context**
 
-Survey data shows that nearly 80 percent of luxury customers now expect a seamless, omnichannel experience, with significant emphasis on digital integration and personalized interactions—a clear departure from historical luxury benchmarks. citeturn0file0 **[Empirical]**
+Survey data shows that nearly 80 percent of luxury customers now expect a seamless, omnichannel experience, with significant emphasis on digital integration and personalized interactions—a clear departure from historical luxury benchmarks.  **[Empirical]**
 
 ---
 
@@ -210,7 +210,7 @@ Decision-makers should evaluate the strategic shift from franchised dealer netwo
 
 **Supporting Context**
 
-Data indicate strong consumer preference for frictionless, contactless purchasing—with over 60 percent showing interest in DTC approaches and a notable portion expressing frustration with price haggling—underscoring the value proposition of direct sales models. citeturn0file0 **[Empirical]**
+Data indicate strong consumer preference for frictionless, contactless purchasing—with over 60 percent showing interest in DTC approaches and a notable portion expressing frustration with price haggling—underscoring the value proposition of direct sales models.  **[Empirical]**
 
 ---
 
@@ -224,7 +224,7 @@ Executives should consider reallocating resources toward premium segments and in
 
 **Supporting Context**
 
-The report documents that EBIT margins in key luxury segments have risen from around 20 percent to as high as 38 percent—and projects that luxury EVs could deliver margins between 21 to 25 percent by 2031—highlighting a lucrative opportunity relative to stagnant mass-market performance. citeturn0file0 **[Empirical]**
+The report documents that EBIT margins in key luxury segments have risen from around 20 percent to as high as 38 percent—and projects that luxury EVs could deliver margins between 21 to 25 percent by 2031—highlighting a lucrative opportunity relative to stagnant mass-market performance.  **[Empirical]**
 
 ---
 
@@ -527,21 +527,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -554,4 +554,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T07:47:05.421913+00:00)
 
 McKinsey & Company. (2022). *Five trends shaping tomorrow’s luxury-car market*. https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/five-trends-shaping-tomorrows-luxury-car-market
-

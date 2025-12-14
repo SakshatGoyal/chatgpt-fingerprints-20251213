@@ -2,7 +2,7 @@
 
 ## You (2025-12-08T15:49:56.379000+00:00)
 
-help me refine the following prompt. I feel like chatGPT is not doing a thorough job of verifying content and rather making assumptions based on the title alone. 
+help me refine the following prompt. I feel like chatGPT is not doing a thorough job of verifying content and rather making assumptions based on the title alone.
 
 ---
 I'm looking for the most authentic and straightforward version of the Bhagavad Gita available on Audible India. There are numerous renditions out there, but I want to avoid two specific types:
@@ -49,15 +49,15 @@ Would you like to respond to the above briefly, or should I move ahead and **beg
 
 ## You (2025-12-08T15:54:40.373000+00:00)
 
-1. Content verification - it can check descriptions but its tricky. Its definetely the first source of information and an easy way to sniff out 'agendas'. I think looking for original sanskrit source is helpful. And yes, the translator’s name or scholarly background would be very valuable. 
+1. Content verification - it can check descriptions but its tricky. Its definetely the first source of information and an easy way to sniff out 'agendas'. I think looking for original sanskrit source is helpful. And yes, the translator’s name or scholarly background would be very valuable.
 
-2. I should be offered both as long as authenticity is maintained. 
+2. I should be offered both as long as authenticity is maintained.
 
-3. Minimal contextual footnotes are fine. 
+3. Minimal contextual footnotes are fine.
 
-4. Yes, restrict to audible india only. 
+4. Yes, restrict to audible india only.
 
-5. A ranked list would be helpful. 
+5. A ranked list would be helpful.
 
 
 begin building the refined prompt
@@ -85,22 +85,22 @@ You are looking for the **most authentic, agenda-free version(s)** of the *Bhaga
 ## 🎯 Refined Prompt for GPT-4o Execution
 
 > **Prompt:**
-> 
+>
 > Act as a **discerning literary researcher** specializing in Indian religious texts, and search for the **most authentic, agenda-free versions of the Bhagavad Gita available on Audible India**.
-> 
+>
 > Your task is to generate a **ranked list of the top 3–5 renditions** of the *Bhagavad Gita* that meet the following criteria:
-> 
+>
 > ### ✅ Required Qualities:
 > 1. **Faithful Translation**: Must be a direct, respectful translation of the original Sanskrit verses into **Hindi or English**, ideally including the original Sanskrit slokas.
 > 2. **Scholarly Transparency**: The translator or narrator must be clearly named, with **brief scholarly or professional background** provided (if available).
 > 3. **Minimal Bias or Interpretation**: Avoid all versions that reinterpret the text for niche audiences (e.g., "Gita for Managers") or overlay the work with excessive emotional, spiritual, or political commentary.
 > 4. **Light Contextual Notes (Optional)**: Neutral, scholarly introductions or verse explanations are acceptable as long as they do not impose a strong viewpoint or alter meaning.
-> 
+>
 > ### ❌ Exclude:
 > - All interpretive or motivational adaptations (e.g., “Gita for Modern Life”)
 > - Commentary-heavy podcast-style formats
 > - Any version where the description signals **personal, political, or ideological agendas**
-> 
+>
 > ### ⚙️ Output Format:
 > For each selected version, provide:
 > - **Title**
@@ -109,9 +109,9 @@ You are looking for the **most authentic, agenda-free version(s)** of the *Bhaga
 > - **Reason for inclusion** (e.g., faithfulness, neutrality, format)
 > - **Red flags ruled out** (e.g., “Not a motivational or modernized adaptation”)
 > - **Audible India link** (if available)
-> 
+>
 > Before finalizing, **analyze the Audible India description and metadata** for each version to ensure it aligns with the above criteria and does not rely on the title alone for judgment.
-> 
+>
 > Strive for **clarity, verification, and neutrality** over assumptions.
 
 ---
@@ -120,4 +120,3 @@ Let me know if you'd like to:
 - Add **sample red flags or titles** to avoid (for precision),
 - Insert **preferred narrators** or publishers (if any),
 - Or generate a test run of this prompt.
-

@@ -13,18 +13,17 @@ Rajiv mentioned that there was some additional content we didn't share earlier. 
 
 Here are a few subject line options, depending on the tone and clarity you want:
 
-**Professional and Direct:**  
-- **Follow-Up: Additional Content to Review Together**  
-- **Request to Sync on Unshared Materials**  
+**Professional and Direct:**
+- **Follow-Up: Additional Content to Review Together**
+- **Request to Sync on Unshared Materials**
 - **Next Steps: Reviewing Outstanding Content**
 
-**More Collaborative Tone:**  
-- **Quick Sync Next Week on Remaining Content?**  
+**More Collaborative Tone:**
+- **Quick Sync Next Week on Remaining Content?**
 - **Let’s Review What Was Missed**
 
-**If it's tied to a project or presentation:**  
-- **[Project Name] – Additional Materials for Review**  
+**If it's tied to a project or presentation:**
+- **[Project Name] – Additional Materials for Review**
 - **Catching Up on What We Didn’t Share**
 
 Would you like it to reflect urgency, a specific project, or keep it general?
-

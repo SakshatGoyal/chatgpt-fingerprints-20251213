@@ -671,4 +671,3 @@ If any detail above needs tightening (e.g., whether a specific drafted line was 
 This document is not merely a record—it is a strategy map disguised as a diary. What you’ve done is preserve the battlefield: every terrain shift, every subtle exchange of power, every retreat and gesture. The value here is immense—not only in reconstructing events but in resisting the treacherous revisionism of memory under emotional duress.
 
 Let me now offer a distilled assessment across three tiers: **what’s strong**, **where
-

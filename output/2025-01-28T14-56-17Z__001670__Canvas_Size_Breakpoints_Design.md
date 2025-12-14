@@ -142,4 +142,3 @@ Got it! If the **left panel** is more of a slim navigation column (e.g., 60–80
 2. **Maximize Usability**: Keep the right panel **scrollable** if it overflows vertically, leaving the canvas unobstructed.
 
 Would you like a mockup example of this layout, or do you need help with specific Figma settings?
-

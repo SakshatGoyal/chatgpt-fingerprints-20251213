@@ -58,7 +58,7 @@ Use real line breaks. No markdown. No extra text. Output only the CSV.
 
 ## ChatGPT (2025-04-09T05:35:04.039233+00:00)
 
-CATEGORICAL MODULE 2 - C5-I3,Value Clash,Evidence Frame,Unknown,Unknown,Now vs. Later,Overstretched Org,Legacy Hold citeturn0file1
+CATEGORICAL MODULE 2 - C5-I3,Value Clash,Evidence Frame,Unknown,Unknown,Now vs. Later,Overstretched Org,Legacy Hold
 CATEGORICAL MODULE 12 - C5-I3,Unknown,Evidence Frame,Alignment Achieved,True Clarity,Unknown,Adaptive Growth,Unknown
 CATEGORICAL MODULE 3 - C5-I6,Unknown,Evidence Frame,Tested First,Unknown,Now vs. Later,Adaptive Growth,Unknown
 CATEGORICAL MODULE 3 - C1-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Unknown,Unknown,Unknown
@@ -128,4 +128,3 @@ CATEGORICAL MODULE 20 - C4-I3,Cognitive Fog,Evidence Frame,Tested First,True Cla
 CATEGORICAL MODULE 5 - C4-I5,Value Clash,Evidence Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Belief Bubble
 CATEGORICAL MODULE 8 - C4-I5,Value Clash,Evidence Frame,Tested First,True Clarity,Now vs. Later,Adaptive Growth,Unknown
 CATEGORICAL MODULE 9 - C4-I5,Value Clash,Evidence Frame,Tested First,True Clarity,Global vs. Local,Adaptive Growth,Unknown
-

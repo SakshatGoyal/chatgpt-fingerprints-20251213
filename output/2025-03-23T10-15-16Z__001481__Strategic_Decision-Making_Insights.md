@@ -160,80 +160,80 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Accelerating Drug Discovery through AI
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Integrating AI into drug discovery is transforming R&D processes—accelerating candidate identification and clinical trial efficiencies—while simultaneously demanding rigorous oversight to ensure safety and regulatory compliance." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Balancing the imperative for rapid innovation with the need for strict safety standards and regulatory adherence.  
-- **Underlying Beliefs & Biases:** An optimism bias regarding technological promise may overshadow necessary caution, as executives sometimes overestimate AI’s capacity to fully replace traditional oversight.  
-- **Expected vs. Actual Outcomes:** While accelerated discovery timelines are anticipated, the reality requires maintaining a human “in the loop” to verify AI outputs, thereby tempering initial expectations.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Balancing the imperative for rapid innovation with the need for strict safety standards and regulatory adherence.
+- **Underlying Beliefs & Biases:** An optimism bias regarding technological promise may overshadow necessary caution, as executives sometimes overestimate AI’s capacity to fully replace traditional oversight.
+- **Expected vs. Actual Outcomes:** While accelerated discovery timelines are anticipated, the reality requires maintaining a human “in the loop” to verify AI outputs, thereby tempering initial expectations.
 - **Broader Implications:** As AI reshapes R&D workflows, executives must recalibrate decision frameworks and regulatory protocols to accommodate continuous learning and data integration challenges. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical examples from industry—such as Johnson & Johnson’s med.AI database, Roche’s “lab in a loop” strategy, and Amgen’s ATOMIC platform—illustrate how AI is embedded in the discovery process. Approximately 60% of executives monitor generative AI trends to boost efficiency, evidencing both the promise and the complexity of this integration. **[Empirical]**
 
 ---
 
 ### 2. Strategic Commercialization in a Competitive Pharma Landscape
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Effective market entry in pharma hinges on a data-driven, adaptive commercialization strategy that leverages AI for sophisticated market forecasting and aligns pricing with evolving regulatory and competitive pressures." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Determining optimal market entry and pricing strategies amidst regulatory constraints and aggressive competition.  
-- **Underlying Beliefs & Biases:** A strong commitment to data-driven insights coexists with resistance to discarding traditional, less agile methods, potentially stifling innovation in market approaches.  
-- **Expected vs. Actual Outcomes:** Although dynamic pricing models and AI-enhanced forecasting are expected to yield substantial gains, real-world outcomes require continual strategic adjustments to meet shifting market realities.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Determining optimal market entry and pricing strategies amidst regulatory constraints and aggressive competition.
+- **Underlying Beliefs & Biases:** A strong commitment to data-driven insights coexists with resistance to discarding traditional, less agile methods, potentially stifling innovation in market approaches.
+- **Expected vs. Actual Outcomes:** Although dynamic pricing models and AI-enhanced forecasting are expected to yield substantial gains, real-world outcomes require continual strategic adjustments to meet shifting market realities.
 - **Broader Implications:** These pressures encourage the formation of strategic collaborations and flexible commercialization frameworks, essential for sustaining competitive advantage. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Deloitte’s analysis indicates that strategic AI investments could drive revenue improvements of up to 11%. Case studies involving Pfizer and Roche underscore the critical role of advanced analytics in shaping market entry strategies, reinforcing the empirical basis for a data-centric commercialization approach. **[Empirical]**
 
 ---
 
 ### 3. Balancing Innovation and Risk in R&D Portfolio Management
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Prioritizing R&D investments demands a structured framework that combines quantitative assessments—such as NPV and IRR—with robust processes designed to mitigate biases like overreliance on champion projects and the sunk cost fallacy." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Allocating finite resources among high-risk projects while avoiding cognitive traps that favor familiar or previously championed initiatives.  
-- **Underlying Beliefs & Biases:** There is a prevalent bias toward projects endorsed by influential figures, potentially leading to overinvestment despite limited empirical support.  
-- **Expected vs. Actual Outcomes:** Although structured evaluation methods aim to enhance risk assessments, the unpredictable nature of clinical outcomes means that expectations often diverge from reality.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Allocating finite resources among high-risk projects while avoiding cognitive traps that favor familiar or previously championed initiatives.
+- **Underlying Beliefs & Biases:** There is a prevalent bias toward projects endorsed by influential figures, potentially leading to overinvestment despite limited empirical support.
+- **Expected vs. Actual Outcomes:** Although structured evaluation methods aim to enhance risk assessments, the unpredictable nature of clinical outcomes means that expectations often diverge from reality.
 - **Broader Implications:** Incorporating AI-driven risk assessment tools could refine traditional evaluation frameworks, leading to more balanced and objective portfolio management. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Evidence from practices like Amgen’s “pick the winners” strategy and the routine application of financial metrics such as NPV and IRR highlights the need for systematic approaches in mitigating bias. These methods are empirically validated as crucial for balancing the inherent risks within R&D portfolios. **[Empirical]**
 
 ---
 
 ### 4. Understanding How Executives Make Decisions
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Executive decision-making in pharma and biotech emerges from a hybrid of rigorous data analytics and experiential intuition, yet this interplay often risks overconfidence and entrenched cognitive biases." **[Inferred]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Balancing the reliability of data-driven analysis with the valuable, albeit subjective, insights from seasoned experience in high-stakes decisions.  
-- **Underlying Beliefs & Biases:** Reliance on past success and personal judgment can foster overconfidence, potentially blinding leaders to emerging risks or alternative strategies.  
-- **Expected vs. Actual Outcomes:** Although decisions are expected to be grounded in empirical data, in practice, intuition and historical precedent frequently dominate the process.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Balancing the reliability of data-driven analysis with the valuable, albeit subjective, insights from seasoned experience in high-stakes decisions.
+- **Underlying Beliefs & Biases:** Reliance on past success and personal judgment can foster overconfidence, potentially blinding leaders to emerging risks or alternative strategies.
+- **Expected vs. Actual Outcomes:** Although decisions are expected to be grounded in empirical data, in practice, intuition and historical precedent frequently dominate the process.
 - **Broader Implications:** A recalibration of decision-making protocols to include systematic checks against cognitive biases is essential for optimizing strategic outcomes. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Narratives featuring leaders like Evan Lippman of Alnylam Pharmaceuticals illustrate that while data and analytics are central, the ingrained role of intuition and experience persists. This hybrid approach, though beneficial, necessitates safeguards to counteract potential biases. **[Inferred]**
 
 ---
 
 ### 5. Understanding Challenges in Decision-Making
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Go/no-go decisions in drug development are particularly challenging due to the high stakes involved, the frequent absence of complete data, and significant external pressures from investors and regulatory bodies." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Evaluating whether to advance drug candidates based on early-stage, often incomplete data while contending with substantial financial and regulatory risks.  
-- **Underlying Beliefs & Biases:** Executives may exhibit either an optimism bias or undue caution, both of which can distort the appraisal of a candidate’s true potential under conflicting informational signals.  
-- **Expected vs. Actual Outcomes:** Despite rigorous analysis, the unpredictability of clinical trial outcomes often leads to discrepancies between expected and realized performance.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Evaluating whether to advance drug candidates based on early-stage, often incomplete data while contending with substantial financial and regulatory risks.
+- **Underlying Beliefs & Biases:** Executives may exhibit either an optimism bias or undue caution, both of which can distort the appraisal of a candidate’s true potential under conflicting informational signals.
+- **Expected vs. Actual Outcomes:** Despite rigorous analysis, the unpredictability of clinical trial outcomes often leads to discrepancies between expected and realized performance.
 - **Broader Implications:** This underscores the need for dynamic, adaptive decision-making frameworks that integrate continuous data monitoring and can adjust strategies in real time. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical evidence from the sector points to the persistent difficulty of "go/no-go" decisions—illustrated by the high financial stakes and complex regulatory environments—emphasizing the necessity of structured, iterative evaluation processes in mitigating uncertainty. **[Empirical]**
 
 ---
@@ -536,21 +536,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -563,4 +563,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T10:18:36.798475+00:00)
 
 Gemini Research. (2024). *Strategic decision-making in the North American pharmaceutical and biotech industry: Balancing innovation, commercialization, and risk*.
-

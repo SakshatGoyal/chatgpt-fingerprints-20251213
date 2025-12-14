@@ -288,7 +288,7 @@ def dropdown_filter_block(col):
         html.Label(f"{col}:"),
         dcc.Dropdown(
             id=f'filter-{col}',
-            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())] 
+            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())]
                 if col in df_full.columns else [],
             multi=True,
             placeholder=f"Highlight by {col}..."
@@ -333,7 +333,6 @@ app.layout = html.Div([
 
     html.Div(id='debug-output', style={'marginTop': '20px', 'whiteSpace': 'pre-wrap', 'fontFamily': 'monospace'})
 ], style={'fontFamily': "'Anonymous Pro', monospace"})
-    
 
 
 # A small convenience to produce default "None" for each filter
@@ -583,9 +582,9 @@ Got it — I’ve read through the entire code and have its logic, structure, an
 
 ok, now you see the sankey chart? right now it's designed to occupy the entir width of the screen, but the height is somewhat fixed. I want the height to readjust based on the following logic :
 
-Height = (16/9)*width. 
+Height = (16/9)*width.
 
-so whatever the width is (based on the screen size) whether its 1000 or 1600, the height should readjust itself based on the width. 
+so whatever the width is (based on the screen size) whether its 1000 or 1600, the height should readjust itself based on the width.
 
 How should i proceed with making the modifications?
 
@@ -706,7 +705,7 @@ Let me know if you want me to walk you through each line-by-line change or creat
 
 ## You (2025-04-06T22:53:28.590762+00:00)
 
-i made the necessary changes, but it didn't make the changes we were expecting. 
+i made the necessary changes, but it didn't make the changes we were expecting.
 
 Here's the updated code block:
 
@@ -725,7 +724,7 @@ Here's the updated code block:
 
     html.Div(id='debug-output', style={'marginTop': '20px', 'whiteSpace': 'pre-wrap', 'fontFamily': 'monospace'})
 ], style={'fontFamily': "'Anonymous Pro', monospace"})
-    
+
 
 And here's the new file you asked me to create:
 
@@ -804,7 +803,6 @@ Want me to bundle those final versions into a ready-to-copy format?
 ## You (2025-04-06T22:54:44.170466+00:00)
 
 i have this block now, but it has a bunch of errors
-
 
 
     html.Div([
@@ -890,10 +888,10 @@ Let’s fix this:
 
 ### ✅ What to Check (in order):
 
-1. **Find where you define `app.layout = html.Div([ ... ])`**  
+1. **Find where you define `app.layout = html.Div([ ... ])`**
    - Make sure every opening `[` and `(` has a matching closing `]` and `)`.
 
-2. **Check your final closing brackets**  
+2. **Check your final closing brackets**
    - The last part of your layout should end like this (literally):
 
 ```python
@@ -919,7 +917,7 @@ if __name__ == '__main__':
 ```python
 app.layout = html.Div([
     html.H1("Parallel Sets-Style Visualization with Highlighting"),
-    
+
     # (All your content here)
 
     html.Div([
@@ -943,7 +941,7 @@ If you'd like, you can paste your full `app.layout = ...` block here and I’ll 
 
 ## You (2025-04-06T22:57:58.516715+00:00)
 
-just modify this block with the necessary changes. 
+just modify this block with the necessary changes.
 
 app.layout = html.Div([
     html.H1("Parallel Sets-Style Visualization with Highlighting"),
@@ -1204,12 +1202,12 @@ Perfect. Here's a fully structured **Product Requirements Document (PRD)** cover
 
 # **Product Requirements Document (PRD)**
 
-### **Title:**  
+### **Title:**
 Enhancement of Responsive Sankey Visualization and Donut Charts in Dash App
 
 ---
 
-### **Objective**  
+### **Objective**
 Review the existing Sankey + Donut chart visualization codebase and return a version with specific UI and behavioral enhancements, as described below. The goal is to improve clarity, consistency, responsiveness, and interactivity in the way the data is visualized and explored.
 
 ---
@@ -1218,7 +1216,7 @@ Review the existing Sankey + Donut chart visualization codebase and return a ver
 
 ### **1. Responsive Height for Sankey Chart**
 - The Sankey diagram must maintain a **16:9 aspect ratio** based on its actual rendered **width**.
-- The height must be **calculated dynamically at runtime** using the formula:  
+- The height must be **calculated dynamically at runtime** using the formula:
   > **`height = (16 / 9) * width`**
 - The Sankey chart must adjust height on both:
   - Initial page load
@@ -1288,7 +1286,7 @@ Let me know when you're ready to paste the code underneath — I’ll keep this 
 hey sorry, one last thing...
 
 
-Right now, the sankey has a 'default' color, which is when there's no highlighting applied. Somehow, the default color is the same as the one when everything is highlighted. I would like to be able to set a different color for when there're no filters selected. So the colors should be - 
+Right now, the sankey has a 'default' color, which is when there's no highlighting applied. Somehow, the default color is the same as the one when everything is highlighted. I would like to be able to set a different color for when there're no filters selected. So the colors should be -
 
 Default state:
 Node color
@@ -1298,7 +1296,7 @@ Highlighted state:
 Node color (highlighted)
 Node COlor (not highlighted)
 Path Color (highlighted)
-Path Color (not highlighted). 
+Path Color (not highlighted).
 
 Do you think that's possible in this current state or would it result in more issues. You don't need to solve the problem, just let me know if tis possible without creating issues. And if it is possible, Could you add it in the PRD.
 
@@ -1344,4 +1342,3 @@ The Sankey diagram must visually distinguish between the following states:
 ---
 
 The PRD now fully reflects your original + new expectations, cleanly divided and solution-agnostic. Ready when you are to plug in the code underneath.
-

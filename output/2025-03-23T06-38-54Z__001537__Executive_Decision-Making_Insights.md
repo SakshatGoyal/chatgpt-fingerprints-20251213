@@ -149,76 +149,76 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:** This review integrates research on strategic cognition by examining both the structure—organizational identity, strategy frames, and routines—and the processes—scanning, sensemaking, and sensegiving—that underpin strategic decision-making.  
-- **Core Motivations:** The paper is driven by the need to understand how cognitive processes shape strategy formulation, implementation, and change. It challenges traditional rational models by foregrounding human agency and cognitive biases that influence executive decisions.  
-- **Methodological Clarification:** Employing a systematic review of high-quality literature from 1993 to 2007, the authors categorize findings into five distinct empirical research streams. This rigorous approach, while methodologically diverse, provides a robust framework for linking antecedents, cognitive structures/processes, and strategic outcomes.  
+- **Key Themes:** This review integrates research on strategic cognition by examining both the structure—organizational identity, strategy frames, and routines—and the processes—scanning, sensemaking, and sensegiving—that underpin strategic decision-making.
+- **Core Motivations:** The paper is driven by the need to understand how cognitive processes shape strategy formulation, implementation, and change. It challenges traditional rational models by foregrounding human agency and cognitive biases that influence executive decisions.
+- **Methodological Clarification:** Employing a systematic review of high-quality literature from 1993 to 2007, the authors categorize findings into five distinct empirical research streams. This rigorous approach, while methodologically diverse, provides a robust framework for linking antecedents, cognitive structures/processes, and strategic outcomes.
 - **Relevance Assessment:** The insights are highly relevant to contemporary executives as they illuminate the dual role of cognition in driving both strategic stability and rigidity, offering guidance on how to balance directional consistency with necessary adaptability in volatile markets.
 
 ---
 
 ## Grounded Executive Insights
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Executive decision-making is profoundly shaped by cognitive frames that filter information and structure interpretations; yet, these same frames can engender cognitive inertia, hindering adaptability in fast-changing environments. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must balance the benefits of having stable strategic direction with the imperative to remain agile amid rapidly evolving market conditions.  
-- **Underlying Beliefs & Biases:** A reliance on established cognitive frames may foster confirmation bias and a resistance to revising long-held assumptions.  
-- **Expected vs. Actual Outcomes:** Although stable frames can streamline decision-making, they risk causing delayed responses or missed opportunities when market dynamics shift.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must balance the benefits of having stable strategic direction with the imperative to remain agile amid rapidly evolving market conditions.
+- **Underlying Beliefs & Biases:** A reliance on established cognitive frames may foster confirmation bias and a resistance to revising long-held assumptions.
+- **Expected vs. Actual Outcomes:** Although stable frames can streamline decision-making, they risk causing delayed responses or missed opportunities when market dynamics shift.
 - **Broader Implications:** Leaders are encouraged to periodically challenge and update their cognitive frameworks to prevent strategic stagnation and maintain competitive agility. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The review documents multiple empirical studies showing that dominant strategy frames and entrenched organizational identities—exemplified by cases like Intel’s prolonged focus on memory chips—can both guide and limit strategic choices, underscoring the need for periodic reassessment of these cognitive constructs. **[Empirical]**
 
 ---
 
-**2. Insight Statement**  
+**2. Insight Statement**
 Shared organizational identity offers a cohesive strategic vision but can also cement cognitive inertia, thereby constraining strategic change and innovation. **[Inferred]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders face the challenge of maintaining a strong, unifying identity while remaining open to transformative changes driven by external pressures and internal evolution.  
-- **Underlying Beliefs & Biases:** A deeply entrenched identity can lead to overconfidence and an unwillingness to reconsider or update strategic perspectives, particularly when facing disruptive innovations.  
-- **Expected vs. Actual Outcomes:** While a unified identity promotes coordinated action, it may also lead to resistance against change, limiting the organization’s ability to pivot when necessary.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders face the challenge of maintaining a strong, unifying identity while remaining open to transformative changes driven by external pressures and internal evolution.
+- **Underlying Beliefs & Biases:** A deeply entrenched identity can lead to overconfidence and an unwillingness to reconsider or update strategic perspectives, particularly when facing disruptive innovations.
+- **Expected vs. Actual Outcomes:** While a unified identity promotes coordinated action, it may also lead to resistance against change, limiting the organization’s ability to pivot when necessary.
 - **Broader Implications:** It is critical for executives to embed mechanisms—such as periodic strategic audits or cross-functional workshops—that encourage reassessment of identity-related assumptions to sustain long-term relevance. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Empirical evidence cited in the review, including studies by Barney et al. (1998) and Reger & Palmer (1996), illustrates how a strong organizational identity can simultaneously drive performance and impede necessary strategic shifts, revealing its dual-edged impact on competitive advantage. **[Empirical]**
 
 ---
 
-**3. Insight Statement**  
+**3. Insight Statement**
 The dynamic processes of scanning, sensemaking, and sensegiving are central to both strategy formulation and implementation, reinforcing that adaptive decision-making hinges on continuously reinterpreting environmental cues. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must integrate timely environmental scanning with effective sensemaking to accurately interpret market signals and drive strategic initiatives.  
-- **Underlying Beliefs & Biases:** Failure to appreciate the iterative nature of sensemaking can lead to misinterpretation of critical market information, resulting in suboptimal strategic decisions.  
-- **Expected vs. Actual Outcomes:** When executed effectively, robust scanning and interpretative processes lead to higher quality strategic decisions and improved performance; conversely, neglecting these processes may cause misaligned strategies.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must integrate timely environmental scanning with effective sensemaking to accurately interpret market signals and drive strategic initiatives.
+- **Underlying Beliefs & Biases:** Failure to appreciate the iterative nature of sensemaking can lead to misinterpretation of critical market information, resulting in suboptimal strategic decisions.
+- **Expected vs. Actual Outcomes:** When executed effectively, robust scanning and interpretative processes lead to higher quality strategic decisions and improved performance; conversely, neglecting these processes may cause misaligned strategies.
 - **Broader Implications:** Fostering a culture of continuous information sharing and challenging existing interpretations is essential to enhance strategic responsiveness and innovation. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The review draws on extensive empirical work showing that environmental scanning and subsequent sensemaking play pivotal roles in shaping strategic actions. Studies demonstrate that firms with dynamic, iterative cognitive processes are better positioned to adjust strategies in response to external changes, validating the importance of these processes in executive decision-making. **[Empirical]**
 
 ---
 
-**4. Insight Statement**  
+**4. Insight Statement**
 Incorporating cognitive insights from middle management and lower-level employees enriches strategic decision-making by broadening the perspective beyond the top executive suite, thus fostering a more resilient and comprehensive strategy. **[Inferred]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** The challenge lies in integrating diverse cognitive inputs across different organizational levels to create a well-rounded strategic vision.  
-- **Underlying Beliefs & Biases:** Overemphasis on top-level cognition can lead to strategic blind spots, as valuable insights from operational levels might be overlooked.  
-- **Expected vs. Actual Outcomes:** Inclusive cognitive processes that incorporate views from various levels are likely to yield more adaptable and robust strategies; in contrast, siloed decision-making can result in a narrow and potentially outdated strategic outlook.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** The challenge lies in integrating diverse cognitive inputs across different organizational levels to create a well-rounded strategic vision.
+- **Underlying Beliefs & Biases:** Overemphasis on top-level cognition can lead to strategic blind spots, as valuable insights from operational levels might be overlooked.
+- **Expected vs. Actual Outcomes:** Inclusive cognitive processes that incorporate views from various levels are likely to yield more adaptable and robust strategies; in contrast, siloed decision-making can result in a narrow and potentially outdated strategic outlook.
 - **Broader Implications:** Establishing structured forums for cross-level dialogue can help surface innovative ideas and mitigate risks associated with cognitive over-reliance on a single perspective. **[Speculative]**
 
-**Supporting Context:**  
+**Supporting Context:**
 While the literature primarily focuses on upper-echelon cognition, emerging evidence within the review suggests that group-level dynamics and multi-level sensemaking contribute significantly to effective strategy formulation. This indicates that a more distributed model of strategic cognition may offer additional benefits, though further empirical investigation is warranted. **[Speculative]**
 
 ---
 
 ### Source Relevance Audit
 
-- **Coverage Fit:** High — The paper comprehensively addresses the cognitive underpinnings of executive decision-making and strategic reasoning across multiple levels of analysis.  
-- **Bias & Cognitive Modeling Content:** Present — The review integrates diverse empirical and theoretical perspectives on cognitive biases, strategy frames, organizational identity, and routines.  
-- **Clarity of Methods & Outcomes:** Clear — The systematic literature review method is well-documented, with findings organized into distinct research streams that elucidate both cognitive structures and processes.  
+- **Coverage Fit:** High — The paper comprehensively addresses the cognitive underpinnings of executive decision-making and strategic reasoning across multiple levels of analysis.
+- **Bias & Cognitive Modeling Content:** Present — The review integrates diverse empirical and theoretical perspectives on cognitive biases, strategy frames, organizational identity, and routines.
+- **Clarity of Methods & Outcomes:** Clear — The systematic literature review method is well-documented, with findings organized into distinct research streams that elucidate both cognitive structures and processes.
 - **Areas with No Data:** None — While some emerging areas (e.g., multi-level cognitive integration) are less empirically developed, the paper provides substantial support for the main constructs across all sections.
 
 ## You (2025-03-23T06:39:34.076000+00:00)
@@ -484,21 +484,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -511,4 +511,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T06:41:48.952244+00:00)
 
 Narayanan, V. K., Zane, L. J., & Kemmerer, B. (2011). The cognitive perspective in strategy: An integrative review. *Journal of Management, 37*(1), 305–351. https://doi.org/10.1177/0149206310383986
-

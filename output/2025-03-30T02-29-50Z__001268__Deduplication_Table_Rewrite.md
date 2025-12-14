@@ -10,16 +10,16 @@ recreate the above response by keeping the following things in mind
 - recreate table it in a way that i can copy it into notion as a table
 - Concatenate the term 'CATEGORICAL MODULE ' (extra space at the end is intentional) at the beginning of every cell in first column, except the header.
 - capitalize all characters in first column
-- keeping values in column 1 as reference, return a table that has rows containing only the unique values of row 1. 
+- keeping values in column 1 as reference, return a table that has rows containing only the unique values of row 1.
 
-at the end, if there were duplicates, give me a count of the duplicate row values. If there were no rows, just say there were no duplicates. 
+at the end, if there were duplicates, give me a count of the duplicate row values. If there were no rows, just say there were no duplicates.
 ---
 
-However, there's an issue - 
+However, there's an issue -
 
 My main goal is to make sure there are no duplicates. However, some of the following scenarios keep happening:
 
-1. It deletes all the rows that were duplicated - meaning, it would not only delete the duplicated rows which appear twice, it'll also delete the original row. For example, if rows 12, 14, and 17 are a duplicate of row 3, it will delete rows 12, 14, 17, and 3. I need it to keep row 3 intact, not include that in its exclusion. 
+1. It deletes all the rows that were duplicated - meaning, it would not only delete the duplicated rows which appear twice, it'll also delete the original row. For example, if rows 12, 14, and 17 are a duplicate of row 3, it will delete rows 12, 14, 17, and 3. I need it to keep row 3 intact, not include that in its exclusion.
 
 2. It will delete rows even when column 1 of the two rows has unique values, but the subsequent columns of the same rows have the same values. For example:
 
@@ -52,7 +52,7 @@ Let’s confirm a few points:
 1. ✅ **Deduplication should be based strictly on column 1 (the module ID).**
 2. ✅ If duplicates exist (same column 1 value), **retain the first occurrence** and discard others.
 3. ✅ You want to transform column 1 like this:
-   - Prefix each value (except the header) with `CATEGORICAL MODULE `  
+   - Prefix each value (except the header) with `CATEGORICAL MODULE `
    - Capitalize all of column 1
 4. ✅ Output should be a clean **copy-pasteable table for Notion** (probably Markdown)
 5. ✅ At the end, return a **count of duplicates removed** (or say “no duplicates”)
@@ -69,11 +69,11 @@ yes, begin building the prompt
 
 Perfect — thanks for confirming! Here's a fully optimized version of your prompt, crafted to give GPT-4o precise instructions that:
 
-- Avoid accidental deletions  
-- Handle deduplication **only based on column 1**  
-- Format the table correctly for **Notion compatibility**  
-- Modify column 1 as requested  
-- Summarize duplicates accurately  
+- Avoid accidental deletions
+- Handle deduplication **only based on column 1**
+- Format the table correctly for **Notion compatibility**
+- Modify column 1 as requested
+- Summarize duplicates accurately
 
 ---
 
@@ -99,10 +99,10 @@ Recreate the table shown above this prompt with the following specific instructi
 
 4. **Final Summary**:
    - After the table, print one of the following:
-     - If any duplicate rows were removed, state:  
-       `"Removed X duplicate rows based on the first column."`  
+     - If any duplicate rows were removed, state:
+       `"Removed X duplicate rows based on the first column."`
        (Replace `X` with the actual number of removed rows.)
-     - If no duplicates were found, state:  
+     - If no duplicates were found, state:
        `"No duplicates found in the first column."`
 
 Verify your logic carefully before presenting the final result.
@@ -114,7 +114,7 @@ Would you like me to test this against a sample input so you can see it in actio
 
 ## You (2025-03-30T02:53:07.816000+00:00)
 
-For some reason its deleting a lot more rows. 
+For some reason its deleting a lot more rows.
 
 THIS IS THE EARLIER RESPONSE:
 | Module ID | Ambiguity Type | Framing Move | Stabilizer | False Clarity? | Residual Ambiguity |
@@ -215,15 +215,15 @@ We want to **compare the earlier response and the new response**, but only by **
 #### 🔹 From the earlier response:
 Extracted codes (from column 1):
 ```
-c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, 
-c2-i2, c2-i2, 
-c2-i3, c2-i3, c2-i3, c2-i3, c2-i3, c2-i3, 
-c2-i4, c2-i4, c2-i4, 
-c2-i5, c2-i5, 
-c2-i6, 
-c3-i1, c3-i1, 
-c3-i2, c3-i2, 
-c3-i3, 
+c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1,
+c2-i2, c2-i2,
+c2-i3, c2-i3, c2-i3, c2-i3, c2-i3, c2-i3,
+c2-i4, c2-i4, c2-i4,
+c2-i5, c2-i5,
+c2-i6,
+c3-i1, c3-i1,
+c3-i2, c3-i2,
+c3-i3,
 c3-i5, c3-i5
 ```
 
@@ -232,15 +232,15 @@ c3-i5, c3-i5
 #### 🔹 From the new response:
 Extracted codes:
 ```
-c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, 
-c2-i2, c2-i2, 
-c2-i3, c2-i3, c2-i3, c2-i3, c2-i3, c2-i3, 
-c2-i4, c2-i4, c2-i4, 
-c2-i5, c2-i5, 
-c2-i6, 
-c3-i1, c3-i1, 
-c3-i2, c3-i2, 
-c3-i3, 
+c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1, c2-i1,
+c2-i2, c2-i2,
+c2-i3, c2-i3, c2-i3, c2-i3, c2-i3, c2-i3,
+c2-i4, c2-i4, c2-i4,
+c2-i5, c2-i5,
+c2-i6,
+c3-i1, c3-i1,
+c3-i2, c3-i2,
+c3-i3,
 c3-i5, c3-i5
 ```
 
@@ -252,7 +252,7 @@ c3-i5, c3-i5
 
 **❗ Zero rows were actually removed based on module code.**
 
-But the **new response says**:  
+But the **new response says**:
 > “83 duplicate rows removed”
 
 This is clearly a logic bug — it’s **counting duplicates based on more than just the module code**, or worse, applying incorrect logic.
@@ -288,7 +288,7 @@ Perfect — thank you. Prioritizing the **deduplication logic** is essential her
 ### 🔧 Refined Prompt (Deduplication-Prioritized, Testable)
 
 ```
-You are a data-cleaning assistant. Your task is to transform and clean a tabular dataset using the following strict instructions. 
+You are a data-cleaning assistant. Your task is to transform and clean a tabular dataset using the following strict instructions.
 
 🚨 PRIORITY 1: Deduplicate rows based on exact match of **column 1 (Module ID)**
 
@@ -314,9 +314,9 @@ Once deduplication is complete:
 🧮 FINAL SUMMARY:
 
 7. After the table, print **one and only one** of the following messages:
-   - If duplicates were removed:  
+   - If duplicates were removed:
      `"Removed X duplicate rows based on column 1 values."` (Replace `X` with the exact count.)
-   - If no duplicates were found:  
+   - If no duplicates were found:
      `"No duplicates found in column 1."`
 
 🧠 Before outputting, double-check:
@@ -446,7 +446,7 @@ Here's the new response. I used o3 instead of 4o. on first glance it has more ro
 | CATEGORICAL MODULE 21 - C1-I6     | conflicting signals    | scenario modeling  | data threshold     | partial        | long-term risk       |
 | CATEGORICAL MODULE 48 - C1-I7     | conflicting signals    | scenario modeling  | external validation| no             | long-term risk       |
 | CATEGORICAL MODULE 50 - C1-I7     | conflicting signals    | scenario modeling  | external validation| partial        | long-term risk       |
-``` 
+```
 
 Removed 28 duplicate rows based on column 1 values.
 
@@ -524,7 +524,7 @@ Would you like a small tool (like a Python snippet) to help you verify future ou
 
 ## You (2025-03-30T03:35:56.294000+00:00)
 
-Here's the original dataset it was instructed to modify. 
+Here's the original dataset it was instructed to modify.
 
 ```csv
 Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity?,Residual Ambiguity
@@ -717,4 +717,3 @@ I can give you a quick Python snippet or Google Sheets formula to:
 - Verify deduplication logic automatically
 
 Let me know!
-

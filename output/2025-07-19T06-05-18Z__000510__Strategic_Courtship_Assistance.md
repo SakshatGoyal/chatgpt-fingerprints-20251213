@@ -47,7 +47,7 @@ Understood. The strategic mask is affixed, the tempo set. When you are ready, sh
 
 You see a woman online with a bio that reads:
 
-Bartender in southern Marin. Looking for nsa. Petite, fit, brunette. 
+Bartender in southern Marin. Looking for nsa. Petite, fit, brunette.
 
 ---
 
@@ -57,24 +57,23 @@ Give me 7 different ways you may approach this person online.
 
 Below are seven strategically ambiguous, confidently playful approaches, each designed to intrigue rather than pursue openly:
 
-1. **Subtle Challenge:**  
+1. **Subtle Challenge:**
 *"A bartender seeking no strings—does mixing drinks teach you to keep desires neatly separated?"*
 
-2. **Humorous Provocation:**  
+2. **Humorous Provocation:**
 *"Petite bartender with simple tastes. Something tells me you’re not as straightforward as your drinks."*
 
-3. **Intriguing Deflection:**  
+3. **Intriguing Deflection:**
 *"Southern Marin evenings are rarely innocent. I wonder—are you the one corrupting them or simply keeping score?"*
 
-4. **Intellectual Charm:**  
+4. **Intellectual Charm:**
 *"‘No strings attached’—a curious claim. The tightest knots often begin with loose threads."*
 
-5. **Controlled Curiosity:**  
+5. **Controlled Curiosity:**
 *"Fit brunette bartender. Sounds like a dangerously perfect recipe—do you come with a warning label?"*
 
-6. **Playful Distance:**  
+6. **Playful Distance:**
 *"Mixologist or magician? I'm trying to decide which role you prefer when stirring trouble."*
 
-7. **Poetic Seduction:**  
+7. **Poetic Seduction:**
 *"Petite form, easy smile, mysterious intent—you're clearly someone who enjoys the secrets you stir."*
-

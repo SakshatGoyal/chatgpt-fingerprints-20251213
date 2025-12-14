@@ -2,9 +2,9 @@
 
 ## You (2025-04-06T06:29:59.866659+00:00)
 
-You are an expert at python, data visualization, and using plotly in a creative way. Your task is to modify the code at the bottom of this prompt based on the following user's intent. You will be expected to return the entire python file that works with said intent. 
+You are an expert at python, data visualization, and using plotly in a creative way. Your task is to modify the code at the bottom of this prompt based on the following user's intent. You will be expected to return the entire python file that works with said intent.
 
-Here's the intent. 
+Here's the intent.
 
 **🔢 Dataset Structure**
 
@@ -190,8 +190,8 @@ def prepare_sankey_data(df, stage_cols):
     """Builds node/link structures for a Plotly Sankey."""
     if df.empty:
         return (
-            {'labels': [], 'x': [], 'y': [], 'stages': []}, 
-            {'source': [], 'target': [], 'value': [], 'label': []}, 
+            {'labels': [], 'x': [], 'y': [], 'stages': []},
+            {'source': [], 'target': [], 'value': [], 'label': []},
             {}
         )
 
@@ -269,7 +269,7 @@ app.layout = html.Div([
             html.Label(f"{col}:"),
             dcc.Dropdown(
                 id=f'filter-{col}',
-                options=[{'label': i, 'value': i} for i in sorted(df_full[col].unique())] 
+                options=[{'label': i, 'value': i} for i in sorted(df_full[col].unique())]
                 if col in df_full.columns else [],
                 multi=True,
                 placeholder=f"Select {col}..."
@@ -356,7 +356,6 @@ def store_selected_node(hoverData, reset_all_clicks, reset_node_clicks,
         raise dash.exceptions.PreventUpdate
 
     node_index = point['pointNumber']
-
 
 
     # It's a valid node => store it & lock
@@ -802,7 +801,7 @@ def dropdown_filter_block(col):
         html.Label(f"{col}:"),
         dcc.Dropdown(
             id=f'filter-{col}',
-            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())] 
+            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())]
                 if col in df_full.columns else [],
             multi=True,
             placeholder=f"Highlight by {col}..."
@@ -970,27 +969,27 @@ if __name__ == '__main__':
 Explanation of Key Changes and Features
 ---------------------------------------
 
-1. **Always Render Full Dataset, Then Highlight Subset**  
-   We build the node positions (`full_nodes_data`) **once** using the *entire dataset*. This ensures the Sankey layout remains fixed.  
+1. **Always Render Full Dataset, Then Highlight Subset**
+   We build the node positions (`full_nodes_data`) **once** using the *entire dataset*. This ensures the Sankey layout remains fixed.
 
-2. **Two-Link Approach for Each Category Pair**  
-   For each pair of adjacent phases (columns), we create **two links**:  
-   - A pink (highlight) link for all rows that meet the selected criteria (the *highlight* subset).  
-   - A grey (remainder) link for all other rows.  
+2. **Two-Link Approach for Each Category Pair**
+   For each pair of adjacent phases (columns), we create **two links**:
+   - A pink (highlight) link for all rows that meet the selected criteria (the *highlight* subset).
+   - A grey (remainder) link for all other rows.
 
-   This avoids “path bleed”: we only color a *portion* of the link if it truly belongs to the highlight subset.  
+   This avoids “path bleed”: we only color a *portion* of the link if it truly belongs to the highlight subset.
 
-3. **Contextual Filters Are Just Highlight Criteria**  
-   We do *not* remove or filter out data from the main Sankey. Instead, each dropdown selection is used to build a highlight subset. The rest remains in view (in grey).  
+3. **Contextual Filters Are Just Highlight Criteria**
+   We do *not* remove or filter out data from the main Sankey. Instead, each dropdown selection is used to build a highlight subset. The rest remains in view (in grey).
 
-4. **Node Coloring**  
-   Nodes that have *any* highlighted rows are shown in pink; otherwise they remain grey. This way, you can see which categories are involved in the subset.  
+4. **Node Coloring**
+   Nodes that have *any* highlighted rows are shown in pink; otherwise they remain grey. This way, you can see which categories are involved in the subset.
 
-5. **Single Callback**  
-   We have a single Dash callback that listens to changes in **all** dropdowns, plus a “Reset All Selections” button. If the reset button is clicked, all filters are cleared.  
+5. **Single Callback**
+   We have a single Dash callback that listens to changes in **all** dropdowns, plus a “Reset All Selections” button. If the reset button is clicked, all filters are cleared.
 
-6. **No Re-Layout**  
-   By fixing the `node.x` and `node.y` positions (using `arrangement='snap'` and precomputed coordinates), the overall Sankey layout remains constant.  
+6. **No Re-Layout**
+   By fixing the `node.x` and `node.y` positions (using `arrangement='snap'` and precomputed coordinates), the overall Sankey layout remains constant.
 
 This provides a *parallel sets-style* diagram with a **highlight** vs **remainder** coloring scheme — all journeys remain visible, but only those that match the user’s chosen conditions are accentuated in pink.
 
@@ -999,8 +998,7 @@ This provides a *parallel sets-style* diagram with a **highlight** vs **remainde
 Great Job! worked like a charmmmm...
 
 
-
-Now we'll go through a few, very few aesthetic changes. Lets make sure we make changes very carefully and not modify anything that would ruin our hard work. 
+Now we'll go through a few, very few aesthetic changes. Lets make sure we make changes very carefully and not modify anything that would ruin our hard work.
 
 1. change all font the current fonts to a kind of mono font. anything that's easily available, and quite popular. I want a way to introduce that with minimal impact to the code.
 
@@ -1134,7 +1132,7 @@ def dropdown_filter_block(col):
         html.Label(f"{col}:"),
         dcc.Dropdown(
             id=f'filter-{col}',
-            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())] 
+            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())]
                 if col in df_full.columns else [],
             multi=True,
             placeholder=f"Highlight by {col}..."
@@ -1161,7 +1159,6 @@ app.layout = html.Div([
     html.Div(id='debug-output', style={'marginTop': '20px', 'whiteSpace': 'pre-wrap', 'fontFamily': 'monospace'})
 ], style={'fontFamily': "'Source Code Pro', monospace"})
 
-    
 
     dcc.Loading(
         id="loading-sankey",
@@ -1241,4 +1238,3 @@ app.layout = html.Div([
 No duplicates, layout is clean, monospace applied.
 
 Want to add another visual polish?
-

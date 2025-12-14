@@ -58,24 +58,23 @@ What if two memories conflict or contradict with each other?
 
 When two "memories" or stored contexts conflict or contradict each other, ChatGPT typically handles it in these ways:
 
-1. **Recency Bias:**  
+1. **Recency Bias:**
    ChatGPT often prioritizes the **most recently updated or explicitly reinforced** information. If you recently stated something contradictory, ChatGPT will generally adopt that as the current truth.
 
-2. **Explicit Clarification:**  
+2. **Explicit Clarification:**
    If contradictions appear, you can explicitly tell the model which information to prioritize or discard:
    - Example: *"Forget my earlier statement about drinking coffee. I only drink chai."*
 
-3. **Weighted Context:**  
-   ChatGPT may weigh the clarity, frequency, and explicitness of instructions.  
+3. **Weighted Context:**
+   ChatGPT may weigh the clarity, frequency, and explicitness of instructions.
    - A clearly phrased, detailed, and explicitly "stored" context generally overrides a vague or less strongly phrased memory.
 
-4. **Asking for Clarification:**  
+4. **Asking for Clarification:**
    ChatGPT can be explicitly prompted to recognize contradictions and seek clarification from the user when confusion arises.
    - Example: *"If my instructions ever contradict, ask me explicitly before assuming."*
 
-5. **Manual Conflict Resolution (recommended):**  
+5. **Manual Conflict Resolution (recommended):**
    As the user or engineer, regularly reviewing stored contexts and actively resolving any contradictions ensures accuracy and consistency.
 
-**Best Practice:**  
+**Best Practice:**
 Clearly indicate corrections or preferred facts whenever updating or changing previously established "memories." Explicitness is key.
-

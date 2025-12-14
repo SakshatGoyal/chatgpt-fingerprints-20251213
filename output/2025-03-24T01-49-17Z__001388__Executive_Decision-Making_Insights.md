@@ -151,7 +151,7 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 - **Key Themes:** The paper explores the stage‐gate process as a tool for managing uncertainty and ambiguity in aerospace product development, emphasizing knowledge sharing, tacit knowledge, bounded rationality, and satisficing decision models.
 - **Core Motivations:** Driven by the challenges of incomplete information, stringent contractual obligations, and the need to maintain project momentum, the study investigates how decision makers navigate complex, high-stakes environments.
-- **Methodological Clarification:** Utilizing qualitative methods—semi‐structured interviews, workshops, and structured questionnaires—the research examines the perspectives of key stakeholders from aerospace companies, ensuring data validity through iterative transcript validation. citeturn0file0
+- **Methodological Clarification:** Utilizing qualitative methods—semi‐structured interviews, workshops, and structured questionnaires—the research examines the perspectives of key stakeholders from aerospace companies, ensuring data validity through iterative transcript validation.
 - **Relevance Assessment:** The insights directly inform contemporary executive concerns by questioning traditional rational decision-making models and suggesting pathways for integrating more explicit knowledge-based evaluation criteria into strategic processes.
 
 ## Grounded Executive Insights
@@ -160,53 +160,53 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Insight 1: Role of the Stage-Gate Process as a Knowledge-Sharing Boundary Object
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "The stage-gate process functions less as a binary go/no-go mechanism and more as a dynamic boundary negotiating artefact that fosters collective sensemaking and continuous reflection on ambiguous and incomplete knowledge." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 Executives face the strategic dilemma of balancing the need for timely decisions with the imperative to clarify and share uncertain information. The stage-gate process provides a structured forum for stakeholders to collectively discuss, flag, and mitigate uncertainties—thereby aligning diverse perspectives without halting project momentum. **[Inferred]**
 
-**3. Supporting Context:**  
-Empirical evidence from stakeholder interviews indicates that gate meetings are primarily used to highlight knowledge gaps and develop conditional action plans rather than to strictly cancel projects. This approach underlines how the stage-gate model supports ongoing communication and adaptive learning in environments where not all data is available. **[Empirical]** citeturn0file0
+**3. Supporting Context:**
+Empirical evidence from stakeholder interviews indicates that gate meetings are primarily used to highlight knowledge gaps and develop conditional action plans rather than to strictly cancel projects. This approach underlines how the stage-gate model supports ongoing communication and adaptive learning in environments where not all data is available. **[Empirical]**
 
 ---
 
 ### Insight 2: Bounded Rationality and the Satisficing Decision-Making Model
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Executives often engage in satisficing—making decisions that are 'good enough'—due to bounded rationality, as the constraints of limited information and tight time pressures render optimal decision-making impractical." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 In high-stakes, information-scarce environments, decision makers are compelled to choose viable alternatives that meet immediate needs rather than exhaustively exploring all possibilities. This trade-off reflects a strategic compromise between the desire for optimal outcomes and the realities of operational constraints, impacting risk management and innovation. **[Inferred]**
 
-**3. Supporting Context:**  
-The paper documents how decision makers rely on conditional go decisions and develop remedial action plans when faced with incomplete data. These practices echo Simon’s theories on bounded rationality, where the emphasis shifts from seeking perfection to ensuring continuity in project progression. **[Empirical]** citeturn0file0
+**3. Supporting Context:**
+The paper documents how decision makers rely on conditional go decisions and develop remedial action plans when faced with incomplete data. These practices echo Simon’s theories on bounded rationality, where the emphasis shifts from seeking perfection to ensuring continuity in project progression. **[Empirical]**
 
 ---
 
 ### Insight 3: Contractual and Time Pressures Driving Risk Acceptance
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Due to stringent contractual obligations and relentless time pressures, executives often proceed with decisions based on incomplete data, accepting higher risks to avoid the penalties and competitive disadvantages associated with project delays." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 The tension between meeting contractual deadlines and ensuring data completeness creates a critical strategic dilemma. Executives are forced to weigh the costs of potential risk against the imperative to maintain project momentum, often leaning towards action despite underlying uncertainties. **[Inferred]**
 
-**3. Supporting Context:**  
-Interview responses reveal that, in practice, outright project termination is rare; instead, decision makers opt for conditional decisions and implement catch-up actions to keep projects on track. This reflects the necessity to prioritize continuity over complete certainty, as contractual frameworks leave little room for extended deliberation. **[Empirical]** citeturn0file0
+**3. Supporting Context:**
+Interview responses reveal that, in practice, outright project termination is rare; instead, decision makers opt for conditional decisions and implement catch-up actions to keep projects on track. This reflects the necessity to prioritize continuity over complete certainty, as contractual frameworks leave little room for extended deliberation. **[Empirical]**
 
 ---
 
 ### Insight 4: Need for Formalized Knowledge-Based Evaluation Criteria
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Integrating formalized, knowledge-based evaluation criteria into the stage-gate process could significantly enhance decision confidence by explicitly addressing gaps in both tacit and explicit knowledge." **[Speculative]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 A more structured framework for assessing the maturity and completeness of the knowledge base would empower executives to better quantify and manage uncertainty. This shift could lead to more proactive and reflective decision-making, reducing reliance on ad hoc adjustments during gate reviews. **[Speculative]**
 
-**3. Supporting Context:**  
-While the study highlights current practices that rely on informal knowledge assessments, it also suggests that the incorporation of explicit knowledge-related criteria may improve the accuracy and confidence of decisions. However, direct empirical evidence on the efficacy of such frameworks is limited, warranting further exploration. **[Speculative]** citeturn0file0
+**3. Supporting Context:**
+While the study highlights current practices that rely on informal knowledge assessments, it also suggests that the incorporation of explicit knowledge-related criteria may improve the accuracy and confidence of decisions. However, direct empirical evidence on the efficacy of such frameworks is limited, warranting further exploration. **[Speculative]**
 
 ---
 
@@ -480,21 +480,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -507,4 +507,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T01:52:01.620019+00:00)
 
 Johansson, C. (2013). Managing uncertainty and ambiguity in gates: Decision making in aerospace product development. *International Journal of Innovation and Technology Management, 10*(3), 1-21. https://doi.org/10.1142/S0219877014500126
-

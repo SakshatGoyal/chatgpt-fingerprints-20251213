@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:16:49.429545+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 13 - C3-I6,Value Clash,Capability Frame,Alignment Achieved,Surface Alignment,Lean vs. Unique,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 14 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 16 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Certainty Illusion  
-CATEGORICAL MODULE 37 - C3-I6,Value Clash,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 59 - C4-I1,Signal Split,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 61 - C4-I1,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Short-Term Pull  
-CATEGORICAL MODULE 5 - C4-I2,System Tangle,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 9 - C4-I3,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Culture Clash,Ignored Insight  
-CATEGORICAL MODULE 3 - C4-I6,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 3 - C5-I2,Cognitive Fog,Evidence Frame,Alignment Achieved,True Clarity,Plan vs. React,Governance Shift,Belief Bubble  
-CATEGORICAL MODULE 2 - C5-I3,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 12 - C5-I3,System Tangle,Capability Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 3 - C5-I6,Cognitive Fog,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 3 - C1-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 11 - C1-I1,Cognitive Fog,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 38 - C1-I2,Vision vs. Reality,Capability Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 6 - C1-I3,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 8 - C1-I3,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 10 - C1-I3,Value Clash,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 13 - C3-I6,Value Clash,Capability Frame,Alignment Achieved,Surface Alignment,Lean vs. Unique,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 14 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 16 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Certainty Illusion
+CATEGORICAL MODULE 37 - C3-I6,Value Clash,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 59 - C4-I1,Signal Split,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 61 - C4-I1,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Short-Term Pull
+CATEGORICAL MODULE 5 - C4-I2,System Tangle,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 9 - C4-I3,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Culture Clash,Ignored Insight
+CATEGORICAL MODULE 3 - C4-I6,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 3 - C5-I2,Cognitive Fog,Evidence Frame,Alignment Achieved,True Clarity,Plan vs. React,Governance Shift,Belief Bubble
+CATEGORICAL MODULE 2 - C5-I3,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 12 - C5-I3,System Tangle,Capability Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 3 - C5-I6,Cognitive Fog,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 3 - C1-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 11 - C1-I1,Cognitive Fog,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 38 - C1-I2,Vision vs. Reality,Capability Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 6 - C1-I3,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 8 - C1-I3,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 10 - C1-I3,Value Clash,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias
 CATEGORICAL MODULE 3 - C1-I4,Cultural Drift,Ecosystem Frame,Outside Approval,True Clarity,Global vs. Local,Governance Shift,Legacy Hold
-

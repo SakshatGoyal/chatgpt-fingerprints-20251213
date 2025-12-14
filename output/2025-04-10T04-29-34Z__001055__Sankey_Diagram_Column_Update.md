@@ -113,7 +113,7 @@ FILTER_COLUMNS = [
     'Regulatory Exposure',
     'Timing Dependency',
     'Market Dispersion',
-    
+
     'Process Modularity',
     'Value Timeframe',
     'Knowledge Transferability',
@@ -161,9 +161,6 @@ DONUT_COLORS = [
     "#6929c4",  # medium 2
     "#012749"   # dark
 ]
-
-
-
 
 
 # Sankey layout geometry:
@@ -1595,7 +1592,7 @@ if __name__ == '__main__':
 
 **Explanation of Changes**
 
-1. **`STAGE_COLUMNS` Updated**  
+1. **`STAGE_COLUMNS` Updated**
    The old set of columns for the Sankey (`'Tension Axis'`, `'Ambiguity Type'`, etc.) was fully removed and replaced with the new six columns:
    ```python
    STAGE_COLUMNS = [
@@ -1608,7 +1605,7 @@ if __name__ == '__main__':
    ]
    ```
 
-2. **`CUSTOM_STAGE_LABELS` Regenerated**  
+2. **`CUSTOM_STAGE_LABELS` Regenerated**
    The old custom labels dict was removed; a new dict mapping the new columns to themselves has been introduced:
    ```python
    CUSTOM_STAGE_LABELS = {
@@ -1622,9 +1619,8 @@ if __name__ == '__main__':
    ```
    If you prefer more descriptive text, you can freely edit the values on the right side, but here they are one-to-one with the column names.
 
-3. **No Other Logic Altered**  
+3. **No Other Logic Altered**
    All donut-chart filters, layout geometry, highlighting logic, table-download logic, and UI styling remain intact and were not modified, ensuring the same interactivity as before—only the Sankey columns were swapped.
 
-4. **Dropdown Default**  
+4. **Dropdown Default**
    The default for the Sankey `stage-selection` dropdown (`value=STAGE_COLUMNS`) now references the new columns, preserving the existing behavior while substituting the updated set.
-

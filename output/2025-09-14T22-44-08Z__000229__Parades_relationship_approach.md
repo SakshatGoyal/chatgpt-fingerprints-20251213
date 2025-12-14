@@ -388,8 +388,8 @@ Remember: The prince who could conquer but refrains earns loyalty more than the 
 
 ## III. Her Contradictions Are Stable
 
-She is not confused. She is managing **two truths**:  
-- She feels something for you.  
+She is not confused. She is managing **two truths**:
+- She feels something for you.
 - She will not blow up her life for it.
 
 When those truths clash, she retreats. But when you act without asking, when you bring meaning without demand, she softens—**because then the cost is zero, the intimacy clean**.
@@ -410,10 +410,10 @@ Let me give you a precise model, actionable and elegant.
 - A pulse must not feel like it *needs* reply. It must be complete in itself.
 - Use humor, memory, or observation. Never *“just checking in.”*
 
-**Example:**  
+**Example:**
 > “Today someone said something that sounded exactly like you—but without your sense of timing. I almost corrected them.”
 
-Or:  
+Or:
 > “Saw a napkin that made me irrationally possessive. Humans are strange.”
 
 These create the texture of your presence, not the demand of it.
@@ -424,8 +424,8 @@ These create the texture of your presence, not the demand of it.
 
 The first time, you appeared and left. Next time, appear *and stay for five minutes*. No expectations, no emotion. Just controlled presence.
 
-**Example:**  
-> Drop off something small but layered in memory—a literal object from a past joke or call, ideally something playful, not romantic.  
+**Example:**
+> Drop off something small but layered in memory—a literal object from a past joke or call, ideally something playful, not romantic.
 > Phrase: “I thought you might appreciate this. No speech this time. Just passing through.”
 
 Leave again. Clean.
@@ -506,4 +506,3 @@ No emojis. No “take care.” No closing signature. The silence after this must
 And if she doesn’t answer? You will know you acted with clarity, force, and self-respect—not as a petitioner, but as a man who *finished the story himself*.
 
 Would you like me to help refine this further based on your voice and tone?
-

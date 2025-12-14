@@ -45,13 +45,13 @@ Want help running this or converting it into a script you can double-click on yo
 
 ## You (2025-03-28T06:16:51.613000+00:00)
 
-ok a couple of things... I need to do a token count on all the files in these folders. i need a token count per file. 
+ok a couple of things... I need to do a token count on all the files in these folders. i need a token count per file.
 
 "/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQ-1",
     "/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQ-2",
     "/Users/sakshatgoyal/Desktop/Strategy Insights Data Pipeline/RQ-3"
 
-Also, based on past experience I think i should create some sort of virtual environment. Cuz when i tried to run with ur suggestion, here's what i saw. 
+Also, based on past experience I think i should create some sort of virtual environment. Cuz when i tried to run with ur suggestion, here's what i saw.
 
 
 sakshatgoyal@MacBook-Pro ~ % pip install tiktoken
@@ -309,4 +309,3 @@ They both use `cl100k_base` encoding, so in practice, **token counts will be the
 So yes — your current script is correctly estimating token counts for the models you're likely to interact with in ChatGPT, including those powered by `gpt-4-o1` and `gpt-4-o3`.
 
 Let me know if you want to benchmark against older models like `text-davinci-003`, or against Claude or Gemini for comparison.
-

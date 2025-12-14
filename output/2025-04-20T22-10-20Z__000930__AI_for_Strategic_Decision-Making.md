@@ -105,7 +105,7 @@ I have a question. I see that you have synthesized all this into five categories
 
 Great question — and I really appreciate you pausing to interrogate this. That kind of meta-level reflection is exactly the kind of strategic muscle we want AI to support, too.
 
-To answer you directly:  
+To answer you directly:
 **The five categories I proposed weren’t derived linearly from individual clusters** — though some clusters resonate more strongly with specific behaviors — but rather came from an **inductive synthesis across all four clusters**, with particular attention to *recurring executive pain points and cognitive patterns*.
 
 Here’s how I thought about it, step by step:
@@ -159,4 +159,3 @@ what kind of people problems are you able to extract from all these invites?
 Love this question — because it brings us right back to first principles: *what are the real people-problems behind these patterns of strategy breakdown or drift?*
 
 Let’s ground this in Julie Zhuo’s lens. When she evaluates complexity, she doesn’t just look at surface-level outcomes (e.g. missed deadlines or stalled roadmaps), but probes for the **underlying frictions** between people,
-

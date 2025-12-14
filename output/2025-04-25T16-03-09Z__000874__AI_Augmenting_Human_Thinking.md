@@ -18,18 +18,18 @@ Here’s how I'd think about it:
 | Risk: deskilling humans over time. | Risk: over-relying on AI’s framing of possibilities. |
 | Example: Auto-filling forms. | Example: Mapping strategic trade-offs you hadn’t considered. |
 
-When people use AI *just* to automate, it can create value — but it tends to **narrow** human involvement.  
+When people use AI *just* to automate, it can create value — but it tends to **narrow** human involvement.
 When people use AI to *augment thinking*, it tends to **expand** what’s possible.
 
-I personally think the augmentation path is far more exciting — and frankly, more *human*.  
-It treats technology not just as a labor-saver, but as a *collaborator* in cognition:  
-- helping you see angles you missed,  
-- challenging your assumptions,  
-- offering faster iteration loops,  
+I personally think the augmentation path is far more exciting — and frankly, more *human*.
+It treats technology not just as a labor-saver, but as a *collaborator* in cognition:
+- helping you see angles you missed,
+- challenging your assumptions,
+- offering faster iteration loops,
 - freeing you to focus on judgment, creativity, and meaning.
 
-The trick is **agency**:  
-- Are you using AI to sharpen *your* thinking?  
+The trick is **agency**:
+- Are you using AI to sharpen *your* thinking?
 - Or are you letting it substitute *for* your thinking?
 
 That's the line I would watch very, very carefully.
@@ -54,19 +54,18 @@ If I'm channeling **Julie Zhuo’s** mindset, here’s the difference:
 | Worries about **team health, feedback cultures, and meaning-making** in an AI-augmented world. | Worries mainly about **competitiveness, cost, and obsolescence.** |
 | Emphasizes **psychological safety**: teams must feel safe experimenting with AI, admitting what they don’t know. | Emphasizes **individual adaptation**: workers are expected to keep up or get left behind. |
 
-In simpler terms:  
+In simpler terms:
 **Julie’s bias** would be to see AI *not* just as an efficiency hack, but as a multiplier for human *understanding, team strength, and wiser decision-making*.
 
 ---
 
-Others — especially in more purely economic, hyper-competitive, or technocratic mindsets — might focus far more on pure optimization:  
-- Faster.  
-- Cheaper.  
+Others — especially in more purely economic, hyper-competitive, or technocratic mindsets — might focus far more on pure optimization:
+- Faster.
+- Cheaper.
 - Less human involvement needed.
 
-**Julie**, in contrast, would probably insist:  
+**Julie**, in contrast, would probably insist:
 > "If AI makes work faster but hollower — less thoughtful, less human, less meaningful — that's not progress. That's erosion disguised as innovation."
 
-Would you like me to also sketch a quick real-world scenario where you could see these two mindsets clash directly? 🚀  
+Would you like me to also sketch a quick real-world scenario where you could see these two mindsets clash directly? 🚀
 (For example: in a product design team adopting AI workflows.)
-

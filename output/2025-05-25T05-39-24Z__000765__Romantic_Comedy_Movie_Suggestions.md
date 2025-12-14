@@ -38,43 +38,40 @@ Would you like to filter further—like more focus on awkward first dates, multi
 
 Can you find me ones available on Netflix?
 
-## ChatGPT (2025-05-25T05:40:05.379155+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "search(\"Can you find me ones available on Netflix?\")"}
 
 ## ChatGPT (2025-05-25T05:40:05.747575+00:00)
 
-If you’re looking for romantic comedies on Netflix that capture the heartfelt, humorous, and culturally rich essence of *The Big Sick*, here are some top picks available for streaming in the U.S. as of May 2025:
+If you’re looking for romantic comedies on Netflix that capture the heartfelt, humorous, and culturally rich essence of *The Big Sick*, here are some top picks available for streaming in the U.S. as of May 2025:
 
 :::contextList
 【{"image_fetch": "Love at First Sight movie poster"}】
-**Love at First Sight (2023)**  
-Two strangers connect on a flight to London, only to be separated by a twist of fate. A reunion seems improbable — but love has a way of defying the odds. citeturn0search6
+**Love at First Sight (2023)**
+Two strangers connect on a flight to London, only to be separated by a twist of fate. A reunion seems improbable — but love has a way of defying the odds.
 :::
 
 :::contextList
 【{"image_fetch": "Always Be My Maybe movie poster"}】
-**Always Be My Maybe (2019)**  
-Childhood friends reconnect in San Francisco after years apart, navigating old sparks and new challenges. Starring Ali Wong and Randall Park. citeturn0search31
+**Always Be My Maybe (2019)**
+Childhood friends reconnect in San Francisco after years apart, navigating old sparks and new challenges. Starring Ali Wong and Randall Park.
 :::
 
 :::contextList
 【{"image_fetch": "The Lovebirds movie poster"}】
-**The Lovebirds (2020)**  
-A couple on the brink of breaking up gets unintentionally embroiled in a murder mystery, leading to a night of unexpected adventure and rekindled romance. citeturn0search25
+**The Lovebirds (2020)**
+A couple on the brink of breaking up gets unintentionally embroiled in a murder mystery, leading to a night of unexpected adventure and rekindled romance.
 :::
 
 :::contextList
 【{"image_fetch": "Set It Up movie poster"}】
-**Set It Up (2018)**  
-Two overworked assistants scheme to set up their demanding bosses, hoping to lighten their own workloads, but end up finding love themselves. citeturn0search27
+**Set It Up (2018)**
+Two overworked assistants scheme to set up their demanding bosses, hoping to lighten their own workloads, but end up finding love themselves.
 :::
 
 :::contextList
 【{"image_fetch": "The Half of It movie poster"}】
-**The Half of It (2020)**  
-A shy, introverted student helps a school jock woo a girl they both secretly love, leading to unexpected friendships and self-discovery. citeturn0news34
+**The Half of It (2020)**
+A shy, introverted student helps a school jock woo a girl they both secretly love, leading to unexpected friendships and self-discovery.
 :::
 
-Each of these films offers a unique blend of humor, romance, and heartfelt storytelling, much like *The Big Sick*. If you have a preference for certain themes—such as multicultural relationships, quirky meet-cutes, or stories based on real events—feel free to let me know, and I can provide more tailored recommendations.
-
+Each of these films offers a unique blend of humor, romance, and heartfelt storytelling, much like *The Big Sick*. If you have a preference for certain themes—such as multicultural relationships, quirky meet-cutes, or stories based on real events—feel free to let me know, and I can provide more tailored recommendations.

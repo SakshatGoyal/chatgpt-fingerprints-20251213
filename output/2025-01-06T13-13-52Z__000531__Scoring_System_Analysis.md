@@ -1,8 +1,6 @@
 # Scoring System Analysis
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-01-06T13:13:52.086334+00:00)
 
@@ -131,13 +129,12 @@ This scoring system evaluates event feedback based on three dimensions:
 #### Use Case
 - Identify strengths (e.g., high "Appreciated" scores).
 - Prioritize improvements (e.g., high "Would Change" scores).
-- Aggregate insights for actionable recommendations. 
+- Aggregate insights for actionable recommendations.
 
 Ideal for data scientists evaluating event performance or optimizing attendee experience.
 
 ## You (2025-01-06T13:27:15.275855+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-6bPaU1o5w8npGcG4pUPwGY', 'size_bytes': 208662, 'width': 943, 'height': 760, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Hey, take a look at this table. From a large list of attendees of an event, I shortlisted people who Appreciated Variety and Quality of content (breadth of content) and Appreciated Engaging Speakers and Panelists. This gave me a total of 74 invitees. Now if you look closely to this table, I have total number of people, but I also have additional attributes like Appreciated - Opportunity to Network and Appreciated - Breakout Sessions. So I'm trying to say that out of the 74 people who appreciated the exposure to new ideas, this many appreciated networking and this many appreciated breakout sessions, etc... What is this kind of analysis called? even if you don't have a name could you help me come up with a simple way to explain this approach to analysis?
 
 ## ChatGPT (2025-01-06T13:27:25.191644+00:00)
@@ -160,7 +157,6 @@ If you'd like, I can suggest a more technical or formal term for documentation p
 
 ## You (2025-01-06T13:31:11.156319+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-B1hgQWZ1J86t3PCL2g5MLh', 'size_bytes': 240262, 'width': 1192, 'height': 464, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Can you help me create a ReadMe for this table? not one in canvas, just give me a very simple readme. And also a schema. Lemme explain the categories to you:
 
 1. Practical; this refers to
@@ -179,25 +175,24 @@ The participants spoke about appreciating practical insights from credible prese
 | Would change          | ‘Shallow’ presentations / Sales Pitch (mention of buzz words, platitudes, sales pitches)         |
 
 
-
-- This group contains a total of 82 invitees. 80% of them have a background in business and have an even split between having and not having a tech background. 
-- Nearly half appreciated the 1-day format, with a tiny portion hoping for a 2-day event. 
-- Only a few of these people seemed concerned about connecting with peers, engaging in breakout sessions, or other social aspects of the event (according to their comments). 
+- This group contains a total of 82 invitees. 80% of them have a background in business and have an even split between having and not having a tech background.
+- Nearly half appreciated the 1-day format, with a tiny portion hoping for a 2-day event.
+- Only a few of these people seemed concerned about connecting with peers, engaging in breakout sessions, or other social aspects of the event (according to their comments).
 
 
 ____
 
-next is 
+next is
 
 2. New Ideas
 
-this refers to 
+this refers to
 
 
 Exposure to New Ideas and Trends from Credible Experts
 
 Criteria for selection:
-This group spoke highly about the broad range of concepts discussed within a single event, along with the caliber and credibility of the speakers and panelists. 
+This group spoke highly about the broad range of concepts discussed within a single event, along with the caliber and credibility of the speakers and panelists.
 
 | Nature of the comment | Comment                                             |
 | --------------------- | --------------------------------------------------- |
@@ -205,13 +200,12 @@ This group spoke highly about the broad range of concepts discussed within a sin
 | Appreciated           | Engaging Speakers and Panelists                     |
 
 
-
-- This group contains a total of 74 invitees, with 76% of them having a background in business. 
-- Over half of them appreciated how well the event was organized and executed in a single day. 
-- Their comments about what they might change indicate that while they appreciated the content and the presenters, there was still a hunger for depth and practical examples. 
-- A tiny portion of this group commented on networking, engaging with peers, and participating in interactive sessions. 
+- This group contains a total of 74 invitees, with 76% of them having a background in business.
+- Over half of them appreciated how well the event was organized and executed in a single day.
+- Their comments about what they might change indicate that while they appreciated the content and the presenters, there was still a hunger for depth and practical examples.
+- A tiny portion of this group commented on networking, engaging with peers, and participating in interactive sessions.
 - 3 of 6 people who requested a content primer belong to this category.
-- 7 of 15 people critiqued the content as being ‘shallow’ or appearing as a sales pitch belonging to this group, indicating that while people appreciated some of the content, they also had a strong opposing view. 
+- 7 of 15 people critiqued the content as being ‘shallow’ or appearing as a sales pitch belonging to this group, indicating that while people appreciated some of the content, they also had a strong opposing view.
 
 
 ______
@@ -219,11 +213,11 @@ ______
 
 3. Next is 'Networking'
 
-this refers to 
+this refers to
 Group thinking, peer engagement, and networking
 
 Criteria for selection:
-This group highly appreciated (and/or) wanted to improve the interactive sessions with other attendees and panelists, and ways to engage with their peers and other attendees. 
+This group highly appreciated (and/or) wanted to improve the interactive sessions with other attendees and panelists, and ways to engage with their peers and other attendees.
 
 | Nature of the comment | Comment                                                                               |
 | --------------------- | ------------------------------------------------------------------------------------- |
@@ -234,22 +228,21 @@ This group highly appreciated (and/or) wanted to improve the interactive session
 | Would change          | Opportunity to connect with other others                                              |
 
 
-
-- This group contains a total of 68 invitees. 
-- Nearly half of this cohort believe the event was well organized and appreciated how it was executed in a single day. 
+- This group contains a total of 68 invitees.
+- Nearly half of this cohort believe the event was well organized and appreciated how it was executed in a single day.
 
 
 ____
 
 And the last is Logistics
 
-this refers to 
+this refers to
 
 
 Logistics, Planning, Enablement
 
 Criteria for selection:
-This group of people had comments focused around the conference schedule, format, logistics, and had suggestions on how it could be planned. 
+This group of people had comments focused around the conference schedule, format, logistics, and had suggestions on how it could be planned.
 
 | Nature of the comment | Comment                                                      |
 | --------------------- | ------------------------------------------------------------ |
@@ -259,10 +252,9 @@ This group of people had comments focused around the conference schedule, format
 | Would change          | More breaks (ability to pause, process the absorbed content) |
 
 
-
-- A total of 103 invitees had comments on this topic. 
+- A total of 103 invitees had comments on this topic.
 - 6 people requested some form of precursor to the conference, either in the form of introductions or a 101 on AI concepts being discussed.
-- The high number of people appreciating how well the event was organized leads to an even distribution of people liking and disliking other aspects of the event. Due to this, while it may appear challenging to extract any insights from this group, it's also possible to get a wide range of opinions.  
+- The high number of people appreciating how well the event was organized leads to an even distribution of people liking and disliking other aspects of the event. Due to this, while it may appear challenging to extract any insights from this group, it's also possible to get a wide range of opinions.
 
 ___
 
@@ -378,18 +370,18 @@ Company’s Industry
 Some industries may not align with the industries Linkedin as assigned the companies. The goal was to assign an industry that most closely resembles the company’s current activities
 Incubator, Sporting Event Services, Electronics - Medical Device
 Company Size
-A quantitative value to describe the company size. The company sizes were given a serial number to make sorting easier. 
+A quantitative value to describe the company size. The company sizes were given a serial number to make sorting easier.
 01. 0 to 1
 02. 2 to 10
 Company Scale
-A qualitative value to describe the company size. The company sscales were given a serial number to make sorting easier. 
+A qualitative value to describe the company size. The company sscales were given a serial number to make sorting easier.
 01. Solo
 02. Micro Business
-Education 
-Degrees held or highest level of education. This data was taken from Invitee Data file. 
+Education
+Degrees held or highest level of education. This data was taken from Invitee Data file.
 Bachelors, Bachelor Of Arts, History, German, French, Management
 Participant Department
-Whithin a company, what best describes the attendees department or associated team.  
+Whithin a company, what best describes the attendees department or associated team.
 Growth and Strategy, CEO / Managing Director
 Attribute 1
 Attributes 1, 2, and 3 includes an open ended way of breaking down an attendee’s professional role. Values in each of these attributes are not mutually exclusive. For example, ‘Entrepreneur’ could fall under Attribute 1 as well as Attribute 2
@@ -402,7 +394,7 @@ Attributes 1, 2, and 3 includes an open ended way of breaking down an attendee�
 
 
 Goal
-An AI or Manual summary of an attendee’s goal based on the role, description, headline, and other available details. 
+An AI or Manual summary of an attendee’s goal based on the role, description, headline, and other available details.
 “Scale analytics for organizational impact.”
 Goal themes
 One possible approach to grouping the goals based on themes
@@ -414,15 +406,11 @@ Answer to the survey question - plan for relation action
 Action item as a result (theme)
 
 
-
-
 What they learned
 Survey question for any valuable new perspective they gained
 
 
 What they learned - theme
-
-
 
 
 Strong Dissagreement
@@ -440,8 +428,6 @@ What about the event worked well for the attendees
 What worked well - theme
 
 
-
-
 What they'd change
 Answer for the survey question ‘What would you change?’
 
@@ -449,10 +435,8 @@ Answer for the survey question ‘What would you change?’
 What they'd change - theme
 
 
-
-
 Need for practical content (sectors)
-Some people mentioned they would like to see more practical content or had issues with a lack of actionable information. While most comments were generic, some were industry specific. This column tries to capture those industry specific requests. 
+Some people mentioned they would like to see more practical content or had issues with a lack of actionable information. While most comments were generic, some were industry specific. This column tries to capture those industry specific requests.
 
 
 Full Name
@@ -462,15 +446,11 @@ Combination of first name and last name in the [FIRSTNAME LASTNAME] format
 first name
 
 
-
-
 last name
 
 
-
-
 input_email
-Attendee email according to the Invitee Data File. Please Note: Some of these emails are no longer valid. 
+Attendee email according to the Invitee Data File. Please Note: Some of these emails are no longer valid.
 
 
 linkedin_url
@@ -488,10 +468,8 @@ Country
 Headline
 
 
-
-
 Participant Description
-This can either be the ‘About’ section of an attendee’s linkedin profile or the experience description under their current company - whichever best described the attendee. 
+This can either be the ‘About’ section of an attendee’s linkedin profile or the experience description under their current company - whichever best described the attendee.
 
 
 Responded with comment?
@@ -507,10 +485,10 @@ Education Background Available?
 Is the attendee’s educational background available on LinkedIn?
 Yes / No
 Has Technical Background
-Does the attendee have a technical background? For the purpose of this analysis, we’re only including fields which have some overlap with Data Science, Data Analysis, or AI. For example: This doesn not include a B.Sc. or Masters in fields like Accounting, Civil Engineering, etc. However, if an attendee has any certification or education in fields like Business Analytics, AI, or Data Science, they are considered to have a technical background. 
+Does the attendee have a technical background? For the purpose of this analysis, we’re only including fields which have some overlap with Data Science, Data Analysis, or AI. For example: This doesn not include a B.Sc. or Masters in fields like Accounting, Civil Engineering, etc. However, if an attendee has any certification or education in fields like Business Analytics, AI, or Data Science, they are considered to have a technical background.
 Yes / No
 Has Business Background
-Does the attendee have a background in Finance, Business Administration, or Economics. 
+Does the attendee have a background in Finance, Business Administration, or Economics.
 Yes / No
 Currently Associated with Harvard?
 Does this attendee work, teach, or is in any way associated with Harvard other than having studied at Harvard
@@ -534,13 +512,13 @@ Appreciated - Opportunity to Network
 Did the survey comments for this attendee indicate liked getting a chance to meet with people?
 Yes / (Blank)
 Appreciated - General Positive Feedback
-Did the survey comments for this attendee indicate a general satisfaction from the event. 
+Did the survey comments for this attendee indicate a general satisfaction from the event.
 Yes / (Blank)
 Appreciated - No Comments
-Some people had no comments, or did not appreciate anything about the event. 
+Some people had no comments, or did not appreciate anything about the event.
 Yes / (Blank)
 Would change - Misc
-These are related to minor changes to the event. 
+These are related to minor changes to the event.
 Yes / (Blank)
 Would change - Food and other items
 Did this attendee have issues with the food?
@@ -564,10 +542,10 @@ Would change - Sector Specific Content
 Did this attendee mention wanting sector specific content?
 Yes / (Blank)
 Would change - More Audience Engagement
-Did this attendee mention wanting the ability to ask more questions, and have more audience engagement. 
+Did this attendee mention wanting the ability to ask more questions, and have more audience engagement.
 Yes / (Blank)
 Would change - Opportunity to Interact with other attendees
-Did this attendee want more opportunities to interact with other attendees. 
+Did this attendee want more opportunities to interact with other attendees.
 Yes / (Blank)
 Would change - Make it Longer (more than 1 day)
 
@@ -600,15 +578,11 @@ Refer explanation at the bottom
 
 
 Shortlist out of interest/curiosity?
-Some participants for the interviews were shortlisted not based on comments but based on their background and experience. 
+Some participants for the interviews were shortlisted not based on comments but based on their background and experience.
 
 
 Comments
 (Notes)
-
-
-
-
 
 
 How the following scores were calculation:
@@ -632,7 +606,7 @@ Identify strengths (e.g., high "Appreciated" scores).
 Prioritize improvements (e.g., high "Would Change" scores).
 Aggregate insights for actionable recommendations.
 
-I mean there's a table in there somewhere that mentions some of the column headers, their descriptions, and some examples. some of the cells are left blank so please be mindful of that. 
+I mean there's a table in there somewhere that mentions some of the column headers, their descriptions, and some examples. some of the cells are left blank so please be mindful of that.
 
 give me a simple readme that someone can refer to if they need to
 
@@ -669,7 +643,7 @@ Here’s the schema formatted for a plain `.txt` file:
 ```
 ReadMe for RAW DATA.csv
 
-This document provides an overview of the structure and purpose of the columns in RAW DATA.csv. 
+This document provides an overview of the structure and purpose of the columns in RAW DATA.csv.
 It serves as a quick reference for understanding the meaning and usage of each field.
 
 ---------------------------------------------------------------------------------
@@ -742,7 +716,6 @@ Score for Community Engagement  | Score based on community and networking engage
 Shortlisted for Interviews?     | Was the attendee shortlisted based on their background?    | "Yes" / "No"
 Comments                        | Additional notes or observations.                          | "Detailed notes or comments."
 ---------------------------------------------------------------------------------
-``` 
+```
 
 You can save this as a `.txt` file directly. Let me know if you'd like further refinements!
-

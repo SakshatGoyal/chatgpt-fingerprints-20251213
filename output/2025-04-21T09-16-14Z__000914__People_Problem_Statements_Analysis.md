@@ -32,40 +32,40 @@ Based on a close reading of **Archetype 1: The Risk Controller** (from the `.md`
 
 ### **People Problem 1: Decision-makers struggle to balance global strategic ambition with localized regulatory realities, leading to organizational strain and operational slowdowns.**
 
-**How do we know this is a problem?**  
+**How do we know this is a problem?**
 The raw data on Netflix’s expansion reveals that executives underestimated the complexity and operational cost of navigating a “patchwork of regulatory requirements” such as GDPR and Chinese censorship. The expectation was to operate under a unified global strategy, but the reality required heavy adaptation—including forming dedicated compliance teams and local partnerships【6†source】.
 
-**Connection to Archetype:**  
+**Connection to Archetype:**
 This directly exemplifies the Risk Controller’s core pattern: innovation is permitted only within frameworks that minimize institutional risk. The behavior—forming compliance teams and adapting strategies—shows containment-first thinking even when growth is at stake.
 
 ---
 
 ### **People Problem 2: Efforts to outsource for speed and efficiency are eroding internal innovation capabilities, creating long-term strategic vulnerability.**
 
-**How do we know this is a problem?**  
+**How do we know this is a problem?**
 The data from Theme 102 shows that banks increasingly rely on fintechs to offload non-core tech functions. Executives explicitly say, “we do not need to set up these internal resources,” revealing a mindset that trades short-term cost control for diminished internal innovation capacity【6†source】.
 
-**Connection to Archetype:**  
+**Connection to Archetype:**
 This reflects the Risk Controller’s tendency to over-prioritize operational containment. While outsourcing reduces near-term execution risk, it creates a slow-burn problem: loss of adaptive capacity. The archetype's desire to avoid direct exposure results in a quieter, future-facing risk.
 
 ---
 
 ### **People Problem 3: Personalization strategies are constrained by fears of undermining trust, stalling customer-centric innovation.**
 
-**How do we know this is a problem?**  
+**How do we know this is a problem?**
 Executives in financial services worry that “increased personalization may compromise privacy,” especially in AI-driven contexts. While AI tools could improve customer value, leaders hesitate because their cybersecurity and trust infrastructures are not yet robust enough to support it at scale【6†source】.
 
-**Connection to Archetype:**  
+**Connection to Archetype:**
 This represents the Risk Controller’s insistence on moving slowly when the cost of trust erosion is high. Even beneficial innovations like personalization are paused unless institutional protections are airtight.
 
 ---
 
 ### **People Problem 4: Psychological safety is lacking in hierarchical settings, reducing the quality of strategic dialogue and obscuring real risks.**
 
-**How do we know this is a problem?**  
+**How do we know this is a problem?**
 Theme 405 outlines how executives recognize that hierarchy stifles dissent. Without psychological safety, team members withhold dissenting views, resulting in decisions that feel aligned but are shallow and fragile. Investments in creating “safe environments” are made to reduce these invisible risks【6†source】.
 
-**Connection to Archetype:**  
+**Connection to Archetype:**
 This captures the Risk Controller’s belief that invisible cultural risks—like unspoken dissent—can be just as dangerous as external ones. The push for safety isn’t about comfort; it’s about ensuring the organization doesn’t unknowingly step into preventable failure.
 
 ---
@@ -73,4 +73,3 @@ This captures the Risk Controller’s belief that invisible cultural risks—lik
 Each of these problems reflects the **behavioral tension** at the heart of the Risk Controller: the deep need to protect institutional integrity, even at the cost of speed or dynamism. The evidence is rooted in lived executive decision-making and not inferred beyond what the raw modules provide.
 
 Would you like help translating any of these into problem-framing statements for use in strategy or team workshops?
-

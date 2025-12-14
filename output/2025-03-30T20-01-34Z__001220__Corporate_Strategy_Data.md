@@ -30,7 +30,7 @@ Each cluster should include:
 - A list of associated ModuleIDs
 
 > ✅ If fewer than three valid clusters are found, return only those supported by the data. Do not fabricate clusters.
-> 
+>
 
 ---
 
@@ -83,7 +83,7 @@ For each case:
 - List the associated ModuleIDs
 
 > Only include tags that are not "Unknown", and fall in the bottom 25% of frequency in their column.
-> 
+>
 
 ---
 
@@ -98,7 +98,7 @@ For each such tag:
 - List the associated ModuleIDs
 
 > Only include tags that are not "Unknown", and fall in the top 25% of frequency within the rare subset.
-> 
+>
 
 ---
 
@@ -194,80 +194,79 @@ Below is the data‐driven analysis based solely on observed tag co‐occurrence
 
 ---
 
-### CATEGORY 1: Most Common Tag Combinations  
+### CATEGORY 1: Most Common Tag Combinations
 *(Full 3‑tag tuples that appear 3 or more times, excluding any “Unknown”)*
 
-**Cluster 1**  
-• **Combination:** False Certainty Trap – Trade‑off Blindness – Overconfidence  
-• **Summary:** This pattern appears most frequently, suggesting that modules exhibiting a “false certainty” tend to overlook trade-offs while remaining overconfident.  
-• **ModuleIDs:**  
- • CATEGORICAL MODULE 35 - C3-I5  
- • CATEGORICAL MODULE 18 - C3-I6  
- • CATEGORICAL MODULE 13 - C4-I3  
- • CATEGORICAL MODULE 26 - C4-I3  
- • CATEGORICAL MODULE 32 - C4-I3  
- • CATEGORICAL MODULE 10 - C1-I1  
- • CATEGORICAL MODULE 17 - C1-I1  
+**Cluster 1**
+• **Combination:** False Certainty Trap – Trade‑off Blindness – Overconfidence
+• **Summary:** This pattern appears most frequently, suggesting that modules exhibiting a “false certainty” tend to overlook trade-offs while remaining overconfident.
+• **ModuleIDs:**
+ • CATEGORICAL MODULE 35 - C3-I5
+ • CATEGORICAL MODULE 18 - C3-I6
+ • CATEGORICAL MODULE 13 - C4-I3
+ • CATEGORICAL MODULE 26 - C4-I3
+ • CATEGORICAL MODULE 32 - C4-I3
+ • CATEGORICAL MODULE 10 - C1-I1
+ • CATEGORICAL MODULE 17 - C1-I1
 
-**Cluster 2**  
-• **Combination:** Legacy Lock-In – Trade‑off Blindness – Structural Misfit  
-• **Summary:** A strong pattern is seen where enduring legacy constraints combine with an inability to balance trade-offs, ultimately leading to misaligned (structural) outcomes.  
-• **ModuleIDs:**  
- • CATEGORICAL MODULE 8 - C3-I5  
- • CATEGORICAL MODULE 57 - C3-I6  
- • CATEGORICAL MODULE 8 - C5-I1  
- • CATEGORICAL MODULE 36 - C1-I5  
- • CATEGORICAL MODULE 70 - C1-I7  
- • CATEGORICAL MODULE 74 - C1-I7  
+**Cluster 2**
+• **Combination:** Legacy Lock-In – Trade‑off Blindness – Structural Misfit
+• **Summary:** A strong pattern is seen where enduring legacy constraints combine with an inability to balance trade-offs, ultimately leading to misaligned (structural) outcomes.
+• **ModuleIDs:**
+ • CATEGORICAL MODULE 8 - C3-I5
+ • CATEGORICAL MODULE 57 - C3-I6
+ • CATEGORICAL MODULE 8 - C5-I1
+ • CATEGORICAL MODULE 36 - C1-I5
+ • CATEGORICAL MODULE 70 - C1-I7
+ • CATEGORICAL MODULE 74 - C1-I7
 
-**Cluster 3**  
-• **Combination:** Misplaced Technological Faith – Trade‑off Blindness – Overconfidence  
-• **Summary:** Modules in this group exhibit an overreliance on misplaced technological optimism while ignoring trade-offs, which coincides with high overconfidence.  
-• **ModuleIDs:**  
- • CATEGORICAL MODULE 45 - C3-I3  
- • CATEGORICAL MODULE 10 - C3-I5  
- • CATEGORICAL MODULE 9 - C3-I6  
+**Cluster 3**
+• **Combination:** Misplaced Technological Faith – Trade‑off Blindness – Overconfidence
+• **Summary:** Modules in this group exhibit an overreliance on misplaced technological optimism while ignoring trade-offs, which coincides with high overconfidence.
+• **ModuleIDs:**
+ • CATEGORICAL MODULE 45 - C3-I3
+ • CATEGORICAL MODULE 10 - C3-I5
+ • CATEGORICAL MODULE 9 - C3-I6
 
 ---
 
-### CATEGORY 2: Least Common Tag Combinations  
+### CATEGORY 2: Least Common Tag Combinations
 *(Full 3‑tag tuples that appear only once or twice)*
 
-**Cluster 1**  
-• **Combination:** Outcome Obsession – Ambiguity – Overconfidence  
-• **Summary:** A unique configuration where an obsessive focus on outcomes meets ambiguous dilemmas and overconfidence. (Appears only once)  
-• **ModuleID:**  
- • CATEGORICAL MODULE 22 - C2-I3  
+**Cluster 1**
+• **Combination:** Outcome Obsession – Ambiguity – Overconfidence
+• **Summary:** A unique configuration where an obsessive focus on outcomes meets ambiguous dilemmas and overconfidence. (Appears only once)
+• **ModuleID:**
+ • CATEGORICAL MODULE 22 - C2-I3
 
-**Cluster 2**  
-• **Combination:** Bias for Familiarity – Cultural Fit – Translation Breakdown  
-• **Summary:** An isolated pattern linking a tendency toward familiar biases with cultural considerations that then break down in translation. (Appears only once)  
-• **ModuleID:**  
- • CATEGORICAL MODULE 32 - C2-I3  
+**Cluster 2**
+• **Combination:** Bias for Familiarity – Cultural Fit – Translation Breakdown
+• **Summary:** An isolated pattern linking a tendency toward familiar biases with cultural considerations that then break down in translation. (Appears only once)
+• **ModuleID:**
+ • CATEGORICAL MODULE 32 - C2-I3
 
-**Cluster 3**  
-• **Combination:** Feedback Dissonance – Trade‑off Blindness – Symbolic Compliance  
-• **Summary:** A rare case where conflicting feedback coupled with trade‑off oversights results in merely symbolic compliance. (Appears only once)  
-• **ModuleID:**  
- • CATEGORICAL MODULE 5 - C4-I6  
+**Cluster 3**
+• **Combination:** Feedback Dissonance – Trade‑off Blindness – Symbolic Compliance
+• **Summary:** A rare case where conflicting feedback coupled with trade‑off oversights results in merely symbolic compliance. (Appears only once)
+• **ModuleID:**
+ • CATEGORICAL MODULE 5 - C4-I6
 
 ---
 
-### CATEGORY 3: Least Common Tags Within Common Combinations  
+### CATEGORY 3: Least Common Tags Within Common Combinations
 *(Within the common 3‑tag groups, identify any individual tag that is rare in its column—falling in the bottom 25% frequency, excluding “Unknown”)*
 
-After tallying tag frequencies across the dataset, none of the tag values in the three most common full combinations (from Category 1) are among the rarest (bottom 25%) within their respective columns.  
+After tallying tag frequencies across the dataset, none of the tag values in the three most common full combinations (from Category 1) are among the rarest (bottom 25%) within their respective columns.
 • **Result:** No valid clusters identified.
 
 ---
 
-### CATEGORY 4: Most Common Tags Within Rare Combinations  
+### CATEGORY 4: Most Common Tags Within Rare Combinations
 *(Within the rare 3‑tag groups, identify any individual tag that appears in multiple rare combinations and is in the top 25% frequency within that rare subset)*
 
-Among the selected rare combinations, each column’s tag appears only in a single instance. No tag recurs across multiple rare combinations.  
+Among the selected rare combinations, each column’s tag appears only in a single instance. No tag recurs across multiple rare combinations.
 • **Result:** No valid clusters identified.
 
 ---
 
 This completes the categorical pattern analysis based solely on the observed tag co‑occurrences in the dataset.
-

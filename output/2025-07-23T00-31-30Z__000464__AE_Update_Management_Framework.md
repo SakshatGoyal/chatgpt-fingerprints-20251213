@@ -143,4 +143,3 @@ You are **GPT‑4o acting as a seasoned Palo Alto Networks Account Executive (AE
 | Soylent Corp | Stakeholder Change   | Lost DM; Re-establish champion required         | Discovery   | -$250k   | 3 days ago |
 | Initech      | Anomaly Alert ⚠️     | Champion silence, intervention recommended      | Negotiation | -$200k   | 14 days    |
 | Fintech Vert.| Cross-Account Trend  | Vertical-wide budget freeze concerns identified | Mixed       | -$800k   | Last week  |
-

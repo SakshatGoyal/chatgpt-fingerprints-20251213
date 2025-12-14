@@ -156,58 +156,58 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ## Grounded Executive Insights
 
-**Insight 1: Proactive Leadership and Crisis Management Teams**  
+**Insight 1: Proactive Leadership and Crisis Management Teams**
 **Insight Statement:** Effective leadership must proactively establish dedicated crisis management teams before crises emerge to enable rapid, coordinated responses that preserve patient safety and institutional reputation. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 - **Strategic Dilemma:** Balancing the allocation of resources between routine operations and the investment in proactive crisis preparedness.
 - **Underlying Beliefs & Biases:** The prevalent assumption that crises are rare events often leads to underinvestment in pre-emptive planning.
 - **Expected vs. Actual Outcomes:** Organizations with pre-established teams demonstrate quicker, more efficient crisis responses compared to those that react ad hoc.
 - **Broader Implications:** Executives must embed crisis management team formation into strategic planning to enhance resilience and maintain stakeholder trust. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper emphasizes that “forward-looking leadership formulates a crisis management group in the organization early enough to tackle any crisis,” highlighting the importance of cross-departmental representation—including executive and departmental leadership—to ensure rapid response. **[Empirical]**
 
 ---
 
-**Insight 2: Transparent Communication as a Critical Crisis Tool**  
+**Insight 2: Transparent Communication as a Critical Crisis Tool**
 **Insight Statement:** Establishing clear and transparent communication channels is essential to reduce misinformation, mitigate uncertainty, and build stakeholder confidence during a crisis. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 - **Strategic Dilemma:** Balancing the need for swift information dissemination with the imperative of ensuring accuracy and transparency.
 - **Underlying Beliefs & Biases:** There is a common bias toward assuming that rapid communication alone suffices, often neglecting the value of verified, transparent messaging.
 - **Expected vs. Actual Outcomes:** Institutions that deployed structured digital communication platforms experienced fewer internal rumors and a more unified organizational response.
 - **Broader Implications:** Executives should prioritize and invest in robust communication infrastructures that can quickly adapt to evolving crisis scenarios. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The study provides empirical evidence through cases such as the development of an intranet page that centralized information on PPE guidelines and clinical protocols—demonstrating how systematic, transparent communication alleviates uncertainty among employees and stakeholders. **[Empirical]**
 
 ---
 
-**Insight 3: Empowering Teams Through the RACI Framework**  
+**Insight 3: Empowering Teams Through the RACI Framework**
 **Insight Statement:** Employing the RACI (Responsible, Accountable, Consulted, Informed) model effectively flattens hierarchical structures and empowers teams, facilitating agile decision-making during crises. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 - **Strategic Dilemma:** The challenge of choosing between a centralized command approach and decentralized, empowered team structures.
 - **Underlying Beliefs & Biases:** Traditional biases favoring strict hierarchical control can impede rapid, effective responses in crisis situations.
 - **Expected vs. Actual Outcomes:** The adoption of the RACI model led to improved delegation and faster decision-making compared to conventional hierarchical structures.
 - **Broader Implications:** Executives should consider institutionalizing the RACI approach as a standard practice to promote accountability and agility under crisis conditions. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The review documents how the RACI approach was employed by institutions like Swedish Health Services, leading to more efficient crisis management by enabling clear role delineation and timely information flow—a strategy that directly translates into improved operational outcomes. **[Empirical]**
 
 ---
 
-**Insight 4: Strategic Flexibility and Regular Preparedness Drills**  
+**Insight 4: Strategic Flexibility and Regular Preparedness Drills**
 **Insight Statement:** Developing flexible crisis management plans that incorporate regular mock drills is vital for ensuring organizational readiness and adaptability when facing unforeseen disruptions. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 - **Strategic Dilemma:** The ongoing challenge of allocating resources for continuous preparedness versus immediate operational demands.
 - **Underlying Beliefs & Biases:** An implicit bias often exists that underestimates the frequency or impact of crises, leading to complacency in crisis planning.
 - **Expected vs. Actual Outcomes:** Organizations that engage in regular crisis simulation exercises tend to exhibit higher responsiveness and fewer disruptions during actual events.
 - **Broader Implications:** Executives must institutionalize routine preparedness drills and flexible planning mechanisms as core components of their long-term strategic initiatives. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper explicitly advocates for “plan mock drills” as a critical element in validating and refining crisis management strategies, emphasizing that such practices enable organizations to identify vulnerabilities and enhance the overall effectiveness of their emergency response plans. **[Empirical]**
 
 ---
@@ -217,7 +217,7 @@ The paper explicitly advocates for “plan mock drills” as a critical element 
 - **Coverage Fit:** High — The paper provides an in-depth exploration of crisis management strategies in healthcare, directly addressing key executive decision-making challenges.
 - **Bias & Cognitive Modeling Content:** Present — Although the focus is primarily on strategic practices, the review implicitly highlights biases in reactive versus proactive planning and decision-making frameworks.
 - **Clarity of Methods & Outcomes:** Clear — The methodological approach, based on a comprehensive literature review with a double screening process, is well-articulated, lending credibility to the synthesized best practices.
-- **Areas with No Data:**  
+- **Areas with No Data:**
   - Insight Statement: All insights are supported by empirical data from the literature.
   - Executive Decision-Making Context: While qualitative insights are robust, the paper offers limited quantitative analysis on cognitive biases.
   - Supporting Context: Empirical evidence is provided, though a deeper exploration into explicit cognitive models is absent.
@@ -487,21 +487,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -514,4 +514,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T00:27:42.723104+00:00)
 
 Paul, J. (2024). Strategies for effective crisis management in healthcare systems: Patient safety and lessons learned. *Medical Research Archives, 12*(7). https://doi.org/10.18103/mra.v12i7.5424
-

@@ -25,23 +25,23 @@ Cognitive inertia stems from entrenched biases, market logics, and cultural simp
 
 ## ChatGPT (2025-04-17T13:32:30.744516+00:00)
 
-Here's a shorter, warmer, and universally relatable rewrite following the guidelines:  
+Here's a shorter, warmer, and universally relatable rewrite following the guidelines:
 
 ---
 
-**Core Insight:**  
+**Core Insight:**
 Leaders often get stuck in their own thinking, which stops them from being responsive and innovative.
 
-**Adaptive Strategies:**  
+**Adaptive Strategies:**
 - **Regularly Challenge Your Thinking:** Leaders who regularly question their own assumptions stay flexible and open-minded.
 - **Embrace Complex Thinking:** Training that helps leaders manage conflicting ideas calmly can unlock better decision-making.
 - **Encourage Curiosity and Risk-Taking:** Companies that reward curiosity and thoughtful risks help leaders break old habits.
 
-**Key Insights:**  
+**Key Insights:**
 - **Old Successes Limit New Ideas:** Past successes can make leaders resistant to change unless they're encouraged to adapt.
 - **Simplicity Can Be Limiting:** Organizations often prefer clear-cut decisions, but real innovation requires embracing complexity.
 
-**Summary:**  
+**Summary:**
 Getting stuck in old ways of thinking limits leaders. To stay sharp and adaptable, they need supportive cultures and regular opportunities to rethink their approach. When companies actively encourage flexibility and complex thinking, innovation follows naturally.
 
 ## You (2025-04-17T13:34:55.171655+00:00)
@@ -66,4 +66,3 @@ Executives often struggle with cognitive inertia because they become stuck in fa
 This inertia makes it hard for leaders in any industry to adapt strategically. It’s caused by biases that confirm existing beliefs, business models that previously worked well, and organizational preferences for simple solutions. To overcome these barriers, leaders must build new thinking skills and foster a culture that encourages openness and adaptability.
 
 Although cognitive inertia affects all leaders, its root causes differ depending on context—sometimes it's the comfort of past successes (Module 41), other times financial incentives tied to traditional methods (Module 26), or even an organizational bias toward overly simple solutions (Module 32). Each scenario calls for its own response, whether it's regularly re-examining strategies, reshaping rewards to encourage fresh thinking, or training leaders to comfortably handle complexity and conflicting ideas.
-

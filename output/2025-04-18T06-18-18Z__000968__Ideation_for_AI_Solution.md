@@ -65,40 +65,39 @@ Perfect. Here's a candid, council-style critique session—each advisor offering
 
 ---
 
-## 🧩 **Critique of Bill Buxton’s Approach**  
+## 🧩 **Critique of Bill Buxton’s Approach**
 **(Feedback from Julie Zhuo, Tim Brown, and John Maeda)**
 
-**Julie Zhuo:**  
+**Julie Zhuo:**
 > *“I love the discipline of divergence, but I’d challenge Bill to make room for people-problem grounding earlier. Sketching 20 things is great—but unless we’ve first named a real executive pain point, we risk beautifully solving the wrong problem. I’d front-load just a bit more clarity before flooding the wall with options.”*
 
-**Tim Brown:**  
+**Tim Brown:**
 > *“Bill’s emphasis on breadth and sketch-led risk reduction is invaluable. But I’d push for a stronger link to systems thinking. In complex orgs, isolated artifacts aren’t enough—we need a design flow that moves from sketch to influence across stakeholders and touchpoints. I’d ask: where do these sketches go next?”*
 
-**John Maeda:**  
+**John Maeda:**
 > *“I’m with Bill on rapid exploration—but I’d suggest integrating telemetry sooner. Even low-fidelity prototypes can collect useful usage data. Without it, we may be overvaluing aesthetics or novelty. And let’s be honest: executive time is expensive—sketches alone might not earn their attention without proof.”*
 
 ---
 
-## 💬 **Critique of Julie Zhuo’s Approach**  
+## 💬 **Critique of Julie Zhuo’s Approach**
 **(Feedback from Tim Brown, Bill Buxton, and John Maeda)**
 
-**Tim Brown:**  
+**Tim Brown:**
 > *“Julie’s human-first clarity is a gift. But in early-stage strategy, I’d caution against becoming overly metrics-bound. Some of the most transformative ideas don’t come with obvious KPIs up front. I’d encourage her to loosen the quant grip during the early wander stage—before narrowing too soon.”*
 
-**Bill Buxton:**  
+**Bill Buxton:**
 > *“Julie’s ‘three-question lens’ is crisp and actionable, but my concern is that it might lead teams to converge prematurely. If the first people-problem you define isn’t quite right, everything downstream could still be well-constructed but misdirected. I’d want a stage of wild idea generation before declaring a single problem space.”*
 
-**John Maeda:**  
+**John Maeda:**
 > *“Julie’s rigor is inspiring. But I’d ask: how does this scale? A lot of what she does thrives on nuance, care, and high-context understanding. If this AI partner is to serve many, we’ll need patterns or rules that make her tacit judgment transferable. Can we encode her empathy into more systematic loops?”*
 
 ---
 
-## 🧭 **Critique of Tim Brown’s Approach**  
+## 🧭 **Critique of Tim Brown’s Approach**
 **(Feedback from Julie Zhuo, Bill Buxton, and John Maeda)**
 
-**Julie Zhuo:**  
+**Julie Zhuo:**
 > *“Tim’s ‘three spaces’ are liberating—but sometimes leave teams unclear on what ‘done’ looks like. I’d ask him to define just a little more structure at each handoff point. Otherwise, the cycles risk becoming endless loops rather than building momentum toward decisions.”*
 
-**Bill Buxton:**  
+**Bill Buxton:**
 > *“Tim is masterful at creating space for options—but I’d argue that ethnographic insight can be time-intensive. In fast-moving orgs, we may need lighter mechanisms to generate
-

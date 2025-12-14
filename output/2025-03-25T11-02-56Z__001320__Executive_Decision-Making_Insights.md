@@ -69,59 +69,58 @@ Here are **7 synthesized, insight-rich questions**, along with a brief rationale
 
 ### 1. **How do executives assess when to act decisively with limited information versus waiting for more clarity — and what gives them confidence in that moment?**
 
-**Rationale:**  
-- **Consolidates:** 1, 3, 5, 6, 17  
+**Rationale:**
+- **Consolidates:** 1, 3, 5, 6, 17
 - **Surfaces:** How executives manage ambiguity, risk, and pressure; where intuition meets data; what “enough” information looks like; the psychology behind fast decisions.
 
 ---
 
 ### 2. **What distinguishes high-stakes from low-stakes decisions in an executive’s mind, and how does that shape who makes the call, how fast, and with what level of rigor?**
 
-**Rationale:**  
-- **Consolidates:** 2, 7, 13, 15, 19  
+**Rationale:**
+- **Consolidates:** 2, 7, 13, 15, 19
 - **Surfaces:** Decision triaging, delegation, mental models for urgency/importance, risk tolerance, and the role of intuition vs. analysis.
 
 ---
 
 ### 3. **When strategies underperform or conditions shift, how do executives decide whether to stay the course, pivot, or reverse earlier choices?**
 
-**Rationale:**  
-- **Consolidates:** 4, 12, 24  
+**Rationale:**
+- **Consolidates:** 4, 12, 24
 - **Surfaces:** Agility vs. commitment, accountability in strategy, tolerance for sunk costs, and responsiveness to internal/external signals.
 
 ---
 
 ### 4. **What internal and external inputs — from data to advisors to culture — do executives weigh most heavily when making strategic decisions, and how do those priorities shift by context?**
 
-**Rationale:**  
-- **Consolidates:** 9, 10, 11, 16, 18, 23, 27  
+**Rationale:**
+- **Consolidates:** 9, 10, 11, 16, 18, 23, 27
 - **Surfaces:** Data vs. instinct, influence of cultural norms and industry expectations, reliance on experts, and shifting decision levers across environments.
 
 ---
 
 ### 5. **How do executives balance short-term pressures with long-term vision — especially when resources are limited or the stakes are high?**
 
-**Rationale:**  
-- **Consolidates:** 14, 21, 22  
+**Rationale:**
+- **Consolidates:** 14, 21, 22
 - **Surfaces:** Strategic trade-offs, resource prioritization, investment mindset, and time horizon awareness across different decision contexts.
 
 ---
 
 ### 6. **In what ways do company size and stage (startup, scale-up, enterprise) shape how executives make, delegate, and scale decisions?**
 
-**Rationale:**  
-- **Consolidates:** 8, 20, 21, 25, 26, 28  
+**Rationale:**
+- **Consolidates:** 8, 20, 21, 25, 26, 28
 - **Surfaces:** Structure vs. flexibility, scaling dynamics, decision ownership, competitive response, and evolving leadership styles.
 
 ---
 
 ### 7. **How do executives in different industries or organizational cultures approach strategic decision-making differently — and what hidden assumptions shape their style?**
 
-**Rationale:**  
-- **Consolidates:** 18, 19, 23  
+**Rationale:**
+- **Consolidates:** 18, 19, 23
 - **Surfaces:** Norms, biases, risk postures, and cultural drivers that subtly (or overtly) shape how decisions get made and justified.
 
 ---
 
 Let me know if you want a version of these mapped visually or structured for a research guide/interview protocol.
-

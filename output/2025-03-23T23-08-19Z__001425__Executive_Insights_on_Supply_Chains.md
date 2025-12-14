@@ -160,48 +160,48 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### **Insight 1: Evolving Perceptions from Demand to Supply Shock**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 While executives initially framed the pandemic as a demand shock—lowering their short-term cost expectations—the persistent and intensifying supply chain and labor disruptions led to a dramatic upward revision in one-year unit cost forecasts. This evolution challenges the notion that recovery in demand naturally stabilizes cost expectations. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 - **Strategic Dilemma:** Executives had to reconcile early optimistic expectations with later evidence of entrenched supply bottlenecks, forcing a rethinking of pricing strategies and cost management.
 - **Underlying Beliefs & Biases:** Initial cognitive biases may have underestimated the persistence and severity of supply disruptions, delaying the adjustment of long-term cost forecasts.
 - **Expected vs. Actual Outcomes:** While the rebound in demand suggested a return to normalcy, actual outcomes showed sustained upward pressure on unit costs, contradicting early assumptions.
 - **Broader Implications:** This shift underscores the importance of agile decision-making and dynamic risk assessment, urging leaders to incorporate ongoing operational constraints into their strategic models. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Survey data from the Business Inflation Expectations (BIE) reveals that, after initially low one-year ahead expectations, firms’ forecasts more than doubled by late 2021. Moreover, regression analysis indicated that supply disruptions accounted for roughly 40% of the cost expectation increases for manufacturers and about one-third for service providers, underscoring the robust empirical link between persistent supply shocks and elevated cost risks. **[Empirical]**
 
 ---
 
 ### **Insight 2: Asymmetric Risk Recalibration and Cognitive Anchoring**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Executives’ risk assessments underwent a marked transformation—from an initial bias toward downside cost risks (expecting price decreases) to a pronounced emphasis on upside risks (anticipating significant cost increases). This asymmetry suggests a cognitive anchoring where early adverse experiences persistently influence strategic outlooks even as economic conditions evolve. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 - **Strategic Dilemma:** Leaders must now balance the need to remain competitive with the potential for overpricing in an environment where upside inflationary risks dominate.
 - **Underlying Beliefs & Biases:** The shift indicates that initial low inflationary expectations were rapidly overturned, yet the memory of early disruption may bias decision-making toward conservative (or even overcautious) cost forecasts.
 - **Expected vs. Actual Outcomes:** Initial expectations of cost declines were replaced by forecasts that assigned more than one-third probability to cost increases above 5%, a divergence from conventional models that anticipated symmetric risk distributions.
 - **Broader Implications:** This recalibration has significant implications for strategic planning, monetary policy, and investor communications, highlighting the need for more nuanced approaches to managing uncertainty in volatile supply environments. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper documents a clear reversal in the balance of unit cost risk: whereas early in the pandemic firms assigned nearly 15% likelihood to cost declines, by April 2022 more than one-third of the weight was shifted toward high inflationary scenarios. These findings are bolstered by detailed probabilistic measures and skewness analyses derived from the BIE survey, providing robust empirical backing to the observed risk asymmetry. **[Empirical]**
 
 ---
 
 ### **Insight 3: Sectoral Heterogeneity in Disruption Impacts**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 The impact of supply chain disruptions is not uniform; goods-producing firms, particularly in manufacturing, experienced more intense cost pressures compared to service providers. This differentiation compels executives to adopt tailored strategies that address sector-specific vulnerabilities in supply chain and labor management. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 - **Strategic Dilemma:** Executives must navigate divergent risk profiles—where manufacturing sectors face sharper cost escalations due to physical input dependencies, while service sectors are more affected by labor constraints.
 - **Underlying Beliefs & Biases:** There is an implicit assumption in some strategic frameworks that disruptions affect all sectors similarly; however, the evidence suggests a significant heterogeneity that demands more granular risk management.
 - **Expected vs. Actual Outcomes:** Expected uniform recovery in unit costs across sectors was contradicted by empirical data showing that manufacturing disruptions peaked higher and earlier than in service sectors.
 - **Broader Implications:** This heterogeneity informs both competitive strategy and policy design, signaling the need for differentiated risk mitigation frameworks and supply chain resilience investments tailored to sector-specific exposures. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Data analysis from the paper shows that, in March 2021, the mean disruption index for goods-producing firms was 9.3 compared to 6.6 for service providers. Further, manufacturing sectors recorded disruption indexes as high as 9.75, highlighting significant variances in cost pressures across sectors. Such findings, derived from both survey responses and regression outcomes, underline the importance of sector-specific strategic responses. **[Empirical]**
 
 ---
@@ -211,8 +211,7 @@ Data analysis from the paper shows that, in March 2021, the mean disruption inde
 - **Coverage Fit:** High — The paper offers an in-depth examination of business expectations in relation to supply chain disruptions, directly addressing executive decision-making challenges.
 - **Bias & Cognitive Modeling Content:** Present — The research highlights implicit biases in risk assessment and cognitive anchoring in executive expectations.
 - **Clarity of Methods & Outcomes:** Clear — The methodology, involving rich survey data and rigorous regression analyses, is well-articulated and transparently linked to outcomes.
-- **Areas with No Data:**  
-    - Insight Statement: Fully supported.  
-    - Executive Decision-Making Context: Fully detailed with empirical and inferred content.  
+- **Areas with No Data:**
+    - Insight Statement: Fully supported.
+    - Executive Decision-Making Context: Fully detailed with empirical and inferred content.
     - Supporting Context: Robust empirical data is provided throughout.
-

@@ -2,7 +2,7 @@
 
 ## You (2025-03-17T00:05:50.747000+00:00)
 
-hey Andrew, help me write a prompt. this is a follow up to a previous prompt i used for operator. 
+hey Andrew, help me write a prompt. this is a follow up to a previous prompt i used for operator.
 
 Goal & Core Objective:
 Refine the research-oriented prompt to instruct the operator explicitly to identify academic papers that focus deeply on human decision-making processes, methodologies, and approaches, ensuring all selected research papers are accessible through the University of Washington's institutional access.
@@ -41,7 +41,6 @@ Assume the role of an academic research assistant knowledgeable in navigating un
 Iterative Refinement Prompt:
 
 After the initial batch, prompt the user to validate whether the depth, approach, and accessibility meet their expectations and refine accordingly if necessary.
-
 
 
 Original Prompt for Operator:
@@ -190,7 +189,7 @@ To ensure quality, the final output must:
 Before crafting the optimized prompt for GPT-4o, let's clarify some essential points to ensure it precisely meets your expectations:
 
 1. **Depth and Specificity:**
-   - When mentioning "deeply on human decision-making," could you clarify if your main interest lies more in cognitive psychology, behavioral economics, executive psychology, organizational behavior, or a mix?  
+   - When mentioning "deeply on human decision-making," could you clarify if your main interest lies more in cognitive psychology, behavioral economics, executive psychology, organizational behavior, or a mix?
    - Are you primarily interested in theoretical frameworks, empirical studies, or practical methodologies applied in real-world scenarios?
 
 2. **Accessibility Verification:**
@@ -210,21 +209,21 @@ Please confirm or refine these aspects so I can produce a structured, precise, a
 
 ## You (2025-03-17T00:09:16.984000+00:00)
 
-1. Depth and Specificity 
+1. Depth and Specificity
 
 -- a mix of all
 -- more interested in practical methodologies applied in real-world scenarios
 
-2. 
+2.
 
 -- Yes
 -- Simply a statement is fine. I don't want it to keep probing me for each resource, just make sure on its own whether its accessible to people from university of washington
 
-3. 
+3.
 
--- We can ignore the initial test batch. I found out these issues after it gave me the initial test batch, so not we can proceed with the full fledged research activity. 
+-- We can ignore the initial test batch. I found out these issues after it gave me the initial test batch, so not we can proceed with the full fledged research activity.
 
-4. 
+4.
 
 -- Yes, this is in addition to my original instructions around accessing papers from harvard business review, etc...
 
@@ -234,11 +233,8 @@ Please confirm or refine these aspects so I can produce a structured, precise, a
 
 Here's your optimized prompt structured explicitly for GPT-4o:
 
-## ChatGPT (2025-03-17T00:09:19.768260+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"uw_decision_papers_prompt\",\"type\":\"document\",\"content\":\"**Goal & Core Objective:**  \\nConduct a comprehensive search to identify and compile academic papers explicitly focused on human-centric decision-making processes, practical methodologies, cognitive behaviors, mental models, and real-world strategic decision-making approaches. Ensure each selected paper is fully accessible through the University of Washington’s institutional access.\\n\\n**Step-by-Step Reasoning:**  \\n1. Clearly prioritize papers emphasizing practical methodologies, cognitive psychology, behavioral economics, executive psychology, and organizational behavior in the context of real-world decision-making.\\n2. Employ explicit search queries combining decision scenarios (Market Expansion, Product & Service Positioning, Resource Allocation, Competitive Response, Channel & Distribution Strategy, Mergers & Acquisitions) with terms such as \\\"decision-making frameworks,\\\" \\\"cognitive biases,\\\" \\\"executive behavior,\\\" \\\"mental models,\\\" and \\\"behavioral strategy.\\\"\\n3. Verify institutional access explicitly through the University of Washington library or institutional login (simple statement confirmation is sufficient; no screenshots required).\\n4. Focus the search within databases explicitly available via University of Washington institutional credentials, including but not limited to JSTOR, ProQuest, Web of Science, IEEE Xplore, ScienceDirect, Strategic Management Journal, Harvard Business Review, MIT Sloan Management Review, California Management Review, SSRN, Google Scholar, and ResearchGate (peer-reviewed only, no preprints).\\n\\n**Output Format:**  \\nPresent results in a structured, categorized format by decision scenario:\\n- Decision Scenario (e.g., Market Expansion)\\n  - Resource Link: [Direct hyperlink to the research paper]\\n  - Justification: Briefly (one sentence) explain how this paper specifically addresses practical decision-making methodologies or frameworks relevant to the scenario.\\n\\n**Constraints & Assumptions:**  \\n- All resources must be accessible via the University of Washington’s institutional credentials.\\n- Exclude any paywalled papers not covered by the University’s institutional access.\\n- Avoid non-peer-reviewed articles, blog posts, or low-quality sources.\\n- Do not request user validation for each paper; autonomously confirm accessibility.\\n\\n**Context & Background:**  \\n- Initial research lacked depth in human-focused practical decision-making methodologies.\\n- User explicitly identified institutional access constraints through University of Washington credentials.\\n\\n**Persona & Role Definition:**  \\nAct as an experienced academic research assistant skilled in navigating institutional academic databases and precisely identifying accessible, relevant resources.\\n\\n**Iterative Validation & Refinement:**  \\nUpon delivering the initial full research batch, prompt the user once to confirm if the depth, relevance, and accessibility of the papers meet expectations, allowing refinement if needed.\"}"}
 
 ## ChatGPT (2025-03-17T00:09:54.898075+00:00)
 
 Does this refined prompt align with your expectations? Let me know if you need any further adjustments!
-

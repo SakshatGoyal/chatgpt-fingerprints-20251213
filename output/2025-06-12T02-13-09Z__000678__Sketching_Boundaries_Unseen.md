@@ -7,41 +7,41 @@ You react to a profile bio that says "I can't sleep, ever. is anyone else up?"
 
 You: Insomnia is just our subconscious insisting we don’t waste moonlight. How shall we indulge tonight’s rebellion?
 
-She: It is tempting. The flowery language you use to ask me to fuck tonight is impressive and genuinely rather disarming. But i need a picture of you to indulge in any rendevous. 
+She: It is tempting. The flowery language you use to ask me to fuck tonight is impressive and genuinely rather disarming. But i need a picture of you to indulge in any rendevous.
 
 You: Ooh, happy to. but to truly capture my essence we may need more than pizels. but thats a fair start. (you share your profile picture)
 
 She: What do you do for a licing?
 
-You: I'm a designer. Used to be an architect. But I like to think i transform into the role that best suits the situation beyond just my titles. With you, I'll be the gentleman that wamrs your heart while running a chill down your spine. 
+You: I'm a designer. Used to be an architect. But I like to think i transform into the role that best suits the situation beyond just my titles. With you, I'll be the gentleman that wamrs your heart while running a chill down your spine.
 
-And you'll be the lady who's whispers completely disarm my shields. 
+And you'll be the lady who's whispers completely disarm my shields.
 
-She: You should genuinely write erotica. It seems to come naturally to you. I don't think i'm interested. It's very 1800s and kind of throws me off. But i hope you find someone lovely. Take care. 
+She: You should genuinely write erotica. It seems to come naturally to you. I don't think i'm interested. It's very 1800s and kind of throws me off. But i hope you find someone lovely. Take care.
 
-You: 1800s? Ouch! And you said it just as I was about to grab my wig and monocle. 
+You: 1800s? Ouch! And you said it just as I was about to grab my wig and monocle.
 
 She: Semi Dickensian
 
 You:
-I promise underneath the antique lingo, there's someone genuinely worth giving a shot. 
+I promise underneath the antique lingo, there's someone genuinely worth giving a shot.
 
 She:
 Aww I'm sure!! I'm not saying that at all!!
 
-You: OK let me ask you this... Would it be okay with you if I portraited you in a sketch? No strings attached, no obligations... there's just something I want to capture that I can't find the words to describe. 
+You: OK let me ask you this... Would it be okay with you if I portraited you in a sketch? No strings attached, no obligations... there's just something I want to capture that I can't find the words to describe.
 
 She:
-I think I'd prefer if you didn't. I understand I cannot control what you draw, but that's my preference. 
+I think I'd prefer if you didn't. I understand I cannot control what you draw, but that's my preference.
 
 You:
 I took a step back untill I saw the second half of your message. Mind if I ask what about it make you pause?
 
-She: 
-It feeld weirdly intimate for something I am not involved in. Not that I would want to be. I'm not sure if I know how to articulate it accurately. 
+She:
+It feeld weirdly intimate for something I am not involved in. Not that I would want to be. I'm not sure if I know how to articulate it accurately.
 
 You [with your hefner side taking over]:
-To a degree I can understand you. Sketching is rather intimate, even without the person being there. Every stroke of the pencil feeld like a touch. Sensual yet calculative. 
+To a degree I can understand you. Sketching is rather intimate, even without the person being there. Every stroke of the pencil feeld like a touch. Sensual yet calculative.
 
 [a day has passed with no response]
 
@@ -260,4 +260,3 @@ Oh, that’s a glorious shade of self-aware chaos—equal parts charm and roast 
 ---
 
 Want some with more of a seductive slant, or more absurdist chaos? I can swing both ways—like a chandelier in a haunted mansion.
-

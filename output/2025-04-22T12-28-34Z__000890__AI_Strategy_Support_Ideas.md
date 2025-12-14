@@ -21,20 +21,20 @@ Here are three divergent directions you might explore:
 ---
 
 ### 1. **“Pattern Companion” Mode – Strategic Contextual Intelligence**
-**Appeals to:** DPMs who think in systems and want cognitive leverage  
+**Appeals to:** DPMs who think in systems and want cognitive leverage
 **Core Idea:** Use the four archetypes as “lenses” the AI can dynamically switch between, depending on the strategic context the user is operating in.
 
 **Product Behavior:**
 - User starts with a question like “We’re planning a GTM for APAC — what risks are we overlooking?”
 - The AI infers the likely archetype (e.g., A1 or A3) and overlays insights like “Have you modeled regional compliance constraints as first-order inputs?” or “Where might cross-market orchestration risks emerge?”
 - Nudges the user toward insight clusters (e.g., tension between speed and trust in A1) and surfaces relevant decision patterns, reframes, or capability trade-offs.
-  
+
 **Why this matters:** DPMs often oscillate between tactical urgency and long-view structure. This approach scaffolds that shift — it frames problems not just as tasks, but as pattern matches to known organizational tensions.
 
 ---
 
 ### 2. **“Strategic Reframe Generator” – Prompting Better Questions**
-**Appeals to:** DPMs facing decision fatigue or alignment challenges  
+**Appeals to:** DPMs facing decision fatigue or alignment challenges
 **Core Idea:** A co-pilot that listens to your framing and pushes back — *not* by giving the answer, but by asking the question you didn’t.
 
 **Product Behavior:**
@@ -50,7 +50,7 @@ Here are three divergent directions you might explore:
 ---
 
 ### 3. **“Micro-Simulation Studio” – Strategic Thought Prototyping**
-**Appeals to:** DPMs in exploratory or high-stakes strategy mode  
+**Appeals to:** DPMs in exploratory or high-stakes strategy mode
 **Core Idea:** A sandbox where the user can simulate moves across different archetypes — not in a high-fidelity model, but as fast logic sketches that expose hidden implications.
 
 **Product Behavior:**
@@ -80,14 +80,14 @@ Would you like to sketch one of these directions into a clickable prototype or w
 
 ## You (2025-04-22T12:35:57.519000+00:00)
 
-hey, we also have this list of design principles. Unfortunately, this is a unique approach to writing design principles. 
+hey, we also have this list of design principles. Unfortunately, this is a unique approach to writing design principles.
 
-In order to move from hypothesis to conviction and possibly some low fidelity testing and validation, could you recommend a few steps we could take that keeps both documents (the attached design principles as well as the research synthesis we've done in mind. 
+In order to move from hypothesis to conviction and possibly some low fidelity testing and validation, could you recommend a few steps we could take that keeps both documents (the attached design principles as well as the research synthesis we've done in mind.
 
-Give me a few integrated approaches. 
+Give me a few integrated approaches.
 ---
 
-too often, they fall into the trap of sounding good without actually being useful. 
+too often, they fall into the trap of sounding good without actually being useful.
 
 When principles read like truisms—“AI should be trustworthy,” “prioritize the user,” “support human judgment”—they’re hard to disagree with, but even harder to design from. They don't sharpen decisions; they smooth them over.
 
@@ -175,4 +175,3 @@ Test how well people recognize themselves in the archetype. And see whether the 
 ---
 
 Would you like a visual canvas or prototype board to sketch out one of these? Or I can help storyboard a scenario using one of your people problem statements + a few contrasting design principles.
-

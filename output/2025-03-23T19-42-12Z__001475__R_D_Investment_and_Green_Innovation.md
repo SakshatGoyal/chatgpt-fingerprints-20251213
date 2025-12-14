@@ -149,16 +149,16 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:**  
+- **Key Themes:**
   The paper explores how bold increases—or leaps—in R&D investment stimulate green technology innovation in heavily polluting enterprises. It also examines the mediating role of dual innovation balance (the interplay between exploratory and exploitative innovation) in converting R&D efforts into tangible green innovation outcomes.
 
-- **Core Motivations:**  
+- **Core Motivations:**
   Facing stringent environmental regulations and escalating market pressures, heavily polluting enterprises are compelled to transition towards greener production models. The study is driven by the urgent need for these firms to transform legacy practices and reallocate resources strategically to boost sustainable competitiveness.
 
-- **Methodological Clarification:**  
+- **Methodological Clarification:**
   Employing panel data analysis on 59 Chinese A-share listed companies over the period 2012–2017, the research utilizes regression models and mediating effect tests (using Stata 16.0) to establish statistical links between R&D investment leaps, dual innovation balance, and green technology innovation. Stationarity tests ensure the robustness of the panel data series.
 
-- **Relevance Assessment:**  
+- **Relevance Assessment:**
   For senior executives, especially those in industries facing high environmental scrutiny, the findings highlight the value of strategic boldness in R&D investments and the necessity of balancing radical and incremental innovation. These insights offer decision-relevant guidance on overcoming traditional risk aversion and legacy inertia in pursuit of sustainable transformation.
 
 ---
@@ -171,15 +171,15 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 A substantial leap in R&D investment is empirically shown to be a potent driver for green technology innovation, challenging the conventional preference for incremental funding strategies. **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Should leaders in heavily polluting industries commit to radical R&D funding shifts despite the inherent risks of disrupting established operational norms?  
-- **Underlying Beliefs & Biases:** Executives often favor incremental improvements due to risk aversion and entrenched beliefs in traditional business models, potentially overlooking the transformative potential of bold investment moves.  
-- **Expected vs. Actual Outcomes:** While cautious strategies may seem to safeguard existing operations, the empirical evidence indicates that aggressive R&D leaps yield significantly improved green innovation outcomes.  
-- **Broader Implications:** Decision-makers are encouraged to reassess risk management frameworks to incorporate strategic flexibility, recognizing that overcoming inertia can unlock substantial innovation benefits.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Should leaders in heavily polluting industries commit to radical R&D funding shifts despite the inherent risks of disrupting established operational norms?
+- **Underlying Beliefs & Biases:** Executives often favor incremental improvements due to risk aversion and entrenched beliefs in traditional business models, potentially overlooking the transformative potential of bold investment moves.
+- **Expected vs. Actual Outcomes:** While cautious strategies may seem to safeguard existing operations, the empirical evidence indicates that aggressive R&D leaps yield significantly improved green innovation outcomes.
+- **Broader Implications:** Decision-makers are encouraged to reassess risk management frameworks to incorporate strategic flexibility, recognizing that overcoming inertia can unlock substantial innovation benefits.
 **[Empirical]**
 
-**Supporting Context**  
-Regression results (Model 3) demonstrate that R&D investment leaps have a significant positive impact on green technology innovation (β=0.148, P<0.01), providing robust statistical backing for the recommendation to consider bolder investment strategies.  
+**Supporting Context**
+Regression results (Model 3) demonstrate that R&D investment leaps have a significant positive impact on green technology innovation (β=0.148, P<0.01), providing robust statistical backing for the recommendation to consider bolder investment strategies.
 **[Empirical]**
 
 ---
@@ -188,15 +188,15 @@ Regression results (Model 3) demonstrate that R&D investment leaps have a signif
 
 Balancing exploratory and exploitative innovation is critical, as it partially mediates the effectiveness of R&D investment leaps in driving green technology innovation. **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** How can executives reconcile the tension between pursuing breakthrough innovations (exploratory) and optimizing current technologies (exploitative) to maximize sustainable outcomes?  
-- **Underlying Beliefs & Biases:** There is a common executive bias toward either radical change or risk-averse improvement; the study underscores that a balanced approach is essential for sustainable performance.  
-- **Expected vs. Actual Outcomes:** Although a direct leap in R&D is expected to boost innovation, the mediating role of dual innovation balance reveals that the type and balance of innovation efforts significantly shape overall performance.  
-- **Broader Implications:** Incorporating dual innovation balance into strategic planning can help avoid the pitfalls of over-commitment to one innovation mode—whether the “failure trap” of exploratory ventures or the “success trap” of exploitative methods.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** How can executives reconcile the tension between pursuing breakthrough innovations (exploratory) and optimizing current technologies (exploitative) to maximize sustainable outcomes?
+- **Underlying Beliefs & Biases:** There is a common executive bias toward either radical change or risk-averse improvement; the study underscores that a balanced approach is essential for sustainable performance.
+- **Expected vs. Actual Outcomes:** Although a direct leap in R&D is expected to boost innovation, the mediating role of dual innovation balance reveals that the type and balance of innovation efforts significantly shape overall performance.
+- **Broader Implications:** Incorporating dual innovation balance into strategic planning can help avoid the pitfalls of over-commitment to one innovation mode—whether the “failure trap” of exploratory ventures or the “success trap” of exploitative methods.
 **[Empirical]**
 
-**Supporting Context**  
-Mediation analysis (Model 5) shows that the positive effect of R&D leaps is slightly moderated (from β=0.148 to β=0.145) when dual innovation balance is considered, confirming its role in optimizing innovation outcomes.  
+**Supporting Context**
+Mediation analysis (Model 5) shows that the positive effect of R&D leaps is slightly moderated (from β=0.148 to β=0.145) when dual innovation balance is considered, confirming its role in optimizing innovation outcomes.
 **[Empirical]**
 
 ---
@@ -205,15 +205,15 @@ Mediation analysis (Model 5) shows that the positive effect of R&D leaps is slig
 
 Effective reconfiguration of organizational resources—reflected in the capacity to execute R&D investment leaps—is imperative for navigating environmental constraints and driving long-term sustainable transformation. **[Inferred]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Can established organizations recalibrate legacy structures and realign resources to seize emerging opportunities in green innovation without incurring disruptive risks?  
-- **Underlying Beliefs & Biases:** Traditional biases favoring stability may lead executives to underestimate the need for radical organizational change, even when market conditions call for agile transformation.  
-- **Expected vs. Actual Outcomes:** While conservative approaches aim to mitigate risk, the study implies that strategically flexible, bold moves—although potentially disruptive—yield superior green innovation performance.  
-- **Broader Implications:** Leaders should consciously challenge the status quo mindset and recalibrate resource allocation strategies to integrate dynamic, forward-looking innovation practices, even if this involves short-term discomfort.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Can established organizations recalibrate legacy structures and realign resources to seize emerging opportunities in green innovation without incurring disruptive risks?
+- **Underlying Beliefs & Biases:** Traditional biases favoring stability may lead executives to underestimate the need for radical organizational change, even when market conditions call for agile transformation.
+- **Expected vs. Actual Outcomes:** While conservative approaches aim to mitigate risk, the study implies that strategically flexible, bold moves—although potentially disruptive—yield superior green innovation performance.
+- **Broader Implications:** Leaders should consciously challenge the status quo mindset and recalibrate resource allocation strategies to integrate dynamic, forward-looking innovation practices, even if this involves short-term discomfort.
 **[Inferred]**
 
-**Supporting Context**  
-The conceptual framework positions the R&D investment leap as an indicator of strategic flexibility and coordination ability, suggesting that reconfiguring organizational structures can unlock additional resources for both exploratory and exploitative innovation. Although the empirical focus is on statistical relationships, the managerial narrative advocates for overcoming inherent resistance to change.  
+**Supporting Context**
+The conceptual framework positions the R&D investment leap as an indicator of strategic flexibility and coordination ability, suggesting that reconfiguring organizational structures can unlock additional resources for both exploratory and exploitative innovation. Although the empirical focus is on statistical relationships, the managerial narrative advocates for overcoming inherent resistance to change.
 **[Inferred]**
 
 ---
@@ -222,27 +222,27 @@ The conceptual framework positions the R&D investment leap as an indicator of st
 
 The research indirectly challenges prevalent executive risk aversion by suggesting that calculated leaps in R&D investment can overcome the inertia of incrementalism, potentially offsetting overconfidence in traditional operational modes. **[Speculative]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Should executives revise entrenched risk-averse behaviors and embrace more radical investment approaches despite uncertainty in the short term?  
-- **Underlying Beliefs & Biases:** Many leaders are predisposed to favor incremental innovation due to cognitive biases that undervalue the potential returns of riskier, transformative projects.  
-- **Expected vs. Actual Outcomes:** While conservative strategies are expected to preserve stability, the findings hint that intentional disruption through R&D leaps may, in fact, drive better innovation performance—challenging the conventional risk calculus.  
-- **Broader Implications:** This insight encourages a reexamination of executive risk frameworks, advocating for a shift toward embracing calculated risks as a route to achieving competitive sustainability.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Should executives revise entrenched risk-averse behaviors and embrace more radical investment approaches despite uncertainty in the short term?
+- **Underlying Beliefs & Biases:** Many leaders are predisposed to favor incremental innovation due to cognitive biases that undervalue the potential returns of riskier, transformative projects.
+- **Expected vs. Actual Outcomes:** While conservative strategies are expected to preserve stability, the findings hint that intentional disruption through R&D leaps may, in fact, drive better innovation performance—challenging the conventional risk calculus.
+- **Broader Implications:** This insight encourages a reexamination of executive risk frameworks, advocating for a shift toward embracing calculated risks as a route to achieving competitive sustainability.
 **[Speculative]**
 
-**Supporting Context**  
-While the paper robustly supports the positive impacts of R&D leaps on innovation, its discussion on executive overconfidence and risk aversion is more implicit, leaving room for speculative interpretation regarding cognitive biases in strategic decision-making.  
+**Supporting Context**
+While the paper robustly supports the positive impacts of R&D leaps on innovation, its discussion on executive overconfidence and risk aversion is more implicit, leaving room for speculative interpretation regarding cognitive biases in strategic decision-making.
 **[Speculative]**
 
 ---
 
 ### **Source Relevance Audit**
 
-- **Coverage Fit:** High — The paper offers a detailed empirical examination of how R&D investment leaps and dual innovation balance influence green technology innovation, directly addressing strategic transformation challenges for heavily polluting enterprises.  
-- **Bias & Cognitive Modeling Content:** Implied Only — Although the study does not explicitly analyze cognitive biases, its implications about risk aversion and the need for strategic flexibility offer valuable inferential insights for executive decision-making.  
-- **Clarity of Methods & Outcomes:** Clear — The research clearly outlines its empirical methods (panel regression, unit root tests, and mediation analysis) and presents statistically robust outcomes.  
-- **Areas with No Data:**  
-  - **Insight Statement:** All insights are grounded in either empirical data or logical inference based on the paper’s framework.  
-  - **Executive Decision-Making Context:** Direct analysis of cognitive biases is limited; insights on this topic are inferred rather than empirically detailed.  
+- **Coverage Fit:** High — The paper offers a detailed empirical examination of how R&D investment leaps and dual innovation balance influence green technology innovation, directly addressing strategic transformation challenges for heavily polluting enterprises.
+- **Bias & Cognitive Modeling Content:** Implied Only — Although the study does not explicitly analyze cognitive biases, its implications about risk aversion and the need for strategic flexibility offer valuable inferential insights for executive decision-making.
+- **Clarity of Methods & Outcomes:** Clear — The research clearly outlines its empirical methods (panel regression, unit root tests, and mediation analysis) and presents statistically robust outcomes.
+- **Areas with No Data:**
+  - **Insight Statement:** All insights are grounded in either empirical data or logical inference based on the paper’s framework.
+  - **Executive Decision-Making Context:** Direct analysis of cognitive biases is limited; insights on this topic are inferred rather than empirically detailed.
   - **Supporting Context:** Empirical support is strong for R&D leaps and innovation balance, but direct data on executive cognitive biases is not provided.
 
 ## You (2025-03-23T19:43:42.220000+00:00)
@@ -516,21 +516,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -543,4 +543,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T19:45:31.381792+00:00)
 
 Li, X. (2023). *R&D investment leap and green innovation performance in heavily polluting enterprises*. In V. Escudero et al. (Eds.), *BADS 2022, AHCS 11* (pp. 855–859). https://doi.org/10.2991/978-94-6463-102-9_88
-

@@ -119,11 +119,11 @@ def setup_logging():
 def load_and_merge_data(encoded_data_file, encoded_umap_file):
     """
     Load the encoded data and UMAP CSV files and merge them on the 'Module ID' column.
-    
+
     Args:
         encoded_data_file (str): Path to the CSV file with encoded data.
         encoded_umap_file (str): Path to the CSV file with UMAP-reduced coordinates.
-    
+
     Returns:
         pandas.DataFrame: Merged DataFrame with UMAP coordinates renamed to 'X' and 'Y'.
     """
@@ -132,18 +132,18 @@ def load_and_merge_data(encoded_data_file, encoded_umap_file):
     df_data = pd.read_csv(encoded_data_file, dtype={"Module ID": str})
     logging.info(f"Loading UMAP data from {encoded_umap_file}")
     df_umap = pd.read_csv(encoded_umap_file, dtype={"Module ID": str})
-    
+
     # Clean whitespace in 'Module ID' columns to ensure proper merging
     df_data["Module ID"] = df_data["Module ID"].str.strip()
     df_umap["Module ID"] = df_umap["Module ID"].str.strip()
-    
+
     # Rename UMAP coordinate columns from UMAP_1 and UMAP_2 to X and Y respectively
     df_umap.rename(columns={"UMAP_1": "X", "UMAP_2": "Y"}, inplace=True)
-    
+
     # Merge the two DataFrames on 'Module ID'
     logging.info("Merging data on 'Module ID'")
     merged_df = pd.merge(df_data, df_umap, on="Module ID", how="inner")
-    
+
     return merged_df
 
 
@@ -151,31 +151,31 @@ def run_hdbscan_clustering(merged_df, parameter_list):
     """
     Apply HDBSCAN clustering on UMAP coordinates using a list of parameter configurations.
     The resulting cluster labels for each configuration are added as new columns to the DataFrame.
-    
+
     Args:
         merged_df (pandas.DataFrame): DataFrame containing UMAP coordinates (columns 'X' and 'Y').
         parameter_list (list of tuples): List of (min_cluster_size, min_samples) pairs.
-    
+
     Returns:
         pandas.DataFrame: DataFrame with an added clustering column for each parameter configuration.
     """
     # Extract UMAP coordinates as a numpy array for clustering
     umap_coords = merged_df[["X", "Y"]].values
-    
+
     # Iterate over each parameter configuration
     for min_cluster_size, min_samples in parameter_list:
         # Generate a column name reflecting the current parameters, e.g., "4_4"
         col_name = f"{min_cluster_size}_{min_samples}"
         logging.info(f"Clustering with min_cluster_size={min_cluster_size} and min_samples={min_samples}")
-        
+
         try:
             # Initialize and run HDBSCAN clustering using current parameters
             clusterer = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples)
             cluster_labels = clusterer.fit_predict(umap_coords)
-            
+
             # Add clustering output to the DataFrame as a new column
             merged_df[col_name] = cluster_labels
-            
+
             # Log unique cluster labels, with noise points clearly indicated as -1
             unique_labels = sorted(set(cluster_labels))
             logging.info(f"Column '{col_name}' added. Unique cluster labels: {unique_labels}")
@@ -183,28 +183,28 @@ def run_hdbscan_clustering(merged_df, parameter_list):
             # Log the error and continue with the next parameter configuration
             logging.error(f"Clustering failed for parameters (min_cluster_size={min_cluster_size}, "
                           f"min_samples={min_samples}): {e}")
-    
+
     return merged_df
 
 
 def main():
     setup_logging()
-    
+
     # USER CONFIGURATION: File paths for the input CSV files and output file.
     encoded_data_file = "encoded_data.csv"  # Path to encoded data CSV file
     encoded_umap_file = "encoded_umap.csv"  # Path to UMAP CSV file containing UMAP_1 and UMAP_2 columns
     output_csv_file = "multi_cluster_output.csv"  # Name/path for the consolidated output CSV file
-    
+
     # USER CONFIGURATION: Define a list of HDBSCAN parameter pairs to try.
     # Each tuple is (min_cluster_size, min_samples). To add or modify parameters, edit the list below.
     parameter_list = [(4, 4), (8, 4), (12, 4)]
-    
+
     # Load and merge data
     merged_df = load_and_merge_data(encoded_data_file, encoded_umap_file)
-    
+
     # Run HDBSCAN clustering for each parameter configuration
     merged_df = run_hdbscan_clustering(merged_df, parameter_list)
-    
+
     # Save the final DataFrame with clustering results to CSV
     try:
         merged_df.to_csv(output_csv_file, index=False)
@@ -217,19 +217,19 @@ if __name__ == "__main__":
 ```
 
 ### Explanation & Customization Notes
-- **File I/O:**  
+- **File I/O:**
   The script reads two CSVs (`encoded_data.csv` and `encoded_umap.csv`) and merges them on the common key `"Module ID"`. Adjust the file paths if your files are located elsewhere.
 
-- **Parameter List:**  
+- **Parameter List:**
   The list `parameter_list` (e.g., `[(4, 4), (8, 4), (12, 4)]`) defines the (min_cluster_size, min_samples) pairs. Edit this list to add more configurations or modify the existing ones.
 
-- **Iterative Clustering:**  
+- **Iterative Clustering:**
   For each parameter pair, HDBSCAN is applied to the UMAP coordinates, and the resulting cluster labels are stored in a new DataFrame column named according to the parameter pair (e.g., `"4_4"` for min_cluster_size=4, min_samples=4).
 
-- **Error Handling & Logging:**  
+- **Error Handling & Logging:**
   The script uses basic logging to report progress and errors without halting execution if a clustering run fails. Noise points (label `-1`) are treated normally.
 
-- **Output:**  
+- **Output:**
   The final DataFrame, now augmented with columns for each clustering configuration, is saved to a CSV file (default: `multi_cluster_output.csv`).
 
 This script is production-aware and includes enough comments for non-expert collaborators to understand how to make modifications if needed.
@@ -305,7 +305,7 @@ Let me know if you want it to also save a summary or metadata.
 
 ## You (2025-04-10T00:15:57.259346+00:00)
 
-Its giving me all these columns and not the ones i need. 
+Its giving me all these columns and not the ones i need.
 
 Here're the collumns its giving me
 
@@ -351,4 +351,3 @@ final_df.to_csv(output_csv_file, index=False)
 ---
 
 Let me know if you also want to keep summary stats like number of clusters per run.
-

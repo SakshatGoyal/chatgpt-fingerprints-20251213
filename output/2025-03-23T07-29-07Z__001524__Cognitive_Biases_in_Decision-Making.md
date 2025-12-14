@@ -158,58 +158,58 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Managers often misattribute employee performance to inherent personal traits rather than contextual factors, leading to flawed promotion and evaluation practices." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must balance the subjective nature of performance assessments with objective data, a challenge compounded by ingrained biases in managerial evaluations.  
-- **Underlying Beliefs & Biases:** A tendency to overvalue perceived individual traits leads managers to ignore external circumstances that affect performance.  
-- **Expected vs. Actual Outcomes:** While an ideal evaluation system would integrate objective performance metrics, in practice, biased assessments can result in suboptimal talent management and missed opportunities for diversity.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must balance the subjective nature of performance assessments with objective data, a challenge compounded by ingrained biases in managerial evaluations.
+- **Underlying Beliefs & Biases:** A tendency to overvalue perceived individual traits leads managers to ignore external circumstances that affect performance.
+- **Expected vs. Actual Outcomes:** While an ideal evaluation system would integrate objective performance metrics, in practice, biased assessments can result in suboptimal talent management and missed opportunities for diversity.
 - **Broader Implications:** This misalignment not only hampers employee morale and innovation but also potentially leads to the promotion of less competent individuals, ultimately affecting long-term organizational success. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper illustrates that fundamental attribution bias causes managers to disproportionately attribute failures or successes to personality traits rather than situational factors. Examples include biased employee evaluations and misjudgments in hiring processes, all of which have tangible adverse impacts on corporate performance. **[Empirical]**
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Entrepreneurs and senior leaders selectively process information that confirms their pre-existing beliefs, neglecting contradictory evidence and underestimating risks, which stifles innovation and fuels overconfidence." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders face the inherent challenge of integrating dissenting perspectives and hard data into their decision-making processes despite natural inclinations toward optimism.  
-- **Underlying Beliefs & Biases:** The reliance on confirmatory evidence reinforces an echo chamber effect, limiting exposure to critical, risk-related feedback.  
-- **Expected vs. Actual Outcomes:** Rather than engaging in a balanced risk assessment, executives often fall prey to overconfidence, leading to decisions that ignore potential pitfalls.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders face the inherent challenge of integrating dissenting perspectives and hard data into their decision-making processes despite natural inclinations toward optimism.
+- **Underlying Beliefs & Biases:** The reliance on confirmatory evidence reinforces an echo chamber effect, limiting exposure to critical, risk-related feedback.
+- **Expected vs. Actual Outcomes:** Rather than engaging in a balanced risk assessment, executives often fall prey to overconfidence, leading to decisions that ignore potential pitfalls.
 - **Broader Implications:** Such decision-making practices can precipitate reckless strategies, missed market opportunities, and long-term instability in competitive environments. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The study details how both “motivated” and “unmotivated” confirmation biases lead executives to favor information that supports their entrepreneurial visions while disregarding vital negative signals. This selective processing skews risk evaluations and ultimately drives flawed strategic choices. **[Empirical]**
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Conformity bias drives employees to align with prevailing group norms, curtailing independent thought and thereby inhibiting innovation and creative problem-solving." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must cultivate an environment that maintains group cohesion without suppressing dissenting ideas that are essential for breakthrough innovations.  
-- **Underlying Beliefs & Biases:** The fear of social rejection leads individuals to mirror group opinions even when such consensus is suboptimal, compromising independent judgment.  
-- **Expected vs. Actual Outcomes:** Ideally, organizations should foster diverse viewpoints; however, conformity bias often results in homogenized thinking that stifles creative solutions.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must cultivate an environment that maintains group cohesion without suppressing dissenting ideas that are essential for breakthrough innovations.
+- **Underlying Beliefs & Biases:** The fear of social rejection leads individuals to mirror group opinions even when such consensus is suboptimal, compromising independent judgment.
+- **Expected vs. Actual Outcomes:** Ideally, organizations should foster diverse viewpoints; however, conformity bias often results in homogenized thinking that stifles creative solutions.
 - **Broader Implications:** A culture dominated by conformity can lead to groupthink, reducing the organization’s agility and capacity to adapt in dynamic markets. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper emphasizes that conformity bias is linked to the human need for belonging and approval, which often causes employees to forgo their independent perspectives in favor of group norms. This dynamic not only limits creative output but also reinforces a culture of flattery that undermines genuine critical analysis. **[Empirical]**
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Implementing targeted training programs, fostering diverse teams, and embedding data-driven decision-making practices can substantially mitigate the influence of cognitive biases on corporate decisions." **[Inferred]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must design and enforce systems that counterbalance intuitive judgment with empirical evidence, thereby reducing reliance on biased decision-making processes.  
-- **Underlying Beliefs & Biases:** The common assumption that intuition alone can drive effective decisions is challenged by evidence suggesting that structured interventions yield more balanced outcomes.  
-- **Expected vs. Actual Outcomes:** Although quick, instinctual decisions are often prized in fast-paced environments, reliance on such methods frequently leads to systematic errors that are preventable with deliberate, data-supported processes.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must design and enforce systems that counterbalance intuitive judgment with empirical evidence, thereby reducing reliance on biased decision-making processes.
+- **Underlying Beliefs & Biases:** The common assumption that intuition alone can drive effective decisions is challenged by evidence suggesting that structured interventions yield more balanced outcomes.
+- **Expected vs. Actual Outcomes:** Although quick, instinctual decisions are often prized in fast-paced environments, reliance on such methods frequently leads to systematic errors that are preventable with deliberate, data-supported processes.
 - **Broader Implications:** Transitioning to an evidence-based management model can not only enhance decision quality but also foster a culture of accountability and sustained innovation across the organization. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The research advocates for the use of bias-awareness training, team diversification, and digital coaching as practical solutions to counteract cognitive distortions. By promoting data-driven decision-making and encouraging open feedback, organizations can significantly improve the objectivity and effectiveness of their strategic choices. **[Inferred]**
 
 ---
@@ -219,9 +219,9 @@ The research advocates for the use of bias-awareness training, team diversificat
 - **Coverage Fit:** High — The paper thoroughly examines the role of cognitive biases in corporate decision-making, addressing both their impact and mitigation strategies.
 - **Bias & Cognitive Modeling Content:** Present — Detailed discussions on confirmation, fundamental attribution, and conformity biases are provided, including their operational mechanisms and effects on managerial decisions.
 - **Clarity of Methods & Outcomes:** Clear — Although primarily theoretical and literature-based, the paper effectively uses illustrative examples to convey the practical implications of cognitive biases.
-- **Areas with No Data:**  
-    - Insight Statement: None  
-    - Executive Decision-Making Context: None  
+- **Areas with No Data:**
+    - Insight Statement: None
+    - Executive Decision-Making Context: None
     - Supporting Context: None
 
 ## You (2025-03-23T07:29:45.458000+00:00)
@@ -487,21 +487,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -514,4 +514,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T07:31:44.365134+00:00)
 
 He, R. (2024). *The impact of cognitive biases on corporate decision-making: Analysis and mitigation strategies*. SHS Web of Conferences, 207, 04007. https://doi.org/10.1051/shsconf/202420704007
-

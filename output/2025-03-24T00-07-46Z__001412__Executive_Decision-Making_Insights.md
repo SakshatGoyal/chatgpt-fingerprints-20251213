@@ -149,13 +149,13 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:**  
-  This study investigates the variability of expert judgments in pharmaceutical R&D decisions. It highlights the impact of incomplete information, individual cognitive biases, and entrepreneurial orientation on go/no-go decisions.  
-- **Core Motivations:**  
-  The research is driven by the need to understand how decision-makers in high-stakes pharmaceutical environments process uncertain information, balance risk versus benefit, and how personal experience and entrepreneurial self-perception influence critical strategic decisions.  
-- **Methodological Clarification:**  
-  Utilizing a web-based questionnaire administered to 52 industry professionals, the study captured sequential go/no-go judgments across four real-world drug development cases. Statistical analyses—including paired t-tests and logistic regressions—were applied to assess judgment variability and the influence of demographic and entrepreneurial factors. Despite a robust design, limitations such as sample size and self-reported biases constrain the generalizability of the results.  
-- **Relevance Assessment:**  
+- **Key Themes:**
+  This study investigates the variability of expert judgments in pharmaceutical R&D decisions. It highlights the impact of incomplete information, individual cognitive biases, and entrepreneurial orientation on go/no-go decisions.
+- **Core Motivations:**
+  The research is driven by the need to understand how decision-makers in high-stakes pharmaceutical environments process uncertain information, balance risk versus benefit, and how personal experience and entrepreneurial self-perception influence critical strategic decisions.
+- **Methodological Clarification:**
+  Utilizing a web-based questionnaire administered to 52 industry professionals, the study captured sequential go/no-go judgments across four real-world drug development cases. Statistical analyses—including paired t-tests and logistic regressions—were applied to assess judgment variability and the influence of demographic and entrepreneurial factors. Despite a robust design, limitations such as sample size and self-reported biases constrain the generalizability of the results.
+- **Relevance Assessment:**
   For contemporary executives, these findings underscore the importance of recognizing inherent judgment variability and cognitive biases in decision-making processes. The research offers valuable insights for refining decision frameworks and incorporating diverse expert inputs to improve strategic outcomes under uncertainty.
 
 ---
@@ -166,61 +166,61 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **1. Variability in Expert Judgments**
 
-**Insight Statement:**  
+**Insight Statement:**
 Despite identical data inputs, expert judgments in pharmaceutical go/no-go decisions exhibit substantial variability, reflecting inherent individual cognitive biases and divergent risk tolerances. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 This variability underscores a strategic challenge: decision coherence is often undermined by subjective interpretations. Executives should consider structured group deliberation and diverse advisory panels to mitigate the risk of overreliance on individual intuition. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Empirical evidence from the study shows that across four drug cases, experts’ responses ranged widely—from definitive "go" to absolute "no-go"—with statistically significant shifts between judgment steps. Variables such as age and work experience influenced decisions in inconsistent ways, suggesting that even among highly qualified professionals, intuitive judgments are markedly diverse. **[Empirical]**
 
 ---
 
 **2. Impact of Entrepreneurial Orientation on Decision-Making**
 
-**Insight Statement:**  
+**Insight Statement:**
 The study indicates that self-perceived entrepreneurial traits, particularly a strong belief in one’s drive and interest, may bias decision-makers toward persisting with drug development projects, even when risk factors suggest halting the project. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Senior leaders should be wary of the potential over-optimism linked with entrepreneurial orientation. While such traits can foster innovation, they might also lead to an underestimation of risks—thus necessitating balanced evaluation frameworks that counteract inherent optimism bias. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Analysis within the paper reveals that respondents who identified “drive” as a critical entrepreneurial competency were statistically less likely to discontinue development in certain cases. This empirical relationship points to a potential bias where entrepreneurial self-perception may skew risk assessments in favor of continuation, even under uncertainty. **[Empirical]**
 
 ---
 
 **3. Cognitive Biases and Heuristic Decision-Making**
 
-**Insight Statement:**  
+**Insight Statement:**
 The findings highlight that cognitive biases—such as anchoring, selective search, and wishful thinking—significantly influence pharmaceutical decision-making, often leading to inconsistent evaluations of risk and benefit. **[Inferred]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 For executives, recognizing these biases is crucial. The influence of heuristic processing may result in overconfidence or misjudgment of uncertainties, suggesting a need for systematic de-biasing techniques and decision support systems that incorporate multiple perspectives. **[Speculative]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper discusses how biases like anchoring (referencing Tversky and Kahneman’s work) and selective perception can distort judgment. The high interindividual variability in go/no-go decisions, even when presented with the same sequential information, is a clear indicator of such heuristic influences affecting strategic outcomes. **[Empirical]**
 
 ---
 
 **4. Methodological Limitations and Implications for Decision Processes**
 
-**Insight Statement:**  
+**Insight Statement:**
 Although the study employs rigorous sequential decision analysis and regression techniques, limitations such as a modest sample size and reliance on self-reported data warrant caution when generalizing the findings to broader strategic contexts. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Executives should integrate these insights with additional qualitative and quantitative inputs. Combining structured judgment analysis with real-time feedback and broader data sources can help counterbalance the limitations inherent in singular decision models, leading to more robust strategic planning under uncertainty. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The methodology involved administering a web-based questionnaire to a diverse group of 52 professionals, and while the statistical techniques applied provide valuable insights, the relatively small sample and potential self-selection biases suggest that the decision models derived here should be seen as exploratory rather than definitive. **[Empirical]**
 
 ---
 
 ## Source Relevance Audit
 
-- **Coverage Fit:** High — The paper provides an in-depth exploration of decision-making dynamics, highlighting the roles of uncertainty, cognitive biases, and entrepreneurial traits in pharmaceutical R&D decisions.  
-- **Bias & Cognitive Modeling Content:** Present — The study explicitly discusses various cognitive biases and heuristic decision-making processes, providing a strong theoretical grounding.  
-- **Clarity of Methods & Outcomes:** Clear — Detailed descriptions of the web-based questionnaire, sequential judgment steps, and statistical analyses offer transparent insights into the empirical findings.  
+- **Coverage Fit:** High — The paper provides an in-depth exploration of decision-making dynamics, highlighting the roles of uncertainty, cognitive biases, and entrepreneurial traits in pharmaceutical R&D decisions.
+- **Bias & Cognitive Modeling Content:** Present — The study explicitly discusses various cognitive biases and heuristic decision-making processes, providing a strong theoretical grounding.
+- **Clarity of Methods & Outcomes:** Clear — Detailed descriptions of the web-based questionnaire, sequential judgment steps, and statistical analyses offer transparent insights into the empirical findings.
 - **Areas with No Data:** None — All sections of the analysis are well-supported by the empirical data presented in the study.
 
 ## You (2025-03-24T00:08:25.769000+00:00)
@@ -486,21 +486,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -513,4 +513,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T00:10:22.604509+00:00)
 
 Cowlrick, I., Hedner, T., Wolf, R., Olausson, M., & Klofsten, M. (2011). Decision-making in the pharmaceutical industry: Analysis of entrepreneurial risk and attitude using uncertain information. *R&D Management, 41*(4), 321–336. https://doi.org/10.1111/j.1467-9310.2011.00649.x
-

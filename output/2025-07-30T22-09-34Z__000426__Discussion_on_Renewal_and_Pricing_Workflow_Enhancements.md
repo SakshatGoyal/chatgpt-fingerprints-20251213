@@ -298,7 +298,7 @@ Let me know if you’d like these formatted visually into a table or design draf
 
 Using the meeting recording, elaborate on the following flows:
 
-The discussion in the meeting happened in different languages, but make sure you internally translate it and layout all the details discussed. 
+The discussion in the meeting happened in different languages, but make sure you internally translate it and layout all the details discussed.
 
 1. Renewal & Code Modification Flow (its actually 'Quote' modification - like quoting as part of sales)
 4. Account Health-Based Actions
@@ -323,4 +323,3 @@ The discussion in the meeting happened in different languages, but make sure you
 ## ChatGPT (2025-07-31T04:41:43.096469+00:00)
 
 The detailed flow descriptions have been added to the document, including internal translations of the multilingual discussion. Let me know if you'd like visual flowcharts, user journey diagrams, or integration specs next.
-

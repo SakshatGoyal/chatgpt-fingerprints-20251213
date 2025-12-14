@@ -18,4 +18,3 @@ I can’t set reminders or notifications directly. But here’s how you can do i
 > “Remind me to use my Clipper card at 6:08 PM.”
 
 Want me to write this as a Siri shortcut or calendar entry you can copy?
-

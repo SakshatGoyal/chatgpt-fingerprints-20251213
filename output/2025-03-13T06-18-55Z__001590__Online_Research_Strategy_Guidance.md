@@ -2,11 +2,11 @@
 
 ## You (2025-03-13T06:18:55.025000+00:00)
 
-Hey Andrew, I want you to create a prompt for 4o to do some online research. 
+Hey Andrew, I want you to create a prompt for 4o to do some online research.
 
-I was given this task from my boss. I need the model to do a deep search online and help me with step 2, based on the instructions of step 1. So i really need you to clearly step by step think through how you might frame the instructions for the other gpt. 
+I was given this task from my boss. I need the model to do a deep search online and help me with step 2, based on the instructions of step 1. So i really need you to clearly step by step think through how you might frame the instructions for the other gpt.
 
-My objective is to collect hyperlinks for as many resources as part of step 2. the resources should align with the instructions shared by my boss about the directive of this project. 
+My objective is to collect hyperlinks for as many resources as part of step 2. the resources should align with the instructions shared by my boss about the directive of this project.
 
 Recommended Sources to Prioritize
 ✅ Academic Journals: For theoretical frameworks (e.g., Strategic Management Journal, Harvard Business Review, MIT Sloan Management Review).
@@ -22,17 +22,17 @@ Create search queries that combine:
 ✅ Strategy Concepts (e.g., “differentiation strategy,” “cost leadership,” “business-level strategy”)
 ✅ AI-Related Terms (e.g., “AI in decision-making,” “data-driven strategy,” “predictive analytics”)
 
-Here're all the instructions i received for your context. 
+Here're all the instructions i received for your context.
 
-## **Step 1: Decision Scenarios for Business-Level Strategy**  
-The key challenge here is ensuring each scenario is distinct while remaining practical for Business-Level Strategy. I've emphasized:  
-✅ Clear separation from **Crisis Adaptation** scenarios  
-✅ Deep dives into **subcategories**, **AI opportunities**, and **decision challenges**  
-✅ Relevant **frameworks/models** to ground the insights in established thinking  
+## **Step 1: Decision Scenarios for Business-Level Strategy**
+The key challenge here is ensuring each scenario is distinct while remaining practical for Business-Level Strategy. I've emphasized:
+✅ Clear separation from **Crisis Adaptation** scenarios
+✅ Deep dives into **subcategories**, **AI opportunities**, and **decision challenges**
+✅ Relevant **frameworks/models** to ground the insights in established thinking
 
 ---
 
-### **Expanded Table of Decision Scenarios**  
+### **Expanded Table of Decision Scenarios**
 | **Scenario**             | **Key Questions to Investigate** | **Subcategories** | **AI-Relevant Aspects** | **Common Pain Points** | **Frameworks/Models** |
 |--------------------------|-----------------------------------|---------------------|---------------------------|--------------------------|--------------------------|
 | **Market Expansion**       | How do leaders assess risk? What data sources are most critical? How do they validate demand in uncertain markets? | - **New Geographic Regions** (e.g., international expansion)<br>- **Digital Market Expansion** (e.g., e-commerce penetration)<br>- **Strategic Partnerships** (e.g., alliances for joint market entry) | - **Predictive analytics** for demand forecasting<br>- **NLP tools** for analyzing customer sentiment in new markets<br>- AI for identifying ideal partnership candidates based on alignment criteria | - **Risk miscalculation** (e.g., misjudging cultural or regulatory nuances)<br>- **Timing uncertainty** (e.g., launching too early or too late) | - **Porter’s Five Forces** for competitive analysis<br>- **PESTEL Analysis** for understanding external factors<br>- **CAGE Framework** for assessing cultural, administrative, geographic, and economic distance |
@@ -45,9 +45,9 @@ The key challenge here is ensuring each scenario is distinct while remaining pra
 ---
 
 ## **Step 2: Expanded Search Strategy for Effective Data Collection**
-The goal here is to equip your team with powerful tactics to efficiently identify credible, insight-rich content.  
+The goal here is to equip your team with powerful tactics to efficiently identify credible, insight-rich content.
 
-### **Expanded Source List**  
+### **Expanded Source List**
 | **Source Type**          | **Purpose**                                   | **Recommended Journals/Publishers** |
 |--------------------------|------------------------------------------------|--------------------------------------|
 | **Academic Journals**      | Foundational theories and tested frameworks | - *Strategic Management Journal*<br>- *California Management Review*<br>- *Journal of Business Strategy* |
@@ -59,28 +59,28 @@ The goal here is to equip your team with powerful tactics to efficiently identif
 ---
 
 ### **Advanced Search Strategy**
-To improve search precision:  
-✅ Use **Boolean Operators** for precision (e.g., `AND`, `OR`, `NOT`)  
-✅ Combine **scenario keywords** with **AI-related terms** for targeted results  
+To improve search precision:
+✅ Use **Boolean Operators** for precision (e.g., `AND`, `OR`, `NOT`)
+✅ Combine **scenario keywords** with **AI-related terms** for targeted results
 
-**Example Search Queries:**  
-- *(“Resource allocation” AND “budget strategy” AND “AI optimization”)*  
-- *(“Competitive response” AND “machine learning” AND “market shifts”)*  
+**Example Search Queries:**
+- *(“Resource allocation” AND “budget strategy” AND “AI optimization”)*
+- *(“Competitive response” AND “machine learning” AND “market shifts”)*
 
 ---
 
 ### **Spotting High-Value Resources**
-Encourage the team to prioritize content that includes:  
-✅ **Visual frameworks** that simplify complex decision models  
-✅ **Comparative studies** that contrast multiple strategies  
-✅ **Case studies** demonstrating real-world impact  
+Encourage the team to prioritize content that includes:
+✅ **Visual frameworks** that simplify complex decision models
+✅ **Comparative studies** that contrast multiple strategies
+✅ **Case studies** demonstrating real-world impact
 ✅ **Practical recommendations** that translate theory into actionable guidance
 
 ## ChatGPT (2025-03-13T06:18:56.006799+00:00)
 
 Let's begin by clearly defining your goals and framing thoughtful questions to optimize your prompt for GPT-4o.
 
-**Clarifying Your Objective:**  
+**Clarifying Your Objective:**
 You're looking for GPT-4o to perform a deep and targeted online search to collect credible hyperlinks relevant to Step 2 (**Expanded Search Strategy**). The sources should align closely with your boss’s provided instructions, prioritizing recommended journals, reports, case studies, and executive insights.
 
 To ensure accuracy, first consider these clarifying questions:
@@ -99,7 +99,7 @@ To ensure accuracy, first consider these clarifying questions:
 
 ---
 
-**Perspective-Expanding Questions:**  
+**Perspective-Expanding Questions:**
 - Are there specific companies, industries, or regions you're particularly interested in, or should the search remain broad?
 - Do you prefer sources that explicitly address AI applications within strategy or broader sources discussing strategic decision-making where AI might be implicitly useful?
 - Should GPT-4o highlight specific frameworks or decision-making models explicitly mentioned by your boss, or include alternative frameworks if deemed valuable?
@@ -110,39 +110,39 @@ Once you address these considerations, here's a structured, optimized prompt rea
 
 ---
 
-## **Structured Prompt for GPT-4o: Expanded Search Strategy**  
+## **Structured Prompt for GPT-4o: Expanded Search Strategy**
 
-### **Goal & Core Objective:**  
+### **Goal & Core Objective:**
 Conduct an extensive and targeted online search to collect credible and high-value hyperlinks aligned explicitly with Step 2 (**Expanded Search Strategy**) as per the provided directive. The search should focus on enriching insights related to strategic decision scenarios, emphasizing academic rigor, industry relevance, and practical applicability.
 
 ---
 
-### **Step-by-Step Reasoning:**  
-1. **Initial Preparation:**  
+### **Step-by-Step Reasoning:**
+1. **Initial Preparation:**
    - Thoroughly review provided instructions, scenarios, and recommended sources.
    - Understand the nuances of each scenario (Market Expansion, Product & Service Positioning, Resource Allocation, Competitive Response, Channel & Distribution Strategy, Mergers & Acquisitions).
 
-2. **Craft Search Queries:**  
+2. **Craft Search Queries:**
    - Formulate targeted search strings leveraging provided keywords. Examples:
      - *(“Market expansion” AND “predictive analytics” AND “Strategic Management Journal” OR "McKinsey report")*
      - *(“Competitive response” AND “AI competitor tracking” AND “industry white paper” OR "BCG report")*
    - Utilize Boolean operators (`AND`, `OR`, `NOT`) to enhance precision and reduce irrelevant results.
 
-3. **Execute Searches:**  
+3. **Execute Searches:**
    - Prioritize recommended sources (Academic Journals, Industry Reports, Case Studies, Executive Memoirs, Conference Proceedings).
    - Systematically execute searches for each scenario, ensuring coverage across decision contexts, AI relevance, and strategy frameworks.
 
-4. **Resource Selection:**  
+4. **Resource Selection:**
    - Choose hyperlinks explicitly meeting the criteria: theoretical depth, real-world application, recent trends, clear connection to strategic AI applications, or proven frameworks.
    - Prioritize resources containing comparative analyses, visual decision models, practical recommendations, or demonstrated business impact.
 
-5. **Organize & Justify:**  
+5. **Organize & Justify:**
    - Clearly organize hyperlinks under each decision scenario (e.g., Market Expansion, Product & Service Positioning, etc.).
    - Provide concise, one-sentence justifications for each hyperlink’s relevance to your boss’s outlined criteria.
 
 ---
 
-### **Output Format:**  
+### **Output Format:**
 Present findings in a structured format like below:
 
 ```markdown
@@ -158,24 +158,24 @@ Repeat this structure for all scenarios (Resource Allocation, Competitive Respon
 
 ---
 
-### **Constraints & Assumptions:**  
+### **Constraints & Assumptions:**
 - Each scenario should include at least **5–10 highly credible** hyperlinks.
 - Ensure each source aligns explicitly with recommended journals, publishers, and examples provided (McKinsey, BCG, Strategic Management Journal, etc.).
 - Assume availability of recent publications (within last 5 years), but do not exclude classic seminal papers when significantly influential.
 
 ---
 
-### **Context & Background:**  
+### **Context & Background:**
 You're gathering hyperlinks specifically to enhance a business-level strategic decision-making project focusing on AI-enhanced strategy formulation. The final list will directly support senior executive decision-making.
 
 ---
 
-### **Persona & Role Assignment:**  
+### **Persona & Role Assignment:**
 Approach the task as an **expert strategic research analyst** specializing in strategic management and AI applications, focusing on efficiency, precision, and executive-level insightfulness.
 
 ---
 
-### **Encouraging Stepwise Thinking:**  
+### **Encouraging Stepwise Thinking:**
 Systematically address each decision scenario, critically evaluate source credibility, explicitly match each hyperlink with specified search strategies, and maintain clarity and conciseness throughout.
 
 ---
@@ -185,17 +185,17 @@ Once you provide clarifications or additional considerations, we can further ref
 ## You (2025-03-13T06:31:34.449000+00:00)
 
 1. Scope precision:
-- yes the focus is equal across all provided scenarios. it has to be a very thorough, comprehensive search. 
-- focus on all the listed recommended sources. 
+- yes the focus is equal across all provided scenarios. it has to be a very thorough, comprehensive search.
+- focus on all the listed recommended sources.
 
 2. Depth and Relevance:
-- prioritize recent publications for AI related searches, but when it comes to decision making, while i prefer recent searches I don't want to completely exclude heavily cited research as well. Sometimes, some thought models are so ubiquitous that they have been relevant for decades. 
-- prioritize real world applicability. 
+- prioritize recent publications for AI related searches, but when it comes to decision making, while i prefer recent searches I don't want to completely exclude heavily cited research as well. Sometimes, some thought models are so ubiquitous that they have been relevant for decades.
+- prioritize real world applicability.
 
 3. quantity and quality
-- i want as many resources as possible, but they have to really be relevant to the questions i shared within the context of step 1. 
+- i want as many resources as possible, but they have to really be relevant to the questions i shared within the context of step 1.
 
-- i think a good way is to make sure the output is grouped in categories, and give a brief justification for why the different resources belong to a certain category. 
+- i think a good way is to make sure the output is grouped in categories, and give a brief justification for why the different resources belong to a certain category.
 
 here's a list of industries and verticals i want to focus on
 
@@ -214,7 +214,7 @@ Product-Led Growth (PLG) Teams	Found primarily in SaaS and tech environments, th
 Global Expansion Teams	Focus on market entry in diverse geographic regions. Excellent for understanding how businesses tailor strategies based on regulatory environments, cultural differences, and economic risks.
 
 
-- i don't have a preference for narrowing down my search to only papers that specify AI. AI is one part of my search. 
+- i don't have a preference for narrowing down my search to only papers that specify AI. AI is one part of my search.
 
 Here're a list of questions I'm trying to answer (in general)
 
@@ -328,11 +328,8 @@ And I want to answer these questions across three levels of hierarchy. : C-level
 
 Here's a structured, optimized prompt for GPT-4o that clearly aligns with your objectives and captures the complexity of your task:
 
-## ChatGPT (2025-03-13T06:31:39.915711+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"step2_research_prompt\",\"type\":\"document\",\"content\":\"### **Prompt for GPT-4o: Structured Online Research for Strategic Decision-Making Insights**\\n\\n**Goal & Core Objective:**  \\nConduct a comprehensive online search to identify and collect highly relevant hyperlinks aligned explicitly with Step 2 (Expanded Search Strategy). Resources must cover the strategic decision scenarios, frameworks, AI relevance, and decision-making challenges detailed by my boss. Prioritize practical applicability, industry specificity, and theoretical grounding, ensuring thorough coverage across recommended journals, industry reports, executive memoirs, AI-focused research, and real-world case studies.\\n\\n### **Step-by-Step Reasoning:**\\n\\n1. **Keyword Construction:**  \\n   Combine provided search keywords (e.g., \\\"market expansion,\\\" \\\"business-level strategy,\\\" \\\"predictive analytics,\\\" \\\"AI-driven competitor tracking\\\") with:\\n   - Decision contexts (e.g., \\\"resource allocation,\\\" \\\"competitive response\\\").\\n   - Industry-specific terms (e.g., Banking, Healthcare, SaaS).\\n   - Source specificity (journals like *Strategic Management Journal*, publishers like McKinsey).\\n\\n2. **Resource Prioritization:**\\n   - Academic Journals (Strategic Management Journal, Harvard Business Review)\\n   - Industry Reports & White Papers (McKinsey, BCG, Gartner, Forrester)\\n   - Case Studies (industry-specific decision-making examples)\\n   - Executive Memoirs & Interviews (e.g., \\\"Hit Refresh\\\" by Satya Nadella)\\n   - Conference Proceedings (NeurIPS, AAai, industry-specific conferences)\\n\\n3. **Vertical-Specific Searches:**\\n   Address vertical-specific relevance clearly outlined:\\n   - Banking & Financial Services\\n   - Healthcare & Pharmaceuticals\\n   - Manufacturing & Supply Chain\\n   - Digital Transformation Teams, etc.\\n\\n   Ensure alignment with the specific decision-making styles, frameworks, and AI tools applicable to each vertical.\\n\\n3. **Quality Filtering:**\\n   Select only resources that provide:\\n   - Real-world applicability and actionable recommendations\\n   - Demonstrated practical impact through case studies or industry examples\\n   - Recent content (primarily last 3–5 years) but include foundational heavily-cited works where relevant.\\n\\n4. **Documentation & Justification:**\\n   Clearly group and organize the hyperlinks according to decision scenarios and industry verticals. Provide a concise rationale (1–2 sentences) for why each resource was selected, highlighting its practical application, theoretical significance, or demonstrated impact.\\n\\n### **Output Format:**\\nOrganize clearly as follows:\\n\\n```markdown\\n## Decision Scenario: Market Expansion\\n\\n### Banking & Financial Services\\n- [Title & Hyperlink](URL): Brief justification highlighting alignment with risk assessment or predictive analytics.\\n\\n### Healthcare & Pharmaceuticals\\n- [Hyperlink](URL): Concise justification.\\n\\n(Repeat this structure across all decision scenarios and verticals.)\\n\\n### **Cross-Scenario or General Insights (if applicable)**\\n- [Hyperlink](URL): Justification for its broad applicability or foundational relevance.\\n\\n### **Constraints & Assumptions:**\\n- Prioritize recent publications (within 5 years), but include influential older resources if highly cited and foundational.\\n- Focus on real-world applicability and actionable insights.\\n- Include substantial theoretical frameworks only if widely cited or practically influential.\\n\\n### **Context & Background:**\\nThis structured search aims to address comprehensive executive decision-making challenges, strategies for leveraging AI, practical frameworks, and real-world application examples, precisely aligned with provided instructions and research scope.\\n\\n### **Persona & Role Assignment:**\\nYou are a meticulous and thorough research analyst specialized in business strategy, AI integration, and decision-making frameworks, ensuring clarity, relevance, and depth in resource selection.\"}"}
 
 ## ChatGPT (2025-03-13T06:32:31.642309+00:00)
 
 Please review the prompt carefully. Let me know if there's anything you would like to refine or adjust further!
-

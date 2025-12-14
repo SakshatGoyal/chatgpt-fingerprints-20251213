@@ -57,7 +57,7 @@ Execution Style: Clear, accessible language. Encourage hands-on experimentation 
 
 Below is a practical, three‑tier curriculum designed **for a non‑technical designer** who wants to turn Figma prototypes into working front‑end code with the help of Model/AI co‑pilots (e.g., Codeium/Windsurf, Gemini CLI/Code Assist, GitHub Copilot). It focuses on the **minimum** skills and tools you need at each step, with hands‑on prompts, guardrails, and diagnostics.
 
-> **Note on “MCP”:** In this guide, “co‑pilots” refers to coding assistants like **Codeium/Windsurf**, **Gemini (CLI / Code Assist)**, and **GitHub Copilot**. Separately, Figma now offers an **MCP server** that lets AI agents pull design context directly (advanced + requires paid Figma seats). Where relevant, this is flagged and kept optional. citeturn3view0
+> **Note on “MCP”:** In this guide, “co‑pilots” refers to coding assistants like **Codeium/Windsurf**, **Gemini (CLI / Code Assist)**, and **GitHub Copilot**. Separately, Figma now offers an **MCP server** that lets AI agents pull design context directly (advanced + requires paid Figma seats). Where relevant, this is flagged and kept optional.
 
 ---
 
@@ -86,29 +86,29 @@ Below is a practical, three‑tier curriculum designed **for a non‑technical d
 - **Prompting:** Telling the AI what to build and how (constraints), not just “make a site.”
 
 ### 3) Required tools & setup (free‑first)
-- **Visual Studio Code** (or VSCodium).  
-- **Live preview**: VS Code “**Live Server**” extension (one‑click local preview). citeturn1search1  
+- **Visual Studio Code** (or VSCodium).
+- **Live preview**: VS Code “**Live Server**” extension (one‑click local preview).
 - **An AI co‑pilot** (choose one):
-  - **GitHub Copilot (Free plan available with monthly limits)** in VS Code. citeturn0search1turn0search11  
-  - **Windsurf / Codeium VS Code extension (free for individuals)**. citeturn5search2  
-  - **Gemini Code Assist (VS Code extension) or Gemini CLI** (free/individual options available; quotas apply). citeturn7search13turn7search1
-- **Figma → Dev Mode (viewer/inspector)** to see sizes, fonts, colors, and export assets. citeturn0search3
+  - **GitHub Copilot (Free plan available with monthly limits)** in VS Code.
+  - **Windsurf / Codeium VS Code extension (free for individuals)**.
+  - **Gemini Code Assist (VS Code extension) or Gemini CLI** (free/individual options available; quotas apply).
+- **Figma → Dev Mode (viewer/inspector)** to see sizes, fonts, colors, and export assets.
 
-> Optional installs now (you’ll certainly need later): **Node.js LTS** and **Git**. If you install Node now, prefer the LTS release. citeturn1search2turn1search4
+> Optional installs now (you’ll certainly need later): **Node.js LTS** and **Git**. If you install Node now, prefer the LTS release.
 
 **Setup checklist**
-- Install VS Code → add **Live Server**. citeturn1search1  
-- Install one AI co‑pilot (Copilot / Codeium / Gemini extension). citeturn0search1turn5search2turn7search13  
-- In Figma, open your file → **Dev Mode** → identify a single frame to replicate (typography, spacing, colors, images). citeturn0search3  
+- Install VS Code → add **Live Server**.
+- Install one AI co‑pilot (Copilot / Codeium / Gemini extension).
+- In Figma, open your file → **Dev Mode** → identify a single frame to replicate (typography, spacing, colors, images).
 - Export any needed images/SVGs from that frame.
 
 ### 4) Practical exercises (with prompts)
 
 **Exercise A — Your first hero section (static)**
-1) Create a folder `landing/` → add `index.html` and `style.css`.  
-2) Start **Live Server** to preview. citeturn1search1  
-3) In Figma Dev Mode, note: font family, sizes, color hex codes, spacing, and images for the hero. citeturn0search3  
-4) **Prompt (Copilot/Codeium/Gemini in VS Code):**  
+1) Create a folder `landing/` → add `index.html` and `style.css`.
+2) Start **Live Server** to preview.
+3) In Figma Dev Mode, note: font family, sizes, color hex codes, spacing, and images for the hero.
+4) **Prompt (Copilot/Codeium/Gemini in VS Code):**
    > *“Generate a minimal, accessible **hero section** for `index.html`. Put **all styles in `style.css`**, no frameworks. Use these tokens from Figma: Heading font: Inter 48/56, Body: Inter 16/24, Primary color: #4F46E5, Gray text: #6B7280, Spacing scale: 8px steps. Include a call‑to‑action button and a placeholder image at `assets/hero.png`. Make it readable on mobile and desktop. Explain how to link `style.css` and where to place the image.”*
 5) Paste generated HTML/CSS, ensure `<link rel="stylesheet" href="style.css">` is present, save, and refresh.
 
@@ -116,14 +116,14 @@ Below is a practical, three‑tier curriculum designed **for a non‑technical d
 - Same flow, new frame. Prompt for a two‑column layout with **CSS Grid** and a mobile single column.
 
 **Exercise C — Swap colors & spacing**
-- Prompt:  
+- Prompt:
   > *“Refactor `style.css` to switch the primary color to `#0EA5E9` and increase section padding by 8px, keeping everything else unchanged.”*
 
 ### 5) Common pitfalls & quick fixes
-- **Blank white page?** Start/refresh Live Server; ensure you opened the **folder**, not just files. citeturn1search1  
-- **Styles not applying?** Check the `<link>` tag and file name/path; save both files.  
-- **Images not showing (404):** Put assets in `assets/` and reference with a *relative* path like `src="assets/hero.png"`.  
-- **Fonts wrong:** The web needs a web‑safe font or a web font import; ask the AI to add a Google Fonts import for your family.  
+- **Blank white page?** Start/refresh Live Server; ensure you opened the **folder**, not just files.
+- **Styles not applying?** Check the `<link>` tag and file name/path; save both files.
+- **Images not showing (404):** Put assets in `assets/` and reference with a *relative* path like `src="assets/hero.png"`.
+- **Fonts wrong:** The web needs a web‑safe font or a web font import; ask the AI to add a Google Fonts import for your family.
 - **Layout broken on mobile:** Ask the AI to add a **mobile‑first** media query and test by narrowing the browser.
 
 ---
@@ -138,7 +138,7 @@ Below is a practical, three‑tier curriculum designed **for a non‑technical d
 - Make small, safe edits to AI‑generated code.
 
 ### 2) Key concepts (plain language)
-- **Project structure:**  
+- **Project structure:**
   ```
   /project
     index.html
@@ -155,7 +155,7 @@ Below is a practical, three‑tier curriculum designed **for a non‑technical d
 - **Constrain scope:** “**Only** HTML + CSS. No frameworks. Put styles in `/css/style.css`.”
 - **Be explicit about responsiveness:** “Mobile‑first, breakpoint at 768px; stack to single column below that.”
 - **Ask for comments:** “Comment the CSS sections and explain the layout decisions in plain language.”
-- **Provide inputs:** Paste exact **colors/spacing** from Figma Dev Mode and link to any exported SVGs. citeturn0search3
+- **Provide inputs:** Paste exact **colors/spacing** from Figma Dev Mode and link to any exported SVGs.
 
 **Prompt examples**
 - *“Given `index.html` and `/css/style.css`, turn this hero into a **3‑breakpoint responsive** layout (≤480px, 481–1024px, ≥1025px). Keep typography consistent with: H1 48/56, body 16/24, color #111827 / #6B7280. Explain your media queries.”*
@@ -204,27 +204,27 @@ Below is a practical, three‑tier curriculum designed **for a non‑technical d
 - **Linter/formatter:** Ask the co‑pilot to add **Prettier** config and keep to it for consistent output.
 
 ### 3) Integrating Figma plugins, variables, and design tokens
-- **Tokens in Figma:** Use **Tokens Studio** (plugin) to manage design tokens in Figma; it can mirror tokens as JSON you can map to CSS variables. citeturn0search4turn0search14
-- **Dev Mode to code:** Use Figma Dev Mode to inspect variables, spacing, and component properties for precise specs. citeturn0search3
-- **(Optional / paid plans)** **Figma MCP server**: lets an AI client (e.g., Gemini CLI, VS Code clients) pull design context (variables, components, node selection) directly. Requires a **Dev or Full seat on a paid plan**; available via local or remote server and can be connected to supported clients (VS Code, Cursor, etc.). citeturn3view0
-  - Example: **Gemini CLI + Figma** — install the **Figma Gemini CLI extension** then authenticate; the co‑pilot can reference Figma frames via links. citeturn6view0
+- **Tokens in Figma:** Use **Tokens Studio** (plugin) to manage design tokens in Figma; it can mirror tokens as JSON you can map to CSS variables.
+- **Dev Mode to code:** Use Figma Dev Mode to inspect variables, spacing, and component properties for precise specs.
+- **(Optional / paid plans)** **Figma MCP server**: lets an AI client (e.g., Gemini CLI, VS Code clients) pull design context (variables, components, node selection) directly. Requires a **Dev or Full seat on a paid plan**; available via local or remote server and can be connected to supported clients (VS Code, Cursor, etc.).
+  - Example: **Gemini CLI + Figma** — install the **Figma Gemini CLI extension** then authenticate; the co‑pilot can reference Figma frames via links.
 
 ### 4) Basic Git (pull, commit, push) + deploy (free)
 - **Why Git?** Safe checkpoints and easy rollbacks.
-- **Must‑know commands:** `git add`, `git commit -m "msg"`, `git push origin main`. citeturn4search6turn4search4
-- **Publish a static prototype** with **GitHub Pages** (free): enable Pages on your repo and serve from the root or `/docs`. citeturn4search2turn4search1
+- **Must‑know commands:** `git add`, `git commit -m "msg"`, `git push origin main`.
+- **Publish a static prototype** with **GitHub Pages** (free): enable Pages on your repo and serve from the root or `/docs`.
 
 **Exercise H — Add tokens to your CSS**
-- Export or write minimal design tokens (colors, spacing scale, font sizes).  
-- Prompt:  
+- Export or write minimal design tokens (colors, spacing scale, font sizes).
+- Prompt:
   > *“Create a `:root` block of CSS variables from this tokens JSON and refactor `style.css` to use them. Add comments and keep the visual appearance unchanged.”*
 
 **Exercise I — (Optional) Figma MCP server → Gemini CLI**
-- Install **Gemini CLI** and then the **Figma Gemini CLI extension**; authenticate; paste a Figma frame link; ask:  
-  > *“Generate semantic HTML/CSS for this selected Figma frame. Use my CSS variables; explain any mismatches. Return exactly two files: `index.html` and `css/style.css`.”* citeturn7search2turn7search0turn6view0
+- Install **Gemini CLI** and then the **Figma Gemini CLI extension**; authenticate; paste a Figma frame link; ask:
+  > *“Generate semantic HTML/CSS for this selected Figma frame. Use my CSS variables; explain any mismatches. Return exactly two files: `index.html` and `css/style.css`.”*
 
 **Exercise J — Git & deploy**
-- Initialize a repo, commit your files, push to GitHub, enable GitHub Pages, and share a public URL. citeturn4search2
+- Initialize a repo, commit your files, push to GitHub, enable GitHub Pages, and share a public URL.
 
 ### 5) Deep‑dive diagnostics (why the UI isn’t rendering)
 - **Blank page with JS present:** A JavaScript error halted rendering—open Console; fix the first red error.
@@ -239,11 +239,11 @@ Below is a practical, three‑tier curriculum designed **for a non‑technical d
 
 **Beginner — Must‑know**
 - Run a local preview; create/edit `index.html` + `style.css`.
-- Export assets from Figma Dev Mode and reference with correct paths. citeturn0search3
+- Export assets from Figma Dev Mode and reference with correct paths.
 - Prompt an AI to produce a small, focused section and iterate.
 
 **Beginner — Nice‑to‑have**
-- Node.js LTS installed for future tooling. citeturn1search2
+- Node.js LTS installed for future tooling.
 
 **Intermediate — Must‑know**
 - Semantic HTML, Flexbox/Grid basics, media queries.
@@ -253,32 +253,32 @@ Below is a practical, three‑tier curriculum designed **for a non‑technical d
 - Simple vanilla JS for interactivity; CSS variables.
 
 **Advanced — Must‑know**
-- Git add/commit/push; publish via GitHub Pages. citeturn4search6turn4search2
+- Git add/commit/push; publish via GitHub Pages.
 - Use tokens or a style guide to steer AI output.
 
 **Advanced — Nice‑to‑have**
-- **Figma MCP server** with supported AI clients (orgs on paid plans). citeturn3view0
-- Gemini CLI extensions workflow (e.g., Figma extension) to pull design context. citeturn6view0
+- **Figma MCP server** with supported AI clients (orgs on paid plans).
+- Gemini CLI extensions workflow (e.g., Figma extension) to pull design context.
 
 ---
 
 ## Limitations & guardrails (be aware)
 
 - **AI can hallucinate**: Class names, assets, or files that don’t exist. Always check file paths and the **actual folder** contents.
-- **Missing context from Figma**: Without MCP integration, AIs don’t “see” your file; you must paste measurements/tokens or share images/specs manually. citeturn0search3
-- **Paid requirements**: Figma **MCP server** and **Figma for VS Code** require specific paid seats/plans—treat as optional extras for org teams. citeturn3view0turn1search0
-- **Security** (advanced): Be cautious with any co‑pilot that can execute commands via CLI; keep tools updated and avoid running untrusted instructions. (Gemini CLI is actively evolving—keep to patched versions and review commands.) citeturn7news20
+- **Missing context from Figma**: Without MCP integration, AIs don’t “see” your file; you must paste measurements/tokens or share images/specs manually.
+- **Paid requirements**: Figma **MCP server** and **Figma for VS Code** require specific paid seats/plans—treat as optional extras for org teams.
+- **Security** (advanced): Be cautious with any co‑pilot that can execute commands via CLI; keep tools updated and avoid running untrusted instructions. (Gemini CLI is actively evolving—keep to patched versions and review commands.)
 
 ---
 
 ## Your first 2–3 weeks (suggested path)
 
-1) **Week 1 (Beginner)**  
+1) **Week 1 (Beginner)**
    - Tools + Hello World hero section + fix 3 common pitfalls.
-2) **Week 2 (Intermediate)**  
+2) **Week 2 (Intermediate)**
    - Add responsiveness, mobile nav JS, and refactor to CSS variables.
-3) **Week 3 (Advanced)**  
-   - Introduce tokens from Figma/Tokens Studio; version with Git; publish on GitHub Pages; (optional) try Gemini CLI + Figma MCP server if your plan allows. citeturn0search4turn4search2turn3view0
+3) **Week 3 (Advanced)**
+   - Introduce tokens from Figma/Tokens Studio; version with Git; publish on GitHub Pages; (optional) try Gemini CLI + Figma MCP server if your plan allows.
 
 ---
 
@@ -298,19 +298,18 @@ Below is a practical, three‑tier curriculum designed **for a non‑technical d
 ---
 
 ### References (for when you want the official docs)
-- **Figma Dev Mode** (inspect & handoff). citeturn0search3  
-- **Figma MCP server** (open beta; paid seats; local/remote setup; supported clients). citeturn3view0  
-- **Figma ↔ VS Code** extension (availability/seat requirements). citeturn1search0  
-- **Gemini CLI / extensions** (open‑source CLI; extension install commands). citeturn7search2turn7search0  
-- **Gemini Code Assist (VS Code)** setup. citeturn7search13  
-- **Git essentials** (add/commit/push). citeturn4search6  
-- **GitHub Pages** quickstart (free static hosting). citeturn4search2turn4search1  
-- **Live Server** (VS Code preview). citeturn1search1  
-- **Tokens Studio** (design tokens in Figma). citeturn0search4  
-- **GitHub Copilot in VS Code** (includes info on a free plan with limits). citeturn0search1
+- **Figma Dev Mode** (inspect & handoff).
+- **Figma MCP server** (open beta; paid seats; local/remote setup; supported clients).
+- **Figma ↔ VS Code** extension (availability/seat requirements).
+- **Gemini CLI / extensions** (open‑source CLI; extension install commands).
+- **Gemini Code Assist (VS Code)** setup.
+- **Git essentials** (add/commit/push).
+- **GitHub Pages** quickstart (free static hosting).
+- **Live Server** (VS Code preview).
+- **Tokens Studio** (design tokens in Figma).
+- **GitHub Copilot in VS Code** (includes info on a free plan with limits).
 
 ---
 
 ### Final advice
 Start **small and specific** (one section, one breakpoint). Give the AI **clear constraints**, paste the exact values from Figma, and keep a **tight feedback loop**: preview → inspect → refine. As you gain confidence, graduate to tokens, Git, and (if your team has the seats) Figma’s MCP server for richer context.
-

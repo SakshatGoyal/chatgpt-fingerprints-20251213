@@ -60,7 +60,6 @@ Start with the first 2 modules in the file.
 
 ## ChatGPT (2025-04-09T21:07:12.650280+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 12 - C3-I6,Cognitive Fog,Capability Frame,Unknown,Unknown,Bold vs. Safe,Overstretched Org,Tech Mirage  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 12 - C3-I6,Cognitive Fog,Capability Frame,Unknown,Unknown,Bold vs. Safe,Overstretched Org,Tech Mirage
 CATEGORICAL MODULE 5 - C3-I1,Value Clash,Capability Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Execution Lag,Capability Gap
-

@@ -158,60 +158,60 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Groupthink
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 Organizations often suppress dissenting voices by overly relying on consensus, which limits critical debate and weakens strategic decisions. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** The drive for harmony leads to insufficient challenge of prevailing views, ultimately reducing the quality of major strategic decisions.  
-- **Underlying Beliefs & Biases:** There is an implicit assumption that alignment and consensus inherently signal sound strategy, even when crucial insights from diverse domains are overlooked.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** The drive for harmony leads to insufficient challenge of prevailing views, ultimately reducing the quality of major strategic decisions.
+- **Underlying Beliefs & Biases:** There is an implicit assumption that alignment and consensus inherently signal sound strategy, even when crucial insights from diverse domains are overlooked.
 - **Expected vs. Actual Outcomes:** While uniformity is expected to streamline decision-making, in practice, it results in decisions that are 2.3 times less likely to succeed when robust debate is missing. **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The paper details how groupthink emerges when executives speak only within their own areas of expertise—as illustrated by the global agriculture company example—and cites research demonstrating that decisions improved significantly when high-quality debate was fostered. **[Empirical]**
 
 ---
 
 ### 2. Confirmation Bias and Overoptimism
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 A tendency to search for validating evidence and maintain overoptimistic views leads executives to underestimate risks and overly commit to initiatives without adequate scrutiny. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** The challenge lies in the predisposition to seek information that confirms pre-existing hypotheses, which distorts objective risk assessment.  
-- **Underlying Beliefs & Biases:** There is a prevalent belief that initial positive signals justify further investment, often ignoring historical evidence of similar projects failing.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** The challenge lies in the predisposition to seek information that confirms pre-existing hypotheses, which distorts objective risk assessment.
+- **Underlying Beliefs & Biases:** There is a prevalent belief that initial positive signals justify further investment, often ignoring historical evidence of similar projects failing.
 - **Expected vs. Actual Outcomes:** Despite expectations of smooth project execution, historical cases like the Sydney Opera House reveal significant delays and cost overruns, underscoring the gap between anticipated and actual outcomes. **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The article advocates for corrective measures such as conducting a premortem and taking an outside view to counteract these biases. These methods are supported by case examples and research that illustrate the benefits of actively seeking disconfirming evidence. **[Empirical]**
 
 ---
 
 ### 3. Inertia (Stability Bias)
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 Organizational inertia, manifested in nearly static resource allocations, stifles innovation and adaptive change, limiting the potential for strategic improvement. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** The reluctance to reallocate resources inhibits an organization’s ability to respond to new opportunities and shifting market conditions.  
-- **Underlying Beliefs & Biases:** Reliance on historical spending patterns creates a resistance to change, even when new strategic insights demand a different allocation of resources.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** The reluctance to reallocate resources inhibits an organization’s ability to respond to new opportunities and shifting market conditions.
+- **Underlying Beliefs & Biases:** Reliance on historical spending patterns creates a resistance to change, even when new strategic insights demand a different allocation of resources.
 - **Expected vs. Actual Outcomes:** Although strategic agility is expected to lead to superior performance, the empirical evidence shows that companies actively reallocating resources achieve up to 30% higher total shareholder returns compared to their static peers. **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The text cites studies demonstrating that spending allocations are highly correlated year-over-year, while highlighting that proactive resource reallocation correlates with significantly better performance outcomes, reinforcing the need to counter inertia. **[Empirical]**
 
 ---
 
 ### 4. Loss Aversion
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 Loss aversion causes executives to shun high-risk, high-reward opportunities, ultimately hindering long-term growth and innovation despite the potential for value creation. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** The fear of personal or organizational loss leads to risk-averse behaviors that compromise investment in breakthrough initiatives.  
-- **Underlying Beliefs & Biases:** A deeply ingrained focus on avoiding losses over achieving gains prompts a conservative approach that may not suit dynamic, high-stakes environments.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** The fear of personal or organizational loss leads to risk-averse behaviors that compromise investment in breakthrough initiatives.
+- **Underlying Beliefs & Biases:** A deeply ingrained focus on avoiding losses over achieving gains prompts a conservative approach that may not suit dynamic, high-stakes environments.
 - **Expected vs. Actual Outcomes:** While executives might expect balanced risk-taking to drive growth, in reality, loss aversion results in overly cautious strategies and missed opportunities for transformational change. **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The paper recommends elevating decision-making to broader portfolios, where risks can be diversified, and suggests practices like postmortems to decouple personal accountability from experimental failures. Industry perspectives, such as those from Jeff Bezos, underscore the need to differentiate between constructive experimental failures and detrimental operational failures. **[Empirical]**
 
 ---
@@ -486,21 +486,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -513,4 +513,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T00:56:04.125100+00:00)
 
 Koller, T. (2025, March 20). Biases in decision-making: A guide for CFOs. McKinsey & Company. https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/biases-in-decision-making-a-guide-for-cfos
-

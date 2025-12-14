@@ -77,7 +77,6 @@ Want a glow-boosting, anti-inflammatory zucchini noodle bowl recipe next?
 
 ## You (2025-05-22T01:25:42.735000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-Be9Rb6vwuLhLWxMnmVGCmg', 'size_bytes': 5112, 'width': 166, 'height': 206, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 which character is this? could you send it to me so I can copy it
 
 ## ChatGPT (2025-05-22T01:25:43.645150+00:00)
@@ -97,4 +96,3 @@ Alternatively, here’s the plain Unicode version (no emoji styling):
 ```
 
 Let me know if you want it styled differently (emoji, symbol, code, etc.) or need it embedded in a design or document.
-

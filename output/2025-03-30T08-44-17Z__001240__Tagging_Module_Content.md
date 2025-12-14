@@ -42,7 +42,7 @@ Files Used:
   - Tension Axis
   - Surface vs. Deep Contradiction
   - **Decision Outcome**
-  - Organizational Implication  
+  - Organizational Implication
   **This file is the sole authority on tagging.**
 - The `.txt` file contains the module content to be tagged. Each includes:
   - An Insight Statement
@@ -57,4 +57,3 @@ Checklist for Output:
 - [x] Use `'N/A'` only when no tag fits by the `.md` definition.
 - [x] Only the first 15 modules are included.
 - [x] No summary, explanation, or extra content beyond the table.
-

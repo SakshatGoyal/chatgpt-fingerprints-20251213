@@ -204,7 +204,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 7. **Sev Tamatar Ki Sabzi**  
+### 7. **Sev Tamatar Ki Sabzi**
 > A tangy tomato-based curry with crunchy gram flour sev added just before serving.
 
 - **Made with**: Tomatoes, garlic, red chili, mustard seeds, and thick besan sev.
@@ -212,7 +212,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 8. **Besan Mirch Ki Sabzi**  
+### 8. **Besan Mirch Ki Sabzi**
 > Spicy green chilies stuffed or tossed with spiced gram flour.
 
 - **Made with**: Bhavnagri or long green chilies, besan, fennel seeds, and amchur.
@@ -220,7 +220,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 9. **Aloo Mangodi Ki Sabzi**  
+### 9. **Aloo Mangodi Ki Sabzi**
 > A rustic curry made from dried moong dal nuggets and potatoes.
 
 - **Made with**: Moong dal mangodis, potatoes, asafoetida, dry spices.
@@ -228,7 +228,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 10. **Kadhi Pakoda (Marwari Style)**  
+### 10. **Kadhi Pakoda (Marwari Style)**
 > Slightly tangy, thin yogurt curry with gram flour dumplings.
 
 - **Made with**: Sour curd, besan, methi seeds, dry red chili, and fried pakoras.
@@ -236,7 +236,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 11. **Bhindi Masala (Dry Rajasthani Style)**  
+### 11. **Bhindi Masala (Dry Rajasthani Style)**
 > Dry okra sautéed with bold, dry-ground spices.
 
 - **Made with**: Bhindi, dry mango powder, fennel, coriander powder, and mustard oil.
@@ -244,7 +244,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 12. **Aloo Baingan Ki Sabzi**  
+### 12. **Aloo Baingan Ki Sabzi**
 > Potatoes and brinjal cooked with Rajasthani spice mix.
 
 - **Made with**: Eggplant, potatoes, turmeric, red chili, and dried mango powder.
@@ -252,7 +252,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 13. **Methi Dana Aloo Sabzi**  
+### 13. **Methi Dana Aloo Sabzi**
 > A slightly bitter curry made from fenugreek seeds and potatoes.
 
 - **Made with**: Methi dana (whole seeds), potatoes, turmeric, hing, and lemon juice.
@@ -260,7 +260,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 14. **Tinda Masala Sabzi**  
+### 14. **Tinda Masala Sabzi**
 > Apple gourds stir-fried in a dry masala paste.
 
 - **Made with**: Tinda, mustard seeds, garam masala, and mustard oil.
@@ -268,7 +268,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 15. **Ghiya Chana Dal (Bottle Gourd Lentil Curry)**  
+### 15. **Ghiya Chana Dal (Bottle Gourd Lentil Curry)**
 > Bottle gourd cooked with Bengal gram in a light, spiced gravy.
 
 - **Made with**: Lauki (ghiya), chana dal, cumin, green chili, and ginger.
@@ -276,7 +276,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 16. **Bajre Ki Raab**  
+### 16. **Bajre Ki Raab**
 > A porridge-thick curry made with pearl millet and buttermilk.
 
 - **Made with**: Bajra flour, buttermilk, garlic, and ginger.
@@ -284,7 +284,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 17. **Tamatar Pyaz Ki Sabzi**  
+### 17. **Tamatar Pyaz Ki Sabzi**
 > Onions and tomatoes slow-cooked into a sweet-spicy masala.
 
 - **Made with**: Tomatoes, onions, jaggery, red chili, cumin, and mustard oil.
@@ -292,7 +292,7 @@ Absolutely — here’s a **larger list of deeply rooted Rajasthani vegetarian c
 
 ---
 
-### 18. **Kachri Ki Sabzi**  
+### 18. **Kachri Ki Sabzi**
 > Curry made from wild desert cucumbers (kachri), often sun-dried.
 
 - **Made with**: Dried kachri, yogurt, red chili, turmeric.
@@ -312,10 +312,10 @@ what about the typical 'karele ki sabji'? where does that come from?
 
 ---
 
-### 🥒 **Karele ki Sabzi – Rajasthani/Marwari Style**  
+### 🥒 **Karele ki Sabzi – Rajasthani/Marwari Style**
 > Bitter gourd stir-fried with dry spices, often stuffed or cooked with onions and dry mango powder for tang.
 
-#### 📍 **Where it’s from**:  
+#### 📍 **Where it’s from**:
 - **Rajasthan**: Especially common in Marwari homes, where vegetables are used frugally and flavors like **bitter, sour, and spicy** are prized.
 - Also widely eaten in **Uttar Pradesh**, **Punjab**, and **Bihar**, with regional variations.
 
@@ -345,7 +345,7 @@ Here’s how you can tell if I’m likely telling the truth:
 
 ---
 
-### ✅ **1. Cross-verifiable traditions**  
+### ✅ **1. Cross-verifiable traditions**
 What I share is based on a combination of:
 - Documented regional cookbooks (e.g., _“Cooking Delights of the Maharajas”_, _“Marwari Vegetarian Cooking”_, _“Prashad: Cooking with Indian Masters”_)
 - Academic sources and food history archives
@@ -354,7 +354,7 @@ You can often **Google phrases like “Marwari karela sabzi”** or “karela Ra
 
 ---
 
-### ✅ **2. Climate and ingredient logic**  
+### ✅ **2. Climate and ingredient logic**
 Rajasthani cuisine is shaped by:
 - **Scarcity of water**
 - **Reliance on preserved, dry, or bitter ingredients** (like besan, ker, sangri, bajra, karela, amchur)
@@ -362,11 +362,11 @@ So when I say karela fits the Rajasthani profile — it’s not a guess; it matc
 
 ---
 
-### ✅ **3. Consistency with known regional practices**  
+### ✅ **3. Consistency with known regional practices**
 If a dish:
 - Doesn’t use water
 - Is made to last for days
-- Uses bold spices and minimal fresh vegetables  
+- Uses bold spices and minimal fresh vegetables
 …it’s likely to be from **Rajasthan, Gujarat, or other arid regions**. That’s why karela, especially dry-fried or stuffed with masala, fits Marwari cooking logic.
 
 ---
@@ -498,4 +498,3 @@ Great choice! Air frying **moong dal vada** is healthier — but yes, the batter
 ---
 
 Would you like a quick recipe tailored for this air-fried method?
-

@@ -60,21 +60,20 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T20:59:38.085914+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 56 - C3-I6,Cognitive Fog,Capability Frame,Unknown,Surface Alignment,Bold vs. Safe,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 7 - C1-I1,Unknown,Evidence Frame,Alignment Achieved,True Clarity,Unknown,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 2 - C4-I6,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 14 - C1-I5,Unknown,Evidence Frame,Tested First,True Clarity,Now vs. Later,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 30 - C1-I2,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 3 - C1-I5,Cultural Drift,Capability Frame,Tested First,Unknown,Bold vs. Safe,Execution Lag,Legacy Hold  
-CATEGORICAL MODULE 40 - C4-I4,Cognitive Fog,Evidence Frame,Unknown,True Clarity,Now vs. Later,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 18 - C2-I1,Unknown,Evidence Frame,Alignment Achieved,True Clarity,Unknown,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 7 - C2-I3,Cognitive Fog,Capability Frame,Future-Proofed,Unknown,Vision vs. Reality,Overstretched Org,Certainty Illusion  
-CATEGORICAL MODULE 34 - C4-I4,Value Clash,Capability Frame,Tested First,True Clarity,Bold vs. Safe,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 11 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,Unknown,Vision vs. Reality,Governance Shift,Certainty Illusion  
-CATEGORICAL MODULE 18 - C3-I5,Unknown,Evidence Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 40 - C2-I4,Cognitive Fog,Evidence Frame,Tested First,Unknown,Lean vs. Unique,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 5 - C1-I2,Value Clash,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 13 - C5-I3,Unknown,Ecosystem Frame,Alignment Achieved,Unknown,Unknown,Adaptive Growth,Silo Drag  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 56 - C3-I6,Cognitive Fog,Capability Frame,Unknown,Surface Alignment,Bold vs. Safe,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 7 - C1-I1,Unknown,Evidence Frame,Alignment Achieved,True Clarity,Unknown,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 2 - C4-I6,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 14 - C1-I5,Unknown,Evidence Frame,Tested First,True Clarity,Now vs. Later,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 30 - C1-I2,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 3 - C1-I5,Cultural Drift,Capability Frame,Tested First,Unknown,Bold vs. Safe,Execution Lag,Legacy Hold
+CATEGORICAL MODULE 40 - C4-I4,Cognitive Fog,Evidence Frame,Unknown,True Clarity,Now vs. Later,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 18 - C2-I1,Unknown,Evidence Frame,Alignment Achieved,True Clarity,Unknown,Adaptive Growth,Unknown
+CATEGORICAL MODULE 7 - C2-I3,Cognitive Fog,Capability Frame,Future-Proofed,Unknown,Vision vs. Reality,Overstretched Org,Certainty Illusion
+CATEGORICAL MODULE 34 - C4-I4,Value Clash,Capability Frame,Tested First,True Clarity,Bold vs. Safe,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 11 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,Unknown,Vision vs. Reality,Governance Shift,Certainty Illusion
+CATEGORICAL MODULE 18 - C3-I5,Unknown,Evidence Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 40 - C2-I4,Cognitive Fog,Evidence Frame,Tested First,Unknown,Lean vs. Unique,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 5 - C1-I2,Value Clash,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 13 - C5-I3,Unknown,Ecosystem Frame,Alignment Achieved,Unknown,Unknown,Adaptive Growth,Silo Drag
 CATEGORICAL MODULE 31 - C1-I6,Unknown,Evidence Frame,Tested First,True Clarity,Vision vs. Reality,Governance Shift,Capability Gap
-

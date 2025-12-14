@@ -62,93 +62,93 @@ Here is a synthesized and prioritized list of **7 powerful, insight-rich questio
 
 ### 1. **What makes AI feel like a trusted strategic companion, rather than a tool—especially when the stakes are high and data is incomplete?**
 
-**Rationale:**  
-**Consolidates:**  
-- Q1 (fears)  
-- Q2 (trust)  
-- Q6 (credibility without proprietary data)  
-- Q13 (reliability without org context)  
-- Q14 (AI's role in high-stakes thinking)  
+**Rationale:**
+**Consolidates:**
+- Q1 (fears)
+- Q2 (trust)
+- Q6 (credibility without proprietary data)
+- Q13 (reliability without org context)
+- Q14 (AI's role in high-stakes thinking)
 - Q7 (companion vs chatbot)
 
-**Insight Surface:**  
+**Insight Surface:**
 This question explores the emotional and cognitive dimensions of trust in high-stakes decision-making. It balances psychological safety (e.g., control, credibility) with functional expectations, revealing how executives judge the *readiness* of AI as a strategic partner.
 
 ---
 
 ### 2. **How have past experiences—positive or negative—influenced how executives think about using AI for strategic decision support today?**
 
-**Rationale:**  
-**Consolidates:**  
-- Q3 (past experiences)  
-- Q1 (fears)  
+**Rationale:**
+**Consolidates:**
+- Q3 (past experiences)
+- Q1 (fears)
 - Q11 (psychological/practical barriers)
 
-**Insight Surface:**  
+**Insight Surface:**
 Uncovers formative experiences and cognitive biases, revealing how history shapes openness, resistance, or risk tolerance. This also helps identify specific moments where perceptions shifted, for better or worse.
 
 ---
 
 ### 3. **What kinds of decisions or thought processes do executives instinctively reserve for themselves—and why?**
 
-**Rationale:**  
-**Consolidates:**  
-- Q5 (never want to think through with AI)  
-- Q12 (gut instinct vs AI insight)  
+**Rationale:**
+**Consolidates:**
+- Q5 (never want to think through with AI)
+- Q12 (gut instinct vs AI insight)
 - Q18 (loss of control)
 
-**Insight Surface:**  
+**Insight Surface:**
 Surfaces the boundaries of executive comfort—where human judgment feels irreplaceable. This reveals both psychological ownership and domain-specific nuances, helping define where AI feels inappropriate or even threatening.
 
 ---
 
 ### 4. **How do executives assess the quality, bias, or relevance of AI-generated insights—especially when they lack proprietary grounding but draw on public or market data?**
 
-**Rationale:**  
-**Consolidates:**  
-- Q4 (bias from public data)  
-- Q6 (credibility without proprietary data)  
+**Rationale:**
+**Consolidates:**
+- Q4 (bias from public data)
+- Q6 (credibility without proprietary data)
 - Q17 (trust from public patterns or market trends)
 
-**Insight Surface:**  
+**Insight Surface:**
 This question digs into epistemology: how executives judge "knowing" when the data source isn’t internal. It also reveals their sensitivity to different forms of bias—algorithmic, contextual, or interpretive.
 
 ---
 
 ### 5. **In what ways do executives want AI to challenge their assumptions, not just echo them—and what would respectful challenge look like?**
 
-**Rationale:**  
-**Consolidates:**  
-- Q8 (stress-testing assumptions)  
+**Rationale:**
+**Consolidates:**
+- Q8 (stress-testing assumptions)
 - Q16 (coach vs sounding board vs co-pilot)
 
-**Insight Surface:**  
+**Insight Surface:**
 Taps into metacognition—how executives think about their own thinking—and invites reflection on power dynamics in human-AI relationships. Also helps inform UX approaches for framing dissent or counterpoints.
 
 ---
 
 ### 6. **What mental workflows or thinking rituals could AI most naturally plug into—without disrupting the flow or introducing friction?**
 
-**Rationale:**  
-**Consolidates:**  
-- Q10 (independent reflection workload)  
-- Q15 (embedding into daily mental workflows)  
+**Rationale:**
+**Consolidates:**
+- Q10 (independent reflection workload)
+- Q15 (embedding into daily mental workflows)
 - Q9 (current AI usage habits)
 
-**Insight Surface:**  
+**Insight Surface:**
 Maps the opportunity space for integration—where AI fits into real executive routines. Reveals both “entry points” and frictions in adoption, offering tactical insight for product design and behavior change.
 
 ---
 
 ### 7. **What kinds of strategic thinking or planning frameworks feel like a natural fit for AI support—and where does AI’s role begin to break down?**
 
-**Rationale:**  
-**Consolidates:**  
-- Q19 (AI best for pattern recognition)  
-- Q14 (role in high-stakes thinking)  
+**Rationale:**
+**Consolidates:**
+- Q19 (AI best for pattern recognition)
+- Q14 (role in high-stakes thinking)
 - Q16 (coach/sounding board/co-pilot)
 
-**Insight Surface:**  
+**Insight Surface:**
 Clarifies use cases where AI adds value in structured cognition vs where it lacks the nuance or contextual judgment. Helps define the contours of partnership and limits of delegation.
 
 ---
@@ -168,4 +168,3 @@ The tone should be clear, thoughtful, and slightly reflective — as if preparin
 The synthesized questions are designed to uncover how executives *think*, not just what they do. They probe beneath surface behaviors to reveal mental models, values, risk tolerances, and the subtle boundaries between trust and skepticism. We're seeking insight into how leaders define credibility, how they navigate uncertainty, and how they perceive the role of AI in decision-making processes that are often emotionally charged or politically sensitive. These questions invite reflection on past experiences, internal tensions (like instinct vs data), and the evolving sense of partnership executives may or may not feel with emerging technologies. Ultimately, we're exploring the deeply human side of strategic thought: how people wrestle with control, collaboration, and complexity when supported by something non-human.
 
 What we’re *not* looking for are rehearsed or overly polished answers—responses rooted in industry buzzwords, corporate orthodoxy, or what someone thinks a tech team wants to hear. We’re not here to collect generic use cases or best practices. We’re here to understand the *why* behind someone’s preferences and the *how* behind their thinking process. If someone speaks in binary terms—AI is either brilliant or broken—they may be missing the nuance we’re after. We're not seeking "correct" answers; we’re seeking honest ones. The most valuable responses often come with uncertainty, contradiction, or self-awareness—signals that we're tapping into something real. As interviewers or listeners, our job is to notice those moments and gently go deeper.
-

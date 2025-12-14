@@ -152,7 +152,7 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Key Themes:** The report dissects revenue recovery amid supply chain disruptions, persistent quality issues, uneven regional growth, sluggish digital transformation, and labor unrest in the commercial aerospace industry.
 - **Core Motivations:** Faced with post-pandemic market volatility, rising production challenges, and evolving technological imperatives, aerospace leaders must recalibrate strategies to sustain growth and manage operational risks.
 - **Methodological Clarification:** Accenture’s analysis integrates econometric modeling with executive surveys from 1H 2024, offering quantitative forecasts alongside qualitative insights. While the data are robust, rapid market changes introduce an element of uncertainty.
-- **Relevance Assessment:** The findings directly inform strategic decisions for Fortune 500 executives by highlighting the tension between long-term growth projections and short-term operational hurdles. citeturn0file0
+- **Relevance Assessment:** The findings directly inform strategic decisions for Fortune 500 executives by highlighting the tension between long-term growth projections and short-term operational hurdles.
 
 ## Grounded Executive Insights
 
@@ -228,7 +228,7 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Clarity of Methods & Outcomes:** Clear — The methodological framework, combining quantitative forecasts with qualitative insights, is explicitly articulated.
 - **Areas with No Data:** None — All sections (Insight Statement, Executive Decision-Making Context, Supporting Context) are well-supported by the report’s empirical data.
 
-This analysis, grounded in Accenture’s Commercial Aerospace Insight Report (citeturn0file0), provides Fortune 500 executives with a nuanced understanding of the interplay between market growth, supply chain resilience, digital transformation, regional dynamics, and labor risks, offering strategic insights to guide decision-making in an increasingly complex environment.
+This analysis, grounded in Accenture’s Commercial Aerospace Insight Report (), provides Fortune 500 executives with a nuanced understanding of the interplay between market growth, supply chain resilience, digital transformation, regional dynamics, and labor risks, offering strategic insights to guide decision-making in an increasingly complex environment.
 
 ## You (2025-03-24T01:40:19.958000+00:00)
 
@@ -514,21 +514,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -541,4 +541,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T01:42:41.432153+00:00)
 
 Accenture. (2024). *Commercial aerospace insight report: Navigating new altitudes in commercial aerospace*. https://www.accenture.com/commercial-aerospace-insight-report-oct-2024
-

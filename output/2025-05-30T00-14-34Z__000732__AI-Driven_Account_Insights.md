@@ -12,7 +12,7 @@ Imagine an AI system is presenting tiles that help you with the following
 
 ---
 
-you're looking at different tiles, each of which represents one account. what kind of data would you like this ai to generate for these tiles that might help you with the above goals. 
+you're looking at different tiles, each of which represents one account. what kind of data would you like this ai to generate for these tiles that might help you with the above goals.
 
 incorporate some system level thinking and give me the structure of a tile along with some realistic examples of those tiles with real example data.
 
@@ -52,7 +52,7 @@ Absolutely. If I'm staring at a dashboard of AI-generated tiles—each represent
 
 ### 🧩 EXAMPLE TILE 1 – RETENTION RISK + EXPANSION PLAY
 
-**ACME HEALTH INC | Healthcare | $420K ARR | Renewal in 92 days**  
+**ACME HEALTH INC | Healthcare | $420K ARR | Renewal in 92 days**
 **Tier: Strategic | Segment: MM**
 
 - **Retention Risk Score: 🔴 78 ↑**
@@ -78,7 +78,7 @@ Absolutely. If I'm staring at a dashboard of AI-generated tiles—each represent
 
 ### 🧩 EXAMPLE TILE 2 – EXPANSION READY, HEALTHY RETENTION
 
-**FINWAVE CAPITAL | FinServ | $1.3M ARR | Renewal in 11 months**  
+**FINWAVE CAPITAL | FinServ | $1.3M ARR | Renewal in 11 months**
 **Tier: Strategic | Segment: ENT**
 
 - **Retention Risk Score: 🟢 12 ↔**
@@ -108,7 +108,6 @@ Want to mock this up visually or apply it to your pipeline?
 
 ## You (2025-05-30T19:54:41.895000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-UsPRmZ22rNFsANVVCA97GT', 'size_bytes': 243524, 'width': 1665, 'height': 1200, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Ok, imagine you're looking at these tiles. What would you like an AI to recommend in addition to this data
 
 ## ChatGPT (2025-05-30T19:54:43.019898+00:00)
@@ -127,7 +126,7 @@ A blend of:
 - **Signal strength** (intent, engagement, content interaction)
 - **Timing alignment** (budget cycle, contract expiration of incumbent)
 
-Example:  
+Example:
 > 📈 *Home Depot – Priority 91/100: Budget cycle aligned, Splunk contract expiring in 4 months, recent XSIAM deck download.*
 
 ---
@@ -204,4 +203,3 @@ Ok, make the synthesis less than 160 characters long
 ## ChatGPT (2025-05-30T20:02:25.845683+00:00)
 
 Enhance each tile with AI to show who to engage, what to say, and where to win—turn static pipeline into dynamic, actionable opportunity.
-

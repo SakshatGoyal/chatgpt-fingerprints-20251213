@@ -6,7 +6,7 @@ could u walk me through how i can make a repository public?
 
 ## ChatGPT (2025-08-17T06:26:58.683468+00:00)
 
-Got it 👍 You want to make one of your GitHub repositories public. Here’s the step-by-step walk-through (don’t worry, you can always switch it back to private later):  
+Got it 👍 You want to make one of your GitHub repositories public. Here’s the step-by-step walk-through (don’t worry, you can always switch it back to private later):
 
 ---
 
@@ -32,10 +32,9 @@ Got it 👍 You want to make one of your GitHub repositories public. Here’s th
 
 ---
 
-✅ Done! Your repo is now public. Anyone can view it, clone it, and fork it.  
-⚠️ Tip: Make sure you’re not exposing any **secrets, API keys, or sensitive files** before making it public.  
+✅ Done! Your repo is now public. Anyone can view it, clone it, and fork it.
+⚠️ Tip: Make sure you’re not exposing any **secrets, API keys, or sensitive files** before making it public.
 
 ---
 
 Do you want me to also show you how to **check if a repo has hidden secrets** (like `.env` files or credentials) before flipping it public?
-

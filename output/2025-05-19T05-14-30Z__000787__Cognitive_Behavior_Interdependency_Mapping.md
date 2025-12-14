@@ -214,4 +214,3 @@ Her operational heuristics (stage-gate crisis response, motivational framing, am
 
 🗺 **Suggested Interdependency Visualization:**
 - Recommend constructing a network-style diagram where nodes represent cognitive and behavioral clusters (Identity & Motivations, Behavioral Signature, Expressive Identity, Domain Mastery, Humanistic Core), and edges represent explicit interactions and tensions. Nodes can visually differentiate explicit values (mission, transparency, psychological safety) from implicit cognitive models (stage-gate heuristic, portfolio approach, operational idealism). Tensions (contradictions and biases) should be indicated with dashed lines or differentiated colors to highlight critical cognitive friction points.
-

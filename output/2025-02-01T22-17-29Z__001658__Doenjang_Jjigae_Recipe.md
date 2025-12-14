@@ -51,4 +51,3 @@ I'm just putting this here to keep this safe.
 ## ChatGPT (2025-02-01T22:17:32.496534+00:00)
 
 Got it! Your modified Doenjang Jjigae recipe is saved here. Let me know if you want any tweaks or need another recipe! 🍲🔥
-

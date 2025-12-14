@@ -19,8 +19,8 @@ I'm not trying to visualize *all flows together*. I want to **isolate specific j
 I want to create an **interactive Sankey diagram** that:
 
 - Builds flows **left-to-right** across these 7 columns in this **exact order**:
-    
-    
+
+
     | Stage | CSV Column |
     | --- | --- |
     | 1 | `Ambiguity Type` |
@@ -129,7 +129,7 @@ When I click on `Tested First`, I want:
 
 Below is a **fully worked example** using [Dash (Plotly)](https://dash.plotly.com/) in Python.  It demonstrates all of the features you requested:
 
-1. **Seven fixed stages** (in order) for the Sankey:  
+1. **Seven fixed stages** (in order) for the Sankey:
    - `Ambiguity Type`
    - `Framing Move`
    - `Stabilizer`
@@ -146,7 +146,7 @@ Below is a **fully worked example** using [Dash (Plotly)](https://dash.plotly.co
 5. **Non-draggable** layout, left-to-right, with generous spacing and fixed 4:3 aspect ratio.
 6. **One highlight color** (everything else dimmed gray).
 
-> **NOTE**  
+> **NOTE**
 > This example focuses on the mechanics.  You will likely adapt:
 > - Names and number of your filter columns
 > - Styling or color palettes
@@ -197,7 +197,7 @@ Capability Gap,Sensemaking,Mapping,Unknown,Leadership,Unknown,Energy,Internation
 
 ## 3. Dash App Code
 
-> **Usage**  
+> **Usage**
 > Save the script below as `app.py` (or similar), place it alongside `example_data.csv`, then run:
 > ```bash
 > python app.py
@@ -246,7 +246,7 @@ for col in FILTER_COLUMNS:
     unique_vals = sorted(df[col].dropna().unique().tolist())
     dropdown_options = [{"label": v, "value": v} for v in unique_vals]
     dropdown_options.insert(0, {"label": "All", "value": "All"})
-    
+
     filter_dropdowns.append(
         html.Div([
             html.Label(col, style={"font-weight": "bold"}),
@@ -268,7 +268,7 @@ def build_sankey_figure(full_data: pd.DataFrame, highlighted_data: pd.DataFrame)
       - Gray flows (full_data)
       - Orange highlighted flows (highlighted_data)
     Both sets share the same node indexes, but differ in link color & width.
-    
+
     - Node arrangement is locked horizontally (non-draggable)
     - Node spacing is generous
     - Tooltips show counts and percentages for highlight subset
@@ -306,7 +306,7 @@ def build_sankey_figure(full_data: pd.DataFrame, highlighted_data: pd.DataFrame)
     for i in range(len(STAGE_COLUMNS) - 1):
         colA = STAGE_COLUMNS[i]
         colB = STAGE_COLUMNS[i+1]
-        
+
         # Group by colA->colB for full_data
         gb_full = (
             full_data.groupby([colA, colB])
@@ -454,7 +454,7 @@ app = dash.Dash(__name__)
 
 app.layout = html.Div([
     html.H2("Interactive Strategy-Sankey with Node Click Isolation"),
-    
+
     # Filter dropdowns across the top
     html.Div(filter_dropdowns, style={"margin-bottom": "20px"}),
 
@@ -566,29 +566,29 @@ if __name__ == "__main__":
 
 # How It Works
 
-1. **Reading & Filtering**  
-   - We load the entire CSV into `df`.  
+1. **Reading & Filtering**
+   - We load the entire CSV into `df`.
    - Each time any filter dropdown changes, or a node is clicked, the callback runs.
    - It applies **AND logic** across all 7 filters. (Each filter is “All” or a specific category.)
 
-2. **Node Click => Isolate Cohort**  
+2. **Node Click => Isolate Cohort**
    - If you click on a node (e.g., `Tested First` in `Stabilizer`), the app identifies which stage column that node belongs to.
-   - It filters the data **exactly** to those rows where that column == that node’s label.  
+   - It filters the data **exactly** to those rows where that column == that node’s label.
    - These rows become the “highlighted cohort.”
    - The Sankey is redrawn, using:
      - **Orange** color for links/nodes that appear in the highlight subset.
      - **Gray** color for everything else (still visible).
 
-3. **Click Same Node to Reset**  
+3. **Click Same Node to Reset**
    - If you click again on the same node, the highlight is removed, returning to the fully filtered dataset.
 
-4. **Tooltip**  
+4. **Tooltip**
    - Each node/link tooltip shows:
      - **Highlight Count** – number of rows (in the highlight subset) that go through that node/link
      - **Highlight %** – percentage out of the total highlight subset
      - **Total Count** – how many rows go through that node/link after the top-level 7 filters (ignoring the node-click highlight)
 
-5. **Fixed Layout**  
+5. **Fixed Layout**
    - We use `arrangement="snap"` (or `"fixed"`) to disable node dragging.
    - `node_pad=40` for extra vertical spacing.
    - The figure is sized at a 4:3 aspect ratio (e.g., 900×675), but you can adjust as needed.
@@ -597,24 +597,24 @@ if __name__ == "__main__":
 
 ## Tips & Tweaks
 
-- **Color Palette**  
-  Change `"orange"` to any highlight color you like.  
+- **Color Palette**
+  Change `"orange"` to any highlight color you like.
   Change `"lightgray"` to your “dimmed” color of choice.
 
-- **Spacing**  
-  Increase `pad=40` to create more vertical whitespace.  
+- **Spacing**
+  Increase `pad=40` to create more vertical whitespace.
   Decrease it for a more compact layout.
 
-- **Performance**  
-  For very large datasets, generating link-group counts repeatedly can be slow.  
-  - Consider caching or precomputing transitions.  
+- **Performance**
+  For very large datasets, generating link-group counts repeatedly can be slow.
+  - Consider caching or precomputing transitions.
   - Use [Dash callbacks + memoization](https://dash.plotly.com/caching) if needed.
 
-- **Multiple Node Clicks?**  
-  This example only allows **one** node to be selected at a time.  
+- **Multiple Node Clicks?**
+  This example only allows **one** node to be selected at a time.
   If you need multi-select (e.g. shift-click to combine cohorts), you would expand the logic for storing multiple node selections.
 
-- **Tooltip Details**  
+- **Tooltip Details**
   If you want to show more detail in the tooltip, just adjust the `hovertemplate` strings.
 
 ---
@@ -629,7 +629,7 @@ You now have a **fully interactive Sankey** in pure Python that:
 
 ## You (2025-04-04T07:28:31.788000+00:00)
 
-in short, help me setup a virtual environment. 
+in short, help me setup a virtual environment.
 
 My file is saved in this path:
 /Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Data Viz experiment/app.py
@@ -738,7 +738,7 @@ Now, you are ready to run your Dash application.
 
 ### 4. Additional Setup Steps (Optional)
 
-- **Create a `requirements.txt` File (for future use)**  
+- **Create a `requirements.txt` File (for future use)**
    If you ever need to recreate the environment or share it with others, you can freeze your dependencies into a `requirements.txt` file.
 
    ```bash
@@ -751,7 +751,7 @@ Now, you are ready to run your Dash application.
    pip install -r requirements.txt
    ```
 
-- **Deactivating the Virtual Environment**  
+- **Deactivating the Virtual Environment**
    When you're done working, you can deactivate the virtual environment by running:
 
    ```bash
@@ -887,4 +887,3 @@ This will run the app on `http://127.0.0.1:8051/` instead.
 ---
 
 After trying these steps, let me know what the output is, and we'll go from there!
-

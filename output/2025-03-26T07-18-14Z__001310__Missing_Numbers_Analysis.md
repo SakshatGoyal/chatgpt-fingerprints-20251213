@@ -4,10 +4,9 @@
 
 could u do a quick analysis of this sequence of numbers from 1-151 and tell me which numbers are missing?
 
-point out the missing numbers between 1-151 in a list format, in ascending order. 
+point out the missing numbers between 1-151 in a list format, in ascending order.
 
 for your context, I'm compiling some returns and seeing which ones are missing. here's the full numbered list i have
-
 
 
 1
@@ -166,4 +165,3 @@ Here’s the analysis of your list from 1 to 151. The following numbers are miss
 - 140
 - 142
 - 145
-

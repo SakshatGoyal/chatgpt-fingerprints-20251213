@@ -164,4 +164,3 @@ Let me know if you’d like a map or spreadsheet that shows this in visual forma
 - Most **counter-principles hold up well**, with minor opportunities to sharpen a few for tension realism.
 
 Would you like me to propose a **consolidated, unified draft** of principles drawing from all these, or perhaps a heatmap showing who contributes where?
-

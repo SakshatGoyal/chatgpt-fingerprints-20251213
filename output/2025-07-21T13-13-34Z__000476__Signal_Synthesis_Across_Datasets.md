@@ -74,7 +74,7 @@ Instead of overwhelming users with noise, we guide attention through:
 - **Silent Zones**
 
 > Framework remains category-agnostic but can be applied distinctly per data type or across a blended signal view.
-> 
+>
 
 ---
 
@@ -203,4 +203,3 @@ Complete engagement dead zones. No movement, no updates, no signal—usually on 
 - **Renewal Opportunity Andromeda ($1.6M)** at **Nebula Inc.** has flatlined usage telemetry (**<5% active**) and stakeholder churn (**Last key stakeholder left 80 days ago**), with **no customer touchpoint** in **60+ days**.
 
 ---
-

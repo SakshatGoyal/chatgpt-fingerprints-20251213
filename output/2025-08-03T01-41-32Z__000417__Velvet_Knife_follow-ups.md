@@ -69,4 +69,3 @@ Below are response ideas using the **Velvet Knife** framework—two to three for
 - “Speaking of working on ourselves, let’s pretend for a moment we’ve got everything figured out. What would we ruin first?”
 
 ---
-

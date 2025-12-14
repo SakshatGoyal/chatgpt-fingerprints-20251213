@@ -115,8 +115,8 @@ Example Output Structure (Abbreviated)
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Tension statement**  
-> Full quote from module  
+**1. Tension statement**
+> Full quote from module
 — MODULE 1 - C3-I3, Archetype 3.txt
 
 [...]
@@ -125,10 +125,9 @@ Example Output Structure (Abbreviated)
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. Belief statement**  
-> Full quote from module  
+**1. Belief statement**
+> Full quote from module
 — MODULE 1 - C3-I3, Archetype 3.txt
-
 
 
 ⸻
@@ -159,47 +158,46 @@ This archetype operates under a continual tension between aspirational transform
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Executives struggle to balance innovation with the preservation of core business functions, using AI tools to triangulate optimal investment levels.**  
-> “Decision-makers are challenged to weigh radical differentiation against preserving essential performance attributes… often employing stage-gate processes to balance innovation risks with market positioning imperatives.”  
+**1. Executives struggle to balance innovation with the preservation of core business functions, using AI tools to triangulate optimal investment levels.**
+> “Decision-makers are challenged to weigh radical differentiation against preserving essential performance attributes… often employing stage-gate processes to balance innovation risks with market positioning imperatives.”
 — MODULE 20 - C3-I1, Archetype 1.txt
 
-**2. Sustainability initiatives are pursued despite short-term financial strain, indicating a trade-off between near-term cost and long-term value.**  
-> “Leaders must navigate the tension between the higher upfront costs of sustainable supply chain redesign and the long-term benefits of reduced environmental impact and enhanced market competitiveness.”  
+**2. Sustainability initiatives are pursued despite short-term financial strain, indicating a trade-off between near-term cost and long-term value.**
+> “Leaders must navigate the tension between the higher upfront costs of sustainable supply chain redesign and the long-term benefits of reduced environmental impact and enhanced market competitiveness.”
 — MODULE 24 - C4-I3, Archetype 1.txt
 
-**3. The desire for data-driven decision-making is consistently undermined by fragmented or outdated datasets.**  
-> “Many available datasets are fragmented, outdated, or lack standardization… This shortage is directly linked to the observed surge in claim amounts… underlining the critical impact of data scarcity on risk assessment models.”  
+**3. The desire for data-driven decision-making is consistently undermined by fragmented or outdated datasets.**
+> “Many available datasets are fragmented, outdated, or lack standardization… This shortage is directly linked to the observed surge in claim amounts… underlining the critical impact of data scarcity on risk assessment models.”
 — MODULE 1 - C4-I2, Archetype 1.txt
 
-**4. Independence is idealized, yet constrained resources force executives to engage with external partners despite hesitation.**  
-> “Although independence is celebrated, the lack of external investment and collaboration frequently impedes rapid expansion and competitive positioning.”  
+**4. Independence is idealized, yet constrained resources force executives to engage with external partners despite hesitation.**
+> “Although independence is celebrated, the lack of external investment and collaboration frequently impedes rapid expansion and competitive positioning.”
 — MODULE 25 - C5-I3, Archetype 1.txt
 
-**5. Digital tools are adopted without embedding them into long-term strategies, resulting in under-realized returns.**  
-> “Executives grapple with whether to treat advanced analytics as a discrete IT upgrade or to embed it within an overarching strategic framework aligned with long-term business objectives.”  
+**5. Digital tools are adopted without embedding them into long-term strategies, resulting in under-realized returns.**
+> “Executives grapple with whether to treat advanced analytics as a discrete IT upgrade or to embed it within an overarching strategic framework aligned with long-term business objectives.”
 — MODULE 13 - C1-I1, Archetype 1.txt
 
 ---
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. “Internal data is sufficient for modeling risk.”**  
-> “There is a common bias towards relying on internal historical records, despite clear indications that such data may be insufficient in the dynamic cyber threat landscape.”  
+**1. “Internal data is sufficient for modeling risk.”**
+> “There is a common bias towards relying on internal historical records, despite clear indications that such data may be insufficient in the dynamic cyber threat landscape.”
 — MODULE 1 - C4-I2, Archetype 1.txt
 
-**2. “Short-term cost efficiency should guide investment decisions.”**  
-> “There is a common bias among some executives to prioritize short-term cost savings over environmental stewardship, despite emerging evidence of long-term strategic value.”  
+**2. “Short-term cost efficiency should guide investment decisions.”**
+> “There is a common bias among some executives to prioritize short-term cost savings over environmental stewardship, despite emerging evidence of long-term strategic value.”
 — MODULE 24 - C4-I3, Archetype 1.txt
 
-**3. “Technology adoption alone will drive outcomes.”**  
-> “There is often an implicit bias that technology investments are standalone solutions, yet a holistic integration fosters deeper organizational change and sustainable growth.”  
+**3. “Technology adoption alone will drive outcomes.”**
+> “There is often an implicit bias that technology investments are standalone solutions, yet a holistic integration fosters deeper organizational change and sustainable growth.”
 — MODULE 13 - C1-I1, Archetype 1.txt
 
-**4. “Operational independence is the foundation of agility.”**  
-> “A reluctance to engage with external partners, driven by a desire to preserve autonomy, often clashes with the practical necessity of filling resource gaps.”  
+**4. “Operational independence is the foundation of agility.”**
+> “A reluctance to engage with external partners, driven by a desire to preserve autonomy, often clashes with the practical necessity of filling resource gaps.”
 — MODULE 25 - C5-I3, Archetype 1.txt
 
 ---
 
 Would you like this formatted for presentation or included in a PDF brief? Or are you planning to generate additional archetypes from other data sets?
-

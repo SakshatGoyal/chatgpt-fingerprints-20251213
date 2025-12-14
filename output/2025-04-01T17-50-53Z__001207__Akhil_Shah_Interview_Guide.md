@@ -2,12 +2,11 @@
 
 ## You (2025-04-01T17:50:53.901000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-Nyvo7SEDsAaF2MdYjrqkxb', 'size_bytes': 620948, 'width': 1029, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-Hi, I need you to take a user interview question guide with introduction and modify it to match the profile I attach in this message. 
+Hi, I need you to take a user interview question guide with introduction and modify it to match the profile I attach in this message.
 
-Make sure you don't fundamentally change the question or their order, but just make sure the context is more alligned to this user. 
+Make sure you don't fundamentally change the question or their order, but just make sure the context is more alligned to this user.
 
-For your information, this guide was made for a director of Product at squarespace. 
+For your information, this guide was made for a director of Product at squarespace.
 
 THe New guide is for a person named Akhil Shah.
 
@@ -30,9 +29,7 @@ Great—shall we jump in?
 ----------
 
 
-
-- While i’ve gone through your profile, for the purposes of this conversation could you briefly describe your current role and some of the past experiences you’ve had working in the industry? 
-
+- While i’ve gone through your profile, for the purposes of this conversation could you briefly describe your current role and some of the past experiences you’ve had working in the industry?
 
 
 You’ve worked in both startup-style teams and scaled orgs—what feels different about how decisions get made?
@@ -47,10 +44,8 @@ Follow-up:
 - Is vision something you carry internally, share actively with your team, or revisit through rituals?
 
 
-
 When you're shaping long-term product direction, what’s the hardest part?
 Is it getting buy-in, staying anchored, making tradeoffs... or something else?
-
 
 
 When you're setting direction or making a strategic call, how do you check for blind spots—things you don’t know you don’t know?
@@ -74,10 +69,6 @@ Follow-up:
 
 - Would you see it as thoughtful diligence—or raise concerns about data sensitivity or judgment?
 - Do you ever see yourself trying to shape a strategy in collaboration with AI?
-
-
-
-
 
 
  Is there a category of judgment—big or small—you’d never want to outsource to AI, no matter how good it gets?
@@ -109,7 +100,7 @@ Great—shall we jump in?
 
 ---
 
-### 1. While I’ve gone through your profile, for the purposes of this conversation could you briefly describe your current role and some of the past experiences you’ve had working in the industry?  
+### 1. While I’ve gone through your profile, for the purposes of this conversation could you briefly describe your current role and some of the past experiences you’ve had working in the industry?
 
 ---
 
@@ -163,7 +154,7 @@ How would you respond to that?
 
 ---
 
-### 10. Let’s say the company hired someone just like you—same skills, same brain—but they were working for you.  
+### 10. Let’s say the company hired someone just like you—same skills, same brain—but they were working for you.
 What would you delegate immediately? And what would you never let go of?
 
 ---
@@ -172,7 +163,6 @@ Would you like this in a formatted Google Doc or Word file as well?
 
 ## You (2025-04-01T20:28:25.552000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-8w4kqVWvxTwjAm3ycbLvcR', 'size_bytes': 890988, 'width': 950, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 ok, now can you do the same for this profile? While I want the questions to remain the same, I wanna see if you can maybe slightly modify the wording to fit the profile a little better. If you feel the question does not need to be modified for this profile, keep the question as is.
 
 ## ChatGPT (2025-04-01T20:28:27.043300+00:00)
@@ -247,10 +237,9 @@ How would you respond to that?
 
 ---
 
-### 10. Let’s say the company hired someone just like you—same skills, same brain—but they were working for you.  
+### 10. Let’s say the company hired someone just like you—same skills, same brain—but they were working for you.
 What would you delegate immediately? And what would you never let go of?
 
 ---
 
 Let me know if you’d like this formatted for sharing, or if you'd like a version tailored for print, email, or collaboration with your team.
-

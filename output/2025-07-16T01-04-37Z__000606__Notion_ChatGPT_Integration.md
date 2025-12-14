@@ -2,7 +2,6 @@
 
 ## You (2025-07-16T01:04:37.503000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-VuKcniGxMMG1NwgMsWHsjr', 'size_bytes': 115120, 'width': 848, 'height': 1170, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 I want to connect my Notion account to ChatGPT. Can I use this custom connector option to accomplish this?
 
 ## ChatGPT (2025-07-16T01:04:38.848293+00:00)
@@ -41,7 +40,7 @@ If you're a developer and want to build your own Notion integration using the fo
    - Stream back responses in OpenAI’s expected format.
 3. Deploy the server and use the public HTTPS URL in the “MCP Server URL” field.
 
-📘 See OpenAI’s official guide:  
+📘 See OpenAI’s official guide:
 [🔗 Custom Connectors Developer Guide](https://platform.openai.com/docs/guides/custom-tools)
 
 ---
@@ -138,8 +137,8 @@ Respond as a **technical integration specialist for beginners**. Provide:
 
 ## ChatGPT (2025-07-16T01:17:25.363827+00:00)
 
-## 1. Overview Summary  
-You’re about to create a **read‑only “bridge”** between your personal Notion workspace and ChatGPT (O3 Pro) **without spending a cent**.  
+## 1. Overview Summary
+You’re about to create a **read‑only “bridge”** between your personal Notion workspace and ChatGPT (O3 Pro) **without spending a cent**.
 At a glance:
 
 ```
@@ -149,43 +148,43 @@ At a glance:
 +-------------+   (added in ChatGPT)   +------------------+                  +-------------+
 ```
 
-* **ChatGPT** calls a tiny web‑server you’ll deploy for free on **Replit** (or run locally).  
-* The server uses your **Notion Integration Token** (read‑only) to fetch page text and streams it back with **Server‑Sent Events (SSE)**, the format ChatGPT’s **Custom Connector** feature expects. citeturn0search0  
+* **ChatGPT** calls a tiny web‑server you’ll deploy for free on **Replit** (or run locally).
+* The server uses your **Notion Integration Token** (read‑only) to fetch page text and streams it back with **Server‑Sent Events (SSE)**, the format ChatGPT’s **Custom Connector** feature expects.
 * No write scopes are granted, so your content stays safe and un‑editable.
 
 ---
 
-## 2. Step‑by‑Step Guide  
+## 2. Step‑by‑Step Guide
 
-### 2.1 Create a *read‑only* Notion integration    
-1. Sign in at **https://developers.notion.com** → **My integrations** → **+ New integration**.  
-2. Name it e.g. `ChatGPT‑Reader`, choose **Internal Integration**.  
-3. Under **Capabilities** select only **Read content**. *(Leave everything else unchecked.)*  
-4. Click **Submit**, then copy the **“Internal Integration Token”** shown in **Secrets**.  
-&nbsp; *We’ll call this value `NOTION_TOKEN`.* citeturn0search1  
+### 2.1 Create a *read‑only* Notion integration
+1. Sign in at **https://developers.notion.com** → **My integrations** → **+ New integration**.
+2. Name it e.g. `ChatGPT‑Reader`, choose **Internal Integration**.
+3. Under **Capabilities** select only **Read content**. *(Leave everything else unchecked.)*
+4. Click **Submit**, then copy the **“Internal Integration Token”** shown in **Secrets**.
+&nbsp; *We’ll call this value `NOTION_TOKEN`.*
 
-### 2.2 Share pages with the bot (read‑only)  
+### 2.2 Share pages with the bot (read‑only)
 In Notion, open each page (or whole database) you want ChatGPT to read → **Share** → **Invite** → choose your new bot → set permission to **Can read** → **Invite**.
 
-### 2.3 Deploy the free MCP Connector  
+### 2.3 Deploy the free MCP Connector
 
 ---
 
-#### **Option A – Replit (recommended, 100 % free)**  
-1. Create a free account at **replit.com** → **+ Create Repl** → choose **Python**.  
-2. Replace the default files with the ones in **Section 3** below.  
-3. In Replit sidebar → **Secrets** (🔑 icon) → add  
-   * **Key** `NOTION_TOKEN` → **Value** *paste your token*  
-   * **Key** `NOTION_VERSION` → **Value** `2022-06-28` (Notion API version)  
-4. Click **Run** → Replit shows a public URL such as `https://your‑repl‑username.repl.co`.  
+#### **Option A – Replit (recommended, 100 % free)**
+1. Create a free account at **replit.com** → **+ Create Repl** → choose **Python**.
+2. Replace the default files with the ones in **Section 3** below.
+3. In Replit sidebar → **Secrets** (🔑 icon) → add
+   * **Key** `NOTION_TOKEN` → **Value** *paste your token*
+   * **Key** `NOTION_VERSION` → **Value** `2022-06-28` (Notion API version)
+4. Click **Run** → Replit shows a public URL such as `https://your‑repl‑username.repl.co`.
    Keep that URL handy; append `/sse` later for the MCP endpoint.
 
 ---
 
-#### **Option B – Run locally (optional)**  
-1. Install Python 3.9+ and **git**.  
-2. Save the same files from **Section 3** into a folder.  
-3. Open a terminal in that folder:  
+#### **Option B – Run locally (optional)**
+1. Install Python 3.9+ and **git**.
+2. Save the same files from **Section 3** into a folder.
+3. Open a terminal in that folder:
    ```bash
    python -m venv venv
    source venv/bin/activate   # Windows: venv\Scripts\activate
@@ -193,26 +192,26 @@ In Notion, open each page (or whole database) you want ChatGPT to read → **Sha
    export NOTION_TOKEN="paste‑your‑token"
    export NOTION_VERSION="2022-06-28"
    python main.py
-   ```  
-4. Expose it to the internet so ChatGPT can reach it.  
-   *Easiest free tunnel:*  
+   ```
+4. Expose it to the internet so ChatGPT can reach it.
+   *Easiest free tunnel:*
    ```bash
    python -m pip install localtunnel
    lt --port 8000
-   ```  
+   ```
    You’ll receive a URL like `https://ab123.loca.lt`; append `/sse`.
 
 ---
 
-### 2.4 Register the connector inside ChatGPT  
-1. In ChatGPT → **⚙ Settings & Beta** → **Connectors (Beta)** → **+ New connector**.  
-2. **Name**: `My Notion Reader`  
-3. **MCP Server URL**: `https://your‑repl‑url/sse` *(or localtunnel URL)*  
-4. **Authentication**: *No authentication* (the Replit server already has your token).  
+### 2.4 Register the connector inside ChatGPT
+1. In ChatGPT → **⚙ Settings & Beta** → **Connectors (Beta)** → **+ New connector**.
+2. **Name**: `My Notion Reader`
+3. **MCP Server URL**: `https://your‑repl‑url/sse` *(or localtunnel URL)*
+4. **Authentication**: *No authentication* (the Replit server already has your token).
 5. Tick **I trust this application** → **Create**.
 
-### 2.5 Test it  
-In ChatGPT (regular chat window):  
+### 2.5 Test it
+In ChatGPT (regular chat window):
 ```
 What’s on my Notion page?
 URL: https://www.notion.so/your‑page‑slug‑abc123
@@ -221,9 +220,9 @@ ChatGPT should call the tool automatically, pull the text, and answer.
 
 ---
 
-## 3. Code & Script Blocks  
+## 3. Code & Script Blocks
 
-> **Copy each file exactly as shown.**  
+> **Copy each file exactly as shown.**
 > Every line is commented in plain English.
 
 ### **requirements.txt**
@@ -297,7 +296,7 @@ NOTION_VERSION=2022-06-28
 
 ---
 
-## 4. Execution Methods Recap  
+## 4. Execution Methods Recap
 
 | Where to run? | Pros | Cons | Quick Start |
 |---------------|------|------|-------------|
@@ -306,26 +305,26 @@ NOTION_VERSION=2022-06-28
 
 ---
 
-## 5. ChatGPT Usage Pattern  
+## 5. ChatGPT Usage Pattern
 
 ### **Prompt template**
-> **“Here’s a Notion page I’d like you to read (read‑only):  
-> URL: `<paste page URL>`  
+> **“Here’s a Notion page I’d like you to read (read‑only):
+> URL: `<paste page URL>`
 > Please summarise the main ideas in no more than 10 bullet points.”**
 
-**What happens?**  
-1. ChatGPT detects a URL → calls your `My Notion Reader` connector.  
-2. Connector returns plain text.  
+**What happens?**
+1. ChatGPT detects a URL → calls your `My Notion Reader` connector.
+2. Connector returns plain text.
 3. ChatGPT writes an answer based on that text.
 
-**Limits**  
-* The script trims content to ~16 000 characters (≈ 3 200 words) to stay inside ChatGPT’s context window.  
-* If your page is longer, ask for specific sections or split the page.  
+**Limits**
+* The script trims content to ~16 000 characters (≈ 3 200 words) to stay inside ChatGPT’s context window.
+* If your page is longer, ask for specific sections or split the page.
 * Updates inside Notion are visible as soon as you re‑run the query (no cache).
 
 ---
 
-## 6. Troubleshooting  
+## 6. Troubleshooting
 
 | Symptom | Likely cause & fix |
 |---------|-------------------|
@@ -338,7 +337,7 @@ NOTION_VERSION=2022-06-28
 
 ---
 
-### ✔ You now have a 100 % free, read‑only Notion ↔ ChatGPT bridge!  
+### ✔ You now have a 100 % free, read‑only Notion ↔ ChatGPT bridge!
 Feel free to ask for deeper explanations, code tweaks, or help extending it to databases or search queries.
 
 ## You (2025-07-16T01:33:02.768000+00:00)
@@ -373,7 +372,7 @@ We’ll install a few tools — just once.
 ```bash
 python3 --version
 ```
-If it says something like `Python 3.9.x` or higher — perfect!  
+If it says something like `Python 3.9.x` or higher — perfect!
 If not: download it here: [https://www.python.org/downloads/mac-osx/](https://www.python.org/downloads/mac-osx/)
 
 ---
@@ -414,10 +413,10 @@ Then:
 nano main.py
 ```
 
-Then **copy + paste** the full code I gave earlier under `main.py`.  
-(**Don't worry — the code is safe and annotated.**)  
+Then **copy + paste** the full code I gave earlier under `main.py`.
+(**Don't worry — the code is safe and annotated.**)
 Then save it just like before:
-- `Control + O` → Enter  
+- `Control + O` → Enter
 - `Control + X` to exit
 
 ---
@@ -461,10 +460,10 @@ Start the server:
 python main.py
 ```
 
-This will launch your custom connector.  
+This will launch your custom connector.
 It runs at: `http://localhost:8000/sse`
 
-BUT — ChatGPT can’t see “localhost” (your private computer) on its own.  
+BUT — ChatGPT can’t see “localhost” (your private computer) on its own.
 We’ll fix that next.
 
 ---
@@ -904,7 +903,7 @@ This is your **public MCP Server URL** — ChatGPT can now see it.
 3. Click **+ New Connector**
 4. Fill in:
    - **Name**: `Notion Reader`
-   - **MCP Server URL**: paste your full LocalTunnel link + `/sse`  
+   - **MCP Server URL**: paste your full LocalTunnel link + `/sse`
      *(e.g., `https://witty-pineapple-24.loca.lt/sse`)*
    - **Authentication**: No authentication
    - ✅ Tick “I trust this application”
@@ -934,7 +933,7 @@ Let me know if you'd like:
 
 ## You (2025-07-16T01:43:47.258000+00:00)
 
-should i install it in the same virtual environment 
+should i install it in the same virtual environment
 
 [(venv) sakshatgoyal@MacBook-Pro notion-chatgpt-connector % ]?
 
@@ -1151,12 +1150,12 @@ sudo chown -R $(whoami) /usr/local/lib/node_modules
 sudo chown -R $(whoami) /usr/local/share
 ```
 
-> **What it does:**  
+> **What it does:**
 > Gives your user permission to safely install software with Homebrew/npm.
 
 ---
 
-### **2\. Re-run the Node installation:**  
+### **2\. Re-run the Node installation:**
 
 ```bash
 brew reinstall node
@@ -1278,12 +1277,12 @@ Now what?
 
 ## 🛠️ **Final Step: Connecting your LocalTunnel URL to ChatGPT**
 
-**1\. Copy your public URL:**  
+**1\. Copy your public URL:**
 ```
 https://evil-pets-appear.loca.lt
 ```
 
-**2\. Add `/sse` to the end.** Your complete URL becomes:  
+**2\. Add `/sse` to the end.** Your complete URL becomes:
 ```
 https://evil-pets-appear.loca.lt/sse
 ```
@@ -1347,7 +1346,7 @@ Open your browser and navigate directly to:
 https://evil-pets-appear.loca.lt/sse
 ```
 
-It should give you a response (possibly blank, but importantly, **not a connection error**).  
+It should give you a response (possibly blank, but importantly, **not a connection error**).
 
 If you see a message like:
 
@@ -1443,7 +1442,7 @@ Webhook, IPN, and other non-browser requests "should" be directly tunnelled to y
 
 ## ChatGPT (2025-07-16T01:57:03.441856+00:00)
 
-Great catch! 🎯 
+Great catch! 🎯
 
 The reason you're getting the **"Are you the developer?"** page from **LocalTunnel** is that it's meant to prevent unauthorized public use. It sets a security check by default, and ChatGPT can't bypass that screen, which explains your error.
 
@@ -1471,9 +1470,9 @@ However, this password cannot be passed directly from ChatGPT, making LocalTunne
 
 ## ☁️ **Simple guide for Cloudflare Tunnel (recommended alternative)**
 
-> **Cloudflare Tunnel:**  
-> - ✅ Free  
-> - ✅ Stable and trusted  
+> **Cloudflare Tunnel:**
+> - ✅ Free
+> - ✅ Stable and trusted
 > - ✅ No password prompts or annoying screens
 
 ---
@@ -1563,7 +1562,7 @@ Let me know how it goes or if you need help setting this up!
 
 ### ✅ **Great!** Actually, the `404 Not Found` is a very good sign here!
 
-**Why?**  
+**Why?**
 Your Flask app is specifically set up to only handle requests at the `/sse` endpoint, not the root `/`. A `404 Not Found` at the root (`/`) URL is normal.
 
 ---
@@ -1576,11 +1575,11 @@ Visit the correct endpoint (your Cloudflare URL with `/sse` added):
 https://perfect-marking-meanwhile-drain.trycloudflare.com/sse
 ```
 
-### ✅ **Correct Behavior:**  
+### ✅ **Correct Behavior:**
 - The page may look empty, but it should load without errors like "Cannot Connect" or "Offline".
 - You may briefly see "waiting" or a blank page—this is **perfectly normal** for an SSE endpoint.
 
-### ❌ **If you still see 404 at `/sse`:**  
+### ❌ **If you still see 404 at `/sse`:**
 Make sure your Flask server (`python main.py`) is still running in the other Terminal tab and shows no errors.
 
 - If you stopped your Flask app, restart it:
@@ -1594,7 +1593,7 @@ python main.py
 ## 🚀 **Set up your ChatGPT Connector (final step!)**
 
 - In **ChatGPT → Settings → Custom Connectors → + New Connector**:
-  - **MCP Server URL:**  
+  - **MCP Server URL:**
     ```
     https://perfect-marking-meanwhile-drain.trycloudflare.com/sse
     ```
@@ -1618,7 +1617,7 @@ Can you summarize its main points?
 
 ---
 
-## ✨ **You're officially done!**  
+## ✨ **You're officially done!**
 Your setup looks perfect. Let me know if you still hit a snag.
 
 ## You (2025-07-16T02:05:41.299000+00:00)
@@ -1744,10 +1743,10 @@ Below is a **fresh, four-layer troubleshooting checklist** that targets the most
 
 | Layer | What we’re verifying | How to test / what to change |
 |-------|----------------------|------------------------------|
-| **1. Connector “hand-shake”** | ChatGPT **must** receive **HTTP 200** (or 2xx) when it first _opens_ the MCP URL with a **GET** request. If it sees 404 or 405 it refuses to save the connector. | **Fix**  
+| **1. Connector “hand-shake”** | ChatGPT **must** receive **HTTP 200** (or 2xx) when it first _opens_ the MCP URL with a **GET** request. If it sees 404 or 405 it refuses to save the connector. | **Fix**
 1. Edit `main.py` so `/sse` also accepts `GET`. Add this just above the existing `@app.route("/sse", methods=["POST"])` block:  ```python @app.route("/sse", methods=["GET"]) def sse_get():     # minimal “alive” stream for ChatGPT’s handshake     return Response("data: ready\n\n", mimetype="text/event-stream") ``` 2. `CTRL+C` the running server → `python main.py` again. 3. Visit `https://…trycloudflare.com/sse` in your browser. You should now **see “ready”** (or blank page with 200 OK if the browser hides it). 4. Retry creating the connector. |
 | **2. TLS & public reachability** | ChatGPT must reach the URL over HTTPS without a warning page. | You already switched to **Cloudflare Tunnel**—that’s perfect. If Layer 1 now returns 200 OK in a normal browser tab (no password screen), this layer is cleared. |
-| **3. SSE framing & long-poll** | After creation, ChatGPT will POST (or GET) JSON to `/sse` and expect a **stream** that begins with `data:` lines. | **Test locally**  
+| **3. SSE framing & long-poll** | After creation, ChatGPT will POST (or GET) JSON to `/sse` and expect a **stream** that begins with `data:` lines. | **Test locally**
 ```bash curl -N -X POST \ -H "Content-Type: application/json" \ -d '{"url":"https://www.notion.so/<shared-page-ID>"}' \ http://localhost:8000/sse ``` You should immediately see something that starts with `data: {` … If yes, repeat the same curl to your Cloudflare URL. |
 | **4. Notion permissions & page size** | If the connector saves but fails when invoked, your Flask log will show a Notion error (401/403) or page too large. | *If you get here*, check:  1) the page is **shared** with the integration as **Can read**; 2) the integration token is correct; 3) huge pages > 16 kB need increasing the `text[:16000]` slice limit. |
 
@@ -1781,4 +1780,3 @@ Restart `python main.py`, re-run `cloudflared tunnel --url http://localhost:8000
 ---
 
 **If the connector still refuses to save after Layer 1 passes (you get 200 OK on GET /sse), please copy the exact red error text or any new Flask log messages and we’ll drill deeper.**
-

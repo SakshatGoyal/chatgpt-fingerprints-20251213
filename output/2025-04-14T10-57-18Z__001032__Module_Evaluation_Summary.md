@@ -87,4 +87,3 @@ MODULE 25 - C2-I6,Hybrid Decision-Making Models,Limited Mandates,Coordinated Tim
 MODULE 25 - C5-I3,Strategic Partnership Management,Limited Mandates,Sequenced Timing,Componentized,Medium-Term Resilience
 MODULE 26 - C1-I3,Flexible Asset Integration,Mandate-Driven,Coordinated Timing,Componentized,Enduring Assets
 MODULE 26 - C1-I4,Brand Image Cultivation,Limited Mandates,Sequenced Timing,Interlinked,Enduring Assets
-

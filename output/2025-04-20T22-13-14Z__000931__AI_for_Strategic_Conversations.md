@@ -23,7 +23,7 @@ Let’s treat this like designing a toolkit for a strategic conversation partner
 ## 🧠 Strategy Companion Archetypes by Cluster
 
 ### 🔐 **Cluster 1: High-Stakes, High-Speed, Rule-Constrained**
-**Metaphor**: The pit crew chief at a Formula 1 race  
+**Metaphor**: The pit crew chief at a Formula 1 race
 **Behavioral Goals for AI**:
 - Tighten clarity, reduce noise, move fast — but with guardrails
 - Highlight second-order effects of "tactical" moves
@@ -37,7 +37,7 @@ Let’s treat this like designing a toolkit for a strategic conversation partner
 ---
 
 ### 🏗️ **Cluster 2: Quiet Infrastructure, Strategic Planning**
-**Metaphor**: The gardener planning seasons ahead  
+**Metaphor**: The gardener planning seasons ahead
 **Behavioral Goals for AI**:
 - Make latent complexity visible
 - Scaffold strategic foresight over time
@@ -51,7 +51,7 @@ Let’s treat this like designing a toolkit for a strategic conversation partner
 ---
 
 ### 🎛️ **Cluster 3: Modular Execution, Orchestrated Action**
-**Metaphor**: A live show’s stage manager  
+**Metaphor**: A live show’s stage manager
 **Behavioral Goals for AI**:
 - Support cross-silo coordination and emotional coherence
 - Cue strategic refresh when signal of identity erosion appears
@@ -65,7 +65,7 @@ Let’s treat this like designing a toolkit for a strategic conversation partner
 ---
 
 ### 🪡 **Cluster 4: Deep Integration, Cultural Dynamics**
-**Metaphor**: The urban planner threading transit through a living city  
+**Metaphor**: The urban planner threading transit through a living city
 **Behavioral Goals for AI**:
 - Surface hidden cultural forces and systemic inertia
 - Normalize challenging cognitive patterns and embedded assumptions
@@ -214,7 +214,7 @@ You’re seeing:
 
 So here’s the punchline:
 
-> ✅ You have **plenty of material for high-value archetypes.**  
+> ✅ You have **plenty of material for high-value archetypes.**
 > ❌ You do **not yet** have enough grounded narrative detail to build truly credible personas.
 
 ---
@@ -227,42 +227,42 @@ Here are a few candidate archetypes drawn from your insights:
 
 ---
 
-#### 🧠 **The Narrative Clinger**  
-**Belief**: “Our original story still holds — just give it more time.”  
-**Pattern**: Delays updating plans due to overcommitment to partnerships or optimism bias.  
-**Trap**: Misses early disruption signals.  
+#### 🧠 **The Narrative Clinger**
+**Belief**: “Our original story still holds — just give it more time.”
+**Pattern**: Delays updating plans due to overcommitment to partnerships or optimism bias.
+**Trap**: Misses early disruption signals.
 **Strategic Blind Spot**: Underestimates persistent change.
 
 ---
 
-#### 🛡️ **The Control Optimizer**  
-**Belief**: “We should do it ourselves — partnerships slow us down.”  
-**Pattern**: Overvalues autonomy, undervalues collaborative leverage.  
-**Trap**: Slower scaling, missed ecosystems.  
+#### 🛡️ **The Control Optimizer**
+**Belief**: “We should do it ourselves — partnerships slow us down.”
+**Pattern**: Overvalues autonomy, undervalues collaborative leverage.
+**Trap**: Slower scaling, missed ecosystems.
 **Strategic Blind Spot**: Power through interdependence.
 
 ---
 
-#### ⚙️ **The Tactical Firefighter**  
-**Belief**: “Let’s fix the immediate — we’ll think long-term later.”  
-**Pattern**: Short-term cost cutting undermines long-term innovation.  
-**Trap**: Strategic erosion over time.  
+#### ⚙️ **The Tactical Firefighter**
+**Belief**: “Let’s fix the immediate — we’ll think long-term later.”
+**Pattern**: Short-term cost cutting undermines long-term innovation.
+**Trap**: Strategic erosion over time.
 **Strategic Blind Spot**: Systemic capacity building.
 
 ---
 
-#### 🎭 **The Brand Steward**  
-**Belief**: “If we scale too fast, we’ll lose our soul.”  
-**Pattern**: Fears digital dilution of premium customer experience.  
-**Trap**: Underinvestment in scalable innovation.  
+#### 🎭 **The Brand Steward**
+**Belief**: “If we scale too fast, we’ll lose our soul.”
+**Pattern**: Fears digital dilution of premium customer experience.
+**Trap**: Underinvestment in scalable innovation.
 **Strategic Blind Spot**: Emotional loyalty at scale.
 
 ---
 
-#### 🔍 **The False Dichotomizer**  
-**Belief**: “We need to choose — intuition *or* analysis.”  
-**Pattern**: Frames instinct and data as adversaries.  
-**Trap**: Missed integration of deep experience and evidence.  
+#### 🔍 **The False Dichotomizer**
+**Belief**: “We need to choose — intuition *or* analysis.”
+**Pattern**: Frames instinct and data as adversaries.
+**Trap**: Missed integration of deep experience and evidence.
 **Strategic Blind Spot**: Dual-mode cognition.
 
 ---
@@ -281,4 +281,3 @@ These aren’t just fictional execs. They’re recurring *modes of executive rea
 ---
 
 Would you like me to help develop a full set of 6–8 archetypes like these, with consistent structure and visual/interaction design hooks? Or perhaps sketch out how they could be deployed within a product?
-

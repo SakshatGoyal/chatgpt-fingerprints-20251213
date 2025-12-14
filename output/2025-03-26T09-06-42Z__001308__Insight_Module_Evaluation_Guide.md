@@ -5,8 +5,6 @@
 Hey, I created this document for a team of designers, researchers, and analysts. But could you take this entire document and see if you can convert it into something that's easy to read for an O3 model by ChatGPT? You don't have to necessarily make it shorter. Make sure gravity does not become an excuse for lack of specificity. Every piece of information is important. And yeah, just give me as much content as is necessary.
 
 
-
-
 ⸻
 
 🧠 Insight Module Evaluation Guide
@@ -168,16 +166,16 @@ Absolutely—I can translate this into a form that’s optimized for an O3-level
 
 I'll now rewrite this document in a way that would be **directly consumable by an O3 reasoning model**, assuming this is being passed as a system prompt, fine-tuned instruction, or embedded guidance layer. It will:
 
-- Maintain full fidelity to your instructions  
-- Use unambiguous, model-parseable structure  
-- Make roles, logic paths, and edge cases interpretable  
+- Maintain full fidelity to your instructions
+- Use unambiguous, model-parseable structure
+- Make roles, logic paths, and edge cases interpretable
 - Preserve human-like language where useful, but structured for logic-first comprehension
 
 ---
 
 ### 🔍 **O3-Optimized Instructional Rewrite**
 
-**INSIGHT MODULE EVALUATION INSTRUCTION SET**  
+**INSIGHT MODULE EVALUATION INSTRUCTION SET**
 **Purpose**: Guide an advanced language reasoning model to evaluate, categorize, and tag executive-focused insight modules using a multi-dimensional strategic framework.
 
 ---
@@ -188,9 +186,9 @@ You are given individual *Insight Modules*, each derived from strategic reports,
 
 For each module:
 
-1. **Score** its relevance against 21 predefined strategic questions.  
-2. **Categorize** it into one of three thematic areas (or a combined theme if scoring is tied).  
-3. **Mark as INVALID** if the module lacks relevance across all 21 questions.  
+1. **Score** its relevance against 21 predefined strategic questions.
+2. **Categorize** it into one of three thematic areas (or a combined theme if scoring is tied).
+3. **Mark as INVALID** if the module lacks relevance across all 21 questions.
 
 Your analysis will guide strategic synthesis for executive decision-making research.
 
@@ -302,7 +300,7 @@ Ask:
 - Does this module clarify the **core intent** of the question?
 - Does it offer **insightful executive behavior** or **strategic signals** tied to the theme?
 
-If yes → score = `1`  
+If yes → score = `1`
 If no or shallow → score = `0`
 
 Focus on **relevance and strategic signal**, not surface phrasing.
@@ -349,7 +347,7 @@ Absolutely. Here's a critical evaluation of the O3-optimized version I wrote, hi
 ## 🔍 **Meta-Review: Potential Model Pitfalls**
 
 ### 1. **Ambiguity in Scoring Criteria**
-**Issue:**  
+**Issue:**
 > *"Score 1 if the module meaningfully contributes…"*
 
 While "meaningfully contributes" is intentionally interpretive, models may:
@@ -357,34 +355,34 @@ While "meaningfully contributes" is intentionally interpretive, models may:
 - Fail to recognize indirect but strategic relevance
 - Hesitate when there's partial relevance (e.g., scoring 0 when a 1 is justified under the intent)
 
-**Fix Suggestion:**  
+**Fix Suggestion:**
 Include *graded examples* of “meaningful” vs. “shallow” contributions per question type (or per category), perhaps embedded as few-shot prompts or appendices.
 
 ---
 
 ### 2. **Stress Test Utilization May Be Undervalued**
-**Issue:**  
+**Issue:**
 > *"Use the Stress Test to infer mindset and executive logic…"*
 
 The role of the *Insight Stress Test* section is powerful but underspecified. The model may:
 - Default to the Insight Statement and supporting context only
 - Ignore counterfactuals or contradictions unless explicitly prompted
 
-**Fix Suggestion:**  
-Add a **step** that *explicitly requires parsing the Stress Test* prior to scoring. For instance:  
+**Fix Suggestion:**
+Add a **step** that *explicitly requires parsing the Stress Test* prior to scoring. For instance:
 > “Before scoring, extract 1–2 key strategic tensions or failure points from the Stress Test section.”
 
 ---
 
 ### 3. **Vagueness in Tie-Break Logic**
-**Issue:**  
+**Issue:**
 > *“Assign a combined tag if two categories are tied.”*
 
 This sounds clear, but models may:
 - Assign combined tags when one category has a clearly **stronger qualitative match**, even if tied numerically
 - Assume combined tags should always be used in 3-3-1 score distributions (where a better tie-break rule could be used)
 
-**Fix Suggestion:**  
+**Fix Suggestion:**
 Clarify:
 - *How to handle edge cases*, like 3-3-1 or 2-2-2 score distributions
 - Whether *qualitative dominance* can override numeric ties
@@ -392,7 +390,7 @@ Clarify:
 ---
 
 ### 4. **Category Overlap and Leakage**
-**Issue:**  
+**Issue:**
 Several questions across categories share subtle conceptual overlaps. For example:
 - Category 1 Q5 (“short- vs long-term”) vs. Category 2 Q3 (“conflicting priorities”) vs. Category 3 Q5 (“AI challenges thinking”)
 
@@ -400,90 +398,90 @@ A model may:
 - Over-attribute relevance across multiple categories
 - Exhibit false positives on general themes like “strategic trade-offs”
 
-**Fix Suggestion:**  
+**Fix Suggestion:**
 Provide **diagnostic heuristics** for distinguishing similar questions, e.g.:
 > “If the trade-off involves *human vs. AI logic*, favor Category 3; if it's *short- vs long-term orientation*, favor Category 1.”
 
 ---
 
 ### 5. **Ambiguity in “Invalid” Criteria**
-**Issue:**  
+**Issue:**
 > *“Mark as INVALID if all 21 scores are 0.”*
 
 A model may:
 - Reluctantly assign 0s due to its default helpfulness bias
 - Be unclear whether a vague module (e.g., with loose metaphors or generic insight) should be force-fit
 
-**Fix Suggestion:**  
+**Fix Suggestion:**
 Add examples of **invalid but well-written** modules to disambiguate *clarity* from *strategic value*. Reinforce that:
 > “Surface insight ≠ strategic signal.”
 
 ---
 
 ### 6. **Implicit Expectations About Scope**
-**Issue:**  
-It says:  
-> *“You are given individual Insight Modules…”*  
-But not:  
+**Issue:**
+It says:
+> *“You are given individual Insight Modules…”*
+But not:
 > *"Treat each module as fully self-contained. Do not draw inferences from prior modules."*
 
 A model might:
 - In multi-shot mode, anchor to prior modules or responses
 - Introduce scope creep by referencing unstated external knowledge
 
-**Fix Suggestion:**  
+**Fix Suggestion:**
 Explicitly reinforce that **each module is independent** and should be judged in isolation.
 
 ---
 
 ### 7. **Relevance of Organizational-Level Generalizations**
-**Issue:**  
+**Issue:**
 > *“Applies broadly to enterprise-level decision culture—no individual behavior called out.”*
 
 This is helpful, but:
 - The model may under-score insights that lack a clear executive subject if it's overly literal
 - It might incorrectly bias toward modules with “executive” language
 
-**Fix Suggestion:**  
+**Fix Suggestion:**
 Embed a rule like:
 > “Relevance to *executive logic patterns* can be inferred even in the absence of explicit executive language—use org-level cues.”
 
 ---
 
 ### 8. **Missing Confidence Score**
-**Issue:**  
+**Issue:**
 Model judgments are binary, but some edge cases might be 51/49 or unclear. This can lead to:
 - Overconfidence in weak tag choices
 - Inconsistent application of the 0/1 scoring line
 
-**Fix Suggestion:**  
+**Fix Suggestion:**
 Optionally add a secondary output:
-> `Confidence Score (0–1)` per tag and per question  
+> `Confidence Score (0–1)` per tag and per question
 This can help downstream reviewers spot marginal calls.
 
 ---
 
 ### 9. **Lack of Procedural Anchoring**
-**Issue:**  
+**Issue:**
 The steps are linear, but the model might:
 - Jump to tagging early if it finds strong cues
 - Skip detailed analysis for weaker modules
 
-**Fix Suggestion:**  
+**Fix Suggestion:**
 Anchor the model in procedural discipline:
 > “Do not assign a thematic tag until all 21 questions are scored and category scores are summed.”
 
 ---
 
 ### 10. **Generalization Across Domain Terms**
-**Issue:**  
+**Issue:**
 Modules may contain domain-specific terms (e.g., “LTV:CAC ratio” or “agile portfolio budgeting”).
 
 A model might:
 - Over-index on jargon
 - Miss the strategic behavior pattern underneath
 
-**Fix Suggestion:**  
+**Fix Suggestion:**
 Include a reminder:
 > “When domain-specific language is present, focus on the strategic behavior or decision pattern it implies—not the term itself.”
 
@@ -510,27 +508,27 @@ Would you like me to build any of these fixes directly into a new version of the
 
 ## You (2025-03-26T09:26:50.199507+00:00)
 
-I'll go through my feedback one by one. 
+I'll go through my feedback one by one.
 
-for issue 1, yes i'll work on the examples. 
+for issue 1, yes i'll work on the examples.
 
-for issue 2, in that case let the model default to the insight statement, executive decision making context, and the supporting context. let's not overcomplicate by adding more layers of thought. 
+for issue 2, in that case let the model default to the insight statement, executive decision making context, and the supporting context. let's not overcomplicate by adding more layers of thought.
 
-for issue 3, what i'm really trying to do is in addition to the 3 categories, create some additional categories that are a combination of 2 or more categories. So in essense, there might be a 4th category like Cateroy 1 + cateogry 2. in those cases, i want chatgpt to flag it as such. but those might be rare edge cases. 
+for issue 3, what i'm really trying to do is in addition to the 3 categories, create some additional categories that are a combination of 2 or more categories. So in essense, there might be a 4th category like Cateroy 1 + cateogry 2. in those cases, i want chatgpt to flag it as such. but those might be rare edge cases.
 
-For issue 4, give me a moment and i'll provide some diagnostic heuristics. 
+For issue 4, give me a moment and i'll provide some diagnostic heuristics.
 
-For issue 5, yes i'll try to find some examples. 
+For issue 5, yes i'll try to find some examples.
 
-for issue 6, yes i agree with you, and i think thats something you can add within the documentation. 
+for issue 6, yes i agree with you, and i think thats something you can add within the documentation.
 
-for issue 7, i agree with you. lets make a set of rules that can be embedded for these kinds of cases. 
+for issue 7, i agree with you. lets make a set of rules that can be embedded for these kinds of cases.
 
-for issue 8, i'd rather remove the line about scoring confidently. i don't want to add additional scores for the model to calculate. 
+for issue 8, i'd rather remove the line about scoring confidently. i don't want to add additional scores for the model to calculate.
 
-for issue 9, yes i agree, and you can introdue such language within the prompt or documentation. 
+for issue 9, yes i agree, and you can introdue such language within the prompt or documentation.
 
-for issue 10, yes i agree, and you can introdue such language within the prompt or documentation. 
+for issue 10, yes i agree, and you can introdue such language within the prompt or documentation.
 
 in the meantime, i want you to give me brief suggestions on all the areas where i've asked you to work on and sit tight as i work on the things i've promised you
 
@@ -541,22 +539,22 @@ Perfect—here’s a concise list of **suggestions** based on the areas you've g
 ---
 
 ### ✅ **Issue 2 – Simplify Stress Test Usage**
-**Embed this rule:**  
+**Embed this rule:**
 > “By default, evaluate using the *Insight Statement*, *Executive Context*, and *Supporting Context*. Use the *Stress Test* only if additional clarity is needed or if the primary components are ambiguous.”
 
 ---
 
 ### ✅ **Issue 3 – Combined Category Logic**
-**Embed this rule:**  
+**Embed this rule:**
 > “If two or more categories score equally, assign a Combined Category Tag (e.g., `Category 1 + Category 2`). These represent legitimate hybrid insight types. Treat them as distinct fourth, fifth, or sixth categories—not as ambiguous or partial fits.”
 
-Also:  
+Also:
 > “Combined Category Tags should only be used when **score parity reflects true conceptual duality**—not random noise. Use sparingly and with intention.”
 
 ---
 
 ### ✅ **Issue 6 – Scope Clarification**
-**Embed this rule:**  
+**Embed this rule:**
 > “Each Insight Module is fully self-contained. Do not infer context from prior modules or external sources. All judgments must be made solely on the internal logic of the current module.”
 
 ---
@@ -572,13 +570,13 @@ Add this set of **inference rules** for modules without individual-level subject
 ---
 
 ### ✅ **Issue 9 – Procedural Enforcement**
-**Embed this rule:**  
+**Embed this rule:**
 > “Do not assign a category tag until you have scored all 21 questions and tallied the scores per category. Tagging must follow scoring—not precede it.”
 
 ---
 
 ### ✅ **Issue 10 – Jargon Interpretation**
-**Embed this rule:**  
+**Embed this rule:**
 > “When modules use industry-specific terminology, interpret the underlying *decision behavior* or *logic pattern*. Do not anchor your scoring to terminology familiarity—anchor to strategic relevance.”
 
 ---
@@ -666,7 +664,6 @@ Structural friction due to misalignment or politics	Category 2
 Executive hesitation due to AI’s unknowns or risk profile	Category 3
 
 
-
 ⸻
 
 🔁 Guiding principle: When in doubt, ask:
@@ -720,7 +717,7 @@ This version preserves the strategic tone, layered complexity, and interpretive 
 
 ---
 
-# 🧠 Insight Module Evaluation Guide  
+# 🧠 Insight Module Evaluation Guide
 ### Optimized for ChatGPT-O3 Reasoning Execution
 
 ---
@@ -737,27 +734,27 @@ Your task is to assess each module’s contribution to a predefined set of 21 st
 
 For each Insight Module:
 
-1. **Read thoroughly.**  
+1. **Read thoroughly.**
    Focus on:
-   - Insight Statement  
-   - Executive Context  
-   - Supporting Context  
+   - Insight Statement
+   - Executive Context
+   - Supporting Context
    Use the Insight Stress Test only if primary components lack clarity or present contradiction.
 
-2. **Score against all 21 questions**  
+2. **Score against all 21 questions**
    For each question:
    - Score `1` if the module meaningfully contributes to the question's **intent**
-   - Score `0` if the insight is irrelevant, too vague, or lacks strategic signal  
+   - Score `0` if the insight is irrelevant, too vague, or lacks strategic signal
    *(Use the scoring examples below as intuition guidance)*
 
-3. **Group scores into 3 categories**  
+3. **Group scores into 3 categories**
    Each category has 7 questions → max score = 7 per category.
 
-4. **Assign a Category Tag**  
-   - Use the **highest scoring** category.  
+4. **Assign a Category Tag**
+   - Use the **highest scoring** category.
    - If **two categories tie**, assign a *Combined Category Tag* (e.g., `Category 1 + Category 2`).
 
-5. **If all scores are 0 → mark as `INVALID`**  
+5. **If all scores are 0 → mark as `INVALID`**
    This means the module is irrelevant to the strategic framing.
 
 ---
@@ -767,9 +764,9 @@ For each Insight Module:
 Return:
 - A binary scoring table (21 questions × 0 or 1)
 - Final note with:
-  - Insight Module Code  
-  - Category Tag (e.g., `Category 2`)  
-  - Combined Category Tag (e.g., `Category 1 + Category 3`)  
+  - Insight Module Code
+  - Category Tag (e.g., `Category 2`)
+  - Combined Category Tag (e.g., `Category 1 + Category 3`)
   - Or mark as `INVALID`
 
 ---
@@ -779,8 +776,8 @@ Return:
 Each module has two parts:
 
 ### 1. Insight Construction
-- **Insight Statement** – Often provocative or counterintuitive  
-- **Executive Context** – Stakes, dilemmas, assumptions  
+- **Insight Statement** – Often provocative or counterintuitive
+- **Executive Context** – Stakes, dilemmas, assumptions
 - **Supporting Context** – Frameworks, case examples, comparative patterns
 
 ### 2. Insight Stress Test *(Use only when needed)*
@@ -851,8 +848,8 @@ Culture-driven leadership styles | Category 1
 Misalignment or politics | Category 2
 Risk aversion due to AI unknowns | Category 3
 
-🧠 **When in doubt, ask:**  
-> “What is the *tension* really about?”  
+🧠 **When in doubt, ask:**
+> “What is the *tension* really about?”
 Follow strategic center of gravity—not surface keywords.
 
 ---
@@ -920,11 +917,11 @@ Example of a **well-written but INVALID** module:
 
 > “Executives are increasingly expected to act as moral compasses. The emerging role of moral leadership requires not only ethical frameworks, but emotional intelligence and social fluency.”
 
-**Why INVALID:**  
+**Why INVALID:**
 No decision-making process, challenge, trade-off, or logic surfaced.
 
-🔁 *Reminder:*  
-> **Surface insight ≠ strategic signal**  
+🔁 *Reminder:*
+> **Surface insight ≠ strategic signal**
 Just because it’s “smart” doesn’t mean it fits this framework.
 
 ---
@@ -946,9 +943,9 @@ Do **not** penalize modules for abstraction—**infer intent** when supported by
 
 ## 🧭 **Scope and Independence**
 
-Each Insight Module is **independent**.  
-- Do **not** reference prior modules  
-- Do **not** draw on external facts or assumptions  
+Each Insight Module is **independent**.
+- Do **not** reference prior modules
+- Do **not** draw on external facts or assumptions
 Evaluate the module **solely** on its internal logic and structure.
 
 ---
@@ -956,8 +953,8 @@ Evaluate the module **solely** on its internal logic and structure.
 ## 🧠 **Cognitive Discipline**
 
 You must:
-- **Score all 21 questions** before assigning a tag  
-- **Sum category scores** before assigning the label  
+- **Score all 21 questions** before assigning a tag
+- **Sum category scores** before assigning the label
 - Avoid early tagging or premature inference
 
 > “Tagging follows scoring. No shortcuts.”
@@ -966,11 +963,11 @@ You must:
 
 ## ✅ Final Summary of Execution Rules
 
-- Focus on relevance to strategic *decision-making*, not generic insight  
-- Use scoring heuristics to resolve ambiguity  
-- Combine categories only when truly justified  
-- Use inference when behavior is implied but not named  
-- Mark as `INVALID` if the module offers no decision logic  
+- Focus on relevance to strategic *decision-making*, not generic insight
+- Use scoring heuristics to resolve ambiguity
+- Combine categories only when truly justified
+- Use inference when behavior is implied but not named
+- Mark as `INVALID` if the module offers no decision logic
 - Be structured, disciplined, and interpretive—not literal
 
 ---
@@ -989,9 +986,9 @@ Excellent—this is a thoughtful and important design choice. Let’s break it d
 
 ## 🔄 Summary of Your Setup
 
-- You have ~20 documents, each with ~30 **Insight Modules**  
-- You’ll process one document per **chat window**  
-- Each module must be **scored, tagged, and potentially invalidated** using a detailed, rigorous framework  
+- You have ~20 documents, each with ~30 **Insight Modules**
+- You’ll process one document per **chat window**
+- Each module must be **scored, tagged, and potentially invalidated** using a detailed, rigorous framework
 - You’re choosing between:
   1. A **single long prompt** (embedding all instructions inline)
   2. A **two-document system** (instructions + data, referenced in a prompt)
@@ -1048,11 +1045,11 @@ Given your context, a **hybrid approach** is likely optimal:
 
 ### 🔁 Per Run Workflow:
 1. Upload both documents
-2. Prompt:  
+2. Prompt:
    > “You are evaluating Insight Modules according to the scoring framework defined in the attached **Instructions Document**. Work on the first 15 Insight Modules in the attached **Insight Module Document**. Score each against the 21 strategic questions and assign a final tag (Category, Combined Category, or INVALID) as specified.”
-   >  
+   >
    > “Before scoring, re-familiarize yourself with the structure in the Instructions Document. Do not skip steps. Wait to assign a category tag until all questions have been scored for each module.”
-   >  
+   >
    > “Let me know when you’re done and ready for the next batch.”
 
 3. After processing the first 15 modules, say:
@@ -1066,7 +1063,7 @@ Add in mid-run reinforcement:
 
 ## ✅ Final Recommendation
 
-Use the **two-document system** for scalability, modularity, and maintainability.  
+Use the **two-document system** for scalability, modularity, and maintainability.
 Pair it with a **strong wrapper prompt** that:
 
 - Points the model toward the instructions document
@@ -1085,7 +1082,7 @@ No lets look at what's more efficient for the module to execute. I'll have to co
 
 ## ChatGPT (2025-03-26T18:09:06.856062+00:00)
 
-Ah—great clarification. If you’re copying/pasting either way, then we’re not weighing *ease of reuse* or *maintenance*, but rather:  
+Ah—great clarification. If you’re copying/pasting either way, then we’re not weighing *ease of reuse* or *maintenance*, but rather:
 
 > **Which execution approach enables ChatGPT-O3 to process Insight Modules more efficiently, more accurately, and with the least cognitive lag?**
 
@@ -1097,10 +1094,10 @@ Let’s reframe accordingly.
 
 When we say “more efficient for the model,” we mean:
 
-1. **Faster alignment** with the evaluation framework  
-2. **Lower interpretive lag** across multiple Insight Modules  
-3. **Higher consistency** in tagging, scoring, and invalidation  
-4. **Fewer breakdowns** mid-run (e.g., hallucinating rules, skipping questions)  
+1. **Faster alignment** with the evaluation framework
+2. **Lower interpretive lag** across multiple Insight Modules
+3. **Higher consistency** in tagging, scoring, and invalidation
+4. **Fewer breakdowns** mid-run (e.g., hallucinating rules, skipping questions)
 5. **Better memory discipline** when processing ~15 modules per run
 
 ---
@@ -1122,12 +1119,12 @@ When we say “more efficient for the model,” we mean:
 
 ## 🧪 Efficiency Verdict: Which Is Better for *Model Execution Fidelity*?
 
-### ✅ **Winner for Short-Term Interpretive Precision**  
-**Single Long Prompt**  
+### ✅ **Winner for Short-Term Interpretive Precision**
+**Single Long Prompt**
 > Better grounding, lower ambiguity, stronger execution fidelity *if you're only doing ~15 modules per run and re-pasting every time.*
 
-### ✅ **Winner for Medium-Term Throughput + Token Headroom**  
-**Attached Instructions + Reinforced Prompt**  
+### ✅ **Winner for Medium-Term Throughput + Token Headroom**
+**Attached Instructions + Reinforced Prompt**
 > More scalable and token-efficient—but only if the prompt includes **repeatable anchors and reminders** to keep the model aligned.
 
 ---
@@ -1154,4 +1151,3 @@ Then use a **two-document setup**, but structure the prompt like this:
 You are executing a complex evaluation framework as defined in the attached **Instructions Document**.
 
 You will now process the first 15 Insight Modules in the attached **Insight Module Document**. For each
-

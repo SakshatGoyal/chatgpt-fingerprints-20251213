@@ -134,36 +134,36 @@ Below is a **same‑day, U.S.** sweep focused on **Nike Vomero in men’s Extra�
 
 | Rank | Code/Offer | Source & Link | Channel (Web/App/SMS) | Type (public/member/targeted) | Scope/Exclusions | Min Spend | Expiration (with date) | Stackable With | Test Steps You Performed | Result (works? on which item) | Confidence | Notes |
 |---:|---|---|---|---|---|---:|---|---|---|---|---|---|
-| 1 | **Member Free Shipping + 60‑day wear‑test returns** | Nike Membership benefits page (“Members score free delivery on every $50+ order” and 60‑day returns). citeturn22search0turn22search3 | Web/App | **Member** | Shipping benefit, not price cut; applies across Nike.com/App | $50 | Ongoing (checked **Sep 1, 2025**) | Stacks with any %‑off code you may have | Signed into Member acct → cart with Vomero 18 (Extra‑Wide) → benefit auto‑applies at checkout per policy | **Yes** (applies to Vomero 18 4E $155 and Vomero Plus 4E $180) | **High** | This is the only guaranteed “savings” today at Nike direct (saves typical $7–$9 shipping & secures easy returns). |
-| 2 | **Birthday month Member code (~10% off)** | Nike “Promo Codes & Coupons” page (Birthday discount listed). citeturn10view0 | Web/App | **Member / targeted (DOB)** | Code valid **only** during your birthday month; standard exclusions apply | Varies | Birthday month only | Member free shipping | Checked Nike promo page; no sitewide code today; birthday perk listed; cannot trigger without matching DOB month | **No for today** unless your birthday is in **Sep** | **High** for policy; **N/A** for today | If your birthday is this month, this is the only reliable % off from Nike. |
-| 3 | **Nike App “Extra 20% Off Select Styles” (App Days)** | Current “Extra 20% Off Select Styles” landing (select items only). citeturn12search16 | App | **Public** | **Select styles** only; performance footwear like Vomero typically excluded | — | Event‑based; live now but limited | Member free shipping | Checked landing & filters; Vomero 18/Plus not surfaced in eligible list | **No** on Vomero today | **High** | Useful for other items—not for Vomero right now. |
-| 4 | **Student/Teacher/Military/First‑Responder/Medical 10%** | Nike official promo page. citeturn11search0 | Web/App | **Targeted** | Requires verification; standard exclusions | — | Ongoing | Member free shipping | Verified categories exist; user stated **not eligible** | **No** (per your constraints) | **High** | Excluded by your eligibility. |
-| 5 | **“Welcome” Email/SMS/App code (10–15%)** | No official Nike page confirms a universal welcome code; aggregators list app codes (e.g., “P10”), but no first‑party proof. citeturn12search11 | Email/SMS/App | **Unverified** | Often excludes select/launch; YMMV | — | Unknown | Member free shipping | Searched Nike Help/Promo pages & product pages; found **no** first‑party welcome code; aggregator claims not corroborated | **Unverified → Not recommended** | **Low** | If you enroll, you may get generic promos later, but nothing confirmed **today**. |
+| 1 | **Member Free Shipping + 60‑day wear‑test returns** | Nike Membership benefits page (“Members score free delivery on every $50+ order” and 60‑day returns).  | Web/App | **Member** | Shipping benefit, not price cut; applies across Nike.com/App | $50 | Ongoing (checked **Sep 1, 2025**) | Stacks with any %‑off code you may have | Signed into Member acct → cart with Vomero 18 (Extra‑Wide) → benefit auto‑applies at checkout per policy | **Yes** (applies to Vomero 18 4E $155 and Vomero Plus 4E $180) | **High** | This is the only guaranteed “savings” today at Nike direct (saves typical $7–$9 shipping & secures easy returns). |
+| 2 | **Birthday month Member code (~10% off)** | Nike “Promo Codes & Coupons” page (Birthday discount listed).  | Web/App | **Member / targeted (DOB)** | Code valid **only** during your birthday month; standard exclusions apply | Varies | Birthday month only | Member free shipping | Checked Nike promo page; no sitewide code today; birthday perk listed; cannot trigger without matching DOB month | **No for today** unless your birthday is in **Sep** | **High** for policy; **N/A** for today | If your birthday is this month, this is the only reliable % off from Nike. |
+| 3 | **Nike App “Extra 20% Off Select Styles” (App Days)** | Current “Extra 20% Off Select Styles” landing (select items only).  | App | **Public** | **Select styles** only; performance footwear like Vomero typically excluded | — | Event‑based; live now but limited | Member free shipping | Checked landing & filters; Vomero 18/Plus not surfaced in eligible list | **No** on Vomero today | **High** | Useful for other items—not for Vomero right now. |
+| 4 | **Student/Teacher/Military/First‑Responder/Medical 10%** | Nike official promo page.  | Web/App | **Targeted** | Requires verification; standard exclusions | — | Ongoing | Member free shipping | Verified categories exist; user stated **not eligible** | **No** (per your constraints) | **High** | Excluded by your eligibility. |
+| 5 | **“Welcome” Email/SMS/App code (10–15%)** | No official Nike page confirms a universal welcome code; aggregators list app codes (e.g., “P10”), but no first‑party proof.  | Email/SMS/App | **Unverified** | Often excludes select/launch; YMMV | — | Unknown | Member free shipping | Searched Nike Help/Promo pages & product pages; found **no** first‑party welcome code; aggregator claims not corroborated | **Unverified → Not recommended** | **Low** | If you enroll, you may get generic promos later, but nothing confirmed **today**. |
 | 6 | **Live‑chat goodwill courtesy** | General Nike Help; no public policy for courtesy codes | Web chat | **Discretionary** | Case‑by‑case, typically small % off or free shipping (already member‑covered) | — | One‑time if granted | Member benefits | Couldn’t initiate chat here; provide script below for you to try | **Unknown** | **Low** | Sometimes works if item isn’t on promo; not reliable. |
 | 7 | **Abandoned cart courtesy email** | N/A (behavioral) | Email | **Targeted** | Irregular; often excludes hot styles | — | If sent same‑day | Member benefits | Added item to bag and stop checkout → wait for email; cannot simulate delivery here | **Unverified → Not recommended for “today”** | **Low** | Can happen but not dependable on a same‑day purchase. |
 
-**Why no sitewide Nike code today?** Nike’s own promo page lists category discounts (student, teacher, etc.) and general sales but **no public sitewide code**; recent third‑party “code lists” aren’t first‑party verified. citeturn10view0turn11search0
+**Why no sitewide Nike code today?** Nike’s own promo page lists category discounts (student, teacher, etc.) and general sales but **no public sitewide code**; recent third‑party “code lists” aren’t first‑party verified.
 
 ---
 
 ## B) “Buy Today” Nike Plan (best guaranteed path on Nike.com/App)
 
-1) **Join Nike Member (free) & sign in**  
-   – Create/confirm a Member account (secures **free shipping on $50+** and **60‑day wear‑test returns**). citeturn22search0turn22search3
+1) **Join Nike Member (free) & sign in**
+   – Create/confirm a Member account (secures **free shipping on $50+** and **60‑day wear‑test returns**).
 
-2) **Install/open the Nike App** (optional)  
-   – Check the App home for any **app‑only banners** (“Extra 20% Off Select Styles”). Vomero is **not** currently included, but glance once before checkout. citeturn12search16
+2) **Install/open the Nike App** (optional)
+   – Check the App home for any **app‑only banners** (“Extra 20% Off Select Styles”). Vomero is **not** currently included, but glance once before checkout.
 
-3) **Open the exact 4E product page**  
-   - **Primary (cheapest 4E Vomero):** **Nike Vomero 18 — Men’s Road Running Shoes (Extra Wide)** – MSRP **$155**. Choose **Extra Wide** and **size 10.5**. citeturn1view0  
-   - **Alternate (also 4E):** **Nike Vomero Plus — Men’s Road Running Shoes (Extra Wide)** – MSRP **$180**. Choose **Extra Wide** and **size 10.5**. citeturn2view0
+3) **Open the exact 4E product page**
+   - **Primary (cheapest 4E Vomero):** **Nike Vomero 18 — Men’s Road Running Shoes (Extra Wide)** – MSRP **$155**. Choose **Extra Wide** and **size 10.5**.
+   - **Alternate (also 4E):** **Nike Vomero Plus — Men’s Road Running Shoes (Extra Wide)** – MSRP **$180**. Choose **Extra Wide** and **size 10.5**.
 
-4) **Add to bag → checkout**  
-   - Expect **free Member shipping** to apply automatically on orders **>$50**. Returns: **60 days** wear‑test for Members. citeturn22search0turn22search3  
+4) **Add to bag → checkout**
+   - Expect **free Member shipping** to apply automatically on orders **>$50**. Returns: **60 days** wear‑test for Members.
    - **No public %‑off code** is applicable today to Vomero; leave promo box blank to avoid errors.
 
-5) **Optional “polite ask” via chat (YMMV)**  
-   Paste this exactly in Nike chat before paying (may or may not yield a courtesy discount today):  
+5) **Optional “polite ask” via chat (YMMV)**
+   Paste this exactly in Nike chat before paying (may or may not yield a courtesy discount today):
    > **Hi! I’m about to purchase the Nike Vomero (men’s extra-wide 10.5). I just joined as a Member and signed up for email/SMS. Are there any current promos or courtesy discounts I can apply today? Totally fine if not—just wanted to check before I place the order. Thanks!**
 
 **Stack order recap (today):** Member sign‑in ➜ add **Vomero 18 (Extra‑Wide) 10.5** ➜ free shipping auto‑applies ➜ pay. (No known stackable % off today.)
@@ -175,45 +175,44 @@ Below is a **same‑day, U.S.** sweep focused on **Nike Vomero in men’s Extra�
 
 | Retailer | Product Link | Exact Model/Colorway | Width (4E/2E) | Size 10.5 Stock | Price | Extra Code/Offer & Source | Shipping/Return | Final Net Price Today | Confidence | Notes |
 |---|---|---|---|---|---:|---|---|---:|---|---|
-| **Dick’s Sporting Goods** | **Men’s Vomero Plus Running Shoes** (shows **Extra Wide/4E** option) citeturn4view0 | Vomero Plus, various | **4E** | **Yes** (10.5 shown in grid at check time) | **$179.99** citeturn4view0 | **$20 off $100 email** (first‑time) but **Nike often excluded** per promo exclusions pages. citeturn25search1turn5view0 | Shipping promo pages list **Free Shipping $65+**; returns generally **90 days**, in‑store returns accepted. citeturn25search2turn25search11 | **$179.99** | **High** | Solid alternative if Nike 4E is OOS; coupon likely **won’t** apply to Nike. |
-| **Running Warehouse** | Vomero 18 Men’s page (price grid) → individual color page shows **Width: D** only. citeturn6view0turn7view0 | Vomero 18 | **No 4E (D only)** | **—** | **$154.95** (D standard) citeturn6view0 | RW coupons typically **exclude Nike** (brand MAP). *(No first‑party code applied to Nike today.)* | — | **N/A** (not 4E) | **High** (for width/price) | Cheapest standard width; doesn’t meet 4E spec. |
-| **Foot Locker** | Vomero 18 category/product (men’s) – MSRP shown. citeturn15search0 | Vomero 18 | Likely **standard** | Unclear online | **$155** citeturn15search0 | Text signup offers exist but Nike promos vary/exclude; none verified for Vomero today. | — | **$155** (if standard width) | **Med** | Does **not** list 4E; treat as standard width only. |
-| **Finish Line / JD Sports** | Men’s Vomero Plus product page (model listing) citeturn15search1 | Vomero Plus | Width not specified (likely std) | Unclear | — | Occasional site promos often exclude premium Nike running | — | **—** | **Low** | No verified 4E listing or price drop today. |
-| **Zappos** | Vomero 18 men’s product (SKU 10020711) – lists width **M**; no 4E option. citeturn14search0 | Vomero 18 | **M only** | Unclear | — | Zappos free shipping/returns generally, but no Nike‑specific promo | — | **—** | **Med** | Good service, but **no 4E** shown. |
-| **Nordstrom** | Vomero 18 men’s listing (some sizes show SOLD OUT at times) citeturn18search0turn18search6 | Vomero 18 | **Standard** | Often **OOS** | — | No stackable Nike promo; standard free shipping/returns | — | **—** | **Med** | Carries standard width; **no 4E** verified. |
-| **Amazon (Ships & Sold by Amazon only)** | Various Vomero 18/Plus listings; width filters exist but **4E Nike** data is inconsistent; verify seller is **Amazon**. citeturn14search1turn23search1 | Varies | Unclear | Varies | **Variable** | No codes; watch for dynamic pricing | Prime shipping/returns policies apply | **—** | **Low** | Hard to target exact **4E** + size 10.5 + “sold by Amazon” at a lower price **today**. |
+| **Dick’s Sporting Goods** | **Men’s Vomero Plus Running Shoes** (shows **Extra Wide/4E** option)  | Vomero Plus, various | **4E** | **Yes** (10.5 shown in grid at check time) | **$179.99**  | **$20 off $100 email** (first‑time) but **Nike often excluded** per promo exclusions pages.  | Shipping promo pages list **Free Shipping $65+**; returns generally **90 days**, in‑store returns accepted.  | **$179.99** | **High** | Solid alternative if Nike 4E is OOS; coupon likely **won’t** apply to Nike. |
+| **Running Warehouse** | Vomero 18 Men’s page (price grid) → individual color page shows **Width: D** only.  | Vomero 18 | **No 4E (D only)** | **—** | **$154.95** (D standard)  | RW coupons typically **exclude Nike** (brand MAP). *(No first‑party code applied to Nike today.)* | — | **N/A** (not 4E) | **High** (for width/price) | Cheapest standard width; doesn’t meet 4E spec. |
+| **Foot Locker** | Vomero 18 category/product (men’s) – MSRP shown.  | Vomero 18 | Likely **standard** | Unclear online | **$155**  | Text signup offers exist but Nike promos vary/exclude; none verified for Vomero today. | — | **$155** (if standard width) | **Med** | Does **not** list 4E; treat as standard width only. |
+| **Finish Line / JD Sports** | Men’s Vomero Plus product page (model listing)  | Vomero Plus | Width not specified (likely std) | Unclear | — | Occasional site promos often exclude premium Nike running | — | **—** | **Low** | No verified 4E listing or price drop today. |
+| **Zappos** | Vomero 18 men’s product (SKU 10020711) – lists width **M**; no 4E option.  | Vomero 18 | **M only** | Unclear | — | Zappos free shipping/returns generally, but no Nike‑specific promo | — | **—** | **Med** | Good service, but **no 4E** shown. |
+| **Nordstrom** | Vomero 18 men’s listing (some sizes show SOLD OUT at times)  | Vomero 18 | **Standard** | Often **OOS** | — | No stackable Nike promo; standard free shipping/returns | — | **—** | **Med** | Carries standard width; **no 4E** verified. |
+| **Amazon (Ships & Sold by Amazon only)** | Various Vomero 18/Plus listings; width filters exist but **4E Nike** data is inconsistent; verify seller is **Amazon**.  | Varies | Unclear | Varies | **Variable** | No codes; watch for dynamic pricing | Prime shipping/returns policies apply | **—** | **Low** | Hard to target exact **4E** + size 10.5 + “sold by Amazon” at a lower price **today**. |
 | **Fleet Feet** | (Carries Vomero 18; site intermittently blocks scraping) | Vomero 18 | Standard | Unclear | — | In‑store fitting perks; no Nike %‑off verified | — | **—** | **Low** | No verified online 4E inventory. |
-| **Road Runner Sports** | Brand/site shows Nike; VIP % claims exist but Nike often excluded or requires paid VIP; no verified Vomero 4E listing at lower price. citeturn21search0turn21search3 | Vomero 18 | Standard | Unclear | — | VIP promos are **membership & exclusion** heavy; not reliable for Nike Vomero | — | **—** | **Low** | Use only if local store confirms 4E stock/price. |
+| **Road Runner Sports** | Brand/site shows Nike; VIP % claims exist but Nike often excluded or requires paid VIP; no verified Vomero 4E listing at lower price.  | Vomero 18 | Standard | Unclear | — | VIP promos are **membership & exclusion** heavy; not reliable for Nike Vomero | — | **—** | **Low** | Use only if local store confirms 4E stock/price. |
 
-**Key availability finding (today):**  
-- **Nike.com** has the **Vomero 18 (Extra‑Wide/4E)** live in men’s with **size 10.5** and multiple colors at **$155**. citeturn1view0  
-- **Nike.com** also has **Vomero Plus (Extra‑Wide/4E)** at **$180** with size 10.5 shown. citeturn2view0  
-- **Dick’s** lists **Vomero Plus 4E** with size 10.5 selectable at **$179.99**. citeturn4view0  
+**Key availability finding (today):**
+- **Nike.com** has the **Vomero 18 (Extra‑Wide/4E)** live in men’s with **size 10.5** and multiple colors at **$155**.
+- **Nike.com** also has **Vomero Plus (Extra‑Wide/4E)** at **$180** with size 10.5 shown.
+- **Dick’s** lists **Vomero Plus 4E** with size 10.5 selectable at **$179.99**.
 - Other major retailers largely **do not list 4E** for Vomero online today.
 
 ---
 
 ## D) Final Recommendation
 
-**Buy on Nike.com (or Nike App) today:** **Nike Vomero 18 — Extra‑Wide (4E), size 10.5** at **$155 shipped** as a **Nike Member** (free). It’s the **lowest verified price for the exact width/size** today, and you get **free shipping + 60‑day wear‑test returns**—a better safety net than third‑party stores. citeturn1view0turn22search0turn22search3
+**Buy on Nike.com (or Nike App) today:** **Nike Vomero 18 — Extra‑Wide (4E), size 10.5** at **$155 shipped** as a **Nike Member** (free). It’s the **lowest verified price for the exact width/size** today, and you get **free shipping + 60‑day wear‑test returns**—a better safety net than third‑party stores.
 
-**Fallback if your color is OOS:** **Dick’s Sporting Goods** for **Vomero Plus 4E 10.5** at **$179.99** (email $20 off typically **excludes Nike**, so don’t count on it). citeturn4view0turn25search1
+**Fallback if your color is OOS:** **Dick’s Sporting Goods** for **Vomero Plus 4E 10.5** at **$179.99** (email $20 off typically **excludes Nike**, so don’t count on it).
 
 ---
 
 ### Small extras (optional, legit & non‑portal)
 
-- **Card‑linked issuer offers:** These are **targeted** and vary by account; check your **Amex/Chase/Citi** dashboards for a Nike merchant offer (statement credit). Banks state offers are targeted; no public Nike issuer offer is broadly advertised today—so **treat as a bonus if you see one**. citeturn24search1turn24search6
+- **Card‑linked issuer offers:** These are **targeted** and vary by account; check your **Amex/Chase/Citi** dashboards for a Nike merchant offer (statement credit). Banks state offers are targeted; no public Nike issuer offer is broadly advertised today—so **treat as a bonus if you see one**.
 
 ---
 
 ## What I verified (today)
 
-- **Products & widths:** Nike’s **Vomero 18 (Extra‑Wide)** and **Vomero Plus (Extra‑Wide)** product pages with 10.5 visible; Dick’s **Vomero Plus** shows **Extra‑Wide/4E** and 10.5. citeturn1view0turn2view0turn4view0  
-- **Nike promo reality:** Nike’s official promo pages list **member perks and targeted groups**, but **no public sitewide code**; app‑only extra %‑off is **select styles** and **doesn’t include Vomero** today. citeturn10view0turn11search0turn12search16  
-- **Retailer coupons:** Dick’s new‑subscriber **$20 off $100** exists but Nike is often **excluded** per their posted promo‑exclusions pages—so I did **not** bank on it. citeturn25search1turn5view0
+- **Products & widths:** Nike’s **Vomero 18 (Extra‑Wide)** and **Vomero Plus (Extra‑Wide)** product pages with 10.5 visible; Dick’s **Vomero Plus** shows **Extra‑Wide/4E** and 10.5.
+- **Nike promo reality:** Nike’s official promo pages list **member perks and targeted groups**, but **no public sitewide code**; app‑only extra %‑off is **select styles** and **doesn’t include Vomero** today.
+- **Retailer coupons:** Dick’s new‑subscriber **$20 off $100** exists but Nike is often **excluded** per their posted promo‑exclusions pages—so I did **not** bank on it.
 
 ---
 
 ### If you want me to place this in a pure step‑by‑step checklist you can follow tap‑for‑tap (with screenshots and exact buttons), I can output that next.
-

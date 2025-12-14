@@ -171,26 +171,25 @@ Specific Examples/Artifacts:
 📚 **Recommended Persona-Specific Sources**:
 
 **Primary Sources:**
-- **Lean In: Women, Work, and the Will to Lead** (Book)  
+- **Lean In: Women, Work, and the Will to Lead** (Book)
   — Insightful into Sandberg’s foundational beliefs around leadership, motivation, and organizational culture.
 
-- **Sheryl Sandberg’s Harvard Commencement Address (2014)** (Speech)  
+- **Sheryl Sandberg’s Harvard Commencement Address (2014)** (Speech)
   — Demonstrates Sandberg’s explicit articulation of navigating complex, nuanced strategic and ethical challenges.
 
-- **Sandberg's Testimony to the US Senate (2018)** (Public Record)  
+- **Sandberg's Testimony to the US Senate (2018)** (Public Record)
   — Direct visibility into Sandberg’s communication under stress and decision-making style amidst intense compliance pressures and public accountability.
 
 **Secondary Sources:**
-- **An Ugly Truth by Sheera Frenkel and Cecilia Kang** (Investigative Biography)  
+- **An Ugly Truth by Sheera Frenkel and Cecilia Kang** (Investigative Biography)
   — Offers deep insights into Sandberg’s behavioral patterns under stress, especially regarding risk, compliance, and strategic ambiguity.
 
-- **Bloomberg Profile: "Sheryl Sandberg's Complicated Legacy at Facebook"**  
+- **Bloomberg Profile: "Sheryl Sandberg's Complicated Legacy at Facebook"**
   — Provides nuanced analysis of Sandberg’s balancing act between official and informal power structures and decision-making amidst ethical and legal dilemmas.
 
 **Specific Examples/Artifacts:**
-- **Sheryl Sandberg’s appearance on "Masters of Scale" Podcast** (Interview with Reid Hoffman, 2018)  
+- **Sheryl Sandberg’s appearance on "Masters of Scale" Podcast** (Interview with Reid Hoffman, 2018)
   — Rich example of Sandberg explicitly discussing cognitive frameworks, decision-making heuristics, and how she translates ambiguity into actionable strategies.
 
-- **Sandberg's internal memos (leaked/released in Congressional hearings)**  
+- **Sandberg's internal memos (leaked/released in Congressional hearings)**
   — Detailed evidence of Sandberg’s internal strategic and communicative approaches to resolving conflicts between organizational imperatives and external pressures.
-

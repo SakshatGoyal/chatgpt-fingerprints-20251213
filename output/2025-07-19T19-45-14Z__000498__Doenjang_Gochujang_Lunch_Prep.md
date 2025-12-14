@@ -40,4 +40,3 @@ Absolutely — you've got the foundation for a flavorful, deeply satisfying Kore
 - **Zero waste**: All your ingredients get used up with minimal prep time.
 
 Would you like a variation idea for flavor rotation mid-week?
-

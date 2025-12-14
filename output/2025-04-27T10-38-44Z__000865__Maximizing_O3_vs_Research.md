@@ -22,14 +22,14 @@ At a high level:
 
 ---
 
-**Simple way to remember:**  
-> Maximizing O3 = Best use of **its mind**.  
+**Simple way to remember:**
+> Maximizing O3 = Best use of **its mind**.
 > Deep Research = Best use of **the world's mind**.
 
 ---
 
-Would you like me to also show **some concrete examples**?  
-(e.g., "maximizing o3" vs. "using deep research" on the same problem?)  
+Would you like me to also show **some concrete examples**?
+(e.g., "maximizing o3" vs. "using deep research" on the same problem?)
 It makes it super clear when you see it side by side.
 
 ## You (2025-04-27T10:41:11.618996+00:00)
@@ -57,18 +57,18 @@ If we assume **O3 can also search the internet**, **then the line between "maxim
 ---
 
 ### In short:
-> With internet search, maximizing O3 is like **being fast and clever with raw inputs**.  
+> With internet search, maximizing O3 is like **being fast and clever with raw inputs**.
 > Deep research is still about **being slow, serious, and structured with curated inputs**.
 
 ---
 
-Would you like me to show a *before and after* example, like:  
-- "Maximize O3 + internet" version of a task  
-vs.  
+Would you like me to show a *before and after* example, like:
+- "Maximize O3 + internet" version of a task
+vs.
 - "Deep research" version of the *same* task?
 
-It makes this even sharper if you want to really see the contrast.  
-(And it's surprisingly relevant for deciding **how you want to use O3 on different projects**.)  
+It makes this even sharper if you want to really see the contrast.
+(And it's surprisingly relevant for deciding **how you want to use O3 on different projects**.)
 Want me to?
 
 ## You (2025-04-27T10:42:37.550082+00:00)
@@ -77,11 +77,11 @@ So how can we bridge the gap between o3 and deep research for those who can't af
 
 ## ChatGPT (2025-04-27T10:42:38.412369+00:00)
 
-This is a *very* good and important question.  
+This is a *very* good and important question.
 You're thinking in exactly the right direction — **how do we democratize deep research**, not just make it a luxury?
 
-Here’s the truth:  
-You **can** bridge the gap between O3 and true deep research without needing a $200/month premium subscription.  
+Here’s the truth:
+You **can** bridge the gap between O3 and true deep research without needing a $200/month premium subscription.
 But **you have to consciously change your approach** when using the free (or cheaper) versions.
 
 ---
@@ -101,12 +101,12 @@ Here’s a practical **bridging strategy**:
 
 ### In simple terms:
 
-If you don't have paid search and deep tools,  
+If you don't have paid search and deep tools,
 **you become the researcher and O3 becomes your analyst**.
 
-- **You** find real, non-garbage sources.  
-- **You** set a deliberate pace: “slow down and think carefully.”  
-- **You** break it into steps so it can reason properly.  
+- **You** find real, non-garbage sources.
+- **You** set a deliberate pace: “slow down and think carefully.”
+- **You** break it into steps so it can reason properly.
 - **O3** helps you organize, synthesize, pattern-find, pressure-test.
 
 ---
@@ -122,8 +122,7 @@ Both ways can get you gourmet results — **if you play your role well**.
 
 ---
 
-Would you like me to show you a **step-by-step playbook**  
-for doing "real" deep research on free O3, **even if you have no built-in web search**?  
-(It's very doable if you want — like a template you can reuse.)  
+Would you like me to show you a **step-by-step playbook**
+for doing "real" deep research on free O3, **even if you have no built-in web search**?
+(It's very doable if you want — like a template you can reuse.)
 Want me to?
-

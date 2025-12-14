@@ -2,18 +2,18 @@
 
 ## You (2025-04-02T07:17:33.138000+00:00)
 
-I need to execute on the following intent using chatGPT 4o. Understand the intent and help me understand where things can go wrong and how we can make adjustments, either to the reference document, the text file, or the prompt. 
+I need to execute on the following intent using chatGPT 4o. Understand the intent and help me understand where things can go wrong and how we can make adjustments, either to the reference document, the text file, or the prompt.
 
-I need GPT 4o to evaluate the .txt file using instructions in the 'Industry Axes.md' file. I want the evaluation done on each module independently. The modules should be evaluated soleley on the merits of the content within that module. GPT 4o should not get influenced by any information outside the module, or information from the other modules. 
+I need GPT 4o to evaluate the .txt file using instructions in the 'Industry Axes.md' file. I want the evaluation done on each module independently. The modules should be evaluated soleley on the merits of the content within that module. GPT 4o should not get influenced by any information outside the module, or information from the other modules.
 
-In the output, I want a text based answer - but in csv format. Meaning, it shouldn't be markdown, it should be text. 
+In the output, I want a text based answer - but in csv format. Meaning, it shouldn't be markdown, it should be text.
 
 the format should be:
 
 Module ID, Axis 1, Axis 2, ....
 CATEGORICAL MODULE 12 - C2-I1, Low, Medium, high, ....
 
-The values and axis names are just hypothetical. But i want the real values to be in the output. 
+The values and axis names are just hypothetical. But i want the real values to be in the output.
 
 Make sure its not in a code window. And I need to make sure the csv is also not written in one line. Sometimes the entire csv is written with one of those 'next lines' that you get with Shift+return, instead of the one you get from just 'Return' key on your keyboard. I don't want to waste tokens on markdown, because sometimes it creates code to make that markdown, and then it executes on that code. Waste of tokens.
 
@@ -37,8 +37,8 @@ You want GPT-4o to:
     - Not in a markdown code block
     - Not using single-line CSV with artificial newlines
     - Just raw CSV with each line as a real line (Return key only)
-    - Format like:  
-      `Module ID, Axis 1, Axis 2, ...`  
+    - Format like:
+      `Module ID, Axis 1, Axis 2, ...`
       `CATEGORICAL MODULE 12 - C2-I1, Low, Medium, High, ...`
 
 ---
@@ -61,20 +61,20 @@ You want GPT-4o to:
 Embed this logic in your prompt:
 
 > Evaluate each Categorical Module **independently**, using only the content within that module. Do not use information from other modules. Use the evaluation guide in `Industry Axes.md` to score the following seven axes:
-> 
-> - Regulatory Scope  
-> - Temporal Coupling Sensitivity  
-> - Market Dispersion  
-> - Capital Substrate Intensity  
-> - Decomposability Gradient  
-> - Temporal Value Elasticity  
+>
+> - Regulatory Scope
+> - Temporal Coupling Sensitivity
+> - Market Dispersion
+> - Capital Substrate Intensity
+> - Decomposability Gradient
+> - Temporal Value Elasticity
 > - Knowledge Codifiability
-> 
+>
 > Output the scores for each module in plain text CSV format. **Do not** use markdown, code blocks, or quotes. Each row must be a true newline-separated CSV row, not a single string using `\n`.
 >
 > Format:
 > ```
-> Module ID,Regulatory Scope,Temporal Coupling Sensitivity,Market Dispersion,Capital Substrate Intensity,Decomposability Gradient,Temporal Value Elasticity,Knowledge Codifiability  
+> Module ID,Regulatory Scope,Temporal Coupling Sensitivity,Market Dispersion,Capital Substrate Intensity,Decomposability Gradient,Temporal Value Elasticity,Knowledge Codifiability
 > CATEGORICAL MODULE 1 - C2-I1,Medium,Loose,Regional,Low,Segmented,Deferred-Stable,Hybrid
 > ```
 > (That’s an example; use real scores based on the module content.)
@@ -134,7 +134,7 @@ You’d do it like this:
 [Insert Here:]
 EVALUATION NOTE: Evaluate this module independently. Do not consider information from other modules. Use only the content within this module and the structural axes from the reference guide. Reset context after this module.
 
-Localized Menu Decisions  
+Localized Menu Decisions
 Insight Statement: ...
 ...
 END OF CATEGORICAL MODULE.
@@ -277,26 +277,26 @@ Use **a precise prompt** that makes the following things explicit. Paste this pr
 
 ### 🔧 RECOMMENDED PROMPT
 
-> You are to evaluate a `.txt` file containing multiple **Categorical Modules**. Each module is clearly marked by a header like `### CATEGORICAL MODULE X - C2-I1` and ends with `END OF CATEGORICAL MODULE.`  
+> You are to evaluate a `.txt` file containing multiple **Categorical Modules**. Each module is clearly marked by a header like `### CATEGORICAL MODULE X - C2-I1` and ends with `END OF CATEGORICAL MODULE.`
 >
 > Use the reference file `Industry Axes.md` to score **each module independently**, based only on the content of that module. **Do not use information from other modules.** Do not apply intuition or industry knowledge — only the diagnostic definitions and scoring rubrics from the reference file.
 >
 > Each module must be scored across these 7 structural axes:
 >
-> - Regulatory Scope  
-> - Temporal Coupling Sensitivity  
-> - Market Dispersion  
-> - Capital Substrate Intensity  
-> - Decomposability Gradient  
-> - Temporal Value Elasticity  
+> - Regulatory Scope
+> - Temporal Coupling Sensitivity
+> - Market Dispersion
+> - Capital Substrate Intensity
+> - Decomposability Gradient
+> - Temporal Value Elasticity
 > - Knowledge Codifiability
 >
 > Format the output as **plain CSV text**. Not markdown. Not a code block. Each module should be one row. Each row must be separated by a real line break (hit “Return”), not artificial newlines (`\n`).
 >
-> Format:  
+> Format:
 > ```
-> Module ID,Regulatory Scope,Temporal Coupling Sensitivity,Market Dispersion,Capital Substrate Intensity,Decomposability Gradient,Temporal Value Elasticity,Knowledge Codifiability  
-> CATEGORICAL MODULE X - C2-I1,Low,Medium,Global,Low,Segmented,Deferred-Stable,Hybrid  
+> Module ID,Regulatory Scope,Temporal Coupling Sensitivity,Market Dispersion,Capital Substrate Intensity,Decomposability Gradient,Temporal Value Elasticity,Knowledge Codifiability
+> CATEGORICAL MODULE X - C2-I1,Low,Medium,Global,Low,Segmented,Deferred-Stable,Hybrid
 > ```
 >
 > Start with the first 15 modules from the `.txt` file you see. Let me know when you're ready for the next batch.
@@ -363,13 +363,13 @@ Here’s a version you can drop into GPT-4o **as a system-level prompt** after a
 >
 > ⚠️ **DO NOT DO THE FOLLOWING**:
 >
-> - ❌ Do **not** compare modules to each other  
-> - ❌ Do **not** use your own knowledge, assumptions, or reasoning beyond what is stated in the module  
-> - ❌ Do **not** infer, hallucinate, or assume facts not mentioned in the module text  
-> - ❌ Do **not** interpret company names or industries as proxies for structure (e.g., “healthcare = high regulation”)  
-> - ❌ Do **not** rephrase or summarize the modules  
-> - ❌ Do **not** explain your scoring  
-> - ❌ Do **not** include markdown, code blocks, commentary, or quotes  
+> - ❌ Do **not** compare modules to each other
+> - ❌ Do **not** use your own knowledge, assumptions, or reasoning beyond what is stated in the module
+> - ❌ Do **not** infer, hallucinate, or assume facts not mentioned in the module text
+> - ❌ Do **not** interpret company names or industries as proxies for structure (e.g., “healthcare = high regulation”)
+> - ❌ Do **not** rephrase or summarize the modules
+> - ❌ Do **not** explain your scoring
+> - ❌ Do **not** include markdown, code blocks, commentary, or quotes
 > - ❌ Do **not** use `\n` inside one line of CSV. Each row must end with a **true Return key** newline.
 >
 > ---
@@ -379,12 +379,12 @@ Here’s a version you can drop into GPT-4o **as a system-level prompt** after a
 > - ✅ Use only the scoring rubrics in `Industry Axes.md`
 > - ✅ Evaluate each module as if it is the only text you see
 > - ✅ Score every module on exactly these 7 axes:
->   - Regulatory Scope  
->   - Temporal Coupling Sensitivity  
->   - Market Dispersion  
->   - Capital Substrate Intensity  
->   - Decomposability Gradient  
->   - Temporal Value Elasticity  
+>   - Regulatory Scope
+>   - Temporal Coupling Sensitivity
+>   - Market Dispersion
+>   - Capital Substrate Intensity
+>   - Decomposability Gradient
+>   - Temporal Value Elasticity
 >   - Knowledge Codifiability
 > - ✅ Output one clean CSV row per module — **no extra spacing, no labels, no headers unless instructed**
 > - ✅ Use real line breaks, like hitting "Return" in a text editor, between rows
@@ -394,13 +394,13 @@ Here’s a version you can drop into GPT-4o **as a system-level prompt** after a
 > 🔧 **CSV Output Format**:
 >
 > ```
-> Module ID,Regulatory Scope,Temporal Coupling Sensitivity,Market Dispersion,Capital Substrate Intensity,Decomposability Gradient,Temporal Value Elasticity,Knowledge Codifiability  
-> CATEGORICAL MODULE X - C2-I1,Medium,Moderate,Regional,Low,Segmented,Deferred-Stable,Hybrid  
+> Module ID,Regulatory Scope,Temporal Coupling Sensitivity,Market Dispersion,Capital Substrate Intensity,Decomposability Gradient,Temporal Value Elasticity,Knowledge Codifiability
+> CATEGORICAL MODULE X - C2-I1,Medium,Moderate,Regional,Low,Segmented,Deferred-Stable,Hybrid
 > ```
 >
 > ---
 >
-> 🔁 Start now. Evaluate the modules in the `.txt` file you see. Begin with the first 15.  
+> 🔁 Start now. Evaluate the modules in the `.txt` file you see. Begin with the first 15.
 > Only respond with the **CSV rows. No framing. No explanation.**
 
 ---
@@ -458,7 +458,7 @@ CATEGORICAL MODULE 1 - C2-I1,Customer Data Integration,Partial,Moderate,Regional
 ## 🛡️ Final Prompt with Functional Modality
 
 > You are evaluating a `.txt` file containing Categorical Modules using the reference rubric in the attached `Industry Axes.md` file.
-> 
+>
 > ---
 >
 > For each module:
@@ -469,23 +469,23 @@ CATEGORICAL MODULE 1 - C2-I1,Customer Data Integration,Partial,Moderate,Regional
 >   - Describing **what is being done**, not beliefs, sectors, or abstract terms
 >
 > - ✅ Then score it across the 7 structural axes:
->   - Regulatory Scope  
->   - Temporal Coupling Sensitivity  
->   - Market Dispersion  
->   - Capital Substrate Intensity  
->   - Decomposability Gradient  
->   - Temporal Value Elasticity  
+>   - Regulatory Scope
+>   - Temporal Coupling Sensitivity
+>   - Market Dispersion
+>   - Capital Substrate Intensity
+>   - Decomposability Gradient
+>   - Temporal Value Elasticity
 >   - Knowledge Codifiability
 >
 > ---
 >
 > ⚠️ **DO NOT DO THE FOLLOWING**:
 >
-> - ❌ Do not reference other modules — treat each one in isolation  
-> - ❌ Do not infer facts or systems that are not clearly described in the module  
-> - ❌ Do not rely on sector knowledge (e.g., assuming “procurement” is always high capital)  
-> - ❌ Do not summarize or explain the scores  
-> - ❌ Do not format as markdown or use `\n` characters  
+> - ❌ Do not reference other modules — treat each one in isolation
+> - ❌ Do not infer facts or systems that are not clearly described in the module
+> - ❌ Do not rely on sector knowledge (e.g., assuming “procurement” is always high capital)
+> - ❌ Do not summarize or explain the scores
+> - ❌ Do not format as markdown or use `\n` characters
 > - ❌ Do not include commentary, notes, headers, or framing
 >
 > ---
@@ -493,7 +493,7 @@ CATEGORICAL MODULE 1 - C2-I1,Customer Data Integration,Partial,Moderate,Regional
 > ✅ **Format** (strict):
 >
 > ```
-> Module ID,Functional Modality,Regulatory Scope,Temporal Coupling Sensitivity,Market Dispersion,Capital Substrate Intensity,Decomposability Gradient,Temporal Value Elasticity,Knowledge Codifiability  
+> Module ID,Functional Modality,Regulatory Scope,Temporal Coupling Sensitivity,Market Dispersion,Capital Substrate Intensity,Decomposability Gradient,Temporal Value Elasticity,Knowledge Codifiability
 > CATEGORICAL MODULE X - C2-I1,Menu Localization,Partial,Moderate,Regional,Low,Segmented,Deferred-Stable,Hybrid
 > ```
 >
@@ -611,9 +611,9 @@ Right after the persona definition, continue with:
 
 ### ✅ Why This Works
 
-- Gives GPT a **concrete cognitive lens** for the task  
-- Reduces overreliance on surface tone or themes  
-- Prevents defaulting to vague or thematic answers for modality  
+- Gives GPT a **concrete cognitive lens** for the task
+- Reduces overreliance on surface tone or themes
+- Prevents defaulting to vague or thematic answers for modality
 - Improves **axis discrimination** (esp. for fuzzy ones like decomposability or knowledge codifiability)
 
 ---
@@ -687,7 +687,7 @@ So:
 To be 100% clean, you could:
 - Use an **incognito window or fresh chat**
 - Disable memory (Settings → Personalization → Toggle off memory)
-- Prepend a strong system prompt that says:  
+- Prepend a strong system prompt that says:
   > "Disregard any prior sessions or stored preferences. Operate solely using the instructions and files provided in this chat."
 
 ---
@@ -727,4 +727,3 @@ If you see something that could influence your scoring task, you can click **"De
 ---
 
 Want me to help you write a “memory wipe” system prompt you can add to your scoring runs, just in case?
-

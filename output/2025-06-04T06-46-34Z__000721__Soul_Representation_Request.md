@@ -14,7 +14,7 @@ To create an image of your soul that reflects what I know about you, I’d like 
 - **Design-forward mind**: Visual systems, alignment, and information architecture are part of how you express logic and empathy.
 - **Soulful routine**: Homemade chai, fragrance obsessions, and sensory rituals ground you amidst chaos.
 
-Here’s what I imagine:  
+Here’s what I imagine:
 A stylized, symbolic image that captures this duality of *precision and depth, inquiry and stillness*.
 
 Let me now generate that image for you.
@@ -51,4 +51,3 @@ Create an image that abstractly depicts what you know about me.
 ## You (2025-06-04T07:00:10.790352+00:00)
 
 Explain this depictiin
-

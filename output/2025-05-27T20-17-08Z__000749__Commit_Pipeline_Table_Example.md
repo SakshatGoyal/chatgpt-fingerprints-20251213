@@ -32,7 +32,6 @@ Let me know if you’d like a version exportable to Excel/Sheets or to add overl
 
 ## You (2025-05-28T05:28:00.985000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-ArqdUN6Rkwvyf1uqC9y2Sf', 'size_bytes': 250921, 'width': 2048, 'height': 1456, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Imagine you're looking at this table of renewals. Where would you expect this to appear?
 
 - as an individual tab on your page
@@ -85,4 +84,3 @@ And crucially:
 **Most efficient setup: standalone tab for At-Risk Renewals.** It's faster, cleaner, and aligns with how a quota-carrying AE thinks: clear lanes for net new, expansion, and retention. That clarity is what drives execution.
 
 Want me to mock up what the tab layout and filters would look like?
-

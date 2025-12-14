@@ -23,11 +23,11 @@ This mindset is a muscle—it grows stronger with intention and practice.
 
 ok here're my thoughts—
 
-- aiming to be interested, that's the goal right? I feel like you've reiterated the goal without providing a path to reach the goal. 
+- aiming to be interested, that's the goal right? I feel like you've reiterated the goal without providing a path to reach the goal.
 - Active listening: I've practiced that to a degree but two things happen
---1. On occasion people get uninterested or assume that you're just nodding along so its a bit of a turn off. 
---2. Sometimes, since I have adhd, it is hard to active listen. 
-- Ask questions that matter: I think I'd like some examples for this one. 
+--1. On occasion people get uninterested or assume that you're just nodding along so its a bit of a turn off.
+--2. Sometimes, since I have adhd, it is hard to active listen.
+- Ask questions that matter: I think I'd like some examples for this one.
 - Recognize the reward: yes I already recognize the reward, but how do we get there?
 
 ## ChatGPT (2025-05-21T15:01:07.005094+00:00)
@@ -55,4 +55,3 @@ These questions aim for depth, encouraging the other person to reflect, expand, 
 |----------------------------|-------------------------------------------------------------|
 | **Reflective Insight**     | _“Looking back, what did that experience teach you?”_       |
 | **Motivation & Meaning**   | _“What about that work/project really inspires you?”_       |
-

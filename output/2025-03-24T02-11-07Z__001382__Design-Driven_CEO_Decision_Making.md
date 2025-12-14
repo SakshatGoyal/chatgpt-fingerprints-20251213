@@ -149,9 +149,9 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-Key Themes: This paper explores how CEOs in the Korean automobile industry leverage design-driven decision making as a strategic tool to redefine corporate identity and differentiate products in a competitive market.  
-Core Motivations: The study addresses the challenge of overcoming traditional, quantitatively focused decision frameworks by integrating design as a qualitative, strategic asset that transforms brand image and corporate culture.  
-Methodological Clarification: Using qualitative case studies, literature review, and interviews, the paper examines design-driven strategies at Kia Motors and Hyundai Motor Company. While the empirical evidence is drawn from comparative analyses and documented performance metrics, limitations exist due to the context-specific nature of the case studies.  
+Key Themes: This paper explores how CEOs in the Korean automobile industry leverage design-driven decision making as a strategic tool to redefine corporate identity and differentiate products in a competitive market.
+Core Motivations: The study addresses the challenge of overcoming traditional, quantitatively focused decision frameworks by integrating design as a qualitative, strategic asset that transforms brand image and corporate culture.
+Methodological Clarification: Using qualitative case studies, literature review, and interviews, the paper examines design-driven strategies at Kia Motors and Hyundai Motor Company. While the empirical evidence is drawn from comparative analyses and documented performance metrics, limitations exist due to the context-specific nature of the case studies.
 Relevance Assessment: The findings offer contemporary executives critical insights into embedding design innovation within strategic decision-making to drive sustainable competitive advantage and long-term market differentiation.
 
 ---
@@ -160,57 +160,57 @@ Relevance Assessment: The findings offer contemporary executives critical insigh
 
 ### Insight 1
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Design-driven decision making diverges from traditional cost or finance-driven strategies by prioritizing qualitative factors and creative intuition to achieve brand differentiation and long-term competitive advantage. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-Strategic Dilemma: Executives must balance the need for measurable financial outcomes with investments in intangible design elements that can redefine corporate identity.  
-Underlying Beliefs & Biases: A prevailing bias toward quantitative analysis often undervalues creative insights, leading to an underinvestment in design as a strategic resource.  
-Expected vs. Actual Outcomes: Although traditional metrics may not immediately capture the impact of design, empirical evidence from Kia and Hyundai reveals significant enhancements in market positioning and brand distinctiveness.  
+**2. Executive Decision-Making Context**
+Strategic Dilemma: Executives must balance the need for measurable financial outcomes with investments in intangible design elements that can redefine corporate identity.
+Underlying Beliefs & Biases: A prevailing bias toward quantitative analysis often undervalues creative insights, leading to an underinvestment in design as a strategic resource.
+Expected vs. Actual Outcomes: Although traditional metrics may not immediately capture the impact of design, empirical evidence from Kia and Hyundai reveals significant enhancements in market positioning and brand distinctiveness.
 Broader Implications: Integrating design into strategic planning can foster cultural transformation and sustainable innovation, challenging conventional decision frameworks. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper provides empirical evidence through detailed case studies of Kia and Hyundai, illustrating how design-driven initiatives—such as the appointment of specialized design officers and the development of unique brand symbols—have led to enhanced competitive positioning and corporate renewal. **[Empirical]**
 
 ---
 
 ### Insight 2
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Kia’s radical strategy of appointing an external design expert versus Hyundai’s evolutionary approach of promoting internal design leadership highlights that the method of implementing design-driven decisions must align with a company’s legacy and market positioning. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-Strategic Dilemma: Organizations face the critical choice between disrupting established practices through external expertise or fostering gradual change via internal talent cultivation.  
-Underlying Beliefs & Biases: Traditional biases favor internal promotion for continuity, which can hinder the bold innovation required to break away from legacy constraints.  
-Expected vs. Actual Outcomes: Kia’s transformative hiring of Peter Schreyer catalyzed rapid rebranding and differentiation, while Hyundai’s reliance on internal expertise via Suk Geun Oh enabled a more measured, evolutionary change.  
+**2. Executive Decision-Making Context**
+Strategic Dilemma: Organizations face the critical choice between disrupting established practices through external expertise or fostering gradual change via internal talent cultivation.
+Underlying Beliefs & Biases: Traditional biases favor internal promotion for continuity, which can hinder the bold innovation required to break away from legacy constraints.
+Expected vs. Actual Outcomes: Kia’s transformative hiring of Peter Schreyer catalyzed rapid rebranding and differentiation, while Hyundai’s reliance on internal expertise via Suk Geun Oh enabled a more measured, evolutionary change.
 Broader Implications: The decision to adopt either a disruptive or evolutionary approach should reflect the firm’s history and strategic ambitions, as both methods can successfully drive design innovation when properly contextualized. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The study contrasts Kia’s external recruitment of a design celebrity with Hyundai’s internal promotion strategy, providing empirical case comparisons that underscore how each approach aligns with distinct corporate identities and strategic trajectories. **[Empirical]**
 
 ---
 
 ### Insight 3
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Design-driven decision making functions as a strategic lever that extends beyond product aesthetics to reshape corporate culture and identity, suggesting that long-term success may rely on viewing design as an intangible yet critical asset. **[Inferred]**
 
-**2. Executive Decision-Making Context**  
-Strategic Dilemma: Executives must reconcile short-term financial performance with investments in design that promise long-term cultural and brand transformation.  
-Underlying Beliefs & Biases: A short-term focus on quantifiable returns can lead to the undervaluation of design’s broader, transformative potential.  
-Expected vs. Actual Outcomes: Although immediate gains may be less quantifiable, the long-term evolution in corporate identity—as demonstrated by redefined brand symbols and innovative product designs—signals enduring competitive advantages.  
+**2. Executive Decision-Making Context**
+Strategic Dilemma: Executives must reconcile short-term financial performance with investments in design that promise long-term cultural and brand transformation.
+Underlying Beliefs & Biases: A short-term focus on quantifiable returns can lead to the undervaluation of design’s broader, transformative potential.
+Expected vs. Actual Outcomes: Although immediate gains may be less quantifiable, the long-term evolution in corporate identity—as demonstrated by redefined brand symbols and innovative product designs—signals enduring competitive advantages.
 Broader Implications: Modern strategic leadership should consider design not merely as an operational element but as a core driver of cultural and market transformation, warranting sustained investment despite its intangible nature. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Qualitative analysis in the paper indicates that initiatives like the creation of new corporate symbols, innovative slogans, and distinctive product features (e.g., Kia’s tiger-nose grille, Hyundai’s fluidic sculpture) are strategic investments that reframe corporate identity. While the evidence directly measuring long-term cultural transformation is less explicit, the correlation with enhanced market performance is a reasonable inference. **[Inferred]**
 
 ---
 
 ## **Source Relevance Audit**
 
-- **Coverage Fit:** High — The paper provides an in-depth exploration of executive decision-making with a clear focus on design-driven strategies in the Korean automobile industry.  
-- **Bias & Cognitive Modeling Content:** Present — The study discusses how CEO beliefs, preferences, and biases shape decision-making styles, particularly regarding the valuation of design over conventional quantitative metrics.  
-- **Clarity of Methods & Outcomes:** Clear — The methodology is well-delineated through qualitative case studies and interviews, with explicit comparisons between Kia and Hyundai.  
+- **Coverage Fit:** High — The paper provides an in-depth exploration of executive decision-making with a clear focus on design-driven strategies in the Korean automobile industry.
+- **Bias & Cognitive Modeling Content:** Present — The study discusses how CEO beliefs, preferences, and biases shape decision-making styles, particularly regarding the valuation of design over conventional quantitative metrics.
+- **Clarity of Methods & Outcomes:** Clear — The methodology is well-delineated through qualitative case studies and interviews, with explicit comparisons between Kia and Hyundai.
 - **Areas with No Data:** None — All required sections (Insight Statement, Executive Decision-Making Context, Supporting Context) are supported by content in the paper.
 
 ## You (2025-03-24T02:12:08.438000+00:00)
@@ -450,21 +450,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -477,4 +477,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T02:14:42.582335+00:00)
 
 Lee, D. O., Chung, K., & Nam, K. Y. (2012). The impact of CEOs' "design-driven" decision making in the Korean automobile industry. *Design Management Journal*, 23(4), 40-49. https://doi.org/10.1111/j.1948-7177.2012.00034.x
-

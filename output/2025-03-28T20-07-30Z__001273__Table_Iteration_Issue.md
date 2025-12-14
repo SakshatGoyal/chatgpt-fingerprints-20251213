@@ -52,7 +52,7 @@ Each module stands alone. You must evaluate them **one at a time**.
 Each of the five fields below includes a pre-defined set of values. Assign **one or more tags** per field based on what is **explicitly stated or strongly implied** in the module.
 
 > ❗ Only use null or unknown if no meaningful evidence can be found in the module. This is not a placeholder—it is a final judgment.
-> 
+>
 
 ---
 
@@ -170,11 +170,11 @@ Thanks for sharing both the prompt and the document—it’s super clear and imp
 ### 🔍 Diagnosis: Why Only One Table?
 
 #### **1. No Explicit Iteration Instruction**
-While the prompt says:  
-> "Each module stands alone. You must evaluate them **one at a time**."  
+While the prompt says:
+> "Each module stands alone. You must evaluate them **one at a time**."
 ...this might **not be interpreted as a directive to iterate over all modules**.
 
-Instead, GPT may have thought:  
+Instead, GPT may have thought:
 “Okay, I’ll *evaluate one* of these modules in detail”—and stopped there.
 
 ---
@@ -248,7 +248,7 @@ You're asking the model to:
 | **More robust in structured output** | GPT-4o is stronger at generating uniform, repeatable tables without collapsing into summary mode. |
 | **Can self-monitor logic** | Better at using its own “discipline” to avoid unsupported inferences, which you explicitly asked for. |
 
-**🟢 Verdict:** ✔️ **Highly recommended**  
+**🟢 Verdict:** ✔️ **Highly recommended**
 This task was clearly written with a high-cognitive-load model like GPT-4o in mind.
 
 ---
@@ -271,10 +271,10 @@ This task was clearly written with a high-cognitive-load model like GPT-4o in mi
 
 ## You (2025-03-28T20:11:27.018000+00:00)
 
-ok, can we have a layered persona? 
+ok, can we have a layered persona?
 
 Primary Persona:
-Creative director at IDEO with years of experience turning vague open ended information into thought provoking insights. 
+Creative director at IDEO with years of experience turning vague open ended information into thought provoking insights.
 (add some details on why we need this persona)
 
 Advisory Persona (same as original):
@@ -390,14 +390,14 @@ A systems-thinking analyst trained to extract only what is **textually supported
 
 ---
 
-### ⚠️ Important: Do not generate separate outputs per persona.  
+### ⚠️ Important: Do not generate separate outputs per persona.
 These two perspectives are internal **steps in your reasoning**, not distinct outputs. The **final answer per module** is a single, well-structured table—rigorous, yet insight-informed.
 
 ---
 
 ## 📥 Input Structure
 
-You are provided a `.txt` file containing multiple standalone modules.  
+You are provided a `.txt` file containing multiple standalone modules.
 Each module includes:
 - A unique header in the format: `CATEGORICAL MODULE [identifier]`
 - Narrative analysis of an executive decision-making case
@@ -470,7 +470,7 @@ What ambiguity remains unresolved post-decision?
 
 ## 🧾 Output Format
 
-For **each module**, keep the header exactly as found in the text (e.g., `CATEGORICAL MODULE RQ-1_12`).  
+For **each module**, keep the header exactly as found in the text (e.g., `CATEGORICAL MODULE RQ-1_12`).
 Output a table in this format:
 
 ```
@@ -503,4 +503,3 @@ Output a table in this format:
 ---
 
 Let me know if you’d like a **refined version with token length optimization** or want to integrate error-checking or output counts (e.g., “Processed 41 modules”).
-

@@ -84,5 +84,3 @@ CATEGORICAL MODULE 4 - C2-I2,Value Clash,Evidence Frame,Unknown,True Clarity,Bol
 CATEGORICAL MODULE 6 - C2-I2,Value Clash,Evidence Frame,Tested First,True Clarity,Global vs. Local,Adaptive Growth,Belief Bubble,Unknown
 CATEGORICAL MODULE 9 - C2-I2,Value Clash,Evidence Frame,Unknown,True Clarity,Now vs. Later,Adaptive Growth,Belief Bubble,Unknown
 CATEGORICAL MODULE 10 - C2-I2,Value Clash,Evidence Frame,Unknown,True Clarity,Now vs. Later,Adaptive Growth,Belief Bubble,Unknown
-citeturn0file0 citeturn0file1
-

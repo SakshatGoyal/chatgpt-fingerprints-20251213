@@ -149,9 +149,9 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:** The paper introduces a multifaceted conceptualization of supply chain resilience, delineating three distinct yet interrelated forms—engineering, ecological, and evolutionary resilience—and explores how they interact to support both rapid recovery and long‐term transformation.  
-- **Core Motivations:** In a context marked by unpredictable disruptions and dynamic market conditions, the research challenges the traditional focus on efficiency-driven recovery and motivates a shift toward integrating adaptive, flexible, and transformational capabilities within supply chain management.  
-- **Methodological Clarification:** Employing a complex adaptive systems (CAS) perspective, the study builds a conceptual framework based on extensive literature review and proposition development. Although primarily conceptual, its rigorous synthesis of prior studies provides a solid foundation for understanding resilience dynamics, while also calling for further empirical validation.  
+- **Key Themes:** The paper introduces a multifaceted conceptualization of supply chain resilience, delineating three distinct yet interrelated forms—engineering, ecological, and evolutionary resilience—and explores how they interact to support both rapid recovery and long‐term transformation.
+- **Core Motivations:** In a context marked by unpredictable disruptions and dynamic market conditions, the research challenges the traditional focus on efficiency-driven recovery and motivates a shift toward integrating adaptive, flexible, and transformational capabilities within supply chain management.
+- **Methodological Clarification:** Employing a complex adaptive systems (CAS) perspective, the study builds a conceptual framework based on extensive literature review and proposition development. Although primarily conceptual, its rigorous synthesis of prior studies provides a solid foundation for understanding resilience dynamics, while also calling for further empirical validation.
 - **Relevance Assessment:** For today’s senior executives, the paper offers decision-relevant insights by framing resilience as a multidimensional construct that not only informs immediate recovery strategies but also guides long-term strategic adaptations and cognitive shifts necessary in volatile environments.
 
 ---
@@ -160,65 +160,65 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Multi-Dimensional Nature of Supply Chain Resilience
 
-**Insight Statement:**  
+**Insight Statement:**
 The paper challenges the conventional single-dimensional view by asserting that true supply chain resilience requires an integrated approach that blends engineering (efficiency and rapid recovery), ecological (adaptation through redundancy and flexibility), and evolutionary (transformation via learning and collaboration) resilience. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 For senior leaders, this implies the need to adopt balanced resilience strategies that go beyond mere cost-cutting and quick fixes. Instead, decision-makers must design supply chains that can absorb shocks, adapt to changing conditions, and even transform when necessary—ensuring both operational continuity and strategic renewal. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The authors leverage a CAS framework to articulate how each resilience type offers specific capabilities: engineering resilience emphasizes preparedness and recovery via contingency planning and operational agility; ecological resilience relies on functional redundancy and flexible sourcing to cushion disruptions; and evolutionary resilience promotes systemic learning and collaborative transformation. This integrated view is supported by a series of propositions and illustrative examples drawn from existing supply chain disruptions. **[Empirical]**
 
 ---
 
 ### 2. Tradeoffs and Synergies in Resilience Strategies
 
-**Insight Statement:**  
+**Insight Statement:**
 The research critically highlights that strategies focused solely on efficiency and quick recovery (engineering resilience) may compromise long-term adaptability, while investments in redundancy and adaptive capabilities (ecological and evolutionary resilience) incur higher costs—underscoring an inherent tradeoff that executives must navigate. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Executives are urged to weigh the short-term benefits of streamlined operations against the potential risks of over-optimization. Strategic resource allocation should therefore balance lean operational practices with sufficient slack, flexibility, and collaborative mechanisms to maintain resilience amid uncertainty. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper discusses how an overemphasis on efficiency can breed rigidity and a false sense of security, potentially leaving supply chains vulnerable when unforeseen disruptions occur. Conversely, while building adaptive capacities through redundancy and collaboration may be costlier, these approaches enable systems to absorb, adapt, and transform in the face of crisis. Real-world examples—such as varied supplier bases mitigating hurricane impacts—illustrate these tradeoffs and synergies. **[Empirical]**
 
 ---
 
 ### 3. Managerial Implications and the Need for Cognitive Shifts
 
-**Insight Statement:**  
+**Insight Statement:**
 The study implies that traditional risk-avoidance mindsets must give way to a paradigm that embraces volatility and dynamic adaptation, prompting executives to reframe their strategic outlook to align with the principles of complex adaptive systems. **[Inferred]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Senior leaders are encouraged to foster flexible leadership styles and invest in systems that support decentralized decision-making, real-time learning, and inter-firm collaboration. This cognitive shift—from rigid control to adaptive management—enables organizations to better sense, respond, and evolve amid rapid environmental changes. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 By emphasizing adaptive management, social memory, and double-loop learning, the paper underscores that transformative resilience is not merely a technical challenge but also a fundamentally cognitive one. The call for visionary leadership and “tipping point” strategies highlights the necessity for executives to challenge prevailing assumptions and adopt a more holistic, systems-oriented approach to supply chain management. **[Inferred]**
 
 ---
 
 ### 4. Limitations of Traditional Engineering Resilience
 
-**Insight Statement:**  
+**Insight Statement:**
 Traditional engineering resilience approaches, which prioritize optimization and rapid recovery, are insufficient on their own and risk reinforcing cognitive biases that underestimate the complexities and emergent risks inherent in dynamic supply chains. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 For decision-makers, this insight necessitates a critical re-evaluation of reliance on methods such as lean manufacturing, just-in-time inventory, and rigid quality controls. Leaders must recognize that while such strategies can yield short-term efficiency gains, they may also limit the system’s overall adaptability and leave it exposed to unforeseen disruptions. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper details how an exclusive focus on efficiency can lead to a loss of functional diversity and resilience. Empirical discussions, including examples from major disruptions, reveal that over-optimization can lead to brittleness. This serves as a cautionary tale for executives: achieving a resilient supply chain requires embracing a wider range of strategies that incorporate flexibility and redundancy alongside efficiency. **[Empirical]**
 
 ---
 
 ### 5. Adaptive Capacity and System Learning
 
-**Insight Statement:**  
+**Insight Statement:**
 The capacity for adaptive management and continuous learning is pivotal, enabling supply chains not only to recover from disruptions but also to evolve into improved states post-crisis. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Executives should invest in developing systems that promote real-time data sharing, collaborative decision-making, and mechanisms for double-loop learning. This adaptive capacity is critical for responding to dynamic external shocks and for driving long-term transformation and competitive advantage. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Drawing from adaptive management theory, the paper emphasizes the role of social memory, trust, and inter-organizational collaboration in building evolutionary resilience. The discussion illustrates that organizations which learn from each disruption are better positioned to adjust their operations and transform strategically over time—a capability that is essential in today’s unpredictable business environment. **[Empirical]**
 
 ---
@@ -228,9 +228,9 @@ Drawing from adaptive management theory, the paper emphasizes the role of social
 - **Coverage Fit:** High — The paper provides a comprehensive multidimensional framework that directly addresses the challenges of executive decision-making in managing supply chain disruptions and strategic resilience.
 - **Bias & Cognitive Modeling Content:** Present — The analysis critiques the traditional efficiency-driven mindset and highlights the cognitive shifts needed for embracing complex adaptive systems thinking.
 - **Clarity of Methods & Outcomes:** Clear — Although the study is conceptual, its rigorous use of a CAS framework and detailed propositions offer clear, actionable insights.
-- **Areas with No Data:**  
-   - Insight Statement: Fully supported by literature and propositions.  
-   - Executive Decision-Making Context: Well-articulated with practical implications.  
+- **Areas with No Data:**
+   - Insight Statement: Fully supported by literature and propositions.
+   - Executive Decision-Making Context: Well-articulated with practical implications.
    - Supporting Context: Substantiated by comprehensive empirical examples and theoretical grounding.
 
 ## You (2025-03-23T23:20:05.030000+00:00)
@@ -522,21 +522,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -549,4 +549,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T23:22:13.830915+00:00)
 
 Adobor, H., & McMullen, R. S. (2018). Supply chain resilience: A dynamic and multidimensional approach. *The International Journal of Logistics Management*. https://doi.org/10.1108/IJLM-04-2017-0093
-

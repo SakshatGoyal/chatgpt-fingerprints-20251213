@@ -69,17 +69,17 @@ Assumptions (you can confirm or correct me):
 - **Concise summarization**: It can extract themes and explain them briefly and clearly if prompted to.
 
 #### ⚠️ **Challenges & Limitations**
-1. **Ambiguity in Short Texts**  
+1. **Ambiguity in Short Texts**
    - Very short or vague responses may not offer enough context for identifying themes with confidence.
    - GPT might default to generic labels like *confusion*, *reflection*, or *uncertainty*.
 
-2. **Overfitting to Literal Meaning**  
+2. **Overfitting to Literal Meaning**
    - Without carefully crafted prompts, GPT might focus on surface-level ideas or restate the text instead of abstracting themes.
 
-3. **Theme Granularity Control**  
+3. **Theme Granularity Control**
    - You’ll need to decide: do you want **broad categories** (e.g., “existentialism”) or **fine-grained insights** (e.g., “longing for parental validation”)? GPT can do both—but it needs to be told.
 
-4. **Multiple Themes per Entry**  
+4. **Multiple Themes per Entry**
    - If each text can have several overlapping themes, we’ll need to structure the prompt to allow multi-label outputs and explain relationships between them if needed.
 
 ---
@@ -117,34 +117,34 @@ Assumptions (please confirm or correct):
 ### 🧠 **How Well Can GPT-4o Handle Abstract Theme Identification?**
 
 #### ✅ **Strengths (What GPT-4o Does Well)**
-1. **Abstract Reasoning & Emotional Intuition**  
+1. **Abstract Reasoning & Emotional Intuition**
    GPT-4o can identify deeper meaning and unspoken implications behind text—especially useful for themes like *regret*, *yearning*, *self-doubt*, *resilience*, etc.
 
-2. **Contextual Understanding**  
+2. **Contextual Understanding**
    It can analyze not just what’s said but *how* it's said—tone, subtext, metaphor, and imagery.
 
-3. **Zero-shot & Few-shot Inference**  
+3. **Zero-shot & Few-shot Inference**
    Even with minimal examples, it can generalize thematic labels from a variety of writing styles.
 
 ---
 
 #### ⚠️ **Challenges & Limitations**
 
-1. **Short or Sparse Texts**  
+1. **Short or Sparse Texts**
    If an entry is vague, short, or lacks emotional/conceptual depth, GPT may return:
    - Overly generic themes like *uncertainty* or *emotion*.
    - No confident thematic signal at all.
 
-2. **Theme Granularity**  
+2. **Theme Granularity**
    GPT needs guidance on whether to:
    - Output **broad themes** (*freedom*, *loss*, *growth*), or
    - Use **fine-grained ones** (*fear of disappointing a parent*, *longing for escape from routine*).
 
-3. **Single vs Multiple Themes**  
+3. **Single vs Multiple Themes**
    - Without instructions, GPT may default to naming just **one primary theme**.
    - If your use case supports **multi-label themes**, we’ll need to explicitly build that into the prompt.
 
-4. **Semantic Drift**  
+4. **Semantic Drift**
    - In some edge cases, GPT might over-interpret metaphor or abstract language and assign a theme that feels like a stretch unless you set clear constraints.
 
 ---
@@ -153,24 +153,23 @@ Assumptions (please confirm or correct):
 
 To build the best prompt, I need a few strategic clarifications:
 
-1. **Theme Output Format**  
-   - Should the model just list themes?  
-     → Example: `["nostalgia", "fear of change"]`  
-   - Or explain them briefly?  
+1. **Theme Output Format**
+   - Should the model just list themes?
+     → Example: `["nostalgia", "fear of change"]`
+   - Or explain them briefly?
      → Example: `"Theme: Nostalgia — The speaker reflects longingly on a simpler past."`
 
-2. **Number of Themes Per Entry**  
+2. **Number of Themes Per Entry**
    - One main theme per text?
    - Or allow multiple if applicable?
 
-3. **Fixed Theme Vocabulary vs Open-ended?**  
+3. **Fixed Theme Vocabulary vs Open-ended?**
    - Do you want GPT to generate themes freely?
    - Or constrain it to a predefined list you provide?
 
-4. **Tone of Output**  
+4. **Tone of Output**
    - Academic? Interpretive? Concise bullet-style? Analytical essay?
 
 ---
 
 Let me know your preferences, and I’ll *begin building the prompt* right after!
-

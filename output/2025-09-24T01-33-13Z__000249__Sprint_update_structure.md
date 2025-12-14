@@ -70,9 +70,9 @@ Got it. Here's your updated sprint note—same structure, same points, but in a 
 - Added a placeholder UI header for checkout.
 - Terms & Conditions are in at the product level.
 - Edge case components are done for:
-  - Shipping printed certificates  
-  - Adding certifications  
-  - Editing and deleting products  
+  - Shipping printed certificates
+  - Adding certifications
+  - Editing and deleting products
   - Starting support for product replacement (component’s in, prototype still needed)
 
 **What’s rolling over to next sprint:**
@@ -84,14 +84,14 @@ Got it. Here's your updated sprint note—same structure, same points, but in a 
   - Visual indicator for secure payment
 - **Signup flow:** Paused until confirmation—will pick it back up next sprint.
 - **Edge case handling:**
-  - Error states for personal details  
-  - Apple Pay, Google Pay, Affirm flows  
+  - Error states for personal details
+  - Apple Pay, Google Pay, Affirm flows
   - Subscription payments (only flagged in one use case so far)
 - **Prototypes still needed for:**
-  - Product replacement flows  
-  - Support UI for card/payment issues  
-  - “Return to shopping” flow  
-  - Suggested products  
+  - Product replacement flows
+  - Support UI for card/payment issues
+  - “Return to shopping” flow
+  - Suggested products
   - Promo code input + errors
 - **Brand-specific reskinning** of the checkout UI starts next sprint.
 - **Confirmation triggers:** Covered for personal details + payment. Final step is just placing the order.
@@ -102,4 +102,3 @@ Got it. Here's your updated sprint note—same structure, same points, but in a 
 ---
 
 Let me know if you want to tweak anything for tone or audience, but this should be good to drop straight into Monday.
-

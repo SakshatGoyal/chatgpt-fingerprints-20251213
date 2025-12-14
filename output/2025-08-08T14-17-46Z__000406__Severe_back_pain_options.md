@@ -35,13 +35,13 @@ When back pain starts radiating into the hips, thighs, or knees, it’s often a 
 You’re already on **Baclofen** (muscle relaxant) and **Meloxicam** (anti-inflammatory), plus PT. If those aren’t enough, a doctor’s team might consider:
 
 ### 1. **Injections for Pain & Spasm**
-   - **Trigger Point Injections**  
+   - **Trigger Point Injections**
      - Local anesthetic (sometimes with a small dose of steroid) injected directly into tight muscle bands to break the spasm cycle.
-   - **Epidural Steroid Injection (ESI)**  
+   - **Epidural Steroid Injection (ESI)**
      - Steroids + anesthetic into the space around spinal nerves to reduce inflammation and swelling.
-   - **Facet Joint Injections / Medial Branch Blocks**  
+   - **Facet Joint Injections / Medial Branch Blocks**
      - For pain coming from the small joints of the spine.
-   - **Botulinum Toxin (Botox) Injections**  
+   - **Botulinum Toxin (Botox) Injections**
      - In rare, stubborn spasm cases, Botox can be injected into overactive muscles to force relaxation for weeks to months.
 
 ### 2. **Stronger Medications (Short-Term Use)**
@@ -71,4 +71,3 @@ You’re already on **Baclofen** (muscle relaxant) and **Meloxicam** (anti-infla
 ---
 
 If you want, I can make you a **decision-tree style chart** showing exactly how doctors typically escalate treatment for severe back pain like yours, so you can see where you are now and what could be next. That would make it easier to discuss options with your doctor.
-

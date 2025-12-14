@@ -14,7 +14,6 @@ Feel free to start whenever you're ready—just drop in your first chunk of cont
 
 ## You (2025-05-13T03:03:36.186275+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-TofURvMrggz3t8ZiCokANW', 'size_bytes': 354564, 'width': 1515, 'height': 1536, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Okay, I want you to start by taking a look at this dashboard. Now, the idea here is a user who, in this case, might be a customer success manager or a solutions consultant or an account executive who is working for Palo Alto Networks and they are looking at a single account. Within that account, they are trying to essentially evaluate the health of this one customer. So that health can be calculated in terms of technical health, deployment, adoption, value realization, and customer engagement. Now, despite what the image shows you, I want you to remember that in the next few processes, deployment and adoption have been merged into a single metric. Now, for each account, a user only sees at a high level these metrics, followed by a snapshot of each of those products with respect to their health. So, for example, under each product, there is technical health, adoption, value realization, etc. And each of those have a sort of value associated to it. The value could be either critical, at risk, or healthy. At risk is something that's not visible here, but we're also adding it. And so the way it works is under each column, the rolled up health is basically the lowest possible value within that. So let's take technical health as an example. Under technical health, we have a lot of products, but since the lowest value here is critical, that's what reflects in the key metric right at the top. Each of the key metrics also has a dollar amount to it, which indicates the dollar amount that is potentially at risk. So, for example, under adoption, we have $6 million, which is critical. So, essentially what we're saying is $6 million worth of adoption is at a critical stage. For now, I want you to deprioritize the AI insights and recommendations along with quick actions.
 
 ## ChatGPT (2025-05-13T03:03:38.751761+00:00)
@@ -90,10 +89,9 @@ Or if you’re still in context upload mode, feel free to keep going—I’ll ke
 
 ## You (2025-05-13T03:09:47.060331+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-XH22YvRAMJEh8Pijra624W', 'size_bytes': 219308, 'width': 1290, 'height': 1536, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Now, this image that you see here, this is sort of a sidecar or a drawer that opens up on the right side, which has a more detailed look at Prisma Access, which is one of the products that this customer has in their install base. So, within Prisma Access, we have metrics like licenses, term start, term end, and annual recurring revenue, which is ARR. So, these metrics basically represent the overall quantitative values of this particular product within a customer's install base. Now, there are two measures with which we are looking at this. One is technical health, and the second is deployment and adoption health. Under technical health, we have incident status, which will change to incidents. We also have additional metrics like critical case count, critical case NTTR, etc. And under deployment and adoption health, we have deployment month, consumption percentage, deployment health, and adoption health. Now, if you remember from the previous exchange, what we've finalized is that deployment health and adoption health will be merged into one single metric called deployment and adoption health.
 
-Talking about technical health — In the future, as we start iterating, there are a few things to keep in mind. One is that incident status changes to incidents. So, instead of showing a status, we are showing a quantitative value. In the two tables that we have, in addition to the two columns in each table, we are going to add an additional set of columns. These columns represent a quantitative value. So, under incidents, we would have health as not applicable and a count of total incidents. So, that could be 25 to 100. We also have critical case count. So, we'll start with health, whether it's critical, at-risk, or healthy, along with a quantitative measure of the number of critical case counts. You will also, instead of having a single line chart, we will have one line chart that represents each of these metrics. 
+Talking about technical health — In the future, as we start iterating, there are a few things to keep in mind. One is that incident status changes to incidents. So, instead of showing a status, we are showing a quantitative value. In the two tables that we have, in addition to the two columns in each table, we are going to add an additional set of columns. These columns represent a quantitative value. So, under incidents, we would have health as not applicable and a count of total incidents. So, that could be 25 to 100. We also have critical case count. So, we'll start with health, whether it's critical, at-risk, or healthy, along with a quantitative measure of the number of critical case counts. You will also, instead of having a single line chart, we will have one line chart that represents each of these metrics.
 
 Talking about Deployment and Adoption — The chart currently shows, I mean the graphical data visualization currently shows two aspects, deployment as well as adoption. They will be merged into one. So, we will have one table showing or one line graph showing deployment and adoption across time. You will also notice that there are three bands of colors, healthy, at-risk, and critical. Those bands would expand and bleed into deployment as well. So, when a user looks at this graph, they will see one single graph representing with all the three bands from edge to edge, starting from zero all the way till the end. They will see healthy, at-risk, and critical bands.
 
@@ -201,7 +199,7 @@ Perfect—this update is key. I’m logging it as a **structural and navigationa
 
 ### 🆕 Updated Interaction Pattern
 #### When a user selects a product from the dashboard (e.g., *Prisma Access*):
-✅ They are **navigated to a new full-page view**  
+✅ They are **navigated to a new full-page view**
 ✅ This page will support **significantly expanded content and structure**
 
 ---
@@ -261,9 +259,7 @@ I’m ready to start drafting the **page structure spec** or flow diagrams as so
 
 ## You (2025-05-13T03:42:11.876782+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-3j35vARqq7id6PW5EbnBAZ', 'size_bytes': 1992207, 'width': 1367, 'height': 702, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-BEpQvW8w6J3oDXTcCtsyJE', 'size_bytes': 1441634, 'width': 1209, 'height': 618, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-No, I still think I need to add more context here. I'm attaching four files. These are two screenshots and two CSV files. The first screenshot that you may find with a black background is the customer estate. These are all the details that communicate a customer's estate when it comes to Prisma Access. If you notice, a lot of this is text-based. We may need some way to figure out how to make it more visually appealing without overcomplicating anything or making things more complex or hard to understand than they already are. The second image is sort of additional details for the technical health metrics. This is basically a representation of how the threshold is set. For example, what makes a customer healthy, what makes a customer at risk, and what makes a customer critical. If you remember, we had a high-level technical health metrics that was in the product drill-down. We may need to use some of this data to introduce some explainability and help a user understand that if a certain metric is critical, why is it critical? If a certain metric is healthy, why is it healthy? That will be part of the additional details in the technical health section. There are two CSVs. 
+No, I still think I need to add more context here. I'm attaching four files. These are two screenshots and two CSV files. The first screenshot that you may find with a black background is the customer estate. These are all the details that communicate a customer's estate when it comes to Prisma Access. If you notice, a lot of this is text-based. We may need some way to figure out how to make it more visually appealing without overcomplicating anything or making things more complex or hard to understand than they already are. The second image is sort of additional details for the technical health metrics. This is basically a representation of how the threshold is set. For example, what makes a customer healthy, what makes a customer at risk, and what makes a customer critical. If you remember, we had a high-level technical health metrics that was in the product drill-down. We may need to use some of this data to introduce some explainability and help a user understand that if a certain metric is critical, why is it critical? If a certain metric is healthy, why is it healthy? That will be part of the additional details in the technical health section. There are two CSVs.
 
 The first one is Customer case details. Now, if you remember, the technical health revolves a lot around incident reports. So this is the further drill down of technical health. So this is the raw data that helps a user understand why something is unhealthy or at risk or critical. So if you notice, there are a lot of columns. Column names like account name and product can be eliminated because since a user lands on this page by selecting an account and selecting a product, those two columns become redundant. There are additional columns like case numbers, created date, case owner, etc. We need some way to progressively disclose this data. So we need a few columns that are the most actionable for a user. So that would include things like case number, which acts as a unique identifier, case owner, priority, status. These might be the sort of actionable information. And apart from that, we have things like subject, description, etc., etc. So I think subject is also something that we can include in the actionable data because it informs a user just very briefly about what the issue is about. But other things like description, JIRA severity, last modified date, those can be delegated or pushed to the next level of detail. How that might manifest is to be determined.
 
@@ -419,7 +415,7 @@ Or feel free to keep the context coming—I’m tracking everything.
 
 So, here's the last set of context I'll add. This entire endeavor is going to be used by three potential users, an account executive, a solutions consultant, and a customer success manager, all of these working at Palo Alto Networks. This is an internal tool, and so it requires a degree of detail-oriented design as compared to most consumer products. It's very contextual and metric-driven, but we also want to make sure that there's a degree of human-centered design while we're approaching this. Now, for your context, in this situation, when I say human-centered design, what I mean is our design should be in such a way that it answers questions as quickly as possible and with as little friction as possible. So, it's really a value-driven design, and it's for a productive environment. So, we want the overall vibe to be fairly formal. We don't want to romanticize experiences. We want to make sure experiences are very practical and actionable for a user. The overall flow will remain the same where there's an account page where a user is able to get high-level information about the account and all the products owned, and they're able to figure out which products are at risk, which ones are healthy, and once they've made up their mind about which product to further analyze, they will be able to select that product and go to the product page, which has things like the customer estate and a high-level summary details of, or rather I should say, a more synthesized and refined details of the technical health as well as deployment and adoption health. Of course, this will also involve a bit of data visualizations. And as a final step for both technical health as well as deployment and adoption health, we'll have further drill-downs that can open up the additional context around each of those sort of cases. We also want to introduce some degree of explainability. So for each metric, typically there's an info icon where a user can hover and they can sort of understand what the metric is. If there are thresholds, then we want to make sure that a user understands why the thresholds are critical, at risk, or healthy, and so on. This is all the context for now.
 
-Now, I need your help. I need you to start by thoroughly internalizing all our discussions so far. And I want you to really think through all of this as a design manager at a B2B SaaS product who is working with business teams, and that is the account executives, customer success managers, and solutions consultants, all of whom are collectively trying to understand the overall health of an account. And this flow or this process will be designed so that all of these different stakeholders can have a single source of truth so they all understand exactly why things are happening. 
+Now, I need your help. I need you to start by thoroughly internalizing all our discussions so far. And I want you to really think through all of this as a design manager at a B2B SaaS product who is working with business teams, and that is the account executives, customer success managers, and solutions consultants, all of whom are collectively trying to understand the overall health of an account. And this flow or this process will be designed so that all of these different stakeholders can have a single source of truth so they all understand exactly why things are happening.
 
 Once you've internalized everything, I need you to first start by helping me understand how you as a design manager will start writing design briefs for this entire project. Because I'm sure that we will not just be looking at one brief, we may potentially look at multiple briefs, multiple PRDs. And so, first start by giving me an outline of what all this information will be, how we might figure out how to structure all this information, and almost give me a sort of a content page that helps me understand all the necessary documents per user goal or per design element or per surface, whatever the best approach is. Just give me an outline first, and after that, once we've figured out what the best outline might be, then we'll start to further elaborate on the overall context. Sorry, we'll start to elaborate on the overall documents.
 
@@ -589,19 +585,19 @@ Excellent direction. By focusing on the **UI Surface Briefs**, you're getting to
 Let’s establish a **unified construction model** for composing these surfaces before diving into each one individually.
 
 ### ✳️ Core Design Principles
-1. **Progressive Disclosure**  
+1. **Progressive Disclosure**
    → Show only what’s immediately necessary; let users drill in for more.
 
-2. **Local Consistency, Global Familiarity**  
+2. **Local Consistency, Global Familiarity**
    → Reuse patterns (cards, tables, badges, expand/collapse) across sections to reduce learning curve.
 
-3. **Friction-Minimized Explainability**  
+3. **Friction-Minimized Explainability**
    → Tooltips, thresholds, info icons—all should *answer the “why?” fast*.
 
-4. **Minimize Scroll Debt**  
+4. **Minimize Scroll Debt**
    → Use accordion-style expansion or modular layouts vs. long-scrolling dense text/tables.
 
-5. **Prioritize Actionable Information**  
+5. **Prioritize Actionable Information**
    → If a value is red, show why. If a project is late, show who owns it.
 
 ---
@@ -610,9 +606,9 @@ Let’s establish a **unified construction model** for composing these surfaces 
 
 I'll now give you **modular composition outlines** (in markdown-style formatting) for the following:
 
-1. **Technical Health Section**  
-2. **Deployment & Adoption Section**  
-3. **Customer Estate Module**  
+1. **Technical Health Section**
+2. **Deployment & Adoption Section**
+3. **Customer Estate Module**
 4. **Customer Case Table**
 
 Each follows the same internal structure:
@@ -632,10 +628,10 @@ Each follows the same internal structure:
 
 ### 1. 📊 **Technical Health Section**
 
-> **Purpose**  
+> **Purpose**
 Show the current health of a product’s support lifecycle—incidents, MTTR, backlog—and reveal what’s driving any risk.
 
-> **Interaction Goal**  
+> **Interaction Goal**
 Let users quickly see which metrics are causing red/yellow states, and understand why (thresholds + values).
 
 > **Composition Model**
@@ -667,10 +663,10 @@ Let users quickly see which metrics are causing red/yellow states, and understan
 
 ### 2. 📈 **Deployment & Adoption Section**
 
-> **Purpose**  
+> **Purpose**
 Show whether the product is being used as intended—and whether the customer is getting value from deployment.
 
-> **Interaction Goal**  
+> **Interaction Goal**
 Surface gaps in rollout or usage clearly; help user predict risk or stagnation.
 
 > **Composition Model**
@@ -699,10 +695,10 @@ Surface gaps in rollout or usage clearly; help user predict risk or stagnation.
 
 ### 3. 🏗 **Customer Estate Module**
 
-> **Purpose**  
+> **Purpose**
 Show how the selected product is configured, deployed, and licensed for this customer—revealing maturity and coverage.
 
-> **Interaction Goal**  
+> **Interaction Goal**
 Let users understand what’s installed, what’s active, and where expirations or config gaps exist.
 
 > **Composition Model**
@@ -732,10 +728,10 @@ Let users understand what’s installed, what’s active, and where expirations 
 
 ### 4. 📂 **Customer Case Table**
 
-> **Purpose**  
+> **Purpose**
 Allow stakeholders to track the cases affecting a product’s health—especially unresolved ones.
 
-> **Interaction Goal**  
+> **Interaction Goal**
 Prioritize what needs attention, see who owns it, and get a quick summary of issue types.
 
 > **Composition Model**
@@ -796,7 +792,7 @@ Actually, I'm still not quite sure how all these elements fit together. So, coul
 
 ok, a few clarifications:
 
-professional services is sort of like the technical health details, but for deployment health. 
+professional services is sort of like the technical health details, but for deployment health.
 
 it should be more like
 
@@ -958,10 +954,10 @@ We’ll follow your five-layer stack precisely. After this, we’ll break out ad
 
 ### 🧭 **Surface Layer**
 
-> **Purpose**:  
+> **Purpose**:
 Provide a **top-level health summary** of a customer account, showing key risk metrics and product-specific issues so internal users (AE, CSM, SC) can immediately triage which product(s) to explore deeper.
 
-> **User Motivation**:  
+> **User Motivation**:
 *“As an AE/CSM/SC, I want to quickly see where the risk is across the customer’s product portfolio so I can take the right action without needing to interpret raw telemetry.”*
 
 > **Top Tasks**:
@@ -973,15 +969,15 @@ Provide a **top-level health summary** of a customer account, showing key risk m
 
 ### 🧱 **Structural Layer**
 
-> **Parent**: Platform Home or Account List Page  
-> **Siblings**: Other Account Overview Pages  
+> **Parent**: Platform Home or Account List Page
+> **Siblings**: Other Account Overview Pages
 > **Children**:
 
-- **Hero Metrics Bar (4 cards)**  
-   - Technical Health  
-   - Deployment & Adoption Health *(combined)*  
-   - Value Realization  
-   - Customer Engagement  
+- **Hero Metrics Bar (4 cards)**
+   - Technical Health
+   - Deployment & Adoption Health *(combined)*
+   - Value Realization
+   - Customer Engagement
 - **Product Summary Table**
    - Rows = Products
    - Columns = Health categories (as above)
@@ -1072,10 +1068,10 @@ As before, we’ll use the five-layer stack to ensure that **user intent, struct
 
 ### 🧭 **Surface Layer**
 
-> **Purpose**:  
+> **Purpose**:
 This page provides a **deep dive into a single product** (like Prisma Access) within the context of a customer account. It synthesizes health signals across deployment, adoption, and technical operations, while also showing how the product is deployed and used.
 
-> **User Motivation**:  
+> **User Motivation**:
 *“As a CSM/AE/SC, I want to understand exactly what’s wrong (or right) with a particular product in a customer’s estate so I can take precise action, align stakeholders, and reduce risk.”*
 
 > **Top Tasks**:
@@ -1089,8 +1085,8 @@ This page provides a **deep dive into a single product** (like Prisma Access) wi
 
 ### 🧱 **Structural Layer**
 
-> **Parent**: Account Overview Page  
-> **Siblings**: Other Product Detail Pages  
+> **Parent**: Account Overview Page
+> **Siblings**: Other Product Detail Pages
 > **Children**:
 
 - **Header Block**: Product metadata (ARR, licenses, term)
@@ -1192,7 +1188,7 @@ Would you like to go in that order, or tackle a different one next?
 
 ## You (2025-05-13T15:40:17.591323+00:00)
 
-actually i still feel like we're missing a lot of nuances. 
+actually i still feel like we're missing a lot of nuances.
 
 I want you to take this table as an example:
 
@@ -1323,7 +1319,7 @@ Let me know what format helps you next.
 
 ## You (2025-05-13T15:47:54.432894+00:00)
 
-no i need you to further break it down please. Lets take it step by step, cover everything that happens in the account overview page only for now. 
+no i need you to further break it down please. Lets take it step by step, cover everything that happens in the account overview page only for now.
 
 for example:
 
@@ -1336,7 +1332,7 @@ instead, break it down into
 
 first step: high level metrics
 second step: four hero cards
-third step: product table below. 
+third step: product table below.
 
 
 these are all individual instances, and you need to treat them as individual steps, not part of the same step.
@@ -1405,7 +1401,7 @@ We’re building a layered experience map here, and this first section (Account 
 
 ## You (2025-05-13T15:55:13.228009+00:00)
 
-Yes, lets move to product detail page. 
+Yes, lets move to product detail page.
 
 and please avoid giving your responses in a tabular format in this chat
 
@@ -1421,60 +1417,60 @@ We're treating the Product Detail Page as a structured diagnostic space, and eac
 
 The user has just clicked on a row in the Account Overview table—usually because that product showed risk (Critical or At-Risk) and/or high PCV.
 
-**User Intent:**  
+**User Intent:**
 “I want to understand why this product is unhealthy.”
 
-**What They See:**  
-- Product metadata at the top: Product name, Licenses, ARR, Contract Term  
+**What They See:**
+- Product metadata at the top: Product name, Licenses, ARR, Contract Term
 - Immediate sense of scope and value of the product
 
-**What They Do:**  
+**What They Do:**
 Scan for context: Is this product widely deployed? Is it valuable enough to prioritize?
 
-**Why This Step Matters:**  
+**Why This Step Matters:**
 It re-establishes context: we're now in a **single-product view**, but still operating inside an account.
 
 ---
 
 ### ✅ **STEP 2: Review Customer Estate Section**
 
-**User Intent:**  
+**User Intent:**
 “Let me understand what the customer has actually deployed.”
 
-**What They See:**  
+**What They See:**
 - Modular cards or blocks with infrastructure details:
   - Versions, plugins, deployment types
   - Activated features (e.g., Advanced Threat Prevention, Wildfire)
   - License usage (consumption %)
   - Status indicators for CASB, DLP, etc.
 
-**What They Do:**  
+**What They Do:**
 Scan for missing deployments, expiring services, outdated versions
 
-**Why This Step Matters:**  
+**Why This Step Matters:**
 Gives **deployment maturity and coverage signals**—critical for Solutions Consultants or CSMs investigating adoption issues.
 
 ---
 
 ### ✅ **STEP 3: View Technical Health Summary Section**
 
-**User Intent:**  
+**User Intent:**
 “What’s going wrong on the technical side?”
 
-**What They See:**  
+**What They See:**
 - Key metric cards (e.g., MTTR, Critical Case Count, Incidents)
 - Status indicators (color-coded: Healthy, At-Risk, Critical)
 - Threshold explanations via hover or info icon
 - Sparkline or time-series charts per metric
 - High-level summary of 3–5 active or recent customer cases
 
-**What They Do:**  
+**What They Do:**
 - Scan for the most problematic metric
 - Read thresholds to understand *why* it’s considered Critical
 - Hover over tooltips to validate metric definitions
 - Decide whether to investigate cases
 
-**Why This Step Matters:**  
+**Why This Step Matters:**
 This is the **first real diagnostic zone**—it turns a red flag from the overview into an explorable, explainable situation.
 
 ---
@@ -1483,42 +1479,42 @@ This is the **first real diagnostic zone**—it turns a red flag from the overvi
 
 This step is taken *only if* the user wants to dive deeper into the support burden.
 
-**User Intent:**  
+**User Intent:**
 “I need to see exactly what cases are open and why they’re critical.”
 
-**What They See:**  
+**What They See:**
 - Tabular layout of cases: ID, Priority, Status, Subject, Owner
 - Expandable rows for Description, JIRA Severity, Dates
 - Filters by status, priority, owner
 
-**What They Do:**  
+**What They Do:**
 - Investigate root causes
 - Identify escalation candidates
 - Capture owner names or issue tags for action
 
-**Why This Step Matters:**  
+**Why This Step Matters:**
 It closes the loop between **quantitative scores** and **human-readable problems**.
 
 ---
 
 ### ✅ **STEP 5: Review Deployment & Adoption Health Summary**
 
-**User Intent:**  
+**User Intent:**
 “Is the customer actually using this product the way they should?”
 
-**What They See:**  
+**What They See:**
 - Unified line chart of consumption over time
 - Background bands (Healthy, At-Risk, Critical) that span the full width
 - Markers for Target Deployment, TTV (Time-to-Value), and Today
 - Current consumption % and health status
 - Summary card of Professional Services engagement (if any)
 
-**What They Do:**  
+**What They Do:**
 - Visually inspect whether adoption is progressing or stalling
 - Correlate dip/stall with ProServe project status
 - Identify delivery gaps, blockers, or stagnation
 
-**Why This Step Matters:**  
+**Why This Step Matters:**
 This is the **usage maturity checkpoint**—key for any effort to reduce churn or prepare for renewal conversations.
 
 ---
@@ -1527,40 +1523,39 @@ This is the **usage maturity checkpoint**—key for any effort to reduce churn o
 
 This is triggered when there's an active ProServe project and the user suspects it's connected to adoption issues.
 
-**User Intent:**  
+**User Intent:**
 “I need to understand what's happening in the services engagement.”
 
-**What They See:**  
+**What They See:**
 - Table of projects: Name, Status, Owner, Dates
 - Filterable or expandable views with artifacts, comments, blockers
 
-**What They Do:**  
+**What They Do:**
 - Assess project progress or delays
 - Surface responsible parties
 - Prepare notes or actions to align with delivery teams
 
-**Why This Step Matters:**  
+**Why This Step Matters:**
 Bridges the technical and human factors around adoption—and often explains *why usage is slow or broken*.
 
 ---
 
 ### ✅ **STEP 7: Synthesize and Act**
 
-**User Intent:**  
+**User Intent:**
 “Now that I’ve diagnosed the problem, what do I do next?”
 
-**What They See:**  
+**What They See:**
 - All metrics aligned in one page
 - Summary of issues (metrics, cases, ProServe status)
 - Optional export or copy functionality (for internal notes or QBR decks)
 
-**What They Do:**  
+**What They Do:**
 - Make a Slack post, schedule a sync, log an escalation, or prep a renewal strategy
 
-**Why This Step Matters:**  
+**Why This Step Matters:**
 This is where the system supports **decision enablement**. The page exists not just to inform, but to **fuel action**.
 
 ---
 
 Would you like to now dive into any of the individual subsections with an ILM (e.g., Customer Estate, Technical Health, or ProServe Table)? Or move forward to modeling a new flow?
-

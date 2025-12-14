@@ -2,7 +2,7 @@
 
 ## You (2025-04-10T00:02:43.424901+00:00)
 
-help me write a clear prompt for the following intent. 
+help me write a clear prompt for the following intent.
 
 I'm gonna paste my python script at the bottom, but it essentially takes two files and creates some clusters for each row. In the output, I get a really large csv that looks something like this
 
@@ -10,13 +10,13 @@ Module ID,Tension Axis_Bold vs. Safe,Tension Axis_Central vs. Flexible,Tension A
 MODULE 1 - C1-I4,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False
 MODULE 1 - C2-I2,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False
 
-but with cluster labels too. 
+but with cluster labels too.
 
 ---
 
-the script currently only lets me look at one cluster, which is time consuming. its based on these values clusterer = hdbscan.HDBSCAN(min_cluster_size=12, min_samples=8). and so, for example, i can only look at 12_8. 
+the script currently only lets me look at one cluster, which is time consuming. its based on these values clusterer = hdbscan.HDBSCAN(min_cluster_size=12, min_samples=8). and so, for example, i can only look at 12_8.
 
-I want the script to basically create n number of variations. n is a random number, it could be 3 or 10 based on what i want. but I want it to be able to create clusters based on different combinations of min_cluster_size and min_samples. I'll be the one entering those custom values. 
+I want the script to basically create n number of variations. n is a random number, it could be 3 or 10 based on what i want. but I want it to be able to create clusters based on different combinations of min_cluster_size and min_samples. I'll be the one entering those custom values.
 
 in the output, I want somehting like this...
 
@@ -39,7 +39,7 @@ UMAP coordinates help us plot clusters spatially.
 
 ----
 
-within the prompt, i'll attach the full python code at the bottom. I want chatGPT o3 to create a whole new python script, not give me tiny snippets of code. 
+within the prompt, i'll attach the full python code at the bottom. I want chatGPT o3 to create a whole new python script, not give me tiny snippets of code.
 
 -----
 
@@ -99,19 +99,19 @@ Great context—this is super helpful. Let’s clarify a few things together to 
 
 ### 🧠 **Clarifying Questions (to tune the intent):**
 
-1. **How do you want to specify the parameter sets?**  
+1. **How do you want to specify the parameter sets?**
    Will you pass a list like `[(4,4), (8,4), (12,4)]` manually in the script, or do you want the model to generate them randomly?
 
-2. **Do you want the new cluster labels added as additional columns to a single merged CSV, like you described (`4_4`, `8_4`, etc.)?**  
+2. **Do you want the new cluster labels added as additional columns to a single merged CSV, like you described (`4_4`, `8_4`, etc.)?**
    Or do you want separate CSVs per configuration?
 
-3. **Should the new script handle file naming automatically?**  
+3. **Should the new script handle file naming automatically?**
    For example: `"clustered_output_4_4.csv"`, `"clustered_output_combined.csv"`, etc.?
 
-4. **Do you want any visualizations in the output?**  
+4. **Do you want any visualizations in the output?**
    UMAP scatterplots colored by cluster label per configuration, for instance?
 
-5. **Any performance constraints?**  
+5. **Any performance constraints?**
    If you're running a large number of configs (e.g. 10+) over a large dataset, should we implement logging/progress bars or restrict excessive configs?
 
 ---
@@ -124,13 +124,13 @@ Want to go ahead and answer those?
 
 1.	How do you want to specify the parameter sets?
 
-I want to input them the same way you describe, but in the code i'd like some additional comments that can remind me what the structure is and how i should continue writing them for n number of combinations. 
+I want to input them the same way you describe, but in the code i'd like some additional comments that can remind me what the structure is and how i should continue writing them for n number of combinations.
 
-2.	Do you want the new cluster labels added as additional columns to a single merged CSV, like you described (4_4, 8_4, etc.)? - yes, same csv file. 
+2.	Do you want the new cluster labels added as additional columns to a single merged CSV, like you described (4_4, 8_4, etc.)? - yes, same csv file.
 
-3. Should the new script handle file naming automatically? It'll be one single file, so there'll only be one file output. I should be able to change the output file name. 
+3. Should the new script handle file naming automatically? It'll be one single file, so there'll only be one file output. I should be able to change the output file name.
 
-4. no i don't want any visualizations. 
+4. no i don't want any visualizations.
 
 5. to be safe its fine to implement some logging to identify errors and help me understand if it'll take a long time. But my dataset isn't too huge, i mean its like 800 rows.
 
@@ -148,7 +148,7 @@ You have a Python script that currently applies a single HDBSCAN clustering conf
 
 ### ✅ Let's lock it in.
 
-**Triggering Prompt Creation →**  
+**Triggering Prompt Creation →**
 **_Begin creating the prompt._**
 
 ---
@@ -193,4 +193,3 @@ Generate a complete Python script that performs HDBSCAN clustering across **mult
 ---
 
 Ready for generation. Let me know if you want me to run this now and produce the full code.
-

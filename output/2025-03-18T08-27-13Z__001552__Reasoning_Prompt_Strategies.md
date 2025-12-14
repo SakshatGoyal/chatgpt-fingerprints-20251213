@@ -2,10 +2,9 @@
 
 ## You (2025-03-18T08:27:13.732000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-3yFvqs5UJP4dAK5mMuC9JJ', 'size_bytes': 752903, 'width': 1080, 'height': 1350, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Hey, I want you to analyze all the attached content and synthesize it, and create a clear set of strategies a person should use to craft an effective prompt while utilizing the reasoning models, which are the O3 and O1 models.
 
-Ensure the instructions are detailed, clearly articulated, and well-reasoned, along with relevant examples. Also, make sure each set of instructions or strategies you provide has a valid supporting example. 
+Ensure the instructions are detailed, clearly articulated, and well-reasoned, along with relevant examples. Also, make sure each set of instructions or strategies you provide has a valid supporting example.
 
 Remember that there are differences between the reasoning models and the GPT models. Ensure you are crafting a set of instructional strategies and actionable insights for a person using the reasoning models, not the GPT models.
 
@@ -19,96 +18,96 @@ Below is a synthesized set of strategies—each with its rationale and a support
 
 ### 1. Understand Your Model’s Capabilities and Constraints
 
-**Strategy:**  
+**Strategy:**
 Recognize that reasoning models (O3 and O1) are tuned to generate a chain of thought and provide transparent intermediate steps. Unlike standard GPT prompts, your prompt should explicitly ask the model to break down its thought process.
 
-**Example:**  
-Instead of asking,  
-- “What is the main theme of this document?”  
-ask,  
+**Example:**
+Instead of asking,
+- “What is the main theme of this document?”
+ask,
 - “Please analyze the document by listing the key topics, explaining how each is supported by the text, and then summarize the overarching theme.”
 
-*(This builds on guidelines from reasoning best practices that emphasize stepwise transparency citeturn0file2.)*
+*(This builds on guidelines from reasoning best practices that emphasize stepwise transparency .)*
 
 ---
 
 ### 2. Clearly Define the Objective and Context
 
-**Strategy:**  
+**Strategy:**
 Begin your prompt by clearly stating the end goal and providing necessary context. This ensures the model understands the boundaries of the task and reduces ambiguity.
 
-**Example:**  
+**Example:**
 “Your task is to perform an inductive thematic analysis on the provided dataset. First, list the major recurring topics, then identify the connections among them, and finally, provide a summary that explains the latent themes—all using only the data provided.”
 
-*(This approach mirrors recommendations from the ‘Using reasoning for data validation’ guidelines, where clarity of the goal reduces misinterpretation citeturn0file4.)*
+*(This approach mirrors recommendations from the ‘Using reasoning for data validation’ guidelines, where clarity of the goal reduces misinterpretation .)*
 
 ---
 
 ### 3. Instruct Explicit Chain-of-Thought Reasoning
 
-**Strategy:**  
+**Strategy:**
 Directly ask the model to “think out loud” by requesting that it reveals its intermediate reasoning steps before arriving at a final answer. This makes the process transparent and easier to review or debug.
 
-**Example:**  
-“Before presenting your final conclusion, break down your analysis into three steps:  
-1. Identify and list all the key data points.  
-2. Group these data points into potential themes with justifications.  
-3. Synthesize a final summary explaining how these themes interconnect.  
+**Example:**
+“Before presenting your final conclusion, break down your analysis into three steps:
+1. Identify and list all the key data points.
+2. Group these data points into potential themes with justifications.
+3. Synthesize a final summary explaining how these themes interconnect.
 Finally, provide your overall conclusion.”
 
-*(This method is key in prompts designed for reasoning models, as it forces the model to reveal its thought process rather than jumping straight to an answer citeturn0file5.)*
+*(This method is key in prompts designed for reasoning models, as it forces the model to reveal its thought process rather than jumping straight to an answer .)*
 
 ---
 
 ### 4. Specify Structured Intermediate Steps and Validation
 
-**Strategy:**  
+**Strategy:**
 Encourage the model to validate its own reasoning. Ask it to double-check intermediate conclusions for consistency and logical coherence before finalizing its answer.
 
-**Example:**  
+**Example:**
 “After completing each step of your analysis, briefly review your reasoning. For instance, after grouping data points into themes, confirm that every data point has been accounted for and that the grouping is logically sound. Then, provide the final summary.”
 
-*(This strategy helps build guardrails against hallucinations by promoting self-verification, as highlighted in discussions about developing hallucination guardrails citeturn0file0.)*
+*(This strategy helps build guardrails against hallucinations by promoting self-verification, as highlighted in discussions about developing hallucination guardrails .)*
 
 ---
 
 ### 5. Provide In-Context Examples and Formatting Guidelines
 
-**Strategy:**  
+**Strategy:**
 Embed a mini-example in your prompt to illustrate the desired output format and the level of detail expected. This example serves as a template for the model to follow.
 
-**Example:**  
-“Example:  
-- **Step 1:** Identify data points such as ‘increase in sales,’ ‘customer feedback,’ and ‘market trends.’  
-- **Step 2:** Group these into themes like ‘Market Growth’ and ‘Customer Satisfaction’ with a note: ‘Sales increased due to improved customer service.’  
-- **Final Summary:** The data suggests that enhanced customer satisfaction is driving market growth.  
+**Example:**
+“Example:
+- **Step 1:** Identify data points such as ‘increase in sales,’ ‘customer feedback,’ and ‘market trends.’
+- **Step 2:** Group these into themes like ‘Market Growth’ and ‘Customer Satisfaction’ with a note: ‘Sales increased due to improved customer service.’
+- **Final Summary:** The data suggests that enhanced customer satisfaction is driving market growth.
 Now, please perform the same analysis on the provided dataset.”
 
-*(Providing an example is a well-known prompt engineering best practice, especially when aiming for detailed inductive or thematic analysis citeturn0file1.)*
+*(Providing an example is a well-known prompt engineering best practice, especially when aiming for detailed inductive or thematic analysis .)*
 
 ---
 
 ### 6. Guard Against Overgeneralizations and Hallucinations
 
-**Strategy:**  
+**Strategy:**
 Explicitly instruct the model to note uncertainty if evidence is lacking. This helps prevent it from inventing details or overgeneralizing.
 
-**Example:**  
+**Example:**
 “If you encounter ambiguous or incomplete data, state your uncertainty (e.g., ‘the data does not provide enough evidence to confirm this hypothesis’), rather than assuming an answer.”
 
-*(This precaution is aligned with best practices for creating hallucination guardrails, ensuring that reasoning remains anchored to the provided data citeturn0file0.)*
+*(This precaution is aligned with best practices for creating hallucination guardrails, ensuring that reasoning remains anchored to the provided data .)*
 
 ---
 
 ### 7. Encourage Iterative Refinement and Metacognition
 
-**Strategy:**  
+**Strategy:**
 Invite the model to reflect on its reasoning process and suggest improvements. This not only builds a stronger final answer but also aids in identifying any logical gaps.
 
-**Example:**  
+**Example:**
 “Once you have completed your analysis, please provide a brief reflection on your reasoning process. Identify any steps that might be improved or reconsidered for clarity, and then restate your final conclusion incorporating any insights gained from this reflection.”
 
-*(This approach is particularly useful for complex tasks where iterative refinement can lead to more robust analytical outcomes, as emphasized in routines for data validation and routine generation citeturn0file4, citeturn0file5.)*
+*(This approach is particularly useful for complex tasks where iterative refinement can lead to more robust analytical outcomes, as emphasized in routines for data validation and routine generation , .)*
 
 ---
 
@@ -133,9 +132,7 @@ I like the way you have written this document. I think you've done a good job of
 
 Here's a concise, structured, and easy-to-follow checklist designed as a step-by-step instruction manual to guide a student through crafting effective, complex prompts specifically tailored for reasoning models (O3 and O1):
 
-## ChatGPT (2025-03-18T08:33:36.585175+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"reasoning_prompt_guide\",\"type\":\"document\",\"content\":\"**Instruction Manual: Step-by-Step Checklist for Crafting Complex Prompts for Reasoning Models**\\n\\nFollow this structured framework each time you develop a prompt designed for complex analytical tasks:\\n\\n---\\n\\n### ✅ **Step 1: Clearly State Your Goal and Context**\\n\\n- Explicitly mention your main goal at the beginning.\\n- Briefly provide necessary context or background information.\\n\\n**Example:**  \\n\\\"Your goal is to perform an inductive thematic analysis on the provided survey data.\\\"\\n\\n---\\n\\n### ✅ **Step 2: Break Down the Task into Structured Steps**\\n\\n- Define distinct steps that clearly segment the analysis.\\n- Number or bullet-point these steps for clarity.\\n\\n**Example:**  \\n\\\"Complete the analysis in the following three steps:\\n1. List all prominent topics.\\n2. Group topics into overarching themes.\\n3. Summarize the key latent themes and their connections.\\\"\\n\\n---\\n\\n### ✅ **Step 3: Request Explicit Chain-of-Thought Reasoning**\\n\\n- Clearly instruct the model to \\\"think out loud,\\\" showing intermediate thoughts.\\n- Emphasize transparency in each step.\\n\\n**Example:**  \\n\\\"For each step, clearly explain your reasoning before providing your conclusion.\\\"\\n\\n---\\n\\n### ✅ **Step 4: Instruct Self-Validation and Logical Consistency Checks**\\n\\n- Ask the model to self-review and validate intermediate conclusions.\\n\\n**Example:**  \\n\\\"After each analytical step, double-check to ensure that all data points are logically grouped and that no data has been overlooked.\\\"\\n\\n---\\n\\n### ✅ **Step 5: Provide a Template with Formatting and Detail Expectations**\\n\\n- Include a concise example demonstrating your expected output format.\\n\\n**Example:**  \\n\\\"Template Example:\\n- **Step 1:** Data points - 'customer satisfaction,' 'sales trends.'\\n- **Step 2:** Themes - 'Market Growth,' 'Customer Engagement.'\\n- **Step 3:** Summary - Increased customer engagement correlates with market growth.\\\"\\n\\n---\\n\\n### ✅ **Step 6: Explicitly Address Ambiguity and Prevent Hallucinations**\\n\\n- Direct the model on how to handle uncertain or insufficient data.\\n\\n**Example:**  \\n\\\"If data is incomplete or ambiguous, explicitly state your uncertainty (e.g., 'Data insufficient for a firm conclusion').\\\"\\n\\n---\\n\\n### ✅ **Step 7: Include a Reflection and Iterative Refinement Step**\\n\\n- Request the model to critically reflect on its reasoning.\\n- Encourage suggestions for improvements or alternative approaches.\\n\\n**Example:**  \\n\\\"After completing your analysis, briefly reflect on the reasoning process and note any potential areas for improvement. Incorporate any adjustments into your final conclusion.\\\"\\n\\n---\\n\\n### ✅ **Final Checklist Before Submission:**\\n\\n- [ ] Goal and context clearly stated\\n- [ ] Steps explicitly broken down\\n- [ ] Instructions for transparent, stepwise reasoning included\\n- [ ] Validation and logic checks requested\\n- [ ] Formatting template and detail expectations provided\\n- [ ] Ambiguity management instructions specified\\n- [ ] Reflection and iterative refinement requested\\n\\nUse this structured framework consistently to enhance clarity, accuracy, and effectiveness when writing complex prompts for reasoning models.\"}"}
 
 ## ChatGPT (2025-03-18T08:35:45.455649+00:00)
 
@@ -160,7 +157,7 @@ Structure your prompt clearly using the following headings each time:
 ### 1. 🎯 **Objective**
 Define the goal explicitly in one clear sentence.
 
-**Example:**  
+**Example:**
 _"Perform an inductive thematic analysis on provided survey responses to identify underlying themes."_
 
 ---
@@ -168,7 +165,7 @@ _"Perform an inductive thematic analysis on provided survey responses to identif
 ### 2. 📚 **Context & Background**
 Briefly provide the necessary information to frame the task clearly.
 
-**Example:**  
+**Example:**
 _"The data consists of customer survey responses about a new product's launch and customer satisfaction."_
 
 ---
@@ -176,9 +173,9 @@ _"The data consists of customer survey responses about a new product's launch an
 ### 3. 🛠️ **Detailed Instructions**
 Break down the task explicitly into numbered, structured steps to guide the reasoning model through a clear chain-of-thought process:
 
-**Example Steps:**  
-1. **Extract key topics:** Identify prominent, recurring topics from the data.  
-2. **Group topics into themes:** Clearly define and logically justify each grouping.  
+**Example Steps:**
+1. **Extract key topics:** Identify prominent, recurring topics from the data.
+2. **Group topics into themes:** Clearly define and logically justify each grouping.
 3. **Summarize latent themes:** Provide a synthesis connecting the themes clearly back to the original data.
 
 ---
@@ -186,7 +183,7 @@ Break down the task explicitly into numbered, structured steps to guide the reas
 ### 4. 🧠 **Reasoning Process**
 Clearly instruct the reasoning model to reveal its step-by-step thinking process, reinforcing explicit transparency.
 
-**Example Instruction:**  
+**Example Instruction:**
 _"Please explicitly explain your thinking at each analytical step to clearly illustrate your reasoning process."_
 
 ---
@@ -194,7 +191,7 @@ _"Please explicitly explain your thinking at each analytical step to clearly ill
 ### 5. 🔍 **Self-Validation & Consistency Checks**
 Instruct the model to verify and confirm the logic and consistency at each step, actively avoiding assumptions or hallucinations.
 
-**Example:**  
+**Example:**
 _"After each step, pause briefly to check your reasoning. Confirm explicitly that all data points are accounted for logically and consistently."_
 
 ---
@@ -202,7 +199,7 @@ _"After each step, pause briefly to check your reasoning. Confirm explicitly tha
 ### 6. 🚨 **Handling Ambiguity**
 Instruct the model explicitly on how to handle uncertain or insufficient information to avoid hallucinations.
 
-**Example:**  
+**Example:**
 _"If there is ambiguity or missing data, clearly state this explicitly (e.g., 'insufficient evidence to determine the exact relationship')."_
 
 ---
@@ -210,21 +207,21 @@ _"If there is ambiguity or missing data, clearly state this explicitly (e.g., 'i
 ### 7. 📝 **Output Format (with Example)**
 Provide a clearly structured example or template for the expected output.
 
-**Example Output:**  
+**Example Output:**
 ```
-Step 1 (Key Topics):  
-- Customer satisfaction  
-- Product performance  
-- Pricing feedback  
+Step 1 (Key Topics):
+- Customer satisfaction
+- Product performance
+- Pricing feedback
 
-Step 2 (Grouped Themes):  
-- Theme 1: Customer Experience (satisfaction, feedback)  
-- Theme 2: Market Performance (performance, pricing)  
+Step 2 (Grouped Themes):
+- Theme 1: Customer Experience (satisfaction, feedback)
+- Theme 2: Market Performance (performance, pricing)
 
-Step 3 (Summary of Latent Themes):  
-The analysis reveals strong customer experience significantly impacts market performance.  
+Step 3 (Summary of Latent Themes):
+The analysis reveals strong customer experience significantly impacts market performance.
 
-Reflection & Adjustment:  
+Reflection & Adjustment:
 Upon reviewing, grouping clarity improved by explicitly linking customer feedback to satisfaction metrics.
 ```
 
@@ -233,7 +230,7 @@ Upon reviewing, grouping clarity improved by explicitly linking customer feedbac
 ### 8. 🔄 **Reflection & Iterative Refinement**
 Require the reasoning model to reflect on and critique its analysis, suggesting improvements or revisions explicitly.
 
-**Example Instruction:**  
+**Example Instruction:**
 _"Reflect on your analytical process explicitly. Clearly state any adjustments or improvements made after this reflection."_
 
 ---
@@ -242,14 +239,14 @@ _"Reflect on your analytical process explicitly. Clearly state any adjustments o
 
 Use this final quick-check to confirm your prompt is complete and structured properly:
 
-- [ ] Clear and concise **Objective** defined  
-- [ ] Necessary **Context & Background** provided  
-- [ ] Structured and numbered **Detailed Instructions** included  
-- [ ] Explicit step-by-step **Reasoning Process** required  
-- [ ] **Self-Validation & Consistency Checks** explicitly instructed  
-- [ ] Clear instructions for **Handling Ambiguity** included  
-- [ ] **Output Format** explicitly shown with a structured example  
-- [ ] Explicit request for **Reflection & Iterative Refinement** added  
+- [ ] Clear and concise **Objective** defined
+- [ ] Necessary **Context & Background** provided
+- [ ] Structured and numbered **Detailed Instructions** included
+- [ ] Explicit step-by-step **Reasoning Process** required
+- [ ] **Self-Validation & Consistency Checks** explicitly instructed
+- [ ] Clear instructions for **Handling Ambiguity** included
+- [ ] **Output Format** explicitly shown with a structured example
+- [ ] Explicit request for **Reflection & Iterative Refinement** added
 
 ---
 
@@ -257,20 +254,20 @@ This aligns closely with Greg’s original prompt structure from your reference 
 
 ## You (2025-03-18T08:41:04.513000+00:00)
 
-actually your structure still doesn't align with greg's structure. 
+actually your structure still doesn't align with greg's structure.
 
 Greg keeps the context at the end
 the goal at the top
 the return format second
 and warnings in the middle
 
-I know we have a lot to cover, but lets make sure we are as close to Greg's structure. 
+I know we have a lot to cover, but lets make sure we are as close to Greg's structure.
 
 Also, for your reference, Ive attached one more document. This may help you understand the differences between o3 and GPT models. some of the instructions here are critical.
 
 ## ChatGPT (2025-03-18T08:41:05.945318+00:00)
 
-Thank you for providing the additional document and clarifying Greg's structure preferences. Based on your guidance and the newly uploaded detailed insights into O1 and O3 models, I have carefully aligned all previously outlined strategies into Greg’s exact prompt format, including the necessary warnings and specifics tailored explicitly for reasoning models (O1/O3), not GPT. 
+Thank you for providing the additional document and clarifying Greg's structure preferences. Based on your guidance and the newly uploaded detailed insights into O1 and O3 models, I have carefully aligned all previously outlined strategies into Greg’s exact prompt format, including the necessary warnings and specifics tailored explicitly for reasoning models (O1/O3), not GPT.
 
 Here’s a detailed, clearly structured instruction manual/checklist aligned with Greg’s preferred format:
 
@@ -279,7 +276,7 @@ Here’s a detailed, clearly structured instruction manual/checklist aligned wit
 ## 🎯 **Goal**
 Clearly and explicitly state the task’s objective at the top. Ensure precision and clarity.
 
-**Example:**  
+**Example:**
 _"Perform an inductive thematic analysis on the provided interview data to identify core themes."_
 
 ---
@@ -287,7 +284,7 @@ _"Perform an inductive thematic analysis on the provided interview data to ident
 ## 🗒️ **Return Format**
 Explicitly instruct the model on the structure and format you expect in the response. O1/O3 models are excellent at adhering to specific format instructions.
 
-**Example Return Format:**  
+**Example Return Format:**
 ```
 Step 1: [List key data points identified]
 Step 2: [Group data points into themes]
@@ -300,16 +297,16 @@ Reflection: [Optional reflection on reasoning process]
 ## ⚠️ **Warnings / Important Instructions**
 Clearly define essential instructions tailored to O1 and O3 models to ensure optimal performance and avoid pitfalls:
 
-- **No explicit reasoning prompts:**  
+- **No explicit reasoning prompts:**
   Avoid phrases like "think step-by-step" (unnecessary for O1/O3 as they internally reason extensively).
 
-- **Concise and clear instructions:**  
+- **Concise and clear instructions:**
   Minimize unnecessary context or examples. Use zero-shot or at most one simple example, as excess examples can degrade O1/O3 performance.
 
-- **Avoid ambiguity and assumptions:**  
+- **Avoid ambiguity and assumptions:**
   Explicitly instruct the model on handling uncertain or incomplete data by clearly stating uncertainties.
 
-**Example of a warning instruction:**  
+**Example of a warning instruction:**
 _"Do not invent or assume missing details; explicitly state any uncertainties or ambiguities you encounter."_
 
 ---
@@ -317,7 +314,7 @@ _"Do not invent or assume missing details; explicitly state any uncertainties or
 ## 📌 **Detailed Instructions**
 Break down the task explicitly into numbered steps for precise internal reasoning (this leverages O1/O3’s built-in analytical strengths):
 
-**Example Detailed Instructions:**  
+**Example Detailed Instructions:**
 1. **Extract key topics:** List prominent topics directly from the provided data.
 2. **Group topics logically:** Organize topics into clearly justified thematic groups.
 3. **Summarize latent themes:** Clearly synthesize a concise summary that logically connects and reflects the identified themes.
@@ -327,7 +324,7 @@ Break down the task explicitly into numbered steps for precise internal reasonin
 ## 🔎 **Accuracy & Logical Validation**
 Though O1/O3 models internally validate their reasoning, explicitly instructing occasional self-checks ensures even higher accuracy.
 
-**Example instruction:**  
+**Example instruction:**
 _"After completing each analytical step, explicitly confirm that all key points have been logically accounted for and grouped correctly."_
 
 ---
@@ -335,17 +332,17 @@ _"After completing each analytical step, explicitly confirm that all key points 
 ## 🔄 **Reflection & Iterative Refinement**
 Explicitly ask the model for critical reflection, as this maximizes its analytical strengths and reinforces logical rigor.
 
-**Example instruction:**  
+**Example instruction:**
 _"Reflect on the reasoning process after completing your analysis. Explicitly identify potential improvements or revisions and clearly state if adjustments were made."_
 
 ---
 
 ## 📚 **Context & Background**
-(Placed last, per Greg’s structure.)  
+(Placed last, per Greg’s structure.)
 Explicitly provide all necessary contextual information or background data, since O1/O3 models require external context for niche or specialized knowledge. Clearly structure or segment lengthy information using headings, bullet points, or concise paragraphs.
 
-**Example of Context Provided:**  
-_"Context: The dataset consists of verbatim transcripts from 25 interviews conducted with users of a new educational platform. Interviewees discussed usability, perceived value, and learning outcomes."_  
+**Example of Context Provided:**
+_"Context: The dataset consists of verbatim transcripts from 25 interviews conducted with users of a new educational platform. Interviewees discussed usability, perceived value, and learning outcomes."_
 
 ---
 
@@ -365,4 +362,3 @@ Always confirm your prompt matches Greg's structure precisely before submission:
 This structure closely matches Greg’s original format (goal at the top, return format second, warnings in the middle, and context at the end) and comprehensively integrates the detailed strategies and best practices from the O1/O3 reasoning model guide you've provided.
 
 Let me know if further adjustments or refinements are needed!
-

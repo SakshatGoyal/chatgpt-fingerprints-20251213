@@ -64,7 +64,7 @@ For each module:
 
 > Your reasoning must align with the interpretive principles in the Evaluator Guide.
 This step is fully internal. Do not display your reasoning. Suppress it entirely before producing final output.
-> 
+>
 
 ⚠️ DO NOT DO THE FOLLOWING:
 
@@ -104,9 +104,9 @@ After all modules are internally analyzed:
 
 • Include a CSV header as the first line.
 
-• Output must use real line breaks between each row (each module = 1 line). 
+• Output must use real line breaks between each row (each module = 1 line).
 
-• Do not use markdown, code blocks, or \n characters 
+• Do not use markdown, code blocks, or \n characters
 
 • Do not include explanations, or additional text.
 
@@ -130,15 +130,14 @@ Start with the first 10 modules in the file.
 
 ## ChatGPT (2025-04-08T20:12:08.362813+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype,Decision Consequence  
-CATEGORICAL MODULE 1 - C2-I1,System Tangle,Capability Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Legacy Hold,Lost in Translation  
-CATEGORICAL MODULE 3 - C2-I1,Value Clash,Both/And Frame,Tested First,True Clarity,Global vs. Local,Unknown,Unknown,Unknown  
-CATEGORICAL MODULE 6 - C2-I1,System Tangle,Capability Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Legacy Hold,Lost in Translation  
-CATEGORICAL MODULE 8 - C2-I1,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Global vs. Local,Unknown,Unknown,Unknown  
-CATEGORICAL MODULE 14 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,No Signal,Unknown,Unknown,Comfort Bias,False Confidence  
-CATEGORICAL MODULE 23 - C2-I1,Signal Split,Evidence Frame,Unknown,True Clarity,Unknown,Unknown,Short-Term Pull,Lost in Translation  
-CATEGORICAL MODULE 25 - C2-I1,Value Clash,Both/And Frame,Unknown,True Clarity,Global vs. Local,Unknown,Unknown,Unknown  
-CATEGORICAL MODULE 28 - C2-I1,Signal Split,Evidence Frame,Unknown,No Signal,Now vs. Later,Unknown,Comfort Bias,Unknown  
-CATEGORICAL MODULE 30 - C2-I1,System Tangle,Ecosystem Frame,Unknown,True Clarity,Vision vs. Reality,Overstretched Org,Legacy Hold,Unknown  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype,Decision Consequence
+CATEGORICAL MODULE 1 - C2-I1,System Tangle,Capability Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Legacy Hold,Lost in Translation
+CATEGORICAL MODULE 3 - C2-I1,Value Clash,Both/And Frame,Tested First,True Clarity,Global vs. Local,Unknown,Unknown,Unknown
+CATEGORICAL MODULE 6 - C2-I1,System Tangle,Capability Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Legacy Hold,Lost in Translation
+CATEGORICAL MODULE 8 - C2-I1,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Global vs. Local,Unknown,Unknown,Unknown
+CATEGORICAL MODULE 14 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,No Signal,Unknown,Unknown,Comfort Bias,False Confidence
+CATEGORICAL MODULE 23 - C2-I1,Signal Split,Evidence Frame,Unknown,True Clarity,Unknown,Unknown,Short-Term Pull,Lost in Translation
+CATEGORICAL MODULE 25 - C2-I1,Value Clash,Both/And Frame,Unknown,True Clarity,Global vs. Local,Unknown,Unknown,Unknown
+CATEGORICAL MODULE 28 - C2-I1,Signal Split,Evidence Frame,Unknown,No Signal,Now vs. Later,Unknown,Comfort Bias,Unknown
+CATEGORICAL MODULE 30 - C2-I1,System Tangle,Ecosystem Frame,Unknown,True Clarity,Vision vs. Reality,Overstretched Org,Legacy Hold,Unknown
 CATEGORICAL MODULE 33 - C2-I1,Value Clash,Values Frame,Unknown,True Clarity,Global vs. Local,Culture Clash,Unknown,Cultural Rejection
-

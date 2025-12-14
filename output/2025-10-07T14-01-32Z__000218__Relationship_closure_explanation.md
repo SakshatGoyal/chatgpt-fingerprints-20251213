@@ -5,7 +5,7 @@
 Consolidate the following message into a short text. I'm telling someone about why i ended a casual relationship, but in your language:
 
 
-I later found out that she had a partner since grad school, and she was soon moving in with him. She seemed like a very sweet, genuine, and innocent girl, so it was a little disorienting. 
+I later found out that she had a partner since grad school, and she was soon moving in with him. She seemed like a very sweet, genuine, and innocent girl, so it was a little disorienting.
 
 She didn't think she had done anything wrong. I was conflicted myself since it wasn't necessarily a romantic story. But eventually, I imagined how he must've felt. Almost like, if I suddenly found out that my partner had been sleeping with others without me knowing.
 
@@ -49,7 +49,7 @@ She was spoken for, though she never mentioned it. I wasn’t offended, just uni
 
 **5. The Dispassionate Reckoning:**
 
-I learned too late she had a man she planned to move in with. She didn’t think it mattered. But imagining myself in his position, I realized I wouldn’t accept such a thing either. So I withdrew—cleanly, finally. 
+I learned too late she had a man she planned to move in with. She didn’t think it mattered. But imagining myself in his position, I realized I wouldn’t accept such a thing either. So I withdrew—cleanly, finally.
 
 ---
 
@@ -65,25 +65,24 @@ Of course—here are a few more grounded, natural versions of the message, still
 
 ---
 
-**1. Straightforward and honest:**  
+**1. Straightforward and honest:**
 I found out she’d been in a relationship since grad school and was about to move in with him. It threw me off—she came across as really genuine. She didn’t think she’d done anything wrong, but once I imagined how I’d feel in his shoes, I couldn’t keep going.
 
 ---
 
-**2. Calm and reflective:**  
+**2. Calm and reflective:**
 She had a partner the whole time, which I didn’t know until later. It caught me off guard because she seemed so sincere. She didn’t see it as a problem, but I realized I wouldn’t be okay with it if the roles were reversed. So I stepped away.
 
 ---
 
-**3. Light but clear:**  
+**3. Light but clear:**
 Turns out she’d been with someone for years and was about to move in with him. She didn’t think it was a big deal, but it didn’t sit right with me. I wouldn’t want to be in his place, so I ended it.
 
 ---
 
-**4. Simple and neutral:**  
+**4. Simple and neutral:**
 I found out she was in a long-term relationship and about to move in with her partner. That changed how I saw things. I didn’t want to be part of something that felt dishonest, so I ended it.
 
 ---
 
 Let me know if you want one with a little more warmth, detachment, or even humor.
-

@@ -11,8 +11,8 @@ Your output must follow this structure:
 
 from [INSERT PATH NAME]
 
-Copy ### INSIGHT MODULE [X] to /Users/sakshatgoyal/Desktop/Compilation/[Standard Strategy File Name] 
-Copy ### INSIGHT MODULE [Y] to /Users/sakshatgoyal/Desktop/Compilation/[Standard Strategy File Name] 
+Copy ### INSIGHT MODULE [X] to /Users/sakshatgoyal/Desktop/Compilation/[Standard Strategy File Name]
+Copy ### INSIGHT MODULE [Y] to /Users/sakshatgoyal/Desktop/Compilation/[Standard Strategy File Name]
 ...
 ...
 
@@ -53,19 +53,19 @@ Absolutely — let's tune it for **GPT-4o mini** while preserving the functional
 ---
 
 ### 🔍 Quick Discovery
-1. **How much context will the model have?**  
+1. **How much context will the model have?**
    Will the classification summary table be in the *same thread*, or should the prompt remind the model to look back a few messages?
 
-2. **Filename flexibility?**  
+2. **Filename flexibility?**
    Will the filename always be `Compilation C1-I6.txt`, or do you want the model to infer filenames from context?
 
-3. **Should we retain the markdown fenced block behavior?**  
+3. **Should we retain the markdown fenced block behavior?**
    I assume yes, but just confirming.
 
-4. **Any parts you feel GPT-4o mini has trouble following?**  
+4. **Any parts you feel GPT-4o mini has trouble following?**
    (e.g. mapping logic, formatting fidelity, instruction following?)
 
-5. **Tone preference:**  
+5. **Tone preference:**
    Do you want to keep the "assistant-as-a-script-generator" tone, or more directive/system-like?
 
 ---
@@ -77,11 +77,11 @@ Once I get your answers, I’ll rework this for GPT-4o mini with a lighter cogni
 here're my instructions from a different chat window. I hope this clarifies some of your questions
 
 
-I now have about 31 chat windows, so I'll need help building a prompt that can be copy-pasted into all those 31 windows. 
+I now have about 31 chat windows, so I'll need help building a prompt that can be copy-pasted into all those 31 windows.
 
-As part of the final response as of now, we have a table with Insight Module IDs and which category of strategy they belong to. Now, I want to start compiling all the responses into a single text file. So from each text window, I'll need to export the last response (the table) into a markdown format response. 
+As part of the final response as of now, we have a table with Insight Module IDs and which category of strategy they belong to. Now, I want to start compiling all the responses into a single text file. So from each text window, I'll need to export the last response (the table) into a markdown format response.
 
-I need the response to be something like this. 
+I need the response to be something like this.
 
 -------
 
@@ -94,12 +94,12 @@ Copy [Insight Module X] to /Users/sakshatgoyal/Desktop/Compilation/[strategy cat
 
 --------
 
-A few things to keep in mind. 
+A few things to keep in mind.
 
-1. [filename] is basically the .txt file that the model used to extract the insight modules. I'll provide the filename, I jsut need a placeholder 
-2. [Insight Module] - this should be written as '### INSIGHT MODULE [x]'. This format is important for the next set of steps, and ofcourse [x] is the insight module number. 
+1. [filename] is basically the .txt file that the model used to extract the insight modules. I'll provide the filename, I jsut need a placeholder
+2. [Insight Module] - this should be written as '### INSIGHT MODULE [x]'. This format is important for the next set of steps, and ofcourse [x] is the insight module number.
 3. [strategy category file]
-Lets assume that for each category of strategy, there's a .txt file with it's name. Like 'Corporate-Strategy.txt. Here're the actual names. 
+Lets assume that for each category of strategy, there's a .txt file with it's name. Like 'Corporate-Strategy.txt. Here're the actual names.
 
 1. Corporate Strategy Insights.txt
 2. Business Strategy Insights.txt
@@ -114,7 +114,7 @@ But the challenge is, in every chat window, the names of the strategy are differ
 
 Awesome — thanks for the detailed rundown! That clarified **everything I needed**, especially:
 
-- You’ll **manually paste this prompt into ~31 threads**  
+- You’ll **manually paste this prompt into ~31 threads**
 - Each thread ends with a **summary table** that maps *Insight Module IDs* → *Strategy Type*
 - You’ll provide the `[filename]` manually
 - The key challenge is the **fuzzy matching** of strategy type labels
@@ -136,7 +136,7 @@ We'll make sure the final prompt:
 
 Ready to go?
 
-### ✅ If yes, say: **“Begin building the prompt”**  
+### ✅ If yes, say: **“Begin building the prompt”**
 And I’ll deliver a clean, copy-pasteable GPT-4o mini–friendly prompt based on everything above, optimized for markdown fidelity, fuzzy classification, and structured output.
 
 ## You (2025-03-24T21:07:12.088000+00:00)
@@ -171,7 +171,7 @@ Copy ### INSIGHT MODULE [Y] to /Users/sakshatgoyal/Desktop/Compilation/[Standard
 - Your response should include **only** the final code block — no commentary or explanation.
 
 🧠 **Strategy Type Normalization Rules:**
-Match strategy types **case-insensitively**.  
+Match strategy types **case-insensitively**.
 Ignore variations like:
 - Hyphens vs spaces (e.g., `Corporate-Level` = `Corporate Level`)
 - Presence of the word “strategy” (e.g., `Business Level Strategy`)
@@ -214,4 +214,3 @@ Copy ### INSIGHT MODULE 5 to /Users/sakshatgoyal/Desktop/Compilation/Leadership 
 - Uses fuzzy matching in a controlled and explicit way
 
 Would you like me to prepare a reusable “batch” version of this prompt (for use with other filenames automatically inserted)?
-

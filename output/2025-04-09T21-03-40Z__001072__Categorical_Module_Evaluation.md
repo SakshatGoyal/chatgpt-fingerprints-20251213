@@ -60,12 +60,11 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T21:03:41.509441+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 3 - C5-I1,Cognitive Fog,Evidence Frame,Unknown,Unknown,Now vs. Later,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 1 - C2-I1,System Tangle,Evidence Frame,Unknown,Surface Alignment,Unknown,Execution Lag,Silo Drag  
-CATEGORICAL MODULE 1 - C5-I1,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Bold vs. Safe,Lost Direction,Process Trap  
-CATEGORICAL MODULE 12 - C1-I2,Value Clash,Capability Frame,Unknown,Surface Alignment,Bold vs. Safe,Execution Lag,Shallow Change  
-CATEGORICAL MODULE 5 - C3-I1,Cognitive Fog,Capability Frame,Unknown,Unknown,Vision vs. Reality,Capability Gap,Tech Mirage  
-CATEGORICAL MODULE 16 - C1-I1,Cultural Drift,Values Frame,Unknown,Surface Alignment,Bold vs. Safe,Unknown,Comfort Bias  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 3 - C5-I1,Cognitive Fog,Evidence Frame,Unknown,Unknown,Now vs. Later,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 1 - C2-I1,System Tangle,Evidence Frame,Unknown,Surface Alignment,Unknown,Execution Lag,Silo Drag
+CATEGORICAL MODULE 1 - C5-I1,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Bold vs. Safe,Lost Direction,Process Trap
+CATEGORICAL MODULE 12 - C1-I2,Value Clash,Capability Frame,Unknown,Surface Alignment,Bold vs. Safe,Execution Lag,Shallow Change
+CATEGORICAL MODULE 5 - C3-I1,Cognitive Fog,Capability Frame,Unknown,Unknown,Vision vs. Reality,Capability Gap,Tech Mirage
+CATEGORICAL MODULE 16 - C1-I1,Cultural Drift,Values Frame,Unknown,Surface Alignment,Bold vs. Safe,Unknown,Comfort Bias
 CATEGORICAL MODULE 3 - C5-I4,System Tangle,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Tech Mirage
-

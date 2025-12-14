@@ -163,64 +163,64 @@ Relevance Assessment: The findings offer actionable insights for contemporary ex
 
 ### Insight 1: Rapid Strategic Decision-Making in Emergencies
 
-**1. Insight Statement**  
+**1. Insight Statement**
 GM’s swift transition to remote work, rigorous safety protocols, and prompt policy updates during the early stages of the Covid-19 crisis reveal a capacity for agile, data-driven decision-making that challenges the assumption that rapid change necessarily disrupts operational continuity. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Balancing the imperative of safeguarding employee health against the need to maintain continuous business operations.  
-- **Underlying Beliefs & Biases:** Executives presumed that a rapid shift to remote work and the implementation of strict safety measures would seamlessly replace traditional operational models—potentially overlooking the complexities of remote coordination.  
-- **Expected vs. Actual Outcomes:** While GM successfully maintained business continuity and reduced infection risks, the swift transition also surfaced communication and operational challenges that required ongoing adjustments.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Balancing the imperative of safeguarding employee health against the need to maintain continuous business operations.
+- **Underlying Beliefs & Biases:** Executives presumed that a rapid shift to remote work and the implementation of strict safety measures would seamlessly replace traditional operational models—potentially overlooking the complexities of remote coordination.
+- **Expected vs. Actual Outcomes:** While GM successfully maintained business continuity and reduced infection risks, the swift transition also surfaced communication and operational challenges that required ongoing adjustments.
 - **Broader Implications:** This case underscores the need for pre-established, flexible crisis management frameworks that allow for rapid adaptation without compromising core business functions. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Data from GM’s early crisis response—detailing remote work policies, safety protocols, and continuous employee updates—provides clear evidence of the effectiveness of rapid strategic decision-making in emergency contexts (Section 5.1). **[Empirical]**
 
 ---
 
 ### Insight 2: Cross-Sector Coordination and Partnership for Crisis Response
 
-**1. Insight Statement**  
+**1. Insight Statement**
 The study demonstrates that effective crisis management hinges on strategic partnerships, as exemplified by GM’s collaboration with Ventec Life Systems and coordination with key governmental agencies, which enabled a rapid scale-up in ventilator production. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Confronting acute shortages of critical medical equipment amid unprecedented supply chain disruptions.  
-- **Underlying Beliefs & Biases:** Decision-makers recognized that no single organization could tackle such challenges alone, thereby shifting away from the bias of self-reliance towards embracing collaborative strategies.  
-- **Expected vs. Actual Outcomes:** The coordinated effort resulted in a production scale-up—from initial prototypes to tens of thousands of ventilators per day—surpassing early expectations.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Confronting acute shortages of critical medical equipment amid unprecedented supply chain disruptions.
+- **Underlying Beliefs & Biases:** Decision-makers recognized that no single organization could tackle such challenges alone, thereby shifting away from the bias of self-reliance towards embracing collaborative strategies.
+- **Expected vs. Actual Outcomes:** The coordinated effort resulted in a production scale-up—from initial prototypes to tens of thousands of ventilators per day—surpassing early expectations.
 - **Broader Implications:** The success of these partnerships reinforces the strategic value of inter-organizational alliances in mitigating crisis impacts and enhancing public-private responsiveness. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper provides detailed accounts of GM’s multi-stakeholder partnerships, including metrics on production increases and coordinated logistics (Sections 5.2 and 5.3), which robustly support this insight. **[Empirical]**
 
 ---
 
 ### Insight 3: Innovation in Supply Chain and Operational Adaptability
 
-**1. Insight Statement**  
+**1. Insight Statement**
 The Covid-19 crisis exposed the vulnerabilities of traditional just-in-time supply chain models, prompting a necessary shift toward innovative, resilient, and adaptive supply chain strategies that better withstand global disruptions. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Sustaining an uninterrupted supply chain amid severe global disruptions and unpredictable demand fluctuations.  
-- **Underlying Beliefs & Biases:** The prevailing belief in the cost efficiencies of just-in-time models was challenged, revealing an underestimation of the risks posed by low inventory buffers during crises.  
-- **Expected vs. Actual Outcomes:** In response, GM reconfigured its supplier networks and reallocated manufacturing resources, effectively stabilizing production despite external shocks.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Sustaining an uninterrupted supply chain amid severe global disruptions and unpredictable demand fluctuations.
+- **Underlying Beliefs & Biases:** The prevailing belief in the cost efficiencies of just-in-time models was challenged, revealing an underestimation of the risks posed by low inventory buffers during crises.
+- **Expected vs. Actual Outcomes:** In response, GM reconfigured its supplier networks and reallocated manufacturing resources, effectively stabilizing production despite external shocks.
 - **Broader Implications:** This case calls for a strategic reevaluation of supply chain paradigms, emphasizing the integration of robust risk management practices and enhanced operational flexibility. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Evidence from GM’s adaptive strategies—including rapid supplier realignment and resource reallocation as discussed in Section 5.4—substantiates the need for supply chain innovation in the face of unprecedented disruptions. **[Empirical]**
 
 ---
 
 ### Insight 4: Leadership and Organizational Restructure in Crisis Response
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Targeted restructuring of executive leadership during the crisis illustrates that dynamic leadership reorganization is vital for effective crisis management, facilitating clearer communication and more agile decision-making. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Aligning leadership capabilities with the urgent and evolving demands of a crisis while maintaining strategic continuity.  
-- **Underlying Beliefs & Biases:** Traditional, rigid leadership hierarchies can impede rapid response; restructuring signals an adaptive shift necessary for managing emergent challenges.  
-- **Expected vs. Actual Outcomes:** Leadership changes resulted in improved operational coordination and more decisive actions, bolstering the overall crisis response.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Aligning leadership capabilities with the urgent and evolving demands of a crisis while maintaining strategic continuity.
+- **Underlying Beliefs & Biases:** Traditional, rigid leadership hierarchies can impede rapid response; restructuring signals an adaptive shift necessary for managing emergent challenges.
+- **Expected vs. Actual Outcomes:** Leadership changes resulted in improved operational coordination and more decisive actions, bolstering the overall crisis response.
 - **Broader Implications:** This experience underscores the need for flexible leadership structures that can be quickly reconfigured to meet crisis-specific demands. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Documented leadership transitions at GM—such as new executive appointments and role redefinitions detailed in Section 5.3—provide strong empirical backing for the critical role of adaptive leadership in crisis scenarios. **[Empirical]**
 
 ---
@@ -495,21 +495,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -522,4 +522,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T23:35:19.433448+00:00)
 
 Alayis, M. M. H., & Atteya, N. (2023). Executive decisions in emergencies and innovation in supply chain: A suggested model. *International Journal of Business and Management, 18*(5), 220–233. https://doi.org/10.5539/ijbm.v18n5p220
-

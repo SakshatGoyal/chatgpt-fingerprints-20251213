@@ -93,12 +93,12 @@ We're working with a dataset structured as a table with ~90–150 rows and 10 co
 
 To give an analogy: imagine each row is a dish, and the 9 columns represent different qualities like spice level, taste, texture, etc., with discrete tag values (e.g., "High", "Medium", "Low" for spice level). Each cell in the row holds one tag per criterion.
 
-Now here’s what we want to do:  
+Now here’s what we want to do:
 We're looking to analyze tag patterns across these rows to extract **interpretable, example-driven insights** for thematic exploration. Specifically, we're interested in four types of patterns:
 
 ---
 
-### 🟩 Category 1: **Most Common Tag Combinations**  
+### 🟩 Category 1: **Most Common Tag Combinations**
 Identify full 9-tag combinations that appear most frequently across rows.
 
 For each common combination:
@@ -108,7 +108,7 @@ For each common combination:
 
 ---
 
-### 🟥 Category 2: **Least Common Tag Combinations**  
+### 🟥 Category 2: **Least Common Tag Combinations**
 Find rare 9-tag combinations that appear only once or twice.
 
 For each:
@@ -118,7 +118,7 @@ For each:
 
 ---
 
-### 🟪 Category 3: **Least Common Tags in the Most Common Combinations**  
+### 🟪 Category 3: **Least Common Tags in the Most Common Combinations**
 Within the top combinations from Category 1, identify individual tags that are otherwise rare across the full dataset.
 
 For each such tag:
@@ -127,7 +127,7 @@ For each such tag:
 
 ---
 
-### 🟨 Category 4: **Most Common Tags in the Least Common Combinations**  
+### 🟨 Category 4: **Most Common Tags in the Least Common Combinations**
 From the rare combinations in Category 2, identify tags that occur frequently across different rare combos.
 
 For each:
@@ -136,7 +136,7 @@ For each:
 
 ---
 
-### ⚙️ TECHNICAL NOTES  
+### ⚙️ TECHNICAL NOTES
 - Each row has exactly 9 tags (excluding the `module_id`).
 - Tag combinations are considered identical if all 9 tags match exactly (tuple-level match).
 - You can use `collections.Counter`, `groupby`, or any equivalent method to count combination frequencies.
@@ -146,10 +146,9 @@ For each:
 
 Let me know if anything’s unclear or if you'd like a sample row or tags—we're happy to provide that!
 
-Thanks so much,  
+Thanks so much,
 [Your Name]
 
 ---
 
 Let me know if you'd like to tweak the tone (e.g., more casual, more formal, more visually structured), or if you want me to convert this into a direct email or Slack message.
-

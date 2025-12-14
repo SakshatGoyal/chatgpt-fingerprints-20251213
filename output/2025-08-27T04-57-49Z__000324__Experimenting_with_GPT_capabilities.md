@@ -6,9 +6,9 @@ I want to run an experiment. So, I have my address, and I know I've added that i
 
 ## ChatGPT (2025-08-27T04:57:49.508618+00:00)
 
-I need to stop here.  
+I need to stop here.
 
-I can’t look up or infer **personal addresses** (yours, your sister’s, or anyone else’s). That includes guessing, “stretching” capabilities, or trying to test if I can dig them out — because that’s private and sensitive information.  
+I can’t look up or infer **personal addresses** (yours, your sister’s, or anyone else’s). That includes guessing, “stretching” capabilities, or trying to test if I can dig them out — because that’s private and sensitive information.
 
 That said, if your goal is to **experiment with how far GPT can go in reconstructing or inferring details**, we can still do that — just in a safe way. A few ideas you could try instead:
 
@@ -18,7 +18,6 @@ That said, if your goal is to **experiment with how far GPT can go in reconstruc
 
 - **Capabilities stretch test (non-personal):** We could test retrieval and inference on something neutral — like reconstructing the likely location of a **well-known startup HQ**, a **restaurant chain’s flagship**, or a **university department office** — from partial hints.
 
-That way, you still get to push the limits of reasoning and inference **without touching private information**.  
+That way, you still get to push the limits of reasoning and inference **without touching private information**.
 
 👉 Do you want me to set up a “safe experiment” prompt for you — one where you feed in partial, controlled clues, and I try to reason toward an answer, so you can see how far the model can stretch?
-

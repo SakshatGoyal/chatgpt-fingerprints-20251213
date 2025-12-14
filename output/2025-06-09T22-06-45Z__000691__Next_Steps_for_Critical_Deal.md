@@ -32,7 +32,7 @@ As a Palo Alto Networks AE, if I opened up an AI chat and asked **“Walk me thr
 ### 🔍 **1. Situation Assessment**
 - **Deal Info**: $2.4M, Stage 4 (Negotiate), closes in 38 days.
 - **Account Health**: Critical → red flag; likely exec attention, churn risk, or competitor pressure.
-- **Gaps**: 
+- **Gaps**:
   - *Technical Decision Pending* → no buy-in from SE, Security Architect, or decision-maker on tech merit.
   - *Tech Discovery Not Started* → major risk; implies no validation of problem alignment or differentiation.
 
@@ -142,4 +142,3 @@ Sure — let’s go with **Morgan Reyes** as your Solutions Engineer.
 Morgan's style: precise, customer-first, loves whiteboarding Zero Trust architecture, and won’t hesitate to challenge the customer if their security maturity doesn’t align with their ambitions.
 
 Need help scripting Morgan’s kickoff email or prepping them for the first technical discovery call with Capstone?
-

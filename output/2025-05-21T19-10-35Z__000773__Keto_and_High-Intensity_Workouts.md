@@ -30,7 +30,6 @@ Let me know if you’d like a performance-safe vegetarian keto meal plan that in
 
 ## You (2025-05-21T19:42:21.919007+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-WzqgbwLwF39YdCU5MsDjtV', 'size_bytes': 142491, 'width': 709, 'height': 1536, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Help me understand this data
 
 ## ChatGPT (2025-05-21T19:42:22.974540+00:00)
@@ -87,4 +86,3 @@ Would you like a full vegetarian protocol tailored to your stats? I can draft on
 - Fat loss while protecting muscle
 - Better facial and silhouette definition
 - Enhanced skin glow and metabolic age reversal
-

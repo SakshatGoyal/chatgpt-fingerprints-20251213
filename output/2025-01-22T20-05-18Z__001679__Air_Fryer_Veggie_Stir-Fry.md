@@ -21,7 +21,7 @@ Here's a simple and flavorful air-fryer veggie stir-fry recipe that uses commonl
   - 1 small red onion, sliced
   - 1 cup diced green beans
   - 1/2 cup diced mushrooms (optional)
-  
+
 - **For the Marinade/Sauce**:
   - 2 tbsp olive oil
   - 2 tbsp soy sauce (or tamari for gluten-free)
@@ -232,7 +232,7 @@ Air-frying sprouts is a great idea! It’s a flavorful way to enjoy sprouts whil
 #### **Ingredients**:
 - **Sprouts**:
   - 1 cup mixed sprouts (e.g., mung bean, chana, or lentil sprouts)
-  
+
 - **Marinade**:
   - 1 tbsp olive oil or ghee
   - 1/2 tsp turmeric powder
@@ -277,7 +277,7 @@ This is a quick, low-carb snack or side dish, perfect for your bloating-free, fl
 
 ## You (2025-01-25T17:48:39.826658+00:00)
 
-"Air-Fryer Veggie Stir-Fry with Flavorful Sauce" remember this recipe? Could u make a version of this that also includes baby corns? 
+"Air-Fryer Veggie Stir-Fry with Flavorful Sauce" remember this recipe? Could u make a version of this that also includes baby corns?
 
 Also help me figure out a way to evenly cook the veggies. My problem is, when I cook all of them together, some of them get overcooked and some get undercooked. Gimme a solution
 
@@ -300,7 +300,7 @@ Here’s the updated **Air-Fryer Veggie Stir-Fry with Flavorful Sauce** recipe w
   - 1/2 cup diced green beans
   - 1 small red onion, sliced
   - 1/2 cup diced mushrooms (optional)
-  
+
 - **For the Marinade/Sauce**:
   - 3 tbsp olive oil
   - 3 tbsp soy sauce (or tamari for gluten-free)
@@ -315,7 +315,7 @@ Here’s the updated **Air-Fryer Veggie Stir-Fry with Flavorful Sauce** recipe w
   - Salt to taste
   - A squeeze of fresh lemon juice
   - Freshly chopped coriander or green onions for garnish
-  
+
 #### **Instructions**:
 
 1. **Prepare the Vegetables**:
@@ -367,28 +367,28 @@ Here’s a concise version of the **Air-Fryer Veggie Stir-Fry with Baby Corn** r
 
 #### **Ingredients**:
 - **Veggies**:
-  - 1 cup cauliflower, 1 cup diced carrots, 1 cup diced capsicum,  
-    1 cup sliced baby corn, 1/2 cup green beans, 1 small onion (sliced),  
+  - 1 cup cauliflower, 1 cup diced carrots, 1 cup diced capsicum,
+    1 cup sliced baby corn, 1/2 cup green beans, 1 small onion (sliced),
     1/2 cup mushrooms (optional).
 - **Marinade/Sauce**:
-  - 3 tbsp olive oil, 3 tbsp soy sauce, 1 tbsp vinegar, 1 tbsp honey (optional),  
-    1.5 tsp chili flakes, 1.5 tsp garlic paste, 1 tsp ginger paste,  
-    1/2 tsp turmeric, 1.5 tsp cumin powder, 1 tsp coriander powder, salt to taste.  
+  - 3 tbsp olive oil, 3 tbsp soy sauce, 1 tbsp vinegar, 1 tbsp honey (optional),
+    1.5 tsp chili flakes, 1.5 tsp garlic paste, 1 tsp ginger paste,
+    1/2 tsp turmeric, 1.5 tsp cumin powder, 1 tsp coriander powder, salt to taste.
   - Garnish: Lemon juice, coriander or green onions.
 
 ---
 
 #### **Instructions**:
 1. **Prep Veggies**:
-   - Wash and cut all veggies into uniform sizes.  
+   - Wash and cut all veggies into uniform sizes.
    - Group harder veggies (carrots, cauliflower, baby corn, beans) and softer ones (capsicum, mushrooms, onion).
 
 2. **Marinate**:
    - Mix marinade ingredients in a bowl. Toss harder veggies with half and softer ones with the rest. Let sit 5-10 mins.
 
 3. **Air-Fry**:
-   - Preheat air fryer to 180°C (350°F).  
-   - Cook harder veggies first for 8-10 mins, shaking halfway.  
+   - Preheat air fryer to 180°C (350°F).
+   - Cook harder veggies first for 8-10 mins, shaking halfway.
    - Add softer veggies and air-fry 6-8 mins. Shake to ensure even cooking.
 
 4. **Serve**:
@@ -401,7 +401,6 @@ Here’s a concise version of the **Air-Fryer Veggie Stir-Fry with Baby Corn** r
 - Don’t overcrowd the air fryer; cook in batches if needed.
 - Shake basket midway for even cooking.
 
---- 
+---
 
 This format keeps it compact and easy to write manually while retaining the recipe’s key details. 😊
-

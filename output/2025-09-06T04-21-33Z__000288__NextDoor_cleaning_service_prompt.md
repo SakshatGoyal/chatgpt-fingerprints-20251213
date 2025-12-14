@@ -6,23 +6,23 @@ Help me create a prompt for the following intent. I am at 512 Van Ness Avenue, S
 
 ## ChatGPT (2025-09-06T04:21:35.310580+00:00)
 
-Great — I hear you’re looking for a **prompt that will guide an O3 reasoning model** to systematically extract *individual, affordable, and well-recommended cleaners* (often independent workers) from **NextDoor posts in San Francisco near 512 Van Ness Avenue**.  
+Great — I hear you’re looking for a **prompt that will guide an O3 reasoning model** to systematically extract *individual, affordable, and well-recommended cleaners* (often independent workers) from **NextDoor posts in San Francisco near 512 Van Ness Avenue**.
 
 Before we jump into “begin creating the prompt,” let’s refine scope a bit so the final prompt works exactly the way you need. Here are a few clarifying questions to tighten things up:
 
-1. **Coverage radius**: Do you want the search strictly limited to your neighborhood (Civic Center / Van Ness), or is it fine if cleaners are in nearby neighborhoods (Tenderloin, Hayes Valley, SoMa, etc.)?  
-   
-2. **Contact details**: Is your must-have *both* names and phone numbers (or emails), or is it acceptable if some recommendations only have a name or a way to contact them via NextDoor messages?  
+1. **Coverage radius**: Do you want the search strictly limited to your neighborhood (Civic Center / Van Ness), or is it fine if cleaners are in nearby neighborhoods (Tenderloin, Hayes Valley, SoMa, etc.)?
 
-3. **Threshold for “highly recommended”**: Should we define it more rigorously (e.g., cleaners mentioned in at least 3+ different user comments), or is any repeated positive recommendation enough?  
+2. **Contact details**: Is your must-have *both* names and phone numbers (or emails), or is it acceptable if some recommendations only have a name or a way to contact them via NextDoor messages?
 
-4. **Return style**: Do you want the O3 output in a structured list (Name | Contact | Neighborhood | Notes), or is a plain text summary fine?  
+3. **Threshold for “highly recommended”**: Should we define it more rigorously (e.g., cleaners mentioned in at least 3+ different user comments), or is any repeated positive recommendation enough?
 
-5. **Scope of services**: Should we *exclude* bigger companies/franchises entirely (e.g., Merry Maids), or still include them in a “secondary” section in case you want to compare prices?  
+4. **Return style**: Do you want the O3 output in a structured list (Name | Contact | Neighborhood | Notes), or is a plain text summary fine?
 
-6. **Volume target**: You mentioned “at least 20.” If there aren’t that many highly recommended independents, should the model fill the gap with slightly less-recommended but still local options?  
+5. **Scope of services**: Should we *exclude* bigger companies/franchises entirely (e.g., Merry Maids), or still include them in a “secondary” section in case you want to compare prices?
 
-Once we nail these down, I can draft the structured O3-style reasoning prompt for you.  
+6. **Volume target**: You mentioned “at least 20.” If there aren’t that many highly recommended independents, should the model fill the gap with slightly less-recommended but still local options?
+
+Once we nail these down, I can draft the structured O3-style reasoning prompt for you.
 
 👉 Which of these do you want to lock in, and do you want me to prioritize *comprehensiveness* (as many options as possible) or *strict filtering* (only the most trusted, even if fewer than 20)?
 
@@ -32,39 +32,38 @@ Speaking of coverage radius, I want to make sure that the people who post these 
 
 ## ChatGPT (2025-09-06T04:25:51.829987+00:00)
 
-Perfect — thanks for clarifying so precisely. I’ll **hold off on creating the actual O3 reasoning prompt** (since you told me *don’t yet*), but let me recap the refined scope so we’re aligned before I generate it:  
+Perfect — thanks for clarifying so precisely. I’ll **hold off on creating the actual O3 reasoning prompt** (since you told me *don’t yet*), but let me recap the refined scope so we’re aligned before I generate it:
 
 ### 🔑 Key Parameters You’ve Set
-1. **Coverage radius (posters)**  
-   - Only accept recommendations posted by people who live **within San Francisco**.  
-   - Can allow nearby (Daly City, South SF, Oakland), but **not further south than South SF**.  
+1. **Coverage radius (posters)**
+   - Only accept recommendations posted by people who live **within San Francisco**.
+   - Can allow nearby (Daly City, South SF, Oakland), but **not further south than South SF**.
 
-2. **Cleaner location**  
-   - No restriction — the person doing the cleaning can be from anywhere.  
+2. **Cleaner location**
+   - No restriction — the person doing the cleaning can be from anywhere.
 
-3. **Contact details (mandatory)**  
-   - Must return **Name + Phone Number**.  
-   - No email, no “contact via NextDoor only.”  
+3. **Contact details (mandatory)**
+   - Must return **Name + Phone Number**.
+   - No email, no “contact via NextDoor only.”
 
-4. **Recommendation threshold**  
-   - “Highly recommended” = **repeated positive recommendations**.  
-   - Reputation should feel strong, not one-off.  
+4. **Recommendation threshold**
+   - “Highly recommended” = **repeated positive recommendations**.
+   - Reputation should feel strong, not one-off.
 
-5. **Output format**  
-   - Structured list sorted by **most recommended → least recommended**.  
-   - For each cleaner:  
-     - Name  
-     - Phone number  
-     - At least **4 quotes from actual posts**  
-     - Direct **links to those posts**  
+5. **Output format**
+   - Structured list sorted by **most recommended → least recommended**.
+   - For each cleaner:
+     - Name
+     - Phone number
+     - At least **4 quotes from actual posts**
+     - Direct **links to those posts**
 
-6. **Volume target**  
-   - **At least 20 options**.  
-   - If fewer than 20 high-reputation independents, fill the gap with **slightly less recommended but still local options**.  
+6. **Volume target**
+   - **At least 20 options**.
+   - If fewer than 20 high-reputation independents, fill the gap with **slightly less recommended but still local options**.
 
 ---
 
-✅ Once you say **“begin creating the prompt”**, I’ll generate the final structured O3-ready prompt using this scope, with the right persona and reasoning steps embedded.  
+✅ Once you say **“begin creating the prompt”**, I’ll generate the final structured O3-ready prompt using this scope, with the right persona and reasoning steps embedded.
 
 Would you like me to also **build in a secondary filter** that *automatically demotes or excludes companies/franch
-

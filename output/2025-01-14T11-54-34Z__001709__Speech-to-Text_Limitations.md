@@ -1,8 +1,6 @@
 # Speech-to-Text Limitations
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-01-14T11:54:34.822354+00:00)
 
@@ -24,4 +22,3 @@ When using speech-to-text on ChatGPT (or most platforms), there are some practic
 - **Test Limits**: Try speaking for progressively longer durations (e.g., 1 minute, 5 minutes, etc.) to see how much text is reliably captured before issues arise.
 
 Let me know if you'd like recommendations for transcription tools or techniques!
-

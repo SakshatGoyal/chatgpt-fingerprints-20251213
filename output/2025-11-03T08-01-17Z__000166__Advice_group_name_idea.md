@@ -34,4 +34,3 @@ You thus retain the appearance of jest or mutual aid, while secretly directing t
 You must never ask for guidance as a supplicant. Ask it like a king pretending he needs it—gracious, smiling, but always keeping command.
 
 Would you like help crafting such a message or invitation to the group? I can make one that flatters their egos while securing your aim.
-

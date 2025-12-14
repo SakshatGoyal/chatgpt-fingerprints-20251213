@@ -146,14 +146,14 @@ over $10M
 RISK CATEGORY [multi-select]:
 🏛️ No EBCs in last year
 🏅 No Secured technical win
-🤝 No Partner selected or finalized 
+🤝 No Partner selected or finalized
 🩺 Customer technical health is critical.
 🛑 Customer adoption/deployment rate is low
 🧑‍💻 Mandatory PS was removed
 ⌛ Quotes pending approval
 💲 Budget conversation not scheduled or complete
-🔁 Term length less than 3 years or without financing/billing plans being proposed 
-💤 No activity for last 30 days 
+🔁 Term length less than 3 years or without financing/billing plans being proposed
+💤 No activity for last 30 days
 
 ---
 
@@ -161,7 +161,7 @@ Filters for Accounts:
 
 PRODUCT: (same as opportunities)
 R/U/NN: (same as opportunities)
-Risk Categories: 
+Risk Categories:
 📭 No Pipeline in CQ + Next 4Q
 🏛️ No EBCs in last year
 🔌  Not Platformized
@@ -175,40 +175,40 @@ Risk Categories:
 
 **Scenario 1**
 
-* **Step 1 Insight (Opportunity):**  
-  *78 % of Discovery‑stage deals—especially in Firewall and Cortex & Cloud—still carry 🏅 No Secured technical win, signalling early momentum without validation.* fileciteturn0file1  
+* **Step 1 Insight (Opportunity):**
+  *78 % of Discovery‑stage deals—especially in Firewall and Cortex & Cloud—still carry 🏅 No Secured technical win, signalling early momentum without validation.* fileciteturn0file1
   → **Suggested filters applied by the user:** `SALES STAGE: Discovery` + `RISK CATEGORY: 🏅 No Secured technical win` + `PRODUCT: Firewall, Cortex & Cloud`
 
-* **Step 2 Insight (Account):**  
-  *Among the accounts behind those deals, 9 out of 10 are marked Healthy yet all show 🧪 Active POVs—evidence of active trials that still need closure.* fileciteturn0file0  
+* **Step 2 Insight (Account):**
+  *Among the accounts behind those deals, 9 out of 10 are marked Healthy yet all show 🧪 Active POVs—evidence of active trials that still need closure.* fileciteturn0file0
   → **Next filters applied:** `Risk Categories: 🧪 Active POVs`
 
-* **Step 3 Insight (Opportunity):**  
-  *Inside this subset, Best Case opportunities already in Stage 4 – Negotiate average > 3 risk flags, and 60 % are waiting on ⌛ Quotes pending approval.* fileciteturn0file1  
+* **Step 3 Insight (Opportunity):**
+  *Inside this subset, Best Case opportunities already in Stage 4 – Negotiate average > 3 risk flags, and 60 % are waiting on ⌛ Quotes pending approval.* fileciteturn0file1
   → **Next filters applied:** `FORECAST CATEGORY: Best Case` + `SALES STAGE: Negotiate` + `RISK CATEGORY: ⌛ Quotes pending approval`
 
-* **Step 4 Insight (Account):**  
-  *The remaining accounts consistently pair 🚧 No customer success plan with 🛑 Low adoption—highlighting a post‑sale execution gap despite healthy surface scores.* fileciteturn0file0  
+* **Step 4 Insight (Account):**
+  *The remaining accounts consistently pair 🚧 No customer success plan with 🛑 Low adoption—highlighting a post‑sale execution gap despite healthy surface scores.* fileciteturn0file0
 
 
 ---
 
 **Scenario 2**
 
-* **Step 1 Insight (Account):**  
-  *Every At‑Risk account lists 🛑 Customer adoption/deployment rate is low, yet together they represent nearly one‑quarter of total lifetime value.* fileciteturn0file0  
+* **Step 1 Insight (Account):**
+  *Every At‑Risk account lists 🛑 Customer adoption/deployment rate is low, yet together they represent nearly one‑quarter of total lifetime value.* fileciteturn0file0
   → **Suggested filters applied:** `Risk Categories: 🛑 Customer adoption/deployment rate is low`
 
-* **Step 2 Insight (Opportunity):**  
-  *Opportunities from these accounts that bundle Cortex & Cloud with Firewall average 3.5 risk flags—about 50 % higher than the portfolio mean.* fileciteturn0file1  
+* **Step 2 Insight (Opportunity):**
+  *Opportunities from these accounts that bundle Cortex & Cloud with Firewall average 3.5 risk flags—about 50 % higher than the portfolio mean.* fileciteturn0file1
   → **Next filters applied:** `PRODUCT: Cortex & Cloud, Firewall`
 
-* **Step 3 Insight (Account):**  
-  *Within this group, accounts lacking 🏛️ EBCs in the last year post roughly 30 % smaller Q4 pipeline than peers, hinting at stalled executive alignment.* fileciteturn0file0  
+* **Step 3 Insight (Account):**
+  *Within this group, accounts lacking 🏛️ EBCs in the last year post roughly 30 % smaller Q4 pipeline than peers, hinting at stalled executive alignment.* fileciteturn0file0
   → **Next filters applied:** `Risk Categories: 🏛️ No EBCs in last year`
 
-* **Step 4 Insight (Opportunity):**  
-  *Net New deals under $1 M that have reached Stage 4 – Negotiate almost universally still lack a secured technical win, keeping close dates uncertain.* fileciteturn0file1  
+* **Step 4 Insight (Opportunity):**
+  *Net New deals under $1 M that have reached Stage 4 – Negotiate almost universally still lack a secured technical win, keeping close dates uncertain.* fileciteturn0file1
   → **Next filters applied:** `R/U/NN: Net New` + `SALES STAGE: Negotiate` + `DEAL SIZE: Less than $1M` + `RISK CATEGORY: 🏅 No Secured technical win`
 
 
@@ -216,18 +216,17 @@ Risk Categories:
 
 **Scenario 3**
 
-* **Step 1 Insight (Opportunity):**  
-  *SASE‑only deals make up 22 % of open pipeline; two‑thirds sit in Best Case, yet one‑third still flag 🏅 No Secured technical win.* fileciteturn0file1  
+* **Step 1 Insight (Opportunity):**
+  *SASE‑only deals make up 22 % of open pipeline; two‑thirds sit in Best Case, yet one‑third still flag 🏅 No Secured technical win.* fileciteturn0file1
   → **Suggested filters applied:** `PRODUCT: SASE` + `FORECAST CATEGORY: Best Case`
 
-* **Step 2 Insight (Account):**  
-  *Accounts tied to these SASE plays frequently lack current ASRs—over half show 🌀 No ASR / Stale ASR—suggesting outdated success reviews.* fileciteturn0file0  
+* **Step 2 Insight (Account):**
+  *Accounts tied to these SASE plays frequently lack current ASRs—over half show 🌀 No ASR / Stale ASR—suggesting outdated success reviews.* fileciteturn0file0
   → **Next filters applied:** `Risk Categories: 🌀 No ASR / Stale ASR`
 
-* **Step 3 Insight (Opportunity):**  
-  *Within those accounts, Stage 3 – Solution opportunities that blend SASE with CDSS carry double the average risk count and high rates of ⌛ Quotes pending approval.* fileciteturn0file1  
+* **Step 3 Insight (Opportunity):**
+  *Within those accounts, Stage 3 – Solution opportunities that blend SASE with CDSS carry double the average risk count and high rates of ⌛ Quotes pending approval.* fileciteturn0file1
   → **Next filters applied:** `SALES STAGE: Solution` + `PRODUCT: SASE, CDSS` + `RISK CATEGORY: ⌛ Quotes pending approval`
 
-* **Step 4 Insight (Account):**  
-  *Most of the accounts still emerge as Healthy and continue to run 🧪 Active POVs—showing momentum if technical gaps can be bridged.* fileciteturn0file0
-
+* **Step 4 Insight (Account):**
+  *Most of the accounts still emerge as Healthy and continue to run 🧪 Active POVs—showing momentum if technical gaps can be bridged.* fileciteturn0file0

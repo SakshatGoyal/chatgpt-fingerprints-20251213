@@ -149,16 +149,16 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:**  
+- **Key Themes:**
   The paper investigates the dual routes—emotional and cognitive—through which decisions are made, emphasizing how individual differences in personality traits, decisional styles, and neurophysiological markers (EEG and autonomic responses) correlate with these routes.
 
-- **Core Motivations:**  
+- **Core Motivations:**
   To address the long-standing gap in decision-making research that has traditionally focused solely on cognitive aspects by integrating emotional factors. This research is driven by the need to understand how nuanced individual differences influence decision processes, particularly in high-stakes, ambiguous scenarios, with potential implications for executive leadership.
 
-- **Methodological Clarification:**  
+- **Methodological Clarification:**
   The study employs a multi-method approach using behavioral tasks simulating realistic decision scenarios, self-report instruments (e.g., GDMS, BFI, FFMQ), and non-invasive physiological monitoring (EEG and autonomic indices). Data were analyzed via Pearson correlations with rigorous statistical controls, though findings are tempered by the limited sample size (N = 24).
 
-- **Relevance Assessment:**  
+- **Relevance Assessment:**
   For senior leaders, the findings highlight that decision-making is not solely a rational, information-processing exercise but also involves affective components. Recognizing and integrating these individual differences can inform executive development programs, enhance strategic planning, and tailor decision support systems to better manage uncertainty and risk.
 
 ---
@@ -167,54 +167,54 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### **Insight 1: Emotional Processing and Decision-Making**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Executives whose decision-making leans towards emotional processing tend to exhibit higher emotional stability and mindfulness-related traits (e.g., Acting with Awareness, Non-Judging), suggesting that a well-regulated emotional route can enhance the capacity to manage affective challenges in ambiguous scenarios. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Balancing the intuitive, affect-driven insights against the need for systematic analysis in high-pressure situations.  
-- **Underlying Beliefs & Biases:** There is a common assumption that relying on gut feelings might lead to impulsivity; however, the data indicate that executives with a pronounced emotional route are often more adept at self-regulation.  
-- **Expected vs. Actual Outcomes:** While traditional views favor purely rational analysis, the evidence suggests that incorporating emotional awareness can lead to more balanced decisions under stress.  
-- **Broader Implications:** Training programs that develop mindfulness and emotional regulation may help executives harness the benefits of an emotional decision-making route.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Balancing the intuitive, affect-driven insights against the need for systematic analysis in high-pressure situations.
+- **Underlying Beliefs & Biases:** There is a common assumption that relying on gut feelings might lead to impulsivity; however, the data indicate that executives with a pronounced emotional route are often more adept at self-regulation.
+- **Expected vs. Actual Outcomes:** While traditional views favor purely rational analysis, the evidence suggests that incorporating emotional awareness can lead to more balanced decisions under stress.
+- **Broader Implications:** Training programs that develop mindfulness and emotional regulation may help executives harness the benefits of an emotional decision-making route.
 **[Empirical]**
 
-**3. Supporting Context**  
-The study found significant positive correlations between the Emotional Component Propensity index (ECPi) and measures of Emotional Stability (r = 0.524, p = 0.018) as well as mindfulness facets (Acting with Awareness and Non-Judging scores, r ≈ 0.458–0.467). These empirical results underscore that executives predisposed to emotional processing are not irrational but rather exhibit sophisticated self-regulatory skills that could be pivotal in volatile decision environments.  
+**3. Supporting Context**
+The study found significant positive correlations between the Emotional Component Propensity index (ECPi) and measures of Emotional Stability (r = 0.524, p = 0.018) as well as mindfulness facets (Acting with Awareness and Non-Judging scores, r ≈ 0.458–0.467). These empirical results underscore that executives predisposed to emotional processing are not irrational but rather exhibit sophisticated self-regulatory skills that could be pivotal in volatile decision environments.
 **[Empirical]**
 
 ---
 
 ### **Insight 2: Cognitive Processing and Structured Decision-Making**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 A cognitive decision-making route is closely associated with traits such as Agreeableness and Openness, and correlates with a preference for both rational and intuitive decisional styles, indicating that structured and reflective information processing can coexist with intuitive insights to inform superior executive decisions. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Determining the optimal balance between data-driven analysis and intuitive judgment in fast-evolving market conditions.  
-- **Underlying Beliefs & Biases:** Conventional wisdom often treats cognitive decision-making as entirely detached from intuition; however, the evidence points to a synergy between logical analysis and intuitive insight.  
-- **Expected vs. Actual Outcomes:** Instead of a binary opposition between rational and intuitive approaches, the research demonstrates that cognitive processing is multifaceted, supporting both analytical rigor and adaptive intuition.  
-- **Broader Implications:** Executive strategies might benefit from frameworks that integrate rigorous analytical processes with spaces for intuitive reflection, thereby harnessing a broader spectrum of cognitive resources.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Determining the optimal balance between data-driven analysis and intuitive judgment in fast-evolving market conditions.
+- **Underlying Beliefs & Biases:** Conventional wisdom often treats cognitive decision-making as entirely detached from intuition; however, the evidence points to a synergy between logical analysis and intuitive insight.
+- **Expected vs. Actual Outcomes:** Instead of a binary opposition between rational and intuitive approaches, the research demonstrates that cognitive processing is multifaceted, supporting both analytical rigor and adaptive intuition.
+- **Broader Implications:** Executive strategies might benefit from frameworks that integrate rigorous analytical processes with spaces for intuitive reflection, thereby harnessing a broader spectrum of cognitive resources.
 **[Empirical]**
 
-**3. Supporting Context**  
-The Cognitive Component Propensity index (CCPi) showed significant correlations with personality dimensions (Agreeableness: r = 0.450, p = 0.046; Openness: r = 0.522, p = 0.018) and decisional styles (Rational: r = 0.447, p = 0.048; Intuitive: r = 0.603, p = 0.005). These findings illustrate that a cognitive approach does not exclude intuitive input but rather incorporates a systematic yet flexible evaluation process—critical for navigating complex executive challenges.  
+**3. Supporting Context**
+The Cognitive Component Propensity index (CCPi) showed significant correlations with personality dimensions (Agreeableness: r = 0.450, p = 0.046; Openness: r = 0.522, p = 0.018) and decisional styles (Rational: r = 0.447, p = 0.048; Intuitive: r = 0.603, p = 0.005). These findings illustrate that a cognitive approach does not exclude intuitive input but rather incorporates a systematic yet flexible evaluation process—critical for navigating complex executive challenges.
 **[Empirical]**
 
 ---
 
 ### **Insight 3: Neurophysiological and Autonomic Correlates of Decision-Making Styles**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Distinct neurophysiological markers, such as task-related theta and beta EEG oscillations, along with autonomic indices (HRV), are differentially associated with decision-making styles, implying that measurable physiological responses underpin diverse strategic approaches and could potentially serve as biomarkers for executive decision processes. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Integrating real-time physiological feedback into decision support systems to optimize executive performance.  
-- **Underlying Beliefs & Biases:** There is a prevalent view that physiological signals are peripheral to decision quality; however, the study reveals that specific EEG and HRV patterns align with decisional styles and personality traits.  
-- **Expected vs. Actual Outcomes:** Whereas one might expect a singular physiological profile for effective decision-making, the data suggest multiple profiles—e.g., frontal theta correlating with dependent styles and posterior theta with rational styles—reflecting the complexity of executive processing.  
-- **Broader Implications:** Incorporating neurophysiological monitoring into executive coaching or high-stakes decision environments could provide insights into an executive’s cognitive load and regulatory state, informing personalized development strategies.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Integrating real-time physiological feedback into decision support systems to optimize executive performance.
+- **Underlying Beliefs & Biases:** There is a prevalent view that physiological signals are peripheral to decision quality; however, the study reveals that specific EEG and HRV patterns align with decisional styles and personality traits.
+- **Expected vs. Actual Outcomes:** Whereas one might expect a singular physiological profile for effective decision-making, the data suggest multiple profiles—e.g., frontal theta correlating with dependent styles and posterior theta with rational styles—reflecting the complexity of executive processing.
+- **Broader Implications:** Incorporating neurophysiological monitoring into executive coaching or high-stakes decision environments could provide insights into an executive’s cognitive load and regulatory state, informing personalized development strategies.
 **[Empirical]**
 
-**3. Supporting Context**  
-The research details significant correlations: frontal theta activity (AF7) was linked to a Dependent decision-making style (r = 0.574, p = 0.032), while posterior theta (TP9) correlated with Rational style (r = 0.554, p = 0.032). Additionally, beta oscillations in AF7 correlated with Alternative Search traits (r = 0.623, p = 0.030), and HRV measures were positively associated with Conscientiousness (r = 0.787, p = 0.001) while inversely related to Avoidant styles (r = −0.617, p = 0.025). These robust correlations validate the notion that physiological responses can serve as integral indicators of decisional strategies.  
+**3. Supporting Context**
+The research details significant correlations: frontal theta activity (AF7) was linked to a Dependent decision-making style (r = 0.574, p = 0.032), while posterior theta (TP9) correlated with Rational style (r = 0.554, p = 0.032). Additionally, beta oscillations in AF7 correlated with Alternative Search traits (r = 0.623, p = 0.030), and HRV measures were positively associated with Conscientiousness (r = 0.787, p = 0.001) while inversely related to Avoidant styles (r = −0.617, p = 0.025). These robust correlations validate the notion that physiological responses can serve as integral indicators of decisional strategies.
 **[Empirical]**
 
 ---
@@ -224,8 +224,8 @@ The research details significant correlations: frontal theta activity (AF7) was 
 - **Coverage Fit:** High — The paper comprehensively addresses both the cognitive and emotional routes in decision-making, directly relating its findings to individual differences that are highly relevant for executive strategic reasoning.
 - **Bias & Cognitive Modeling Content:** Present — The study explicitly integrates models of emotional and cognitive processing, exploring how inherent biases and personality traits impact decision styles.
 - **Clarity of Methods & Outcomes:** Clear — The multi-method approach is well-detailed with explicit statistical correlations and methodological transparency, although the pilot nature (limited sample size) suggests caution in generalization.
-- **Areas with No Data:**  
-  - All prescribed sections (Insight Statement, Executive Decision-Making Context, and Supporting Context) are supported by empirical data from the paper.  
+- **Areas with No Data:**
+  - All prescribed sections (Insight Statement, Executive Decision-Making Context, and Supporting Context) are supported by empirical data from the paper.
   - However, the study does not extend its analysis to long-term executive outcomes or dynamic corporate decision-making scenarios, which may be areas for future research.
 
 ## You (2025-03-24T00:57:27.341000+00:00)
@@ -465,21 +465,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -492,4 +492,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T00:59:02.480179+00:00)
 
 Crivelli, D., Acconito, C., & Balconi, M. (2024). Emotional and cognitive “route” in decision-making process: The relationship between executive functions, psychophysiological correlates, decisional styles, and personality. *Brain Sciences, 14*(7), 734. https://doi.org/10.3390/brainsci14070734
-

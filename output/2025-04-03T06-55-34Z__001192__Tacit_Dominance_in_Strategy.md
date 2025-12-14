@@ -4,9 +4,7 @@
 
 Based on the data in our table, which strategy seems to have the highest number of tacit dominant counts?
 
-## ChatGPT (2025-04-03T06:55:36.595652+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "{\"queries\": [\"tacit dominant\", \"which strategy has the highest tacit dominant counts\"]}"}
 
 ## ChatGPT (2025-04-03T06:55:44.414937+00:00)
 
@@ -16,7 +14,7 @@ Based on a review of the snippets from the tagging compilation file, several row
 
 Thus, the data suggests that **Business-Level strategies** tend to have the highest number of tacit dominant counts. This reflects that competitive positioning in the marketplace often requires a substantial amount of intuition and implicit expertise to navigate subtle market signals and differentiation cues.
 
-This conclusion is consistent with the emphasis on tacit knowledge in strategic decision-making, as detailed in our Industrial Axes handbook, where the “Tacit-Dominant” scoring level is characterized by reliance on intuition and contextual judgment citeturn1file4, and in the tagging data where several Business-Level modules are marked as Tacit-Dominant citeturn1file3.
+This conclusion is consistent with the emphasis on tacit knowledge in strategic decision-making, as detailed in our Industrial Axes handbook, where the “Tacit-Dominant” scoring level is characterized by reliance on intuition and contextual judgment , and in the tagging data where several Business-Level modules are marked as Tacit-Dominant .
 
 If you need a more detailed breakdown or precise counts, we could perform a more granular search over the table data.
 
@@ -88,15 +86,10 @@ So you're good to go — feel free to let me know what you want done with it! Wo
 
 ok now which category of strategy has the highest count of tacit-dominant knowledge
 
-## ChatGPT (2025-04-03T07:01:24.410592+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "import pandas as pd\n\n# Load the CSV file\nfile_path = \"/mnt/data/Tagging - Compilation.csv\"\ndf = pd.read_csv(file_path)\n\n# Normalize column names for easier access\ndf.columns = [col.strip().lower().replace(\" \", \"_\") for col in df.columns]\n\n# Check column names to find relevant ones\ndf.columns"}
 
-## ChatGPT (2025-04-03T07:01:32.401223+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Filter for rows where knowledge codifiability is Tacit-Dominant\ntacit_df = df[df['knowledge_codifiability'].str.strip().str.lower() == 'tacit-dominant']\n\n# Count the number of Tacit-Dominant entries by strategy type\ntacit_counts_by_strategy = tacit_df['strategy_type'].value_counts()\n\n# Display the results\nimport ace_tools as tools; tools.display_dataframe_to_user(name=\"Tacit-Dominant Counts by Strategy Type\", dataframe=tacit_counts_by_strategy.reset_index(name='count').rename(columns={'index': 'strategy_type'}))"}
 
 ## ChatGPT (2025-04-03T07:01:40.599204+00:00)
 
 Here's the breakdown of which strategy categories have the most "Tacit-Dominant" knowledge classification. Let me know if you'd like this visualized or compared against other knowledge types like "Codified-Dominant" or "Hybrid"!
-

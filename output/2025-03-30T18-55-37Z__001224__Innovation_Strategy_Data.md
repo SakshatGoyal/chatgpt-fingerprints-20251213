@@ -41,7 +41,7 @@ Return up to **three thematic clusters per category**. Each cluster must includ
 - A list of associated module_ids
 
 > ✅ If fewer than three valid clusters exist, return only those supported by data. Do not fabricate clustersto fulfill quota.
-> 
+>
 
 ---
 
@@ -56,7 +56,7 @@ For each of up to 3 clusters:
 - List all module_ids that match this partial combination
 
 > ⚠ Exclude patterns where the majority of priority tags are "Unknown".
-> 
+>
 
 ---
 
@@ -71,7 +71,7 @@ For each of up to 3 rare patterns:
 - List the associated module_ids
 
 > These will often yield 1–2 modules. This is expected.
-> 
+>
 
 ---
 
@@ -91,7 +91,7 @@ For each such variation:
 - List module_ids that show this deviation
 
 > This relaxed n–1 approach enables variation discovery even when Category 1 is tightly clustered.
-> 
+>
 
 ---
 
@@ -165,136 +165,135 @@ Below is a breakdown of the insights we uncovered. In our analysis we first look
 
 ---
 
-## Category 1: Most Common Tag Combinations  
+## Category 1: Most Common Tag Combinations
 Using only the five priority tags, we computed the exact row‐level patterns and then ranked them by frequency (while omitting any pattern that is “mostly Unknown”). The top three clusters are:
 
-1. **Cluster 1 – Pattern “ST, EA, EVP, RARC, SR”**  
-   - **Tag Combination:**  
-     - Ambiguity Type: Strategic Trade‐Off Ambiguity  
-     - Framing Move: Empirical Anchoring  
-     - Stabilizer: Empirical Validation and Piloting  
-     - Tension Axis: Risk Appetite vs. Risk Control  
-     - Decision Outcome: Strategic Reframing  
-   - **Summary:**  
+1. **Cluster 1 – Pattern “ST, EA, EVP, RARC, SR”**
+   - **Tag Combination:**
+     - Ambiguity Type: Strategic Trade‐Off Ambiguity
+     - Framing Move: Empirical Anchoring
+     - Stabilizer: Empirical Validation and Piloting
+     - Tension Axis: Risk Appetite vs. Risk Control
+     - Decision Outcome: Strategic Reframing
+   - **Summary:**
      This is the dominant theme. A large number of modules share a common strategic focus: they frame ambiguity as a trade‐off, use empirical anchors with robust validation, emphasize risk control, and drive outcomes via strategic reframing.
-   - **Module IDs:**  
+   - **Module IDs:**
      CATEGORICAL MODULE 7 – C2-I2, CATEGORICAL MODULE 16 – C4-I6, CATEGORICAL MODULE 12 – C5-I2, CATEGORICAL MODULE 6 – C5-I3, CATEGORICAL MODULE 52 – C1-I7, CATEGORICAL MODULE 63 – C1-I7
 
-2. **Cluster 2 – Pattern “ST, EA, EVP, TVOR, SR”**  
-   - **Tag Combination:**  
-     - Ambiguity Type: Strategic Trade‐Off Ambiguity  
-     - Framing Move: Empirical Anchoring  
-     - Stabilizer: Empirical Validation and Piloting  
-     - Tension Axis: Technological Vision vs. Operational Reality  
-     - Decision Outcome: Strategic Reframing  
-   - **Summary:**  
+2. **Cluster 2 – Pattern “ST, EA, EVP, TVOR, SR”**
+   - **Tag Combination:**
+     - Ambiguity Type: Strategic Trade‐Off Ambiguity
+     - Framing Move: Empirical Anchoring
+     - Stabilizer: Empirical Validation and Piloting
+     - Tension Axis: Technological Vision vs. Operational Reality
+     - Decision Outcome: Strategic Reframing
+   - **Summary:**
      Modules in this cluster lean on a technological vision to navigate strategic trade‐offs. Their approach contrasts operational realities with a reframing that aims to reposition strategy.
-   - **Module IDs:**  
+   - **Module IDs:**
      CATEGORICAL MODULE 6 – C1-I4, CATEGORICAL MODULE 4 – C1-I5, CATEGORICAL MODULE 9 – C1-I5, CATEGORICAL MODULE 41 – C1-I5, CATEGORICAL MODULE 41 – C1-I6
 
-3. **Cluster 3 – Pattern “ST, EA, EVP, EOSE, SR”**  
-   - **Tag Combination:**  
-     - Ambiguity Type: Strategic Trade‐Off Ambiguity  
-     - Framing Move: Empirical Anchoring  
-     - Stabilizer: Empirical Validation and Piloting  
-     - Tension Axis: Efficiency Optimization vs. Strategic Differentiation  
-     - Decision Outcome: Strategic Reframing  
-   - **Summary:**  
+3. **Cluster 3 – Pattern “ST, EA, EVP, EOSE, SR”**
+   - **Tag Combination:**
+     - Ambiguity Type: Strategic Trade‐Off Ambiguity
+     - Framing Move: Empirical Anchoring
+     - Stabilizer: Empirical Validation and Piloting
+     - Tension Axis: Efficiency Optimization vs. Strategic Differentiation
+     - Decision Outcome: Strategic Reframing
+   - **Summary:**
      This cluster reflects a strategic orientation in which efficiency optimization is pitted against differentiation. Modules using this combination emphasize a disciplined, empirically anchored approach that results in strategic reframing.
-   - **Module IDs:**  
+   - **Module IDs:**
      CATEGORICAL MODULE 13 – C4-I5, CATEGORICAL MODULE 2 – C5-I2, CATEGORICAL MODULE 5 – C5-I6, CATEGORICAL MODULE 40 – C1-I6
 
 ---
 
-## Category 2: Least Common Full Combinations  
+## Category 2: Least Common Full Combinations
 Here we examined the full 9‐tag tuples (which add four extra dimensions to the priority columns) and picked rare patterns that appear only once or twice.
 
-1. **Cluster 1 – Unique Full Tuple (Row 1)**  
-   - **Full 9-Tag Tuple:**  
-     - Ambiguity Type: Strategic Trade‐Off Ambiguity  
-     - Framing Move: Portfolio and Parallelization Logic  
-     - Stabilizer: Scenario Modeling and Forecasting  
-     - False Clarity: No  
-     - Residual Ambiguity: Long-Term Impact Uncertainty  
-     - Tension Axis: Short-Term Performance vs. Strategic Sustainability  
-     - Surface vs. Deep Contradiction: Explicit  
-     - Decision Outcome: Strategic Reframing  
-     - Organizational Implication: Emergent Flexibility and Adaptive Learning  
-   - **Summary:**  
+1. **Cluster 1 – Unique Full Tuple (Row 1)**
+   - **Full 9-Tag Tuple:**
+     - Ambiguity Type: Strategic Trade‐Off Ambiguity
+     - Framing Move: Portfolio and Parallelization Logic
+     - Stabilizer: Scenario Modeling and Forecasting
+     - False Clarity: No
+     - Residual Ambiguity: Long-Term Impact Uncertainty
+     - Tension Axis: Short-Term Performance vs. Strategic Sustainability
+     - Surface vs. Deep Contradiction: Explicit
+     - Decision Outcome: Strategic Reframing
+     - Organizational Implication: Emergent Flexibility and Adaptive Learning
+   - **Summary:**
      This rare combination couples a portfolio logic with scenario modeling and a focus on short-term vs. strategic sustainability.
-   - **Module IDs:**  
+   - **Module IDs:**
      CATEGORICAL MODULE 31 – C2-I1
 
-2. **Cluster 2 – Unique Full Tuple (Row 3)**  
-   - **Full 9-Tag Tuple:**  
-     - Ambiguity Type: Strategic Trade‐Off Ambiguity  
-     - Framing Move: Empirical Anchoring  
-     - Stabilizer: External Endorsement and Benchmarking  
-     - False Clarity: No  
-     - Residual Ambiguity: Long-Term Impact Uncertainty  
-     - Tension Axis: Technological Vision vs. Operational Reality  
-     - Surface vs. Deep Contradiction: Explicit  
-     - Decision Outcome: Strategic Reframing  
-     - Organizational Implication: Operational Drag (Strategic Misalignment)  
-   - **Summary:**  
+2. **Cluster 2 – Unique Full Tuple (Row 3)**
+   - **Full 9-Tag Tuple:**
+     - Ambiguity Type: Strategic Trade‐Off Ambiguity
+     - Framing Move: Empirical Anchoring
+     - Stabilizer: External Endorsement and Benchmarking
+     - False Clarity: No
+     - Residual Ambiguity: Long-Term Impact Uncertainty
+     - Tension Axis: Technological Vision vs. Operational Reality
+     - Surface vs. Deep Contradiction: Explicit
+     - Decision Outcome: Strategic Reframing
+     - Organizational Implication: Operational Drag (Strategic Misalignment)
+   - **Summary:**
      This pattern highlights a less common reliance on external benchmarking alongside a technological vision—and signals operational drag as an implication.
-   - **Module IDs:**  
+   - **Module IDs:**
      CATEGORICAL MODULE 40 – C2-I2
 
-3. **Cluster 3 – Unique Full Tuple (Row 14)**  
-   - **Full 9-Tag Tuple:**  
-     - Ambiguity Type: Strategic Trade‐Off Ambiguity  
-     - Framing Move: Empirical Anchoring  
-     - Stabilizer: Empirical Validation and Piloting  
-     - False Clarity: Partially  
-     - Residual Ambiguity: Governance and Accountability Gaps  
-     - Tension Axis: Centralized Discipline vs. Decentralized Flexibility  
-     - Surface vs. Deep Contradiction: Explicit  
-     - Decision Outcome: Partial Resolution  
-     - Organizational Implication: Strategic Ambiguity and Role Uncertainty  
-   - **Summary:**  
+3. **Cluster 3 – Unique Full Tuple (Row 14)**
+   - **Full 9-Tag Tuple:**
+     - Ambiguity Type: Strategic Trade‐Off Ambiguity
+     - Framing Move: Empirical Anchoring
+     - Stabilizer: Empirical Validation and Piloting
+     - False Clarity: Partially
+     - Residual Ambiguity: Governance and Accountability Gaps
+     - Tension Axis: Centralized Discipline vs. Decentralized Flexibility
+     - Surface vs. Deep Contradiction: Explicit
+     - Decision Outcome: Partial Resolution
+     - Organizational Implication: Strategic Ambiguity and Role Uncertainty
+   - **Summary:**
      In this rare configuration, a partial clarity and a focus on governance gaps lead to a resolution that is only partial—highlighting a unique tension between centralization and flexibility.
-   - **Module IDs:**  
+   - **Module IDs:**
      CATEGORICAL MODULE 2 – C5-I6
 
 ---
 
-## Category 3: Least Common Tags Within Dominant Combinations (n–1 Strategy)  
+## Category 3: Least Common Tags Within Dominant Combinations (n–1 Strategy)
 For rows that mostly match one of the dominant patterns from Category 1 (i.e. matching on 4 of the 5 priority tags), we looked for cases where one tag deviates—and that deviation is itself rare (and not “Unknown”).
 
-- **Identified Variation from Cluster 1 (Pattern “ST, EA, EVP, RARC, SR”):**  
-  - **Diverging Column:** Decision Outcome  
-  - **Dominant Pattern:** (Strategic Trade‐Off Ambiguity, Empirical Anchoring, Empirical Validation and Piloting, Risk Appetite vs. Risk Control, **Strategic Reframing**)  
-  - **Rare Variation:** In one case the Decision Outcome is “Partial Resolution” rather than “Strategic Reframing.” Although most modules in this dominant pattern choose “Strategic Reframing,” the deviation “Partial Resolution” appears only rarely in its column.  
-  - **Module IDs:**  
+- **Identified Variation from Cluster 1 (Pattern “ST, EA, EVP, RARC, SR”):**
+  - **Diverging Column:** Decision Outcome
+  - **Dominant Pattern:** (Strategic Trade‐Off Ambiguity, Empirical Anchoring, Empirical Validation and Piloting, Risk Appetite vs. Risk Control, **Strategic Reframing**)
+  - **Rare Variation:** In one case the Decision Outcome is “Partial Resolution” rather than “Strategic Reframing.” Although most modules in this dominant pattern choose “Strategic Reframing,” the deviation “Partial Resolution” appears only rarely in its column.
+  - **Module IDs:**
     CATEGORICAL MODULE 7 – C3-I2
 
 ---
 
-## Category 4: Most Common Tags Within Rare Combinations  
+## Category 4: Most Common Tags Within Rare Combinations
 Within the three rare full combinations from Category 2, we scanned individual columns for tags that reoccur in at least two of the patterns (ignoring “Unknown”). Notable recurring tags include:
 
-1. **Ambiguity Type – “Strategic Trade‐Off Ambiguity”**  
-   - **Occurrences:** Present in all three rare tuples  
-   - **Rare Combinations Involved:**  
-     - Row 1 (CATEGORICAL MODULE 31 – C2-I1)  
-     - Row 3 (CATEGORICAL MODULE 40 – C2-I2)  
+1. **Ambiguity Type – “Strategic Trade‐Off Ambiguity”**
+   - **Occurrences:** Present in all three rare tuples
+   - **Rare Combinations Involved:**
+     - Row 1 (CATEGORICAL MODULE 31 – C2-I1)
+     - Row 3 (CATEGORICAL MODULE 40 – C2-I2)
      - Row 14 (CATEGORICAL MODULE 2 – C5-I6)
 
-2. **Surface vs. Deep Contradiction – “Explicit”**  
-   - **Occurrences:** Appears in every rare combination  
-   - **Rare Combinations Involved:**  
-     - Row 1 (CATEGORICAL MODULE 31 – C2-I1)  
-     - Row 3 (CATEGORICAL MODULE 40 – C2-I2)  
+2. **Surface vs. Deep Contradiction – “Explicit”**
+   - **Occurrences:** Appears in every rare combination
+   - **Rare Combinations Involved:**
+     - Row 1 (CATEGORICAL MODULE 31 – C2-I1)
+     - Row 3 (CATEGORICAL MODULE 40 – C2-I2)
      - Row 14 (CATEGORICAL MODULE 2 – C5-I6)
 
-3. **Framing Move – “Empirical Anchoring”**  
-   - **Occurrences:** Found in two of the three rare patterns  
-   - **Rare Combinations Involved:**  
-     - Row 3 (CATEGORICAL MODULE 40 – C2-I2)  
+3. **Framing Move – “Empirical Anchoring”**
+   - **Occurrences:** Found in two of the three rare patterns
+   - **Rare Combinations Involved:**
+     - Row 3 (CATEGORICAL MODULE 40 – C2-I2)
      - Row 14 (CATEGORICAL MODULE 2 – C5-I6)
 
 ---
 
 Each category and cluster reflects a different angle on how tag‐combinations and individual tag variations reveal underlying thematic structures in the dataset.
-

@@ -55,4 +55,3 @@ Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org 
 CATEGORICAL MODULE X - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold
 
 Use real line breaks. No markdown. No extra text. Output only the CSV.
-

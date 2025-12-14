@@ -119,16 +119,16 @@ Keep the output compact, skimmable, and creative—**minimal examples** (only wh
 **Origin Map**
 
 - **Origin 1: Capacity & Coverage**
-  - **Orientation:** Start here to see whether the team has the staffed, ramped, and motion-ready capacity to generate and prosecute opportunities. This lens pairs staffing/ramp with evidence of live selling in a chosen tower. fileciteturn0file0
-  - **Core Metric Set:** **# Territories (#)**, **% Territories Filled (%)**, **% Reps Ramped (%)**, **# Reps in Deals (#)**, **% Reps in Deals — Cloud (%)**, **% Reps Certified — Cloud (%)**. fileciteturn0file0
+  - **Orientation:** Start here to see whether the team has the staffed, ramped, and motion-ready capacity to generate and prosecute opportunities. This lens pairs staffing/ramp with evidence of live selling in a chosen tower. fileciteturn0file0
+  - **Core Metric Set:** **# Territories (#)**, **% Territories Filled (%)**, **% Reps Ramped (%)**, **# Reps in Deals (#)**, **% Reps in Deals — Cloud (%)**, **% Reps Certified — Cloud (%)**. fileciteturn0file0
 
 - **Origin 2: Path to Plan × Technical Proof**
-  - **Orientation:** Use this to reconcile near-term dollars (**Closed**, **Commit**, **Best Case In**) with the technical signal that often precedes revenue (tower **Tech Win Rate**, **Median POV Duration**). Note: **Total CCBC ($)** is defined as Closed + Commit + Best Case In **[assumption; needs confirmation]** in the dictionary. fileciteturn0file0
-  - **Core Metric Set:** **Total CCBC ($)**, **Closed ($)**, **Commit ($)**, **Best Case In ($)**, **Tech Win Rate — SASE (%)**, **Median POV Duration — SASE (Days)**. fileciteturn0file0
+  - **Orientation:** Use this to reconcile near-term dollars (**Closed**, **Commit**, **Best Case In**) with the technical signal that often precedes revenue (tower **Tech Win Rate**, **Median POV Duration**). Note: **Total CCBC ($)** is defined as Closed + Commit + Best Case In **[assumption; needs confirmation]** in the dictionary. fileciteturn0file0
+  - **Core Metric Set:** **Total CCBC ($)**, **Closed ($)**, **Commit ($)**, **Best Case In ($)**, **Tech Win Rate — SASE (%)**, **Median POV Duration — SASE (Days)**. fileciteturn0file0
 
 - **Origin 3: Account Base Activation & Whitespace**
-  - **Orientation:** This lens treats the book of business as terrain: how much is active, how much is untouched, and where tower motion and renewal dollars coexist. Acronyms in play: **ASR** (*Account Success Review* [assumption]) and **ATR** (*Available-to-Renew/Annualized to Renew* [needs confirmation]). fileciteturn0file0
-  - **Core Metric Set:** **# Accts (#)**, **Whitespace Accounts (overall) (#)**, **% Accts Active (last 3 yrs) (%)**, **% Accts w/ ASR (%)**, **Firewall % Accts w/ Active Pipeline (%)**, **Firewall ATR ($)**. fileciteturn0file0
+  - **Orientation:** This lens treats the book of business as terrain: how much is active, how much is untouched, and where tower motion and renewal dollars coexist. Acronyms in play: **ASR** (*Account Success Review* [assumption]) and **ATR** (*Available-to-Renew/Annualized to Renew* [needs confirmation]). fileciteturn0file0
+  - **Core Metric Set:** **# Accts (#)**, **Whitespace Accounts (overall) (#)**, **% Accts Active (last 3 yrs) (%)**, **% Accts w/ ASR (%)**, **Firewall % Accts w/ Active Pipeline (%)**, **Firewall ATR ($)**. fileciteturn0file0
 
 
 ---
@@ -136,58 +136,57 @@ Keep the output compact, skimmable, and creative—**minimal examples** (only wh
 **Depth & Divergence by Origin**
 
 - **Origin 1: Capacity & Coverage**
-  - **Level A — Surface:** Read **# Territories** against **% Territories Filled** to anchor coverage; overlay **% Reps Ramped** for a first pass on productive capacity. fileciteturn0file0
-  - **Level B — Combination:** Add **# Reps in Deals** to see breadth of live motion; pair with **% Reps in Deals — Cloud** to localize which motion is actually turning on. fileciteturn0file0
-  - **Level C — Contrast:** Contrast **% Reps in Deals — Cloud** with **% Reps Certified — Cloud** to examine readiness vs. participation; consider breaking the view by **District** for ownership. fileciteturn0file0
-  - **Divergence Options:**  
-    - Swap the tower (e.g., **% Reps in Deals — SASE**, **% Reps Certified — SASE**) to compare motions.  
-    - Fold in **Last 3M Attrition (#)** or **# Accts per Rep (#)** to explore stability and load alongside activity. fileciteturn0file0  
-  - **Granularity Note:** Most metrics here are coverage-level (% of reps, counts of territories/reps); **# Accts per Rep** is AE-level. fileciteturn0file0
+  - **Level A — Surface:** Read **# Territories** against **% Territories Filled** to anchor coverage; overlay **% Reps Ramped** for a first pass on productive capacity. fileciteturn0file0
+  - **Level B — Combination:** Add **# Reps in Deals** to see breadth of live motion; pair with **% Reps in Deals — Cloud** to localize which motion is actually turning on. fileciteturn0file0
+  - **Level C — Contrast:** Contrast **% Reps in Deals — Cloud** with **% Reps Certified — Cloud** to examine readiness vs. participation; consider breaking the view by **District** for ownership. fileciteturn0file0
+  - **Divergence Options:**
+    - Swap the tower (e.g., **% Reps in Deals — SASE**, **% Reps Certified — SASE**) to compare motions.
+    - Fold in **Last 3M Attrition (#)** or **# Accts per Rep (#)** to explore stability and load alongside activity. fileciteturn0file0
+  - **Granularity Note:** Most metrics here are coverage-level (% of reps, counts of territories/reps); **# Accts per Rep** is AE-level. fileciteturn0file0
 
 - **Origin 2: Path to Plan × Technical Proof**
-  - **Level A — Surface:** Situate the period with **Total CCBC**, then decompose into **Closed**, **Commit**, and **Best Case In** (CCBC composition is noted as an **assumption** in the dictionary). fileciteturn0file0
-  - **Level B — Combination:** Pair the tower most represented in the open book with **Tech Win Rate — SASE** to sense technical selection momentum against **Best Case In**—a pre-revenue quality signal, not a forecast. fileciteturn0file0
-  - **Level C — Contrast:** Introduce **Median POV Duration — SASE (Days)** to separate near-term-closable evaluations from those likely to land later in the window. fileciteturn0file0
-  - **Divergence Options:**  
-    - Switch tower (e.g., **Tech Win Rate — Cloud**, **Median POV Duration — Cloud**) to test whether technical traction is uniform.  
-    - Bring in **POV Win Rate — SASE (%)** or overlay engagement (e.g., **Total External Meetings (#)**) to see if human interaction density tracks with proof outcomes. fileciteturn0file0  
-  - **Granularity Note:** Dollars are aggregate; technical metrics are tower-level %/days, typically aggregated; engagement counts can be team- or AE-level depending on the specific metric chosen. fileciteturn0file0
+  - **Level A — Surface:** Situate the period with **Total CCBC**, then decompose into **Closed**, **Commit**, and **Best Case In** (CCBC composition is noted as an **assumption** in the dictionary). fileciteturn0file0
+  - **Level B — Combination:** Pair the tower most represented in the open book with **Tech Win Rate — SASE** to sense technical selection momentum against **Best Case In**—a pre-revenue quality signal, not a forecast. fileciteturn0file0
+  - **Level C — Contrast:** Introduce **Median POV Duration — SASE (Days)** to separate near-term-closable evaluations from those likely to land later in the window. fileciteturn0file0
+  - **Divergence Options:**
+    - Switch tower (e.g., **Tech Win Rate — Cloud**, **Median POV Duration — Cloud**) to test whether technical traction is uniform.
+    - Bring in **POV Win Rate — SASE (%)** or overlay engagement (e.g., **Total External Meetings (#)**) to see if human interaction density tracks with proof outcomes. fileciteturn0file0
+  - **Granularity Note:** Dollars are aggregate; technical metrics are tower-level %/days, typically aggregated; engagement counts can be team- or AE-level depending on the specific metric chosen. fileciteturn0file0
 
 - **Origin 3: Account Base Activation & Whitespace**
-  - **Level A — Surface:** Read **# Accts** alongside **Whitespace Accounts (overall)** and **% Accts Active (last 3 yrs)** to understand base saturation vs. dormancy. Window for “active” is partially unclear in source. fileciteturn0file0
-  - **Level B — Combination:** Layer **% Accts w/ ASR** to gauge success/QBR coverage across the base relative to activity and whitespace. fileciteturn0file0
-  - **Level C — Contrast:** In a chosen tower, juxtapose **Firewall % Accts w/ Active Pipeline** with **Firewall ATR ($)** to see where motion and renewal dollars intersect (without implying direction). fileciteturn0file0
-  - **Divergence Options:**  
-    - Switch towers (e.g., **Cloud % Accts Platformized (%)**, **Cloud % Accts w/ Active Pipeline (%)**, **Cloud ATR ($)**) to compare depth vs. motion by tower.  
-    - Add segment contrast with **# G2K Accts (#)** to isolate enterprise patterns. fileciteturn0file0  
-  - **Granularity Note:** These are account-level coverage metrics and tower-level overlays; **ATR** is dollars, **ASR** is coverage % across accounts. Some acronym meanings are flagged in the dictionary as **[needs confirmation]** or **[assumption]**. fileciteturn0file0
+  - **Level A — Surface:** Read **# Accts** alongside **Whitespace Accounts (overall)** and **% Accts Active (last 3 yrs)** to understand base saturation vs. dormancy. Window for “active” is partially unclear in source. fileciteturn0file0
+  - **Level B — Combination:** Layer **% Accts w/ ASR** to gauge success/QBR coverage across the base relative to activity and whitespace. fileciteturn0file0
+  - **Level C — Contrast:** In a chosen tower, juxtapose **Firewall % Accts w/ Active Pipeline** with **Firewall ATR ($)** to see where motion and renewal dollars intersect (without implying direction). fileciteturn0file0
+  - **Divergence Options:**
+    - Switch towers (e.g., **Cloud % Accts Platformized (%)**, **Cloud % Accts w/ Active Pipeline (%)**, **Cloud ATR ($)**) to compare depth vs. motion by tower.
+    - Add segment contrast with **# G2K Accts (#)** to isolate enterprise patterns. fileciteturn0file0
+  - **Granularity Note:** These are account-level coverage metrics and tower-level overlays; **ATR** is dollars, **ASR** is coverage % across accounts. Some acronym meanings are flagged in the dictionary as **[needs confirmation]** or **[assumption]**. fileciteturn0file0
 
 
 ---
 
 **Illustrative Micro-Scenarios (Hypothetical)**
 
-- **Origin 1 — Capacity & Coverage (Hypothetical):**  
-  Suppose **# Territories = 12**, **% Territories Filled = 83%**, **% Reps Ramped = 60%**, and **% Reps in Deals — Cloud = 50%**. Read as a sketch of staffed-and-ramped capacity versus visible Cloud motion—not a judgment. [metrics-used: # Territories (#), % Territories Filled (%), % Reps Ramped (%), % Reps in Deals — Cloud (%)] fileciteturn0file0
+- **Origin 1 — Capacity & Coverage (Hypothetical):**
+  Suppose **# Territories = 12**, **% Territories Filled = 83%**, **% Reps Ramped = 60%**, and **% Reps in Deals — Cloud = 50%**. Read as a sketch of staffed-and-ramped capacity versus visible Cloud motion—not a judgment. [metrics-used: # Territories (#), % Territories Filled (%), % Reps Ramped (%), % Reps in Deals — Cloud (%)] fileciteturn0file0
 
-- **Origin 2 — Path to Plan × Technical Proof (Hypothetical):**  
-  Imagine **Total CCBC = $8M**, composed of **Closed = $2M** and **Commit = $3M**, with **Tech Win Rate — SASE = 65%** observed in active evaluations. This frames dollars-in-hand and commitments alongside a technical selection signal, without predicting outcomes. [metrics-used: Total CCBC ($), Closed ($), Commit ($), Tech Win Rate — SASE (%)] fileciteturn0file0
+- **Origin 2 — Path to Plan × Technical Proof (Hypothetical):**
+  Imagine **Total CCBC = $8M**, composed of **Closed = $2M** and **Commit = $3M**, with **Tech Win Rate — SASE = 65%** observed in active evaluations. This frames dollars-in-hand and commitments alongside a technical selection signal, without predicting outcomes. [metrics-used: Total CCBC ($), Closed ($), Commit ($), Tech Win Rate — SASE (%)] fileciteturn0file0
 
-- **Origin 3 — Account Base Activation & Whitespace (Hypothetical):**  
-  Picture **# Accts = 200**, **Whitespace Accounts (overall) = 80**, **% Accts w/ ASR = 30%**, and **Firewall % Accts w/ Active Pipeline = 25%**. This juxtaposes untouched terrain, success coverage, and tower motion at a glance. [metrics-used: # Accts (#), Whitespace Accounts (overall) (#), % Accts w/ ASR (%), Firewall % Accts w/ Active Pipeline (%)] fileciteturn0file0
+- **Origin 3 — Account Base Activation & Whitespace (Hypothetical):**
+  Picture **# Accts = 200**, **Whitespace Accounts (overall) = 80**, **% Accts w/ ASR = 30%**, and **Firewall % Accts w/ Active Pipeline = 25%**. This juxtaposes untouched terrain, success coverage, and tower motion at a glance. [metrics-used: # Accts (#), Whitespace Accounts (overall) (#), % Accts w/ ASR (%), Firewall % Accts w/ Active Pipeline (%)] fileciteturn0file0
 
 
 ---
 
 **Open Questions**
 
-1. Where do **% Reps in Deals — Cloud** and **% Reps Certified — Cloud** materially diverge by **District**, and what adjacent tower substitution (e.g., SASE) changes that picture? fileciteturn0file0  
-2. How is **Best Case In ($)** distributed across towers with higher vs. lower **Tech Win Rate** and shorter vs. longer **Median POV Duration**—and does that distribution align with the current **Commit ($)** mix? fileciteturn0file0  
-3. Within accounts labeled active (**% Accts Active (last 3 yrs)**), what share has an **ASR** completed, and how does that intersect with tower-specific **% Accts w/ Active Pipeline**? fileciteturn0file0  
-4. Among **G2K** vs. non-G2K, how does **Whitespace Accounts (overall)** compare to tower **ATR ($)**, and does platformization (e.g., **Cloud % Accts Platformized**) track with smaller whitespace pockets? fileciteturn0file0  
-5. When viewing **# Reps in Deals** over time, does a change in **Last 3M Attrition (#)** or **% Reps Ramped (%)** correspond to shifts in engagement breadth (e.g., **Total External Meetings** or **Accounts Touched Per Rep**)? fileciteturn0file0
+1. Where do **% Reps in Deals — Cloud** and **% Reps Certified — Cloud** materially diverge by **District**, and what adjacent tower substitution (e.g., SASE) changes that picture? fileciteturn0file0
+2. How is **Best Case In ($)** distributed across towers with higher vs. lower **Tech Win Rate** and shorter vs. longer **Median POV Duration**—and does that distribution align with the current **Commit ($)** mix? fileciteturn0file0
+3. Within accounts labeled active (**% Accts Active (last 3 yrs)**), what share has an **ASR** completed, and how does that intersect with tower-specific **% Accts w/ Active Pipeline**? fileciteturn0file0
+4. Among **G2K** vs. non-G2K, how does **Whitespace Accounts (overall)** compare to tower **ATR ($)**, and does platformization (e.g., **Cloud % Accts Platformized**) track with smaller whitespace pockets? fileciteturn0file0
+5. When viewing **# Reps in Deals** over time, does a change in **Last 3M Attrition (#)** or **% Reps Ramped (%)** correspond to shifts in engagement breadth (e.g., **Total External Meetings** or **Accounts Touched Per Rep**)? fileciteturn0file0
 
-*Ambiguity flags carried from the dictionary (do not assume semantics beyond face value): **Total CCBC** composition note **[assumption; needs confirmation]**; **Whitespace Accounts (overall)** and “active” window **[assumption/unclear]**; **ATR** acronym **[needs confirmation]**; **ASR** meaning **[assumption]**.* fileciteturn0file0
+*Ambiguity flags carried from the dictionary (do not assume semantics beyond face value): **Total CCBC** composition note **[assumption; needs confirmation]**; **Whitespace Accounts (overall)** and “active” window **[assumption/unclear]**; **ATR** acronym **[needs confirmation]**; **ASR** meaning **[assumption]**.* fileciteturn0file0
 
-*Prismatic Sensemaker note:* Each pathway is a lens, not a verdict. Combine lightly, contrast simply, and let the relationships suggest where curiosity wants to drill next. fileciteturn0file0
-
+*Prismatic Sensemaker note:* Each pathway is a lens, not a verdict. Combine lightly, contrast simply, and let the relationships suggest where curiosity wants to drill next. fileciteturn0file0

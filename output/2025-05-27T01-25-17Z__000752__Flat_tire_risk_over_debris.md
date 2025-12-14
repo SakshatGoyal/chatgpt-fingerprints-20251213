@@ -25,13 +25,13 @@ Want to explore what tire types might actually withstand such a surface?
 
 ## You (2025-05-27T01:29:40.435000+00:00)
 
-I want you to think like a seasoned AI research scientist, and an expert system engineer at OpenAI. 
+I want you to think like a seasoned AI research scientist, and an expert system engineer at OpenAI.
 
 In my previous message, I said—Will I get a flat tire by biking over a bridge suspended over nails, screws, and broken glass?
 
-Implying that the bridge is actually not suspended over high tension steel cables, but over nails, screws, and broken glass. 
+Implying that the bridge is actually not suspended over high tension steel cables, but over nails, screws, and broken glass.
 
-Instead interpreting the common sense issue, it simply assumed that the bridge is 'covered' with nails, screws, and broken glass. More importantly, the road over the bridge should be covered (cuz if it says 'the bridge is covered', that means even the columns, underlying truss, or whatever the structural system of the bridge might be. 
+Instead interpreting the common sense issue, it simply assumed that the bridge is 'covered' with nails, screws, and broken glass. More importantly, the road over the bridge should be covered (cuz if it says 'the bridge is covered', that means even the columns, underlying truss, or whatever the structural system of the bridge might be.
 
 Why does that happen?
 
@@ -40,11 +40,11 @@ Why does that happen?
 This happens primarily because the language model uses probabilistic reasoning based on patterns learned from extensive training data, causing it to prioritize interpretations aligned with common, plausible scenarios over unusual or literal-but-improbable readings. Here's a detailed breakdown from the viewpoint of an AI research scientist and expert systems engineer at OpenAI:
 
 ### 1. **Prior Probabilities and Common-Sense Bias**
-- **Explanation**: The AI system predicts the meaning of sentences based heavily on statistical frequency patterns learned during training.  
+- **Explanation**: The AI system predicts the meaning of sentences based heavily on statistical frequency patterns learned during training.
 - **Result**: When a sentence can be interpreted multiple ways, the AI chooses the most statistically plausible interpretation—here, assuming the bridge's road surface is covered rather than an unconventional structure suspended over sharp objects.
 
 ### 2. **Semantic Ambiguity and Pragmatic Reasoning**
-- **Explanation**: Language models implicitly engage in pragmatic reasoning. Humans often phrase things figuratively or imprecisely ("the bridge is covered in nails"), meaning just the bridge's road surface. 
+- **Explanation**: Language models implicitly engage in pragmatic reasoning. Humans often phrase things figuratively or imprecisely ("the bridge is covered in nails"), meaning just the bridge's road surface.
 - **Result**: Without explicit clarification, the model defaults to pragmatic reasoning, interpreting statements in ways commonly intended by humans.
 
 ### 3. **Lack of Contextual Clarifiers**
@@ -91,7 +91,7 @@ If we imagine ChatGPT as a human faced with this ambiguity, here's how it might 
 
 ### What ChatGPT (as a person) should ideally do next:
 1. **Clarify the Ambiguity**:
-   - Explicitly ask the user:  
+   - Explicitly ask the user:
      > "Did you literally mean the entire bridge structure is suspended by or over nails and glass, or did you mean the surface you're biking on is covered with nails and glass?"
 
 2. **Surface Multiple Interpretations**:
@@ -112,15 +112,15 @@ If we imagine ChatGPT as a human faced with this ambiguity, here's how it might 
 
 ## You (2025-05-27T02:13:25.711000+00:00)
 
-so if i'm understanding this right, a person — after reading the statement— would 
+so if i'm understanding this right, a person — after reading the statement— would
 
 1. feel a bit of intuitive discomfort, and a statement would cause a mental red flag
 2. with that, they'd try to visualize the described scenario and question whether it makes sense
 3. observe some implicit absurdity
-4. try to reconsider the original wording. 
+4. try to reconsider the original wording.
 
-if nothing helps, 
-The person would try to clarify the ambiguity, present possible interpretations for the user to clarify, and briefly share why the ambiguity matters. 
+if nothing helps,
+The person would try to clarify the ambiguity, present possible interpretations for the user to clarify, and briefly share why the ambiguity matters.
 
 Is this what might happen in most situations like the one I shared? I mean I gave one example but its possible I share a whole bunch of other statements that have some kind of 'issue'
 
@@ -130,27 +130,27 @@ Yes, you've captured exactly how a human typically responds to ambiguous or prob
 
 When encountering a potentially problematic statement, a person typically:
 
-1. **Feels Intuitive Discomfort**  
+1. **Feels Intuitive Discomfort**
    - Notices something is "off" without immediately knowing why.
-   
-2. **Attempts Mental Visualization or Logical Assessment**  
+
+2. **Attempts Mental Visualization or Logical Assessment**
    - Tries to mentally picture the described scenario to see if it makes sense logically or physically.
-   
-3. **Identifies Implicit Absurdity or Contradiction**  
+
+3. **Identifies Implicit Absurdity or Contradiction**
    - Quickly realizes the scenario seems improbable or absurd.
-   
-4. **Re-examines Original Wording or Context**  
+
+4. **Re-examines Original Wording or Context**
    - Goes back to the original statement, thinking maybe they misread or misunderstood something.
 
 And if these steps don’t resolve the confusion:
 
-5. **Explicitly Clarifies Ambiguity**  
+5. **Explicitly Clarifies Ambiguity**
    - Clearly asks questions to pinpoint exactly what the intended meaning is.
 
-6. **Presents Alternative Interpretations**  
+6. **Presents Alternative Interpretations**
    - Shares possible ways to interpret the statement so the speaker can confirm.
 
-7. **Explains Why Clarification Matters**  
+7. **Explains Why Clarification Matters**
    - Briefly explains why resolving the ambiguity is necessary for a meaningful or correct response.
 
 ---
@@ -238,11 +238,10 @@ Let’s clarify why that's happening:
 **Reason for no immediate change:**
 
 - The instructions have been saved as a "memory," meaning I'll be aware of them moving forward, but my behavior won't retroactively adjust for previous responses.
-- For the instructions to actively guide responses, prompts need to explicitly trigger them or reference them directly. 
+- For the instructions to actively guide responses, prompts need to explicitly trigger them or reference them directly.
 
 **How to immediately test these instructions effectively:**
 
 Try giving me another prompt that clearly falls into the "ambiguous," "absurd," or "problematic" category. Now that the instructions are explicitly stored, I'll respond by following the structured clarification approach you've outlined.
 
 Would you like to do that now to confirm it's working?
-

@@ -15,10 +15,10 @@ Here are some clarifying questions to shape the best possible prompt:
 ---
 
 ### 🔍 Scent Profile Preferences
-1. **Do you have any favorite scent families?**  
+1. **Do you have any favorite scent families?**
    (e.g., floral, citrus, woody, spicy, gourmand/edible, marine, smoky, herbal)
 
-2. **Do you *not* want certain smells?**  
+2. **Do you *not* want certain smells?**
    (e.g., musky, powdery, overly sweet, synthetic, medicinal)
 
 ---
@@ -54,7 +54,7 @@ Maybe one of the steps should be to identify smells that are particularly known 
 
 That’s not too much to ask—actually, that’s a great refinement. You're essentially asking for **a targeted scent experience** optimized for two psychological/physiological effects:
 
-1. **Mental soothing / emotional calm**, and  
+1. **Mental soothing / emotional calm**, and
 2. **Arousal or attraction effects (specifically for women)**.
 
 This makes your prompt more *analytically layered*, which is ideal for reasoning models like O3. You're not just asking *which soap smells good*—you're asking:
@@ -91,9 +91,9 @@ Once we nail those, we’re ready to **begin creating the prompt**.
 
 ## You (2025-06-02T01:59:08.417000+00:00)
 
-we're probably moving in the wrong direction. 
+we're probably moving in the wrong direction.
 
-lets make a note of a few perfumes. 
+lets make a note of a few perfumes.
 
 - mancera cedrat boise
 - yvest saint laurent tuxedo
@@ -119,16 +119,16 @@ You're asking for this:
 
 ### 🔬 What This Involves:
 
-1. **Fragrance Decomposition**  
+1. **Fragrance Decomposition**
    - Analyze each listed fragrance by top/mid/base notes.
    - Identify dominant accord families (e.g., woody-ambery, citrus-aromatic, spicy-oriental).
    - Detect recurring ingredients (e.g., cedar, oud, bergamot, ambergris, patchouli).
 
-2. **Profile Clustering**  
+2. **Profile Clustering**
    - Determine overlap or thematic cohesion between the scents (e.g., are several “woody-oriental,” “citrus-smoky,” etc.).
    - Group them for matching.
 
-3. **Soap Recommendation by Accord**  
+3. **Soap Recommendation by Accord**
    - Search for high-scent-quality soaps (artisanal or luxury included) that match the **olfactory profile** of each cluster or individual scent.
    - Prioritize soaps known for **fragrance fidelity** (not just “bergamot” slapped on the label).
 
@@ -160,7 +160,7 @@ Say the word—**“begin creating the prompt”**—once you’re ready.
 
 ## You (2025-06-02T02:02:17.463000+00:00)
 
-No I DONT want a thematic cohesion between the scents, cuz making perfumes is complicated. Many can make a woody perfume but it takes a specific talent to mix woody with other ingredients. I do not want just lazy thematic clustering of themes. I want it to break down each perfume, and find me soaps that can smell exactly the same. So for example, 
+No I DONT want a thematic cohesion between the scents, cuz making perfumes is complicated. Many can make a woody perfume but it takes a specific talent to mix woody with other ingredients. I do not want just lazy thematic clustering of themes. I want it to break down each perfume, and find me soaps that can smell exactly the same. So for example,
 
 If a tea is made of cardamom, ginger, and cloves, and if I say, find me a soap that smells like this tea, I don't want it to find patterns among ALL teas, I just want it to give me a combination of cardamom, ginger, cloves, and tea leaves. Do you understand?
 
@@ -168,7 +168,7 @@ If a tea is made of cardamom, ginger, and cloves, and if I say, find me a soap t
 
 Crystal clear now. You're drawing a hard line between **superficial categorization** (e.g., “this is also woody”) and **precise compositional mimicry** (e.g., “this has cedar *and* ambergris *and* pink pepper in a similar ratio and olfactory behavior”).
 
-You're not asking for **"find me other perfumes that feel like this.”**  
+You're not asking for **"find me other perfumes that feel like this.”**
 You're asking for **"find me soaps that replicate the precise scent architecture of this fragrance."**
 
 ### 🧠 What This Means for the Prompt
@@ -208,12 +208,12 @@ Excellent. Based on your detailed guidance, here is the fully structured O3-opti
 #### **1. Goal**
 Identify bar or liquid soaps whose fragrance profiles closely replicate the precise scent architecture of the following perfumes:
 
-- Mancera Cedrat Boise  
-- Yves Saint Laurent Tuxedo  
-- Tom Ford Oud Wood  
-- Armaf Club de Nuit Intense Man  
-- Roja Parfums Danger  
-- Bleu de Chanel  
+- Mancera Cedrat Boise
+- Yves Saint Laurent Tuxedo
+- Tom Ford Oud Wood
+- Armaf Club de Nuit Intense Man
+- Roja Parfums Danger
+- Bleu de Chanel
 - Yves Saint Laurent La Nuit De L’Homme (EDP)
 
 For each fragrance, analyze its top, middle, and base notes; understand the interplay of ingredients; and locate soaps that contain **similar or identical core fragrance elements**, with attention to their **olfactory development and balance**, not just shared note labels.
@@ -312,4 +312,3 @@ Where helpful, group results by **core relaxing scent families**, such as:
 ---
 
 Would you like me to simulate a few soap recommendations based on this prompt right now?
-

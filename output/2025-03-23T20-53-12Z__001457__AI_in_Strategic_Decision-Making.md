@@ -152,7 +152,7 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Key Themes:** The paper examines how artificial intelligence, particularly large language models (LLMs), can augment strategic decision-making (SDM) by generating and evaluating strategies. It explores the transformation of cognitive processes such as search, representation, and aggregation, and discusses potential shifts in competitive advantage.
 - **Core Motivations:** Driven by rapid AI advancements and the need to overcome human bounded rationality, the research addresses both the promise and the pitfalls of integrating AI into high-stakes strategic processes. It also responds to the executive challenge of balancing innovation with the preservation of unique human insights.
 - **Methodological Clarification:** The authors employ a combination of vignette-based demonstrations and two rigorous field experiments—one comparing LLM-generated business plans against entrepreneur-generated ones in a startup accelerator context, and another contrasting AI evaluations with venture capital assessments in a business plan competition. Their econometric analyses and experimental designs support clear, statistically significant findings.
-- **Relevance Assessment:** For senior executives, the study provides decision-relevant insights by quantifying how AI can enhance strategy formulation and evaluation while also flagging potential risks related to homogenization and overreliance on algorithmic outputs. This research informs both strategic practice and policy formulation in a rapidly evolving technological landscape. citeturn0file0
+- **Relevance Assessment:** For senior executives, the study provides decision-relevant insights by quantifying how AI can enhance strategy formulation and evaluation while also flagging potential risks related to homogenization and overreliance on algorithmic outputs. This research informs both strategic practice and policy formulation in a rapidly evolving technological landscape.
 
 ## Grounded Executive Insights
 
@@ -160,49 +160,49 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Topic 1: AI-Enhanced Generation and Evaluation of Strategies
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 LLM-generated business plans received higher evaluation scores and greater investor interest compared to those developed by entrepreneurs—suggesting that current AI systems can effectively augment traditional strategic processes by offering measurable improvements in both strategy quality and attractiveness. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives face the challenge of integrating AI tools to enhance strategic outcomes without undermining the nuanced judgment inherent to human decision-making.  
-- **Underlying Beliefs & Biases:** There is a prevalent assumption that human intuition is irreplaceable in strategy formulation; however, experimental data challenge this view by demonstrating superior performance of AI-augmented strategies.  
-- **Expected vs. Actual Outcomes:** While many managers expect only marginal gains from AI integration, the study’s empirical evidence shows statistically significant improvements in evaluations and investment likelihood, indicating a potential paradigm shift.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives face the challenge of integrating AI tools to enhance strategic outcomes without undermining the nuanced judgment inherent to human decision-making.
+- **Underlying Beliefs & Biases:** There is a prevalent assumption that human intuition is irreplaceable in strategy formulation; however, experimental data challenge this view by demonstrating superior performance of AI-augmented strategies.
+- **Expected vs. Actual Outcomes:** While many managers expect only marginal gains from AI integration, the study’s empirical evidence shows statistically significant improvements in evaluations and investment likelihood, indicating a potential paradigm shift.
 - **Broader Implications:** Broad adoption of AI in SDM could democratize access to high-quality strategic insights, streamline decision processes, and reallocate human capital toward more complex tasks, though it may also risk reducing strategic diversity if over-relied upon. **[Empirical]**
 
-**3. Supporting Context:**  
-Experimental evidence from a European startup accelerator and a business plan competition revealed that LLM-generated strategies scored approximately 0.14 standard deviations higher on average, with additional benefits observed in specific attributes such as execution planning and viability. These quantitative findings underscore the potential for AI to serve as a high-quality strategic analyst. **[Empirical]** citeturn0file0
+**3. Supporting Context:**
+Experimental evidence from a European startup accelerator and a business plan competition revealed that LLM-generated strategies scored approximately 0.14 standard deviations higher on average, with additional benefits observed in specific attributes such as execution planning and viability. These quantitative findings underscore the potential for AI to serve as a high-quality strategic analyst. **[Empirical]**
 
 ---
 
 ### Topic 2: Transformation of Cognitive Processes in SDM (Search, Representation, Aggregation)
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 The research proposes that AI can fundamentally transform the cognitive processes underlying strategic decision-making by accelerating search speed, enabling the development of more complex and dynamic representations, and enhancing the aggregation of diverse information sources. **[Inferred]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must decide how to harness AI’s rapid processing capabilities to expand the decision space while avoiding the risk of converging on similar, potentially mediocre solutions.  
-- **Underlying Beliefs & Biases:** Traditional reliance on bounded rationality limits strategic creativity; however, AI challenges this by processing vast amounts of data quickly—albeit with inherent biases from its training data that could steer decision-making toward familiar patterns.  
-- **Expected vs. Actual Outcomes:** While accelerated search and representation promise improved strategy generation, the real-world impact on the diversity and quality of strategic options remains uncertain and context dependent.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must decide how to harness AI’s rapid processing capabilities to expand the decision space while avoiding the risk of converging on similar, potentially mediocre solutions.
+- **Underlying Beliefs & Biases:** Traditional reliance on bounded rationality limits strategic creativity; however, AI challenges this by processing vast amounts of data quickly—albeit with inherent biases from its training data that could steer decision-making toward familiar patterns.
+- **Expected vs. Actual Outcomes:** While accelerated search and representation promise improved strategy generation, the real-world impact on the diversity and quality of strategic options remains uncertain and context dependent.
 - **Broader Implications:** As organizations integrate AI into SDM, they must design systems that capitalize on enhanced processing power while instituting checks to preserve innovation and avoid overfitting to historical patterns. **[Inferred]**
 
-**3. Supporting Context:**  
-The authors outline a framework categorizing AI’s effects on SDM into three dimensions—search, representation, and aggregation—illustrating potential scenarios ranging from “weak AI” (improving speed only) to “strong AI” (enhancing both quality and heterogeneity). These conceptual insights, while not fully validated by long-term data, offer a roadmap for executives considering AI integration. **[Inferred]** citeturn0file0
+**3. Supporting Context:**
+The authors outline a framework categorizing AI’s effects on SDM into three dimensions—search, representation, and aggregation—illustrating potential scenarios ranging from “weak AI” (improving speed only) to “strong AI” (enhancing both quality and heterogeneity). These conceptual insights, while not fully validated by long-term data, offer a roadmap for executives considering AI integration. **[Inferred]**
 
 ---
 
 ### Topic 3: Shifting Sources of Competitive Advantage and Implications for Firm Performance
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 By potentially shifting the basis of competitive advantage from resource uniqueness to innovation and rapid adaptability, AI-augmented SDM could redefine firm performance—although the long-term outcomes remain uncertain and heavily contingent on industry dynamics and strategic execution. **[Speculative]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must balance the investment in AI technologies against the risk of commoditization, ensuring that AI-enhanced processes translate into sustainable competitive advantages.  
-- **Underlying Beliefs & Biases:** There is a risk of overestimating the immediate benefits of AI, as firms may assume that adopting these technologies guarantees superior performance without accounting for competitive responses and market complexities.  
-- **Expected vs. Actual Outcomes:** The paper’s framework posits that while short-term gains in strategy formulation and evaluation are observable, the ultimate effect on profitability will depend on how competitive dynamics evolve—a prediction that remains to be fully empirically validated.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must balance the investment in AI technologies against the risk of commoditization, ensuring that AI-enhanced processes translate into sustainable competitive advantages.
+- **Underlying Beliefs & Biases:** There is a risk of overestimating the immediate benefits of AI, as firms may assume that adopting these technologies guarantees superior performance without accounting for competitive responses and market complexities.
+- **Expected vs. Actual Outcomes:** The paper’s framework posits that while short-term gains in strategy formulation and evaluation are observable, the ultimate effect on profitability will depend on how competitive dynamics evolve—a prediction that remains to be fully empirically validated.
 - **Broader Implications:** The anticipated transformation suggests that organizations must not only adopt AI tools but also reconfigure their strategic frameworks and cultural practices to sustain long-term performance improvements, a challenge that requires further empirical research. **[Speculative]**
 
-**3. Supporting Context:**  
-The framework presented in the study integrates AI technology with traditional determinants of firm performance, discussing scenarios of weak, progressing, and strong AI. While promising, these projections are forward-looking and serve as hypotheses for future research rather than conclusive evidence, highlighting the need for caution in strategic planning. **[Speculative]** citeturn0file0
+**3. Supporting Context:**
+The framework presented in the study integrates AI technology with traditional determinants of firm performance, discussing scenarios of weak, progressing, and strong AI. While promising, these projections are forward-looking and serve as hypotheses for future research rather than conclusive evidence, highlighting the need for caution in strategic planning. **[Speculative]**
 
 ---
 
@@ -457,21 +457,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -484,4 +484,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T20:56:33.665725+00:00)
 
 Csaszar, F. A., Ketkar, H., & Kim, H. (2024). Artificial intelligence and strategic decision-making: Evidence from entrepreneurs and investors. *Strategy Science, 9*(4), 322–345. https://doi.org/10.1287/stsc.2024.0190
-

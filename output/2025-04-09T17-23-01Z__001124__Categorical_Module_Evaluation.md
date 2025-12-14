@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:23:02.963330+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 15 - C4-I5,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 14 - C4-I6,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Belief Bubble  
-CATEGORICAL MODULE 8 - C1-I2,Value Clash,Evidence Frame,Unknown,Unknown,Plan vs. React,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 32 - C1-I2,Cognitive Fog,Capability Frame,Unknown,Unknown,Bold vs. Safe,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 36 - C1-I2,Cognitive Fog,Unknown,Unknown,Unknown,Vision vs. Reality,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 37 - C1-I2,Cultural Drift,Values Frame,Unknown,Unknown,Lean vs. Unique,Adaptive Growth,Shallow Change  
-CATEGORICAL MODULE 17 - C1-I4,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 25 - C1-I4,Unknown,Capability Frame,Unknown,Unknown,Plan vs. React,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 34 - C1-I4,Value Clash,Both/And Frame,Unknown,Unknown,Bold vs. Safe,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 26 - C1-I5,Cognitive Fog,Values Frame,Unknown,Unknown,Bold vs. Safe,Culture Clash,Belief Bubble  
-CATEGORICAL MODULE 19 - C1-I6,Cognitive Fog,Evidence Frame,Future-Proofed,Unknown,Vision vs. Reality,Governance Shift,Capability Gap  
-CATEGORICAL MODULE 5 - C2-I1,System Tangle,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 10 - C2-I1,System Tangle,Evidence Frame,Tested First,Unknown,Plan vs. React,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 11 - C2-I1,System Tangle,Evidence Frame,Alignment Achieved,Surface Alignment,Plan vs. React,Execution Lag,Process Trap  
-CATEGORICAL MODULE 12 - C2-I1,System Tangle,Evidence Frame,Unknown,Unknown,Plan vs. React,Governance Shift,Unknown  
-CATEGORICAL MODULE 13 - C2-I1,Signal Split,Evidence Frame,Unknown,Unknown,Plan vs. React,Governance Shift,Unknown  
-CATEGORICAL MODULE 15 - C2-I1,Signal Split,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 16 - C2-I1,System Tangle,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 37 - C2-I1,Value Clash,Both/And Frame,Alignment Achieved,Unknown,Lean vs. Unique,Adaptive Growth,Unknown  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 15 - C4-I5,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 14 - C4-I6,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Belief Bubble
+CATEGORICAL MODULE 8 - C1-I2,Value Clash,Evidence Frame,Unknown,Unknown,Plan vs. React,Adaptive Growth,Unknown
+CATEGORICAL MODULE 32 - C1-I2,Cognitive Fog,Capability Frame,Unknown,Unknown,Bold vs. Safe,Adaptive Growth,Unknown
+CATEGORICAL MODULE 36 - C1-I2,Cognitive Fog,Unknown,Unknown,Unknown,Vision vs. Reality,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 37 - C1-I2,Cultural Drift,Values Frame,Unknown,Unknown,Lean vs. Unique,Adaptive Growth,Shallow Change
+CATEGORICAL MODULE 17 - C1-I4,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Unknown
+CATEGORICAL MODULE 25 - C1-I4,Unknown,Capability Frame,Unknown,Unknown,Plan vs. React,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 34 - C1-I4,Value Clash,Both/And Frame,Unknown,Unknown,Bold vs. Safe,Adaptive Growth,Unknown
+CATEGORICAL MODULE 26 - C1-I5,Cognitive Fog,Values Frame,Unknown,Unknown,Bold vs. Safe,Culture Clash,Belief Bubble
+CATEGORICAL MODULE 19 - C1-I6,Cognitive Fog,Evidence Frame,Future-Proofed,Unknown,Vision vs. Reality,Governance Shift,Capability Gap
+CATEGORICAL MODULE 5 - C2-I1,System Tangle,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Unknown
+CATEGORICAL MODULE 10 - C2-I1,System Tangle,Evidence Frame,Tested First,Unknown,Plan vs. React,Adaptive Growth,Unknown
+CATEGORICAL MODULE 11 - C2-I1,System Tangle,Evidence Frame,Alignment Achieved,Surface Alignment,Plan vs. React,Execution Lag,Process Trap
+CATEGORICAL MODULE 12 - C2-I1,System Tangle,Evidence Frame,Unknown,Unknown,Plan vs. React,Governance Shift,Unknown
+CATEGORICAL MODULE 13 - C2-I1,Signal Split,Evidence Frame,Unknown,Unknown,Plan vs. React,Governance Shift,Unknown
+CATEGORICAL MODULE 15 - C2-I1,Signal Split,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Unknown
+CATEGORICAL MODULE 16 - C2-I1,System Tangle,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Unknown
+CATEGORICAL MODULE 37 - C2-I1,Value Clash,Both/And Frame,Alignment Achieved,Unknown,Lean vs. Unique,Adaptive Growth,Unknown
 CATEGORICAL MODULE 39 - C2-I1,System Tangle,Evidence Frame,Tested First,True Clarity,Global vs. Local,Adaptive Growth,Unknown
-

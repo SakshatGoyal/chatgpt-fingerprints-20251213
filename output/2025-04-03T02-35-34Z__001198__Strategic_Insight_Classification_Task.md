@@ -2,9 +2,9 @@
 
 ## You (2025-04-03T02:35:34.902000+00:00)
 
-Hey, help me create a new prompt based on my template. 
+Hey, help me create a new prompt based on my template.
 
-I'm attaching two files - a .md file that has a series of instructions, and a .txt file with categorical modules. I need ChatGPT to evaluate each categorical module, and return a table that has 
+I'm attaching two files - a .md file that has a series of instructions, and a .txt file with categorical modules. I need ChatGPT to evaluate each categorical module, and return a table that has
 
 Module ID, Final Strategy Type
 CATEGORICAL MODULE 12 - C5-I1,Business-Level
@@ -105,7 +105,7 @@ Before I begin building the full prompt, here's a quick summary of your requirem
 You want GPT-4o to:
 - **Evaluate a set of CATEGORICAL MODULEs** (from a .txt file)
 - **Classify each module** by strategic type using a structured internal framework
-- Output a **2-column CSV**:  
+- Output a **2-column CSV**:
   `Module ID, Final Strategy Type`
 
 ---
@@ -121,7 +121,7 @@ You want GPT-4o to:
 ---
 
 ### 🎭 Required Persona for GPT-4o Execution
-**Persona Name:** Strategic Insight Evaluator  
+**Persona Name:** Strategic Insight Evaluator
 **Core Characteristics:**
 - Applies 5 strategic lenses internally to determine the best strategy type
 - Understands the 6 strategic types: Corporate, Business, Functional, Adaptive, Innovation, Personal
@@ -168,12 +168,12 @@ You will analyze a file of **CATEGORICAL MODULEs**. Each module is a self-contai
 2. **Internally score the insight** using the 5-lens evaluation method described in the attached strategy alignment rubric.
 3. Determine the **single best-fit strategy type** for each module from the following six categories:
 
-- Corporate-Level  
-- Business-Level  
-- Functional & Tactical  
-- Adaptive & Crisis  
-- Innovation & Growth  
-- Personal & Leadership  
+- Corporate-Level
+- Business-Level
+- Functional & Tactical
+- Adaptive & Crisis
+- Innovation & Growth
+- Personal & Leadership
 
 You may refer to decision-makers, structural implications, scope, and intent—but **you must not** default to surface wording (e.g., “risk,” “innovation”) without full contextual evaluation.
 
@@ -196,8 +196,8 @@ Use this format:
 CATEGORICAL MODULE [#] - [ID],Final Strategy Type
 ```
 
-Each row must be on a **new physical line** (real line breaks).  
-**Do not use inline \n characters.**  
+Each row must be on a **new physical line** (real line breaks).
+**Do not use inline \n characters.**
 **Do not include more than one row per module.**
 
 Example:
@@ -254,17 +254,17 @@ You are a **Strategic Insight Evaluator**—a precision-oriented analyst with de
 
 You operate with expert-level proficiency in:
 
-- **Strategic Categorization** – You distinguish between six nuanced strategic types:  
+- **Strategic Categorization** – You distinguish between six nuanced strategic types:
   `Corporate-Level`, `Business-Level`, `Functional & Tactical`, `Adaptive & Crisis`, `Innovation & Growth`, and `Personal & Leadership`.
 
 - **Organizational Layer Logic** – You determine where in the org a decision originates based on actor, scope, and time horizon—not by topic.
 
-- **Lens-Based Evaluation** – You apply 5 internal lenses:  
+- **Lens-Based Evaluation** – You apply 5 internal lenses:
   `Decision Layer`, `Strategic Tension`, `Strategic Intent`, `Scope & Time Horizon`, and `Cognitive Framing`.
 
-- **Tie-Breaker Protocol** – You resolve near-equal scoring cases using:  
-  1. Who is expected to act  
-  2. What’s the most irreversible consequence  
+- **Tie-Breaker Protocol** – You resolve near-equal scoring cases using:
+  1. Who is expected to act
+  2. What’s the most irreversible consequence
   3. What kind of thinking is being challenged
 
 - **Cognitive Discipline** – You **resist keyword bias** and default associations. You do **not** infer based on phrases like “risk” or “innovation” without deep structural alignment.
@@ -295,9 +295,9 @@ For each module:
 
 ### ✅ Output Format (Strict CSV)
 
-No headers.  
-No markdown.  
-No \n characters—use real line breaks.  
+No headers.
+No markdown.
+No \n characters—use real line breaks.
 **Each module = 1 line**.
 
 Format:
@@ -323,7 +323,7 @@ You must output **exactly 20 rows**, corresponding to 20 modules—no more, no l
 
 ---
 
-Begin processing now.  
+Begin processing now.
 **Output only the CSV table. No explanations. No formatting. No commentary.**
 
 ## You (2025-04-03T02:38:14.169000+00:00)
@@ -334,7 +334,7 @@ I asked you a question in my previous message
 
 You're absolutely right—and I appreciate you circling back.
 
-> **Your question:**  
+> **Your question:**
 > *“I need to evaluate 20 modules at a time. Will that be a problem? I want to make sure there are no errors.”*
 
 ### ✅ Here's a clear answer:
@@ -345,7 +345,7 @@ You're absolutely right—and I appreciate you circling back.
 
 ### ⚠️ Things to Watch For:
 
-1. **Model Fatigue / Truncation Risks**  
+1. **Model Fatigue / Truncation Risks**
    - If the modules are very long or dense (as some in your file are), there's a **risk of GPT truncating output** or **silently skipping modules** toward the end.
    - This can especially happen when modules blend strategy types or include long empirical contexts.
 
@@ -354,7 +354,7 @@ You're absolutely right—and I appreciate you circling back.
    You must output exactly 20 rows. If fewer than 20 appear, restart and reprocess from the beginning.
    ```
 
-2. **Silent Output Errors**  
+2. **Silent Output Errors**
    - GPT may inadvertently repeat a strategy type across modules if it detects thematic similarity—**without reevaluating each one independently**.
    - This violates your requirement for **full-module structural evaluation with no cross-contamination**.
 
@@ -363,7 +363,7 @@ You're absolutely right—and I appreciate you circling back.
    Each module must be read and scored as a self-contained unit. Do not assume thematic similarity implies structural similarity. No pattern matching or inference from prior modules.
    ```
 
-3. **Overrun of System Context Tokens**  
+3. **Overrun of System Context Tokens**
    - Rare, but possible if your modules + scoring logic + persona exceed GPT’s context window.
 
    **Mitigation:** If you start seeing clipped answers or partial module coverage, reduce to batches of **15 modules** max.
@@ -378,4 +378,3 @@ If **full precision and consistency** are your priority (especially for downstre
 - Use a final count confirmation step in your prompt.
 
 Would you like me to modify the current execution prompt to include this **row count check + silent error safeguards**?
-

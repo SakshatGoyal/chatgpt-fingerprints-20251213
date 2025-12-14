@@ -2,7 +2,7 @@
 
 ## You (2025-04-03T04:56:15.606000+00:00)
 
-hey, this doc discusses a bunch of axes, which is great. But i want to change the name to something more relatable and something thats 1-4 words only. Fewer the better. 
+hey, this doc discusses a bunch of axes, which is great. But i want to change the name to something more relatable and something thats 1-4 words only. Fewer the better.
 
 Create more relatable, easy to understand names for the axes. Make sure its easy to understand by non business-experts. Also, make sure the name doesn't detach them from their underlying meaning
 
@@ -41,4 +41,3 @@ Absolutely — renaming the axes for broader clarity and accessibility is a smar
 ---
 
 Would you like these mapped visually in a 2-column table or slide format for teams? Or should we brainstorm versions tailored for different audiences (e.g., execs vs. researchers)?
-

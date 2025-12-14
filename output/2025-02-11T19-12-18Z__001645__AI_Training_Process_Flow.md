@@ -48,28 +48,26 @@ Dual Strategy for Optimization: The process involves both preemptive training (S
 Standardization & Governance: The emphasis on document curation and blueprinting suggests a focus on consistent and structured knowledge management.
 Iterative Improvement Cycle: The model is not static—it continuously evolves through testing, feedback, and document updates.
 
-## ChatGPT (2025-02-11T19:12:21.134491+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"file\": \"flowchart.md\"}"}
 
 ## ChatGPT (2025-02-11T19:13:54.420678+00:00)
 
-Here's a flowchart representing the AI assistant training process, structured into two main phases: **Supervised Learning** and **Reinforcement Learning**.  
+Here's a flowchart representing the AI assistant training process, structured into two main phases: **Supervised Learning** and **Reinforcement Learning**.
 
 ### **Flowchart Summary**
 1. **Supervised Learning Phase**
-   - Intent & Context Mapping  
-   - Acronym Library  
-   - Metadata Tagging  
-   - Document Curation  
-   - Document Blueprint  
+   - Intent & Context Mapping
+   - Acronym Library
+   - Metadata Tagging
+   - Document Curation
+   - Document Blueprint
 
 2. **Reinforcement Learning Phase**
-   - Testing & Feedback Evaluation  
-   - Ground Truth (Question Bank)  
-   - Document Correction  
+   - Testing & Feedback Evaluation
+   - Ground Truth (Question Bank)
+   - Document Correction
 
-Each step is connected sequentially to show the AI's training progression.  
+Each step is connected sequentially to show the AI's training progression.
 
 ---
 
@@ -100,13 +98,11 @@ flowchart TD
 
 Now, I'll render the diagram to confirm its correctness.
 
-## ChatGPT (2025-02-11T19:13:54.420737+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"mermaidCode\": \"flowchart TD\\n    A[Start AI Training] --> B[Supervised Learning Phase]\\n\\n    subgraph Supervised Learning\\n        B1[Intent & Context Mapping]\\n        B2[Acronym Library]\\n        B3[Metadata Tagging]\\n        B4[Document Curation per Standards]\\n        B5[Document Blueprint]\\n    end\\n\\n    B --> B1 --> B2 --> B3 --> B4 --> B5 --> C[Reinforcement Learning Phase]\\n\\n    subgraph Reinforcement Learning\\n        C1[Testing & Feedback Evaluation]\\n        C2[Ground Truth (Question Bank)]\\n        C3[Document Correction]\\n    end\\n\\n    C --> C1 --> C2 --> C3 --> D[AI Optimization & Deployment]\"}"}
 
 ## ChatGPT (2025-02-11T19:13:54.420866+00:00)
 
-There was an error in rendering the diagram due to the parentheses in `"Ground Truth (Question Bank)"`. I'll fix it and try again.  
+There was an error in rendering the diagram due to the parentheses in `"Ground Truth (Question Bank)"`. I'll fix it and try again.
 
 ### **Updated Diagram Code** (Fixed issue with parentheses)
 ```mermaid
@@ -133,9 +129,7 @@ flowchart TD
 ```
 I'll render it again now.
 
-## ChatGPT (2025-02-11T19:13:54.420924+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"mermaidCode\": \"flowchart TD\\n    A[Start AI Training] --> B[Supervised Learning Phase]\\n\\n    subgraph Supervised Learning\\n        B1[Intent & Context Mapping]\\n        B2[Acronym Library]\\n        B3[Metadata Tagging]\\n        B4[Document Curation per Standards]\\n        B5[Document Blueprint]\\n    end\\n\\n    B --> B1 --> B2 --> B3 --> B4 --> B5 --> C[Reinforcement Learning Phase]\\n\\n    subgraph Reinforcement Learning\\n        C1[Testing & Feedback Evaluation]\\n        C2[Ground Truth - Question Bank]\\n        C3[Document Correction]\\n    end\\n\\n    C --> C1 --> C2 --> C3 --> D[AI Optimization & Deployment]\"}"}
 
 ## ChatGPT (2025-02-11T19:13:54.421035+00:00)
 
@@ -144,4 +138,3 @@ Here is your AI training process flowchart:
 ![AI Training Process Flowchart](https://supabase.mermaidchart.com/storage/v1/object/public/chatgpt-diagrams/2025-02-11/33afe8ce-b5b4-40a2-83b8-610451a08f27.png)
 
 You can edit and save this diagram on the [MermaidChart editor](https://www.mermaidchart.com/app/mermaid-chart-save/2025-02-11/33afe8ce-b5b4-40a2-83b8-610451a08f27). Let me know if you need any modifications! 🚀
-

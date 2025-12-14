@@ -158,66 +158,66 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "The development of sophisticated cognitive capabilities—such as sensemaking, divergent thinking, and conceptual capacity—is critical for catalyzing strategic innovation, challenging the traditional focus on product-level improvements." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Mature organizations often face the challenge of transitioning from incremental improvements to disruptive, strategic innovation in competitive and saturated markets.  
-- **Underlying Beliefs & Biases:** Prevailing assumptions typically equate innovation with minor product enhancements rather than a fundamental rethinking of business models.  
-- **Expected vs. Actual Outcomes:** While organizations expect steady incremental growth from established practices, the case study reveals that true breakthrough innovation requires a significant shift in cognitive approach.  
-- **Broader Implications:** Executives must prioritize the development of higher-order cognitive skills to effectively navigate market disruptions and reimagine business frameworks.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Mature organizations often face the challenge of transitioning from incremental improvements to disruptive, strategic innovation in competitive and saturated markets.
+- **Underlying Beliefs & Biases:** Prevailing assumptions typically equate innovation with minor product enhancements rather than a fundamental rethinking of business models.
+- **Expected vs. Actual Outcomes:** While organizations expect steady incremental growth from established practices, the case study reveals that true breakthrough innovation requires a significant shift in cognitive approach.
+- **Broader Implications:** Executives must prioritize the development of higher-order cognitive skills to effectively navigate market disruptions and reimagine business frameworks.
 **[Empirical]**
 
-**Supporting Context**  
-The research presents a detailed cognitive framework involving sensemaking, strategic, critical, and divergent thinking, as exemplified by the transformation observed among Chubb program participants. The empirical evidence drawn from the case study underlines how these cognitive capabilities drive the emergence of disruptive ideas. Limitations arise from the single-case focus, which may constrain broader applicability.  
+**Supporting Context**
+The research presents a detailed cognitive framework involving sensemaking, strategic, critical, and divergent thinking, as exemplified by the transformation observed among Chubb program participants. The empirical evidence drawn from the case study underlines how these cognitive capabilities drive the emergence of disruptive ideas. Limitations arise from the single-case focus, which may constrain broader applicability.
 **[Empirical]**
 
 ---
 
-**2. Insight Statement**  
+**2. Insight Statement**
 "Entrenched organizational orthodoxies—self-imposed beliefs about success and market boundaries—severely impede strategic innovation, necessitating deliberate interventions to unfreeze established mental models." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives grapple with internal resistance rooted in longstanding business practices and dominant industry logic, which can stifle innovative approaches.  
-- **Underlying Beliefs & Biases:** There is a deeply held bias that equates stability with proven strategies, thereby undervaluing radical change and disruptive thinking.  
-- **Expected vs. Actual Outcomes:** While firms often expect to leverage historical strengths, actual market shifts demand that these rigid frameworks be actively challenged and restructured.  
-- **Broader Implications:** To sustain competitive advantage, senior leaders must foster an environment that actively questions and revises outdated paradigms, enabling transformative breakthroughs.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives grapple with internal resistance rooted in longstanding business practices and dominant industry logic, which can stifle innovative approaches.
+- **Underlying Beliefs & Biases:** There is a deeply held bias that equates stability with proven strategies, thereby undervaluing radical change and disruptive thinking.
+- **Expected vs. Actual Outcomes:** While firms often expect to leverage historical strengths, actual market shifts demand that these rigid frameworks be actively challenged and restructured.
+- **Broader Implications:** To sustain competitive advantage, senior leaders must foster an environment that actively questions and revises outdated paradigms, enabling transformative breakthroughs.
 **[Empirical]**
 
-**Supporting Context**  
-The paper draws on the Chubb case to illustrate how challenging conventional wisdom—through strategic questioning and dialogue—can dismantle established orthodoxies and lead to innovative business models, such as the global reach alliance. Despite strong contextual evidence, the findings remain largely qualitative and context-specific.  
+**Supporting Context**
+The paper draws on the Chubb case to illustrate how challenging conventional wisdom—through strategic questioning and dialogue—can dismantle established orthodoxies and lead to innovative business models, such as the global reach alliance. Despite strong contextual evidence, the findings remain largely qualitative and context-specific.
 **[Empirical]**
 
 ---
 
-**3. Insight Statement**  
+**3. Insight Statement**
 "Designing action learning programs with extended modular architectures and an end-to-end business incubation approach is essential for aligning people development with tangible economic outcomes." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** Organizations often struggle to balance the dual imperatives of immediate operational performance with long-term strategic transformation.  
-- **Underlying Beliefs & Biases:** There is a common misconception that learning initiatives are disconnected from economic impact, leading to underinvestment in transformational programs.  
-- **Expected vs. Actual Outcomes:** Traditional training programs yield short-term tactical improvements, whereas action learning’s iterative, reflective process produces deeper cognitive and cultural shifts that drive innovation.  
-- **Broader Implications:** Leaders must design and support programs that allow for iterative experimentation, prolonged reflection, and extended project execution to bridge the gap between learning and market impact.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** Organizations often struggle to balance the dual imperatives of immediate operational performance with long-term strategic transformation.
+- **Underlying Beliefs & Biases:** There is a common misconception that learning initiatives are disconnected from economic impact, leading to underinvestment in transformational programs.
+- **Expected vs. Actual Outcomes:** Traditional training programs yield short-term tactical improvements, whereas action learning’s iterative, reflective process produces deeper cognitive and cultural shifts that drive innovation.
+- **Broader Implications:** Leaders must design and support programs that allow for iterative experimentation, prolonged reflection, and extended project execution to bridge the gap between learning and market impact.
 **[Inferred]**
 
-**Supporting Context**  
-The Chubb Global Executive Program’s modular structure—with multiple residency sessions interleaved with hands-on project work—demonstrates how sustained engagement fosters both cognitive growth and viable business outcomes. While the approach is promising, its success may depend on organizational readiness and the ability to scale the model across diverse contexts.  
+**Supporting Context**
+The Chubb Global Executive Program’s modular structure—with multiple residency sessions interleaved with hands-on project work—demonstrates how sustained engagement fosters both cognitive growth and viable business outcomes. While the approach is promising, its success may depend on organizational readiness and the ability to scale the model across diverse contexts.
 **[Inferred]**
 
 ---
 
-**4. Insight Statement**  
+**4. Insight Statement**
 "Embedding the imperative of economic impact—captured by the ‘show me the money’ mandate—ensures that strategic innovation programs are evaluated by their ability to generate new revenue streams and market value, not merely by learning metrics." **[Empirical]**
 
-**Executive Decision-Making Context**  
-- **Strategic Dilemma:** The pressure to deliver immediate financial returns often leads organizations to overlook transformative, long-term innovation initiatives.  
-- **Underlying Beliefs & Biases:** There is a bias toward valuing short-term performance over strategic transformation, which can limit investment in disruptive innovation.  
-- **Expected vs. Actual Outcomes:** While incremental improvements are expected to yield predictable returns, the actual impact of breakthrough innovations requires bold initiatives and sustained commitment to action.  
-- **Broader Implications:** Integrating measurable economic objectives into strategic innovation programs is critical to securing executive buy-in and ensuring that learning translates into actionable market outcomes.  
+**Executive Decision-Making Context**
+- **Strategic Dilemma:** The pressure to deliver immediate financial returns often leads organizations to overlook transformative, long-term innovation initiatives.
+- **Underlying Beliefs & Biases:** There is a bias toward valuing short-term performance over strategic transformation, which can limit investment in disruptive innovation.
+- **Expected vs. Actual Outcomes:** While incremental improvements are expected to yield predictable returns, the actual impact of breakthrough innovations requires bold initiatives and sustained commitment to action.
+- **Broader Implications:** Integrating measurable economic objectives into strategic innovation programs is critical to securing executive buy-in and ensuring that learning translates into actionable market outcomes.
 **[Inferred]**
 
-**Supporting Context**  
-The dual focus of the Chubb program on both people development and economic impact underscores the necessity of aligning innovation initiatives with clear financial metrics. The paper documents how projects were evaluated on their potential to create new revenue streams, highlighting the inherent tension between developmental and commercial priorities. Though promising, the model’s effectiveness may vary with industry dynamics.  
+**Supporting Context**
+The dual focus of the Chubb program on both people development and economic impact underscores the necessity of aligning innovation initiatives with clear financial metrics. The paper documents how projects were evaluated on their potential to create new revenue streams, highlighting the inherent tension between developmental and commercial priorities. Though promising, the model’s effectiveness may vary with industry dynamics.
 **[Inferred]**
 
 ---
@@ -227,7 +227,7 @@ The dual focus of the Chubb program on both people development and economic impa
 - **Coverage Fit:** High — The paper provides an in-depth exploration of executive decision-making challenges, cognitive development, and strategic innovation in mature organizations.
 - **Bias & Cognitive Modeling Content:** Present — Detailed discussions on cognitive capabilities and the impact of organizational orthodoxies are integral to the analysis.
 - **Clarity of Methods & Outcomes:** Clear — The use of the Chubb Global Executive Program as a case study offers a well-articulated framework, though its single-case nature may limit generalizability.
-- **Areas with No Data:**  
+- **Areas with No Data:**
   - All sections (Insight Statement, Executive Decision-Making Context, Supporting Context) are well-supported by the paper’s content.
 
 ## You (2025-03-23T06:26:43.928000+00:00)
@@ -493,21 +493,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -520,4 +520,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T06:28:55.722855+00:00)
 
 Kuhn, J. S., & Marsick, V. J. (2005). Action learning for strategic innovation in mature organizations: Key cognitive, design and contextual considerations. *Action Learning: Research and Practice, 2*(1), 27–48. https://doi.org/10.1080/14767330500041236
-

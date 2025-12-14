@@ -4,7 +4,7 @@
 
 Hey, I need your help understanding which model to choose - GPT 4o or GPT o3-mini-high. Feel free to ask me any questions you want. Here's my intent:
 
-I have a series of categorical modules that contain a small section of content (think of it like a story or a lesson about something but in a structured way). Based on the story, I need a ChatGPT to define the functional modality of the story. I'll be attaching a text document that has about 20 modules. I need a modality for all 20 modules. I do want to make sure that each module is evaluated independently, and there's no cross contamination between the different stories, where chatGPT starts generalizing and assigns modalities based on the general collection of content rather than the individual modules. Each module has to be evaluated independently based on its merits. 
+I have a series of categorical modules that contain a small section of content (think of it like a story or a lesson about something but in a structured way). Based on the story, I need a ChatGPT to define the functional modality of the story. I'll be attaching a text document that has about 20 modules. I need a modality for all 20 modules. I do want to make sure that each module is evaluated independently, and there's no cross contamination between the different stories, where chatGPT starts generalizing and assigns modalities based on the general collection of content rather than the individual modules. Each module has to be evaluated independently based on its merits.
 
 
 Here's one example of a categorical module:
@@ -28,7 +28,7 @@ Ghorbani Asiabar, M., Ghorbani Asiabar, M., & Ghorbani Asiabar, A. (2024). Artif
 
 END OF CATEGORICAL MODULE.
 
-Below is the set of instructions for assigning a functional modality. It was written for a human, but I'll probably modify it for chatGPT. 
+Below is the set of instructions for assigning a functional modality. It was written for a human, but I'll probably modify it for chatGPT.
 
 A functional modality is the type of work or process being described — regardless of sector, company, or setting.
 
@@ -201,11 +201,11 @@ Digital Content Innovation
 Before submitting your output, verify:
 
 Question	✅ Yes / ❌ No
-Did you read the full module first?	
-Did you identify the structural work being described?	
-Is your Descriptive Insight clearly written in 1–2 sentences?	
-Is your Compressed Label only 2–3 words long?	
-Does the label reflect a function, not a belief or theme?	
+Did you read the full module first?
+Did you identify the structural work being described?
+Is your Descriptive Insight clearly written in 1–2 sentences?
+Is your Compressed Label only 2–3 words long?
+Does the label reflect a function, not a belief or theme?
 Did you avoid using company names, industries, or sectors?
 
 ## ChatGPT (2025-04-02T03:27:45.139294+00:00)
@@ -285,11 +285,11 @@ Once we’ve talked through these, I can also help **begin creating the prompt**
 
 ## You (2025-04-02T03:32:20.383000+00:00)
 
-1. I want to run all 20 as one batch. It'll be a text file and I want evaluation done individually per module. I've attached a reference file, but the ones I use will only have 20. 
+1. I want to run all 20 as one batch. It'll be a text file and I want evaluation done individually per module. I've attached a reference file, but the ones I use will only have 20.
 
-2. Its very hard to say. It'll most often be a mix of both. 
+2. Its very hard to say. It'll most often be a mix of both.
 
-3. I would Like some explainability. However, only for the first few evaluations. Later on I'll just want the end table. 
+3. I would Like some explainability. However, only for the first few evaluations. Later on I'll just want the end table.
 
 4. i do want a custom prompt, but not right now. I just want to ideate on the merits of each model
 
@@ -479,4 +479,3 @@ But if i say, 'do not use any prior context'. it
 ## ChatGPT (2025-04-02T04:06:44.991144+00:00)
 
 Ah, I see where you’re going—and you’re absolutely right to pause here. That phrase, **"do not use any prior context,"** *sounds simple*, but its meaning in a GPT’s world is
-

@@ -22,53 +22,52 @@ Write your notes in a tone that feels personal and constructive, as if Sheryl is
 Avoid surface-level or generic feedback. Your analysis should feel hard-earned, experienced, and surgical.
 
 
-
 ---
 
-## **1. People Problem:**  
+## **1. People Problem:**
 **Leaders struggle to sequence transformation because decision-making is treated as a one-off event rather than an iterative process.**
 
 ### **How might we know we’ve solved this?**
 
-- **Executives narrate decisions as *series* rather than *events***  
+- **Executives narrate decisions as *series* rather than *events***
   > You hear language like: “We’re in phase two of this,” or “We’re revisiting our assumptions now that early signals are in.” This shift from “What’s the decision?” to “Where are we in the decision arc?” reflects sequencing fluency.
 
-- **Increased reuse of strategic framing tools across cycles**  
+- **Increased reuse of strategic framing tools across cycles**
   > Leaders consistently use prompts, templates, or AI-assisted canvases (e.g., assumptions audit, stage-gate models) not just at kickoff but throughout the process. That reuse signals the team sees value in iterating — not just launching.
 
-- **Shorter lag between insight and adjustment**  
+- **Shorter lag between insight and adjustment**
   > Time from new data (e.g., a failed pilot or customer signal) to a revised course of action decreases. This behavioral loop — “see, interpret, adjust” — gets tighter, which means sequencing is working as intended.
 
 ---
 
-## **2. People Problem:**  
+## **2. People Problem:**
 **Executives unintentionally suppress experimentation by reinforcing risk-averse norms, creating environments where curiosity is stifled and staged transformation stalls.**
 
 ### **How might we know we’ve solved this?**
 
-- **Leaders actively solicit exploratory scenarios or “what if” prompts in strategic reviews**  
+- **Leaders actively solicit exploratory scenarios or “what if” prompts in strategic reviews**
   > You hear: “What’s a wild-card idea we haven’t tested yet?” or “What’s the cheapest way to learn if that’s viable?” Curiosity becomes visible in meeting dynamics, not just in innovation sprints.
 
-- **Uptick in sanctioned low-risk experiments with bounded scope and timelines**  
+- **Uptick in sanctioned low-risk experiments with bounded scope and timelines**
   > More teams are launching week-long pilots or limited-scope A/Bs before broader strategy shifts. This is a proxy for psychological safety *and* sequencing maturity — they’re not afraid to learn early.
 
-- **Reduced fear language in postmortems or planning cycles**  
+- **Reduced fear language in postmortems or planning cycles**
   > Fewer statements like “We can’t afford to get this wrong” and more like “Let’s learn fast what the risk profile actually is.” This signals leaders are shifting from fear of failure to confidence in learning loops.
 
 ---
 
-## **3. People Problem:**  
+## **3. People Problem:**
 **Cognitive inertia among senior leaders delays reassessment of outdated assumptions, weakening their ability to time and trigger transformation effectively.**
 
 ### **How might we know we’ve solved this?**
 
-- **Leaders proactively surface and question their own assumptions in strategy reviews**  
+- **Leaders proactively surface and question their own assumptions in strategy reviews**
   > You hear: “What might no longer be true that was true last year?” or “Are we still betting on X because it worked before, or because it’s right for now?” This is a high-fidelity signal of mental model fluidity.
 
-- **Adoption of explicit assumption-challenge rituals in planning (e.g., “red team” reviews, contrarian prompts)**  
+- **Adoption of explicit assumption-challenge rituals in planning (e.g., “red team” reviews, contrarian prompts)**
   > The use of structured mechanisms — whether AI-facilitated or human-driven — to stress-test core beliefs reflects a cultural shift toward *strategic agility*, not just consistency.
 
-- **Shift in timing of key moves — e.g., re-prioritization happening *before* KPIs fail**  
+- **Shift in timing of key moves — e.g., re-prioritization happening *before* KPIs fail**
   > You see course corrections not just *after* missed targets, but *in anticipation of* shifts. That preemptive adjustment signals that mental models are alive and evolving — not just being protected.
 
 ---
@@ -85,7 +84,7 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 
 ### **1. People Problem: Decision-making is treated as a one-off event.**
 
-#### **Signal: Executives narrate decisions as *series* rather than *events***  
+#### **Signal: Executives narrate decisions as *series* rather than *events***
 📝 **[language ≠ behavior], [false positive]**
 
 > *Language can be adopted before cognition shifts.* A leader can say “phase two” because it’s in the script, not because they’re truly re-evaluating based on new inputs. Narrative ≠ mental model. Also, this phrasing can be mimicked performatively—especially once leaders sense it’s what’s expected in forums.
@@ -94,7 +93,7 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 
 ---
 
-#### **Signal: Increased reuse of strategic framing tools across cycles**  
+#### **Signal: Increased reuse of strategic framing tools across cycles**
 📝 **[already happening], [too abstract], [tools ≠ transformation]**
 
 > Tool reuse can signal procedural compliance, not cognitive agility. Strategic canvases often get repurposed as checkbox artifacts. Doesn’t tell us *why* they’re being reused or whether they’re influencing course correction. This could easily be a process hygiene win, not a decision sequencing shift.
@@ -103,7 +102,7 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 
 ---
 
-#### **Signal: Shorter lag between insight and adjustment**  
+#### **Signal: Shorter lag between insight and adjustment**
 📝 **[strong signal], [but: attribution gap]**
 
 > This is closer to the heart of it — time compression reflects adaptive muscle. But need to disambiguate *who* is adjusting. Is this exec-driven or middle-layer compensating for indecision above? Also, “shorter lag” can be confounded by external pressure rather than internal fluency.
@@ -114,7 +113,7 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 
 ### **2. People Problem: Leaders unintentionally suppress experimentation.**
 
-#### **Signal: Leaders solicit exploratory “what if” prompts in reviews**  
+#### **Signal: Leaders solicit exploratory “what if” prompts in reviews**
 📝 **[language ≠ behavior], [false safety]**
 
 > “What’s the wild card?” is often used to *appear* open, but doesn’t mean that input is weighted or actioned. It can mask a performative curiosity loop. Especially in rooms with power distance, these prompts don’t always invite real risk—just safe dissent.
@@ -123,7 +122,7 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 
 ---
 
-#### **Signal: Uptick in sanctioned low-risk experiments**  
+#### **Signal: Uptick in sanctioned low-risk experiments**
 📝 **[already happening], [false positive]**
 
 > This is a lagging indicator. Most organizations *do* allow low-risk experiments — the key friction is in scaling insights upward or unlearning prior beliefs. A/Bs don’t signal transformed curiosity unless they threaten a sacred cow. Volume ≠ signal unless it creates heat.
@@ -132,7 +131,7 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 
 ---
 
-#### **Signal: Reduced fear language in postmortems**  
+#### **Signal: Reduced fear language in postmortems**
 📝 **[unverifiable], [tone ≠ trust]**
 
 > This feels like a sentiment tracker, not a behavioral one. Leaders may edit tone without changing mental posture. Also, in high-stakes contexts, removing fear language could signal *performative optimism* rather than safety. Risk literacy isn’t always in the room.
@@ -143,7 +142,7 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 
 ### **3. People Problem: Cognitive inertia delays assumption shifts.**
 
-#### **Signal: Leaders question their own assumptions in reviews**  
+#### **Signal: Leaders question their own assumptions in reviews**
 📝 **[language ≠ behavior], [false positive], [ego-safe frame]**
 
 > Self-questioning can be a socially safe behavior, especially when phrased as hypothetical. But it often lacks consequence. Leaders may acknowledge outdated beliefs without *unhooking* from them. Also prone to echo chamber risks — the framing can stay polite even when wrong.
@@ -152,7 +151,7 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 
 ---
 
-#### **Signal: Adoption of assumption-challenge rituals**  
+#### **Signal: Adoption of assumption-challenge rituals**
 📝 **[promising but fragile], [ritual ≠ revision]**
 
 > Love the intent here, but rituals often get gamified. Red teams get invited, thanked, then ignored. Without decision consequences, these forums signal culture, not cognition. Also worth asking: are the same assumptions being challenged repeatedly? That’s a tell.
@@ -161,7 +160,7 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 
 ---
 
-#### **Signal: Re-prioritization happens *before* KPIs fail**  
+#### **Signal: Re-prioritization happens *before* KPIs fail**
 📝 **[strong signal], [but risk of false causality]**
 
 > This gets closer to lived decisional fluency. Preemptive adjustment is rare and diagnostic. But — beware the retrospective rewrite: teams often *narrate* it as preemptive even if it wasn’t. Also, early course correction might be reactive to fear, not assumption shift.
@@ -171,4 +170,3 @@ Absolutely. Here's how I would critique each success signal for diagnostic sharp
 ---
 
 Let me know if you want a clean rewrite of the strongest success signals, or if you'd like to layer in signals specific to cross-functional complexity or narrative conflict in decision rooms.
-

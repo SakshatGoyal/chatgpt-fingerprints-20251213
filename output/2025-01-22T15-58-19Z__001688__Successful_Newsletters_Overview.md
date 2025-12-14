@@ -71,7 +71,7 @@ While their core distribution channel is email, some of these newsletters (like 
 
 ## You (2025-01-22T16:37:07.504608+00:00)
 
-here's a brief i got from my employer. 
+here's a brief i got from my employer.
 
 "Vamshi will be sending weekly or biweekly updates to executives of different. You can say sectors or areas for the lack of a better technical term.
 
@@ -83,7 +83,7 @@ Maybe we can research on list of KPI’s for operations of a commerce business u
 
 Cheena is explaining how all the scopes on the SOW are connected to the culture scope
 
-For example, if there is a value that is defined as part of the culture and for that value, there are two or three sets of behaviors that will be translated into how you report to your ex ex and newsletter or presentations or just the medium for that 
+For example, if there is a value that is defined as part of the culture and for that value, there are two or three sets of behaviors that will be translated into how you report to your ex ex and newsletter or presentations or just the medium for that
 
 So we’ll work on a diagram today to show that how do we actually real realize the things or the four components that we define in culture to the actual final note that could be a newsletter could be a meeting could be a presentation or a video or even an interaction between team members
 
@@ -415,4 +415,3 @@ You're absolutely right—without direct access to these newsletters, it can be 
 ---
 
 Would you like me to create a few mock examples based on any of the newsletters or formats you’re interested in? Let me know!
-

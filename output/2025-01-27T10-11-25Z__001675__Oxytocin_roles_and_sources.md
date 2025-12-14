@@ -58,4 +58,3 @@ Oxytocin, often called the "love hormone" or "bonding hormone," is a hormone and
    - Interacting with pets, especially dogs, has been shown to increase oxytocin in both humans and animals.
 
 In summary, oxytocin is vital for emotional and physical well-being, and nurturing social connections, touch, and mindfulness can naturally boost its levels.
-

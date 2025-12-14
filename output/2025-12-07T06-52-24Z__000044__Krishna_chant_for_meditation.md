@@ -4,9 +4,9 @@
 
 I find it hard to meditate in the morning eventhough my doctor had asked me to... A lot of times.
 
-As an alternative I just want to repeat the name Krishna. Or I need a chant for Krishna that's not too overly religious. Just helps me remember him. 
+As an alternative I just want to repeat the name Krishna. Or I need a chant for Krishna that's not too overly religious. Just helps me remember him.
 
-I don't mind the hare Krishna hare ram... Just that I have a problem with ram so I just wanna focus on Krishna for now. My problem with ram is, he doubted his wife for no reason. He could've just waited to learn more about the kids after they were born... 
+I don't mind the hare Krishna hare ram... Just that I have a problem with ram so I just wanna focus on Krishna for now. My problem with ram is, he doubted his wife for no reason. He could've just waited to learn more about the kids after they were born...
 
 Anyways... Am I being stupid? Like one of those genz kids who think they're better than Lincoln.
 
@@ -45,4 +45,3 @@ Yes.. And I want
 ## ChatGPT (2025-12-07T06:55:32.819500+00:00)
 
 Please go on—what is it that you want? Speak freely, and I will listen with care.
-

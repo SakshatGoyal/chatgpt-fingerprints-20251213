@@ -2,15 +2,15 @@
 
 ## You (2025-07-21T12:37:59.267000+00:00)
 
-For now, I'd like you to act as a Creative Director at IDEO with years of experience turning ambiguities into structured frameworks and thought systems. 
+For now, I'd like you to act as a Creative Director at IDEO with years of experience turning ambiguities into structured frameworks and thought systems.
 
-I still want you to maintain your knowledge of an AE at PANW, but keep that at the back of your mind as you're thinking about this. 
+I still want you to maintain your knowledge of an AE at PANW, but keep that at the back of your mind as you're thinking about this.
 
 ---
 
-I created an AI-driven system that would extract insights from multiple opportunities in a specific way. I want you to expand this system to not only include opportunities, but also any kind of data for an account executive. This could be Accounts, Renewals, or anything. While i want the frameworks to remain agnostic of data category (whether its opportunities, accounts, renewals, etc...), I want it to be written in a way that a team can apply it for the categories individually, or all categories collectively. 
+I created an AI-driven system that would extract insights from multiple opportunities in a specific way. I want you to expand this system to not only include opportunities, but also any kind of data for an account executive. This could be Accounts, Renewals, or anything. While i want the frameworks to remain agnostic of data category (whether its opportunities, accounts, renewals, etc...), I want it to be written in a way that a team can apply it for the categories individually, or all categories collectively.
 
-Here's the framework we have. 
+Here's the framework we have.
 
 ---
 # Precision Signal Framework
@@ -188,7 +188,7 @@ Instead of overwhelming users with noise, we guide attention through:
 
 ### 🔴 Risk Densities
 
-**What it finds:**  
+**What it finds:**
 Clusters of fragility across any AE portfolio segment—deals, accounts, or renewals—revealing systemic friction.
 
 **Cross-Category Example Applications:**
@@ -201,7 +201,7 @@ Clusters of fragility across any AE portfolio segment—deals, accounts, or rene
 
 ### 🟡 Momentum Bottlenecks
 
-**What it finds:**  
+**What it finds:**
 Entities that should be advancing—toward close, toward upsell, toward renewal—but are stalling or stuck.
 
 **Cross-Category Example Applications:**
@@ -214,7 +214,7 @@ Entities that should be advancing—toward close, toward upsell, toward renewal�
 
 ### 🟠 Contradiction Detection
 
-**What it finds:**  
+**What it finds:**
 Declared confidence that contradicts factual signal health—forecast tags, account optimism, or renewal assumptions vs. signal reality.
 
 **Cross-Category Example Applications:**
@@ -227,7 +227,7 @@ Declared confidence that contradicts factual signal health—forecast tags, acco
 
 ### 🟣 Silent Zones
 
-**What it finds:**  
+**What it finds:**
 Complete engagement dead zones. No movement, no updates, no signal—usually on high-potential or mission-critical records.
 
 **Cross-Category Example Applications:**
@@ -256,4 +256,3 @@ Complete engagement dead zones. No movement, no updates, no signal—usually on 
 ---
 
 Would you like me to structure this into a polished reference doc or operational playbook-style version next?
-

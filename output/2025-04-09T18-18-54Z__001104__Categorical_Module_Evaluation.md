@@ -85,4 +85,3 @@ CATEGORICAL MODULE 40 - C2-I6,Startup Decision Frameworks,Limited Mandates,Seque
 CATEGORICAL MODULE 43 - C2-I6,Decision Architecture Design,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
 CATEGORICAL MODULE 49 - C2-I6,Human-AI Collaboration Design,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice
 CATEGORICAL MODULE 2 - C3-I1,AI Capability Staging,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Fully Systematized
-

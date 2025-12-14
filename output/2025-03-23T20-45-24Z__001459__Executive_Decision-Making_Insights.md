@@ -152,86 +152,86 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Key Themes:** The paper highlights a process-oriented approach to decision-making, the importance of inclusive team involvement, adopting a collaborative inquiry mindset, ensuring psychological safety, and consistently reiterating strategic goals.
 - **Core Motivations:** The central challenge addressed is the pervasive inefficacy in managerial decision-making—underscored by research linking decision quality with superior financial outcomes—and the need for methods that counteract cognitive biases and misaligned team dynamics.
 - **Methodological Clarification:** Drawing on expert commentary from Harvard Business School Professors and empirical research (including surveys, academic studies, and case examples from organizations like Google and Cloverpop), the article offers a synthesis of best practices. While it integrates quantitative correlations (e.g., a 95% correlation between decision-making effectiveness and financial performance) with qualitative insights, the evidence is primarily presented in a practitioner-oriented narrative.
-- **Relevance Assessment:** For contemporary executives facing rapid change and complex strategic challenges, the insights provide actionable guidance on restructuring decision processes to improve both team dynamics and organizational outcomes. citeturn0file0
+- **Relevance Assessment:** For contemporary executives facing rapid change and complex strategic challenges, the insights provide actionable guidance on restructuring decision processes to improve both team dynamics and organizational outcomes.
 
 ---
 
 ### **Insight 1: Embracing a Process-Oriented Approach**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Viewing decision-making as an evolving process rather than a singular event leads to more robust outcomes and minimizes the risks of oversimplification. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Managers often mistakenly treat key decisions as isolated events rather than parts of an ongoing process.  
-- **Underlying Beliefs & Biases:** A common bias is the overreliance on immediate intuition, which oversimplifies complex strategic challenges.  
-- **Expected vs. Actual Outcomes:** A structured, multi-step decision-making process—emphasizing issue framing, team building, and iterative evaluation—yields more informed and sustainable decisions.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Managers often mistakenly treat key decisions as isolated events rather than parts of an ongoing process.
+- **Underlying Beliefs & Biases:** A common bias is the overreliance on immediate intuition, which oversimplifies complex strategic challenges.
+- **Expected vs. Actual Outcomes:** A structured, multi-step decision-making process—emphasizing issue framing, team building, and iterative evaluation—yields more informed and sustainable decisions.
 - **Broader Implications:** Adopting a process mindset can enhance organizational performance by ensuring decisions are continually refined and aligned with strategic goals. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Expert commentary from HBS Professor Len Schlesinger reinforces that significant decisions are rarely made in a single moment; instead, they unfold through deliberate stages including framing, team involvement, and continuous reassessment. **[Empirical]**
 
 ---
 
 ### **Insight 2: Leveraging Team Involvement to Mitigate Biases**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Engaging team members in the decision-making process democratizes input and actively mitigates managerial biases, thereby fostering innovative and balanced outcomes. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Relying solely on top-down decisions risks ignoring diverse perspectives and entrenched cognitive biases.  
-- **Underlying Beliefs & Biases:** Managers may assume their individual insights suffice, overlooking the benefits of collective intelligence and the risk of groupthink.  
-- **Expected vs. Actual Outcomes:** Incorporating multiple viewpoints leads to more innovative solutions and surfaces hidden biases that can skew judgment.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Relying solely on top-down decisions risks ignoring diverse perspectives and entrenched cognitive biases.
+- **Underlying Beliefs & Biases:** Managers may assume their individual insights suffice, overlooking the benefits of collective intelligence and the risk of groupthink.
+- **Expected vs. Actual Outcomes:** Incorporating multiple viewpoints leads to more innovative solutions and surfaces hidden biases that can skew judgment.
 - **Broader Implications:** Institutionalizing team involvement not only improves decision quality but also enhances team cohesion and drives long-term strategic success. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper cites research from Royal Society Open Science, which demonstrates that team-based decision-making taps into collective knowledge, leading to more creative and effective problem-solving. **[Empirical]**
 
 ---
 
 ### **Insight 3: Shifting from Advocacy to Inquiry in Collaborative Mindsets**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Transitioning from a combative advocacy stance to a balanced inquiry approach transforms debates into constructive dialogues, fostering better decision outcomes. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** The tension between promoting personal viewpoints (advocacy) versus engaging in open, critical evaluation (inquiry) can undermine effective collaboration.  
-- **Underlying Beliefs & Biases:** An inherent bias towards defending preexisting positions may prevent the critical reassessment of alternatives.  
-- **Expected vs. Actual Outcomes:** Adopting an inquiry mindset encourages balanced debate and significantly improves the quality of strategic decisions—as evidenced by a study noting that diverse, inquiry-driven teams produce up to 60% better results.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** The tension between promoting personal viewpoints (advocacy) versus engaging in open, critical evaluation (inquiry) can undermine effective collaboration.
+- **Underlying Beliefs & Biases:** An inherent bias towards defending preexisting positions may prevent the critical reassessment of alternatives.
+- **Expected vs. Actual Outcomes:** Adopting an inquiry mindset encourages balanced debate and significantly improves the quality of strategic decisions—as evidenced by a study noting that diverse, inquiry-driven teams produce up to 60% better results.
 - **Broader Implications:** Encouraging inquiry over advocacy may drive a cultural shift that supports sustained innovation and competitive agility. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Drawing on insights from HBS Professor David Garvin and findings from the Cloverpop study, the article underscores that teams embracing inquiry yield markedly superior decision results. **[Empirical]**
 
 ---
 
 ### **Insight 4: Cultivating Psychological Safety to Enhance Decision Quality**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Establishing psychological safety is fundamental for enabling candid dialogue and the free flow of ideas, which in turn bolsters decision-making effectiveness. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Without a safe environment, team members may hesitate to share dissenting opinions, leading to suboptimal decisions.  
-- **Underlying Beliefs & Biases:** Traditional hierarchies and power dynamics often discourage vulnerability, perpetuating a cycle where only dominant voices are heard.  
-- **Expected vs. Actual Outcomes:** When psychological safety is prioritized—as demonstrated in research by Google—teams are more likely to engage openly, resulting in enhanced performance and more innovative solutions.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Without a safe environment, team members may hesitate to share dissenting opinions, leading to suboptimal decisions.
+- **Underlying Beliefs & Biases:** Traditional hierarchies and power dynamics often discourage vulnerability, perpetuating a cycle where only dominant voices are heard.
+- **Expected vs. Actual Outcomes:** When psychological safety is prioritized—as demonstrated in research by Google—teams are more likely to engage openly, resulting in enhanced performance and more innovative solutions.
 - **Broader Implications:** Investing in psychological safety can catalyze transformative cultural change that not only improves decision-making but also secures a lasting competitive advantage. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper highlights research by Google and remarks from HBS Professor Amy Edmondson, both of which indicate that a secure, trusting environment is essential for extracting diverse perspectives and driving high-quality decisions. **[Empirical]**
 
 ---
 
 ### **Insight 5: Reiterating Goals to Sustain Strategic Focus**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Regularly revisiting and clarifying the decision’s underlying goals prevents drift, ensuring that every step remains aligned with the overarching strategic vision. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Managers often become mired in the details of decision processes, risking the loss of sight of primary objectives.  
-- **Underlying Beliefs & Biases:** There exists a tendency to over-focus on procedural intricacies at the expense of strategic alignment, resulting in fragmented outcomes.  
-- **Expected vs. Actual Outcomes:** Continuous goal reiteration helps maintain clarity, ensuring that decision-making remains focused and outcomes are aligned with long-term organizational objectives.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Managers often become mired in the details of decision processes, risking the loss of sight of primary objectives.
+- **Underlying Beliefs & Biases:** There exists a tendency to over-focus on procedural intricacies at the expense of strategic alignment, resulting in fragmented outcomes.
+- **Expected vs. Actual Outcomes:** Continuous goal reiteration helps maintain clarity, ensuring that decision-making remains focused and outcomes are aligned with long-term organizational objectives.
 - **Broader Implications:** Embedding this practice safeguards against strategic misalignment and fosters an environment where every decision contributes coherently to the firm’s mission. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 HBS Professor Len Schlesinger’s insights emphasize that without regular reference to the decision’s ultimate purpose, teams risk deviating from their core objectives—a caution that reinforces the need for constant strategic focus. **[Empirical]**
 
 ---
@@ -241,10 +241,10 @@ HBS Professor Len Schlesinger’s insights emphasize that without regular refere
 - **Coverage Fit:** High — The paper effectively addresses key aspects of executive decision-making, offering actionable techniques and drawing on relevant empirical studies.
 - **Bias & Cognitive Modeling Content:** Present — It explicitly tackles implicit biases (e.g., in team involvement and mindset) and outlines cognitive approaches (advocacy vs. inquiry) that influence strategic decisions.
 - **Clarity of Methods & Outcomes:** Clear — The synthesis combines qualitative expert insights with quantitative research findings, though the evidence is presented in a practitioner-friendly narrative rather than as deep empirical analysis.
-- **Areas with No Data:**  
-  - Insight Statement: Fully supported.  
-  - Executive Decision-Making Context: Adequately detailed.  
-  - Supporting Context: Sufficient empirical backing provided.  
+- **Areas with No Data:**
+  - Insight Statement: Fully supported.
+  - Executive Decision-Making Context: Adequately detailed.
+  - Supporting Context: Sufficient empirical backing provided.
 
 Each section is substantiated with relevant evidence from the paper, ensuring that the insights are both actionable and rigorously grounded.
 
@@ -537,21 +537,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -564,4 +564,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T20:48:25.328612+00:00)
 
 Gavin, M. (2022, December 21). *5 key decision-making techniques for managers*. Harvard Business School Online. https://online.hbs.edu/blog/post/decision-making-techniques
-

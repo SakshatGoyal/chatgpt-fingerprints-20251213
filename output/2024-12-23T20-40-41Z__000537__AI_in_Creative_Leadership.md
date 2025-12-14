@@ -1,8 +1,6 @@
 # AI in Creative Leadership
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2024-12-23T20:40:41.803274+00:00)
 
@@ -47,7 +45,7 @@ Transcript: "(00:00) artificial intelligence hey hello everybody this is Alex fr
    - She predicts improvements in current AI capabilities and innovative applications of existing technologies over the next decade.
 
 9. **Contact Information**:
-   - Jenna is available on LinkedIn, Twitter (@anything), and via email at jenna.niven@rga.com for professional inquiries and discussions. 
+   - Jenna is available on LinkedIn, Twitter (@anything), and via email at jenna.niven@rga.com for professional inquiries and discussions.
 
 Let me know if you need a more detailed breakdown of specific sections!
 
@@ -67,4 +65,3 @@ The transcript does not explicitly mention **Rose, the hotel chatbot** or delve 
    - AI was used to streamline tasks like document tagging, reducing manual work time significantly.
 
 If you’re specifically looking for insights into Rose or similar hotel chatbot implementations, you might need to explore other sources or reach out directly to Jenna via her mentioned contact channels (LinkedIn, Twitter, or email). Alternatively, let me know if you'd like help finding resources related to hotel chatbots like Rose!
-

@@ -2,12 +2,12 @@
 
 ## You (2025-08-17T07:19:08.599000+00:00)
 
-I'm going to share a couple of exchanges between ChatGPT and me. For now, just internalize these, then I'll ask you some questions. 
+I'm going to share a couple of exchanges between ChatGPT and me. For now, just internalize these, then I'll ask you some questions.
 ---
 ---
 ---
 Me:
-So, I need you to put on your professional hat as an AI researcher and scientist who's special skillset involves designing custom GPTs. 
+So, I need you to put on your professional hat as an AI researcher and scientist who's special skillset involves designing custom GPTs.
 
 How much of making a custom GPT is about prompt engineering vs context engineering?
 
@@ -88,7 +88,7 @@ Would you like me to sketch out a **framework for evaluating your own custom GPT
 Me:
 Actually, I want to create an outline for research. My goal is to understand frameworks and any additional research professionals have done on the topic of context engineering. You were able to set up a good outline of the main levers: Contextual framing, context injection, context structuring, context weighting, contextual boundaries... But I'm sure most professional researchers may or may not have necessarily classified their research in these terms. If they have, that's great. But if not, then I'm sure it's something new, and if it has enough citations, then it's probably a novel idea or approach to context engineering that we don't know about. Could you think through how we could structure our research?
 
-My goal is to create a research plan that centers around analyzing both research papers, as well as reputable sources like Databricks, OpenAI, Anthropic, IBM, and maybe others. In addition, it wouldn't be bad to also look at some practical applications from startups. 
+My goal is to create a research plan that centers around analyzing both research papers, as well as reputable sources like Databricks, OpenAI, Anthropic, IBM, and maybe others. In addition, it wouldn't be bad to also look at some practical applications from startups.
 
 Start by thinking through all the context you might need to understand more about my goals and objectives clearly, and ask me additional questions. I am looking to develop a comprehensive outline for a research project focused on understanding the various frameworks and research findings related to context engineering. In our previous discussions, you provided a solid foundation by outlining the main levers associated with this field, including contextual framing, context injection, context structuring, context weighting, and contextual boundaries. However, I recognize that many professional researchers may not categorize their work using these specific terminologies. If such classifications do exist within the literature, that would be highly beneficial. Conversely, if they do not, this could indicate a novel approach to context engineering that warrants attention, particularly if it has garnered significant citations or recognition in the field.
 
@@ -201,7 +201,6 @@ I am particularly interested in mapping case studies that demonstrate how startu
 Should our approach be descriptive in nature, surveying how various stakeholders characterize context engineering? I believe it is important to acknowledge that terminology can vary significantly across different fields, and embracing this diversity can enhance our understanding and application of the concept. Thus, identifying and analyzing these differing perspectives will be beneficial in creating a comprehensive overview.
 
 
-
 ---
 Based on the information I have provided in this as well as the previous response, outline a comprehensive multi-phase research and synthesis plan. This should encompass the following stages:
 
@@ -215,7 +214,7 @@ Based on the information I have provided in this as well as the previous respons
 
 ---
 
-As you engage in this process, envision yourself as a seasoned research director at IDEO, a leader with extensive experience in overseeing research teams that tackle innovative and complex subjects. Throughout your career, you have honed your ability to distill vague and ambiguous insights into clear, actionable strategies that drive meaningful outcomes. 
+As you engage in this process, envision yourself as a seasoned research director at IDEO, a leader with extensive experience in overseeing research teams that tackle innovative and complex subjects. Throughout your career, you have honed your ability to distill vague and ambiguous insights into clear, actionable strategies that drive meaningful outcomes.
 
 In this particular project, you are taking on the challenge of guiding your team in the specialized field of context engineering. This involves not only identifying and understanding the nuances of various contexts but also translating those insights into practical applications that can enhance user experiences and inform design decisions. Your leadership will be crucial in helping the team navigate this intricate landscape, as you encourage collaboration, creativity, and critical thinking to uncover valuable insights that can be transformed into impactful solutions.
 Each phase should detail specific tasks and outline the approaches to be considered for clarity and organization throughout the research process.
@@ -554,17 +553,17 @@ This plan gives you a **systematic yet creative** path to: (1) map and name the 
 
 ## ChatGPT (2025-08-17T07:19:09.600559+00:00)
 
-Understood — I’ve internalized these exchanges.  
+Understood — I’ve internalized these exchanges.
 
 You want to build a **rigorous, multi-phase research plan** to study *context engineering* in custom GPTs, drawing on both **academic theory** and **practical applications** across labs, startups, and adjacent fields. You’ve already articulated preferences around scope (LLM era, 2020–present, but linked to antecedents), methodology (hybrid inductive + deductive, mixed-methods), and output (both synthesis and practical toolkit).
 
-I’m ready for your next question — whether that’s refining the framework further, stress-testing the plan for feasibility, or zooming in on specific methods (e.g., experiments, startup case studies, evaluation metrics).  
+I’m ready for your next question — whether that’s refining the framework further, stress-testing the plan for feasibility, or zooming in on specific methods (e.g., experiments, startup case studies, evaluation metrics).
 
 👉 Do you want me to now **challenge the assumptions** in that research plan (as a stress-test), or would you like me to **start breaking it down into a more tactical workplan** (timelines, resource estimates, research team composition)?
 
 ## You (2025-08-17T07:21:37.061000+00:00)
 
-I would like you to thoroughly review and analyze the research plan. Please consider the specific objectives and key research questions outlined in the document. Based on this context, I need you to modify it into a comprehensive, multiphase research plan that utilizes only secondary research methodologies. Importantly, we will not be relying on any forms of primary research, such as interviews, surveys, or diary studies. 
+I would like you to thoroughly review and analyze the research plan. Please consider the specific objectives and key research questions outlined in the document. Based on this context, I need you to modify it into a comprehensive, multiphase research plan that utilizes only secondary research methodologies. Importantly, we will not be relying on any forms of primary research, such as interviews, surveys, or diary studies.
 
 Instead, I expect you to make a plan that helps us leverage various online resources and databases, including academic journals, industry reports, market analysis, and relevant articles, to gather data and insights. Your plan should clearly outline each phase of the research process, including the methods of data collection, analysis, and synthesis of findings. Additionally, please identify potential challenges and limitations of relying solely on secondary research, as well as strategies to mitigate these issues. The final output should provide a well-structured roadmap that we can execute effectively based on the available resources on the internet.
 
@@ -574,7 +573,7 @@ As you engage in this process, envision yourself as Paul G Allen. Throughout you
 
 **Paul (Director’s pass): A secondary‑research–only blueprint to map “Context Engineering” and turn it into playbooks**
 
-You asked for a rigorous, *secondary research–only* plan that still carries the systems lens and ambition of the original multi‑method design. Below is a refit of your Stage‑1→4 plan into a complete desk‑research program—no interviews, no surveys, no new experiments—using only open and reputable internet sources (journals, preprints, standards, vendor docs, market and technical reports). I preserve your research questions, levers, and deliverables, but re‑tool the *how* so every step is executed with literature, official documentation, and public artifacts. fileciteturn0file0
+You asked for a rigorous, *secondary research–only* plan that still carries the systems lens and ambition of the original multi‑method design. Below is a refit of your Stage‑1→4 plan into a complete desk‑research program—no interviews, no surveys, no new experiments—using only open and reputable internet sources (journals, preprints, standards, vendor docs, market and technical reports). I preserve your research questions, levers, and deliverables, but re‑tool the *how* so every step is executed with literature, official documentation, and public artifacts. fileciteturn0file0
 
 ---
 
@@ -582,9 +581,9 @@ You asked for a rigorous, *secondary research–only* plan that still carries th
 
 **Objective.** Build a living evidence map and synthesis of *context engineering* in the LLM era (2020–present)—definitions, mechanisms, guardrails, and evaluation methods—grounded in academic literature and high‑quality industry sources (OpenAI, Anthropic, Databricks, IBM, standards bodies). Outputs include a taxonomy, design patterns/anti‑patterns, evaluation playbooks, governance guidance, and documented case collations sourced only from public materials.
 
-**Primary research questions (unchanged).** Concept & language (RQ1–2); mechanisms & efficacy (RQ3–4); evaluation & causality (RQ5); practice & adoption (RQ6); governance & risk (RQ7–8). fileciteturn0file0
+**Primary research questions (unchanged).** Concept & language (RQ1–2); mechanisms & efficacy (RQ3–4); evaluation & causality (RQ5); practice & adoption (RQ6); governance & risk (RQ7–8). fileciteturn0file0
 
-**Method stance.** Systematic + scoping review procedures (PRISMA 2020 and PRISMA‑S for search reporting); bibliometrics (OpenAlex); structured evidence extraction; thematic synthesis; secondary quantitative synthesis (effect size extraction, vote‑counting where appropriate); comparative analysis of public artifacts; realist narrative for mechanisms. citeturn0search0turn0search12turn0search1
+**Method stance.** Systematic + scoping review procedures (PRISMA 2020 and PRISMA‑S for search reporting); bibliometrics (OpenAlex); structured evidence extraction; thematic synthesis; secondary quantitative synthesis (effect size extraction, vote‑counting where appropriate); comparative analysis of public artifacts; realist narrative for mechanisms.
 
 ---
 
@@ -592,14 +591,14 @@ You asked for a rigorous, *secondary research–only* plan that still carries th
 
 **0.1 Governance & protocol**
 
-- Register a lightweight review protocol (internal repo). Adopt **PRISMA 2020** for reporting and **PRISMA‑S** for search documentation; create prebuilt PRISMA flow templates for monthly updates. citeturn0search0turn0search12turn7search0  
-- Define *grey literature policy*: restrict to official org docs and high‑signal engineering blogs from target domains (OpenAI, Anthropic, Databricks, IBM, NIST, OWASP, Stanford CRFM).  
-- Archive every cited web page with **Save Page Now** (Wayback) and record snapshot links for reproducibility. citeturn7search4turn7search7
+- Register a lightweight review protocol (internal repo). Adopt **PRISMA 2020** for reporting and **PRISMA‑S** for search documentation; create prebuilt PRISMA flow templates for monthly updates.
+- Define *grey literature policy*: restrict to official org docs and high‑signal engineering blogs from target domains (OpenAI, Anthropic, Databricks, IBM, NIST, OWASP, Stanford CRFM).
+- Archive every cited web page with **Save Page Now** (Wayback) and record snapshot links for reproducibility.
 
 **0.2 Tooling**
 
-- **Corpus & metadata:** OpenAlex (API) for discovery, de‑duplication, co‑citation/clustering; Document manager (Zotero) with custom fields (lever tags, eval metrics, risks). citeturn0search1turn0search19  
-- **Quality signals:** scite “Smart Citations” to see whether claims are supported/contested; maintain a credibility score per source. citeturn7search3
+- **Corpus & metadata:** OpenAlex (API) for discovery, de‑duplication, co‑citation/clustering; Document manager (Zotero) with custom fields (lever tags, eval metrics, risks).
+- **Quality signals:** scite “Smart Citations” to see whether claims are supported/contested; maintain a credibility score per source.
 
 Deliverables: protocol, source whitelist/blacklist, PRISMA templates, archiving SOP.
 
@@ -609,27 +608,27 @@ Deliverables: protocol, source whitelist/blacklist, PRISMA templates, archiving 
 
 **1.1 Systematic literature search (peer‑reviewed & preprints)**
 
-- **Databases:** arXiv, ACL Anthology, NeurIPS/ICLR/ICML proceedings, TACL/TMLR, ACM DL/IEEE Xplore (abstracts only if paywalled), OpenAlex aggregation.  
-- **Seeds & exemplars:**  
-  - **RAG origin** (Lewis et al., 2020) anchors “injection” and provenance discussions. citeturn0search2turn0search6  
-  - **Long‑context limits** (“Lost in the Middle”) informs weighting/structuring hypotheses. citeturn0search3turn0search11turn0search7  
-  - **Memory & persistence:** MemGPT; **adaptive retrieval:** Self‑RAG; **graph‑structured context:** GraphRAG. citeturn4search0turn4search1turn4search2
-- **Queries** (examples):  
+- **Databases:** arXiv, ACL Anthology, NeurIPS/ICLR/ICML proceedings, TACL/TMLR, ACM DL/IEEE Xplore (abstracts only if paywalled), OpenAlex aggregation.
+- **Seeds & exemplars:**
+  - **RAG origin** (Lewis et al., 2020) anchors “injection” and provenance discussions.
+  - **Long‑context limits** (“Lost in the Middle”) informs weighting/structuring hypotheses.
+  - **Memory & persistence:** MemGPT; **adaptive retrieval:** Self‑RAG; **graph‑structured context:** GraphRAG.
+- **Queries** (examples):
   `("retrieval-augmented" OR RAG OR "in-context learning" OR "long context" OR memory OR "prompt injection" OR reranking) AND (evaluation OR ablation OR benchmark OR "guardrails") AND year:2020-2025` (expand with synonyms per RQ/lever).
 
 **1.2 Grey literature (official sources only)**
 
-- **OpenAI:** Cookbook pages for RAG and evals (concepts, patterns). citeturn1search6turn1search3turn5search4  
-- **Anthropic:** Prompt engineering overview, guardrail guidance. citeturn2search0turn1search1  
-- **Databricks:** RAG evaluation and data‑foundation best practices. citeturn1search2turn1search8turn1search5  
-- **IBM:** watsonx.governance RAG evaluation/monitoring guidance. citeturn2search1turn2search13turn2search4  
-- **Standards & policy:** NIST **AI RMF 1.0** + Generative AI profile for risk framing. citeturn2search2turn2search8turn2search18  
-- **Security:** **OWASP Top‑10 for LLMs**—Prompt Injection and related risks. citeturn6search2turn6search0  
-- **Evaluation ecosystems:** Stanford **HELM**, OpenAI **Evals**, TruLens **RAG triad**, Ragas metrics; LangChain/LlamaIndex evaluation docs (for taxonomy, not execution). citeturn5search0turn5search1turn5search2turn3search2turn3search1turn3search0
+- **OpenAI:** Cookbook pages for RAG and evals (concepts, patterns).
+- **Anthropic:** Prompt engineering overview, guardrail guidance.
+- **Databricks:** RAG evaluation and data‑foundation best practices.
+- **IBM:** watsonx.governance RAG evaluation/monitoring guidance.
+- **Standards & policy:** NIST **AI RMF 1.0** + Generative AI profile for risk framing.
+- **Security:** **OWASP Top‑10 for LLMs**—Prompt Injection and related risks.
+- **Evaluation ecosystems:** Stanford **HELM**, OpenAI **Evals**, TruLens **RAG triad**, Ragas metrics; LangChain/LlamaIndex evaluation docs (for taxonomy, not execution).
 
 **1.3 Screening & logging**
 
-- Apply inclusion/exclusion (LLM‑era, explicit method, relevance to context levers/eval). Track with PRISMA flow; dedupe via DOIs/OpenAlex IDs; archive snapshots. citeturn0search12turn0search1
+- Apply inclusion/exclusion (LLM‑era, explicit method, relevance to context levers/eval). Track with PRISMA flow; dedupe via DOIs/OpenAlex IDs; archive snapshots.
 
 Deliverables: **Master bibliography**, **PRISMA flow**, **source registry** with credibility flags.
 
@@ -637,15 +636,15 @@ Deliverables: **Master bibliography**, **PRISMA flow**, **source registry** with
 
 ## Phase 2 — Evidence extraction (Weeks 2–6)
 
-**2.1 Data model (fields)**  
+**2.1 Data model (fields)**
 - Bibliometrics (venue, year, citations), **lever(s)** (framing/injection/structuring/weighting/boundaries), task/domain, datasets, **metrics** (accuracy, groundedness, recall/precision, cost), evaluation type (human, LLM‑as‑judge, hybrid), safety/governance elements, security posture (OWASP mapping), limitations.
 
-**2.2 Extraction & normalization**  
-- Use structured templates; capture **reported** numbers only (no new runs). Normalize heterogeneous metrics (e.g., exact‑match vs F1) via standardized effect sizes when feasible; otherwise **vote‑count** with direction‑of‑effect.  
-- Record **evaluation harnesses** cited (HELM, Evals), and whether papers used reranking, **long‑context** methods, or **memory**—link to our levers. citeturn5search0turn5search1
+**2.2 Extraction & normalization**
+- Use structured templates; capture **reported** numbers only (no new runs). Normalize heterogeneous metrics (e.g., exact‑match vs F1) via standardized effect sizes when feasible; otherwise **vote‑count** with direction‑of‑effect.
+- Record **evaluation harnesses** cited (HELM, Evals), and whether papers used reranking, **long‑context** methods, or **memory**—link to our levers.
 
-**2.3 Credibility weighting**  
-- Weight peer‑reviewed > arXiv > vendor blog; up/down‑weight by scite support/contradict counts and presence of ablations. citeturn7search3
+**2.3 Credibility weighting**
+- Weight peer‑reviewed > arXiv > vendor blog; up/down‑weight by scite support/contradict counts and presence of ablations.
 
 Deliverables: **Evidence table** (lever × outcome), **quality/credibility scores**.
 
@@ -653,25 +652,25 @@ Deliverables: **Evidence table** (lever × outcome), **quality/credibility score
 
 ## Phase 3 — Analysis & sense‑making (Weeks 5–10)
 
-**3.1 Thematic synthesis (qualitative)**  
-- Build a **codebook** seeded by your lever taxonomy; allow open codes for emergent concepts (e.g., *graph‑structured context*, *virtual memory*, *adaptive retrieval*).  
-- Produce a **terminology crosswalk** linking synonyms across fields (e.g., “retrieval‑augmented generation,” “toolformer‑style tool use,” “attention steering,” “reranking”).  
-- Derive **design patterns/anti‑patterns** with traceable citations (e.g., *Mitigate middle‑position decay* → chunking + reranking; motivated by “Lost in the Middle”). citeturn0search3
+**3.1 Thematic synthesis (qualitative)**
+- Build a **codebook** seeded by your lever taxonomy; allow open codes for emergent concepts (e.g., *graph‑structured context*, *virtual memory*, *adaptive retrieval*).
+- Produce a **terminology crosswalk** linking synonyms across fields (e.g., “retrieval‑augmented generation,” “toolformer‑style tool use,” “attention steering,” “reranking”).
+- Derive **design patterns/anti‑patterns** with traceable citations (e.g., *Mitigate middle‑position decay* → chunking + reranking; motivated by “Lost in the Middle”).
 
-**3.2 Bibliometrics & landscape**  
-- Use OpenAlex to build co‑citation and keyword networks; cluster schools of thought (RAG, long‑context, memory, security/governance). Track recency and growth curves by topic. citeturn0search1
+**3.2 Bibliometrics & landscape**
+- Use OpenAlex to build co‑citation and keyword networks; cluster schools of thought (RAG, long‑context, memory, security/governance). Track recency and growth curves by topic.
 
-**3.3 Secondary quantitative synthesis**  
-- Where studies report comparable outcomes, compute standardized effect sizes; otherwise aggregate via vote‑counting + **strength of evidence** grading.  
-- Structure results per lever:  
-  - **Injection (RAG)**—evidence of improved factuality vs parametric‑only baselines. citeturn0search6  
-  - **Weighting/structuring**—effects of ordering/reranking and schema on long contexts. citeturn0search11  
-  - **Persistence/memory**—benefits/risks from virtual memory layers. citeturn4search3  
-  - **Adaptive retrieval**—Self‑RAG’s gains via critique/reflection. citeturn4search4  
-  - **Graph‑structured context**—when GraphRAG helps with narrative corpora. citeturn4search8
+**3.3 Secondary quantitative synthesis**
+- Where studies report comparable outcomes, compute standardized effect sizes; otherwise aggregate via vote‑counting + **strength of evidence** grading.
+- Structure results per lever:
+  - **Injection (RAG)**—evidence of improved factuality vs parametric‑only baselines.
+  - **Weighting/structuring**—effects of ordering/reranking and schema on long contexts.
+  - **Persistence/memory**—benefits/risks from virtual memory layers.
+  - **Adaptive retrieval**—Self‑RAG’s gains via critique/reflection.
+  - **Graph‑structured context**—when GraphRAG helps with narrative corpora.
 
-**3.4 Governance & risk synthesis**  
-- Map tactics to **NIST AI RMF** outcomes and **OWASP LLM Top‑10** risks; extract concrete mitigations (e.g., model/system boundaries, output handling, provenance). citeturn2search2turn2search18turn6search2
+**3.4 Governance & risk synthesis**
+- Map tactics to **NIST AI RMF** outcomes and **OWASP LLM Top‑10** risks; extract concrete mitigations (e.g., model/system boundaries, output handling, provenance).
 
 Deliverables: **Theme maps**, **cluster visuals**, **lever‑by‑outcome effect summaries**, **governance mapping**.
 
@@ -683,11 +682,11 @@ Deliverables: **Theme maps**, **cluster visuals**, **lever‑by‑outcome effect
 
 **Targets & angles (examples).**
 
-- **OpenAI:** Cookbook patterns for RAG and Evals—what they endorse (chunking, reranking, eval harnesses), where they caution. citeturn1search6turn5search4  
-- **Anthropic:** Prompt engineering & guardrail guidance; system‑prompt boundaries; long‑context tips. citeturn2search0turn2search12  
-- **Databricks:** Evaluation best practices for RAG and “data foundation” guidance. citeturn1search2turn1search8  
-- **IBM:** Monitoring/evaluating RAG with watsonx.governance; enterprise controls. citeturn2search13turn2search4  
-- **Open‑source ecosystems:** LlamaIndex and LangChain evaluation docs; **Ragas**/TruLens metrics (as *referenced* taxonomies). citeturn3search0turn3search1turn3search2turn5search2
+- **OpenAI:** Cookbook patterns for RAG and Evals—what they endorse (chunking, reranking, eval harnesses), where they caution.
+- **Anthropic:** Prompt engineering & guardrail guidance; system‑prompt boundaries; long‑context tips.
+- **Databricks:** Evaluation best practices for RAG and “data foundation” guidance.
+- **IBM:** Monitoring/evaluating RAG with watsonx.governance; enterprise controls.
+- **Open‑source ecosystems:** LlamaIndex and LangChain evaluation docs; **Ragas**/TruLens metrics (as *referenced* taxonomies).
 
 Deliverable: **Case Compendium (secondary)**—one‑page profiles with lever coverage, claimed metrics (as‑reported), governance elements, and source links.
 
@@ -695,14 +694,14 @@ Deliverable: **Case Compendium (secondary)**—one‑page profiles with lever co
 
 ## Phase 5 — Integration & translation (Weeks 9–12)
 
-**5.1 Pattern library & decision playbooks**  
-- For each lever, publish a **pattern card** with: definition, when it helps/hurts (conditions of use), evidence strength, failure modes, and *example prompts/structures* harvested from official docs (attribution included). (E.g., **Weighting via reranking**; **Boundary‑first prompting** per Anthropic’s overview; **Eval‑first RAG** per Databricks/TruLens/Ragas.) citeturn2search0turn1search2turn5search2turn3search2
+**5.1 Pattern library & decision playbooks**
+- For each lever, publish a **pattern card** with: definition, when it helps/hurts (conditions of use), evidence strength, failure modes, and *example prompts/structures* harvested from official docs (attribution included). (E.g., **Weighting via reranking**; **Boundary‑first prompting** per Anthropic’s overview; **Eval‑first RAG** per Databricks/TruLens/Ragas.)
 
-**5.2 Evaluation playbook (secondary)**  
-- Synthesize metrics and harnesses that appear most often and are well‑documented (HELM, Evals, RAG‑specific metrics like groundedness/context relevance/answer relevance). Provide *templates* and mappings—not new experiments. citeturn5search0turn5search1
+**5.2 Evaluation playbook (secondary)**
+- Synthesize metrics and harnesses that appear most often and are well‑documented (HELM, Evals, RAG‑specific metrics like groundedness/context relevance/answer relevance). Provide *templates* and mappings—not new experiments.
 
-**5.3 Governance guide**  
-- Map design choices to **NIST AI RMF** functions and **OWASP** mitigations (prompt‑injection defenses, output handling, provenance). citeturn2search2turn6search2
+**5.3 Governance guide**
+- Map design choices to **NIST AI RMF** functions and **OWASP** mitigations (prompt‑injection defenses, output handling, provenance).
 
 Deliverables: **Design pattern library**, **evaluation playbook (secondary)**, **governance guide**, **terminology crosswalk**.
 
@@ -710,72 +709,72 @@ Deliverables: **Design pattern library**, **evaluation playbook (secondary)**, *
 
 ## Phase 6 — Final outputs & operating rhythm (Weeks 12–14)
 
-1) **Landscape report** (modular): executive brief; definitions & cross‑field crosswalk; evidence review by lever; security/governance implications; case compendium; maturity model.  
-2) **Practitioner toolkit (secondary)**: checklists per lever, source‑attributed examples, *no* prescriptive benchmarks that require new data.  
-3) **Interactive knowledge base**: searchable evidence tables, bibliometric visualizations, and archived links.  
+1) **Landscape report** (modular): executive brief; definitions & cross‑field crosswalk; evidence review by lever; security/governance implications; case compendium; maturity model.
+2) **Practitioner toolkit (secondary)**: checklists per lever, source‑attributed examples, *no* prescriptive benchmarks that require new data.
+3) **Interactive knowledge base**: searchable evidence tables, bibliometric visualizations, and archived links.
 4) **Update cadence**: monthly corpus refresh with PRISMA‑style diffs; quarterly synthesis refresh.
 
 ---
 
 ## Methods reference (what we will rely on)
 
-- **Review/reporting:** PRISMA 2020; **PRISMA‑S** for search transparency. citeturn0search0turn7search0  
-- **Discovery/bibliometrics:** **OpenAlex** (API tutorials, R packages) for clustering and growth curves. citeturn0search1turn0search9turn0search13  
-- **Core technical pillars for levers:**  
-  - **RAG** (injection): Lewis et al., 2020. citeturn0search10  
-  - **Long‑context limits** (weighting/structuring implications): Liu et al., 2023/2024. citeturn0search11  
-  - **Memory/persistence:** MemGPT. citeturn4search3  
-  - **Adaptive retrieval & critique:** Self‑RAG. citeturn4search4  
-  - **Graph‑structured context:** GraphRAG. citeturn4search8  
-- **Industry patterns:** OpenAI Cookbook; Anthropic docs; Databricks RAG evaluation; IBM watsonx governance articles. citeturn1search6turn2search0turn1search2turn2search13  
-- **Security & governance:** NIST AI RMF 1.0 & Playbook; OWASP LLM Top‑10. citeturn2search2turn2search18turn6search2  
-- **Evaluation ecosystems:** HELM; OpenAI Evals; TruLens RAG triad; Ragas metrics; LangChain/LlamaIndex evaluation docs (for taxonomy). citeturn5search0turn5search1turn5search2turn3search2turn3search1turn3search0
+- **Review/reporting:** PRISMA 2020; **PRISMA‑S** for search transparency.
+- **Discovery/bibliometrics:** **OpenAlex** (API tutorials, R packages) for clustering and growth curves.
+- **Core technical pillars for levers:**
+  - **RAG** (injection): Lewis et al., 2020.
+  - **Long‑context limits** (weighting/structuring implications): Liu et al., 2023/2024.
+  - **Memory/persistence:** MemGPT.
+  - **Adaptive retrieval & critique:** Self‑RAG.
+  - **Graph‑structured context:** GraphRAG.
+- **Industry patterns:** OpenAI Cookbook; Anthropic docs; Databricks RAG evaluation; IBM watsonx governance articles.
+- **Security & governance:** NIST AI RMF 1.0 & Playbook; OWASP LLM Top‑10.
+- **Evaluation ecosystems:** HELM; OpenAI Evals; TruLens RAG triad; Ragas metrics; LangChain/LlamaIndex evaluation docs (for taxonomy).
 
 ---
 
 ## Risks, constraints, and mitigation (secondary‑only reality)
 
-1) **Heterogeneous metrics & tasks.** Different papers report different metrics/datasets; vendor blogs may use bespoke measures.  
+1) **Heterogeneous metrics & tasks.** Different papers report different metrics/datasets; vendor blogs may use bespoke measures.
    - *Mitigation:* normalize where possible; otherwise **vote‑count** and grade evidence strength; explicitly tag comparability and avoid spurious averages.
 
-2) **Publication and survivorship bias.** Positive results over‑represented; vendor claims can be promotional.  
-   - *Mitigation:* include *negative/neutral* results when available; use scite “support/contrast” signals; privilege peer‑reviewed and ablation‑heavy work. citeturn7search3
+2) **Publication and survivorship bias.** Positive results over‑represented; vendor claims can be promotional.
+   - *Mitigation:* include *negative/neutral* results when available; use scite “support/contrast” signals; privilege peer‑reviewed and ablation‑heavy work.
 
-3) **Terminology drift.** Adjacent fields name similar mechanisms differently.  
+3) **Terminology drift.** Adjacent fields name similar mechanisms differently.
    - *Mitigation:* maintain a **crosswalk** and map synonyms to your lever taxonomy; capture the author’s original definitions.
 
-4) **Ephemeral web content/paywalls.** Docs move or vanish; some sources locked behind subscriptions.  
-   - *Mitigation:* archive every cited page (Wayback); prefer public standards and official docs; log paywall abstracts with alternative open preprints. citeturn7search4
+4) **Ephemeral web content/paywalls.** Docs move or vanish; some sources locked behind subscriptions.
+   - *Mitigation:* archive every cited page (Wayback); prefer public standards and official docs; log paywall abstracts with alternative open preprints.
 
-5) **Temporal instability (model updates).** Claims tied to specific model versions age quickly.  
+5) **Temporal instability (model updates).** Claims tied to specific model versions age quickly.
    - *Mitigation:* record model/version/timestamp with each claim; flag “time‑sensitive” findings; rely on mechanisms rather than one‑off numbers.
 
-6) **No primary experiments.** We cannot run new benchmarks, replicate, or interview practitioners.  
+6) **No primary experiments.** We cannot run new benchmarks, replicate, or interview practitioners.
    - *Mitigation:* emphasize *mechanism‑evidence* narratives, ablation‑based findings in literature, and cross‑source triangulation; clearly label “as‑reported” metrics.
 
 ---
 
 ## Team & cadence (how we run it like an IDEO‑style lab)
 
-- **Roles:** bibliometrics lead (OpenAlex), synthesis lead (qual), quantitative lead (secondary meta‑analysis), governance & security lead (NIST/OWASP mapping), librarian/archivist (PRISMA‑S, Wayback), editor/story lead (pattern cards).  
+- **Roles:** bibliometrics lead (OpenAlex), synthesis lead (qual), quantitative lead (secondary meta‑analysis), governance & security lead (NIST/OWASP mapping), librarian/archivist (PRISMA‑S, Wayback), editor/story lead (pattern cards).
 - **Rituals:** twice‑weekly stand‑ups; weekly evidence wall updates; fortnightly synthesis reviews; monthly release train (“living review” cut).
 
 ---
 
 ## Timeline (indicative 12–14 weeks)
 
-- **Weeks 1–3:** Phase 0–1 (protocols, search, archiving, initial screen).  
-- **Weeks 2–6:** Phase 2 (extraction & normalization).  
-- **Weeks 5–10:** Phase 3–4 (synthesis; artifact review).  
-- **Weeks 9–12:** Phase 5 (pattern/playbook/governance drafts).  
+- **Weeks 1–3:** Phase 0–1 (protocols, search, archiving, initial screen).
+- **Weeks 2–6:** Phase 2 (extraction & normalization).
+- **Weeks 5–10:** Phase 3–4 (synthesis; artifact review).
+- **Weeks 9–12:** Phase 5 (pattern/playbook/governance drafts).
 - **Weeks 12–14:** Phase 6 (report, toolkit, knowledge base; publication & handover).
 
 ---
 
 ## What “good” looks like (Allen’s bar)
 
-- A **coherent map** that unifies RAG, long‑context methods, memory, and security into one design space.  
-- **Actionable pattern cards** and **evaluation/gov mappings** engineers can use tomorrow—each pattern grounded in specific sources (papers or official docs), not lore.  
+- A **coherent map** that unifies RAG, long‑context methods, memory, and security into one design space.
+- **Actionable pattern cards** and **evaluation/gov mappings** engineers can use tomorrow—each pattern grounded in specific sources (papers or official docs), not lore.
 - A **living evidence base** that can be updated as fast as the field moves.
 
 > *Strategy note:* We’re not just cataloging tricks. We’re building the operating system for context—one lever at a time—so teams can reason about trade‑offs with evidence and ship with confidence.
@@ -784,22 +783,21 @@ Deliverables: **Design pattern library**, **evaluation playbook (secondary)**, *
 
 ### Appendices
 
-**A. Source domains (whitelist, examples)**  
-- Research: arXiv, ACL Anthology, TACL/TMLR, NeurIPS/ICLR/ICML proceedings; Stanford CRFM (HELM). citeturn5search0  
-- Industry: OpenAI Cookbook/Evals; Anthropic docs; Databricks engineering; IBM watsonx; NIST; OWASP. citeturn1search6turn5search1turn2search0turn1search2turn2search1turn2search2turn6search2
+**A. Source domains (whitelist, examples)**
+- Research: arXiv, ACL Anthology, TACL/TMLR, NeurIPS/ICLR/ICML proceedings; Stanford CRFM (HELM).
+- Industry: OpenAI Cookbook/Evals; Anthropic docs; Databricks engineering; IBM watsonx; NIST; OWASP.
 
-**B. Starter query bank**  
-- *“retrieval‑augmented generation” OR RAG* AND *(evaluation OR ablation OR groundedness)* AND *2020:2025*  
-- *“long context” OR “context window”* AND *evaluation OR “Lost in the Middle”*  
+**B. Starter query bank**
+- *“retrieval‑augmented generation” OR RAG* AND *(evaluation OR ablation OR groundedness)* AND *2020:2025*
+- *“long context” OR “context window”* AND *evaluation OR “Lost in the Middle”*
 - *prompt injection* AND *OWASP*; *NIST AI RMF* AND *generative*
 
-**C. Extraction template (fields)**  
+**C. Extraction template (fields)**
 - Citation; lever(s); task/domain; datasets; metrics & numbers (as reported); eval harness (HELM/Evals/RAGAS/TruLens); risks/guardrails; governance mapping (NIST/OWASP); limitations; archival URL.
 
-**D. Evidence grading rubric (secondary)**  
+**D. Evidence grading rubric (secondary)**
 - Level A: peer‑reviewed + ablations + public data/code; B: peer‑reviewed/preprint with partial ablations; C: vendor docs with method detail; D: opinion pieces—exclude.
 
 ---
 
 If you want, I can immediately spin up the first *PRISMA‑S–compliant* search strings and a **ranked seed list** (papers + official blogs) for each lever so the team can begin extraction on Day 1.
-

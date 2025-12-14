@@ -60,10 +60,9 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T20:47:43.125930+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 44 - C3-I5,Cognitive Fog,Capability Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 45 - C3-I5,Cognitive Fog,Capability Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 37 - C3-I3,Value Clash,Evidence Frame,Unknown,Unknown,Central vs. Flexible,Culture Clash,Ignored Insight  
-CATEGORICAL MODULE 14 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,Unknown,Plan vs. React,Lost Direction,Certainty Illusion  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 44 - C3-I5,Cognitive Fog,Capability Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 45 - C3-I5,Cognitive Fog,Capability Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 37 - C3-I3,Value Clash,Evidence Frame,Unknown,Unknown,Central vs. Flexible,Culture Clash,Ignored Insight
+CATEGORICAL MODULE 14 - C2-I1,Cognitive Fog,Evidence Frame,Unknown,Unknown,Plan vs. React,Lost Direction,Certainty Illusion
 CATEGORICAL MODULE 2 - C5-I1,Cognitive Fog,Evidence Frame,Unknown,Unknown,Plan vs. React,Lost Direction,Belief Bubble
-

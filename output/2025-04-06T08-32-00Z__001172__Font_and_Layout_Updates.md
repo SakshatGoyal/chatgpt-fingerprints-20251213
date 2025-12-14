@@ -6,15 +6,13 @@ I have the following code, and i need you to help me make the following edts
 
 1. I want all fonts to be 'Anonymous Pro' available on google fonts on this page (https://fonts.google.com/specimen/Anonymous+Pro?categoryFilters=Appearance:%2FMonospace%2FMonospace;Feeling:%2FExpressive%2FBusiness)
 
-This includes all headings, tooltips, buttons, filters, literally anything on the screen. 
+This includes all headings, tooltips, buttons, filters, literally anything on the screen.
 
 
-2. Right now the dropdown filters are 3 in a row. I want to set a guideline wherein we set a fixed width of 240px, and the continue wrapping to the next line based on the available screen width. They'll have a 16px padding in between them horizontally, with a vertical spacing of about 24 px. 
+2. Right now the dropdown filters are 3 in a row. I want to set a guideline wherein we set a fixed width of 240px, and the continue wrapping to the next line based on the available screen width. They'll have a 16px padding in between them horizontally, with a vertical spacing of about 24 px.
 
 
-I have more changes, but we'll work through that later. 
-
-
+I have more changes, but we'll work through that later.
 
 
 import pandas as pd
@@ -291,7 +289,7 @@ def dropdown_filter_block(col):
         html.Label(f"{col}:"),
         dcc.Dropdown(
             id=f'filter-{col}',
-            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())] 
+            options=[{'label': v, 'value': v} for v in sorted(df_full[col].unique())]
                 if col in df_full.columns else [],
             multi=True,
             placeholder=f"Highlight by {col}..."
@@ -317,7 +315,6 @@ app.layout = html.Div([
     ),
     html.Div(id='debug-output', style={'marginTop': '20px', 'whiteSpace': 'pre-wrap', 'fontFamily': 'monospace'})
 ], style={'fontFamily': "'Source Code Pro', monospace"})
-    
 
 
 # A small convenience to produce default "None" for each filter
@@ -566,4 +563,3 @@ This sets:
 ---
 
 That's it for these two edits. Let me know the next batch when ready!
-

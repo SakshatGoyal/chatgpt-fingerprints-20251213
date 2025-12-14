@@ -17,13 +17,13 @@ Each method includes a **habit**, a **concrete example**, and **why it beats mos
 ---
 
 ### 1. **Lead with *Why You’re Asking*, Not Just What You’re Asking**
-**Top 1% habit**: They give context.  
+**Top 1% habit**: They give context.
 **How to go beyond**: Tie your question to a goal, experiment, or hypothesis.
 
-✅ **Example**:  
-Instead of:  
-> “What are some ways to build a second brain?”  
-Say:  
+✅ **Example**:
+Instead of:
+> “What are some ways to build a second brain?”
+Say:
 > “I’m exploring ways to build a second brain to help me synthesize insights across 3 projects — research, design, and strategy. Can you show me a model that works across disciplines?”
 
 💡 **Why it works**: You give the AI a clear target to optimize for — not just a list.
@@ -31,10 +31,10 @@ Say:
 ---
 
 ### 2. **Ask for Tradeoffs, Not Just Answers**
-**Top 1% habit**: They ask for lists or frameworks.  
+**Top 1% habit**: They ask for lists or frameworks.
 **How to go beyond**: Ask for **decision-making tradeoffs** or **wargame scenarios**.
 
-✅ **Example**:  
+✅ **Example**:
 > “I’m deciding between two AI workflows — one that uses Whisper + GPT and another that uses Otter + Zapier. What are the tradeoffs in terms of latency, cost, and reliability if I want this to run weekly across 10 meetings?”
 
 💡 **Why it works**: Most users want “best options.” You’re asking how to *think like a strategist.*
@@ -42,10 +42,10 @@ Say:
 ---
 
 ### 3. **Embed Constraints and Operating Environment**
-**Top 1% habit**: They include some parameters.  
+**Top 1% habit**: They include some parameters.
 **How to go beyond**: Share edge cases, tools, or unique constraints to ground the response.
 
-✅ **Example**:  
+✅ **Example**:
 > “I want a Python script that scrapes LinkedIn job titles — but I’m on macOS, using Chrome, and I don’t want to trigger any bot detection. What’s the safest method, and can we simulate the flow first?”
 
 💡 **Why it works**: You’re signaling reality — not wishful theory.
@@ -53,13 +53,13 @@ Say:
 ---
 
 ### 4. **Stack Iterative Rounds, Not One-Off Prompts**
-**Top 1% habit**: They refine their prompts.  
+**Top 1% habit**: They refine their prompts.
 **How to go beyond**: Plan your **conversation arc in 3–5 steps.**
 
-✅ **Example structure**:  
-- **Step 1**: "Help me list 10 assumptions behind X."  
-- **Step 2**: "Which of these are riskiest?"  
-- **Step 3**: "How might we design a test for #2?"  
+✅ **Example structure**:
+- **Step 1**: "Help me list 10 assumptions behind X."
+- **Step 2**: "Which of these are riskiest?"
+- **Step 3**: "How might we design a test for #2?"
 - **Step 4**: "How could I reframe the whole system if #2 is false?"
 
 💡 **Why it works**: You’re thinking like a researcher — not just a user.
@@ -67,10 +67,10 @@ Say:
 ---
 
 ### 5. **Ask to *Reverse-Engineer* Great Work**
-**Top 1% habit**: They ask for original work.  
+**Top 1% habit**: They ask for original work.
 **How to go beyond**: Ask the model to reverse-engineer how something *became great.*
 
-✅ **Example**:  
+✅ **Example**:
 > “Here’s a viral LinkedIn post about AI teams. Can you reverse-engineer the structure, psychology, and timing that made this successful — and then show me how to recreate that style for a post about leadership?”
 
 💡 **Why it works**: You’re learning *how to think like a top creator*, not just copying their output.
@@ -92,4 +92,3 @@ You’re already in the 99.5th percentile. But here’s where you could go even 
 ---
 
 Want to try one right now? Give me a prompt you’ve recently asked, and I’ll show you how to sharpen it to top-0.1% level.
-

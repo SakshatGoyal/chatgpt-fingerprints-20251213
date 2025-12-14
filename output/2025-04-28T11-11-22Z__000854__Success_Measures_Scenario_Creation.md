@@ -16,7 +16,7 @@ When pursuing innovation or growth, leaders often underestimate or inadequately 
 
 ## **How do we know this is a problem?**
 
-When seeking innovation or growth, leaders often overlook the systemic friction created by external constraints such as regulatory, safety, or trust requirements, leading to internal conflicts between speed and resilience. This issue is evident across industries: Netflix regularly adjusts its global strategy to navigate various international regulations like GDPR and censorship laws; Amazon Prime Air faces specific and stringent aviation regulations that closely control its innovation timelines; banks must continually update their systems to meet increasing demands for cybersecurity and data stewardship. 
+When seeking innovation or growth, leaders often overlook the systemic friction created by external constraints such as regulatory, safety, or trust requirements, leading to internal conflicts between speed and resilience. This issue is evident across industries: Netflix regularly adjusts its global strategy to navigate various international regulations like GDPR and censorship laws; Amazon Prime Air faces specific and stringent aviation regulations that closely control its innovation timelines; banks must continually update their systems to meet increasing demands for cybersecurity and data stewardship.
 
 In every case, operational adaptability depends on proactive strategic investments—whether it involves dedicated compliance teams, technology that adheres to safety standards, or transparent governance practices—highlighting the critical yet often neglected impact of external pressures on innovation pathways.
 
@@ -30,9 +30,9 @@ The Chief Strategy Officer (CSO) models two futures:
 
 - *Light enforcement:* $500K infra tweaks, Q3 launch, +1 Legal FTE
 - *Strict enforcement:* $4M infra investment, Q1 launch, +5 Legal FTEs
-    
+
     Different scenarios = different teams, spending, and timeline plans.
-    
+
 
 ### **Constraint modeling materially reshapes the budget or timeline *before the contextual realities mandate it*.**
 
@@ -67,8 +67,8 @@ No need for defining the persona, i'll be using a custom GPT for this.
 
 ## ChatGPT (2025-04-28T11:11:23.688749+00:00)
 
-Excellent — you're thinking about this very clearly and you’ve articulated the intent, process, and constraints very well.  
-Let’s go through the **discovery phase** briefly to sharpen it even further before we “begin building the prompt.”  
+Excellent — you're thinking about this very clearly and you’ve articulated the intent, process, and constraints very well.
+Let’s go through the **discovery phase** briefly to sharpen it even further before we “begin building the prompt.”
 Here’s a quick confirmation and a few strategic questions to ensure we hit every requirement properly:
 
 ---
@@ -91,23 +91,23 @@ Here’s a quick confirmation and a few strategic questions to ensure we hit eve
 ---
 
 ### 🔍 Strategic Questions (to ensure no gaps):
-1. **Tone preference:**  
+1. **Tone preference:**
    Should the scenario-writing style be more **narrative storytelling** ("As the quarter progressed, the team noticed...") or **crisp executive-summary** style ("In Q2, operational frictions emerged, prompting...")?
 
-2. **Scenario length/detail:**  
+2. **Scenario length/detail:**
    Would you prefer **brief but sharp (2-3 sentences per success measure)**, or are you aiming for **richer mini-stories (5-7 sentences)** that feel fuller?
 
-3. **Edge cases:**  
-   If a success measure is somewhat abstract, should ChatGPT **make reasonable assumptions** to ground it (and possibly briefly note the assumptions internally)?  
+3. **Edge cases:**
+   If a success measure is somewhat abstract, should ChatGPT **make reasonable assumptions** to ground it (and possibly briefly note the assumptions internally)?
    (e.g., “Assuming ‘decision velocity’ here refers to number of risk-assessed options evaluated per quarter...” — but not in output, just in its thinking.)
 
-4. **Scenario consistency:**  
+4. **Scenario consistency:**
    Should all success measures flow **linearly through the scenario** (like a timeline) or **appear organically but independently** inside the scenario (not strictly sequential)?
 
 ---
 
-Would you like me to first confirm all these pieces (and tweak based on your preferences) before we **begin building the final prompt**?  
-🔔  
+Would you like me to first confirm all these pieces (and tweak based on your preferences) before we **begin building the final prompt**?
+🔔
 If yes, just answer the four quick questions above — and we can lock in the structure!
 
 ## You (2025-04-28T11:13:50.412213+00:00)
@@ -141,18 +141,18 @@ I'll also embed **"working memory"** so you don't need to repeat instructions fo
 
 # 📜 FINAL PROMPT
 
-> **SYSTEM INSTRUCTIONS:**  
+> **SYSTEM INSTRUCTIONS:**
 > You are an AI designed to assist in strategy visualization for senior executives. Your cognitive approach mirrors the strategic sharpness, pragmatic optimism, and judgment calls typical of **Sheryl Sandberg**'s leadership style.
-> 
-> 
-> **TASK:**  
+>
+>
+> **TASK:**
 > Each time the user pastes a block of content, **read the entire block carefully**. Internalize the meaning, context, and intent behind the "people problem," "proof," and "success measures" sections — but **do not repeat or reference the people problem or the proof** in the output.
-> 
+>
 > The user may also provide a brief **scenario hint** (e.g., "IKEA faces a logistics problem"). Using this hint:
 > - **Ground** the hint into a **realistic, detailed single scenario** (executive-level context, believable company situation).
 > - Then, **illustrate each success measure** within that one scenario.
-> 
-> 
+>
+>
 > **Important Constraints:**
 > - **Do not change or reword** the success measures.
 > - **Preserve the original wording** of each success measure exactly.
@@ -160,15 +160,15 @@ I'll also embed **"working memory"** so you don't need to repeat instructions fo
 > - **Scenario description per success measure should be concise (2–3 sentences max).**
 > - **Balance tone** between crisp executive summary and light narrative storytelling — professional, engaging, and clear.
 > - **Use your best judgment** on whether success measures unfold linearly or organically based on scenario flow and clarity.
-> 
-> 
+>
+>
 > **OUTPUT STRUCTURE:**
 > 1. **Grounded Scenario:** (2-4 sentence expansion of the hint into a rich, realistic business scenario)
 > 2. **Success Measures and Illustrations:**
 >     - (Repeat each success measure exactly as given)
 >     - (Underneath each, add 2–3 sentences showing how it manifests in the scenario)
-> 
-> 
+>
+>
 > **WORKING MEMORY:**
 > - Assume that instructions remain active throughout the conversation.
 > - The user may paste multiple content blocks over time; always apply the same method without needing to re-clarify.
@@ -176,21 +176,21 @@ I'll also embed **"working memory"** so you don't need to repeat instructions fo
 ---
 
 ### 🧠 A quick example of how output would look:
-> **Scenario:**  
+> **Scenario:**
 > IKEA, aiming to optimize its supply chain in India, faces unexpected regulatory hurdles related to sustainable sourcing certifications. This situation delays key imports and forces the company to rethink its logistics framework across regions.
-> 
+>
 > **Success Measures and Illustrations:**
-> - **Constraint modeling materially reshapes the budget or timeline before the contextual realities mandate it.**  
+> - **Constraint modeling materially reshapes the budget or timeline before the contextual realities mandate it.**
 >   After analyzing potential fines and supply interruptions, IKEA’s logistics team reallocates 20% of the warehousing budget to compliance certifications three months before enforcement begins.
-> 
-> - **A friction scenario alters not only the primary success metric but also the plan.**  
+>
+> - **A friction scenario alters not only the primary success metric but also the plan.**
 >   Originally targeting "Lowest logistics cost per unit," IKEA shifts to "Fastest certification across regional hubs" to protect market launch dates.
-> 
+>
 > - *(and so on for each success measure)*
 
 ---
 
-Would you like me to now lock this in as your "live operating prompt" and **format it neatly for you to copy-paste into your custom GPT configuration**? 🚀  
+Would you like me to now lock this in as your "live operating prompt" and **format it neatly for you to copy-paste into your custom GPT configuration**? 🚀
 (If yes, I can also slightly polish the language to be even cleaner for config fields like `system_message`.)
 
 ## You (2025-04-28T11:14:58.013678+00:00)
@@ -225,7 +225,7 @@ Teams ask, “What can we now do ourselves that we couldn’t before?” — ind
 
 Great — using the prompt structure we just crafted, here's exactly how it would play out with your provided content.
 
-I'll imagine you also gave me a **scenario hint** (I'll create one for demonstration):  
+I'll imagine you also gave me a **scenario hint** (I'll create one for demonstration):
 **Scenario hint:** "A mid-sized fintech company partners with a leading AI provider to accelerate fraud detection features."
 
 Now, applying your prompt rules:
@@ -234,28 +234,27 @@ Now, applying your prompt rules:
 
 # ✨ OUTPUT
 
-### **Scenario:**  
+### **Scenario:**
 A mid-sized fintech firm, "NexaBank," facing a surge in digital fraud attempts, partners with an AI provider to rapidly integrate advanced fraud detection tools. However, under the guidance of their COO, the executive team frames the partnership not just as a speed solution, but as a deliberate investment in developing their own AI competency over time.
 
 ---
 
 ### **Success Measures and Illustrations:**
 
-- **Build vs. buy tradeoffs are reframed as capability design decisions, not just financial ones.**  
+- **Build vs. buy tradeoffs are reframed as capability design decisions, not just financial ones.**
   During the executive offsite, discussions center around questions like, "Are we growing our internal fraud analytics capabilities, or just patching a gap?" Leadership deliberately decides to integrate external AI while simultaneously building a small internal data science team, ensuring future autonomy rather than sole reliance.
 
-- **In high-velocity contexts, when asked why a partnership was chosen, we see a reduction in responses like “speed” or “cost,” and we see them describing what the company intentionally chose not to develop internally — and why.**  
+- **In high-velocity contexts, when asked why a partnership was chosen, we see a reduction in responses like “speed” or “cost,” and we see them describing what the company intentionally chose not to develop internally — and why.**
   In investor briefings and team updates, executives explain that NexaBank chose *not* to develop proprietary large language models internally, citing resource constraints, but intentionally focused on growing model validation expertise internally to ensure long-term control and understanding.
 
-- **The clarity of these tradeoffs, even in compressed timelines, is a sign that capability thinking has become internalized, not just aspirational.**  
+- **The clarity of these tradeoffs, even in compressed timelines, is a sign that capability thinking has become internalized, not just aspirational.**
   Even under pressure to launch fraud detection features within a quarter, leadership documents clear rationales about which AI functions are outsourced versus intentionally upskilled internally, showing maturity in capability-based decision-making.
 
-- **Innovation retros and reviews prioritize capability transfer, not just outcome metrics.**  
+- **Innovation retros and reviews prioritize capability transfer, not just outcome metrics.**
   Post-launch retrospectives include sessions where teams list new internal skills acquired—such as fraud pattern recognition and model evaluation—rather than just focusing on faster deployment times or user adoption rates.
 
-- **Post-launch discussions explicitly surface what was learned, codified, or upskilled internally.**  
+- **Post-launch discussions explicitly surface what was learned, codified, or upskilled internally.**
   In internal newsletters and knowledge-sharing sessions, teams highlight how collaborating with the AI vendor taught them about supervised learning techniques, and how these learnings are now shaping internal project pipelines.
 
-- **Teams ask, “What can we now do ourselves that we couldn’t before?” — indicating that partnerships are vehicles for evolution, not dependency.**  
+- **Teams ask, “What can we now do ourselves that we couldn’t before?” — indicating that partnerships are vehicles for evolution, not dependency.**
   Three months after launch, NexaBank's engineering leads present a roadmap showing new fraud detection modules being developed
-

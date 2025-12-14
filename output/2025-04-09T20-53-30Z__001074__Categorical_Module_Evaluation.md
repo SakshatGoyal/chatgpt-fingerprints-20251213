@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T20:53:31.013414+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 20 - C1-I2,Signal Split,Both/And Frame,Unknown,Unknown,Unknown,Unknown,Comfort Bias  
-CATEGORICAL MODULE 31 - C1-I2,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Unknown  
-CATEGORICAL MODULE 13 - C1-I2,Cognitive Fog,Capability Frame,Unknown,Unknown,Plan vs. React,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 12 - C3-I6,Cognitive Fog,Capability Frame,Unknown,Unknown,Vision vs. Reality,Capability Gap,Tech Mirage  
-CATEGORICAL MODULE 29 - C1-I4,Value Clash,Capability Frame,Unknown,Unknown,Lean vs. Unique,Unknown,Comfort Bias  
-CATEGORICAL MODULE 33 - C1-I4,Value Clash,Capability Frame,Unknown,Unknown,Lean vs. Unique,Unknown,Comfort Bias  
-CATEGORICAL MODULE 10 - C5-I1,Value Clash,Both/And Frame,Unknown,Unknown,Now vs. Later,Overstretched Org,Short-Term Pull  
-CATEGORICAL MODULE 31 - C2-I1,Value Clash,Both/And Frame,Unknown,Unknown,Vision vs. Reality,Unknown,Comfort Bias  
-CATEGORICAL MODULE 44 - C2-I1,Unknown,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Unknown,Unknown  
-CATEGORICAL MODULE 73 - C4-I1,Signal Split,Evidence Frame,Unknown,Unknown,Unknown,Unknown,Certainty Illusion  
-CATEGORICAL MODULE 11 - C1-I4,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 52 - C3-I6,Signal Split,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 9 - C3-I3,Signal Split,Capability Frame,Unknown,Unknown,Vision vs. Reality,Unknown,Comfort Bias  
-CATEGORICAL MODULE 7 - C2-I5,Value Clash,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Legacy Hold  
-CATEGORICAL MODULE 46 - C1-I2,Cognitive Fog,Unknown,Unknown,Unknown,Now vs. Later,Overstretched Org,Belief Bubble  
-CATEGORICAL MODULE 23 - C4-I4,Cognitive Fog,Evidence Frame,Unknown,Surface Alignment,Unknown,Lost Direction,Belief Bubble  
-CATEGORICAL MODULE 8 - C3-I6,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown  
-CATEGORICAL MODULE 15 - C2-I2,System Tangle,Unknown,Unknown,Unknown,Plan vs. React,Execution Lag,Process Trap  
-CATEGORICAL MODULE 38 - C4-I3,Cultural Drift,Values Frame,Unknown,Surface Alignment,Bold vs. Safe,Culture Clash,Shallow Change  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 20 - C1-I2,Signal Split,Both/And Frame,Unknown,Unknown,Unknown,Unknown,Comfort Bias
+CATEGORICAL MODULE 31 - C1-I2,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Unknown
+CATEGORICAL MODULE 13 - C1-I2,Cognitive Fog,Capability Frame,Unknown,Unknown,Plan vs. React,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 12 - C3-I6,Cognitive Fog,Capability Frame,Unknown,Unknown,Vision vs. Reality,Capability Gap,Tech Mirage
+CATEGORICAL MODULE 29 - C1-I4,Value Clash,Capability Frame,Unknown,Unknown,Lean vs. Unique,Unknown,Comfort Bias
+CATEGORICAL MODULE 33 - C1-I4,Value Clash,Capability Frame,Unknown,Unknown,Lean vs. Unique,Unknown,Comfort Bias
+CATEGORICAL MODULE 10 - C5-I1,Value Clash,Both/And Frame,Unknown,Unknown,Now vs. Later,Overstretched Org,Short-Term Pull
+CATEGORICAL MODULE 31 - C2-I1,Value Clash,Both/And Frame,Unknown,Unknown,Vision vs. Reality,Unknown,Comfort Bias
+CATEGORICAL MODULE 44 - C2-I1,Unknown,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Unknown,Unknown
+CATEGORICAL MODULE 73 - C4-I1,Signal Split,Evidence Frame,Unknown,Unknown,Unknown,Unknown,Certainty Illusion
+CATEGORICAL MODULE 11 - C1-I4,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 52 - C3-I6,Signal Split,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 9 - C3-I3,Signal Split,Capability Frame,Unknown,Unknown,Vision vs. Reality,Unknown,Comfort Bias
+CATEGORICAL MODULE 7 - C2-I5,Value Clash,Evidence Frame,Unknown,Unknown,Lean vs. Unique,Execution Lag,Legacy Hold
+CATEGORICAL MODULE 46 - C1-I2,Cognitive Fog,Unknown,Unknown,Unknown,Now vs. Later,Overstretched Org,Belief Bubble
+CATEGORICAL MODULE 23 - C4-I4,Cognitive Fog,Evidence Frame,Unknown,Surface Alignment,Unknown,Lost Direction,Belief Bubble
+CATEGORICAL MODULE 8 - C3-I6,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+CATEGORICAL MODULE 15 - C2-I2,System Tangle,Unknown,Unknown,Unknown,Plan vs. React,Execution Lag,Process Trap
+CATEGORICAL MODULE 38 - C4-I3,Cultural Drift,Values Frame,Unknown,Surface Alignment,Bold vs. Safe,Culture Clash,Shallow Change
 CATEGORICAL MODULE 60 - C1-I2,Signal Split,Evidence Frame,Alignment Achieved,Unknown,Unknown,Adaptive Growth,Ignored Insight
-

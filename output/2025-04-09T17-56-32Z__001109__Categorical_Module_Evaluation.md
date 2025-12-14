@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:56:34.175180+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 37 - C2-I4,Cognitive Fog,Capability Frame,Alignment Achieved,Unknown,Now vs. Later,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 46 - C2-I4,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 49 - C2-I4,Cognitive Fog,Capability Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Culture Clash,Belief Bubble  
-CATEGORICAL MODULE 50 - C2-I4,Cognitive Fog,Capability Frame,Alignment Achieved,Surface Alignment,Bold vs. Safe,Culture Clash,Belief Bubble  
-CATEGORICAL MODULE 52 - C2-I4,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 33 - C2-I5,Cultural Drift,Capability Frame,Alignment Achieved,Unknown,Lean vs. Unique,Culture Clash,Legacy Hold  
-CATEGORICAL MODULE 18 - C2-I6,Cognitive Fog,Capability Frame,Alignment Achieved,Unknown,Vision vs. Reality,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 21 - C2-I6,Cognitive Fog,Evidence Frame,Alignment Achieved,Unknown,Vision vs. Reality,Execution Lag,Comfort Bias  
-CATEGORICAL MODULE 34 - C2-I6,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Adaptive Growth,Ignored Insight  
-CATEGORICAL MODULE 35 - C2-I6,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Certainty Illusion  
-CATEGORICAL MODULE 7 - C3-I1,Cognitive Fog,Capability Frame,Alignment Achieved,Unknown,Bold vs. Safe,Governance Shift,Belief Bubble  
-CATEGORICAL MODULE 16 - C3-I1,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Culture Clash,Ignored Insight  
-CATEGORICAL MODULE 19 - C3-I1,Cognitive Fog,Values Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 6 - C3-I3,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Bold vs. Safe,Execution Lag,Comfort Bias  
-CATEGORICAL MODULE 27 - C3-I3,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Plan vs. React,Governance Shift,Process Trap  
-CATEGORICAL MODULE 36 - C3-I3,Cultural Drift,Values Frame,Alignment Achieved,Surface Alignment,Central vs. Flexible,Culture Clash,Shallow Change  
-CATEGORICAL MODULE 26 - C3-I5,System Tangle,Capability Frame,Alignment Achieved,Unknown,Plan vs. React,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 30 - C3-I5,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Now vs. Later,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 32 - C3-I5,Cultural Drift,Capability Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Culture Clash,Legacy Hold  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 37 - C2-I4,Cognitive Fog,Capability Frame,Alignment Achieved,Unknown,Now vs. Later,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 46 - C2-I4,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 49 - C2-I4,Cognitive Fog,Capability Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Culture Clash,Belief Bubble
+CATEGORICAL MODULE 50 - C2-I4,Cognitive Fog,Capability Frame,Alignment Achieved,Surface Alignment,Bold vs. Safe,Culture Clash,Belief Bubble
+CATEGORICAL MODULE 52 - C2-I4,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 33 - C2-I5,Cultural Drift,Capability Frame,Alignment Achieved,Unknown,Lean vs. Unique,Culture Clash,Legacy Hold
+CATEGORICAL MODULE 18 - C2-I6,Cognitive Fog,Capability Frame,Alignment Achieved,Unknown,Vision vs. Reality,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 21 - C2-I6,Cognitive Fog,Evidence Frame,Alignment Achieved,Unknown,Vision vs. Reality,Execution Lag,Comfort Bias
+CATEGORICAL MODULE 34 - C2-I6,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Adaptive Growth,Ignored Insight
+CATEGORICAL MODULE 35 - C2-I6,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Certainty Illusion
+CATEGORICAL MODULE 7 - C3-I1,Cognitive Fog,Capability Frame,Alignment Achieved,Unknown,Bold vs. Safe,Governance Shift,Belief Bubble
+CATEGORICAL MODULE 16 - C3-I1,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Culture Clash,Ignored Insight
+CATEGORICAL MODULE 19 - C3-I1,Cognitive Fog,Values Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 6 - C3-I3,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Bold vs. Safe,Execution Lag,Comfort Bias
+CATEGORICAL MODULE 27 - C3-I3,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Plan vs. React,Governance Shift,Process Trap
+CATEGORICAL MODULE 36 - C3-I3,Cultural Drift,Values Frame,Alignment Achieved,Surface Alignment,Central vs. Flexible,Culture Clash,Shallow Change
+CATEGORICAL MODULE 26 - C3-I5,System Tangle,Capability Frame,Alignment Achieved,Unknown,Plan vs. React,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 30 - C3-I5,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Now vs. Later,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 32 - C3-I5,Cultural Drift,Capability Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Culture Clash,Legacy Hold
 CATEGORICAL MODULE 37 - C3-I5,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Execution Lag,Tech Mirage
-

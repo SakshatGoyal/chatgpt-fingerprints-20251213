@@ -87,4 +87,3 @@ MODULE 4 - C5-I4,Harmonized Transparency Reporting,Mandate-Driven,Sequenced Timi
 MODULE 40 - C1-I5,Digital Documentation Enhancement,Limited Mandates,Sequenced Timing,Componentized,Medium-Term Resilience
 MODULE 40 - C3-I3,Ethical Initiative Evaluation,Limited Mandates,Sequenced Timing,Componentized,Medium-Term Resilience
 MODULE 42 - C2-I5,Connected-Car Data Monetization,Mandate-Driven,Coordinated Timing,Interlinked,Medium-Term Resilience
-

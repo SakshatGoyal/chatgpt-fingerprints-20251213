@@ -22,7 +22,6 @@ Write your notes in a tone that feels personal and constructive, as if Sheryl is
 Avoid surface-level or generic feedback. Your analysis should feel hard-earned, experienced, and surgical.
 
 
-
 ---
 
 🤖 People Problem 3
@@ -49,50 +48,50 @@ Successful orgs don’t just launch trust features; they operationalize trust go
 
 ### **1. _“Strategic decisions about personalization consistently trigger risk-calibration dialogue — not just delivery scope conversations.”_**
 
-**Critique:**  
+**Critique:**
 This is a **[false positive]** and **[language ≠ behavior]** candidate. Just because “dialogue is triggered” doesn’t mean it’s meaningfully integrated into decision-making. Teams can ritualize risk talk without acting on it — especially in high-stakes innovation zones where optimism bias is strong. You’ll often hear, “Yes, we noted that,” while decisions still optimize for delivery momentum.
 
-**Note:**  
+**Note:**
 To increase diagnostic value, look for whether the *outcomes* of these dialogues — not their existence — show up in the prioritization logic or trade-off documentation.
 
 ---
 
 ### **2. _“In planning meetings or design reviews, trust concerns (e.g., data explainability, user comprehension, opt-out behavior) are raised before launch commitments are made. These conversations aren’t side threads — they are integral checkpoints that visibly shape whether, when, and how a feature goes live.”_**
 
-**Critique:**  
+**Critique:**
 Promising framing, but risks being **[unverifiable]** and **[too abstract]**. “Visibly shape” is ambiguous — is this shaping a documentation requirement, or a material gating decision? Also, timing alone (“before launch”) doesn’t ensure these inputs carry decisive weight. There’s a well-known theater of including concerns early, only to deprioritize them quietly under execution pressure.
 
-**Note:**  
+**Note:**
 Would be stronger if tied to observable patterns of changed launch sequencing or feature de-scoping due to trust concerns — something auditably disruptive to business-as-usual.
 
 ---
 
 ### **3. _“The pace of trust infrastructure investments correlates with — or slightly leads — the pace of personalization delivery.”_**
 
-**Critique:**  
+**Critique:**
 This is a **[correlation fallacy]** and **[already happening]** trap. Many orgs claim alignment between infra and product, but the bar here is lagging indicators. Just because investments rise alongside delivery doesn't mean *they’re shaping delivery decisions.* Investment correlation is easy to present retroactively — especially when metrics are broad (e.g., "we hired in compliance").
 
-**Note:**  
+**Note:**
 Consider shifting from investment tracking to sequencing accountability — can we see instances where delivery was paused *until* trust infra hit readiness?
 
 ---
 
 ### **4. _“Roadmaps reflect not just AI advancement, but proportional investments in explainability, security, and data governance. When a new personalization capability is planned, teams can point to the adjacent trust mechanisms being matured in tandem — a sign of strategic pacing, not reactive coverage.”_**
 
-**Critique:**  
+**Critique:**
 Very well-intentioned but at risk of **[lacks frictional realism]** and **[optics vs. outcome]**. "Proportional investment" is subjective and often rationalized after the fact. In many orgs, pointing to “adjacent mechanisms” becomes a slide deck maneuver — it doesn't surface whether the *risk trade-offs* were actively challenged or just reputationally shielded.
 
-**Note:**  
+**Note:**
 Push toward evidence of interdependence — do trust milestones act as phase gates or force design trade-offs? If not, the coexistence of trust and personalization efforts can still be siloed theater.
 
 ---
 
 ### **5. _“Teams have repeatable mechanisms to assess trust erosion risk — and use them to slow, stop, or stage features. Successful orgs don’t just launch trust features; they operationalize trust go/no-go logic into product decisions. Examples might include a heatmap of consent fatigue, an index of model transparency thresholds, or thresholds for auto-escalation to ethics review. These tools give permission to say no or not yet — not just to move forward more cautiously.”_**
 
-**Critique:**  
+**Critique:**
 Strongest diagnostic in the set — but still carries **[language ≠ behavior]** risk unless these “mechanisms” have teeth. It’s easy to create a rubric and hard to empower teams to actually say *no* to leadership momentum. “Tools give permission” is not the same as “tools are used and respected,” especially if there's no structural reinforcement (e.g., executive veto or escalation path that *actually blocks launch*).
 
-**Note:**  
+**Note:**
 To sharpen: look for evidence of these tools being invoked in *high-pressure scenarios*, not just compliance rhythm. Can we name features delayed or changed because the signal crossed a threshold?
 
 ---
@@ -103,4 +102,3 @@ These are smartly worded signals, but many still center around visibility and in
 Let me know if you want help reworking these into something more falsifiable.
 
 —S
-

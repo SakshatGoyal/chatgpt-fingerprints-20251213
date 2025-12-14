@@ -2,7 +2,7 @@
 
 ## You (2025-07-26T17:41:18.069611+00:00)
 
-A few days ago I was chatting with this girl and I told her I'd be making a portrait of her. 
+A few days ago I was chatting with this girl and I told her I'd be making a portrait of her.
 
 This morning she checked in in a slightly indirect way to see if I'm done with it.
 
@@ -89,4 +89,3 @@ I'll give you **a few Velvet Knife–style responses** across different strategi
 ---
 
 Let me know what tone you’d like to lean into—soft tease, thoughtful deflection, or seductive distance—and I can refine your final message accordingly.
-

@@ -150,11 +150,11 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 **Abstract:**
 
 - **Key Themes:** This paper examines decision making under conditions of high stakes and low probabilities, focusing on how cognitive biases, heuristic simplifications, and affective responses lead to systematic departures from normative risk management models. The study dissects phenomena such as the underutilization of probability information, short-term bias, emotional influence, stress-induced distortions, reliance on social norms, and status quo inertia.
-  
+
 - **Core Motivations:** The research is driven by the challenge of understanding why even sophisticated decision makers struggle with rare but catastrophic risks. It emphasizes the gap between normative decision-making ideals—such as those based on expected utility theory—and the descriptive realities of human behavior, which frequently result in under-preparedness and strategic missteps. These issues are particularly relevant for executives who must balance immediate operational pressures with long-term risk management.
-  
+
 - **Methodological Clarification:** The paper synthesizes findings from a range of empirical studies, controlled experiments, and field observations, contrasting normative models with actual decision behaviors. While this review-based methodology offers a comprehensive overview, the reliance on qualitative and experimental data means that conclusions must be contextualized and adapted to specific high-stakes environments.
-  
+
 - **Relevance Assessment:** For contemporary executives, the insights illuminate the persistent cognitive gaps that can undermine strategic planning and risk mitigation. The discussion calls for integrating prescriptive heuristics and financial incentives into decision frameworks to counteract biases—a critical consideration for leaders facing decisions with potentially irreversible impacts.
 
 ---
@@ -163,64 +163,64 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Insight 1: Underutilization of Probability Information
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Decision makers often ignore or underutilize available probability information when assessing high-stakes risks, leading to decisions that diverge markedly from rational, normative models." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives are caught between the need for swift decision making and the imperative to incorporate detailed probabilistic risk data, which is frequently overlooked in practice. **[Empirical]**  
-- **Underlying Beliefs & Biases:** A pervasive bias minimizes the perceived likelihood of catastrophic events, reinforcing complacency and underinvestment in risk mitigation strategies. **[Empirical]**  
-- **Expected vs. Actual Outcomes:** Despite clear normative directives to use probability data, decision outcomes often exhibit a dangerous gap between theoretical risk assessments and actual preparedness. **[Empirical]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives are caught between the need for swift decision making and the imperative to incorporate detailed probabilistic risk data, which is frequently overlooked in practice. **[Empirical]**
+- **Underlying Beliefs & Biases:** A pervasive bias minimizes the perceived likelihood of catastrophic events, reinforcing complacency and underinvestment in risk mitigation strategies. **[Empirical]**
+- **Expected vs. Actual Outcomes:** Despite clear normative directives to use probability data, decision outcomes often exhibit a dangerous gap between theoretical risk assessments and actual preparedness. **[Empirical]**
 - **Broader Implications:** This oversight increases vulnerability to unexpected high-impact events, suggesting that executives must recalibrate their decision processes to prioritize quantitative risk evaluation. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 "Empirical evidence in the paper shows that studies found only about 20 percent of subjects explicitly incorporated probability information into their decision processes, underscoring a critical disconnect in risk evaluation." **[Empirical]**
 
 ---
 
 ### Insight 2: Short-Term Focus versus Long-Term Risks
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Executives often exhibit a short-term focus, neglecting long-term risks and benefits, which leads to inadequate investments in mitigation strategies essential for enduring resilience." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders face the challenge of reconciling immediate operational pressures with the need for long-term strategic planning, often resulting in the undervaluation of future risks. **[Empirical]**  
-- **Underlying Beliefs & Biases:** A natural cognitive bias toward present conditions causes decision makers to discount long-term risks, even when historical data suggests significant future hazards. **[Empirical]**  
-- **Expected vs. Actual Outcomes:** While normative models stress the importance of long-term risk mitigation, actual practices reveal a gap where short-term considerations dominate, leading to underinvestment in protective measures. **[Empirical]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders face the challenge of reconciling immediate operational pressures with the need for long-term strategic planning, often resulting in the undervaluation of future risks. **[Empirical]**
+- **Underlying Beliefs & Biases:** A natural cognitive bias toward present conditions causes decision makers to discount long-term risks, even when historical data suggests significant future hazards. **[Empirical]**
+- **Expected vs. Actual Outcomes:** While normative models stress the importance of long-term risk mitigation, actual practices reveal a gap where short-term considerations dominate, leading to underinvestment in protective measures. **[Empirical]**
 - **Broader Implications:** This misalignment calls for a reframing of risk communication—translating long-term probabilities into more immediate, tangible terms—to better align strategic planning with reality. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 "Examples in the paper, such as the failure to invest in disaster-resistant infrastructure despite clear historical flood risks, highlight how a short-term focus undermines long-term decision quality." **[Empirical]**
 
 ---
 
 ### Insight 3: Influence of Affective Cues on Decision Making
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Affective responses and emotional cues significantly skew decision-making, often overriding analytical assessments and leading to overly optimistic or pessimistic evaluations of risk." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must navigate the challenge of distinguishing between emotional reactions and objective data, particularly when faced with ambiguous, high-stakes outcomes. **[Inferred]**  
-- **Underlying Beliefs & Biases:** The affect heuristic causes decision makers to assign undue weight to emotionally charged information—such as framing effects like a '98% success rate'—thus distorting risk assessments. **[Empirical]**  
-- **Expected vs. Actual Outcomes:** Although rational models would predict balanced decision-making, the persistent influence of affect leads to decisions that may not align with the underlying statistical realities. **[Empirical]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must navigate the challenge of distinguishing between emotional reactions and objective data, particularly when faced with ambiguous, high-stakes outcomes. **[Inferred]**
+- **Underlying Beliefs & Biases:** The affect heuristic causes decision makers to assign undue weight to emotionally charged information—such as framing effects like a '98% success rate'—thus distorting risk assessments. **[Empirical]**
+- **Expected vs. Actual Outcomes:** Although rational models would predict balanced decision-making, the persistent influence of affect leads to decisions that may not align with the underlying statistical realities. **[Empirical]**
 - **Broader Implications:** To enhance decision quality, executives should implement frameworks that systematically separate emotional inputs from analytic evaluation, thereby reducing the risk of biased judgments. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 "Experimental findings cited in the paper demonstrate that when outcomes are described using affective language, decision makers disproportionately favor optimistic evaluations, regardless of the actual probabilities involved." **[Empirical]**
 
 ---
 
 ### Insight 4: Prescriptive Heuristics and Financial Incentives
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Introducing prescriptive heuristics alongside tailored financial incentives can markedly improve decision quality by compensating for inherent cognitive biases in high-stakes environments." **[Inferred]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must choose between traditional decision-making frameworks and innovative approaches that incorporate behavioral insights, such as incentive-driven strategies that encourage long-term risk management. **[Inferred]**  
-- **Underlying Beliefs & Biases:** The status quo bias and overreliance on conventional norms can be mitigated by introducing external motivators and structured heuristics that realign decision priorities. **[Inferred]**  
-- **Expected vs. Actual Outcomes:** While normative models assume rational behavior, the paper indicates that decision quality can be significantly enhanced when decision makers are provided with tools and incentives that help bridge the gap between ideal and actual performance. **[Inferred]**  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must choose between traditional decision-making frameworks and innovative approaches that incorporate behavioral insights, such as incentive-driven strategies that encourage long-term risk management. **[Inferred]**
+- **Underlying Beliefs & Biases:** The status quo bias and overreliance on conventional norms can be mitigated by introducing external motivators and structured heuristics that realign decision priorities. **[Inferred]**
+- **Expected vs. Actual Outcomes:** While normative models assume rational behavior, the paper indicates that decision quality can be significantly enhanced when decision makers are provided with tools and incentives that help bridge the gap between ideal and actual performance. **[Inferred]**
 - **Broader Implications:** For Fortune 500 leaders, this insight suggests a transformative opportunity: embedding behavioral interventions into corporate governance could lead to more resilient and strategically sound decision making. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 "Although more conceptual in nature, the paper outlines how prescriptive heuristics and financial incentives have the potential to improve high-stakes decision outcomes, noting that preliminary experimental studies support this approach while advocating for further empirical research." **[Inferred]**
 
 ---
@@ -230,9 +230,9 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Coverage Fit:** High — The paper offers a comprehensive examination of high-stakes decision-making, providing extensive insights into cognitive biases and the interplay between normative and descriptive models, which are directly relevant to executive strategic reasoning.
 - **Bias & Cognitive Modeling Content:** Present — The analysis robustly addresses the role of cognitive biases, affect heuristics, and decision-making under stress.
 - **Clarity of Methods & Outcomes:** Clear — The paper clearly outlines its review-based methodology and presents empirical findings alongside theoretical discussion, though its conclusions are primarily drawn from a synthesis of existing studies.
-- **Areas with No Data:**  
-  - Insight Statement: All critical insights are well-supported.  
-  - Executive Decision-Making Context: Comprehensive details are provided across all subsections.  
+- **Areas with No Data:**
+  - Insight Statement: All critical insights are well-supported.
+  - Executive Decision-Making Context: Comprehensive details are provided across all subsections.
   - Supporting Context: Empirical evidence underpins most insights, although some aspects rely on inferred interpretations.
 
 ## You (2025-03-24T01:04:08.431000+00:00)
@@ -498,21 +498,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -525,4 +525,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T01:06:32.332144+00:00)
 
 Kunreuther, H., Meyer, R., Zeckhauser, R., Slovic, P., Schwartz, B., Schade, C., Luce, M. F., Lippman, S., Krantz, D., Kahn, B., & Hogarth, R. (2001). High stakes decision making: Normative, descriptive and prescriptive considerations. https://www.researchgate.net/publication/226842146
-

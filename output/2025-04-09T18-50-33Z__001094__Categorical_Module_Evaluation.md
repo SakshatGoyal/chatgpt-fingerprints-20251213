@@ -85,4 +85,3 @@ CATEGORICAL MODULE 18 - C4-I5,Accelerated Clinical Trials,Governed End-to-End,Se
 CATEGORICAL MODULE 24 - C4-I5,Crisis Team Preformation,Limited Mandates,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice
 CATEGORICAL MODULE 27 - C4-I5,Preparedness Drill Execution,Limited Mandates,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice
 CATEGORICAL MODULE 4 - C4-I6,External Relations Navigation,Limited Mandates,Sequenced Timing,Regional,Interlinked,Short-Term Return,Interpretive Practice
-

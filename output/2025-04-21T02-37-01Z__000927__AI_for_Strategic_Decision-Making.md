@@ -22,17 +22,17 @@ Let’s unpack your next phase — translating pattern insights into product beh
 
 Whenever we’re defining product behavior, it’s helpful to zoom out first:
 
-1. **What real people-problem are we solving?**  
+1. **What real people-problem are we solving?**
    Are executives struggling with strategic clarity? Are they lacking diverse perspectives? Are their decisions moving too slowly or being made on gut feel alone?
 
    → Prompt: _Can we map the most common “job to be done” moments — e.g. “I need to align my team on a GTM shift” or “I’m preparing for a board discussion on competitive risk”?_ These are the friction points the AI should be designed to meet.
 
-2. **How do we know it’s a real problem?**  
+2. **How do we know it’s a real problem?**
    What are the signals that leaders are feeling these constraints today? Is it in the post-mortems, the reorg memos, the constant strategy revisions?
 
    → Prompt: _Do we have real-world stories (even anonymized) that show what “bad” and “good” strategy-making looks like in each cluster?_
 
-3. **Why now?**  
+3. **Why now?**
    The AI space is noisy. To earn a seat in an executive’s toolkit, the timing has to feel right.
 
    → Prompt: _How does AI change what’s possible for strategic work that used to require whiteboards, team offsites, or consultants?_
@@ -78,4 +78,3 @@ Even if you don’t access company-specific data, you *can* build contextual sen
 ---
 
 Would it be helpful to walk through one of your clusters and co-design some example behaviors or user flows? Or even sketch a conversation between an exec and the AI? That could help ground the abstract into something more concrete.
-

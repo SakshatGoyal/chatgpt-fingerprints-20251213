@@ -47,8 +47,8 @@ You do not need to output a summary table in this prompt.
 Use this scale for each of the five lenses:
 
 - 5 = Strong Alignment
-- 4 = Moderate Alignment  
-- 3 = Some Alignment 
+- 4 = Moderate Alignment
+- 3 = Some Alignment
 - 2 = Low Alignment
 - 1 = No Alignment
 
@@ -65,11 +65,11 @@ The five strategic lenses are:
 
 Score and compare the following six types for every module:
 
-- Corporate-Level – Enterprise-wide portfolio, market entry/exit, structural redesign  
-- Business-Level – Competitive positioning, market strategy, go-to-market moves  
-- Functional & Tactical – Operational execution, process decisions, department-level actions  
-- Adaptive & Crisis – Navigating uncertainty, survival, risk response  
-- Innovation & Growth – Disruption, new markets, high-risk/high-reward exploration  
+- Corporate-Level – Enterprise-wide portfolio, market entry/exit, structural redesign
+- Business-Level – Competitive positioning, market strategy, go-to-market moves
+- Functional & Tactical – Operational execution, process decisions, department-level actions
+- Adaptive & Crisis – Navigating uncertainty, survival, risk response
+- Innovation & Growth – Disruption, new markets, high-risk/high-reward exploration
 - Personal & Leadership – Executive cognition, mental model shifts, leadership style evolution
 
 ---
@@ -98,10 +98,10 @@ If one strategy wins **2 out of 3**, tag it as the final classification. Always 
 
 🔹 EXPLICIT GUARDRAILS
 
-❌ Never assign more than one strategy type  
-❌ Do not infer strategy types based on keywords alone (e.g., “risk” ≠ Adaptive)  
-✅ Always ground classification in the five-lens scoring + stress test logic  
-✅ Invoke the Tie-Breaker Protocol if scoring is close  
+❌ Never assign more than one strategy type
+❌ Do not infer strategy types based on keywords alone (e.g., “risk” ≠ Adaptive)
+✅ Always ground classification in the five-lens scoring + stress test logic
+✅ Invoke the Tie-Breaker Protocol if scoring is close
 ✅ If uncertain, fall back on decision actor identity as primary disambiguator
 
 ## ChatGPT (2025-03-24T22:02:28.792481+00:00)
@@ -335,7 +335,7 @@ Below are the results for the first 15 Insight Modules (Modules 59–73) based o
 
 ---
 
-Each module’s classification reflects the dominant strategic logic derived through our structured scoring process. (No tie-breaker rationale was required in these cases.) 
+Each module’s classification reflects the dominant strategic logic derived through our structured scoring process. (No tie-breaker rationale was required in these cases.)
 
 Please review these outputs and let me know if you need further adjustments or additional modules evaluated.
 
@@ -373,12 +373,12 @@ Ensure the table is:
 
 🔹 GUARDRAILS
 
-❌ Do not generate or guess new strategy classifications  
-❌ Do not interpret scoring tables or rationales  
-❌ Do not include any rationale or lens scores  
-✅ Only extract from exact lines formatted like: `**Final Strategy Type →** [Type]`  
-✅ If a module lacks a clear ID or final tag, skip it  
-✅ Use the original Insight Module number, even if modules were out of order in prior batches  
+❌ Do not generate or guess new strategy classifications
+❌ Do not interpret scoring tables or rationales
+❌ Do not include any rationale or lens scores
+✅ Only extract from exact lines formatted like: `**Final Strategy Type →** [Type]`
+✅ If a module lacks a clear ID or final tag, skip it
+✅ Use the original Insight Module number, even if modules were out of order in prior batches
 ✅ Include all previously processed modules, not just the most recent batch
 
 ---
@@ -438,7 +438,7 @@ Copy ### INSIGHT MODULE [Y] to /Users/sakshatgoyal/Desktop/Compilation/[Standard
 - Your response should include **only** the final code block — no commentary or explanation.
 
 🧠 **Strategy Type Normalization Rules:**
-Match strategy types **case-insensitively**.  
+Match strategy types **case-insensitively**.
 Ignore variations like:
 - Hyphens vs spaces (e.g., `Corporate-Level` = `Corporate Level`)
 - Presence of the word “strategy” (e.g., `Business Level Strategy`)
@@ -491,4 +491,3 @@ Copy ### INSIGHT MODULE 71 to /Users/sakshatgoyal/Desktop/Compilation/Business S
 Copy ### INSIGHT MODULE 72 to /Users/sakshatgoyal/Desktop/Compilation/Business Strategy Insights.txt
 Copy ### INSIGHT MODULE 73 to /Users/sakshatgoyal/Desktop/Compilation/Corporate Strategy Insights.txt
 ```
-

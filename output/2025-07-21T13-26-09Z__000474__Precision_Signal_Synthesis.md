@@ -74,7 +74,7 @@ Instead of overwhelming users with noise, we guide attention through:
 - **Silent Zones**
 
 > Framework remains category-agnostic but can be applied distinctly per data type or across a blended signal view.
-> 
+>
 
 ---
 
@@ -170,7 +170,7 @@ Here is the output based on the **Precision Signal Framework – Omnidata Editio
 
 ### 🔴 **Risk Densities**
 
-**What it finds:**  
+**What it finds:**
 Clusters of fragility across any AE portfolio segment—deals, accounts, or renewals—revealing systemic friction.
 
 **Examples:**
@@ -184,7 +184,7 @@ Clusters of fragility across any AE portfolio segment—deals, accounts, or rene
 
 ### 🟡 **Momentum Bottlenecks**
 
-**What it finds:**  
+**What it finds:**
 Entities that should be advancing—toward close, upsell, or renewal—but are stalling or stuck.
 
 **Examples:**
@@ -197,7 +197,7 @@ Entities that should be advancing—toward close, upsell, or renewal—but are s
 
 ### 🟠 **Contradiction Detection**
 
-**What it finds:**  
+**What it finds:**
 Declared confidence that contradicts factual signal health—forecast tags, account optimism, or renewal assumptions vs. signal reality.
 
 **Examples:**
@@ -210,7 +210,7 @@ Declared confidence that contradicts factual signal health—forecast tags, acco
 
 ### 🟣 **Silent Zones**
 
-**What it finds:**  
+**What it finds:**
 Complete engagement dead zones. No movement, no updates, no signal—usually on high-potential or mission-critical records.
 
 **Examples:**
@@ -222,4 +222,3 @@ Complete engagement dead zones. No movement, no updates, no signal—usually on 
 ---
 
 This concludes the framework-aligned signal extraction across both tables.
-

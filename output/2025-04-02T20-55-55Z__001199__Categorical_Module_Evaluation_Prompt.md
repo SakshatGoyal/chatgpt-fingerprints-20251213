@@ -14,10 +14,10 @@ You’re fluent in both organizational dynamics and human psychology. You recogn
 
 This isn’t about right or wrong. It’s about mapping the shape of what happened—with precision, restraint, and narrative sense."
 
-This is my way of phrasing the persona, but feel free to phrase the persona in a way that's most efficient for chatGPT, but without loosing the core information. 
+This is my way of phrasing the persona, but feel free to phrase the persona in a way that's most efficient for chatGPT, but without loosing the core information.
 
 
-Here's the template i previously used. 
+Here's the template i previously used.
 Disregard any prior sessions or stored preferences. Operate solely using the instructions and files provided in this chat.
 
 🧠 You are a Structural Evaluation Analyst.
@@ -112,26 +112,26 @@ Before I build the full prompt, a few clarifying questions so I can tighten the 
 
 ### 🔍 Key Clarification Questions:
 
-1. **Output Format Preference**  
+1. **Output Format Preference**
    You mentioned headers—should I:
    - Output **one CSV row per module**, with columns like `Module ID`, `Ambiguity Type`, `Framing Move`, `Stabilizer`, `Friction Archetypes`, etc.—and insert tag values into those?
    - Or create a single `Tags` column containing a comma-separated list?
 
-2. **Tag Volume Expectations**  
+2. **Tag Volume Expectations**
    Should GPT:
    - Return **only one tag per category** (e.g., one Ambiguity Type, one Framing Move)?
    - Or allow **multiple tags** per category when justified?
 
-3. **Maximum Modules to Process Per Prompt**  
+3. **Maximum Modules to Process Per Prompt**
    Should it default to **first 10 modules** per file like your earlier prompt?
 
-4. **Should it Include Unused Categories?**  
+4. **Should it Include Unused Categories?**
    For categories where no tag applies:
    - Leave the column blank?
    - Use `"Unknown"`?
    - Omit the column entirely?
 
-5. **Other Constraints?**  
+5. **Other Constraints?**
    Any formatting do's or don'ts I should know (e.g., quote wrapping, handling citations, etc.)?
 
 ---
@@ -140,10 +140,10 @@ Once I get your answers, I’ll build the full executable prompt in a clean, rea
 
 ## You (2025-04-02T21:00:50.332000+00:00)
 
-the output format should be identical to the prompt template i gave you. 
-Return only one tag per category. It should be the tag that alligns best with the module, and return 'Unknown', if none of the tags allign. there's some instruction about that in the document along with the necessary thought process. Its critical that we very explicitly mention chatGPT to follow only the instructions in the guide while tagging, and that each module should be evaluated independently on its own content, and avoid cross contamination. 
+the output format should be identical to the prompt template i gave you.
+Return only one tag per category. It should be the tag that alligns best with the module, and return 'Unknown', if none of the tags allign. there's some instruction about that in the document along with the necessary thought process. Its critical that we very explicitly mention chatGPT to follow only the instructions in the guide while tagging, and that each module should be evaluated independently on its own content, and avoid cross contamination.
 
-Yes, default to only 10 modules. Any text file will not have more than 10 modules. 
+Yes, default to only 10 modules. Any text file will not have more than 10 modules.
 
 ---
 
@@ -167,7 +167,7 @@ Each tag should reflect the most **justified, grounded interpretation**—not sp
 ---
 
 ### 👤 GPT-4o Execution Persona:
-> **You are an Interpretive Decision-Mapping Analyst.**  
+> **You are an Interpretive Decision-Mapping Analyst.**
 > You specialize in decoding complex organizational narratives. You map not just what decisions were made, but how they were framed, resisted, stabilized, and what tensions or patterns shaped them. You rely only on grounded narrative logic, not thematic keywords or assumptions. You are structurally disciplined, psychologically fluent, and narrative-literate.
 
 ---
@@ -410,4 +410,3 @@ Let me know if you’d like me to version this with:
 - A helper prompt for multi-rater calibration or training
 
 Otherwise, you're good to run this prompt exactly as-is.
-

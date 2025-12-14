@@ -2,13 +2,13 @@
 
 ## You (2025-03-26T05:25:38.422000+00:00)
 
-hey, i need your help writing an o3 prompt where I want it to use the instructions given in the .md file to evaluate the responses in the .csv file. 
+hey, i need your help writing an o3 prompt where I want it to use the instructions given in the .md file to evaluate the responses in the .csv file.
 
 for your context, these are prompts different students generated when we asked them the question:
 
 “Using chain-of-thought prompting, write a prompt that you could use to help complete a project at work.”
 
-the csv file contains the response numbers and the responses they generated. In the output, I want chatGPT to give me a table with the first column being the response number, and the subsiquent columns being the criterion names. the table should have rows that highlight the final score for each prompt under each criterion. 
+the csv file contains the response numbers and the responses they generated. In the output, I want chatGPT to give me a table with the first column being the response number, and the subsiquent columns being the criterion names. the table should have rows that highlight the final score for each prompt under each criterion.
 
 Any questions?
 
@@ -34,7 +34,7 @@ Once I get the answers to those, we can lock this in and I’ll start building t
 
 ## You (2025-03-26T05:28:01.605000+00:00)
 
-I want raw scores only. 
+I want raw scores only.
 only the table
 I'm ok with a bit of interpretice judgement. but for the most part it should follow the rubric descriptions. Is the csv file i attached too heavy by any chance? tell me a few things that could possibly go wrong and how we can address those
 
@@ -126,44 +126,44 @@ Evaluate each student prompt using the six criteria below. For each criterion, a
 
 ### 1. Clarity of Reasoning Structure (1–10)
 - Measures how clearly the prompt instructs multi-step, logical reasoning.
-- Score 1–3: No reasoning structure.  
-- Score 4–6: Vague multi-step hints.  
-- Score 7–8: Clear CoT structure.  
+- Score 1–3: No reasoning structure.
+- Score 4–6: Vague multi-step hints.
+- Score 7–8: Clear CoT structure.
 - Score 9–10: Elegant breakdown into sub-parts.
 
 ### 2. Task Relevance & Purposefulness (1–10)
 - Measures how well the prompt aligns with real workplace tasks.
-- Score 1–3: Vague or unrealistic.  
-- Score 4–6: Plausible but general.  
-- Score 7–8: Realistic and specific.  
+- Score 1–3: Vague or unrealistic.
+- Score 4–6: Plausible but general.
+- Score 7–8: Realistic and specific.
 - Score 9–10: Valuable, clearly defined work-related task.
 
 ### 3. Specificity & Context Provided (1–5)
 - Measures presence of relevant framing, context, and constraints.
-- Score 1: No context.  
-- Score 2–3: Sparse or generic.  
-- Score 4: Useful, relevant details.  
+- Score 1: No context.
+- Score 2–3: Sparse or generic.
+- Score 4: Useful, relevant details.
 - Score 5: Rich, focused, well-targeted context.
 
 ### 4. CoT Instruction Appropriateness (1–5)
 - Measures how well the prompt cues chain-of-thought reasoning.
-- Score 1: No cue.  
-- Score 2–3: “Think step by step” is loosely integrated.  
-- Score 4: Clear CoT flow.  
+- Score 1: No cue.
+- Score 2–3: “Think step by step” is loosely integrated.
+- Score 4: Clear CoT flow.
 - Score 5: Seamlessly integrated step-wise structure.
 
 ### 5. Clarity of Language & Structure (1–5)
 - Measures clarity, grammar, professionalism.
-- Score 1: Confusing or ungrammatical.  
-- Score 2–3: Awkward or overly wordy.  
-- Score 4: Clear and well-structured.  
+- Score 1: Confusing or ungrammatical.
+- Score 2–3: Awkward or overly wordy.
+- Score 4: Clear and well-structured.
 - Score 5: Polished, precise, and professional.
 
 ### 6. Creativity & Adaptability (1–5)
 - Measures originality and reusability of the prompt.
-- Score 1: Formulaic.  
-- Score 2–3: Moderate adaptability.  
-- Score 4: Creative or flexible.  
+- Score 1: Formulaic.
+- Score 2–3: Moderate adaptability.
+- Score 4: Creative or flexible.
 - Score 5: Inventive and broadly reusable.
 
 ---
@@ -219,7 +219,7 @@ Absolutely—let’s run the checklist and double-check the prompt against all t
 ### ✅ **Issue 1: Response Length or Density**
 > **Risk:** Some prompts may be long or have irrelevant filler.
 
-**Does the prompt address it?**  
+**Does the prompt address it?**
 ✔ **Yes.** This is covered with:
 > *“If a response includes off-topic or irrelevant chatter, ignore it and focus only on the core prompt.”*
 
@@ -230,7 +230,7 @@ Absolutely—let’s run the checklist and double-check the prompt against all t
 ### ✅ **Issue 2: Ambiguous or Edge-Case Prompts**
 > **Risk:** GPT might struggle with borderline cases or score inconsistently.
 
-**Does the prompt address it?**  
+**Does the prompt address it?**
 ✔ **Yes.** The following guidance handles this:
 > *“In cases of scoring uncertainty, default to the lower score unless strong justification is evident.”*
 
@@ -241,7 +241,7 @@ Absolutely—let’s run the checklist and double-check the prompt against all t
 ### ✅ **Issue 3: CSV Encoding or Parsing Issues**
 > **Risk:** Irregular formatting or malformed rows could throw off evaluation.
 
-**Does the prompt address it?**  
+**Does the prompt address it?**
 ✔ **Yes.** This line covers it:
 > *“If a row is malformed or cannot be evaluated, skip it silently.”*
 
@@ -252,7 +252,7 @@ Absolutely—let’s run the checklist and double-check the prompt against all t
 ### ✅ **Issue 4: Rubric Weight vs. Score Confusion**
 > **Risk:** GPT might factor in the rubric’s weight percentages rather than focusing on raw scores.
 
-**Does the prompt address it?**  
+**Does the prompt address it?**
 ✔ **Yes.** This section removes ambiguity:
 > *“Do not consider the weight percentages—use only the scoring range per criterion.”*
 
@@ -263,7 +263,7 @@ Absolutely—let’s run the checklist and double-check the prompt against all t
 ### ✅ **Issue 5: Inconsistent Interpretation Across Responses**
 > **Risk:** GPT may drift in how it interprets criteria without calibration.
 
-**Does the prompt address it?**  
+**Does the prompt address it?**
 ✔ **Partially, but effectively.** Instead of explicitly saying “apply consistent standards,” the prompt does:
 - Anchor each rubric item in **concrete score descriptions**
 - Direct the model to **default to the lower score** in edge cases
@@ -280,7 +280,7 @@ While not explicitly saying "stay consistent across entries," those measures hel
 ### ✅ Output Format Control
 > **Requirement:** You only want a table—no narrative, summaries, or extra commentary.
 
-**Does the prompt address it?**  
+**Does the prompt address it?**
 ✔ **Yes.** The following instructions are explicit:
 > *“Return a table only... Do not include any total scores, comments, or quality labels.”*
 
@@ -290,7 +290,7 @@ While not explicitly saying "stay consistent across entries," those measures hel
 
 ### ✅ Final Verdict
 
-Your prompt is **robust and well-structured**. It directly addresses all critical risks you identified earlier and aligns with your expectations (clean table, rubric adherence, slight interpretive flexibility).  
+Your prompt is **robust and well-structured**. It directly addresses all critical risks you identified earlier and aligns with your expectations (clean table, rubric adherence, slight interpretive flexibility).
 The only **optional tweak** would be to explicitly emphasize *“consistent application of criteria across all responses.”*
 
 Would you like me to add that line in and give you the slightly revised final prompt?
@@ -340,44 +340,44 @@ Evaluate each student prompt using the six criteria below. For each criterion, a
 
 ### 1. Clarity of Reasoning Structure (1–10)
 - Measures how clearly the prompt instructs multi-step, logical reasoning.
-- Score 1–3: No reasoning structure.  
-- Score 4–6: Vague multi-step hints.  
-- Score 7–8: Clear CoT structure.  
+- Score 1–3: No reasoning structure.
+- Score 4–6: Vague multi-step hints.
+- Score 7–8: Clear CoT structure.
 - Score 9–10: Elegant breakdown into sub-parts.
 
 ### 2. Task Relevance & Purposefulness (1–10)
 - Measures how well the prompt aligns with real workplace tasks.
-- Score 1–3: Vague or unrealistic.  
-- Score 4–6: Plausible but general.  
-- Score 7–8: Realistic and specific.  
+- Score 1–3: Vague or unrealistic.
+- Score 4–6: Plausible but general.
+- Score 7–8: Realistic and specific.
 - Score 9–10: Valuable, clearly defined work-related task.
 
 ### 3. Specificity & Context Provided (1–5)
 - Measures presence of relevant framing, context, and constraints.
-- Score 1: No context.  
-- Score 2–3: Sparse or generic.  
-- Score 4: Useful, relevant details.  
+- Score 1: No context.
+- Score 2–3: Sparse or generic.
+- Score 4: Useful, relevant details.
 - Score 5: Rich, focused, well-targeted context.
 
 ### 4. CoT Instruction Appropriateness (1–5)
 - Measures how well the prompt cues chain-of-thought reasoning.
-- Score 1: No cue.  
-- Score 2–3: “Think step by step” is loosely integrated.  
-- Score 4: Clear CoT flow.  
+- Score 1: No cue.
+- Score 2–3: “Think step by step” is loosely integrated.
+- Score 4: Clear CoT flow.
 - Score 5: Seamlessly integrated step-wise structure.
 
 ### 5. Clarity of Language & Structure (1–5)
 - Measures clarity, grammar, professionalism.
-- Score 1: Confusing or ungrammatical.  
-- Score 2–3: Awkward or overly wordy.  
-- Score 4: Clear and well-structured.  
+- Score 1: Confusing or ungrammatical.
+- Score 2–3: Awkward or overly wordy.
+- Score 4: Clear and well-structured.
 - Score 5: Polished, precise, and professional.
 
 ### 6. Creativity & Adaptability (1–5)
 - Measures originality and reusability of the prompt.
-- Score 1: Formulaic.  
-- Score 2–3: Moderate adaptability.  
-- Score 4: Creative or flexible.  
+- Score 1: Formulaic.
+- Score 2–3: Moderate adaptability.
+- Score 4: Creative or flexible.
 - Score 5: Inventive and broadly reusable.
 
 ---
@@ -422,9 +422,9 @@ Let me know if you'd like this formatted as a system message or wrapped in a fun
 
 ## You (2025-03-26T05:49:16.153000+00:00)
 
-hey looks like chatgpt is not handling this request well. can we break it down into parts, where it evaluates no more than 50 at a time. once it creates a table for the first 50, then we can ask it to create a table starting from response 51. 
+hey looks like chatgpt is not handling this request well. can we break it down into parts, where it evaluates no more than 50 at a time. once it creates a table for the first 50, then we can ask it to create a table starting from response 51.
 
-So your ask is, create 2 prompts: one that makes chatgpt evaluate the first 50 without telling it anything about the follow up prompts. 
+So your ask is, create 2 prompts: one that makes chatgpt evaluate the first 50 without telling it anything about the follow up prompts.
 second, create a follow up prompt that i can use to ask chatgpt to execute on the next 50, and the last 52 responses.
 
 ## ChatGPT (2025-03-26T05:49:16.739510+00:00)
@@ -533,11 +533,11 @@ You will now evaluate additional student responses—specifically:
 
 Use the **same rubric and scoring rules** as before. You are expected to be consistent with your previous scoring. The rubric contains six criteria:
 
-1. Clarity of Reasoning Structure (1–10)  
-2. Task Relevance & Purposefulness (1–10)  
-3. Specificity & Context Provided (1–5)  
-4. CoT Instruction Appropriateness (1–5)  
-5. Clarity of Language & Structure (1–5)  
+1. Clarity of Reasoning Structure (1–10)
+2. Task Relevance & Purposefulness (1–10)
+3. Specificity & Context Provided (1–5)
+4. CoT Instruction Appropriateness (1–5)
+5. Clarity of Language & Structure (1–5)
 6. Creativity & Adaptability (1–5)
 
 ---
@@ -600,77 +600,77 @@ For each student-written prompt, evaluate it using the six criteria below. For e
 
 ---
 
-### 1. **Clarity of Reasoning Structure (1–10)**  
+### 1. **Clarity of Reasoning Structure (1–10)**
 *How clearly the prompt instructs multi-step, structured reasoning (chain-of-thought).*
 
-- **1–3**: No evidence of step-by-step thinking or reasoning structure.  
-- **4–6**: Some hint at reasoning, but vague or underspecified.  
-- **7–8**: Clear multi-step guidance; reasoning is scaffolded.  
+- **1–3**: No evidence of step-by-step thinking or reasoning structure.
+- **4–6**: Some hint at reasoning, but vague or underspecified.
+- **7–8**: Clear multi-step guidance; reasoning is scaffolded.
 - **9–10**: Elegantly structured reasoning chain, broken into steps or logical sub-tasks.
 
-**Example:**  
-- Low (2): “Help me decide what project to do.”  
-- Mid (6): “Think step by step to evaluate which project idea is best.”  
+**Example:**
+- Low (2): “Help me decide what project to do.”
+- Mid (6): “Think step by step to evaluate which project idea is best.”
 - High (10): “List my three project ideas. For each, evaluate its feasibility, impact, and time required. Then recommend the best one and explain your reasoning step by step.”
 
 ---
 
-### 2. **Task Relevance & Purposefulness (1–10)**  
+### 2. **Task Relevance & Purposefulness (1–10)**
 *How well the prompt aligns with a real, useful workplace task.*
 
-- **1–3**: Vague, unrealistic, or irrelevant to professional work.  
-- **4–6**: Plausible but generic or lacking clear utility.  
-- **7–8**: Describes a realistic and specific workplace scenario.  
+- **1–3**: Vague, unrealistic, or irrelevant to professional work.
+- **4–6**: Plausible but generic or lacking clear utility.
+- **7–8**: Describes a realistic and specific workplace scenario.
 - **9–10**: Highly purposeful, valuable, and clearly defined for real-world work.
 
-**Example:**  
-- Low (2): “Brainstorm something interesting.”  
-- Mid (6): “Help me write better emails.”  
+**Example:**
+- Low (2): “Brainstorm something interesting.”
+- Mid (6): “Help me write better emails.”
 - High (10): “Using step-by-step reasoning, generate three options for a persuasive email to a hesitant stakeholder, then choose the strongest and explain why.”
 
 ---
 
-### 3. **Specificity & Context Provided (1–5)**  
+### 3. **Specificity & Context Provided (1–5)**
 *How much relevant detail, framing, or parameters the prompt includes to guide the model.*
 
-- **1**: No context; model must guess everything.  
-- **2–3**: Minimal or generic context.  
-- **4**: Some concrete details (e.g., goals, tone, audience).  
+- **1**: No context; model must guess everything.
+- **2–3**: Minimal or generic context.
+- **4**: Some concrete details (e.g., goals, tone, audience).
 - **5**: Rich, focused context tailored to the task.
 
-**Example:**  
-- Low (1): “Help me make a presentation.”  
-- Mid (3): “Help me make a presentation for my team.”  
+**Example:**
+- Low (1): “Help me make a presentation.”
+- Mid (3): “Help me make a presentation for my team.”
 - High (5): “Help me make a 10-slide presentation for the marketing team on our Q1 metrics, emphasizing visual clarity and key takeaways.”
 
 ---
 
-### 4. **CoT Instruction Appropriateness (1–5)**  
+### 4. **CoT Instruction Appropriateness (1–5)**
 *How well the prompt cues chain-of-thought reasoning.*
 
-- **1**: No cue to reason step-by-step.  
-- **2–3**: CoT is mentioned but weakly integrated.  
-- **4**: CoT instructions are structured and logical.  
+- **1**: No cue to reason step-by-step.
+- **2–3**: CoT is mentioned but weakly integrated.
+- **4**: CoT instructions are structured and logical.
 - **5**: Seamlessly embedded reasoning process (e.g., “First… then… finally…”).
 
 ---
 
-### 5. **Clarity of Language & Structure (1–5)**  
+### 5. **Clarity of Language & Structure (1–5)**
 *How well-written, professional, and understandable the prompt is.*
 
-- **1**: Confusing, ungrammatical, or incoherent.  
-- **2–3**: Understandable but awkward or overly wordy.  
-- **4**: Clear, concise, and readable.  
+- **1**: Confusing, ungrammatical, or incoherent.
+- **2–3**: Understandable but awkward or overly wordy.
+- **4**: Clear, concise, and readable.
 - **5**: Polished, well-structured, and professional.
 
 ---
 
-### 6. **Creativity & Adaptability (1–5)**  
+### 6. **Creativity & Adaptability (1–5)**
 *Does the prompt show original thinking or potential for reuse in other contexts?*
 
-- **1**: Generic, formulaic, or rigid.  
-- **2–3**: Mild creativity or moderate flexibility.  
-- **4**: Creative framing or reusable with small changes.  
+- **1**: Generic, formulaic, or rigid.
+- **2–3**: Mild creativity or moderate flexibility.
+- **4**: Creative framing or reusable with small changes.
 - **5**: Highly adaptable and inventive.
 
 ---
@@ -737,7 +737,7 @@ Perfect—here is **Prompt 2**, designed as a seamless follow-up to Prompt 1. It
 ```
 You previously evaluated student-written prompts using a detailed six-part rubric. Continue the evaluation now using the **same criteria, definitions, and scoring logic** for the next batch of responses.
 
-These responses are part of the same task:  
+These responses are part of the same task:
 **“Using chain-of-thought prompting, write a prompt that you could use to help complete a project at work.”**
 
 ---
@@ -756,11 +756,11 @@ Each row contains a Response Number and the student's written prompt.
 ## 🔢 Evaluation Rules (Reminder)
 
 - Score each response using the **same six criteria** as before:
-  1. Clarity of Reasoning Structure (1–10)  
-  2. Task Relevance & Purposefulness (1–10)  
-  3. Specificity & Context Provided (1–5)  
-  4. CoT Instruction Appropriateness (1–5)  
-  5. Clarity of Language & Structure (1–5)  
+  1. Clarity of Reasoning Structure (1–10)
+  2. Task Relevance & Purposefulness (1–10)
+  3. Specificity & Context Provided (1–5)
+  4. CoT Instruction Appropriateness (1–5)
+  5. Clarity of Language & Structure (1–5)
   6. Creativity & Adaptability (1–5)
 
 - Assign **raw scores only**, using the rubric’s definitions.
@@ -829,62 +829,62 @@ For each student-written prompt, evaluate it using the six criteria below. For e
 
 ---
 
-### 1. **Clarity of Reasoning Structure (1–10)**  
+### 1. **Clarity of Reasoning Structure (1–10)**
 *How clearly the prompt instructs multi-step, structured reasoning (chain-of-thought).*
 
-- **1–3**: No evidence of step-by-step thinking or reasoning structure.  
-- **4–6**: Some hint at reasoning, but vague or underspecified.  
-- **7–8**: Clear multi-step guidance; reasoning is scaffolded.  
+- **1–3**: No evidence of step-by-step thinking or reasoning structure.
+- **4–6**: Some hint at reasoning, but vague or underspecified.
+- **7–8**: Clear multi-step guidance; reasoning is scaffolded.
 - **9–10**: Elegantly structured reasoning chain, broken into steps or logical sub-tasks.
 
 ---
 
-### 2. **Task Relevance & Purposefulness (1–10)**  
+### 2. **Task Relevance & Purposefulness (1–10)**
 *How well the prompt aligns with a real, useful workplace task.*
 
-- **1–3**: Vague, unrealistic, or irrelevant to professional work.  
-- **4–6**: Plausible but generic or lacking clear utility.  
-- **7–8**: Describes a realistic and specific workplace scenario.  
+- **1–3**: Vague, unrealistic, or irrelevant to professional work.
+- **4–6**: Plausible but generic or lacking clear utility.
+- **7–8**: Describes a realistic and specific workplace scenario.
 - **9–10**: Highly purposeful, valuable, and clearly defined for real-world work.
 
 ---
 
-### 3. **Specificity & Context Provided (1–5)**  
+### 3. **Specificity & Context Provided (1–5)**
 *How much relevant detail, framing, or parameters the prompt includes to guide the model.*
 
-- **1**: No context; model must guess everything.  
-- **2–3**: Minimal or generic context.  
-- **4**: Some concrete details (e.g., goals, tone, audience).  
+- **1**: No context; model must guess everything.
+- **2–3**: Minimal or generic context.
+- **4**: Some concrete details (e.g., goals, tone, audience).
 - **5**: Rich, focused context tailored to the task.
 
 ---
 
-### 4. **CoT Instruction Appropriateness (1–5)**  
+### 4. **CoT Instruction Appropriateness (1–5)**
 *How well the prompt cues chain-of-thought reasoning.*
 
-- **1**: No cue to reason step-by-step.  
-- **2–3**: CoT is mentioned but weakly integrated.  
-- **4**: CoT instructions are structured and logical.  
+- **1**: No cue to reason step-by-step.
+- **2–3**: CoT is mentioned but weakly integrated.
+- **4**: CoT instructions are structured and logical.
 - **5**: Seamlessly embedded reasoning process (e.g., “First… then… finally…”).
 
 ---
 
-### 5. **Clarity of Language & Structure (1–5)**  
+### 5. **Clarity of Language & Structure (1–5)**
 *How well-written, professional, and understandable the prompt is.*
 
-- **1**: Confusing, ungrammatical, or incoherent.  
-- **2–3**: Understandable but awkward or overly wordy.  
-- **4**: Clear, concise, and readable.  
+- **1**: Confusing, ungrammatical, or incoherent.
+- **2–3**: Understandable but awkward or overly wordy.
+- **4**: Clear, concise, and readable.
 - **5**: Polished, well-structured, and professional.
 
 ---
 
-### 6. **Creativity & Adaptability (1–5)**  
+### 6. **Creativity & Adaptability (1–5)**
 *Does the prompt show original thinking or potential for reuse in other contexts?*
 
-- **1**: Generic, formulaic, or rigid.  
-- **2–3**: Mild creativity or moderate flexibility.  
-- **4**: Creative framing or reusable with small changes.  
+- **1**: Generic, formulaic, or rigid.
+- **2–3**: Mild creativity or moderate flexibility.
+- **4**: Creative framing or reusable with small changes.
 - **5**: Highly adaptable and inventive.
 
 ---
@@ -1036,4 +1036,3 @@ Now begin. I will paste the three tables below.
 Once you paste all three tables into the chat, GPT will return a clean `.csv` block you can copy and save.
 
 Want a downloadable CSV too? I can help you turn it into a downloadable file using a Python snippet if needed.
-

@@ -2,20 +2,20 @@
 
 ## You (2025-07-21T16:24:28.340000+00:00)
 
-Help me refine this prompt for an o3 model. Begin creating the prompt. 
+Help me refine this prompt for an o3 model. Begin creating the prompt.
 
 ---
-I need you to create a list of tasks, similar to the one you provided in the previous response. However, this time, I need you to create more targeted tasks that can be tied back to the insights I share with you. 
+I need you to create a list of tasks, similar to the one you provided in the previous response. However, this time, I need you to create more targeted tasks that can be tied back to the insights I share with you.
 
-As an input, I’m sharing two files - 
+As an input, I’m sharing two files -
 
 Rick - Opportunities
 
 Rick - Accounts
 
-these are txt files but i need you to treat them as csv files. 
+these are txt files but i need you to treat them as csv files.
 
-For each of these files, we’ve extracted insights. 
+For each of these files, we’ve extracted insights.
 
 ### Opportunity Insights
 
@@ -43,32 +43,28 @@ For each of these files, we’ve extracted insights.
     - Two of the three are already **At‑Risk** (one is Critical) yet still lack forecast coverage—contradiction.
     - All three carry ≥4 risks, making them the densest individual risk records.
     - Combined lifetime value ≈ $51 M—legacy revenue under threat.
-    
 
-For your context, we are developing an AI-driven insight system that analyzes multiple opportunities and accounts to surface key actionable insights in the form of clusters. These insights are not recommendations, but rather they are just surfacing anomalies or aspects about their accounts that an account executive needs to know as they are completing tasks. 
+
+For your context, we are developing an AI-driven insight system that analyzes multiple opportunities and accounts to surface key actionable insights in the form of clusters. These insights are not recommendations, but rather they are just surfacing anomalies or aspects about their accounts that an account executive needs to know as they are completing tasks.
 
 Your task is to provide a list of tasks that can align with the insights. For example, if an insight reads
 
 “61 out of 101 deals (≈ $79.7M) carry the risk 🏅 No Secured technical win—making it the most common single-point risk across the pipeline.”
 then are there specific tasks around those deals that an account executive might need to look at in order to start taking action on those deals?
 
-However, the tasks do need to be realistic. So maybe an indeal approach might be to first internally create a list of tasks based on the account details, and then see if any of those tasks can align best with the insights shared. Do not provide a task for an account or deal that is unrelated to the key message or takeaway of the insight. For example, 
+However, the tasks do need to be realistic. So maybe an indeal approach might be to first internally create a list of tasks based on the account details, and then see if any of those tasks can align best with the insights shared. Do not provide a task for an account or deal that is unrelated to the key message or takeaway of the insight. For example,
 
-if an insight reads “61 out of 101 deals (≈ $79.7M) carry the risk 🏅 No Secured technical win—making it the most common single-point risk across the pipeline.”, then ‘Hold/Push: Budget Freeze – Check Back in Q1’ may not be ideal to show since it may not help an AE with the message in the takeaway. 
+if an insight reads “61 out of 101 deals (≈ $79.7M) carry the risk 🏅 No Secured technical win—making it the most common single-point risk across the pipeline.”, then ‘Hold/Push: Budget Freeze – Check Back in Q1’ may not be ideal to show since it may not help an AE with the message in the takeaway.
 
-Also, make sure that there’s some logical coherence with the data and the tasks. For example, if an insight reads 
+Also, make sure that there’s some logical coherence with the data and the tasks. For example, if an insight reads
 
-“3 deals currently in Best-Case”, then ‘schedule discovery call’ would make no sense since the deal is already in best case. 
+“3 deals currently in Best-Case”, then ‘schedule discovery call’ would make no sense since the deal is already in best case.
 
 Make sure to first review all the data, and internally make sense of the scenario before creating a list of tasks for yourself.
 
-## ChatGPT (2025-07-21T16:24:40.986799+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Crafting the prompt", "content": "The user wants me to start creating the prompt. I need to follow the structure: Goal, Return Format, Warnings & Guardrails, and Context & Additional Elements. Based on their instructions, I'll summarize key insights from our conversation and choose the right analytical persona, like \"Revenue Operations Analyst\" or \"Sales Strategy Analyst\". Since this is an internal task, there's no need for external data or clarifications. I'll proceed directly with generating a well-structured prompt that meets their requirements and reflects the content provided.", "chunks": [], "finished": true}], "source_analysis_msg_id": "aa3bbd45-6643-4464-a40d-ae0e2b18d65a"}
 
-## ChatGPT (2025-07-21T16:24:45.083281+00:00)
 
-{"content_type": "reasoning_recap", "content": "Thought for 12 seconds"}
 
 ## ChatGPT (2025-07-21T16:24:29.116611+00:00)
 
@@ -76,17 +72,17 @@ Make sure to first review all the data, and internally make sense of the scenari
 
 ---
 
-### 1. Goal  
-Produce a **concise, prioritized task list** for an Account Executive (AE) that directly addresses the highest-impact pipeline and customer-health risks surfaced in two CSV-formatted files:  
+### 1. Goal
+Produce a **concise, prioritized task list** for an Account Executive (AE) that directly addresses the highest-impact pipeline and customer-health risks surfaced in two CSV-formatted files:
 
-- `Rick - Opportunities.csv` (opportunity-level data)  
-- `Rick - Accounts.csv` (account-level data)  
+- `Rick - Opportunities.csv` (opportunity-level data)
+- `Rick - Accounts.csv` (account-level data)
 
 The tasks **must tie back explicitly to the numbered insights** supplied below, preserving logical coherence with stage, health, forecast label, and time horizon details.
 
 ---
 
-### 2. Return Format  
+### 2. Return Format
 Return a JSON array of task objects, ordered by decreasing dollar impact, where each object has:
 
 | Key | Type | Description |
@@ -114,23 +110,23 @@ Example element:
 
 ---
 
-### 3. Warnings & Guardrails  
+### 3. Warnings & Guardrails
 
-1. **Stay Insight-Bound** – generate **no tasks** that cannot be clearly justified by the supplied insights.  
-2. **No Speculation** – use only fields present in the two CSVs (assume typical CRM headers such as `Stage`, `ForecastCategory`, `LastActivityDate`, `HealthScore`, etc.).  
-3. **Realistic Actions** – task verbs must reflect standard AE motions (e.g., secure technical win, schedule executive alignment, involve CSM).  
-4. **Consistent Logic** – avoid tasks that contradict deal stage (e.g., no “discovery call” for `Stage = Negotiation`).  
-5. **Dollar Impact Precision** – compute `impact_$` by summing the `Amount` (Opportunities) or `ARR`/`Pipeline` (Accounts) referenced by each insight.  
-6. **No Recommendations** – tasks merely surface what to do next; they **do not** prescribe strategic shifts or probability adjustments.  
+1. **Stay Insight-Bound** – generate **no tasks** that cannot be clearly justified by the supplied insights.
+2. **No Speculation** – use only fields present in the two CSVs (assume typical CRM headers such as `Stage`, `ForecastCategory`, `LastActivityDate`, `HealthScore`, etc.).
+3. **Realistic Actions** – task verbs must reflect standard AE motions (e.g., secure technical win, schedule executive alignment, involve CSM).
+4. **Consistent Logic** – avoid tasks that contradict deal stage (e.g., no “discovery call” for `Stage = Negotiation`).
+5. **Dollar Impact Precision** – compute `impact_$` by summing the `Amount` (Opportunities) or `ARR`/`Pipeline` (Accounts) referenced by each insight.
+6. **No Recommendations** – tasks merely surface what to do next; they **do not** prescribe strategic shifts or probability adjustments.
 
 ---
 
-### 4. Context & Additional Elements  
+### 4. Context & Additional Elements
 
-#### 4.1 Execution Persona  
+#### 4.1 Execution Persona
 Embed the reasoning of a **“Revenue Operations Analyst”**—skilled at interrogating CRM data, quantifying risk clusters, and translating them into next-step tasks that sales teams actually perform.
 
-#### 4.2 Supplied Insights  
+#### 4.2 Supplied Insights
 
 | ID | Category | Insight (abridged) | Dollar Impact |
 |----|----------|--------------------|---------------|
@@ -144,18 +140,17 @@ Embed the reasoning of a **“Revenue Operations Analyst”**—skilled at inter
 
 Use these IDs in `insight_ref`.
 
-#### 4.3 Analytical Steps (implicit)  
-1. Load both CSVs.  
-2. Filter opportunities/accounts linked to each insight criteria.  
-3. Quantify `impact_$`.  
-4. Draft candidate tasks; discard any lacking direct linkage.  
+#### 4.3 Analytical Steps (implicit)
+1. Load both CSVs.
+2. Filter opportunities/accounts linked to each insight criteria.
+3. Quantify `impact_$`.
+4. Draft candidate tasks; discard any lacking direct linkage.
 5. Output JSON array per **Return Format**.
 
 ---
 
-**Checklist (before returning):**  
-- [ ] Every task references exactly one `insight_ref`.  
-- [ ] `impact_$` sums match source rows.  
-- [ ] No speculative fields or recommendations.  
+**Checklist (before returning):**
+- [ ] Every task references exactly one `insight_ref`.
+- [ ] `impact_$` sums match source rows.
+- [ ] No speculative fields or recommendations.
 - [ ] Actions, roles, and due dates are realistic.
-

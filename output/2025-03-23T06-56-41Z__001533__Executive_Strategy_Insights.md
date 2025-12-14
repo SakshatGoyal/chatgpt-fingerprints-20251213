@@ -160,48 +160,48 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Discussion Topic 1: Innovation Capabilities as a Strategic Differentiator
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Apple’s success is driven by its relentless focus on innovative design and user-centric technology—elements that starkly contrast with Nokia’s failure to evolve its product strategy. This underscores that a sustained commitment to innovation is essential for maintaining competitive market advantage. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Balancing the risk of investing in breakthrough innovations versus enhancing incremental improvements.  
-- **Underlying Beliefs & Biases:** A notable overreliance on traditional performance metrics led Nokia’s leadership to undervalue emerging technologies, evidencing a bias toward historical success rather than future potential.  
-- **Expected vs. Actual Outcomes:** Nokia anticipated that its established technological approach would continue to secure market leadership; instead, its inability to innovate resulted in a dramatic loss of market share, unlike Apple’s successful market expansion.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Balancing the risk of investing in breakthrough innovations versus enhancing incremental improvements.
+- **Underlying Beliefs & Biases:** A notable overreliance on traditional performance metrics led Nokia’s leadership to undervalue emerging technologies, evidencing a bias toward historical success rather than future potential.
+- **Expected vs. Actual Outcomes:** Nokia anticipated that its established technological approach would continue to secure market leadership; instead, its inability to innovate resulted in a dramatic loss of market share, unlike Apple’s successful market expansion.
 - **Broader Implications:** Executives should recognize that short-term efficiencies are secondary to long-term investments in innovation, which drive consumer satisfaction and competitive resilience. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper details how Apple’s pioneering use of multi-touch technology and intuitive interfaces redefined consumer expectations, with empirical support from surveys in Jakarta and Indonesia linking innovation directly to enhanced consumer satisfaction. This stands in stark contrast to Nokia’s iterative improvements of an increasingly obsolete operating system. **[Empirical]**
 
 ---
 
 ### Discussion Topic 2: Product Line Synergy and Ecosystem Integration
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Apple’s deliberate creation of an interconnected product ecosystem—where devices like the iPhone, iPad, and Apple Watch reinforce each other—has cemented its market leadership, whereas Nokia’s fragmented approach failed to generate a similar synergistic effect. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Deciding whether to prioritize product diversification or to focus on seamless ecosystem integration to elevate the user experience.  
-- **Underlying Beliefs & Biases:** Nokia assumed that a broader product range would naturally translate into market success, overlooking the critical importance of interoperability and integrated consumer experiences.  
-- **Expected vs. Actual Outcomes:** While Nokia expected that diversification alone would sustain market relevance, Apple’s ecosystem strategy resulted in superior consumer engagement and loyalty, driving cross-product adoption and sustained revenue growth.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Deciding whether to prioritize product diversification or to focus on seamless ecosystem integration to elevate the user experience.
+- **Underlying Beliefs & Biases:** Nokia assumed that a broader product range would naturally translate into market success, overlooking the critical importance of interoperability and integrated consumer experiences.
+- **Expected vs. Actual Outcomes:** While Nokia expected that diversification alone would sustain market relevance, Apple’s ecosystem strategy resulted in superior consumer engagement and loyalty, driving cross-product adoption and sustained revenue growth.
 - **Broader Implications:** For executives, the strategic takeaway is to foster product integration that creates a cohesive user experience, rather than relying solely on expanding product lines. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical evidence within the study highlights the success of Apple’s ecosystem—demonstrated by integrated features like Airdrop and cross-device functionality—which has significantly enhanced user satisfaction and market share. In contrast, Nokia’s disparate product offerings could not effectively compete in a market increasingly defined by seamless interconnectivity. **[Empirical]**
 
 ---
 
 ### Discussion Topic 3: Leadership Decision-Making and Cognitive Biases
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Nokia’s strategic decline was not just a failure of technology but a failure of leadership; overconfidence and an entrenched reliance on outdated decision models prevented its timely adoption of innovative technologies. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Overcoming internal resistance and cognitive inertia in rapidly evolving technological landscapes.  
-- **Underlying Beliefs & Biases:** Nokia’s leadership displayed confirmation bias by clinging to traditional metrics and dismissing emerging trends, thereby underestimating the market-shaping potential of innovations such as multi-touch interfaces.  
-- **Expected vs. Actual Outcomes:** The expectation that past success would secure future dominance proved fatally flawed; instead, Nokia’s reluctance to pivot led to its market exit, contrasting sharply with Apple’s agile, research-driven strategy.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Overcoming internal resistance and cognitive inertia in rapidly evolving technological landscapes.
+- **Underlying Beliefs & Biases:** Nokia’s leadership displayed confirmation bias by clinging to traditional metrics and dismissing emerging trends, thereby underestimating the market-shaping potential of innovations such as multi-touch interfaces.
+- **Expected vs. Actual Outcomes:** The expectation that past success would secure future dominance proved fatally flawed; instead, Nokia’s reluctance to pivot led to its market exit, contrasting sharply with Apple’s agile, research-driven strategy.
 - **Broader Implications:** Executives must institute decision-making frameworks that actively challenge entrenched assumptions and promote adaptive, forward-looking strategies to avoid the pitfalls of cognitive inertia. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The study presents evidence that Nokia’s leadership, often lacking a strong technical background, misjudged the potential of disruptive technologies, favoring quantitative over qualitative innovation signals. This misalignment between perception and market reality directly contributed to its strategic downfall, whereas Apple’s balanced approach of market research and engineering excellence drove sustained success. **[Empirical]**
 
 ---
@@ -211,9 +211,9 @@ The study presents evidence that Nokia’s leadership, often lacking a strong te
 - **Coverage Fit:** High — The paper offers a comprehensive comparative analysis that directly addresses the strategic challenges and decision-making processes critical to executive leadership in the technology sector.
 - **Bias & Cognitive Modeling Content:** Present — The discussion explicitly highlights managerial overconfidence and confirmation bias, particularly in Nokia’s strategic missteps.
 - **Clarity of Methods & Outcomes:** Clear — The case study methodology is well-articulated, though the absence of detailed quantitative data on innovation’s market impact limits empirical precision.
-- **Areas with No Data:**  
-    - **Insight Statement:** Fully supported by the paper’s qualitative evidence.  
-    - **Executive Decision-Making Context:** Thoroughly addressed with both empirical and inferred insights.  
+- **Areas with No Data:**
+    - **Insight Statement:** Fully supported by the paper’s qualitative evidence.
+    - **Executive Decision-Making Context:** Thoroughly addressed with both empirical and inferred insights.
     - **Supporting Context:** Empirical data is provided, albeit with opportunities for further quantitative analysis.
 
 ## You (2025-03-23T06:57:31.047000+00:00)
@@ -453,21 +453,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -480,4 +480,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T06:59:14.146189+00:00)
 
 Li, K. (2023). Comparative analysis of the technology strategy in the high-tech industry: A case study of Apple and Nokia. *BCP Business & Management CMAM*, *36*, 445–450.
-

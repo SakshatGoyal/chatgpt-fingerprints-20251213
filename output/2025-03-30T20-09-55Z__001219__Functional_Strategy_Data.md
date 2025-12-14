@@ -30,7 +30,7 @@ Each cluster should include:
 - A list of associated ModuleIDs
 
 > ✅ If fewer than three valid clusters are found, return only those supported by the data. Do not fabricate clusters.
-> 
+>
 
 ---
 
@@ -83,7 +83,7 @@ For each case:
 - List the associated ModuleIDs
 
 > Only include tags that are not "Unknown", and fall in the bottom 25% of frequency in their column.
-> 
+>
 
 ---
 
@@ -98,7 +98,7 @@ For each such tag:
 - List the associated ModuleIDs
 
 > Only include tags that are not "Unknown", and fall in the top 25% of frequency within the rare subset.
-> 
+>
 
 ---
 
@@ -196,88 +196,87 @@ Below is an analysis based purely on the observed tag–module data. (All “Unk
 
 ---
 
-### CATEGORY 1: Most Common Tag Combinations  
+### CATEGORY 1: Most Common Tag Combinations
 These full 3‑tag tuples appear three or more times and are notable for recurring “trade‐off” patterns.
 
-1. **Cluster 1**  
+1. **Cluster 1**
    - **Combination:** *(Friction Archetype: “Siloed Fragmentation”, Dilemma Type: “Trade‐off Blindness”, Failure Mode: “Structural Misfit”)*
    - **Summary:** This pattern – seen in six modules – shows that when fragmentation is noted, a trade–off dilemma often pairs with a structural mismatch.
-   - **ModuleIDs:**  
-     • CATEGORICAL MODULE 21 - C2-I5  
-     • CATEGORICAL MODULE 33 - C3-I3  
-     • CATEGORICAL MODULE 3 - C3-I5  
-     • CATEGORICAL MODULE 26 - C4-I4  
-     • CATEGORICAL MODULE 29 - C1-I5  
-     • CATEGORICAL MODULE 58 - C1-I7  
+   - **ModuleIDs:**
+     • CATEGORICAL MODULE 21 - C2-I5
+     • CATEGORICAL MODULE 33 - C3-I3
+     • CATEGORICAL MODULE 3 - C3-I5
+     • CATEGORICAL MODULE 26 - C4-I4
+     • CATEGORICAL MODULE 29 - C1-I5
+     • CATEGORICAL MODULE 58 - C1-I7
 
-2. **Cluster 2**  
+2. **Cluster 2**
    - **Combination:** *(Friction Archetype: “Legacy Lock-In”, Dilemma Type: “Trade‐off Blindness”, Failure Mode: “Structural Misfit”)*
    - **Summary:** In six modules, the enduring “lock‐in” theme is combined with trade–off issues that lead to structural misfits.
-   - **ModuleIDs:**  
-     • CATEGORICAL MODULE 22 - C3-I5  
-     • CATEGORICAL MODULE 25 - C3-I5  
-     • CATEGORICAL MODULE 42 - C3-I5  
-     • CATEGORICAL MODULE 47 - C3-I5  
-     • CATEGORICAL MODULE 3 - C4-I2  
-     • CATEGORICAL MODULE 9 - C5-I3  
+   - **ModuleIDs:**
+     • CATEGORICAL MODULE 22 - C3-I5
+     • CATEGORICAL MODULE 25 - C3-I5
+     • CATEGORICAL MODULE 42 - C3-I5
+     • CATEGORICAL MODULE 47 - C3-I5
+     • CATEGORICAL MODULE 3 - C4-I2
+     • CATEGORICAL MODULE 9 - C5-I3
 
-3. **Cluster 3**  
+3. **Cluster 3**
    - **Combination:** *(Friction Archetype: “Confirmation Cocoon”, Dilemma Type: “Trade‐off Blindness”, Failure Mode: “Translation Breakdown”)*
    - **Summary:** Although seen in three modules, this cluster stands out for its mix of confirmation bias and a breakdown in translating strategy.
-   - **ModuleIDs:**  
-     • CATEGORICAL MODULE 17 - C4-I4  
-     • CATEGORICAL MODULE 22 - C4-I4  
-     • CATEGORICAL MODULE 24 - C4-I4  
+   - **ModuleIDs:**
+     • CATEGORICAL MODULE 17 - C4-I4
+     • CATEGORICAL MODULE 22 - C4-I4
+     • CATEGORICAL MODULE 24 - C4-I4
 
 ---
 
-### CATEGORY 2: Least Common Tag Combinations  
+### CATEGORY 2: Least Common Tag Combinations
 These full 3‑tag tuples appear only once (or twice, if applicable), highlighting unique alignments.
 
-1. **Cluster 1**  
+1. **Cluster 1**
    - **Combination:** *(Friction Archetype: “Outcome Obsession”, Dilemma Type: “Ambiguity”, Failure Mode: “Structural Misfit”)*
    - **Summary:** This rare configuration appears only once and pairs a focus on outcomes with ambiguous conditions that nonetheless result in structural misalignment.
-   - **ModuleIDs:**  
-     • CATEGORICAL MODULE 4 - C2-I1  
+   - **ModuleIDs:**
+     • CATEGORICAL MODULE 4 - C2-I1
 
-2. **Cluster 2**  
+2. **Cluster 2**
    - **Combination:** *(Friction Archetype: “Legacy Lock-In”, Dilemma Type: “Pace”, Failure Mode: “Structural Misfit”)*
    - **Summary:** Occurring only once, this combination shows that even in legacy settings a pacing dilemma can uniquely align with structural issues.
-   - **ModuleIDs:**  
-     • CATEGORICAL MODULE 19 - C2-I1  
+   - **ModuleIDs:**
+     • CATEGORICAL MODULE 19 - C2-I1
 
-3. **Cluster 3**  
+3. **Cluster 3**
    - **Combination:** *(Friction Archetype: “Talent-Capability Gap”, Dilemma Type: “Trade–off Blindness”, Failure Mode: “Overconfidence”)*
    - **Summary:** This singular instance links capability gaps with a trade–off dilemma and overconfident execution.
-   - **ModuleIDs:**  
-     • CATEGORICAL MODULE 20 - C2-I1  
+   - **ModuleIDs:**
+     • CATEGORICAL MODULE 20 - C2-I1
 
 ---
 
-### CATEGORY 3: Least Common Tags Within Common Combinations  
+### CATEGORY 3: Least Common Tags Within Common Combinations
 Within the frequent (Category 1) combinations, we search for a column tag that is relatively rare (i.e. in the bottom quartile by frequency).
 
-- **Cluster:**  
-  - **Column & Tag:** *Friction Archetype – “Confirmation Cocoon”*  
+- **Cluster:**
+  - **Column & Tag:** *Friction Archetype – “Confirmation Cocoon”*
   - **Context:** Among the Friction Archetype values, “Confirmation Cocoon” (with a frequency of about 5 in the dataset) is at the lower end compared to tags like “Legacy Lock-In” or “Outcome Obsession.” It appears in the common combination *(“Confirmation Cocoon”, “Trade–off Blindness”, “Translation Breakdown”)*.
-  - **ModuleIDs:**  
-    • CATEGORICAL MODULE 17 - C4-I4  
-    • CATEGORICAL MODULE 22 - C4-I4  
-    • CATEGORICAL MODULE 24 - C4-I4  
+  - **ModuleIDs:**
+    • CATEGORICAL MODULE 17 - C4-I4
+    • CATEGORICAL MODULE 22 - C4-I4
+    • CATEGORICAL MODULE 24 - C4-I4
 
 ---
 
-### CATEGORY 4: Most Common Tags Within Rare Combinations  
+### CATEGORY 4: Most Common Tags Within Rare Combinations
 Within the rare combinations (Category 2), we look for a column tag that recurs across these unique configurations.
 
-- **Cluster:**  
-  - **Column & Tag:** *Failure Mode – “Structural Misfit”*  
+- **Cluster:**
+  - **Column & Tag:** *Failure Mode – “Structural Misfit”*
   - **Context:** Out of the three rare combinations, “Structural Misfit” appears in two (in combination with “Outcome Obsession”/“Ambiguity” and “Legacy Lock-In”/“Pace”). This makes it the most common failure mode among the rare patterns.
-  - **Rare Combinations & ModuleIDs:**  
-    • *(“Outcome Obsession”, “Ambiguity”, “Structural Misfit”)* → CATEGORICAL MODULE 4 - C2-I1  
-    • *(“Legacy Lock-In”, “Pace”, “Structural Misfit”)* → CATEGORICAL MODULE 19 - C2-I1  
+  - **Rare Combinations & ModuleIDs:**
+    • *(“Outcome Obsession”, “Ambiguity”, “Structural Misfit”)* → CATEGORICAL MODULE 4 - C2-I1
+    • *(“Legacy Lock-In”, “Pace”, “Structural Misfit”)* → CATEGORICAL MODULE 19 - C2-I1
 
 ---
 
 Each insight was drawn solely from the observed tag frequencies and co–occurrence patterns in the data.
-

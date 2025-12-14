@@ -160,45 +160,45 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### **Insight 1: Tariff Impacts on Overseas Sourcing**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Imposing tariffs on overseas-sourced batteries reduces battery R&D investments, leading to lower battery quality and wholesale prices, while simultaneously driving up EV retail prices and squeezing profit margins for both battery suppliers and EV manufacturers." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-In a strategic dilemma, executives must decide whether to maintain overseas sourcing under high tariff regimes or shift to domestic procurement. The analysis shows that while tariffs can protect domestic industries, they also reduce R&D investment by overseas suppliers, ultimately lowering product quality and profitability. This evidence challenges the common assumption that tariffs invariably protect local markets without collateral cost impacts.  
+**2. Executive Decision-Making Context**
+In a strategic dilemma, executives must decide whether to maintain overseas sourcing under high tariff regimes or shift to domestic procurement. The analysis shows that while tariffs can protect domestic industries, they also reduce R&D investment by overseas suppliers, ultimately lowering product quality and profitability. This evidence challenges the common assumption that tariffs invariably protect local markets without collateral cost impacts.
 **[Empirical]**
 
-**3. Supporting Context**  
-The paper’s model (Theorem 1) quantifies how an increase in the tariff (t) directly reduces the optimal battery quality (q₁*) and supplier profit functions. Figures such as Figure 5 clearly illustrate that higher tariffs lead to decreased battery quality and lower profits for both suppliers and manufacturers, reinforcing the need for a balanced tariff policy.  
+**3. Supporting Context**
+The paper’s model (Theorem 1) quantifies how an increase in the tariff (t) directly reduces the optimal battery quality (q₁*) and supplier profit functions. Figures such as Figure 5 clearly illustrate that higher tariffs lead to decreased battery quality and lower profits for both suppliers and manufacturers, reinforcing the need for a balanced tariff policy.
 **[Empirical]**
 
 ---
 
 ### **Insight 2: Subsidies as a Lever for Enhancing Local Sourcing and R&D Cooperation**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "Government subsidies under the IRA can significantly enhance battery quality and improve profit margins for domestic sourcing and cooperative R&D strategies—but only if these subsidies exceed critical threshold levels." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-Executives face the challenge of determining whether increased government subsidies will drive genuine improvements in product quality or merely inflate short-term profit margins. The study reveals that when subsidies are relatively low, they might boost profits without enhancing battery quality. However, once subsidies cross certain thresholds, both local sourcing and cooperative R&D strategies yield superior product quality and profitability. This insight urges decision-makers to consider subsidy levels as a pivotal factor in strategic sourcing decisions.  
+**2. Executive Decision-Making Context**
+Executives face the challenge of determining whether increased government subsidies will drive genuine improvements in product quality or merely inflate short-term profit margins. The study reveals that when subsidies are relatively low, they might boost profits without enhancing battery quality. However, once subsidies cross certain thresholds, both local sourcing and cooperative R&D strategies yield superior product quality and profitability. This insight urges decision-makers to consider subsidy levels as a pivotal factor in strategic sourcing decisions.
 **[Empirical]**
 
-**3. Supporting Context**  
-The theoretical derivations (Theorems 2 and 3) illustrate that battery quality (q₂* and q₃*) and profitability under domestic and cooperative strategies are non-linearly dependent on the subsidy (s). Numerical simulations (Figures 6 and 8) partition the subsidy–tariff space into regions where local supply chains outperform or underperform compared to overseas sourcing, underlining that only substantial subsidies result in improved quality.  
+**3. Supporting Context**
+The theoretical derivations (Theorems 2 and 3) illustrate that battery quality (q₂* and q₃*) and profitability under domestic and cooperative strategies are non-linearly dependent on the subsidy (s). Numerical simulations (Figures 6 and 8) partition the subsidy–tariff space into regions where local supply chains outperform or underperform compared to overseas sourcing, underlining that only substantial subsidies result in improved quality.
 **[Empirical]**
 
 ---
 
 ### **Insight 3: Strategic Flexibility Amid Competitive Dynamics**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 "No single sourcing strategy universally dominates; instead, optimal decision-making depends on the interplay of cost coefficients, tariff and subsidy levels, and competitive market pressures—necessitating agile, context-specific strategies." **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-A key strategic dilemma for EV supply chain leaders is selecting the most advantageous sourcing strategy in a dynamic policy environment. The paper demonstrates that overseas sourcing, domestic procurement, and cooperative R&D each have situational advantages, as outlined in the various corollaries (1–3). This nuanced view refutes the simplistic notion that domestic sourcing is always preferable under the IRA, highlighting instead the need for constant re-evaluation of market conditions and internal cost structures.  
+**2. Executive Decision-Making Context**
+A key strategic dilemma for EV supply chain leaders is selecting the most advantageous sourcing strategy in a dynamic policy environment. The paper demonstrates that overseas sourcing, domestic procurement, and cooperative R&D each have situational advantages, as outlined in the various corollaries (1–3). This nuanced view refutes the simplistic notion that domestic sourcing is always preferable under the IRA, highlighting instead the need for constant re-evaluation of market conditions and internal cost structures.
 **[Empirical]**
 
-**3. Supporting Context**  
-Through rigorous game theoretic modeling and numerical partitioning of the subsidy–tariff (s–t) and cost coefficient spaces (Figures 2–4), the paper delineates precise thresholds where one strategy outperforms another. These insights equip executives with a framework to perform scenario analyses, ensuring strategic agility as external policy conditions and competitive landscapes evolve.  
+**3. Supporting Context**
+Through rigorous game theoretic modeling and numerical partitioning of the subsidy–tariff (s–t) and cost coefficient spaces (Figures 2–4), the paper delineates precise thresholds where one strategy outperforms another. These insights equip executives with a framework to perform scenario analyses, ensuring strategic agility as external policy conditions and competitive landscapes evolve.
 **[Empirical]**
 
 ---
@@ -447,21 +447,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -474,4 +474,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T09:44:22.218351+00:00)
 
 Zhang, L., & Shi, W. (2025). The impacts of the US Inflation Reduction Act on EV supply chains. *Sustainability, 17*(653). https://doi.org/10.3390/su17020653
-

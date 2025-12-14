@@ -5,13 +5,13 @@
 If you have any questions about the following objective, let me know. And if not, I can begin sharing the user stories with you.
 
 #Maintain the following in your working memory
-You're the account executive, and I'm the product designer. 
+You're the account executive, and I'm the product designer.
 
-I am going to share an interaction flow plan along with a user story. I am designing two views: an overview and an account view. 
+I am going to share an interaction flow plan along with a user story. I am designing two views: an overview and an account view.
 
 The overview will display data from all accounts and will focus on high-level, critical metrics, data, and information, making it the most actionable. For each outcome or interaction flow plan, I will identify the most relevant and important pieces of information that would initially capture your interest in an account.
 
-In contrast, the account view will provide detailed information and activity related to just one account, allowing you to take more informed actions. 
+In contrast, the account view will provide detailed information and activity related to just one account, allowing you to take more informed actions.
 
 Think of the overview page as a way to notice key insights, while the account view serves as a space to learn and understand in-depth details.
 
@@ -22,35 +22,35 @@ I'll be sharing a lot of different user stories with you. Here's the format:
 - User Story
 - Flow
 - Edge Cases
-- Outcome. 
+- Outcome.
 
-The user story represents your scenario, which can be seen as the task you are trying to accomplish. 
+The user story represents your scenario, which can be seen as the task you are trying to accomplish.
 
-The flow describes how I interpret the path you might take to reach the desired outcome. 
+The flow describes how I interpret the path you might take to reach the desired outcome.
 
-Edge cases refer to potential issues or complications that could arise during the process. 
+Edge cases refer to potential issues or complications that could arise during the process.
 
 The outcome is what you hope to achieve at the end of the interaction.
 
 ---
 
-Here's the format I expect from you. 
+Here's the format I expect from you.
 
 ##Overview Page
 ###Inputs
 ###Ideal structure
-###Expected Output. 
+###Expected Output.
 
 ##Account Page
 ###Inputs
 ###Ideal Structure
-###Expected Output. 
+###Expected Output.
 
-The inputs represent the information you might need to take action on each page for an individual page. This could be data, data visualizations, call-outs, tags, or anything else that you might feel is the most effective way for you to get a quick glance. 
+The inputs represent the information you might need to take action on each page for an individual page. This could be data, data visualizations, call-outs, tags, or anything else that you might feel is the most effective way for you to get a quick glance.
 
-The ideal structure is the format in which you'd like the inputs to be received. If it's a table, let me know the headers and rows along with some sample values. If it's a data visualization, tell me how you'd like to visualize it—it could be quantities over time, quantities by category, qualitative tags, whatever it may be. But I'd like you to use specific data examples to illustrate your structure. 
+The ideal structure is the format in which you'd like the inputs to be received. If it's a table, let me know the headers and rows along with some sample values. If it's a data visualization, tell me how you'd like to visualize it—it could be quantities over time, quantities by category, qualitative tags, whatever it may be. But I'd like you to use specific data examples to illustrate your structure.
 
-The expected output is completely optional and may not apply to all user stories. And if you feel it doesn't, call it out. But its basically meant to represent anything that you might want the system to tell you either through the interaction, or at the end of an interaction, or both. 
+The expected output is completely optional and may not apply to all user stories. And if you feel it doesn't, call it out. But its basically meant to represent anything that you might want the system to tell you either through the interaction, or at the end of an interaction, or both.
 
 ---
 
@@ -192,7 +192,7 @@ Would you like me to suggest visualization layouts or naming conventions for UI 
 
 **Edge Cases:**
 
-1. Conflicting plays → sequencing suggestion; 
+1. Conflicting plays → sequencing suggestion;
 2. sudden product launch shifts scoring → real-time refresh.
 
 **Outcome:** Effort concentrates on the highest-impact expansion paths.
@@ -502,8 +502,8 @@ Would you like this module tied to deal review workflows or accessible via Sales
 
 **Edge Cases:**
 
-1. Signal already actioned → ownership alert; 
-2. false positive → “Not Relevant” feedback retrains model; 
+1. Signal already actioned → ownership alert;
+2. false positive → “Not Relevant” feedback retrains model;
 3. API limits hit → deferred scan.
 
 **Outcome:** Alex engages prospects at exactly the right moment with a tailored proposition, driving net-new pipeline.
@@ -591,4 +591,3 @@ This story nails the proactive, high-tempo AE workflow that wins in the Majors s
 ---
 
 Would you like to build a section that tracks opps created from signals and how they convert over time? Or should we move on to the next user story?
-

@@ -388,4 +388,3 @@ Checklist:
 | ModuleID                                | Friction Archetype | Dilemma Type | Failure Mode    |
 |-----------------------------------------|--------------------|--------------|-----------------|
 | CATEGORICAL MODULE 77 - C1-I7           | Legacy Lock-In     | Pace         | Structural Misfit |
-

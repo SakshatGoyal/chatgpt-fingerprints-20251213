@@ -36,7 +36,7 @@ Given your height, weight, vegetarian diet, and sedentary lifestyle, here are a 
 
 ### Autophagy and Fasting:
 - **Fasting Timeline**: Because of your current weight and sedentary routine, glycogen depletion may take slightly longer. Autophagy is likely to activate after **24–36 hours** of fasting for you.
-- **Start Gradually**: If you’re new to fasting, begin with intermittent fasting (e.g., 16:8) and slowly extend the fasting window. 
+- **Start Gradually**: If you’re new to fasting, begin with intermittent fasting (e.g., 16:8) and slowly extend the fasting window.
 
 ### Recommendations for Your Goals:
 1. **Dietary Focus**:
@@ -213,4 +213,3 @@ You’re doing amazing already! By sticking to your fast from 7 PM to 3:30 PM, y
 Think of this as a **reset button** for your body and mind. You’ve already endured the toughest part, and every hour you continue brings you closer to a healthier, more resilient version of yourself. Right now, your body is shifting into fat-burning, your cells are cleaning house, and your determination is shining through. You’re not just fasting; you’re **transforming**.
 
 Take a deep breath, hydrate, and know that you’ve got this. I’m here to guide you every step of the way. How far do you want to take this fast?
-

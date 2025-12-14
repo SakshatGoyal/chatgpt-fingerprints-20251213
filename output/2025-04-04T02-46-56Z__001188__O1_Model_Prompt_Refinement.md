@@ -5,7 +5,6 @@
 Help me modify the following prompt to be more alligned with an o1 model, without oversimplifying the details. I'm also attaching the csv i'm gonna be using for the prompt.:
 
 
-
 You are a highly efficient web visualization developer. Your task is to create a **single self-contained HTML file** that I can run locally in a browser. This file will load a CSV file placed in the same folder and visualize its contents using:
 
 - A **Sankey chart** (using D3.js) based on specific sequential columns
@@ -127,7 +126,7 @@ Let me know what direction you'd like to go—and if you want me to check or inc
 
 I want you to double check on a few things...
 
-I don't necessarily have the necessary libraries installed in my system. I want the system to create an output for me that would require minimal dependencies. And if there are things for me to install, it'll also lay out those things for me to install. 
+I don't necessarily have the necessary libraries installed in my system. I want the system to create an output for me that would require minimal dependencies. And if there are things for me to install, it'll also lay out those things for me to install.
 
 Now begin crafting the prompt
 
@@ -250,4 +249,3 @@ Return a **single `.html` source code block**, with:
 ---
 
 Would you like me to now **generate the full HTML code** that matches this prompt? Or would you like to first review or tweak any part of this specification?
-

@@ -64,35 +64,35 @@ END OF CATEGORICAL MODULE.
 ### Elements include
 
 1. **Wrapper:**
-    
+
     CATEGORICAL MODULE [code]
-    
+
     …
-    
+
     …
-    
+
     …
-    
-    END OF CATEGORICAL MODULE. 
-    
+
+    END OF CATEGORICAL MODULE.
+
 2. **Insight Construction:**
-    
-    Typically includes the Insight Statement, Executive Decision-Making Context, and Supporting Context. May sometimes include a heading before the insight statement. 
-    
+
+    Typically includes the Insight Statement, Executive Decision-Making Context, and Supporting Context. May sometimes include a heading before the insight statement.
+
 3. **Challenging Content:**
-    
+
     this includes:
-    
+
     🔹 COUNTERFACTUAL SCENARIO:
-    
+
     🔹 ASSUMPTIONS & BIASES:
-    
+
     🔹 CONTEXT LIMITATIONS:
-    
+
     🔹 FINAL CRITIQUE:
-    
-    Citation. 
-    
+
+    Citation.
+
 
 ### **The Ask:**
 
@@ -100,11 +100,11 @@ I want to create a new file for each of these text files, labeled [file name] - 
 
 I want to duplicate ‘part’ of the content from the source file into the condensed file. Here’s what I mean:
 
-Within each module, I want to duplicate the wrapper and the ‘Insight Construction’ content, and leave out the ‘Challenging Content’. 
+Within each module, I want to duplicate the wrapper and the ‘Insight Construction’ content, and leave out the ‘Challenging Content’.
 
-So the new file will be a duplicate of all the categorical modules, but with only the wrapper and the insight construction and not the challenging content. 
+So the new file will be a duplicate of all the categorical modules, but with only the wrapper and the insight construction and not the challenging content.
 
-Its important to keep in mind that only the challenging content should be excluded and nothing from the insight construction gets left out. This is very challenging for a python script to interpret and execute, so here’s a simple rule to keep in mind, 
+Its important to keep in mind that only the challenging content should be excluded and nothing from the insight construction gets left out. This is very challenging for a python script to interpret and execute, so here’s a simple rule to keep in mind,
 
 The script should look for the wrapper. and within the wrapper, exclude all the content starting from “🔹” all the way to the last written character before the end of the wrapper “END OF CATEGORICAL MODULE. “
 
@@ -183,7 +183,7 @@ Yes, confirmed
 
 Response for question 2
 
-There will ALWAYS be extra or little white space, which is a challenge. But its also true that all modules will always have the "🔹” character. If by any chance the system doesn't detect the "🔹” character, then yes, retain the whole module as is. 
+There will ALWAYS be extra or little white space, which is a challenge. But its also true that all modules will always have the "🔹” character. If by any chance the system doesn't detect the "🔹” character, then yes, retain the whole module as is.
 
 Response for question 3
 
@@ -234,7 +234,7 @@ A complete, ready-to-run Python script that:
 ---
 
 ### **Context & Additional Elements**
-**Execution Persona:**  
+**Execution Persona:**
 The model should act as a **Senior Python Engineer with NLP preprocessing experience**, specializing in document parsing, text extraction, and file I/O with formatting sensitivity.
 
 **Source Files:**
@@ -248,7 +248,7 @@ The model should act as a **Senior Python Engineer with NLP preprocessing experi
 ```
 
 **Module Structure:**
-Each module begins with a line like `### CATEGORICAL MODULE 1 - C2-I1` and ends with `END OF CATEGORICAL MODULE.`  
+Each module begins with a line like `### CATEGORICAL MODULE 1 - C2-I1` and ends with `END OF CATEGORICAL MODULE.`
 The exclusion zone begins with the first line starting with `"🔹"` and continues up to (but not including) `END OF CATEGORICAL MODULE.`
 
 ---
@@ -265,4 +265,3 @@ The exclusion zone begins with the first line starting with `"🔹"` and continu
 ---
 
 Would you like me to **run this prompt for you** and produce the script output directly?
-

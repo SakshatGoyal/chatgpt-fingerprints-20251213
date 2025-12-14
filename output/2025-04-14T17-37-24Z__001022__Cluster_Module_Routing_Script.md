@@ -5,15 +5,9 @@
 🧩 Script Requirements — Cluster-Based Module Routing
 
 
-
-
-
-
-
-📁 
+📁
 
 Input Files
-
 
 
 Source File (TXT)
@@ -23,7 +17,6 @@ Path:
 /Users/sakshatgoyal/Desktop/Strategic Decision Making Work/Strategy Insights Data Pipeline/Business_Strategy_Modules.txt
 
 Format:
-
 
 
 Contains multiple modules.
@@ -49,7 +42,6 @@ Path:
 Format:
 
 
-
 The first row contains cluster names (these become output .txt file names).
 
 All other rows list module IDs (e.g. MODULE 64 - C4-I1) in one or more columns.
@@ -59,15 +51,9 @@ Empty cells are to be ignored.
 A module may appear in more than one cluster (i.e., in multiple columns).
 
 
-
-
-
-
-
-📤 
+📤
 
 Output
-
 
 
 One .txt file per cluster (based on the column header).
@@ -81,21 +67,12 @@ Insert 5 blank lines between modules.
 Output files should be saved in the same directory as the CSV file.
 
 
-
-
-
-
-
-⚠️ 
+⚠️
 
 Logging & Guardrails
 
 
-
 Use Python’s logging module. Log level: INFO and WARNING.
-
-
-
 
 
 ✅ Log all modules that were parsed from the source file.
@@ -107,15 +84,9 @@ Use Python’s logging module. Log level: INFO and WARNING.
 ⚠️ If a module appears in the source but is not used by any cluster, optionally log this at the end.
 
 
-
-
-
-
-
-✅ 
+✅
 
 Behavior Requirements
-
 
 
 Match module IDs exactly as written in the CSV — no renaming or normalization (aside from stripping leading # characters and whitespace when parsing the source).
@@ -129,15 +100,9 @@ If a module appears in multiple clusters, include it in each corresponding outpu
 Use basic error handling for file reading/writing.
 
 
-
-
-
-
-
-✅ 
+✅
 
 Script Requirements
-
 
 
 Should be a standalone Python script (Python 3.8+).
@@ -150,13 +115,13 @@ Compatible with macOS file paths.
 
 Below is a sample standalone Python 3 script demonstrating how to:
 
-1. **Parse** the source TXT file to extract modules (by their “MODULE …” header and “END OF MODULE”).  
-2. **Read** the cluster CSV (first row = cluster names; subsequent rows = module IDs in columns).  
-3. **Group** modules by cluster.  
-4. **Write** one output file per cluster.  
-5. **Log** important events (with Python’s `logging` module):  
-   - **INFO** for each parsed module (and optionally for modules not used).  
-   - **WARNING** for repeated definitions in the TXT, missing modules, or incomplete modules.  
+1. **Parse** the source TXT file to extract modules (by their “MODULE …” header and “END OF MODULE”).
+2. **Read** the cluster CSV (first row = cluster names; subsequent rows = module IDs in columns).
+3. **Group** modules by cluster.
+4. **Write** one output file per cluster.
+5. **Log** important events (with Python’s `logging` module):
+   - **INFO** for each parsed module (and optionally for modules not used).
+   - **WARNING** for repeated definitions in the TXT, missing modules, or incomplete modules.
 
 This example uses **only standard libraries** (`os`, `csv`, `re`, `logging`, `sys`). It’s compatible with macOS paths. Adjust or wrap it as needed for your own environment.
 
@@ -191,7 +156,7 @@ def parse_modules(source_file):
       - starts with a line whose leading '#' and whitespace are stripped,
         and then begins with 'MODULE ' (case-insensitive).
       - ends with a line 'END OF MODULE'.
-    
+
     Returns:
         modules (dict): { module_id (str): full_text_of_module (str) }
     """
@@ -264,7 +229,7 @@ def read_clusters(csv_file):
     Reads the CSV file containing cluster assignments.
     First row => cluster names (e.g. columns: "ClusterA", "ClusterB", etc.)
     Subsequent rows => module IDs in columns (some cells can be blank).
-    
+
     Returns:
         clusters (dict): { cluster_name (str): [module_ids_in_order (str)] }
     """
@@ -358,7 +323,7 @@ if __name__ == "__main__":
 
 2. **Cluster Reading** (`read_clusters`):
    - Reads the first row from the CSV as cluster names.
-   - Each subsequent row in that CSV is read column-by-column:  
+   - Each subsequent row in that CSV is read column-by-column:
      - If the cell is **non-empty**, it’s interpreted as a module ID assigned to the corresponding cluster.
 
 3. **Validation and Logging**:
@@ -438,7 +403,7 @@ import shutil
 import logging
 
 def setup_logging():
-    logging.basicConfig(level=logging.INFO, 
+    logging.basicConfig(level=logging.INFO,
                         format='%(levelname)s: %(message)s')
 
 def get_source_folders():
@@ -539,17 +504,17 @@ if __name__ == "__main__":
 
 1. **Logging Setup**: The script initializes logging with an INFO level so that each action (creation of folders, file copies, and any warnings/errors) is recorded.
 
-2. **Define Source Folders**:  
+2. **Define Source Folders**:
    The function `get_source_folders()` builds a list of directories based on your provided file paths. Adjust or extend this list if needed.
 
-3. **Create Target Folder**:  
+3. **Create Target Folder**:
    The function `create_target_folder()` checks if the folder **consolidated papers** exists on the desktop, and if not, creates it.
 
-4. **Copy Files**:  
+4. **Copy Files**:
    The function `copy_all_files()` iterates through each source folder, and for each file found, copies it to the target folder using `shutil.copy2` (which preserves file metadata). Duplicate names may result in overwriting; if needed, you could modify the script to avoid overwrites.
 
-5. **Running the Script**:  
-   Simply run the script in your terminal (ensure you have Python 3.8+). For example:  
+5. **Running the Script**:
+   Simply run the script in your terminal (ensure you have Python 3.8+). For example:
    ```bash
    python consolidate_papers.py
    ```
@@ -558,7 +523,7 @@ This script should help you consolidate the files into one folder efficiently.
 
 ## You (2025-04-14T17:52:37.183682+00:00)
 
-is there a simple way to get the file count of a folder from my terminal? here's the folder path. 
+is there a simple way to get the file count of a folder from my terminal? here's the folder path.
 
 /Users/sakshatgoyal/Desktop/consolidated papers
 
@@ -581,4 +546,3 @@ find "/Users/sakshatgoyal/Desktop/consolidated papers" -maxdepth 1 -type f | wc 
 ```
 
 Let me know if you want to count only PDFs or other types!
-

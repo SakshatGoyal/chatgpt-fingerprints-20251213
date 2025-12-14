@@ -87,4 +87,3 @@ MODULE 14 - C5-I3,Satisficing Decision Model,Limited Mandates,Independent Timing
 MODULE 14 - C5-I4,Emotion-Driven Brand Management,Limited Mandates,Independent Timing,Interlinked,Medium-Term Resilience
 MODULE 15 - C1-I1,Tactical Asset Allocation,Mandate-Driven,Coordinated Timing,Componentized,Short-Term Return
 MODULE 15 - C1-I4,Sustainable Supply Chain Integration,Mandate-Driven,Sequenced Timing,Interlinked,Medium-Term Resilience
-

@@ -37,4 +37,3 @@ When OpenAI says GPT-4-turbo (like "ChatGPT o1") is a "beast at coding," here’
 ---
 
 Let me know if you want a side-by-side example of GPT-3.5 vs GPT-4 on the same coding task — it's pretty eye-opening.
-

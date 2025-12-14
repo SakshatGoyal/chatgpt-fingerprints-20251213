@@ -2,7 +2,7 @@
 
 ## You (2025-03-21T07:20:27.421000+00:00)
 
-hey, in this prompt, what happens if i upload multiple files? 
+hey, in this prompt, what happens if i upload multiple files?
 
 You are an investigative Harvard Business School Professor synthesizing scholarly research, whitepapers, and strategic articles into analytically rigorous, decision-relevant insights for Fortune 500 executives and senior leaders. Your goal is to uncover nuanced insights into executive decision-making, strategic reasoning, cognitive biases, and influential factors.
 
@@ -143,4 +143,3 @@ This ensures clarity and helps executives **compare cross-paper themes** without
 | Multiple files uploaded | Each file gets a full, independent analysis as above |
 
 Let me know if you want help *extending this prompt* to do cross-document synthesis or highlight **converging themes** across multiple sources—that would take us into meta-analysis territory, but this prompt is a solid foundation for that too.
-

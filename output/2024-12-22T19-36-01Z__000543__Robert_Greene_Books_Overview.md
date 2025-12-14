@@ -1,8 +1,6 @@
 # Robert Greene Books Overview
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2024-12-22T19:36:01.853930+00:00)
 
@@ -12,20 +10,20 @@ What do u know abt Robert greene books
 
 Robert Greene is a renowned author known for his books on strategy, power, and human behavior. His works are heavily influenced by historical events, psychological principles, and philosophical ideas. Here’s a brief overview of some of his most popular books:
 
-### 1. **The 48 Laws of Power (1998)**  
+### 1. **The 48 Laws of Power (1998)**
    - **Theme:** Strategies for achieving and maintaining power in personal and professional life.
    - **Key Ideas:** The book outlines 48 principles, such as "Conceal your intentions" and "Always say less than necessary," based on examples from history, politics, and philosophy.
    - **Controversy:** The book is often criticized for being manipulative but praised for its insights into human behavior.
 
-### 2. **The Art of Seduction (2001)**  
+### 2. **The Art of Seduction (2001)**
    - **Theme:** The psychology and strategies of seduction.
    - **Key Ideas:** It categorizes different types of seducers and strategies to charm, manipulate, or influence others, drawn from literature, history, and psychology.
 
-### 3. **Mastery (2012)**  
+### 3. **Mastery (2012)**
    - **Theme:** Achieving excellence in any field through focused effort and learning.
    - **Key Ideas:** The book identifies six keys to mastery, such as apprenticeship, creativity, and adaptability, and uses examples from figures like Leonardo da Vinci and Mozart.
 
-### 4. **The 33 Strategies of War (2006)**  
+### 4. **The 33 Strategies of War (2006)**
    - **Theme:** Applying military strategies to life's challenges.
    - **Key Ideas:** It offers strategies like "Know your enemy" and "Lose battles to win the war," blending lessons from Sun Tzu, Napoleon, and other historical figures.
 
@@ -67,54 +65,54 @@ Figuring out your archetype is less about forcing yourself into a category and m
 ---
 
 ### **Greene's Archetypes**
-1. **The Siren (Feminine allure)**  
-   - **Traits:** Charismatic, sensual, captivating.  
-   - **Strengths:** Uses charm and physical presence to mesmerize.  
+1. **The Siren (Feminine allure)**
+   - **Traits:** Charismatic, sensual, captivating.
+   - **Strengths:** Uses charm and physical presence to mesmerize.
    - **Ask Yourself:** Do you often draw people in with your presence or sensuality, creating an air of mystery or indulgence?
 
-2. **The Rake (Masculine passion)**  
-   - **Traits:** Intense, passionate, and confident.  
-   - **Strengths:** Focuses all attention on the target, making them feel like the center of the universe.  
+2. **The Rake (Masculine passion)**
+   - **Traits:** Intense, passionate, and confident.
+   - **Strengths:** Focuses all attention on the target, making them feel like the center of the universe.
    - **Ask Yourself:** Are you bold and emotionally expressive, often making others feel swept away by your attention?
 
-3. **The Ideal Lover**  
-   - **Traits:** Romantic, attentive, and nurturing.  
-   - **Strengths:** Creates a dream-like experience, making others feel understood and cherished.  
+3. **The Ideal Lover**
+   - **Traits:** Romantic, attentive, and nurturing.
+   - **Strengths:** Creates a dream-like experience, making others feel understood and cherished.
    - **Ask Yourself:** Do people turn to you for emotional connection and understanding, drawn to your empathy and warmth?
 
-4. **The Dandy**  
-   - **Traits:** Playful, nonconforming, and stylish.  
-   - **Strengths:** Intrigues others with unconventional, often androgynous or unique qualities.  
+4. **The Dandy**
+   - **Traits:** Playful, nonconforming, and stylish.
+   - **Strengths:** Intrigues others with unconventional, often androgynous or unique qualities.
    - **Ask Yourself:** Are you naturally rebellious or do you stand out through your creativity and unique self-expression?
 
-5. **The Natural**  
-   - **Traits:** Playful, childlike, and fun-loving.  
-   - **Strengths:** Disarms others with innocence and spontaneity.  
+5. **The Natural**
+   - **Traits:** Playful, childlike, and fun-loving.
+   - **Strengths:** Disarms others with innocence and spontaneity.
    - **Ask Yourself:** Do people see you as someone who brings joy, makes them laugh, and creates a relaxed atmosphere?
 
-6. **The Coquette**  
-   - **Traits:** Aloof, teasing, and mysterious.  
-   - **Strengths:** Keeps people intrigued by being elusive and hard to get.  
+6. **The Coquette**
+   - **Traits:** Aloof, teasing, and mysterious.
+   - **Strengths:** Keeps people intrigued by being elusive and hard to get.
    - **Ask Yourself:** Do you often find people chasing after you because you’re unpredictable or emotionally unavailable?
 
-7. **The Charmer**  
-   - **Traits:** Sociable, charismatic, and diplomatic.  
-   - **Strengths:** Wins people over with charm, kindness, and tact.  
+7. **The Charmer**
+   - **Traits:** Sociable, charismatic, and diplomatic.
+   - **Strengths:** Wins people over with charm, kindness, and tact.
    - **Ask Yourself:** Do you easily navigate social situations, making others feel at ease and valued?
 
-8. **The Star**  
-   - **Traits:** Glamorous, unique, and larger-than-life.  
-   - **Strengths:** Captures attention with a magnetic presence and sense of destiny.  
+8. **The Star**
+   - **Traits:** Glamorous, unique, and larger-than-life.
+   - **Strengths:** Captures attention with a magnetic presence and sense of destiny.
    - **Ask Yourself:** Do people seem drawn to you because you exude confidence and a sense of being “special”?
 
-9. **The Seductive Victim**  
-   - **Traits:** Vulnerable, melancholic, and mysterious.  
-   - **Strengths:** Draws protectiveness and fascination by exposing emotional depth or past struggles.  
+9. **The Seductive Victim**
+   - **Traits:** Vulnerable, melancholic, and mysterious.
+   - **Strengths:** Draws protectiveness and fascination by exposing emotional depth or past struggles.
    - **Ask Yourself:** Do people feel compelled to care for or understand you because of a hint of sadness or vulnerability?
 
-10. **The Enigma**  
-   - **Traits:** Mysterious, unpredictable, and complex.  
-   - **Strengths:** Captures curiosity by being hard to define or understand.  
+10. **The Enigma**
+   - **Traits:** Mysterious, unpredictable, and complex.
+   - **Strengths:** Captures curiosity by being hard to define or understand.
    - **Ask Yourself:** Do you keep people guessing with your unpredictability or layered personality?
 
 ---
@@ -128,4 +126,3 @@ Figuring out your archetype is less about forcing yourself into a category and m
 ---
 
 Would you like help identifying potential archetypes based on how you interact with others or situations you’ve been in?
-

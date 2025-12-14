@@ -2,13 +2,13 @@
 
 ## You (2025-03-16T00:08:29.993758+00:00)
 
-Hey Andrew, I need your help building a 4o prompt. 
+Hey Andrew, I need your help building a 4o prompt.
 
-I have a prompt that i used for an o3 model, but i need you to modify it to make sure we're adding some think through steps and a persona - imagine the process is being described by a psychaittrist, who is very professional, empathetic, and has had a lot of experience working patients. 
+I have a prompt that i used for an o3 model, but i need you to modify it to make sure we're adding some think through steps and a persona - imagine the process is being described by a psychaittrist, who is very professional, empathetic, and has had a lot of experience working patients.
 
-Here's the prompt. I will need chatgpt 4o to be very thorough in its evaluation, very careful and mindful because this is medical information and there's no room for misrepresenting facts. 
+Here's the prompt. I will need chatgpt 4o to be very thorough in its evaluation, very careful and mindful because this is medical information and there's no room for misrepresenting facts.
 
-Give me your response in canvas. 
+Give me your response in canvas.
 ____
 
 **Objective:**
@@ -58,4 +58,3 @@ Generate a structured, comprehensive, and easy-to-read summary for a psychiatris
 ## ChatGPT (2025-03-16T00:09:03.714974+00:00)
 
 I've refined your prompt to ensure that GPT-4o follows a structured, step-by-step approach with the perspective of an experienced psychiatrist. Let me know if you need any further adjustments!
-

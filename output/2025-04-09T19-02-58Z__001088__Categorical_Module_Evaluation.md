@@ -64,25 +64,24 @@ Start with the first 20 modules in the .txt file. Output only the CSV.
 
 ## ChatGPT (2025-04-09T19:02:59.740516+00:00)
 
-Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability  
-CATEGORICAL MODULE 32 - C4-I3,Geopolitical Risk Modeling,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 27 - C4-I4,Supply Chain Risk Escalation,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 28 - C4-I5,Decision Process Standardization,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 29 - C4-I5,Bias Mitigation Benchmarking,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 30 - C4-I5,Decision Science Training,Limited Mandates,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 31 - C4-I5,Decision Quality Diagnostics,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 5 - C4-I6,Stakeholder Governance Integration,Limited Mandates,Coordinated Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 6 - C4-I6,Agile Governance Structuring,Limited Mandates,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 8 - C5-I1,Life Cycle Mode Alignment,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 9 - C5-I1,Organizational Flattening,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 12 - C5-I1,Risk Horizon Rebalancing,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 20 - C5-I3,Decision Taxonomy Development,Unbound,Independent Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 4 - C5-I4,Transparency Standardization,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 6 - C5-I4,Strategic Partnership Structuring,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 10 - C1-I1,Capital Allocation Planning,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 13 - C1-I1,Analytics Integration Planning,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 17 - C1-I1,Portfolio Rebalancing Strategy,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 34 - C1-I5,AI Strategy Adoption,Limited Mandates,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 36 - C1-I5,Infrastructure Modernization,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
+Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability
+CATEGORICAL MODULE 32 - C4-I3,Geopolitical Risk Modeling,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 27 - C4-I4,Supply Chain Risk Escalation,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 28 - C4-I5,Decision Process Standardization,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 29 - C4-I5,Bias Mitigation Benchmarking,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 30 - C4-I5,Decision Science Training,Limited Mandates,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 31 - C4-I5,Decision Quality Diagnostics,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 5 - C4-I6,Stakeholder Governance Integration,Limited Mandates,Coordinated Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 6 - C4-I6,Agile Governance Structuring,Limited Mandates,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 8 - C5-I1,Life Cycle Mode Alignment,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 9 - C5-I1,Organizational Flattening,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 12 - C5-I1,Risk Horizon Rebalancing,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 20 - C5-I3,Decision Taxonomy Development,Unbound,Independent Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 4 - C5-I4,Transparency Standardization,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 6 - C5-I4,Strategic Partnership Structuring,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 10 - C1-I1,Capital Allocation Planning,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 13 - C1-I1,Analytics Integration Planning,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 17 - C1-I1,Portfolio Rebalancing Strategy,Mandate-Driven,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 34 - C1-I5,AI Strategy Adoption,Limited Mandates,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 36 - C1-I5,Infrastructure Modernization,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
 CATEGORICAL MODULE 70 - C1-I7,Agile Resource Deployment,Limited Mandates,Coordinated Timing,Global,Componentized,Short-Term Return,Guided Expertise
-

@@ -8,8 +8,8 @@ Synthesize all the content of this file to a third of its original length.
 
 ## ChatGPT (2025-11-18T08:41:33.313902+00:00)
 
-Below is a **Lincoln-style condensation**—clear, spare, and dignified—of the entire document, reduced to roughly one-third its length while preserving its breadth of ideas and moral weight.  
-fileciteturn0file0
+Below is a **Lincoln-style condensation**—clear, spare, and dignified—of the entire document, reduced to roughly one-third its length while preserving its breadth of ideas and moral weight.
+fileciteturn0file0
 
 ---
 
@@ -36,4 +36,3 @@ To families exhausted by years of caregiving, they offer recognition and relief,
 And at each turning point—whether beginning treatment, adjusting medicines, or preparing for harder truths—they provide clear, written plans: what to do daily, what to watch for, when to call for help, and how to keep the patient safe.
 
 In all these labors, the psychiatrist seeks not glory but steadiness: a calmer mind, a safer home, a restored trust, and a life made more bearable for patient and family alike. Their work, patient and persistent, strives to preserve the dignity of those who suffer and the hope of those who care for them.
-

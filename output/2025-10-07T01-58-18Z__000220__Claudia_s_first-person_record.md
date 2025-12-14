@@ -391,4 +391,3 @@ Your goal here is to *affirm connection* without yielding all power. She’s ope
 - Carries a bit of sly charm or tenderness
 - Keeps your sovereignty intact
 - Feels *
-

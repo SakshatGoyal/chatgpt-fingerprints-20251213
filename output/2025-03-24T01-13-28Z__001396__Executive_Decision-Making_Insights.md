@@ -152,55 +152,55 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Key Themes:** This analysis examines executive decision-making dynamics, including decision fatigue, the categorization of decisions (big-bet, cross-cutting, and delegated), and the pervasive impact of cognitive biases.
 - **Core Motivations:** The research is driven by the need to address inefficiencies that drain managerial time and incur significant financial costs, prompting a shift toward agile and context-specific decision-making processes.
 - **Methodological Clarification:** Grounded in McKinsey’s empirical research and survey data from over 1,200 global business leaders, the analysis integrates quantitative metrics—such as executives spending nearly 40% of their time on decisions and 61% of decision-making efforts being ineffective—with qualitative insights from strategic articles.
-- **Relevance Assessment:** The findings provide actionable insights for Fortune 500 executives, linking rigorous data to strategies that streamline decision processes, empower teams, and mitigate the impact of cognitive biases. citeturn0file0
+- **Relevance Assessment:** The findings provide actionable insights for Fortune 500 executives, linking rigorous data to strategies that streamline decision processes, empower teams, and mitigate the impact of cognitive biases.
 
 ## Grounded Executive Insights
 
 ### 1. Decision Fatigue and Inefficient Decision-Making Costs
 
-**Insight Statement:**  
-Executives face significant decision fatigue—spending nearly 40% of their time on decision making—with inefficient processes costing typical Fortune 500 companies around $250 million annually. **[Empirical]** citeturn0file0
+**Insight Statement:**
+Executives face significant decision fatigue—spending nearly 40% of their time on decision making—with inefficient processes costing typical Fortune 500 companies around $250 million annually. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must balance strategic initiatives with the overwhelming burden of routine decision making, which drains critical time and resources.  
-- **Underlying Beliefs & Biases:** There is an underlying assumption that decision making is a routine task, yet the cognitive load often leads to fatigue and suboptimal outcomes.  
-- **Expected vs. Actual Outcomes:** While executives expect streamlined decision processes to enhance performance, the reality shows significant inefficiencies that waste managerial time and escalate costs.  
-- **Broader Implications:** These inefficiencies call for restructuring decision-making protocols to prioritize high-impact decisions and delegate routine ones, thereby reducing cognitive overload. **[Empirical]** citeturn0file0
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must balance strategic initiatives with the overwhelming burden of routine decision making, which drains critical time and resources.
+- **Underlying Beliefs & Biases:** There is an underlying assumption that decision making is a routine task, yet the cognitive load often leads to fatigue and suboptimal outcomes.
+- **Expected vs. Actual Outcomes:** While executives expect streamlined decision processes to enhance performance, the reality shows significant inefficiencies that waste managerial time and escalate costs.
+- **Broader Implications:** These inefficiencies call for restructuring decision-making protocols to prioritize high-impact decisions and delegate routine ones, thereby reducing cognitive overload. **[Empirical]**
 
-**Supporting Context:**  
-Empirical data reveals that executives devote nearly 40% of their time to making decisions and that ineffective decision making results in approximately 530,000 lost manager-days per year, translating to an estimated $250 million in wasted wages. **[Empirical]** citeturn0file0
+**Supporting Context:**
+Empirical data reveals that executives devote nearly 40% of their time to making decisions and that ineffective decision making results in approximately 530,000 lost manager-days per year, translating to an estimated $250 million in wasted wages. **[Empirical]**
 
 ---
 
 ### 2. Decision Categorization and Process Optimization
 
-**Insight Statement:**  
-Segmenting decisions into big-bet, cross-cutting, and delegated categories enables organizations to tailor decision-making processes, thereby enhancing both speed and quality by aligning practices with the specific risk and frequency of decisions. **[Empirical]** citeturn0file0
+**Insight Statement:**
+Segmenting decisions into big-bet, cross-cutting, and delegated categories enables organizations to tailor decision-making processes, thereby enhancing both speed and quality by aligning practices with the specific risk and frequency of decisions. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Many organizations deploy a one-size-fits-all approach that fails to account for the varying risk profiles and frequency of different decisions, leading to inefficiencies.  
-- **Underlying Beliefs & Biases:** There exists a bias that a uniform decision process suffices, neglecting the nuanced needs of high-risk versus low-risk decisions.  
-- **Expected vs. Actual Outcomes:** Rather than achieving uniform efficiency, the application of a differentiated approach leads to improved timeliness and decision quality by addressing specific challenges for each decision type.  
-- **Broader Implications:** Embracing decision-type specific protocols fosters organizational agility, improves accountability, and supports more informed and rapid strategic responses. **[Empirical]** citeturn0file0
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Many organizations deploy a one-size-fits-all approach that fails to account for the varying risk profiles and frequency of different decisions, leading to inefficiencies.
+- **Underlying Beliefs & Biases:** There exists a bias that a uniform decision process suffices, neglecting the nuanced needs of high-risk versus low-risk decisions.
+- **Expected vs. Actual Outcomes:** Rather than achieving uniform efficiency, the application of a differentiated approach leads to improved timeliness and decision quality by addressing specific challenges for each decision type.
+- **Broader Implications:** Embracing decision-type specific protocols fosters organizational agility, improves accountability, and supports more informed and rapid strategic responses. **[Empirical]**
 
-**Supporting Context:**  
-The article categorizes decisions into three types: big-bet decisions (infrequent but high risk), cross-cutting decisions (frequent and high risk), and delegated decisions (frequent but low risk). It recommends targeted strategies—such as assigning a devil’s advocate for big bets, refining processes for cross-cutting decisions, and empowering frontline employees for delegated decisions—to optimize outcomes. **[Empirical]** citeturn0file0
+**Supporting Context:**
+The article categorizes decisions into three types: big-bet decisions (infrequent but high risk), cross-cutting decisions (frequent and high risk), and delegated decisions (frequent but low risk). It recommends targeted strategies—such as assigning a devil’s advocate for big bets, refining processes for cross-cutting decisions, and empowering frontline employees for delegated decisions—to optimize outcomes. **[Empirical]**
 
 ---
 
 ### 3. Cognitive Bias Mitigation in Executive Decision Making
 
-**Insight Statement:**  
-Cognitive biases—including confirmation bias, herd mentality, sunk-cost fallacy, and the halo effect—severely compromise executive decision making, underscoring the need for structured countermeasures to ensure objective evaluations. **[Empirical]** citeturn0file0
+**Insight Statement:**
+Cognitive biases—including confirmation bias, herd mentality, sunk-cost fallacy, and the halo effect—severely compromise executive decision making, underscoring the need for structured countermeasures to ensure objective evaluations. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Despite access to sophisticated data, executives remain vulnerable to inherent biases that distort judgment in high-stakes situations.  
-- **Underlying Beliefs & Biases:** There is a prevalent belief in the objectivity of one’s own judgment, even though cognitive traps like the confirmation bias and halo effect are common.  
-- **Expected vs. Actual Outcomes:** Executives anticipate rational decision-making processes, but actual outcomes are often skewed by biases—evidenced by historical missteps such as Blockbuster’s failure to acquire Netflix.  
-- **Broader Implications:** Instituting measures such as structured debates, role-specific counterarguments, and clear decision guidelines is critical for mitigating bias and improving strategic outcomes. **[Empirical]** citeturn0file0
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Despite access to sophisticated data, executives remain vulnerable to inherent biases that distort judgment in high-stakes situations.
+- **Underlying Beliefs & Biases:** There is a prevalent belief in the objectivity of one’s own judgment, even though cognitive traps like the confirmation bias and halo effect are common.
+- **Expected vs. Actual Outcomes:** Executives anticipate rational decision-making processes, but actual outcomes are often skewed by biases—evidenced by historical missteps such as Blockbuster’s failure to acquire Netflix.
+- **Broader Implications:** Instituting measures such as structured debates, role-specific counterarguments, and clear decision guidelines is critical for mitigating bias and improving strategic outcomes. **[Empirical]**
 
-**Supporting Context:**  
-The research outlines several cognitive biases that impair decision quality and offers practical countermeasures, such as shifting the burden of proof in sunk-cost scenarios and using structured interview protocols to counteract the halo effect. These recommendations are supported by empirical examples and data, underscoring the importance of proactive bias mitigation. **[Empirical]** citeturn0file0
+**Supporting Context:**
+The research outlines several cognitive biases that impair decision quality and offers practical countermeasures, such as shifting the burden of proof in sunk-cost scenarios and using structured interview protocols to counteract the halo effect. These recommendations are supported by empirical examples and data, underscoring the importance of proactive bias mitigation. **[Empirical]**
 
 ---
 
@@ -448,21 +448,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -475,4 +475,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T01:16:26.864989+00:00)
 
 McKinsey & Company. (2023). What is decision making? https://www.mckinsey.com
-

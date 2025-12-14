@@ -4,17 +4,17 @@
 
 I need you to create a set of clear, solution-agnostic design principles that someone might need when exploring AI-driven design directions for executive decision-making.
 
-I'm attaching two documents here. One is a .txt file containing a series of insight modules, which essentially provide a structured extraction of insights from research papers. The other is a .md file that involves forming clusters from those modules and attempting to draw synthesized themes. The .md file contains our synthesis—how we've tried to make sense of all the data. Use information in the .txt file as raw data, and think of the .md file as a more processed version of the data. 
+I'm attaching two documents here. One is a .txt file containing a series of insight modules, which essentially provide a structured extraction of insights from research papers. The other is a .md file that involves forming clusters from those modules and attempting to draw synthesized themes. The .md file contains our synthesis—how we've tried to make sense of all the data. Use information in the .txt file as raw data, and think of the .md file as a more processed version of the data.
 
-Your principles should be based on the collective information from all the themes. You don't have to create a set of themes per insight or cluster. Try to internalize all the data collectively while creating your principles. 
+Your principles should be based on the collective information from all the themes. You don't have to create a set of themes per insight or cluster. Try to internalize all the data collectively while creating your principles.
 
-Here's why I would like your principles to be solution agnostic. Thinkntermediary step. We have additional insight modules and their resulting themes and takeaways. The other content of this is an i (not attached here), which discusses more about the tensions people experience while making decisions. It includes very real-life, context-specific tensions and, more abstractly, internal conflicts around cognitive biases and obstacles. We are taking a very multi-faceted approach to understanding decision-making. 
+Here's why I would like your principles to be solution agnostic. Thinkntermediary step. We have additional insight modules and their resulting themes and takeaways. The other content of this is an i (not attached here), which discusses more about the tensions people experience while making decisions. It includes very real-life, context-specific tensions and, more abstractly, internal conflicts around cognitive biases and obstacles. We are taking a very multi-faceted approach to understanding decision-making.
 
-The principles you define here will act almost like a filtered lens we use while revisiting the remaining insights in search of opportunities for design. For that, it’s important for these principles to be clear, based on empirical data, and not to negatively or positively bias potential solutions. These principles will also serve as the foundation of our bridge, as we move from research data to potential solutions. You may, (if these analogies are too abstract) think of your principles as heuristics. 
+The principles you define here will act almost like a filtered lens we use while revisiting the remaining insights in search of opportunities for design. For that, it’s important for these principles to be clear, based on empirical data, and not to negatively or positively bias potential solutions. These principles will also serve as the foundation of our bridge, as we move from research data to potential solutions. You may, (if these analogies are too abstract) think of your principles as heuristics.
 
-For your context, my current work involves identifying ways an AI agent can serve as a strategic partner for executive decision-makers across various organizations. 
+For your context, my current work involves identifying ways an AI agent can serve as a strategic partner for executive decision-makers across various organizations.
 
-This is very different from the typical use case of AI; it is not necessarily focused on content creation, nor is it about building agents to minimize repetitive manual work. Instead, it aims to create a thought partner that can augment executive decision-making. 
+This is very different from the typical use case of AI; it is not necessarily focused on content creation, nor is it about building agents to minimize repetitive manual work. Instead, it aims to create a thought partner that can augment executive decision-making.
 
 Another important point to note is that, at this stage, this tool will not integrate with an organization's internal data. It will function as a personal AI agent/partner/bot. While this may present challenges and limitations on what we can explore, it reflects the current reality.
 
@@ -97,4 +97,3 @@ Based on a close synthesis of all your insight modules and thematic clusters, I'
 These principles are meant to guide not only the **what** of design (features, capabilities, modes of interaction) but the **how**—the posture you take toward the human-AI relationship. They should help your team distinguish between features that merely automate and those that augment, between tools that reinforce strategic rigor and those that quietly erode it.
 
 If helpful, I can also map these principles to specific decision-making moments or design opportunity spaces in future phases. Would you like to explore that next?
-

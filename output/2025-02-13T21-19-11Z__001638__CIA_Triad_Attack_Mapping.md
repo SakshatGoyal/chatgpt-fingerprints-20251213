@@ -1,12 +1,9 @@
 # CIA Triad Attack Mapping
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-02-13T21:19:11.530406+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-Hq2VQaHFhgZZRJwMcDvgHk', 'size_bytes': 319769, 'width': 2048, 'height': 1370, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 can u complete this task for me
 
 ## ChatGPT (2025-02-13T21:19:20.217426+00:00)
@@ -31,7 +28,6 @@ This is the correct way to categorize these issues based on the **CIA triad** pr
 
 ## You (2025-02-13T21:20:28.376280+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-59kHzq7HpJwFEv3rLQx93n', 'size_bytes': 624924, 'width': 2048, 'height': 1388, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 now this
 
 ## ChatGPT (2025-02-13T21:20:36.027839+00:00)
@@ -44,17 +40,16 @@ To determine which element of the **CIA Triad** had the biggest impact on **Midt
 
 Given that this is a **medical institution**, the most likely major impact would be **Availability**—if critical medical systems went offline or patient records were inaccessible, it could severely impact patient care.
 
-Thus, the best choice is likely:  
+Thus, the best choice is likely:
 ✅ **Availability**
 
 ## You (2025-02-13T21:22:34.454033+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-C26ixJ53GNAdtzuDx9wM3R', 'size_bytes': 246025, 'width': 1802, 'height': 1426, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 now this
 
 ## ChatGPT (2025-02-13T21:22:44.124696+00:00)
 
-To answer this question correctly, you need to consider which **CIA Triad** component would have the greatest impact **when a breach happens to your customer**. 
+To answer this question correctly, you need to consider which **CIA Triad** component would have the greatest impact **when a breach happens to your customer**.
 
 Here’s how to think about it:
 
@@ -62,14 +57,13 @@ Here’s how to think about it:
 2. **Integrity** – If the breach involves altering customer data (e.g., modifying records, injecting false information), this could be the primary impact.
 3. **Availability** – If the breach leads to system downtime, preventing customers from accessing services, this would be the greatest concern.
 
-**Best answer:**  
-✅ **Confidentiality** (if the breach leaks sensitive customer data, which is often the biggest risk in most cybersecurity incidents).  
+**Best answer:**
+✅ **Confidentiality** (if the breach leaks sensitive customer data, which is often the biggest risk in most cybersecurity incidents).
 
 However, if your specific project deals heavily with **real-time system access** (like healthcare systems or financial transactions), **Availability** could be a more critical concern.
 
 ## You (2025-02-13T21:23:44.425579+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-PgqrUrYfhB86QAqEELwp5m', 'size_bytes': 468518, 'width': 1808, 'height': 1346, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 ok... no task here. just keep this as a reference
 
 ## ChatGPT (2025-02-13T21:23:48.825597+00:00)
@@ -103,7 +97,6 @@ Got it! I'll keep this as a reference as well in case you need to revisit legal 
 
 ## You (2025-02-13T21:24:26.580875+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-BRjuXmeBdan8Ex4ieLmBiX', 'size_bytes': 188347, 'width': 1780, 'height': 1294, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 ok now help me answer these questions
 
 ## ChatGPT (2025-02-13T21:24:44.590601+00:00)
@@ -112,7 +105,7 @@ Here’s how you should answer the **Legal Importance Reflection** based on the 
 
 ---
 
-### **Impact on Your Customer**  
+### **Impact on Your Customer**
 (*A healthcare provider using Cisco technology that experiences a breach*)
 
 | Category  | Low Impact | Medium Impact | High Impact |
@@ -123,7 +116,7 @@ Here’s how you should answer the **Legal Importance Reflection** based on the 
 
 ---
 
-### **Impact on Cisco**  
+### **Impact on Cisco**
 (*Cisco’s responsibility if their product vulnerability caused the breach*)
 
 | Category  | Low Impact | Medium Impact | High Impact |
@@ -134,7 +127,7 @@ Here’s how you should answer the **Legal Importance Reflection** based on the 
 
 ---
 
-### **Final Answer:**  
+### **Final Answer:**
 All categories (**Legal, Reputation, Ethical**) should be marked as **High Impact** for both the **customer** and **Cisco**, given the **severity of a breach in a healthcare setting**.
 
 Let me know if you want to adjust based on different risk considerations!
@@ -165,7 +158,6 @@ Got it! I'll keep this as a reference in case you need to revisit **risk assessm
 
 ## You (2025-02-13T21:26:03.931579+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-CpaN9tBPRZwr1cHQe1YjpR', 'size_bytes': 479600, 'width': 1830, 'height': 1194, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 And this tooo
 
 ## ChatGPT (2025-02-13T21:26:09.394083+00:00)
@@ -207,7 +199,6 @@ Got it! I'll keep this as a reference on **quantitative risk assessment**, inclu
 
 ## You (2025-02-13T21:27:38.763677+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-8uFp9MM59yBhiiWgq7U2mN', 'size_bytes': 106517, 'width': 1836, 'height': 632, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Help me answer this question
 
 ## ChatGPT (2025-02-13T21:27:45.713110+00:00)
@@ -219,12 +210,11 @@ The correct answer depends on the nature of **threat modeling prior to coding**:
 - **Quantitative** risk analysis, on the other hand, involves numerical calculations (e.g., Single Loss Expectancy, Annualized Loss Expectancy), which are more common in later phases when specific risks are being measured for cost-benefit analysis.
 
 ### **Best Answer:**
-✅ **Qualitative**  
+✅ **Qualitative**
 (*Threat modeling before coding is typically a qualitative process, as it focuses on identifying, describing, and categorizing risks rather than assigning precise numerical values.*)
 
 ## You (2025-02-13T21:28:28.708134+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-AhZoKTerdyibRdVtE9icQb', 'size_bytes': 553283, 'width': 1842, 'height': 1340, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 OK, just keep this as a reference. Don't do anything with this.
 
 ## ChatGPT (2025-02-13T21:28:36.074720+00:00)
@@ -233,7 +223,6 @@ Got it! I'll keep this as a reference on **risk management strategies (Avoid, Mi
 
 ## You (2025-02-13T21:29:16.945465+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-BSfYM8fBWudRg6Ppp8MB3t', 'size_bytes': 342771, 'width': 1882, 'height': 1188, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Help me finish this task
 
 ## ChatGPT (2025-02-13T21:29:41.566348+00:00)
@@ -242,7 +231,7 @@ Here’s how you should correctly categorize each risk control under **Avoid, Mi
 
 ### **Avoid**
 - ✅ **Decide that a feature is too risky to implement** *(Avoiding the risk altogether by not proceeding with the feature)*
-  
+
 ### **Mitigate**
 - ✅ **Install an application-based firewall** *(Reducing the risk by adding security measures)*
 - ✅ **Enable logging** *(Helps detect and respond to threats faster)*
@@ -257,4 +246,3 @@ Here’s how you should correctly categorize each risk control under **Avoid, Mi
 - ✅ **Fail to perform threat modeling** *(Accepting the consequences of not identifying risks proactively—though this is generally not a best practice!)*
 
 This classification aligns with **risk response strategies** based on industry best practices. Let me know if you need any refinements!
-

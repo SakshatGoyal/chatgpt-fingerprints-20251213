@@ -59,4 +59,3 @@ As AI’s capabilities deepen, designers must assume greater ethical responsibil
 ---
 
 In short, our unified stance is clear: the future of design with generative AI lies in thoughtfully amplifying human capabilities, rigorously grounding exploration in human empathy and evidence, and boldly redefining design leadership as strategic sense-making and ethical stewardship.
-

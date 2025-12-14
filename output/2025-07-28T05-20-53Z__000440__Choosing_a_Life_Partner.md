@@ -38,4 +38,3 @@ In your youth, opposites may seduce you. They are novel, stimulating, exotic. Bu
 Would you rather ride a horse that pulls in the opposite direction, or one that gallops beside you, swift and steady?
 
 If you'd like, I can help you construct a kind of "match profile" rooted in strategic rather than sentimental compatibility.
-

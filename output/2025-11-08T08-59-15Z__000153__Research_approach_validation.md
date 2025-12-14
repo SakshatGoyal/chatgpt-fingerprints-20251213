@@ -189,9 +189,7 @@ Great — I’ll begin deep research on all 15 exemplars in parallel, extracting
 
 I’ll return with a human-readable principles table per person, a cross-exemplar ontology, synthesis narrative, and next-step retrieval gaps once the research phase completes.
 
-## ChatGPT (2025-11-08T09:00:17.345972+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\n  \"task_violates_safety_guidelines\": false,\n  \"user_def_doesnt_want_research\": false,\n  \"response\": \"Great — I’ll begin deep research on all 15 exemplars in parallel, extracting 3–6 principles per person spanning product design and strategy thinking. I’ll surface their core philosophies, decisions, and reasoning patterns, triangulated from diverse source types.\\n\\nI’ll return with a human-readable principles table per person, a cross-exemplar ontology, synthesis narrative, and next-step retrieval gaps once the research phase completes.\",\n  \"title\": \"Philosophical Extraction from 15 Product Design Exemplars\",\n  \"prompt\": \"Conduct deep research on the following 15 design and product strategy exemplars: Julie Zhuo, Dan Mall, Mihika Kapoor, Joey Banks, David Hoang, Juan J. Ramirez, Ha Phan, Luke Wroblewski, John Maeda, Ankit Goyal, Michal Simkovic, Katie Dill, Irene Au, Tobias Van Schneider, Jennifer Wong.\\n\\nFor each exemplar, extract 3–6 core principles that represent their philosophy-in-action across product design and product strategy/PM. For each principle, output:\\n\\n1. Name (precise, non-generic)\\n2. Definition (your paraphrase) — 2–4 sentences\\n3. Why it matters to outcomes — explicit link to product impact\\n4. Observable signals in artifacts — concrete markers in portfolios/talks/changelogs\\n5. Design manifestation — IA/interaction/microcopy/process\\n6. Product strategy manifestation — problem framing, prioritization, metrics, experiments\\n7. Counter-examples — what it is not; typical failure modes\\n8. Citations — ≥2 distinct source types with short verbatim snippets (≤50 words each)\\n9. Confidence — High/Med/Low with one-line justification\\n\\nThen synthesize a Principle Ontology:\\n* Cluster principles across all 15 exemplars into 3–6 meta-clusters.\\n* Within each cluster, identify sub-principles and note shared beliefs and tensions.\\n* Map each to core dimensions (Problem Framing, Systems & IA, Interaction Strategy & Craft, Outcomes & Metrics, Constraints Management, Prioritization & Product Sense, Communication & Narrative, Cross-Functional Influence, Ethics & Accessibility).\\n\\nDeliver only human-readable markdown with:\\n1. Per-Exemplar Principles Table\\n2. Principle Ontology Table + Outline\\n3. Synthesis Narrative\\n4. Gaps & Next Retrieval Steps\\n\\nEnforce the global guardrails: triangulate each principle with ≥2 source types (portfolio, talk, changelog, interview, etc.), avoid surface-level generalities, operationalize each principle with falsifiable signals, and include counter-examples.\\n\\nDo not display any JSON; keep internal structured state for continuity into later stages. Exclude creative directors who lack evidence of product reasoning or decision making. Prioritize reasoning artifacts over visual mimicry. Normalize for domain context (infra, regulated, enterprise).\"\n}"}
 
 ## ChatGPT (2025-11-08T09:25:55.533334+00:00)
 
@@ -291,7 +289,7 @@ Yet, they all balance that scientific rigor with **human-centered vision and int
 
 Another unifying narrative is the **empowerment and inclusion** theme. These exemplars believe *the best products come from diverse inputs and broad participation*. Dan Mall and Irene Au emphasize inclusive design – not as a moral afterthought, but as a baseline of “good design” that works for all users【17†L105-L114】【18†L7-L15】. Meanwhile, internally, Katie Dill and Julie Zhuo ensure non-designers are included in the design conversation early, whether by embedding designers in product teams or writing principles non-designers can use to make decisions【65†L91-L99】【1†L111-L118】. Joey Banks literally creates systems so PMs and engineers “have the ability to… use the latest UI elements” themselves【30†L110-L118】. This inclusive, empowering approach has a compounding effect: by **scaling design understanding across the org**, the product benefits from consistency and from ideas anywhere. Essentially, these leaders spread design literacy and tools so that design’s influence is not confined to a small team but **woven into the fabric of product development**.
 
-A key insight from examining tensions is how these leaders handle the classic **quality vs. speed** and **vision vs. adaptation** dilemmas. The principles show a remarkable ability to do *both*. They maintain high quality through structure (like design systems to prevent inconsistency or slowness – Banks and Mall use that to be both fast and good【19†L31-L39】【19†L33-L41】). They preserve vision through principles, even as they adapt tactics via testing. For example, Mihika Kapoor held a strong vision (“0→1 projects must keep the hearth burning”【21†L99-L103】) but she was extremely agile in *how* to get there – pivoting messaging after leadership feedback【24†L218-L226】, adjusting approach after user tests【24†L177-L185】. The outcome was a product that still met the original vision but incorporated a myriad of improvements from feedback. This seems to be a hallmark of their leadership: **unyielding on the *why*, flexible on the *how***. Principles and vision anchor them, while iteration and feedback steer the ship. 
+A key insight from examining tensions is how these leaders handle the classic **quality vs. speed** and **vision vs. adaptation** dilemmas. The principles show a remarkable ability to do *both*. They maintain high quality through structure (like design systems to prevent inconsistency or slowness – Banks and Mall use that to be both fast and good【19†L31-L39】【19†L33-L41】). They preserve vision through principles, even as they adapt tactics via testing. For example, Mihika Kapoor held a strong vision (“0→1 projects must keep the hearth burning”【21†L99-L103】) but she was extremely agile in *how* to get there – pivoting messaging after leadership feedback【24†L218-L226】, adjusting approach after user tests【24†L177-L185】. The outcome was a product that still met the original vision but incorporated a myriad of improvements from feedback. This seems to be a hallmark of their leadership: **unyielding on the *why*, flexible on the *how***. Principles and vision anchor them, while iteration and feedback steer the ship.
 
 Another theme is **design’s strategic elevation**. Many principles effectively argue that design should lead, or at least co-lead, strategy, not just follow it. Ramirez’s writings about giving design an equal voice in governance【40†L313-L321】, Dill’s integration of design in leadership and value translation【65†L135-L143】, Zhuo’s insistence on principled reasoning for every design (making design rationale accessible to all)【1†L111-L118】 – all are pushing design beyond pixels into product direction. The narratives from these leaders show them actively fighting earlier industry practices: e.g., Dill dismantled the “design as internal agency” model at Lyft because it siloed design from strategy, replacing it with embedded designers who influence from ideation onward【65†L91-L99】. Similarly, Zhuo moved Facebook from ad-hoc design decisions to principled design discussions that anyone in the room could engage with logically【1†L111-L118】. The collective narrative here is **design as a catalyst of strategy** – achieved by equipping design with the language of principles, data, and user value, so that in meetings with executives or engineers, design’s perspective is respected as crucial. The success of many of these companies (Airbnb’s rise via experience design, Facebook’s consistency at scale, Figma’s 0→1 product successes) bear out this narrative: when design is empowered and methodical, it drives real innovation and business value.
 
@@ -307,7 +305,7 @@ This deep-dive synthesized principles from connected reputable sources (intervie
 
 - **Ankit Goyal’s product prompts:** We integrated Ankit’s key principle (avoid hype-driven development, focus on problem & quick user hook) from limited content. To ensure full coverage, we might retrieve more of his writing (e.g., his “3 lessons for my younger self” full text) to catch any nuanced principles (like maybe something on AI ethics or PM/design collaboration in AI, given his AI focus).
 
-- **Michal Simkovic’s design philosophy:** Our data on Michal came mostly from his interview and hints of his work on design systems at AWS. If more detail is needed on his principles, retrieving any blog posts or talks he’s given (perhaps on Netflix’s design blog or personal Medium if available) could confirm how he approaches scalability or simplicity (likely big themes at Around and Netflix). 
+- **Michal Simkovic’s design philosophy:** Our data on Michal came mostly from his interview and hints of his work on design systems at AWS. If more detail is needed on his principles, retrieving any blog posts or talks he’s given (perhaps on Netflix’s design blog or personal Medium if available) could confirm how he approaches scalability or simplicity (likely big themes at Around and Netflix).
 
 - **Jennifer Wong’s current work:** We referenced her “Empathetic Design Systems” talk and a quote in EPIC. Additional info from her role as Head of Product Strategy for AI at Smartling (if available) could shed light on how she applies those principles in practice, especially in the AI domain (maybe something on localization + design?).
 
@@ -494,28 +492,24 @@ Sections:
 * Keep all schemas, weights, and confidence math **internal**.
 * Present only the **Rubric Table**, **Application Guide**, **IRR & Calibration Summary**, and **Risk/Assumption Log** in clean Markdown.
 
-## ChatGPT (2025-11-08T09:44:16.713594+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Creating a Rubric", "content": "I’m thinking about how to build this rubric without a web search. The user provided the \"Stage 1\" text, which seems to lack proper citations, but it's what I’ve got. To keep it concise but informative, I’ll create roughly 12 principles with appropriate weights (none over 35%). I'll follow some clear categories and offer a brief guide for applicability. This should help in crafting a structured, comprehensive rubric.", "chunks": ["I’m thinking about how to build this rubric without a web search.", "The user provided the \"Stage 1\" text, which seems to lack proper citations, but it's what I’ve got. To keep it concise but informative, I’ll create roughly 12 principles with appropriate weights (none over 35%). I'll follow some clear categories and offer a brief guide for applicability. This should help in crafting a structured, comprehensive rubric."], "finished": true}], "source_analysis_msg_id": "fbbf1849-98c6-40cf-a230-c3ba2fa15e42"}
 
-## ChatGPT (2025-11-08T09:44:21.463892+00:00)
 
-{"content_type": "reasoning_recap", "content": "Thought for 4 seconds"}
 
 ## ChatGPT (2025-11-08T09:44:21.396082+00:00)
 
 # Stage 2 — Evidence-Based Rubric (Senior→Principal Product Designers)
 
-> Persona: **Measurement Scientist × Design Ops Lead × Product Strategist**  
-> Purpose: Convert Stage-1 philosophical ontology into a **triangulable, falsifiable, inter-rater-reliable** rubric.  
+> Persona: **Measurement Scientist × Design Ops Lead × Product Strategist**
+> Purpose: Convert Stage-1 philosophical ontology into a **triangulable, falsifiable, inter-rater-reliable** rubric.
 > Output below is **human-readable only** (tables + guides). All schemas/weights/confidence math are maintained internally.
 
 ---
 
 ## 1) Rubric Table
 
-> **Scoring anchors are 0/1/3/5**.  
-> **Initial weights** sum to 100 and satisfy the ≤35% dominance rule.  
+> **Scoring anchors are 0/1/3/5**.
+> **Initial weights** sum to 100 and satisfy the ≤35% dominance rule.
 > **What to Look For** always implies **multiple source types** (prefer **portfolio/case-study PDFs**, then talks/interviews, release notes/changelogs, conference decks, LinkedIn/company blog).
 
 | Principle (concise) | Core Dimensions | What to Look For (Units + Signals) | Positive Indicators (evidence behaviors) | Negative Indicators (anti-patterns) | **Score Anchors (0/1/3/5)** | Initial Weight | Notes (Ethics/Domain) |
@@ -540,37 +534,37 @@ Sections:
 ## 2) One-Page Application Guide
 
 ### A. How to Source Evidence
-1. **Prioritize**: (1) Portfolio/case-study PDFs & internal-style writeups; (2) long-form talks/interviews; (3) product changelogs/release notes; (4) conference decks; (5) LinkedIn/company blog.  
-2. **Capture snippets**: Quote ≤50 words that encode **decisions, tradeoffs, metrics, constraints**. Note artifact type & date.  
+1. **Prioritize**: (1) Portfolio/case-study PDFs & internal-style writeups; (2) long-form talks/interviews; (3) product changelogs/release notes; (4) conference decks; (5) LinkedIn/company blog.
+2. **Capture snippets**: Quote ≤50 words that encode **decisions, tradeoffs, metrics, constraints**. Note artifact type & date.
 3. **De-dupe SEO noise**: If multiple posts repeat the same shallow summary, treat as **one** weak source. Seek a second **distinct type**.
 
 ### B. How to Score (per rubric item)
-1. **Identify unit(s) of observation** in the artifact (e.g., IA diagram, tradeoff log).  
-2. **Check indicators**: confirm at least **two** positive signals from **≥2 source types**, or note negatives.  
-3. **Select anchor** 0/1/3/5 using table language (testable behaviors only).  
+1. **Identify unit(s) of observation** in the artifact (e.g., IA diagram, tradeoff log).
+2. **Check indicators**: confirm at least **two** positive signals from **≥2 source types**, or note negatives.
+3. **Select anchor** 0/1/3/5 using table language (testable behaviors only).
 4. **Note confidence** (H/M/L) and add **To-Verify** probes if Medium/Low.
 
 ### C. Confidence Labels (display label, keep math internal)
-- **High**: Strong triangulation, specific snippets, recent/relevant.  
-- **Medium**: Some triangulation, partial specificity, mixed recency.  
+- **High**: Strong triangulation, specific snippets, recent/relevant.
+- **Medium**: Some triangulation, partial specificity, mixed recency.
 - **Low**: Single source type, generic language, unclear dates.
 
-**When to add “To-Verify” probes:**  
+**When to add “To-Verify” probes:**
 – Outcomes reported without baselines; – A11y claims without standards/tests; – “Principles” without examples impacting decisions.
 
 ### D. Mimicry Filter (enforce strictly)
 If **Interaction Craft** shows polish but **no explicit tradeoffs/constraints**, **cap at 3/5**. Apply same cap to **Design Ops** when a library exists but **no adoption/impact** evidence.
 
 ### E. Domain Normalization
-- **Regulated/Infra/B2B**: Reward clarity of **constraints, compliance mapping, change-management** over public sparkle. Accept **internal-style redactions** if structure/decisions are present.  
+- **Regulated/Infra/B2B**: Reward clarity of **constraints, compliance mapping, change-management** over public sparkle. Accept **internal-style redactions** if structure/decisions are present.
 - **Consumer**: Expect **higher narrative density** and **user-visible prototypes**; still require tradeoffs/metrics.
 
 ### F. Escalation Rules
-Request additional artifacts when:  
-- Vision lacks a demo **and** no roadmap link;  
-- Metrics lack definitions/baselines;  
-- A11y/ethics unobservable;  
-- System claims lack **governance/adoption** proof.  
+Request additional artifacts when:
+- Vision lacks a demo **and** no roadmap link;
+- Metrics lack definitions/baselines;
+- A11y/ethics unobservable;
+- System claims lack **governance/adoption** proof.
 Preferred asks: **case-study PDF**, **pre-post readout**, **A11y checklist**, **system contribution doc**.
 
 ---
@@ -598,35 +592,34 @@ Preferred asks: **case-study PDF**, **pre-post readout**, **A11y checklist**, **
 
 ## 4) Risk & Assumption Log
 
-- **Brand Halo Bias**: Big-name companies inflate perceived rigor. **Mitigation**: score only on **artifacts & decisions**, not employer.  
-- **Consumer Bias**: Flashy demos over-rewarded vs. B2B/infra. **Mitigation**: apply **domain normalization**; seek constraints/change-management evidence.  
-- **Recency Bias**: Newer case studies seem better. **Mitigation**: prefer **complete decision arcs** (problem→decision→outcome), regardless of date.  
-- **Evidence Scarcity**: Some orgs restrict details. **Mitigation**: accept **structure without numbers** when tradeoffs/constraints are explicit; request **sanitized PDFs**.  
-- **A11y Visibility Gap**: Accessibility work often omitted from public decks. **Mitigation**: probe for **checklists, testing protocols, localization**, and **harm analysis**.  
-- **Mimicry Risk**: High craft with no rationale. **Mitigation**: enforce **mimicry cap** (≤3) unless tradeoffs/constraints are cited.  
-- **Framework Theater**: RICE/OKR theater with no decisions. **Mitigation**: award points only when **framework → decision change** is evidenced.  
+- **Brand Halo Bias**: Big-name companies inflate perceived rigor. **Mitigation**: score only on **artifacts & decisions**, not employer.
+- **Consumer Bias**: Flashy demos over-rewarded vs. B2B/infra. **Mitigation**: apply **domain normalization**; seek constraints/change-management evidence.
+- **Recency Bias**: Newer case studies seem better. **Mitigation**: prefer **complete decision arcs** (problem→decision→outcome), regardless of date.
+- **Evidence Scarcity**: Some orgs restrict details. **Mitigation**: accept **structure without numbers** when tradeoffs/constraints are explicit; request **sanitized PDFs**.
+- **A11y Visibility Gap**: Accessibility work often omitted from public decks. **Mitigation**: probe for **checklists, testing protocols, localization**, and **harm analysis**.
+- **Mimicry Risk**: High craft with no rationale. **Mitigation**: enforce **mimicry cap** (≤3) unless tradeoffs/constraints are cited.
+- **Framework Theater**: RICE/OKR theater with no decisions. **Mitigation**: award points only when **framework → decision change** is evidenced.
 - **Metric Myopia**: Vanity metrics mask harm/trust issues. **Mitigation**: require **metric definitions, baselines, confounds**; consider qualitative trust signals.
 
 ---
 
 ### Quick Use Checklist (for reviewers)
 
-- [ ] Located **two distinct source types** per item (prefer PDF + talk/changelog).  
-- [ ] Marked **positive & negative signals**; selected **0/1/3/5** strictly by anchors.  
-- [ ] Applied **mimicry cap** where tradeoffs absent.  
-- [ ] Applied **domain normalization** (regulated/B2B/infra).  
-- [ ] Labeled **confidence** and added **To-Verify** probes for gaps.  
+- [ ] Located **two distinct source types** per item (prefer PDF + talk/changelog).
+- [ ] Marked **positive & negative signals**; selected **0/1/3/5** strictly by anchors.
+- [ ] Applied **mimicry cap** where tradeoffs absent.
+- [ ] Applied **domain normalization** (regulated/B2B/infra).
+- [ ] Labeled **confidence** and added **To-Verify** probes for gaps.
 - [ ] Weights applied (no family >35%); documented any role-specific reweighting.
 
 ---
 
 ### Optional Role Reweighting (guidance)
 
-- **PM-heavy Staff/Principal Designer**: +2–3% to **Problem Framing**, **Outcomes**, **Prioritization** (rebalance from **Interaction Craft**/**Design Ops**).  
-- **Systems-oriented Lead**: +3–4% to **Systems & IA** and **Design Ops** (rebalance from **Vision**/**Cross-Functional Influence** if needed).  
+- **PM-heavy Staff/Principal Designer**: +2–3% to **Problem Framing**, **Outcomes**, **Prioritization** (rebalance from **Interaction Craft**/**Design Ops**).
+- **Systems-oriented Lead**: +3–4% to **Systems & IA** and **Design Ops** (rebalance from **Vision**/**Cross-Functional Influence** if needed).
 - **Accessibility-critical domains** (gov/health/finance): +3% to **Ethics & Accessibility** (rebalance from **Interaction Craft**).
 
 ---
 
 If you share `STAGE_1_TEXT`, I’ll run a first pass score on a sample candidate (or two) and return a **filled rubric + confidence notes** using this framework.
-

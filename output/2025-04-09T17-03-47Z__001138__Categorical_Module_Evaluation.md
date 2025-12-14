@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:03:48.403911+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 3 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 6 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 8 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 14 - C2-I1,Signal Split,Evidence Frame,Unknown,Unknown,Unknown,Unknown,Certainty Illusion  
-CATEGORICAL MODULE 23 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 25 - C2-I1,Value Clash,Evidence Frame,Tested First,True Clarity,Global vs. Local,Adaptive Growth,Ignored Insight  
-CATEGORICAL MODULE 28 - C2-I1,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 30 - C2-I1,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 33 - C2-I1,Cultural Drift,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Adaptive Growth,Legacy Hold  
-CATEGORICAL MODULE 38 - C2-I1,Signal Split,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Certainty Illusion  
-CATEGORICAL MODULE 47 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 48 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 49 - C2-I1,Value Clash,Evidence Frame,Outside Approval,Surface Alignment,Global vs. Local,Governance Shift,Legacy Hold  
-CATEGORICAL MODULE 50 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 2 - C2-I2,Capability Gap,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 3 - C2-I2,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 4 - C2-I2,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 6 - C2-I2,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Legacy Hold  
-CATEGORICAL MODULE 9 - C2-I2,Value Clash,Evidence Frame,Outside Approval,True Clarity,Plan vs. React,Governance Shift,Comfort Bias  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 3 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 6 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 8 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 14 - C2-I1,Signal Split,Evidence Frame,Unknown,Unknown,Unknown,Unknown,Certainty Illusion
+CATEGORICAL MODULE 23 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 25 - C2-I1,Value Clash,Evidence Frame,Tested First,True Clarity,Global vs. Local,Adaptive Growth,Ignored Insight
+CATEGORICAL MODULE 28 - C2-I1,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 30 - C2-I1,Value Clash,Capability Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 33 - C2-I1,Cultural Drift,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Adaptive Growth,Legacy Hold
+CATEGORICAL MODULE 38 - C2-I1,Signal Split,Evidence Frame,Tested First,True Clarity,Plan vs. React,Adaptive Growth,Certainty Illusion
+CATEGORICAL MODULE 47 - C2-I1,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 48 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 49 - C2-I1,Value Clash,Evidence Frame,Outside Approval,Surface Alignment,Global vs. Local,Governance Shift,Legacy Hold
+CATEGORICAL MODULE 50 - C2-I1,Value Clash,Evidence Frame,Tested First,Surface Alignment,Global vs. Local,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 2 - C2-I2,Capability Gap,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 3 - C2-I2,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 4 - C2-I2,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Lean vs. Unique,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 6 - C2-I2,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Legacy Hold
+CATEGORICAL MODULE 9 - C2-I2,Value Clash,Evidence Frame,Outside Approval,True Clarity,Plan vs. React,Governance Shift,Comfort Bias
 CATEGORICAL MODULE 10 - C2-I2,Value Clash,Evidence Frame,Outside Approval,True Clarity,Plan vs. React,Governance Shift,Comfort Bias
-

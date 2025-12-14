@@ -2,7 +2,6 @@
 
 ## You (2025-06-07T01:23:23.518000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-WQd8QhrjFVuY5HVTqnp9fy', 'size_bytes': 323349, 'width': 2017, 'height': 1243, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 give me a synthesis of the data you see on this page
 
 ## ChatGPT (2025-06-07T01:23:24.288463+00:00)
@@ -59,4 +58,3 @@ give me a 1 line synthesis of this
 ## ChatGPT (2025-06-07T01:23:44.940793+00:00)
 
 $13.5M in ARR is at risk across 7 accounts due to critical technical health and deployment issues—primarily tied to Prisma Access and VM-Series—with zero visibility into value realization or customer engagement.
-

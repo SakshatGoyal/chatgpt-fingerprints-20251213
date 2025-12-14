@@ -102,62 +102,62 @@ This prompt is designed to equip the research team with a highly targeted, organ
 
 ## ChatGPT (2025-03-16T22:39:25.503153+00:00)
 
-Here’s a revised version of your prompt that explicitly instructs Gemini to only return a long, comprehensive list of hyperlinks without summarizing the content. It also emphasizes strict adherence to academic sources and the exclusion of general web articles.  
+Here’s a revised version of your prompt that explicitly instructs Gemini to only return a long, comprehensive list of hyperlinks without summarizing the content. It also emphasizes strict adherence to academic sources and the exclusion of general web articles.
 
 ---
 
-### **Refined Prompt for Gemini (Strictly Link-Based Research on Business-Level Strategy and AI Integration)**  
+### **Refined Prompt for Gemini (Strictly Link-Based Research on Business-Level Strategy and AI Integration)**
 
-#### **Objective**  
-I am conducting a **comprehensive research project** on Business-Level Strategy decision-making and AI integration. My primary goal is to **gather a large list of high-quality, relevant academic and industry sources**—**not summaries or explanations**.  
+#### **Objective**
+I am conducting a **comprehensive research project** on Business-Level Strategy decision-making and AI integration. My primary goal is to **gather a large list of high-quality, relevant academic and industry sources**—**not summaries or explanations**.
 
-**⚠️ Important Instructions:**  
-- Do **NOT** summarize or synthesize the content. **Only provide direct links to relevant academic papers, industry reports, case studies, and books.**  
-- Do **NOT** include blog posts, generic news articles, or opinion pieces.  
-- Do **NOT** override the source limitations—stick only to the specified sources below.  
-- **Return as many links as possible** (minimum of **8–10 links per decision scenario**, but more is preferred).  
-
----
-
-### **Research Focus & Key Decision Scenarios**  
-The research should cover **six major business strategy decision scenarios** with an emphasis on **decision-making frameworks, AI integration, and real-world applications.**  
-
-**1️⃣ Market Expansion** – Decisions on entering new markets, forming partnerships, and digital expansion.  
-**2️⃣ Product & Service Positioning** – Product differentiation, feature prioritization, and roadmap strategy.  
-**3️⃣ Resource Allocation** – Budget optimization, talent deployment, and investment trade-offs.  
-**4️⃣ Competitive Response** – Competitive positioning, industry disruptions, and pricing strategies.  
-**5️⃣ Channel & Distribution Strategy** – Sales channels, partner ecosystems, and inventory optimization.  
-**6️⃣ Mergers & Acquisitions (M&A)** – Target selection, due diligence, post-merger integration.  
-
-For each of the above, **only return links** to relevant resources that align with:  
-✅ **Decision-making models** (frameworks and best practices used in these scenarios).  
-✅ **AI applications** (machine learning, predictive analytics, NLP for strategic decision-making).  
-✅ **Case studies** (real-world examples of these decisions in action).  
-✅ **Industry research** (white papers, conference proceedings, and expert insights).  
+**⚠️ Important Instructions:**
+- Do **NOT** summarize or synthesize the content. **Only provide direct links to relevant academic papers, industry reports, case studies, and books.**
+- Do **NOT** include blog posts, generic news articles, or opinion pieces.
+- Do **NOT** override the source limitations—stick only to the specified sources below.
+- **Return as many links as possible** (minimum of **8–10 links per decision scenario**, but more is preferred).
 
 ---
 
-### **Strict Source Prioritization**  
-🔹 **Academic Journals**  
-- **Strategic Management Journal**, Harvard Business Review (HBR), MIT Sloan Management Review, California Management Review.  
-- **Google Scholar, SSRN, ResearchGate** – ONLY return links to **peer-reviewed research papers** on these platforms.  
+### **Research Focus & Key Decision Scenarios**
+The research should cover **six major business strategy decision scenarios** with an emphasis on **decision-making frameworks, AI integration, and real-world applications.**
 
-🔹 **Industry Reports & White Papers**  
-- **McKinsey, BCG, Gartner, Forrester, Deloitte Insights** – ONLY return links to **official reports** (not blog posts).  
+**1️⃣ Market Expansion** – Decisions on entering new markets, forming partnerships, and digital expansion.
+**2️⃣ Product & Service Positioning** – Product differentiation, feature prioritization, and roadmap strategy.
+**3️⃣ Resource Allocation** – Budget optimization, talent deployment, and investment trade-offs.
+**4️⃣ Competitive Response** – Competitive positioning, industry disruptions, and pricing strategies.
+**5️⃣ Channel & Distribution Strategy** – Sales channels, partner ecosystems, and inventory optimization.
+**6️⃣ Mergers & Acquisitions (M&A)** – Target selection, due diligence, post-merger integration.
 
-🔹 **Conference Proceedings**  
-- AI & strategy-related papers from **NeurIPS, INFORMS, AAAI**.  
-
-🔹 **Books & Executive Insights**  
-- Amazon, Google Books, or publisher links to books like *Hit Refresh* (Satya Nadella), *The Hard Thing About Hard Things* (Ben Horowitz).  
-
-❌ **DO NOT** include blog posts, news articles, or content from unverified sources.  
-❌ **DO NOT** include generic or low-quality sources (e.g., Medium, random business blogs, Forbes opinion pieces).  
+For each of the above, **only return links** to relevant resources that align with:
+✅ **Decision-making models** (frameworks and best practices used in these scenarios).
+✅ **AI applications** (machine learning, predictive analytics, NLP for strategic decision-making).
+✅ **Case studies** (real-world examples of these decisions in action).
+✅ **Industry research** (white papers, conference proceedings, and expert insights).
 
 ---
 
-### **Output Format**  
-Gemini should provide a **well-structured list** of hyperlinked resources, categorized by decision scenario:  
+### **Strict Source Prioritization**
+🔹 **Academic Journals**
+- **Strategic Management Journal**, Harvard Business Review (HBR), MIT Sloan Management Review, California Management Review.
+- **Google Scholar, SSRN, ResearchGate** – ONLY return links to **peer-reviewed research papers** on these platforms.
+
+🔹 **Industry Reports & White Papers**
+- **McKinsey, BCG, Gartner, Forrester, Deloitte Insights** – ONLY return links to **official reports** (not blog posts).
+
+🔹 **Conference Proceedings**
+- AI & strategy-related papers from **NeurIPS, INFORMS, AAAI**.
+
+🔹 **Books & Executive Insights**
+- Amazon, Google Books, or publisher links to books like *Hit Refresh* (Satya Nadella), *The Hard Thing About Hard Things* (Ben Horowitz).
+
+❌ **DO NOT** include blog posts, news articles, or content from unverified sources.
+❌ **DO NOT** include generic or low-quality sources (e.g., Medium, random business blogs, Forbes opinion pieces).
+
+---
+
+### **Output Format**
+Gemini should provide a **well-structured list** of hyperlinked resources, categorized by decision scenario:
 
 | **Category**                     | **Resource Link**                                          |
 |----------------------------------|----------------------------------------------------------|
@@ -172,32 +172,31 @@ Gemini should provide a **well-structured list** of hyperlinked resources, categ
 | **Channel & Distribution Strategy** | [Link to Industry Case Study]                         |
 | **Mergers & Acquisitions**       | [Link to M&A Strategy Report]                          |
 
-🚨 **No summaries, just links.** The table should include **at least 8–10 links per category** (more is preferred).  
+🚨 **No summaries, just links.** The table should include **at least 8–10 links per category** (more is preferred).
 
 ---
 
-### **Key Reminders for Gemini**  
-✅ **No summaries or synthesized explanations—just hyperlinks.**  
-✅ **Strictly use the sources listed above; do not fetch random web articles.**  
-✅ **Provide the maximum number of links possible.**  
-✅ **Ensure links are still active and accessible.**  
-✅ **Follow the structured table format with clear categories.**  
+### **Key Reminders for Gemini**
+✅ **No summaries or synthesized explanations—just hyperlinks.**
+✅ **Strictly use the sources listed above; do not fetch random web articles.**
+✅ **Provide the maximum number of links possible.**
+✅ **Ensure links are still active and accessible.**
+✅ **Follow the structured table format with clear categories.**
 
 ---
 
-### **Success Criteria**  
-- Minimum **8–10 valid research links per category** (**more is preferred**).  
-- No blog posts, no generic articles—**only academic, industry, and executive insights.**  
-- Links must be categorized and formatted correctly in the provided table.  
+### **Success Criteria**
+- Minimum **8–10 valid research links per category** (**more is preferred**).
+- No blog posts, no generic articles—**only academic, industry, and executive insights.**
+- Links must be categorized and formatted correctly in the provided table.
 
-🔹 *If Gemini cannot find enough links for a category, it should explicitly state that instead of filling with unrelated sources.*  
+🔹 *If Gemini cannot find enough links for a category, it should explicitly state that instead of filling with unrelated sources.*
 
 ---
 
-### **Final Note**  
-This research is for **expert-level analysis** of strategic decision-making frameworks and AI applications. The outcome should be a **deep, structured collection of sources**, **not** a summary or explanation of the content. If Gemini’s response does not match this exact request, please **re-run the search** while adhering strictly to these constraints.  
+### **Final Note**
+This research is for **expert-level analysis** of strategic decision-making frameworks and AI applications. The outcome should be a **deep, structured collection of sources**, **not** a summary or explanation of the content. If Gemini’s response does not match this exact request, please **re-run the search** while adhering strictly to these constraints.
 
 ---
 
 This should **force Gemini** to return only a **large list of academic and high-quality industry resources** rather than summarizing the findings or including unverified web content. Let me know if you want any refinements!
-

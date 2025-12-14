@@ -12,7 +12,7 @@ Given the scope (small but important daily habits), here's a structured yet simp
 - **Small/medium task** with **significant daily impact** (important routines and habits), so clarity, simplicity, and reliability are key.
 
 ### **Step 2: Clarify Assumptions**
-**Implicit assumptions:**  
+**Implicit assumptions:**
 - You prefer notifications that are unobtrusive yet effective.
 - You want all reminders consolidated in one place for simplicity.
 - Customizability and ease-of-use are essential for adjusting routines over time.
@@ -48,4 +48,3 @@ A practical, efficient, and flexible approach is using a **single versatile app 
 4. **Review weekly:** Adjust based on effectiveness and daily routine.
 
 This approach balances practicality, customization, and efficiency, ensuring regular habits are consistently reinforced without overwhelming your daily workflow.
-

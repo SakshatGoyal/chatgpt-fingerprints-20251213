@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:54:56.464457+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 2 - C3-I6,Norm Collision,Inclusion Frame,Alignment Achieved,Surface Alignment,Voice vs. Control,Empowered Periphery,Cultural Drag  
-CATEGORICAL MODULE 11 - C3-I6,Paradigm Challenge,Performance Frame,Efficiency Achieved,Metric Illusion,Human vs. Machine,Redistributed Expertise,Tool Drag  
-CATEGORICAL MODULE 12 - C3-I6,Conceptual Overload,Foresight Frame,Mechanism Installed,Control Fallacy,Exploration vs. Exploitation,Architectural Tension,Model Drift  
-CATEGORICAL MODULE 34 - C4-I4,Adoption Uncertainty,Innovation Frame,Prototype Installed,Outcome Substitution,Legacy vs. Future,Boundary Strain,Regulatory Lag  
-CATEGORICAL MODULE 40 - C4-I4,Tradeoff Blindness,Performance Frame,Efficiency Achieved,Metric Illusion,Short vs. Long Term,Digital Imperative,Intuition Lag  
-CATEGORICAL MODULE 2 - C4-I6,Scope Drift,Relationship Frame,Alignment Achieved,Narrative Oversimplification,Acquisition vs. Loyalty,Symbolic Accountability,Expectation Spill  
-CATEGORICAL MODULE 1 - C5-I1,Value Clash,Evidence Frame,Debate Induced,Surface Alignment,Uniformity vs. Dissent,Group Conformity,Cognitive Freeze  
-CATEGORICAL MODULE 3 - C5-I1,Stability Bias,Evidence Frame,Mechanism Installed,Outcome Substitution,Agility vs. Inertia,Underleveraged Assets,Legacy Hold  
-CATEGORICAL MODULE 13 - C5-I3,Signal Amplification,Interpretive Frame,Sensemaking Maintained,Control Fallacy,Certainty vs. Ambiguity,Distributed Cognition,Procedural Creep  
-CATEGORICAL MODULE 3 - C5-I4,Capability Ambiguity,Integration Frame,Mechanism Installed,Techno-Optimism,Standardization vs. Innovation,System Misalignment,Adoption Stall  
-CATEGORICAL MODULE 7 - C1-I1,Signal Amplification,Innovation Frame,Efficiency Achieved,Metric Illusion,Personalization vs. Privacy,Channel Coordination,Legacy Hold  
-CATEGORICAL MODULE 5 - C1-I2,Option Overload,Evidence Frame,Mechanism Installed,Heuristic Shortcut,Proactive vs. Reactive,Strategic Drift,Threshold Blur  
-CATEGORICAL MODULE 12 - C1-I2,Threshold Ambiguity,Transformation Frame,Mechanism Installed,Narrative Oversimplification,Incremental vs. Radical,Vision Execution Gap,Risk Drift  
-CATEGORICAL MODULE 13 - C1-I2,Bounded Rationality,Foresight Frame,Mechanism Installed,Process Idealism,Formal vs. Adaptive,Learning Challenge,Plan Trap  
-CATEGORICAL MODULE 30 - C1-I2,Value Clash,Paradox Frame,Dynamic Balance Achieved,Dualism Collapse,Focus vs. Flexibility,Resilience Building,Competing Goods  
-CATEGORICAL MODULE 31 - C1-I2,Dual Attribution,Foresight Frame,Dynamic Balance Achieved,Process Idealism,Stability vs. Adaptation,Resilience Building,Oscillation Loop  
-CATEGORICAL MODULE 29 - C1-I4,Signal Amplification,Foresight Frame,Opportunity Surfaced,Strategic Idealism,Equity vs. Experience,Brand Co-Creation,Expectation Spill  
-CATEGORICAL MODULE 33 - C1-I4,Signal Amplification,Foresight Frame,Opportunity Surfaced,Strategic Idealism,Equity vs. Experience,Brand Co-Creation,Expectation Spill  
-CATEGORICAL MODULE 3 - C1-I5,Capability Ambiguity,Evidence Frame,Prototype Installed,Techno-Optimism,Tradition vs. Disruption,Workflow Reinvention,Legacy Hold  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 2 - C3-I6,Norm Collision,Inclusion Frame,Alignment Achieved,Surface Alignment,Voice vs. Control,Empowered Periphery,Cultural Drag
+CATEGORICAL MODULE 11 - C3-I6,Paradigm Challenge,Performance Frame,Efficiency Achieved,Metric Illusion,Human vs. Machine,Redistributed Expertise,Tool Drag
+CATEGORICAL MODULE 12 - C3-I6,Conceptual Overload,Foresight Frame,Mechanism Installed,Control Fallacy,Exploration vs. Exploitation,Architectural Tension,Model Drift
+CATEGORICAL MODULE 34 - C4-I4,Adoption Uncertainty,Innovation Frame,Prototype Installed,Outcome Substitution,Legacy vs. Future,Boundary Strain,Regulatory Lag
+CATEGORICAL MODULE 40 - C4-I4,Tradeoff Blindness,Performance Frame,Efficiency Achieved,Metric Illusion,Short vs. Long Term,Digital Imperative,Intuition Lag
+CATEGORICAL MODULE 2 - C4-I6,Scope Drift,Relationship Frame,Alignment Achieved,Narrative Oversimplification,Acquisition vs. Loyalty,Symbolic Accountability,Expectation Spill
+CATEGORICAL MODULE 1 - C5-I1,Value Clash,Evidence Frame,Debate Induced,Surface Alignment,Uniformity vs. Dissent,Group Conformity,Cognitive Freeze
+CATEGORICAL MODULE 3 - C5-I1,Stability Bias,Evidence Frame,Mechanism Installed,Outcome Substitution,Agility vs. Inertia,Underleveraged Assets,Legacy Hold
+CATEGORICAL MODULE 13 - C5-I3,Signal Amplification,Interpretive Frame,Sensemaking Maintained,Control Fallacy,Certainty vs. Ambiguity,Distributed Cognition,Procedural Creep
+CATEGORICAL MODULE 3 - C5-I4,Capability Ambiguity,Integration Frame,Mechanism Installed,Techno-Optimism,Standardization vs. Innovation,System Misalignment,Adoption Stall
+CATEGORICAL MODULE 7 - C1-I1,Signal Amplification,Innovation Frame,Efficiency Achieved,Metric Illusion,Personalization vs. Privacy,Channel Coordination,Legacy Hold
+CATEGORICAL MODULE 5 - C1-I2,Option Overload,Evidence Frame,Mechanism Installed,Heuristic Shortcut,Proactive vs. Reactive,Strategic Drift,Threshold Blur
+CATEGORICAL MODULE 12 - C1-I2,Threshold Ambiguity,Transformation Frame,Mechanism Installed,Narrative Oversimplification,Incremental vs. Radical,Vision Execution Gap,Risk Drift
+CATEGORICAL MODULE 13 - C1-I2,Bounded Rationality,Foresight Frame,Mechanism Installed,Process Idealism,Formal vs. Adaptive,Learning Challenge,Plan Trap
+CATEGORICAL MODULE 30 - C1-I2,Value Clash,Paradox Frame,Dynamic Balance Achieved,Dualism Collapse,Focus vs. Flexibility,Resilience Building,Competing Goods
+CATEGORICAL MODULE 31 - C1-I2,Dual Attribution,Foresight Frame,Dynamic Balance Achieved,Process Idealism,Stability vs. Adaptation,Resilience Building,Oscillation Loop
+CATEGORICAL MODULE 29 - C1-I4,Signal Amplification,Foresight Frame,Opportunity Surfaced,Strategic Idealism,Equity vs. Experience,Brand Co-Creation,Expectation Spill
+CATEGORICAL MODULE 33 - C1-I4,Signal Amplification,Foresight Frame,Opportunity Surfaced,Strategic Idealism,Equity vs. Experience,Brand Co-Creation,Expectation Spill
+CATEGORICAL MODULE 3 - C1-I5,Capability Ambiguity,Evidence Frame,Prototype Installed,Techno-Optimism,Tradition vs. Disruption,Workflow Reinvention,Legacy Hold
 CATEGORICAL MODULE 14 - C1-I5,Attribution Gap,Evidence Frame,Mechanism Installed,Metric Illusion,Leadership vs. Execution,Pipeline Investment,Experience Discount
-

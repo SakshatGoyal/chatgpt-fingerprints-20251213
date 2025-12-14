@@ -16,23 +16,23 @@ Absolutely. Here’s how we can revise those statements to retain urgency and cl
 
 ---
 
-**Original:**  
-*Capstone Logistics requires immediate re-engagement with a clear technical agenda — delay here will collapse the timeline entirely.*  
-**Suggested:**  
+**Original:**
+*Capstone Logistics requires immediate re-engagement with a clear technical agenda — delay here will collapse the timeline entirely.*
+**Suggested:**
 *It may be critical to re-engage Capstone Logistics soon with a defined technical agenda — any delay risks pushing us beyond their decision window.*
 
 ---
 
-**Original:**  
-*SprintRay Inc. and Dade Paper Co. need exec alignment and next steps defined within 48 hours — without it, both will slip to next quarter.*  
-**Suggested:**  
+**Original:**
+*SprintRay Inc. and Dade Paper Co. need exec alignment and next steps defined within 48 hours — without it, both will slip to next quarter.*
+**Suggested:**
 *SprintRay Inc. and Dade Paper Co. could benefit from exec alignment and a defined path forward within the next 48 hours — without it, there’s a real chance we’re looking at a Q3 cycle.*
 
 ---
 
-**Original:**  
-*Newage Industries should be advanced to legal or procurement checkpoints now — preempt late-stage blockers before they surface.*  
-**Suggested:**  
+**Original:**
+*Newage Industries should be advanced to legal or procurement checkpoints now — preempt late-stage blockers before they surface.*
+**Suggested:**
 *It might be wise to initiate legal or procurement reviews with Newage Industries now — getting ahead of potential late-stage blockers could help preserve momentum.*
 
 ---
@@ -51,13 +51,13 @@ Got it — keep the assertive front half, soften the second half without implyin
 
 ---
 
-**1.**  
+**1.**
 *Capstone Logistics requires immediate re-engagement with a clear technical agenda — this could help maintain alignment and pace.*
 
-**2.**  
+**2.**
 *SprintRay Inc. and Dade Paper Co. need exec alignment and next steps defined within 48 hours — doing so may support continued momentum this quarter.*
 
-**3.**  
+**3.**
 *Newage Industries should be advanced to legal or procurement checkpoints now — this may streamline later-stage discussions.*
 
 ---
@@ -94,4 +94,3 @@ Here are several synonyms and near-synonyms of **"risk"** that can be used in sa
 - **Impede**
 
 Would you like me to rephrase some more of your language using these options?
-

@@ -50,18 +50,18 @@ Want to take a stab at a few of those?
 
 ## You (2025-03-31T16:25:32.096000+00:00)
 
-employee feedback is in a csv file, and its freeform text within each cell. 
+employee feedback is in a csv file, and its freeform text within each cell.
 
 2. I thik we want a combination of all... so i think we can think of them as unique columns
 Emergent themes (e.g., morale, communication, management clarity)?
 Sentiment trends (positive/negative)?
 Clusters of experience (e.g., engineers feel X, new hires feel Y)?
 
-3. I think for now lets just start with a list of themes, we'll continue from there 
+3. I think for now lets just start with a list of themes, we'll continue from there
 
 4. trying to feed this into some decision-making (e.g., team interventions, culture initiatives)
 
-5. Look, i thikn its going to have a whole bunch of random comments. some are good, some are bad. It'll have some jargon and some things may not be easy to interpret without some context, so the model needs to be mindful of that. 
+5. Look, i thikn its going to have a whole bunch of random comments. some are good, some are bad. It'll have some jargon and some things may not be easy to interpret without some context, so the model needs to be mindful of that.
 
 
 Lets take a smenatic approach to interpretation for now and then qwe'll get into latent analysis. who's going to be the persona for this? i think we'll need a multi-layered persona
@@ -86,7 +86,7 @@ Perfect—your clarity is helping shape this into a powerful foundation. Let’s
 
 You’re right to say we’ll need a **multi-layered persona**. I suggest:
 
-1. **Execution Persona for GPT-4o:**  
+1. **Execution Persona for GPT-4o:**
    A hybrid of:
    - **Organizational Ethnographer** (to pick up human dynamics + cultural signals)
    - **Semantic Analyst** (to interpret language meaningfully)
@@ -110,22 +110,22 @@ You’re right to say we’ll need a **multi-layered persona**. I suggest:
 
 Let’s bring these into the light before we write the prompt:
 
-#### 1. **Ambiguity in Feedback**  
+#### 1. **Ambiguity in Feedback**
 Some comments may be:
 - Out of context
 - Jargon-heavy
 - Contradictory
 We’ll need the model to flag low-confidence interpretations.
 
-#### 2. **Lack of Metadata**  
-Unless the CSV has columns like role, department, or tenure, “clusters of experience” will be limited or inferred weakly. Worth confirming:  
+#### 2. **Lack of Metadata**
+Unless the CSV has columns like role, department, or tenure, “clusters of experience” will be limited or inferred weakly. Worth confirming:
 ➡️ *Do you have any identifying metadata per row (like team, department, or seniority)?*
 
-#### 3. **Volume Impact**  
-➡️ *Roughly how many entries are we dealing with?*  
+#### 3. **Volume Impact**
+➡️ *Roughly how many entries are we dealing with?*
 We may need to chunk or batch the prompt, or use a recursive summarization approach.
 
-#### 4. **Evolving Prompt Design**  
+#### 4. **Evolving Prompt Design**
 Since you want this to **evolve into latent analysis later**, we should consider saving structural hooks (e.g., topic embeddings, entity references) even now.
 
 ---
@@ -134,7 +134,7 @@ Would you like to confirm the presence of metadata, and give a ballpark entry co
 
 ## You (2025-03-31T16:26:57.289000+00:00)
 
-Right, we'll go with an organizational ethnographer with the semantic analyst. Not sure if we need he early-stage qualitative analyst now. 
+Right, we'll go with an organizational ethnographer with the semantic analyst. Not sure if we need he early-stage qualitative analyst now.
 
 begin building the prompt
 
@@ -146,14 +146,14 @@ Awesome. Based on everything we’ve uncovered, here’s the full structured pro
 
 ## ✳️ Final Prompt
 
-**Context:**  
+**Context:**
 You are analyzing a CSV file filled with freeform employee feedback. Each row contains a single text entry from an anonymous employee. The feedback is open-ended and may include comments on culture, leadership, processes, team dynamics, or miscellaneous thoughts. Some entries may be unclear, use internal jargon, or reference unknown context.
 
 ---
 
 ## 🔧 Instructions for GPT-4o
 
-**Assume the role of an Organizational Ethnographer with semantic analysis expertise.**  
+**Assume the role of an Organizational Ethnographer with semantic analysis expertise.**
 You are tasked with performing an inductive, grounded interpretation of employee feedback. Your primary objective is to identify a list of **emergent themes** that reflect underlying cultural, behavioral, or operational patterns across the dataset.
 
 ---
@@ -212,14 +212,14 @@ Got it—let’s drop the JSON and lean into a clean, conversational format. Her
 
 ## ✳️ Final Prompt
 
-**Context:**  
+**Context:**
 You are analyzing a CSV file containing freeform, open-ended employee feedback. Each row has a single text entry—anonymous and varied in tone, content, and clarity. These entries might include praise, complaints, cultural observations, or operational frustrations. Some will be ambiguous, use internal jargon, or lack sufficient context.
 
 ---
 
 ## 🔧 Instructions for GPT-4o
 
-**Adopt the role of an Organizational Ethnographer with semantic analysis expertise.**  
+**Adopt the role of an Organizational Ethnographer with semantic analysis expertise.**
 You are conducting an **inductive exploration** to surface meaningful patterns in employee sentiment and experience, with a focus on drawing out **emergent themes**.
 
 ---
@@ -241,20 +241,20 @@ Present your findings in a **conversational list**, like this:
 
 ---
 
-**Theme 1: Communication Gaps Across Teams**  
-*An emerging theme reflects inconsistent or unclear communication, particularly between leadership and individual contributors.*  
-> “We often get updates after the decisions are already made.”  
-> “Sometimes I feel out of the loop unless I ask.”  
-**Sentiment:** Mostly negative  
+**Theme 1: Communication Gaps Across Teams**
+*An emerging theme reflects inconsistent or unclear communication, particularly between leadership and individual contributors.*
+> “We often get updates after the decisions are already made.”
+> “Sometimes I feel out of the loop unless I ask.”
+**Sentiment:** Mostly negative
 **Possible Cluster:** Cross-functional teams (tentative)
 
 ---
 
-**Theme 2: Appreciation for Manager Support**  
-*Many employees mention strong relationships with their immediate managers and feel supported on a personal level.*  
-> “My manager really listens when I raise concerns.”  
-> “One-on-ones are the most helpful part of my week.”  
-**Sentiment:** Positive  
+**Theme 2: Appreciation for Manager Support**
+*Many employees mention strong relationships with their immediate managers and feel supported on a personal level.*
+> “My manager really listens when I raise concerns.”
+> “One-on-ones are the most helpful part of my week.”
+**Sentiment:** Positive
 **Possible Cluster:** Mid-level teams (tentative)
 
 ---
@@ -274,4 +274,3 @@ If certain comments do not clearly align with any pattern, summarize them in a s
 ---
 
 Let me know if you’d like me to help with a companion upload prompt or iterative follow-up questions to guide the next stage (e.g., latent topic modeling, interventions, etc.).
-

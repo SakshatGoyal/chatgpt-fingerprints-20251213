@@ -74,4 +74,3 @@ Beautiful. Her reply—*“you’re interesting”*—is light but open. It’s 
 ---
 
 Would you like me to write a few more responses under one specific style you liked most here? Or help tailor a continuation depending on whether she’s the flirty, poetic, or logic-driven type?
-

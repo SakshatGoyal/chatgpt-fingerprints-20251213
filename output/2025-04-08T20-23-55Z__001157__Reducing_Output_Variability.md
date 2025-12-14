@@ -2,9 +2,9 @@
 
 ## You (2025-04-08T20:23:55.097935+00:00)
 
-Hi, please help me modify the following prompt using some ideas that could lead to fewer variabilities in the output. I'm also attaching the reference document and the text file. 
+Hi, please help me modify the following prompt using some ideas that could lead to fewer variabilities in the output. I'm also attaching the reference document and the text file.
 
-My assumption is, if the calculations, instructions, and the reference docs are the same, then the output should also be the same. Here's the prompt and reference and instruction file. 
+My assumption is, if the calculations, instructions, and the reference docs are the same, then the output should also be the same. Here's the prompt and reference and instruction file.
 
 ---
 
@@ -198,7 +198,7 @@ Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org 
 
 ### 4. **Context & Additional Elements**
 
-**Your Role**:  
+**Your Role**:
 You are a Decision-Narrative Analyst trained in close reading of executive decision cases. Your background blends consulting, organizational behavior, and applied narrative inference. You do **not** rely on topical expertise. You evaluate based on behavior, framing, and structural logic alone.
 
 You specialize in recognizing:
@@ -206,10 +206,10 @@ You specialize in recognizing:
 - Ambiguity sources and framing
 - Real-world patterns of justification, resistance, and consequence
 
-**Reference Materials**:  
+**Reference Materials**:
 Use the document titled `Evaluator Guide for Categorical Modules.md` as your sole tagging source. Use only definitions and categories from this guide.
 
-**Input File**:  
+**Input File**:
 Use the first 10 modules from the file `compilation_condensed 01.txt`.
 
 ---
@@ -233,7 +233,7 @@ Great question—this gets right to the heart of working with reasoning models l
 
 ## 🔍 TL;DR: Can We Eliminate Variability?
 
-**Short answer:**  
+**Short answer:**
 You can significantly *reduce* variability, but you likely cannot eliminate it **entirely**—*unless you’re willing to sacrifice some interpretive nuance*. Reasoning models like O3 are designed for flexible, high-context inference—not mechanical labeling—so they’ll always carry a small degree of token-level or attention-level non-determinism, especially when multiple plausible interpretations exist.
 
 But—**you *can* push toward near-determinism** by combining the following strategies:
@@ -251,7 +251,7 @@ Right now, the model interprets *narrative dynamics*. That invites variance.
 **How**:
 - Add **intermediate forced-choice scaffolding**. E.g., before tagging, force:
   > “Identify whether the decision reflects any of the following traits: A) conflicting values, B) unclear system interaction, C) undefined ownership...”
-  
+
   Then derive the tag *only from those answers*. This builds determinism into the process by constraining latent space.
 
 ---
@@ -462,13 +462,13 @@ The name “mini” can be misleading—but **`gpt-4-o-mini-high` is an optimize
 
 ## Key Differences
 
-- **O3-mini-high ≠ 3.5**  
+- **O3-mini-high ≠ 3.5**
   It’s lighter-weight than full O3, but still:
   - Better at structured reasoning
   - More consistent with formatting
   - More aligned with your task (especially narrative tagging)
-  
-- **Why Use O3-mini-high?**  
+
+- **Why Use O3-mini-high?**
   - You get **significantly better interpretive quality** than 3.5
   - Still efficient enough for 30+ modules per call
   - Complies better with guardrails and formatting
@@ -668,8 +668,8 @@ give me the final o1 Pro output, but make sure it is thoughtful enough. Introduc
 
 Perfect—you're asking for the **best of both worlds**:
 
-> 🧠 O1 Pro–scale throughput  
-> 🎯 With enough interpretive rigor to **avoid needing a redo**  
+> 🧠 O1 Pro–scale throughput
+> 🎯 With enough interpretive rigor to **avoid needing a redo**
 > ⚡ In one or two fast passes
 
 ### Here’s what I’ll deliver:
@@ -776,4 +776,3 @@ If response length is too long, recommend a chunking strategy and resume tagging
 Would you like a **batch-run shell script**, **file chunker**, or **test prompt for the first 20 modules** to verify quality?
 
 I can whip one up so you don’t have to babysit the run.
-

@@ -1,12 +1,10 @@
 # Percentage Lineheight Workaround
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-01-28T11:01:27.256461+00:00)
 
-in figma variables, i want to set a variable for lineheight. but instead of using fixed numbers I want to use percentages -- like 100%, 120%, 135%. 
+in figma variables, i want to set a variable for lineheight. but instead of using fixed numbers I want to use percentages -- like 100%, 120%, 135%.
 
 I'm not able to set a numeric variable with percentage signs, and string variables are not applicable to lineheight. what are my options to continue setting percentage based variables.
 
@@ -100,18 +98,12 @@ This method ensures you achieve percentage-based behavior without explicitly usi
 
 ## You (2025-01-28T12:26:54.633637+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-VWDknAwNRRQcjRwNWiUZJk', 'size_bytes': 202295, 'width': 334, 'height': 1010, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 could u do an ocr on these color hex codes, and arrange them as a swatch for grays (gray 00. gray 10, gray 20, etc...)
 
-## ChatGPT (2025-01-28T12:27:13.006714+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "from PIL import Image\r\nimport pytesseract\r\n\r\n# Load the image\r\nimage_path = \"/mnt/data/Screenshot 2025-01-28 at 17.56.21.png\"\r\nimage = Image.open(image_path)\r\n\r\n# Perform OCR to extract text\r\nextracted_text = pytesseract.image_to_string(image)\r\n\r\n# Display the extracted text\r\nextracted_text"}
 
-## ChatGPT (2025-01-28T12:27:13.006893+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Manually defining the extracted hex codes from the image for accuracy\r\nhex_codes = [\r\n    \"#F2F3F4\", \"#DADEDF\", \"#C1C7C9\", \"#A7AFB2\", \"#8C979A\",\r\n    \"#6F7C80\", \"#555F61\", \"#373D3F\", \"#131516\"\r\n]\r\n\r\n# Assigning shades to a scale (Gray 00, Gray 10, ..., Gray 80)\r\ngray_scale = {f\"Gray {i*10:02d}\": hex_codes[i] for i in range(len(hex_codes))}\r\n\r\nimport pandas as pd\r\nimport ace_tools as tools\r\n\r\n# Convert to DataFrame for display\r\ngray_df = pd.DataFrame(list(gray_scale.items()), columns=[\"Shade\", \"Hex Code\"])\r\n\r\n# Display the table for the user\r\ntools.display_dataframe_to_user(name=\"Gray Swatch\", dataframe=gray_df)"}
 
 ## ChatGPT (2025-01-28T12:27:13.007092+00:00)
 
 I've organized the extracted hex codes into a grayscale swatch, ranging from Gray 00 to Gray 80. You can now view the structured table. Let me know if you need any modifications!
-

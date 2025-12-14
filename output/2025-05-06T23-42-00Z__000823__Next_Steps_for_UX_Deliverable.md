@@ -86,12 +86,12 @@ Here's a detailed **Product Requirements Document (PRD)** for the **Customer Suc
 
 ---
 
-# 🧾 Product Requirements Document  
+# 🧾 Product Requirements Document
 ### Title: Customer Success Manager Dashboard – "Customer Health Command View"
 
 ---
 
-## 1. 📌 Executive Summary  
+## 1. 📌 Executive Summary
 This dashboard visual supports the **CSM’s core need** to proactively manage customer outcomes across deployment, adoption, and value realization phases. It acts as a **command view** that integrates telemetry, health signals, and prescriptive AI-driven guidance. It aligns with leadership’s push to unify fragmented tools into a **single pane of glass**, and catalyzes collaboration across pre- and post-sales.
 
 ---
@@ -119,17 +119,17 @@ This dashboard visual supports the **CSM’s core need** to proactively manage c
 
 ---
 
-## 4. 🖥️ Dashboard Visual Overview  
+## 4. 🖥️ Dashboard Visual Overview
 **Working Name**: *Customer Health Command View*
 
 ### Visual Zones:
 
-1. **Account Summary Header**  
+1. **Account Summary Header**
    - Account name, tier (Strategic, Commercial), owner (CSM, AE).
    - Health status indicator (Green / Amber / Red).
    - Last engagement, next milestone.
 
-2. **Health Pillars (Modular Cards)**  
+2. **Health Pillars (Modular Cards)**
    Each card is color-coded, drillable, and shows trend direction.
    - **Technical Health**: Bugs, tickets, telemetry anomalies.
    - **Deployment Health**: TTV curve adherence, setup completion.
@@ -137,18 +137,18 @@ This dashboard visual supports the **CSM’s core need** to proactively manage c
    - **Value Realization**: ROI proxies or business KPIs (if defined).
    - **Customer Sentiment**: Interaction score, escalation history.
 
-3. **AI Insights Panel**  
+3. **AI Insights Panel**
    - “**AI Nudges**” alert CSMs to:
      - Accounts deviating from expected curves.
      - Similar accounts with successful intervention history.
      - Upcoming renewal risk triggers.
    - Explainable AI: Each nudge has a short justification (e.g., “Based on past 30 days of usage and NPS drop”).
 
-4. **Timeline View ("Moments that Matter")**  
+4. **Timeline View ("Moments that Matter")**
    - Highlights handoff events, adoption spikes/dips, QBRs, etc.
    - Serves as context for trends in health metrics.
 
-5. **Quick Action Center**  
+5. **Quick Action Center**
    - Prescriptive actions (auto-generated playbooks).
    - Collaboration tools: “Loop in AE,” “Request SC support,” etc.
 
@@ -212,12 +212,12 @@ This aligns with a **“Design as Platform”** mindset: shared atomic elements 
 
 ---
 
-# 🧾 Product Requirements Document  
+# 🧾 Product Requirements Document
 ### Title: Solution Consultant Dashboard – “Technical Win Command Center”
 
 ---
 
-## 1. 📌 Executive Summary  
+## 1. 📌 Executive Summary
 The SC Dashboard supports Solution Consultants in managing pre-sales technical engagements—from discovery through technical validation (POV) to handoff. It offers a **real-time, AI-augmented cockpit** that helps them prioritize opportunities, track solution alignment, and ensure a clean handoff to post-sales teams.
 
 This view builds on the **same underlying design language** as the CSM dashboard, sharing layout, component structure, and interaction paradigms—but tailored toward **pre-sale orchestration and validation**.
@@ -247,7 +247,7 @@ This view builds on the **same underlying design language** as the CSM dashboard
 
 ---
 
-## 4. 🖥️ Dashboard Visual Overview  
+## 4. 🖥️ Dashboard Visual Overview
 **Working Name**: *Technical Win Command Center*
 
 ### Visual Zones:
@@ -390,7 +390,7 @@ Would you like a visual overlay comparing the two personas’ workflows mapped t
 
 ## You (2025-05-07T00:05:00.054000+00:00)
 
-ok, to be fair, I didn't tell you to be scalable in the first half when i asked you to make a prd for the CSM. Now that we have everything established, we can proabably identify overlaps and figure out a more crisp PRD that has scalability in mind. I do want two dashboards, one for SC and one for CSM. I don't want too many differences because we want this to be scalable, but we also want to maintain the nuanced differences between the two in terms of actionable steps. 
+ok, to be fair, I didn't tell you to be scalable in the first half when i asked you to make a prd for the CSM. Now that we have everything established, we can proabably identify overlaps and figure out a more crisp PRD that has scalability in mind. I do want two dashboards, one for SC and one for CSM. I don't want too many differences because we want this to be scalable, but we also want to maintain the nuanced differences between the two in terms of actionable steps.
 
 lets start with the updated PRD for CSM Dashboard, and after that we'll go back to SC
 
@@ -402,13 +402,13 @@ Here’s a **revised, scalable PRD** for the **Customer Success Manager (CSM) Da
 
 ---
 
-# 🧾 Scalable Product Requirements Document  
-### Title: Unified Dashboard – Customer Success Manager (CSM) View  
+# 🧾 Scalable Product Requirements Document
+### Title: Unified Dashboard – Customer Success Manager (CSM) View
 **Codename:** *Command View CSM*
 
 ---
 
-## 1. 📌 Executive Summary  
+## 1. 📌 Executive Summary
 This dashboard is a modular, role-aware workspace for CSMs to monitor and act on customer health across technical, deployment, adoption, and value dimensions. It reuses shared components with the SC dashboard to support design scalability, but adapts them with **context-specific insights and workflows** for post-sale action.
 
 ---
@@ -508,13 +508,13 @@ This version mirrors the CSM dashboard visually and interactively, while focusin
 
 ---
 
-# 🧾 Scalable Product Requirements Document  
-### Title: Unified Dashboard – Solution Consultant (SC) View  
+# 🧾 Scalable Product Requirements Document
+### Title: Unified Dashboard – Solution Consultant (SC) View
 **Codename:** *Command View SC*
 
 ---
 
-## 1. 📌 Executive Summary  
+## 1. 📌 Executive Summary
 The SC dashboard provides Solution Consultants with a centralized, context-aware workspace to manage technical selling motions. From discovery through POV and handoff, the dashboard offers insight into opportunity status, validation progress, and success plan readiness—all in the same modular, composable UI as the CSM view.
 
 ---
@@ -618,9 +618,9 @@ Would you like me to consolidate this into a **side-by-side design system table*
 
 ## You (2025-05-07T01:02:08.313000+00:00)
 
-Okay, now imagine you're a Bolt Prompt Engineer. Your job is to create a clear, single, descriptive prompt with no room for ambiguity to design two dashboards—one for CSMs and one for PCs. You want to make sure there's a healthy amount of similarity so it looks scalable, but it also has the persona-specific differences we've spent this time outlining. 
+Okay, now imagine you're a Bolt Prompt Engineer. Your job is to create a clear, single, descriptive prompt with no room for ambiguity to design two dashboards—one for CSMs and one for PCs. You want to make sure there's a healthy amount of similarity so it looks scalable, but it also has the persona-specific differences we've spent this time outlining.
 
-Through this prompt, Bolt should build two dashboards. While interacting, the user should be able to switch between the two dashboards using the user profile icon in the header. 
+Through this prompt, Bolt should build two dashboards. While interacting, the user should be able to switch between the two dashboards using the user profile icon in the header.
 
 we've layed out the PRD for both dashboards, so there should be enough content to help bolt with the specifics of each dashboard.
 
@@ -784,17 +784,15 @@ Let me know if you'd like me to help you test or refine the Bolt outputs once th
 
 ## You (2025-05-07T01:18:48.335000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-Fii5skUb6kCfme4B9yoyrg', 'size_bytes': 386484, 'width': 2048, 'height': 1415, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-LTzmHC6u4Y6U2dQm4XaqBn', 'size_bytes': 532734, 'width': 2048, 'height': 1413, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-I'm attaching two screenshots. the one with the dark mode is a result of this prompt, and the second one (with the light theme) is what i built seperately. 
+I'm attaching two screenshots. the one with the dark mode is a result of this prompt, and the second one (with the light theme) is what i built seperately.
 
-here's what i want - 
+here's what i want -
 
-let's retain most of the work we've already done in Bolt (and instruct Bolt accordingly), but let's try to bridge the current output more towards the light-themed one. Here's what I like about the light-themed one. 
+let's retain most of the work we've already done in Bolt (and instruct Bolt accordingly), but let's try to bridge the current output more towards the light-themed one. Here's what I like about the light-themed one.
 
-- its light theme - sales teams are more used to light theme. 
-- there's overall more clarity in the light themed one. like the AI insights and recommendations are more clear and actionable. there's a clear 'healthscore' tile. that's super helpful. 
-- I like the quick actions. 
+- its light theme - sales teams are more used to light theme.
+- there's overall more clarity in the light themed one. like the AI insights and recommendations are more clear and actionable. there's a clear 'healthscore' tile. that's super helpful.
+- I like the quick actions.
 
 ---
 a few more things i don't like about the dark version - the left panel just feels like its forced. I also didn't fully understand the timeline. could you help me understand it better?
@@ -922,10 +920,10 @@ this prompt almost dismissed the previous prompt. Design your prompt in a way th
 
 You're right to want continuity. You've already built strong momentum and logic in this thread, and there's no need to lose it. You **should definitely run the next version of the prompt in the same chat window**—this allows Bolt to retain:
 
-- All previous PRD logic  
-- Component mapping between SC and CSM  
-- Style conventions from the original dashboards  
-- Contextual understanding of your language, terminology, and user intent  
+- All previous PRD logic
+- Component mapping between SC and CSM
+- Style conventions from the original dashboards
+- Contextual understanding of your language, terminology, and user intent
 
 ---
 
@@ -1006,7 +1004,6 @@ Let me know if you'd like this turned into a Bolt-native markdown or pasted dire
 
 ## You (2025-05-07T01:22:36.127000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-SAfoK6BPRvkpC4x99HrhnK', 'size_bytes': 391176, 'width': 2048, 'height': 1338, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 it didn't work
 
 ## ChatGPT (2025-05-07T01:22:38.004951+00:00)
@@ -1019,16 +1016,16 @@ Let’s diagnose and resolve:
 
 ## 🔍 What Didn’t Translate in Bolt’s Output
 
-1. **🌓 Theme Conflict**  
+1. **🌓 Theme Conflict**
    Despite the prompt’s request for a light theme, the system likely defaulted to the previously established visual palette. This is common if the theme override isn’t explicitly reinforced as a *replacement*, not just a *preference*.
 
-2. **⚠️ Sidebar Still Present**  
+2. **⚠️ Sidebar Still Present**
    The left sidebar (Opportunities, Alerts, Team) remains, even though you asked for a reduced or optional version. Bolt likely kept it based on previously reinforced layout expectations.
 
-3. **🧠 Insights Clarity Partial**  
+3. **🧠 Insights Clarity Partial**
    While your AI insights are better structured and sourced (✅), they’re still nested in a **dark-mode card structure** and miss out on **priority tagging, inline actions, or clarity hierarchy** found in your light-themed prototype.
 
-4. **🎯 Health Cards & Score**  
+4. **🎯 Health Cards & Score**
    It’s good that they appear and align with expectations, but:
    - There’s **no overarching score tile** (like the CSM 72/100 one).
    - Visual contrast and card hierarchy are lower than in your preferred layout.
@@ -1061,7 +1058,7 @@ Do not delete or reset the structural logic, card logic, or artifact design. **P
 
 ### ✅ Required Visual Transformation
 
-**Replace the current dark theme with a full light theme**, modeled on enterprise sales- and success-facing systems like Salesforce and Gainsight.  
+**Replace the current dark theme with a full light theme**, modeled on enterprise sales- and success-facing systems like Salesforce and Gainsight.
 This change must include:
 
 - Light backgrounds throughout
@@ -1073,10 +1070,10 @@ This change must include:
 
 ### 🧭 Sidebar Adjustments
 
-Remove or collapse the **left sidebar (Opportunities, Alerts, Team)**.  
+Remove or collapse the **left sidebar (Opportunities, Alerts, Team)**.
 Its contents should be:
-- Merged into a compact utility dropdown  
-- Or placed in a collapsible panel  
+- Merged into a compact utility dropdown
+- Or placed in a collapsible panel
 - Or removed entirely, if not critical to core dashboard flow
 
 ---
@@ -1084,9 +1081,9 @@ Its contents should be:
 ### 🧠 AI Insights
 
 Refactor the AI insights panel as follows:
-- Use **color-coded priority tags** (e.g., “high”, “medium”)  
-- Group by type: Churn Risk, Security Drift, POV Lag  
-- Show source (e.g., Cortex Data Lake) and timestamp  
+- Use **color-coded priority tags** (e.g., “high”, “medium”)
+- Group by type: Churn Risk, Security Drift, POV Lag
+- Show source (e.g., Cortex Data Lake) and timestamp
 - Add **inline action buttons** like “Schedule Review,” “Contact AE,” “Trigger Playbook”
 
 ---
@@ -1095,8 +1092,8 @@ Refactor the AI insights panel as follows:
 
 Add a new **Security Health Score tile** to the CSM dashboard:
 - Position it in the upper right (like the light-themed version)
-- Use a weighted score (e.g., 72/100)  
-- Include sub-metrics: Threat Prevention, Config Compliance, etc.  
+- Use a weighted score (e.g., 72/100)
+- Include sub-metrics: Threat Prevention, Config Compliance, etc.
 - Include small explanation text below the score on how it is calculated and improved
 
 ---
@@ -1104,14 +1101,14 @@ Add a new **Security Health Score tile** to the CSM dashboard:
 ### ⚡ Quick Actions (Both Views)
 
 Retain and enhance the Quick Actions section:
-- Use **PAN-style buttons** with clear hierarchy  
-- Blue = proactive actions  
-- Red = urgent / escalations  
+- Use **PAN-style buttons** with clear hierarchy
+- Blue = proactive actions
+- Red = urgent / escalations
 - Examples:
-  - Run Adoption Playbook  
-  - Escalate to SC for Config Review  
-  - Trigger XSOAR Security Remediation  
-  - Contact Customer  
+  - Run Adoption Playbook
+  - Escalate to SC for Config Review
+  - Trigger XSOAR Security Remediation
+  - Contact Customer
 
 ---
 
@@ -1120,9 +1117,9 @@ Retain and enhance the Quick Actions section:
 Rename the current “Timeline” to **Customer Health Storyline**
 
 Visually improve this section by:
-- Grouping events by impact  
-- Using icons or tags (e.g., ⚠️ Config Drift, 📉 Usage Drop)  
-- Linking events to metric or AI changes  
+- Grouping events by impact
+- Using icons or tags (e.g., ⚠️ Config Drift, 📉 Usage Drop)
+- Linking events to metric or AI changes
 - Using light background and card-based events, not dark overlays
 
 ---
@@ -1135,12 +1132,12 @@ Ensure the profile icon continues to allow switching between **SC and CSM dashbo
 
 ### 🧩 Shared Component Reuse
 
-Do not duplicate components across dashboards unnecessarily.  
+Do not duplicate components across dashboards unnecessarily.
 Use the same visual structure for:
-- Health cards  
-- AI panels  
-- Quick Actions  
-- Artifact access  
+- Health cards
+- AI panels
+- Quick Actions
+- Artifact access
 Adapt only the **data, microcopy, and persona-specific filters**.
 
 ---
@@ -1151,7 +1148,6 @@ Want me to prep a sketch of what this final light-mode SC dashboard *should* loo
 
 ## You (2025-05-07T01:25:41.841000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-8bd2KbTg1jJkY5TJwnuyxR', 'size_bytes': 380095, 'width': 2048, 'height': 1327, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 why does it never fully work. can't you make your instructions simpler and more straight forward leaving no room for ambiguity
 
 ## ChatGPT (2025-05-07T01:25:42.923439+00:00)
@@ -1188,56 +1184,56 @@ Now **make these exact visual and layout changes**:
 
 ### 1. REPLACE DARK THEME WITH LIGHT THEME
 
-- White/light gray background  
-- No navy, no black panels  
-- Text = dark gray or black, not white  
-- Use card shadows for separation  
+- White/light gray background
+- No navy, no black panels
+- Text = dark gray or black, not white
+- Use card shadows for separation
 - Match the light theme of the CSM dashboard shared earlier
 
 ---
 
 ### 2. KEEP EXISTING STRUCTURE
 
-✅ Do **not** change:  
-- POV Health, Solution Completeness, Risk Score, Sentiment cards  
-- AI Insights content and logic  
-- Linked Artifacts section  
+✅ Do **not** change:
+- POV Health, Solution Completeness, Risk Score, Sentiment cards
+- AI Insights content and logic
+- Linked Artifacts section
 - Customer Health Storyline structure
 
 ---
 
 ### 3. REMOVE OR COLLAPSE LEFT SIDEBAR
 
-- Sidebar with Opportunities, Alerts, Team: **remove or collapse by default**  
-- If you must show it, keep it **in a drawer** or icon-triggered panel  
+- Sidebar with Opportunities, Alerts, Team: **remove or collapse by default**
+- If you must show it, keep it **in a drawer** or icon-triggered panel
 - Do not show it permanently in the viewport
 
 ---
 
 ### 4. AI INSIGHTS PANEL MUST BE:
 
-- Light background  
-- Color-coded priority (e.g. yellow = medium, red = high)  
-- Include **“Take Action”** buttons visibly  
+- Light background
+- Color-coded priority (e.g. yellow = medium, red = high)
+- Include **“Take Action”** buttons visibly
 - Grouped by insight type: Security Drift, POV Lag, Similar Account Risk
 
 ---
 
 ### 5. HEALTH STORYLINE
 
-- Keep same events (e.g. Config Drift, Test Case Execution)  
-- Use clear icons (⚠️, ✅, ⚙️) and tags ("Security Risk", "Validation")  
-- Background = white or light gray  
-- Text = black or dark gray  
+- Keep same events (e.g. Config Drift, Test Case Execution)
+- Use clear icons (⚠️, ✅, ⚙️) and tags ("Security Risk", "Validation")
+- Background = white or light gray
+- Text = black or dark gray
 - Cards = outlined or shadowed
 
 ---
 
 ### 6. FINAL DESIGN RULES
 
-- No dark mode anywhere  
-- No white text on black backgrounds  
-- Use consistent card padding and spacing  
+- No dark mode anywhere
+- No white text on black backgrounds
+- Use consistent card padding and spacing
 - Match the light theme CSM dashboard exactly in tone
 
 ---
@@ -1250,9 +1246,9 @@ Let user switch between SC and CSM views from the top-right avatar menu.
 
 ### 🚨 DO NOT:
 
-- Do not redesign content  
-- Do not alter component logic  
-- Do not create new sections  
+- Do not redesign content
+- Do not alter component logic
+- Do not create new sections
 - Do not revert to dark mode
 
 ---
@@ -1295,13 +1291,13 @@ Let’s write a clean, structured **Product Requirements Document (PRD)** for th
 
 ---
 
-# 🧾 Product Requirements Document  
-### Title: *CSM Portfolio View – Customer Health Overview*  
+# 🧾 Product Requirements Document
+### Title: *CSM Portfolio View – Customer Health Overview*
 **Codename:** "Portfolio Lens"
 
 ---
 
-## 1. 📌 Executive Summary  
+## 1. 📌 Executive Summary
 This view is the **default landing screen** for Customer Success Managers. It presents an aggregated, ranked, and filterable summary of **all accounts assigned to them**, organized by **risk, opportunity, and lifecycle stage**.
 
 Its purpose is to:
@@ -1409,4 +1405,3 @@ AI is used to:
 ---
 
 Would you like a companion PRD for a similar **SC Portfolio View**, or should we design this into a wireframe for rapid prototyping?
-

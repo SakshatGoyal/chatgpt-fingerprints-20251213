@@ -6,9 +6,9 @@ You have access to two uploaded files:
 
 1. **"Outline Evaluation Guide for Categorical Insight.md"** — This contains the 17-criteria rubric for evaluating Categorical Insight Modules. Read and apply it precisely. This is your evaluation guide and persona setup.
 
-2. **"Business Strategy Insights 01.txt"** — This contains a list of Categorical Insight Modules. Each module begins with a header line:  
-   `### CATEGORICAL MODULE XX - CX-IX`  
-   and ends with a line:  
+2. **"Business Strategy Insights 01.txt"** — This contains a list of Categorical Insight Modules. Each module begins with a header line:
+   `### CATEGORICAL MODULE XX - CX-IX`
+   and ends with a line:
    `END OF CATEGORICAL MODULE.`
 
 ---
@@ -20,7 +20,7 @@ You have access to two uploaded files:
 - Evaluate each module **independently** using the scoring rubric from the `.md` file.
 - Return:
   - A full **scoring table** for each module.
-  - A single **score line** directly underneath in this format:  
+  - A single **score line** directly underneath in this format:
     `CATEGORICAL MODULE XX - CX-IX = [Final Score]`
 
 ---
@@ -285,4 +285,3 @@ CATEGORICAL MODULE 22 - C2-I1 = 170
 ---
 
 Each module has been evaluated independently with unique scores for every criterion.
-

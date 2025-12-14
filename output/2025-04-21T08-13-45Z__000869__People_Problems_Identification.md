@@ -40,7 +40,7 @@ Below are a **small set of deeply grounded people problem statements** derived e
 ### **People Problem 1:**
 **Leaders struggle to maintain internal innovation capacity when risk-aversion drives over-reliance on external vendors.**
 
-**Evidence & Explanation:**  
+**Evidence & Explanation:**
 Executives in banking increasingly outsourced non-core digital functions to fintechs to mitigate operational risk and cut costs. However, this decision—motivated by short-term containment—has led to the erosion of internal innovation capabilities: “We do not need to set up these internal resources” was a common rationale among executives【7†source】. This supports the Risk Controller’s core behavioral pattern: opting for speed and safety over long-term internal capability, which reveals a latent risk of strategic stagnation.
 
 ---
@@ -48,7 +48,7 @@ Executives in banking increasingly outsourced non-core digital functions to fint
 ### **People Problem 2:**
 **Executives hesitate to adopt customer-facing innovations when institutional trust mechanisms aren’t yet aligned with the speed of change.**
 
-**Evidence & Explanation:**  
+**Evidence & Explanation:**
 In financial institutions, even beneficial AI-based personalization was delayed because leaders feared it would compromise privacy and erode trust if implemented faster than cybersecurity systems could support【7†source】. This is not a resistance to innovation per se—it reflects a tension between external value creation and internal risk infrastructure, a hallmark dilemma for the Risk Controller archetype.
 
 ---
@@ -56,7 +56,7 @@ In financial institutions, even beneficial AI-based personalization was delayed 
 ### **People Problem 3:**
 **Executives feel organizational norms discourage dissent, reducing their ability to surface hidden risks.**
 
-**Evidence & Explanation:**  
+**Evidence & Explanation:**
 Executives acknowledged that in traditional hierarchies, psychological safety is often lacking, making it unsafe for teams to challenge decisions or raise concerns. As a result, decisions become over-aligned at the surface but under-challenged at depth—amplifying invisible risks【7†source】. This aligns with the Risk Controller’s view that reducing reputational exposure requires not just controls, but environments where dissent is normalized.
 
 ---
@@ -64,7 +64,7 @@ Executives acknowledged that in traditional hierarchies, psychological safety is
 ### **People Problem 4:**
 **Leaders fear that emerging technologies like AI may compromise ethical leadership norms, eroding stakeholder trust.**
 
-**Evidence & Explanation:**  
+**Evidence & Explanation:**
 In leadership development, concerns were raised that generative AI could stifle empathy and reinforce bias—undermining the human qualities essential to credible leadership. Executives were not rejecting AI, but were wary of “uncontrolled adoption” that might damage leadership legitimacy【7†source】. This tension between technical efficiency and ethical credibility maps directly onto the Risk Controller’s posture: innovation is allowed only when institutional risk is neutralized.
 
 ---
@@ -72,7 +72,7 @@ In leadership development, concerns were raised that generative AI could stifle 
 ### **People Problem 5:**
 **Executives face symbolic risks when digital scalability threatens brand uniqueness.**
 
-**Evidence & Explanation:**  
+**Evidence & Explanation:**
 Luxury brands hesitated to scale digitally due to fears it would erode the emotional connection and perceived exclusivity of their customer experience【7†source】. Here, the risk is not just technical or operational, but symbolic—a loss of what makes the brand defensible. This illustrates the Risk Controller’s deeper belief: the damage of undermining symbolic trust can be more enduring than a failed initiative.
 
 ---
@@ -80,4 +80,3 @@ Luxury brands hesitated to scale digitally due to fears it would erode the emoti
 Each of these problems reflects a **people-first insight**: they are not merely strategic trade-offs, but stem from deeply human tensions around trust, safety, identity, and perceived legitimacy—just as the Risk Controller archetype articulates.
 
 Would you like to proceed with the second archetype, or dive deeper into any of these?
-

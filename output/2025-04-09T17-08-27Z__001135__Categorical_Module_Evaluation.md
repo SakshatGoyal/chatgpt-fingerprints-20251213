@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:08:28.225986+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 6 - C3-I1,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 11 - C3-I1,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Central vs. Flexible,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 23 - C3-I1,Unknown,Evidence Frame,Alignment Achieved,Unknown,Central vs. Flexible,Governance Shift,Silo Drag  
-CATEGORICAL MODULE 1 - C3-I2,Vision vs. Reality,Capability Frame,Locked In,Unknown,Bold vs. Safe,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 5 - C3-I2,Bold vs. Safe,Evidence Frame,Tested First,Surface Alignment,Bold vs. Safe,Execution Lag,Comfort Bias  
-CATEGORICAL MODULE 6 - C3-I2,Value Clash,Ecosystem Frame,Locked In,True Clarity,Now vs. Later,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 14 - C3-I2,Now vs. Later,Evidence Frame,Future-Proofed,Unknown,Now vs. Later,Lost Direction,Short-Term Pull  
-CATEGORICAL MODULE 16 - C3-I2,System Tangle,Evidence Frame,Future-Proofed,Unknown,Global vs. Local,Execution Lag,Outside Blindspot  
-CATEGORICAL MODULE 17 - C3-I2,Signal Split,Evidence Frame,Future-Proofed,True Clarity,Global vs. Local,Adaptive Growth,Certainty Illusion  
-CATEGORICAL MODULE 19 - C3-I2,Value Clash,Evidence Frame,Locked In,Unknown,Global vs. Local,Governance Shift,Outside Blindspot  
-CATEGORICAL MODULE 19 - C3-I3,Value Clash,Capability Frame,Locked In,Unknown,Bold vs. Safe,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 22 - C3-I3,Signal Split,Evidence Frame,Tested First,Unknown,Bold vs. Safe,Governance Shift,Certainty Illusion  
-CATEGORICAL MODULE 24 - C3-I3,Value Clash,Capability Frame,Alignment Achieved,Unknown,Central vs. Flexible,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 28 - C3-I3,Central vs. Flexible,Evidence Frame,Alignment Achieved,Surface Alignment,Central vs. Flexible,Adaptive Growth,Capability Gap  
-CATEGORICAL MODULE 1 - C3-I5,Cognitive Fog,Ecosystem Frame,Locked In,Surface Alignment,Vision vs. Reality,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 15 - C3-I5,Value Clash,Ecosystem Frame,Locked In,True Clarity,Bold vs. Safe,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 24 - C3-I5,Value Clash,Capability Frame,Future-Proofed,Unknown,Bold vs. Safe,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 41 - C3-I5,Unknown,Evidence Frame,Tested First,Unknown,Plan vs. React,Execution Lag,Process Trap  
-CATEGORICAL MODULE 27 - C3-I6,Cognitive Fog,Capability Frame,Future-Proofed,Unknown,Now vs. Later,Adaptive Growth,Ignored Insight  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 6 - C3-I1,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 11 - C3-I1,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Central vs. Flexible,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 23 - C3-I1,Unknown,Evidence Frame,Alignment Achieved,Unknown,Central vs. Flexible,Governance Shift,Silo Drag
+CATEGORICAL MODULE 1 - C3-I2,Vision vs. Reality,Capability Frame,Locked In,Unknown,Bold vs. Safe,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 5 - C3-I2,Bold vs. Safe,Evidence Frame,Tested First,Surface Alignment,Bold vs. Safe,Execution Lag,Comfort Bias
+CATEGORICAL MODULE 6 - C3-I2,Value Clash,Ecosystem Frame,Locked In,True Clarity,Now vs. Later,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 14 - C3-I2,Now vs. Later,Evidence Frame,Future-Proofed,Unknown,Now vs. Later,Lost Direction,Short-Term Pull
+CATEGORICAL MODULE 16 - C3-I2,System Tangle,Evidence Frame,Future-Proofed,Unknown,Global vs. Local,Execution Lag,Outside Blindspot
+CATEGORICAL MODULE 17 - C3-I2,Signal Split,Evidence Frame,Future-Proofed,True Clarity,Global vs. Local,Adaptive Growth,Certainty Illusion
+CATEGORICAL MODULE 19 - C3-I2,Value Clash,Evidence Frame,Locked In,Unknown,Global vs. Local,Governance Shift,Outside Blindspot
+CATEGORICAL MODULE 19 - C3-I3,Value Clash,Capability Frame,Locked In,Unknown,Bold vs. Safe,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 22 - C3-I3,Signal Split,Evidence Frame,Tested First,Unknown,Bold vs. Safe,Governance Shift,Certainty Illusion
+CATEGORICAL MODULE 24 - C3-I3,Value Clash,Capability Frame,Alignment Achieved,Unknown,Central vs. Flexible,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 28 - C3-I3,Central vs. Flexible,Evidence Frame,Alignment Achieved,Surface Alignment,Central vs. Flexible,Adaptive Growth,Capability Gap
+CATEGORICAL MODULE 1 - C3-I5,Cognitive Fog,Ecosystem Frame,Locked In,Surface Alignment,Vision vs. Reality,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 15 - C3-I5,Value Clash,Ecosystem Frame,Locked In,True Clarity,Bold vs. Safe,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 24 - C3-I5,Value Clash,Capability Frame,Future-Proofed,Unknown,Bold vs. Safe,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 41 - C3-I5,Unknown,Evidence Frame,Tested First,Unknown,Plan vs. React,Execution Lag,Process Trap
+CATEGORICAL MODULE 27 - C3-I6,Cognitive Fog,Capability Frame,Future-Proofed,Unknown,Now vs. Later,Adaptive Growth,Ignored Insight
 CATEGORICAL MODULE 44 - C3-I6,System Tangle,Ecosystem Frame,Alignment Achieved,Unknown,Global vs. Local,Governance Shift,Capability Gap
-

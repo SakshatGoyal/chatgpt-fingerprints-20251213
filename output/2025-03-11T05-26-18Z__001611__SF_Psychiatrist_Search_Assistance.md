@@ -2,7 +2,7 @@
 
 ## You (2025-03-11T05:26:18.468893+00:00)
 
-@eliot, I need help finding a doctor. write me a prompt for that. 
+@eliot, I need help finding a doctor. write me a prompt for that.
 
 doc needs to be in san francisco, or the larger san francisco bay area. should have a lot of experience working with either delusional disorder or schizophrenia patients. i mean we need a psychiatrist. i need the model to do some online deep research and for now, just give me a very comprehensive list with a few lines about their experience, what patients have said about them and any overall reviewds from zocdoc, or other platforms. oh, and their core competencies and how well they'd work with schizophrenia patients. (my mom)
 
@@ -37,14 +37,14 @@ Let me know your thoughts on these points, and I'll construct a precise, structu
 
 ## You (2025-03-11T05:30:56.377909+00:00)
 
-I need a wide list (10+). I need like 20 if that's possible. 
+I need a wide list (10+). I need like 20 if that's possible.
 schizophrenia experience would be more helpful for first 10, for the other we can look at delusional disorder with equal importance
-"Would you prefer a summary of patient feedback and reviews that emphasize empathy, effectiveness, medication management, therapy integration, or something else specifically?" -- i'm not too sure, lets just do a broad analysis now and we'll do deep dive in later prompts. 
+"Would you prefer a summary of patient feedback and reviews that emphasize empathy, effectiveness, medication management, therapy integration, or something else specifically?" -- i'm not too sure, lets just do a broad analysis now and we'll do deep dive in later prompts.
 We strictly need someone within the SF bay area for now
 I'm ok with telehealth
 yes, focus only on doctors who can accept out of pocket payments
 a concise paragraph per doctor
-assume the role of a medical researcher. 
+assume the role of a medical researcher.
 
 this prompt sill mostly revolve around search. I'm planning on using it for deep search
 
@@ -52,9 +52,7 @@ this prompt sill mostly revolve around search. I'm planning on using it for deep
 
 Here's your structured and optimized prompt tailored specifically for deep, comprehensive online research:
 
-## ChatGPT (2025-03-11T05:31:02.388210+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"sf_psychiatrist_search\",\"type\":\"document\",\"content\":\"### Goal:\\nProvide a comprehensive list of 20 psychiatrists within the San Francisco Bay Area specializing primarily in schizophrenia (first 10 doctors prioritized) and delusional disorder (next 10 doctors), all of whom accept out-of-pocket payments (no insurance).\\n\\n### Return Format:\\nFor each psychiatrist listed, include:\\n- Full name and credentials (MD, DO, etc.)\\n- Primary location (city/neighborhood in the SF Bay Area)\\n- Brief overview (2-3 sentences) highlighting their professional background and years of experience.\\n- Specific experience with schizophrenia or delusional disorder (as applicable).\\n- Core competencies and specializations (medication management, cognitive behavioral therapy, integrative approaches, etc.).\\n- Concise summary of patient reviews (general sentiment, common strengths or issues raised, sourced from platforms like Zocdoc, Psychology Today, Yelp, Google reviews, or similar reputable sources).\\n- Mention explicitly if they offer telehealth services.\\n\\nStructure each psychiatrist’s information clearly in one concise paragraph.\\n\\n### Warnings and Constraints:\\n- Ensure all psychiatrists accept patients paying entirely out-of-pocket (no insurance).\\n- Include only psychiatrists within the San Francisco Bay Area, strictly adhering to geographical constraints.\\n- Verify that reviews and patient feedback are recent and from credible online sources, summarizing overall sentiment without bias.\\n- Avoid speculative information—ensure details provided are verifiable from authoritative healthcare sources and review platforms.\\n\\n### Context Dump:\\n- Primary search emphasis (first 10): Schizophrenia specialists.\\n- Secondary search emphasis (next 10): Specialists experienced in delusional disorder.\\n- All providers must explicitly support out-of-pocket payment options.\\n- Telehealth availability should be explicitly stated.\\n\\n### Persona and Role Definition:\\nAssume the role of a thorough, meticulous medical researcher experienced in identifying reputable psychiatric specialists, ensuring accuracy, comprehensiveness, and practical usability of findings.\"}"}
 
 ## ChatGPT (2025-03-11T05:31:55.193157+00:00)
 
@@ -62,7 +60,7 @@ Does this prompt structure fully address your needs for a thorough online deep s
 
 ## You (2025-03-11T05:50:29.669829+00:00)
 
-ok tihs was helpful. a lot. 
+ok tihs was helpful. a lot.
 
 @elliot, i need ur help with another prompt
 
@@ -91,8 +89,8 @@ Please clarify these points, and I'll build an optimized prompt precisely addres
 
 ## You (2025-03-11T05:52:29.333182+00:00)
 
-1. Yes, with minimal details. 
-2. Just name, location, primary expertise, and years of experience. 
+1. Yes, with minimal details.
+2. Just name, location, primary expertise, and years of experience.
 3. Yes, it should. Just 1-2 sentencews would work.
 4. yeah, just bullet format will work
 5. I'm not sure at the moment.
@@ -101,9 +99,7 @@ Please clarify these points, and I'll build an optimized prompt precisely addres
 
 Great clarification. Here’s your structured and optimized follow-up prompt for accessing an expanded candidate pool:
 
-## ChatGPT (2025-03-11T05:52:34.652978+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"expanded_doctor_search\",\"type\":\"document\",\"content\":\"### Goal:\\nConduct an extended, comprehensive search beyond the initial top 20 psychiatrist recommendations, identifying all additional promising psychiatrists in the San Francisco Bay Area specializing in schizophrenia or delusional disorders.\\n\\n### Return Format:\\nProvide a clear, concise bullet-point list for each additional psychiatrist including:\\n- Full name and credentials (MD, DO, etc.)\\n- Primary expertise (schizophrenia or delusional disorders)\\n- Location (city/neighborhood in the SF Bay Area)\\n- Years of professional experience\\n- A brief (1-2 sentences) explanation of why this psychiatrist was not included in the initial top 20 (e.g., fewer patient reviews, unclear payment acceptance, telehealth ambiguity, etc.)\\n\\nExample:\\n- **Dr. Jane Doe, MD** — Schizophrenia specialist, Oakland, CA, 8 years experience. Not clearly indicated whether out-of-pocket payments are accepted; requires further inquiry.\\n\\n### Warnings and Constraints:\\n- Clearly state reasons why these candidates were not initially prioritized, such as payment uncertainty, fewer reviews, geographic ambiguity, or limited available information.\\n- Do not provide extensive details; maintain brevity and clarity for rapid reference.\\n- Limit descriptions to 1-2 sentences only.\\n\\n### Context Dump:\\n- Secondary candidates may have ambiguities regarding:\\n  - Payment methods (must note uncertainty clearly)\\n  - Geographical details if ambiguous (e.g., exact location not clearly stated)\\n  - Explicit experience with schizophrenia or delusional disorders (note uncertainty)\\n\\n### Persona and Role Definition:\\nContinue as a meticulous medical researcher providing a secondary layer of candidate listings clearly differentiated from the primary comprehensive list for quick reference and potential deeper follow-up.\\n\\n### Depth and Complexity:\\nSimple reasoning (1-2 clear steps) highlighting explicitly why these candidates were relegated to secondary listing.\\n\\n### Follow-Up:\\nBe prepared to iterate or refine further based on additional details or user requests.\"}"}
 
 ## ChatGPT (2025-03-11T05:52:56.953755+00:00)
 
@@ -111,13 +107,13 @@ Does this expanded prompt fully align with your intentions, or would you like to
 
 ## You (2025-03-11T06:01:41.626158+00:00)
 
-ok, now it gave me a total of 25 names. now i need that chatgpt to compile a list of all those names for an operator. and I want the operator to check a few things by going online. 
+ok, now it gave me a total of 25 names. now i need that chatgpt to compile a list of all those names for an operator. and I want the operator to check a few things by going online.
 
-1. check if we can book an appointment online. i don't need to actually bookit, just want to know if patients without insurance have the ability to book an appointment. and if so, where do i need to go. i think the operator will just search the internet to see where to schedule the appointment. 
+1. check if we can book an appointment online. i don't need to actually bookit, just want to know if patients without insurance have the ability to book an appointment. and if so, where do i need to go. i think the operator will just search the internet to see where to schedule the appointment.
 
-2. create a list of links that i can later refer to when i want to book the appointments myself. 
+2. create a list of links that i can later refer to when i want to book the appointments myself.
 
-Now i want the other chatgpt to not only compile the list but also create a detailed set of instructions guiding the operator in a way that it doesn't get stuck or need my assistance. For example, if it sees that I can scedule an appointment with one doctor, it shouldn't pause and be like, 'would u like me to schedule the appointmet?'. clearly, no. just see if its possible, and make a note of the link. the final output of the operator should be just the names of the doctors and a link for thier scheduling. 
+Now i want the other chatgpt to not only compile the list but also create a detailed set of instructions guiding the operator in a way that it doesn't get stuck or need my assistance. For example, if it sees that I can scedule an appointment with one doctor, it shouldn't pause and be like, 'would u like me to schedule the appointmet?'. clearly, no. just see if its possible, and make a note of the link. the final output of the operator should be just the names of the doctors and a link for thier scheduling.
 
 @eliot, could u help me write the correct prompt.
 
@@ -154,9 +150,7 @@ Clarifying these points will help craft an optimal prompt that's tailored precis
 
 Here's your structured and optimized prompt tailored specifically for instructing an operator to efficiently perform your requested search:
 
-## ChatGPT (2025-03-11T06:05:04.411207+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"doctor_booking_checklist\",\"type\":\"document\",\"content\":\"### Task for Operator:\\nConduct an online search to verify the availability of online appointment scheduling for each psychiatrist on the provided list. Specifically, confirm if appointments can be booked online for patients paying entirely out-of-pocket (no insurance).\\n\\n### Procedure:\\nFor each psychiatrist:\\n- Search primarily on the doctor's personal or clinic website, or reputable platforms like Zocdoc, Healthgrades, or Psychology Today. Avoid unreliable sources or platforms with unclear navigation loops.\\n- Do **not** proceed to actually schedule an appointment. Your goal is simply to confirm whether uninsured patients have the option to schedule appointments online.\\n\\n### Output Format:\\nProvide your findings in a clear, structured bullet-point format:\\n- Doctor's full name\\n- Hyperlink to the exact page or platform where scheduling is available\\n\\nIf online scheduling for uninsured patients is unavailable or ambiguous:\\n- Clearly note \\\"Scheduling unavailable or unclear.\\\"\\n\\n### Example:\\n- **Dr. John Smith, MD** – [Appointment scheduling here](http://linktoappointment.com)\\n- **Dr. Emily Johnson, DO** — Online scheduling for uninsured patients unclear; further inquiry needed.\\n\\n### Constraints and Exceptions:\\n- Do NOT initiate or attempt any actual booking.\\n- Clearly note any ambiguity regarding payment acceptance or booking capabilities, and continue to the next provider.\\n- Avoid websites that lead to loops or ambiguous pathways without a clear booking option.\"}"}
 
 ## ChatGPT (2025-03-11T06:05:30.761139+00:00)
 
@@ -164,9 +158,9 @@ Does this clearly align with how you'd like the operator to handle the task? Let
 
 ## You (2025-03-11T06:15:36.289056+00:00)
 
-ok, while the operator does its thing, I need you help with another prompt. Now the deep research output gave me a very long list of 20 doctors, but what i want to know is that is there a way i can prioritize looking up all these 20 names. So what i want chatgpt to do is figure out a very well thought out, well reasoned, and well structured appraoch to basically create some sort of matrix and put the doctors as, like, 
+ok, while the operator does its thing, I need you help with another prompt. Now the deep research output gave me a very long list of 20 doctors, but what i want to know is that is there a way i can prioritize looking up all these 20 names. So what i want chatgpt to do is figure out a very well thought out, well reasoned, and well structured appraoch to basically create some sort of matrix and put the doctors as, like,
 
-preference 1, preference 2, preference 3, etc... Basically i need someway to know who's the best choice, who's the seocnd best, etc... I want the gpt to structure them in order that i should prioritizer them, and give me just a brief reason for why. 
+preference 1, preference 2, preference 3, etc... Basically i need someway to know who's the best choice, who's the seocnd best, etc... I want the gpt to structure them in order that i should prioritizer them, and give me just a brief reason for why.
 
 @eliot can u help me build this prompt
 
@@ -200,7 +194,7 @@ Could you share your preferences on these points? Once you clarify, I'll craft a
 
 ## You (2025-03-11T06:19:33.883539+00:00)
 
-1. expertize with either delusional disorder or schizophrenia is crutical. i would probably deprioritize ones where their main area of focus is adhd or ptsd. then the second most important is years of experience, the more the better. ease of booking appointments is last. patient satisfaction is also somewhat important. I mean, if someone has 25 years but keeps getting one star, thats a looser. 
+1. expertize with either delusional disorder or schizophrenia is crutical. i would probably deprioritize ones where their main area of focus is adhd or ptsd. then the second most important is years of experience, the more the better. ease of booking appointments is last. patient satisfaction is also somewhat important. I mean, if someone has 25 years but keeps getting one star, thats a looser.
 
 2., two sentences explaining the reasoning
 
@@ -214,9 +208,7 @@ Could you share your preferences on these points? Once you clarify, I'll craft a
 
 Here's your optimized and structured prompt for prioritizing your psychiatrist list clearly and effectively:
 
-## ChatGPT (2025-03-11T06:19:38.253155+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"doctor_priority_ranking\",\"type\":\"document\",\"content\":\"### Goal:\\nEvaluate and prioritize the provided list of 20 psychiatrists specializing in schizophrenia or delusional disorder, creating a clearly ranked list based on defined criteria for optimal patient recommendation.\\n\\n### Evaluation Criteria (in order of importance):\\n1. **Primary Expertise:**\\n   - Highest priority: Extensive, explicit experience with schizophrenia or delusional disorder.\\n   - Lower priority: Doctors primarily focusing on unrelated conditions like ADHD or PTSD.\\n\\n2. **Years of Experience:**\\n   - Higher priority given to doctors with greater years of practice.\\n\\n3. **Patient Satisfaction:**\\n   - Moderate consideration given to consistent patient feedback and overall ratings.\\n   - Clearly deprioritize doctors with extensive experience but notably poor patient reviews.\\n\\n4. **Ease of Appointment Booking:**\\n   - Lowest priority; considered only to break ties or very close evaluations.\\n\\n### Return Format:\\nPresent the results as a clear numeric-ranked list (Preference 1, Preference 2, etc.). Under each doctor's name, include:\\n- A numeric score (1–10, with 10 being highest), summarizing the overall evaluation.\\n- Two concise sentences clearly explaining the reasoning for their ranking, explicitly addressing the top evaluation criteria.\\n\\n### Example Format:\\n**Preference 1: Dr. John Doe, MD (Score: 9.5)**  \\nDr. Doe has 20 years of specialized experience directly treating schizophrenia, clearly aligned with patient needs. Patient satisfaction ratings are consistently high, confirming clinical effectiveness.\\n\\n### Warnings and Constraints:\\n- Ensure scoring and reasoning remain transparent and logical, avoiding ambiguity.\\n- Clearly note any significant trade-offs or unusual circumstances affecting scoring (e.g., excellent experience but poor reviews).\\n\\n### Persona and Role Definition:\\nConduct this evaluation from the perspective of an experienced primary care physician with serious medical research and analytical skills, aiming to provide the most clinically sound and patient-centered recommendation possible.\"}"}
 
 ## ChatGPT (2025-03-11T06:20:27.209070+00:00)
 
@@ -224,34 +216,34 @@ Does this align precisely with your intended approach, or would you like any adj
 
 ## You (2025-03-11T06:30:17.730483+00:00)
 
-ok, it gave me the output. 
+ok, it gave me the output.
 
 now i need somewhat of a report. like a very complete report from the entire conversation. the report should start with a brief explaination abt the methodology explaining the process behind the search and the reasoning behind the scoring. then it should list each of the 20 doctors in the following format:
 
-Preference 1: 
-<H3>Dr. Richard Patel, MD </H3> 
+Preference 1:
+<H3>Dr. Richard Patel, MD </H3>
 (Score: 9.5)
 
 (a few lines quantitatively breaking down the score)
 
 <entire paragraph from the deep research output>
 for example:
-Experience & Background: A veteran psychiatrist with 32 years of clinical experience​
+Experience & Background: A veteran psychiatrist with 32 years of clinical experience
 CARE.HEALTHLINE.COM
-​
+
 CARE.HEALTHLINE.COM
 . Dr. Patel completed medical school at Saint Louis University and has been affiliated with Zuckerberg San Francisco General Hospital for much of his career. He’s board-certified and known in the community for his work in both addiction psychiatry and psychosis.
-Delusional Disorder Expertise: Delusional disorder is one of Dr. Patel’s areas of frequent clinical focus – in fact, he treats this condition more often than many peers​
+Delusional Disorder Expertise: Delusional disorder is one of Dr. Patel’s areas of frequent clinical focus – in fact, he treats this condition more often than many peers
 CARE.HEALTHLINE.COM
 . At SFGH and in outpatient practice, he has managed cases of persecutory delusions, jealous delusions, and somatic delusions with great skill. Dr. Patel approaches delusional disorder with a careful balance of empathy and reality testing. He understands that patients with fixed false beliefs may lack insight; thus, he builds trust first and avoids direct confrontation of the delusion initially. Over time, with medication and therapy, he gently guides patients to reconsider beliefs that hinder their lives.
-Core Competencies: Dr. Patel is described as calm, methodical, and very knowledgeable. He’s highly skilled in selecting the right antipsychotic (often favoring ones with fewer cognitive side effects) so patients can continue their daily activities. He also often employs therapy techniques like CBT to address the impact of delusions. Patient Feedback: His patients give him excellent ratings (5/5) and highlight his “kind and professional” demeanor​
+Core Competencies: Dr. Patel is described as calm, methodical, and very knowledgeable. He’s highly skilled in selecting the right antipsychotic (often favoring ones with fewer cognitive side effects) so patients can continue their daily activities. He also often employs therapy techniques like CBT to address the impact of delusions. Patient Feedback: His patients give him excellent ratings (5/5) and highlight his “kind and professional” demeanor
 CARE.HEALTHLINE.COM
-​
+
 CARE.HEALTHLINE.COM
 . Many have noted that Dr. Patel is trustworthy and takes their concerns seriously, which is crucial for those who are fearful or suspicious due to their delusions. Under his care, patients with delusional disorder often report feeling more understood and less anxious.
-Telehealth & Availability: Dr. Patel is currently accepting new patients​
+Telehealth & Availability: Dr. Patel is currently accepting new patients
 CARE.HEALTHLINE.COM
- and offers both in-person consultations (primarily at the SF General outpatient clinic) and telehealth appointments. He accepts some insurance (e.g., Blue Cross Blue Shield) but also sees out-of-network and cash-paying patients​
+ and offers both in-person consultations (primarily at the SF General outpatient clinic) and telehealth appointments. He accepts some insurance (e.g., Blue Cross Blue Shield) but also sees out-of-network and cash-paying patients
 CARE.HEALTHLINE.COM
 . Telehealth has been a convenient option he provides, given the accessibility it affords to patients who may be hesitant to leave home due to their delusions.
 
@@ -269,8 +261,3 @@ Not initially prioritized due to ambiguous confirmation of strict out‐of‐poc
 ## ChatGPT (2025-03-11T06:30:20.790170+00:00)
 
 Here's your structured and comprehensive prompt to generate a detailed report clearly reflecting the full conversation:
-
-## ChatGPT (2025-03-11T06:30:23.029179+00:00)
-
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"final_doctor_report\",\"type\":\"document\",\"content\":\"### Comprehensive Psychiatrist Evaluation Report\\n\\n#### Methodology:\\nThis report summarizes a thorough search and evaluation process aimed at identifying and ranking psychiatrists within the San Francisco Bay Area who specialize in schizophrenia and delusional disorders. An initial deep-research phase involved identifying candidates based on explicit experience, patient satisfaction, years in practice, and availability for uninsured, out-of-pocket payment patients. Doctors were ranked numerically (1-20) using a structured scoring system emphasizing specialization (highest priority), years of clinical experience, and patient feedback. Ease of booking appointments served as"}
-

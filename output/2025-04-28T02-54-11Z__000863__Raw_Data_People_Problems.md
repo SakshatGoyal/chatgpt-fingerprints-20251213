@@ -31,11 +31,11 @@ Before you begin:
 
 Alright, I see exactly what you're asking for — and now that I've reviewed everything carefully, here’s the **core adjustment** you want:
 
-✅ Remove any mention of “archetypes” — because in this case, there *are no archetypes*.  
-✅ Focus **only** on synthesizing people problem statements based purely on **raw empirical data** (modules like the ones you attached).  
+✅ Remove any mention of “archetypes” — because in this case, there *are no archetypes*.
+✅ Focus **only** on synthesizing people problem statements based purely on **raw empirical data** (modules like the ones you attached).
 ✅ Keep the rest of the structure: *tight focus on genuine, evidenced, deeply reasoned people problem statements*, not broad assumptions.
 
-Thanks for being so clear.  
+Thanks for being so clear.
 Now — I’ll **begin crafting the new version of the prompt**, optimized around these goals:
 
 ## ChatGPT (2025-04-28T02:54:16.110498+00:00)
@@ -44,8 +44,7 @@ Now — I’ll **begin crafting the new version of the prompt**, optimized aroun
 
 ## ChatGPT (2025-04-28T02:54:28.161400+00:00)
 
-Here’s the **modified prompt** you asked for — fully adapted to use *only* raw data (no archetypes at all).  
+Here’s the **modified prompt** you asked for — fully adapted to use *only* raw data (no archetypes at all).
 I also kept the tone and structure close to your original style, but cleaner and a little sharper where needed.
 
 Would you like me to also quickly mock up an example output, so you can see how this would guide a model’s behavior? 🎯
-

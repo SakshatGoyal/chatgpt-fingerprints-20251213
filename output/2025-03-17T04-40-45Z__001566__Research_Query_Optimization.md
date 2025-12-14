@@ -2,13 +2,13 @@
 
 ## You (2025-03-17T04:40:45.750000+00:00)
 
-Hey Andrew, I need your prompt building capabilities to create a set of instructions. I've attached my current content at the bottom. 
+Hey Andrew, I need your prompt building capabilities to create a set of instructions. I've attached my current content at the bottom.
 
 A few things I want to modify:
 
-1. I want the canvas output to have better formatting to make it more readable for me. Right now, the content is all in <p></p> format, which means there are no headings or any visual distinctions.  
+1. I want the canvas output to have better formatting to make it more readable for me. Right now, the content is all in <p></p> format, which means there are no headings or any visual distinctions.
 
-2. Let's face it, search can be hit or miss. Currently, it's generating only a few search queries, but I'm concerned that being less comprehensive in the search queries can lead to missed opportunities in finding the right resources for my objective. I want more search queries than it's producing currently, and I also want them to be comprehensive, ensuring that ChatGPT examines it from multiple angles.  
+2. Let's face it, search can be hit or miss. Currently, it's generating only a few search queries, but I'm concerned that being less comprehensive in the search queries can lead to missed opportunities in finding the right resources for my objective. I want more search queries than it's producing currently, and I also want them to be comprehensive, ensuring that ChatGPT examines it from multiple angles.
 
 3. For your reference, I’ll be inserting 'research themes.' Here's a sample of what a research theme looks like.
 AI-Driven Product Innovation and Market Positioning
@@ -234,7 +234,7 @@ Each response will be structured in the following format:
 - Query 3
 - ... *(as many as necessary)*
 
----- 
+----
 
 My concerns:
 
@@ -252,4 +252,3 @@ It's only looking at McKinsey, BCG, Deloitte. or Harvard Business Review, Strate
 ## ChatGPT (2025-03-17T04:48:15.746989+00:00)
 
 I've updated your instructions to **ensure that research queries are not limited to the explicitly mentioned sources** but also include **other authoritative academic, industry, and consulting sources**. This adjustment broadens the search while maintaining quality and relevance. Let me know if you'd like further refinements!
-

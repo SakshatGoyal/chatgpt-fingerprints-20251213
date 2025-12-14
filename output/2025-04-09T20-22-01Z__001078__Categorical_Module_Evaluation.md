@@ -60,12 +60,11 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T20:22:02.485121+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 1 - C5-I1,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 2 - C5-I2,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 3 - C1-I5,Cognitive Fog,Capability Frame,Locked In,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 3 - C5-I1,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 5 - C1-I2,System Tangle,Evidence Frame,Tested First,True Clarity,Vision vs. Reality,Execution Lag,Capability Gap  
-CATEGORICAL MODULE 14 - C1-I5,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 1 - C5-I1,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Global vs. Local,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 2 - C5-I2,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 3 - C1-I5,Cognitive Fog,Capability Frame,Locked In,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 3 - C5-I1,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 5 - C1-I2,System Tangle,Evidence Frame,Tested First,True Clarity,Vision vs. Reality,Execution Lag,Capability Gap
+CATEGORICAL MODULE 14 - C1-I5,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Comfort Bias
 CATEGORICAL MODULE 30 - C1-I2,Value Clash,Values Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Comfort Bias
-

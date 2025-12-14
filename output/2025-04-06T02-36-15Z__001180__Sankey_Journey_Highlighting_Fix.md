@@ -2,7 +2,6 @@
 
 ## You (2025-04-06T02:36:15.788143+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-TqArzbXmXooebi8NffRb5T', 'size_bytes': 633689, 'width': 1215, 'height': 519, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Please Provide a few potential ways we can resolve the following issue:
 ⸻
 
@@ -272,7 +271,7 @@ Thanks for the detailed breakdown. You're already very close — the issues stem
 
 **Problem:** You're only highlighting node-pair segments (not full rows).
 
-**Solution:**  
+**Solution:**
 Create a set of `highlightedRowIds` that match the selected column+value, and for those rows, **trace their full paths** (across all dimensions), adding an overlay path per row.
 
 #### ➤ How to implement:
@@ -309,7 +308,7 @@ This ensures a **row-level journey overlay** on top of the node-pair-based Sanke
 
 **Problem:** Some links fail due to missing position lookups (causing `MNaN,NaNLNaN,NaN`).
 
-**Solution:**  
+**Solution:**
 Add an additional safety check during rendering to **fully exclude undefined coordinates**:
 
 Replace this:
@@ -337,7 +336,7 @@ You already started filtering links, but this guards rendering as well.
 
 **Problem:** It’s visually confusing whether a thick pink band is a popular transition or a highlighted journey.
 
-**Solution:**  
+**Solution:**
 Keep node-pair links in gray/pink with **lower opacity**, and row-level paths as **fully opaque overlays** (like you’re already doing in the screenshot).
 
 You’ve mostly done this — just confirm stroke-opacity is set to `0.15` for context links and `1` for highlighted overlays.
@@ -348,7 +347,7 @@ You’ve mostly done this — just confirm stroke-opacity is set to `0.15` for c
 
 **Problem:** Highlight only shows up on links directly connected to the selected node, not the whole path.
 
-**Solution:**  
+**Solution:**
 Already handled by Fix 1. The `highlightedRows` logic should be global — select on any column and it traces **that row’s full path**.
 
 ---
@@ -500,4 +499,3 @@ This guarantees invalid coordinates never sneak in — fixing the `MNaN,NaN...` 
 ---
 
 Let me know if you'd like me to walk through how to integrate this into the full file — or if you want help testing it with your current dataset!
-

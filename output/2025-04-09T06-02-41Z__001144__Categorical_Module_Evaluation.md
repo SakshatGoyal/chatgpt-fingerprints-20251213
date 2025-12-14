@@ -125,5 +125,3 @@ CATEGORICAL MODULE 18 - C3-I3,Value Clash,Evidence Frame,Alignment Achieved,Surf
 CATEGORICAL MODULE 23 - C3-I3,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Adaptive Growth,Tech Mirage
 CATEGORICAL MODULE 32 - C3-I3,Signal Split,Evidence Frame,Alignment Achieved,Surface Alignment,Plan vs. React,Lost Direction,Certainty Illusion
 CATEGORICAL MODULE 42 - C3-I3,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Adaptive Growth,Unknown
-citeturn0file0 citeturn0file1
-

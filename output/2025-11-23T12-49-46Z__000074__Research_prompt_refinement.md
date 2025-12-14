@@ -4,7 +4,7 @@
 
 help me write a research prompt for the following intent...
 
-I want to explore restaurants in hyderabad. I live in 'my home bhooja' and i don't want to travel too far. I'm looking for some high end restaurants but one that have traditional indian cooking, and healthy cooking. Like satvik food, but elevated dining experiences. I want chatGPT to do the search. 
+I want to explore restaurants in hyderabad. I live in 'my home bhooja' and i don't want to travel too far. I'm looking for some high end restaurants but one that have traditional indian cooking, and healthy cooking. Like satvik food, but elevated dining experiences. I want chatGPT to do the search.
 
 now ask me questions that can help you refine the prompt
 
@@ -62,11 +62,10 @@ Would you like to tackle all of these now, or just the most essential ones first
 
 I think a 30-minute drive is fine, and closer is better, but I don’t want to go more than 45 minutes—that's too far. I am looking for restaurants no more than a 40-minute drive from my home (which is at My Home Bhooja).
 
-Just to clarify, Satvik was merely an example. I don't have rigid preferences, but I do want authentic traditional food that is truly rooted in Indian culture. I'm tired of the Punjabi and typical South Indian options available at most restaurants. What I'm seeking is food that is genuinely authentically Indian, paired with an elevated dining experience. 
+Just to clarify, Satvik was merely an example. I don't have rigid preferences, but I do want authentic traditional food that is truly rooted in Indian culture. I'm tired of the Punjabi and typical South Indian options available at most restaurants. What I'm seeking is food that is genuinely authentically Indian, paired with an elevated dining experience.
 
 I don't want our search to be limited to just 'Satvik.' Any cuisine is fine, as long as it is a healthy version of that food—not a clichéd healthy option like 'high protein.'
 
-the ambience could be any of the following - artisanal and boutique-style; or fine-dining and luxurious. 
+the ambience could be any of the following - artisanal and boutique-style; or fine-dining and luxurious.
 
 i want a curated, categorized list with detailed descriptions of what kind of food we can expect.
-

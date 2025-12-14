@@ -73,4 +73,3 @@ MODULE 88 - C1-I7,R&D Strategic Alliances,Mandate-Driven,Sequenced Timing,Compon
 MODULE 9 - C2-I2,Revenue Model Pivoting,Limited Mandates,Sequenced Timing,Componentized,Short-Term Return
 MODULE 9 - C3-I5,Digital Competency Governance,Limited Mandates,Sequenced Timing,Componentized,Medium-Term Resilience
 MODULE 91 - C1-I7,R&D Portfolio Balancing,Mandate-Driven,Sequenced Timing,Componentized,Medium-Term Resilience
-

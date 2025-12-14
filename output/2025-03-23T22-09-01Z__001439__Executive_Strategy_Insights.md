@@ -160,85 +160,85 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Digital Transformation Amid Regulatory Uncertainty
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Executives must reconcile the imperative for digital innovation with evolving regulatory demands by adopting hybrid strategies that overlay modern digital solutions on legacy systems. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Balancing the stability of entrenched legacy systems against the agility required for digital transformation.  
-- **Underlying Beliefs & Biases:** A tendency to overvalue the security of legacy systems while underestimating the risks and potential of new technologies.  
-- **Expected vs. Actual Outcomes:** While executives often expect digital initiatives to disrupt operations, the adoption of phased, hybrid approaches has proven to yield innovation without sacrificing regulatory compliance.  
-- **Broader Implications:** Embedding AI-powered RegTech and compliance monitoring reshapes strategic risk management, ensuring that innovation is not pursued at the expense of robust oversight.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Balancing the stability of entrenched legacy systems against the agility required for digital transformation.
+- **Underlying Beliefs & Biases:** A tendency to overvalue the security of legacy systems while underestimating the risks and potential of new technologies.
+- **Expected vs. Actual Outcomes:** While executives often expect digital initiatives to disrupt operations, the adoption of phased, hybrid approaches has proven to yield innovation without sacrificing regulatory compliance.
+- **Broader Implications:** Embedding AI-powered RegTech and compliance monitoring reshapes strategic risk management, ensuring that innovation is not pursued at the expense of robust oversight.
 **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical survey data—such as 55% of banks citing legacy systems as a barrier and 69% expressing migration fears—substantiates the preference for hybrid digital strategies. Real-world examples, including phased modernization initiatives and the use of AI for continuous compliance monitoring, highlight how banks can innovate while managing regulatory risk. **[Empirical]**
 
 ---
 
 ### 2. Crisis Response in Economic Downturns
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Effective crisis management in retail banking hinges on pre-established frameworks and mechanisms to counter cognitive biases, enabling rapid, data-informed decisions under economic stress. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Making high-stakes decisions in real time with incomplete data during crises.  
-- **Underlying Beliefs & Biases:** Over-optimism, groupthink, and a reliance on intuition can delay critical interventions.  
-- **Expected vs. Actual Outcomes:** Although leaders may anticipate that rapid, intuitive decisions will suffice, structured crisis playbooks and independent challenge processes have proven to produce more resilient outcomes.  
-- **Broader Implications:** The integration of AI-driven early warning systems and regular stress testing shifts crisis management from reactive to anticipatory, offering executives a valuable buffer against unforeseen downturns.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Making high-stakes decisions in real time with incomplete data during crises.
+- **Underlying Beliefs & Biases:** Over-optimism, groupthink, and a reliance on intuition can delay critical interventions.
+- **Expected vs. Actual Outcomes:** Although leaders may anticipate that rapid, intuitive decisions will suffice, structured crisis playbooks and independent challenge processes have proven to produce more resilient outcomes.
+- **Broader Implications:** The integration of AI-driven early warning systems and regular stress testing shifts crisis management from reactive to anticipatory, offering executives a valuable buffer against unforeseen downturns.
 **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Historical case studies—such as JPMorgan Chase’s decisive actions during the 2008 crisis and RBC’s agile response during COVID-19—illustrate the effectiveness of daily crisis meetings and predetermined triggers. Evidence from Deloitte and academic reviews confirms that systematic early warning systems can extend lead times by up to 9–18 months, thereby reinforcing the empirical basis for structured crisis response. **[Empirical]**
 
 ---
 
 ### 3. Market Expansion Under Global Uncertainty
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Strategic expansion into emerging markets requires rigorous risk assessment and AI-enhanced scenario simulations to distinguish between viable opportunities and environments fraught with volatility. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Allocating expansion resources amid geopolitical turbulence and economic unpredictability.  
-- **Underlying Beliefs & Biases:** A generalized view of emerging market risks can lead to over- or under-investment; precise differentiation is often overlooked.  
-- **Expected vs. Actual Outcomes:** While many banks may expect homogeneous outcomes from emerging markets, those employing targeted, data-backed evaluations—like focusing on the Pacific Alliance—tend to secure superior risk-adjusted returns.  
-- **Broader Implications:** The use of AI-driven simulations to generate multi-scenario forecasts enhances strategic clarity, allowing banks to hedge risks while capitalizing on growth opportunities.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Allocating expansion resources amid geopolitical turbulence and economic unpredictability.
+- **Underlying Beliefs & Biases:** A generalized view of emerging market risks can lead to over- or under-investment; precise differentiation is often overlooked.
+- **Expected vs. Actual Outcomes:** While many banks may expect homogeneous outcomes from emerging markets, those employing targeted, data-backed evaluations—like focusing on the Pacific Alliance—tend to secure superior risk-adjusted returns.
+- **Broader Implications:** The use of AI-driven simulations to generate multi-scenario forecasts enhances strategic clarity, allowing banks to hedge risks while capitalizing on growth opportunities.
 **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical support is evident in Scotiabank’s strategic focus on the Pacific Alliance, where rigorous risk metrics and scenario planning guided market entry. AI-driven models further refine these strategies by simulating hundreds of economic scenarios, thus offering a granular view of potential outcomes and reinforcing the empirical rationale for selective market expansion. **[Empirical]**
 
 ---
 
 ### 4. Balancing Customer Trust and Risk Mitigation
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Proactive, transparent communication combined with personalized risk mitigation strategies is essential for maintaining customer trust, especially during crises when cognitive biases can skew risk perception. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Reconciling rapid risk mitigation measures with the necessity of sustaining customer confidence during turbulent times.  
-- **Underlying Beliefs & Biases:** Customers are prone to negativity and confirmation biases, which can amplify panic even when objective risk is low.  
-- **Expected vs. Actual Outcomes:** Although banks might expect robust risk controls to be sufficient, empirical evidence suggests that tailored communication and education are equally vital to stabilize customer sentiment.  
-- **Broader Implications:** Deploying AI for hyper-personalized communication—such as tailored fraud alerts and educational outreach—supports both operational risk management and long-term trust building.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Reconciling rapid risk mitigation measures with the necessity of sustaining customer confidence during turbulent times.
+- **Underlying Beliefs & Biases:** Customers are prone to negativity and confirmation biases, which can amplify panic even when objective risk is low.
+- **Expected vs. Actual Outcomes:** Although banks might expect robust risk controls to be sufficient, empirical evidence suggests that tailored communication and education are equally vital to stabilize customer sentiment.
+- **Broader Implications:** Deploying AI for hyper-personalized communication—such as tailored fraud alerts and educational outreach—supports both operational risk management and long-term trust building.
 **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Case studies, including Wells Fargo’s multi-year trust rebuilding campaign and USAA’s customer-centric crisis strategies, underscore the importance of transparent, omnichannel communication. Customer surveys indicating improved trust metrics post-crisis validate these approaches, while AI-driven personalization further enhances these efforts by aligning risk messaging with individual customer needs. **[Empirical]**
 
 ---
 
 ### 5. Strategic Resource Allocation in High Uncertainty
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Resource allocation under uncertainty demands continuous, adaptive planning—leveraging agile forecasting and AI-driven optimization to balance growth ambitions with risk resilience. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Allocating limited capital and talent amid volatile forecasts, while avoiding pitfalls such as overinvestment and sunk-cost biases.  
-- **Underlying Beliefs & Biases:** Over-optimism and narrow framing often lead to skewed risk assessments and misallocated resources.  
-- **Expected vs. Actual Outcomes:** Although static budgeting methods might seem adequate, dynamic, scenario-based planning supported by AI has proven to yield more effective and flexible resource management.  
-- **Broader Implications:** The fusion of human judgment with AI-driven simulations empowers executives to recalibrate investments in real time, ensuring strategic priorities are met even in turbulent environments.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Allocating limited capital and talent amid volatile forecasts, while avoiding pitfalls such as overinvestment and sunk-cost biases.
+- **Underlying Beliefs & Biases:** Over-optimism and narrow framing often lead to skewed risk assessments and misallocated resources.
+- **Expected vs. Actual Outcomes:** Although static budgeting methods might seem adequate, dynamic, scenario-based planning supported by AI has proven to yield more effective and flexible resource management.
+- **Broader Implications:** The fusion of human judgment with AI-driven simulations empowers executives to recalibrate investments in real time, ensuring strategic priorities are met even in turbulent environments.
 **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical evidence from cases like Bank of America’s agile digital pivot during the COVID-19 crisis and documented improvements from AI-driven capital allocation tools—such as those reported by Cloud4C—demonstrate that flexible, continuous planning can reduce budget inefficiencies by up to 20%. These examples affirm the empirical foundation for adaptive resource allocation in high uncertainty. **[Empirical]**
 
 ---
@@ -539,21 +539,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -566,4 +566,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T22:11:52.578784+00:00)
 
 OpenAI Research. (2024). OpenAI deep research C4-I1: Adaptive and crisis strategy in retail banking: Managing risk and uncertainty.
-

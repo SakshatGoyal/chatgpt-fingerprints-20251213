@@ -53,7 +53,7 @@ Each module presents a layered reasoning system, including an Insight Statement,
 | Balance Between Optimism and Skepticism |  | 1 |  |
 | Thematic Rarity |  | 3 |  |
 
-**Final Module Score** = _[sum of Total Values]_  
+**Final Module Score** = _[sum of Total Values]_
 **Module ID** = _e.g., CATEGORICAL MODULE 4 - C2-I1_
 
 ────────────────────────────────────────────
@@ -875,14 +875,14 @@ You’ve just completed a series of evaluations using the 17-criterion scoring r
 
 Each module ended with a line formatted like:
 
-**Final Module Score** = 153  
+**Final Module Score** = 153
 **Module ID** = CATEGORICAL MODULE 1 - C2-I1
 
 Your task is to:
 
 1. **Extract** the final score and module ID from each module’s output.
-2. **Build a clean table** with two columns:  
-   - `Categorical Module ID`  
+2. **Build a clean table** with two columns:
+   - `Categorical Module ID`
    - `Final Score`
 3. Preserve the exact module ID as written.
 4. Sort the table by **module number**, in ascending order (use the number after "MODULE").
@@ -935,4 +935,3 @@ Please extract and compile the table using the outputs you just generated.
 | CATEGORICAL MODULE 42 - C2-I1 | 153         |
 | CATEGORICAL MODULE 43 - C2-I3 | 166         |
 | CATEGORICAL MODULE 47 - C2-I2 | 153         |
-

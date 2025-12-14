@@ -36,7 +36,7 @@ This is the most reliable tool for Android screen mirroring and control.
    ```
    You’ll see your Nothing Phone screen on your Mac, and can control it with your mouse/keyboard.
 
-✅ *Pros*: Free, low-latency, mouse + keyboard control  
+✅ *Pros*: Free, low-latency, mouse + keyboard control
 🚫 *Cons*: Wired (wireless needs extra setup), command-line
 
 ---
@@ -48,7 +48,7 @@ Good for wireless screen mirroring and file access.
 2. Sign up and connect both devices on the same Wi-Fi
 3. Access the mirror via [AirDroid Web](https://web.airdroid.com/) or install the AirDroid desktop client
 
-✅ *Pros*: Wireless, easy setup  
+✅ *Pros*: Wireless, easy setup
 🚫 *Cons*: Some features paid, higher latency than Scrcpy
 
 ---
@@ -59,7 +59,7 @@ Good for wireless screen mirroring and file access.
 
 ---
 
-If you're okay with command-line, **Scrcpy** is by far the best free option.  
+If you're okay with command-line, **Scrcpy** is by far the best free option.
 If you want wireless + UI-based mirroring, go with **AirDroid**.
 
 Want help setting either one up?
@@ -87,7 +87,7 @@ On the **Nothing Phone**, the “Build number” might not be immediately visibl
 Build number: TP1A.220905.004 release-keys
 ```
 
-Once you find it, **tap it 7 times** — it’ll prompt you to enter your phone PIN or unlock pattern, then it’ll confirm:  
+Once you find it, **tap it 7 times** — it’ll prompt you to enter your phone PIN or unlock pattern, then it’ll confirm:
 **“You are now a developer!”**
 
 If you still can’t find it, let me know what OS version you’re on (Settings > About phone > Software version), and I’ll guide you specifically.
@@ -107,7 +107,7 @@ Here’s what you do next:
 ### ✅ To Launch Your Phone Mirror:
 
 1. **Plug in your Nothing Phone via USB**
-2. **On your phone**, when prompted, select **“Allow USB debugging”**  
+2. **On your phone**, when prompted, select **“Allow USB debugging”**
    (and optionally check **“Always allow from this computer”**)
 3. **On your Mac**, open Terminal and just type:
    ```bash
@@ -288,7 +288,6 @@ Let me know what you see when you run `adb devices`. That’ll tell us exactly w
 
 ## You (2025-07-12T03:26:33.217000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-5VhzDUszpjYxt7eNCvWmBQ', 'size_bytes': 26997, 'width': 493, 'height': 1109, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 I'm trying to open an app called Pure. But the whole UI is blacked out. Any way around this?
 
 ## ChatGPT (2025-07-12T03:26:34.196533+00:00)
@@ -329,4 +328,3 @@ If you're a power user and have a rooted device, you could:
 You did everything right — the issue is with Pure’s security settings, not your setup.
 
 Let me know if you want help recording your phone’s screen internally, or exploring safe ways to bypass it for dev/testing purposes.
-

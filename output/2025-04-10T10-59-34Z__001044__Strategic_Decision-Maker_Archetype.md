@@ -2,7 +2,7 @@
 
 ## You (2025-04-10T10:59:34.577727+00:00)
 
-Disregard knowledge collected from any prior sessions or memories and operate solely on the following set of instructions. 
+Disregard knowledge collected from any prior sessions or memories and operate solely on the following set of instructions.
 
 
 🧠 GPT Persona Definition
@@ -118,7 +118,7 @@ Example Output Structure (Abbreviated)
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Tension statement**  
+**1. Tension statement**
 > Full quote from module along with any quantitative data if mentioned
 — MODULE 1 - C3-I3, Archetype 3.txt
 
@@ -128,10 +128,9 @@ Example Output Structure (Abbreviated)
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. Belief statement**  
+**1. Belief statement**
 > Full quote from module along with any quantitative data if mentioned
 — MODULE 1 - C3-I3, Archetype 3.txt
-
 
 
 ⸻
@@ -158,52 +157,51 @@ This archetype navigates a complex landscape where evidence-based tools, market 
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Executives hesitate to fully adopt AI despite recognizing its potential, due to entrenched habits and cognitive biases.**  
-> “Cognitive biases—such as confirmation, anchoring, and automation biases—often impede the effective use of AI in decision-making, leading executives to underutilize valuable data insights.”  
-> “Leaders must reconcile a strategic tension: while personal intuition may drive comfort and speed, it can also cause an underweighting of AI’s objective recommendations.”  
+**1. Executives hesitate to fully adopt AI despite recognizing its potential, due to entrenched habits and cognitive biases.**
+> “Cognitive biases—such as confirmation, anchoring, and automation biases—often impede the effective use of AI in decision-making, leading executives to underutilize valuable data insights.”
+> “Leaders must reconcile a strategic tension: while personal intuition may drive comfort and speed, it can also cause an underweighting of AI’s objective recommendations.”
 — MODULE 26 - C2-I6, Archetype 7.txt
 
-**2. Executives often overestimate the uniform benefit of UGC while underpreparing for its variability and reputational risk.**  
-> “There is a prevalent assumption that all UGC is inherently positive or influential, yet decision-makers must account for potential biases in social proof and overreliance on peer recommendations.”  
-> “Executives must decide how to effectively harness UGC for brand enhancement while mitigating risks associated with misinformation or negative feedback loops.”  
+**2. Executives often overestimate the uniform benefit of UGC while underpreparing for its variability and reputational risk.**
+> “There is a prevalent assumption that all UGC is inherently positive or influential, yet decision-makers must account for potential biases in social proof and overreliance on peer recommendations.”
+> “Executives must decide how to effectively harness UGC for brand enhancement while mitigating risks associated with misinformation or negative feedback loops.”
 — MODULE 27 - C2-I2, Archetype 7.txt
 
-**3. Price is often a stronger consumer motivator than quality, challenging long-standing executive assumptions.**  
-> “Despite the conventional emphasis on service quality, the research empirically confirms that price sensitivity overwhelmingly drives consumer restaurant selection, challenging the notion that quality factors always dominate consumer decision-making.”  
+**3. Price is often a stronger consumer motivator than quality, challenging long-standing executive assumptions.**
+> “Despite the conventional emphasis on service quality, the research empirically confirms that price sensitivity overwhelmingly drives consumer restaurant selection, challenging the notion that quality factors always dominate consumer decision-making.”
 — MODULE 43 - C2-I1, Archetype 7.txt
 
-**4. Premium pricing works as a brand signal for some, but is viewed with skepticism by a significant subset.**  
-> “Although a majority (58%) support the high-price–high-quality linkage, a significant minority remain skeptical—underscoring the need for ongoing quality assurance.”  
-> “There is an assumption that high price automatically connotes quality; however, nearly 42% of survey respondents view the premium cost as a potential gimmick.”  
+**4. Premium pricing works as a brand signal for some, but is viewed with skepticism by a significant subset.**
+> “Although a majority (58%) support the high-price–high-quality linkage, a significant minority remain skeptical—underscoring the need for ongoing quality assurance.”
+> “There is an assumption that high price automatically connotes quality; however, nearly 42% of survey respondents view the premium cost as a potential gimmick.”
 — MODULE 42 - C2-I4, Archetype 7.txt
 
-**5. Risk tolerance and AI adoption are shaped more by industry context than by uniform executive behavior.**  
-> “The impact of AI on executive decision-making varies markedly across industries… with finance, healthcare, and manufacturing adopting more cautious, regulated strategies.”  
-> “Strategic Dilemma: Adapting AI integration strategies to align with sector-specific risk profiles and regulatory environments.”  
+**5. Risk tolerance and AI adoption are shaped more by industry context than by uniform executive behavior.**
+> “The impact of AI on executive decision-making varies markedly across industries… with finance, healthcare, and manufacturing adopting more cautious, regulated strategies.”
+> “Strategic Dilemma: Adapting AI integration strategies to align with sector-specific risk profiles and regulatory environments.”
 — MODULE 44 - C3-I6, Archetype 7.txt
 
 ---
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. “Heuristics offer speed and reassurance in uncertain environments.”**  
-> “Leaders must reconcile a strategic tension: while personal intuition may drive comfort and speed, it can also cause an underweighting of AI’s objective recommendations.”  
+**1. “Heuristics offer speed and reassurance in uncertain environments.”**
+> “Leaders must reconcile a strategic tension: while personal intuition may drive comfort and speed, it can also cause an underweighting of AI’s objective recommendations.”
 — MODULE 26 - C2-I6, Archetype 7.txt
 
-**2. “If everyone else is doing it, it must be good.”**  
-> “There is a prevalent assumption that all UGC is inherently positive or influential, yet decision-makers must account for potential biases in social proof…”  
+**2. “If everyone else is doing it, it must be good.”**
+> “There is a prevalent assumption that all UGC is inherently positive or influential, yet decision-makers must account for potential biases in social proof…”
 — MODULE 27 - C2-I2, Archetype 7.txt
 
-**3. “Price communicates value more effectively than service quality.”**  
-> “There is a prevalent assumption that superior service quality can compensate for higher prices, yet this study suggests that for key demographics, competitive pricing remains paramount.”  
+**3. “Price communicates value more effectively than service quality.”**
+> “There is a prevalent assumption that superior service quality can compensate for higher prices, yet this study suggests that for key demographics, competitive pricing remains paramount.”
 — MODULE 43 - C2-I1, Archetype 7.txt
 
-**4. “Context—not just capability—determines what’s feasible.”**  
-> “The impact of AI on executive decision-making varies markedly across industries…”  
-> “Tailored AI strategies are necessary to reconcile industry-specific operational realities with overarching business objectives.”  
+**4. “Context—not just capability—determines what’s feasible.”**
+> “The impact of AI on executive decision-making varies markedly across industries…”
+> “Tailored AI strategies are necessary to reconcile industry-specific operational realities with overarching business objectives.”
 — MODULE 44 - C3-I6, Archetype 7.txt
 
 ---
 
 Let me know if you'd like a visual summary or if you're planning to compare this archetype with others—we can synthesize cross-archetype tensions too.
-

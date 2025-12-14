@@ -160,51 +160,51 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Insight 1: Transforming Drug Discovery Through AI Integration
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 AI integration in drug discovery has dramatically increased clinical trial success rates—reported at 80%-90% for AI-developed drugs versus approximately 40% for traditional methods—challenging the assumption that conventional approaches are inherently more reliable. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 - **Strategic Dilemma:** Executives face the challenge of deciding whether to continue investing in traditional experimental methods or pivot towards AI-driven approaches that promise enhanced efficiency and cost savings.
 - **Underlying Beliefs & Biases:** There is a persistent bias favoring time-tested conventional methods, which may inadvertently stifle innovation despite emerging empirical evidence.
 - **Expected vs. Actual Outcomes:** Although conventional approaches are expected to deliver predictable results, the empirical data indicates that AI-driven pipelines offer significantly higher success rates and reduced R&D timelines.
-- **Broader Implications:** This disparity compels strategic realignment in R&D investments, urging executives to foster partnerships and develop internal capabilities that integrate AI into the drug discovery process.  
+- **Broader Implications:** This disparity compels strategic realignment in R&D investments, urging executives to foster partnerships and develop internal capabilities that integrate AI into the drug discovery process.
 **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 Data from the paper shows that the number of candidate drugs developed using AI surged from 3 in 2016 to 67 in 2023, with AI-developed drugs achieving Phase I trial success rates of 80%-90% compared to ~40% for traditional methods. **[Empirical]**
 
 ---
 
 ### Insight 2: Evolving Regulatory and Translational Management with AI
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 The deployment of AI in regulatory contexts—exemplified by machine learning models for adverse event prediction and the development of PharmBERT for drug label analysis—signals a pivotal shift from conventional regulatory practices toward more automated, data-driven methodologies. **[Inferred]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 - **Strategic Dilemma:** Leaders must weigh the benefits of automation in regulatory processes against the risks associated with AI errors, such as "hallucinations" in generative models.
 - **Underlying Beliefs & Biases:** There exists a bias toward expecting AI to seamlessly replace manual processes, potentially underestimating the need for sustained human oversight and robust training data.
 - **Expected vs. Actual Outcomes:** While AI is anticipated to streamline and expedite regulatory submissions, real-world application reveals that error correction remains essential, highlighting a gap between expected efficiency and practical reliability.
-- **Broader Implications:** Decision-makers should consider adopting hybrid models that combine AI’s computational advantages with human expertise, ensuring both innovation and compliance in regulatory affairs.  
+- **Broader Implications:** Decision-makers should consider adopting hybrid models that combine AI’s computational advantages with human expertise, ensuring both innovation and compliance in regulatory affairs.
 **[Inferred]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The paper details two case studies: one that uses conventional ML approaches (e.g., Random Survival Forests, ANNs, DeepHit) to predict kinase adverse events, and another that demonstrates PharmBERT’s superior performance in extracting pharmacokinetic data from drug labels. These examples illustrate both the promise and the current limitations of AI in regulatory and translational settings. **[Empirical]**
 
 ---
 
 ### Insight 3: Shifting Perceptions in the Clinical Pharmacology Community
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 Survey data from the 2024 American Society of Clinical Pharmacology and Therapeutics Annual Meeting reveal that 80% of participants recognize AI’s significant impact on drug R&D, while varied expectations about its future applications call for more nuanced strategic planning. **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
+**2. Executive Decision-Making Context:**
 - **Strategic Dilemma:** Executives must reconcile divergent views on where AI will have the greatest impact—from molecule design (45%) to clinical trials (28%)—in order to allocate resources effectively.
 - **Underlying Beliefs & Biases:** There is a risk of confirmation bias, where decision-makers might prioritize areas aligning with their preexisting strategies, potentially overlooking emerging opportunities in less familiar domains.
 - **Expected vs. Actual Outcomes:** Despite an overall optimism for AI, the segmented survey responses indicate that expectations vary significantly across different areas of drug development, urging a more balanced and diversified strategic approach.
-- **Broader Implications:** Strategic investment decisions should be guided by this nuanced understanding, ensuring that portfolios reflect both current successes and emerging trends in AI applications within drug R&D.  
+- **Broader Implications:** Strategic investment decisions should be guided by this nuanced understanding, ensuring that portfolios reflect both current successes and emerging trends in AI applications within drug R&D.
 **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The survey findings indicate that while 80% of clinical pharmacology professionals acknowledge AI’s impact, expectations for its future role differ: 45% favor its application in molecule design, 28% in clinical trials and development, 20% in target discovery, and 7% in preclinical testing. **[Empirical]**
 
 ---
@@ -459,21 +459,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -486,4 +486,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T10:07:28.639368+00:00)
 
 Kanakia, A., Sale, M., Zhao, L., & Zhou, Z. (2025). AI in action: Redefining drug discovery and development. *Clinical and Translational Science, 18*, e70149. https://doi.org/10.1111/cts.70149
-

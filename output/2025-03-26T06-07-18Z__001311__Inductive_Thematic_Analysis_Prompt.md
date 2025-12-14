@@ -4,7 +4,7 @@
 
 Help me write a prompt. I’m going to explain my purpose, and help me write an effective prompt based on the purpose i outline here —
 
-I need a chatgpt to think like a creative director at IDEO with years of experience turning abstract, open ended user feedback into actionable insights. I need this chatgpt to create a report for a product team building generative AI products. 
+I need a chatgpt to think like a creative director at IDEO with years of experience turning abstract, open ended user feedback into actionable insights. I need this chatgpt to create a report for a product team building generative AI products.
 
 I will be attaching a .txt file which has two things
 
@@ -25,11 +25,11 @@ the responses will be seperated like so:
 
 ---
 
-First, i want the gpt to follow an inductive thematic analysis approach to identify themes. 
+First, i want the gpt to follow an inductive thematic analysis approach to identify themes.
 
 In inductive thematic analysis, a person approaches their data with an open mind, free from predetermined categories or theoretical biases. They carefully and repeatedly engage with the data, allowing patterns and themes to emerge naturally. This method helps them discover new insights that existing theories might miss. It is important for them to maintain reflexivity to accurately represent the participants’ experiences and meanings.
 
-i need the gpt to also produce some explaination for how these themes are derived and what they mean, along with a few quoted examples. 
+i need the gpt to also produce some explaination for how these themes are derived and what they mean, along with a few quoted examples.
 
 Finally, based on the themes, it should conculde with a series of takeaways that a product team might find meaningful. the takeaways should be **“people” problems, and solution agnostic**. the product team is a strategic team trying to udnerstand how people perceive AI
 
@@ -41,26 +41,26 @@ Perfect — this is a strong foundation, and your purpose is clear. Before I bui
 
 ### 🔍 A Few Discovery Questions:
 
-1. **Audience Scope:**  
+1. **Audience Scope:**
    Is this prompt designed for recurring use across multiple different sets of user feedback (i.e. reusable template), or is it for a one-time analysis of a specific dataset?
 
-2. **Report Tone and Style:**  
+2. **Report Tone and Style:**
    What tone should the final report take — more creative and narrative (IDEO-style storytelling), academic and analytical (like a UX researcher), or business-strategic (executive-ready brief)?
 
-3. **Depth of Analysis:**  
+3. **Depth of Analysis:**
    Are you looking for:
-   - **Surface-level** themes with quick takeaways, or  
+   - **Surface-level** themes with quick takeaways, or
    - **Deeper, layered** insights that explore tensions, contradictions, or behavioral drivers?
 
-4. **Report Format:**  
+4. **Report Format:**
    Would you like the output to be:
-   - Just **themes + explanations + takeaways** (as mentioned), or  
+   - Just **themes + explanations + takeaways** (as mentioned), or
    - Do you also want an **executive summary**, **user sentiment heatmap**, or **potential user archetypes** inferred from responses?
 
-5. **Quoting Convention:**  
+5. **Quoting Convention:**
    Should quoted user responses be brief one-liners, or can GPT pull full paragraphs when helpful? Should it cite how frequently a theme appears?
 
-6. **Constraints or Limits:**  
+6. **Constraints or Limits:**
    Any word count limits, number of themes/takeaways, or file-size concerns?
 
 ---
@@ -78,7 +78,7 @@ yes. i might use the same prompt for different text files. but each text file wi
 
 Tone: a combination of (IDEO-style storytelling), academic and analytical (like a UX researcher)
 
-I want deeper layered insights that explore tensions, contradictions, or behavioral drivers. 
+I want deeper layered insights that explore tensions, contradictions, or behavioral drivers.
 
 For now, i just want themes + explanations + takeaways
 
@@ -98,34 +98,34 @@ Let’s move forward. Here's the structure I’ll follow for the final prompt:
 
 ### ✅ Summary of Your Requirements (for transparency before I build the prompt):
 
-**Primary Objective:**  
+**Primary Objective:**
 Analyze a set of user responses (from a single prompt/question) to derive inductive themes, explain them with evidence, and conclude with strategic, people-problem-oriented takeaways.
 
-**Execution Persona for GPT-4o:**  
+**Execution Persona for GPT-4o:**
 Creative Director at IDEO with deep UX research expertise, skilled in inductive thematic analysis, capable of blending narrative sense-making with rigorous analytical thinking.
 
-**Desired Output Structure:**  
-1. **Identified Themes:**  
-   - Emergent from data (inductive, no pre-bias)  
-   - Grouped meaningfully with nuanced naming  
-   - Includes frequency count per theme  
+**Desired Output Structure:**
+1. **Identified Themes:**
+   - Emergent from data (inductive, no pre-bias)
+   - Grouped meaningfully with nuanced naming
+   - Includes frequency count per theme
    - Highlight contradictions or tensions if present
 
-2. **Explanation for Each Theme:**  
-   - How it was derived  
-   - What it says about people’s thinking, assumptions, or experiences  
+2. **Explanation for Each Theme:**
+   - How it was derived
+   - What it says about people’s thinking, assumptions, or experiences
    - Include multiple quoted examples (short or long as needed)
 
-3. **Final Takeaways:**  
-   - Solution-agnostic insights  
-   - People-centered (“what people are struggling with, perceiving, misunderstanding, desiring”)  
-   - Actionable for strategic product thinking  
+3. **Final Takeaways:**
+   - Solution-agnostic insights
+   - People-centered (“what people are struggling with, perceiving, misunderstanding, desiring”)
+   - Actionable for strategic product thinking
    - Not feature or UI-specific
 
-**Text File Format:**  
+**Text File Format:**
 One user question followed by multiple responses, delimited by `---`
 
-**Tone:**  
+**Tone:**
 A thoughtful, reflective, and layered mix of IDEO storytelling + UX research clarity
 
 ---
@@ -186,4 +186,3 @@ When the file is uploaded, begin by clearly stating the question that was asked,
 ---
 
 Would you like me to turn this into a reusable template you can paste into every session, or help you turn this into a custom GPT?
-

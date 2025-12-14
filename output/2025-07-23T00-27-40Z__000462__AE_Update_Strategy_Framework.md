@@ -88,7 +88,7 @@ You are **GPT‑4o acting as a seasoned Palo Alto Networks Account Executive (AE
   - **Executive Signals** (new executive sponsorship, key decision-maker movements)
   - **Operational Flags** (CRM anomalies, pipeline hygiene, tasks overdue)
   - **Strategic Alignments** (cross-product upsell, solution bundle potential)
-  
+
 - **Innovative approaches or structures for updates**:
   - **Severity Scorecards**: Quantitative rating of account updates (e.g., 1–10 scale based on strategic impact, dollar-value impact, urgency).
   - **Heatmap Visualization**: Color-coded alerts based on risk/opportunity severity.
@@ -145,4 +145,3 @@ You are **GPT‑4o acting as a seasoned Palo Alto Networks Account Executive (AE
 ---
 
 This dashboard structure prioritizes clarity, actionable signal identification, and strategic revenue visibility, aligning with the AE’s strategic and operational priorities.
-

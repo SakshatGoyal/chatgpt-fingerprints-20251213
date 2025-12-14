@@ -149,9 +149,9 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:** The paper explores how subtle biases in AI systems can shape emergency decision-making, emphasizing the critical role of framing (prescriptive versus descriptive) in moderating these effects.  
-- **Core Motivations:** Driven by concerns that AI, often perceived as neutral, may inadvertently perpetuate human biases in high-stakes scenarios such as mental health emergencies, the study seeks to understand how different modes of advice delivery can either exacerbate or mitigate these biases.  
-- **Methodological Clarification:** The research employed a controlled experimental design with 954 participants (438 clinicians and 516 non-experts) who responded to crisis call summaries. By varying the AI recommendation format—prescriptive versus descriptive—and introducing biased versus unbiased models, the study isolated the influence of framing on decision-making.  
+- **Key Themes:** The paper explores how subtle biases in AI systems can shape emergency decision-making, emphasizing the critical role of framing (prescriptive versus descriptive) in moderating these effects.
+- **Core Motivations:** Driven by concerns that AI, often perceived as neutral, may inadvertently perpetuate human biases in high-stakes scenarios such as mental health emergencies, the study seeks to understand how different modes of advice delivery can either exacerbate or mitigate these biases.
+- **Methodological Clarification:** The research employed a controlled experimental design with 954 participants (438 clinicians and 516 non-experts) who responded to crisis call summaries. By varying the AI recommendation format—prescriptive versus descriptive—and introducing biased versus unbiased models, the study isolated the influence of framing on decision-making.
 - **Relevance Assessment:** The findings are directly applicable to executive decision-makers tasked with implementing AI systems in critical operations. They underscore the importance of system design and information presentation to prevent inadvertent bias, thereby safeguarding fairness and efficacy in high-stakes decision environments.
 
 ---
@@ -160,32 +160,32 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Insight on Framing Effects in AI-Driven Decisions
 
-**Insight Statement:**  
+**Insight Statement:**
 The study reveals that the manner in which AI recommendations are framed can significantly alter decision outcomes; prescriptive advice from biased AI markedly increases the likelihood of biased decisions, whereas descriptive advice helps decision-makers retain their inherent neutrality. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must balance the efficiency gains from AI decision support with the risk of embedding and amplifying biases, particularly in environments where decisions have critical consequences.  
-- **Underlying Beliefs & Biases:** There is a common assumption that AI outputs are inherently objective; however, this research indicates that the format of the recommendation can trigger unexamined reliance, leading to biased actions.  
-- **Expected vs. Actual Outcomes:** While one might expect decision-makers to critically evaluate AI suggestions, the findings indicate that explicit, prescriptive advice can override independent judgment, whereas descriptive cues allow for more reflective decision-making.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must balance the efficiency gains from AI decision support with the risk of embedding and amplifying biases, particularly in environments where decisions have critical consequences.
+- **Underlying Beliefs & Biases:** There is a common assumption that AI outputs are inherently objective; however, this research indicates that the format of the recommendation can trigger unexamined reliance, leading to biased actions.
+- **Expected vs. Actual Outcomes:** While one might expect decision-makers to critically evaluate AI suggestions, the findings indicate that explicit, prescriptive advice can override independent judgment, whereas descriptive cues allow for more reflective decision-making.
 - **Broader Implications:** This insight challenges prevailing notions about the neutrality of AI and stresses the need for careful framing in the design of decision-support tools, urging leaders to scrutinize not just the data but also its presentation. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The experimental data showed that when participants received prescriptive recommendations from a biased AI, they were significantly more inclined to follow these recommendations—even when such advice was not warranted by the context—compared to scenarios where a descriptive approach was used. This finding is based on direct observations from the controlled study, emphasizing that the impact of framing is both measurable and substantial. **[Empirical]**
 
 ---
 
 ### 2. Insight on the Uniform Influence of AI Bias Across Expertise Levels
 
-**Insight Statement:**  
+**Insight Statement:**
 Despite the expectation that expert training might shield professionals from bias, the study demonstrates that clinicians are just as susceptible as non-experts to the influence of biased, prescriptive AI recommendations. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must recognize that expertise alone does not immunize against cognitive biases introduced by AI; even highly trained professionals can be swayed by the way information is delivered.  
-- **Underlying Beliefs & Biases:** There exists a presumption that experts inherently apply more critical scrutiny to decision inputs. However, the data suggests that structured, prescriptive recommendations can override this safeguard, affecting decision outcomes uniformly across different levels of expertise.  
-- **Expected vs. Actual Outcomes:** The expectation was that professional training would buffer against bias; instead, the study revealed a parity in influence, indicating that the format of AI advice may be a more critical factor than user expertise.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must recognize that expertise alone does not immunize against cognitive biases introduced by AI; even highly trained professionals can be swayed by the way information is delivered.
+- **Underlying Beliefs & Biases:** There exists a presumption that experts inherently apply more critical scrutiny to decision inputs. However, the data suggests that structured, prescriptive recommendations can override this safeguard, affecting decision outcomes uniformly across different levels of expertise.
+- **Expected vs. Actual Outcomes:** The expectation was that professional training would buffer against bias; instead, the study revealed a parity in influence, indicating that the format of AI advice may be a more critical factor than user expertise.
 - **Broader Implications:** This insight calls for the implementation of additional checks within AI systems to mitigate bias, as relying solely on the presumed objectivity of expert decision-makers may be insufficient. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The experiment clearly documented that both clinicians and non-experts exhibited similar response patterns when exposed to prescriptive AI advice, highlighting that even professionals are vulnerable to external biases if the AI's recommendations are framed in a directive manner. This uniformity in response underscores the potential risks of deploying AI without appropriate framing adjustments. **[Empirical]**
 
 ---
@@ -408,21 +408,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -435,4 +435,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T00:47:07.127335+00:00)
 
 Adam, H., Balagopalan, A., Alsentzer, E., Christia, F., & Ghassemi, M. (2022, December 16). Subtle biases in AI can influence emergency decisions. MIT News. https://news.mit.edu/2022/when-subtle-biases-ai-influence-emergency-decisions-1216
-

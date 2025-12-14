@@ -2,11 +2,11 @@
 
 ## You (2025-07-24T13:57:52.896000+00:00)
 
-Help me create a prompt with the following intent. 
+Help me create a prompt with the following intent.
 
 I'm attaching two sets of principles here. One of them is the core foundational set of principles, and the other is more of an ancillary set of insights and information. Now, both of them are critical, but the first one deals with exactly how insights should be looked for in the sense that how an AI system or a person should extract insights from a large dataset. And the second one is more about how they should be phrased, but it has some elements of how the insights should also be looked for. It's going to be tricky, and we want to find the right balance. We don't want to omit anything necessarily, but we want some way to basically integrate both into one system for extracting insights. And for this prompt, I'm going to need the skill set of someone who knows how to conduct design research, knows how to define design principles, ideally someone from IDO or frog design, someone who has a lot of experience leading not just design teams, but product teams, so that's engineering, design, everything, but still has a strong research foundation, so they know how to exactly communicate the process of writing insights.
 
-I'm attaching the two sets below for your context. But don't include too many specifics or the principles themselves in the prompt. 
+I'm attaching the two sets below for your context. But don't include too many specifics or the principles themselves in the prompt.
 
 ---
 AI SYNTHESIS GUIDELINES
@@ -19,17 +19,17 @@ AI SYNTHESIS GUIDELINES
 **Use-cases:**
 
 - When a user filters for deals in the "Critical" or "At-risk" account health category, AI highlights common, high-impact risk factors:
-    
+
     > "8 deals (\$4.2M) marked Critical share common risks: mandatory professional services removed (6 deals), low adoption rate (4 deals)."
-    > 
+    >
 - When filtering opportunities by high-value renewals (> \$1M), identify clusters of risk:
-    
+
     > "3 out of 5 high-value renewals totaling \$7.2M are at-risk due to no partner finalized and pending budget approval."
-    > 
+    >
 - When viewing specific products (e.g., Cortex & Cloud), highlight recurring risks specific to the product:
-    
+
     > "60% of Cortex deals in Pipeline status have risk factors of low customer adoption and no recent EBC activity."
-    > 
+    >
 
 ---
 
@@ -40,17 +40,17 @@ AI SYNTHESIS GUIDELINES
 **Use-cases:**
 
 - When users filter for deals closing soon (<45 days), AI detects stalled progress:
-    
+
     > "4 'Commit' stage deals totaling \$3.1M have had no activity for over 30 days; predominantly in SASE."
-    > 
+    >
 - When filtering for upsell opportunities, pinpoint potential slowdown points:
-    
+
     > "Two large upsell opportunities (\$1.9M) have been stuck in 'Solution' stage beyond average timelines, both lack a secured technical win."
-    > 
+    >
 - When viewing high-value renewals, surface pipeline inactivity:
-    
+
     > "25% of renewals above \$500K show no activity for 30+ days, primarily due to pending quote approvals and lack of partner selection."
-    > 
+    >
 
 ---
 
@@ -61,17 +61,17 @@ AI SYNTHESIS GUIDELINES
 **Use-cases:**
 
 - When filtering for "Commit" forecast deals, highlight contradictions in the data:
-    
+
     > "1 Commit deal valued at \$1.2M (Capstone Logistics) has Critical account health and multiple unresolved risk factors."
-    > 
+    >
 - Upon filtering for large deals, show counterintuitive flags (e.g., high-value "Best Case" deals with extensive risk):
-    
+
     > "2 of your top 5 ‘Best Case’ deals (\$2.3M) exhibit unexpected risk factors: budget conversations incomplete, no technical win secured."
-    > 
+    >
 - When examining net-new opportunities, highlight critical risks that could derail optimistic forecasts:
-    
+
     > "3 of 6 high-value net-new deals forecasted positively (\$2.1M total) currently have critical technical health and zero partner activity."
-    > 
+    >
 
 ---
 
@@ -82,17 +82,17 @@ AI SYNTHESIS GUIDELINES
 **Use-cases:**
 
 - When viewing deals closing in the next 90 days, flag prolonged inactivity:
-    
+
     > "5 high-value (\$2.8M total) opportunities have had zero activity in the past month; most show no EBC engagement."
-    > 
+    >
 - Filtering opportunities by renewal status identifies inactive renewal opportunities:
-    
+
     > "3 of your renewal opportunities totaling \$1.1M have no logged activity for over 45 days, and have mandatory PS removed."
-    > 
+    >
 - Upon examining large enterprise accounts, highlight dormant, high-risk opportunities:
-    
+
     > "2 enterprise accounts (>\$1M each) currently show zero pipeline activities in the last 30 days and risk losing momentum."
-    > 
+    >
 
 ---
 
@@ -128,7 +128,7 @@ This is a great foundation. Let's dive into **discovery mode** first so I can co
 ---
 
 ### 🔍 1. Clarifying the Intent
-You mentioned wanting a **unified system** that synthesizes both sets of principles. Could you clarify the **final output or system behavior** you're hoping the prompt will create?  
+You mentioned wanting a **unified system** that synthesizes both sets of principles. Could you clarify the **final output or system behavior** you're hoping the prompt will create?
 Examples:
 - A model that **generates insights** from structured data using these combined principles?
 - A framework or function that **evaluates whether a given insight follows** both sets of principles?
@@ -149,7 +149,7 @@ Also, how **broadly applicable** do you want the logic to be—specific to the e
 You mentioned not wanting to *omit anything* but still finding the *right balance*. Let’s explore:
 - Would you prefer the **core AI synthesis guidelines** to take precedence, with the **writing guide** acting as a filter/lens?
 - Or should it be a **merge**, where each principle from either set gets a functional role (e.g., some for detection, others for phrasing)?
-  
+
 Also: Should the prompt **prioritize clarity or exhaustiveness** when insights appear ambiguous?
 
 ---
@@ -254,8 +254,8 @@ Once I have your preferences for these dimensions, I’ll be ready to **begin bu
 
 ## You (2025-07-24T14:04:37.165000+00:00)
 
-1. 🧱 Principle Format Expectations: 
-- not bulleted, but in a way that communicates the intent clearly. 
+1. 🧱 Principle Format Expectations:
+- not bulleted, but in a way that communicates the intent clearly.
 - yes
 - yes
 
@@ -264,7 +264,7 @@ Once I have your preferences for these dimensions, I’ll be ready to **begin bu
 - Yes
 
 3. 🧠 Principle Audience and Use
-- yes, its for an AI agent. 
+- yes, its for an AI agent.
 
 4. ⚙️ Integration Strategy Between the Two Sets
 produce two clearly distinguished sections—like “Insight Extraction” and “Insight Articulation”—but built to work as a system
@@ -281,11 +281,8 @@ begin building the prompt
 
 Here's the thoughtfully structured and concise prompt optimized for your intent:
 
-## ChatGPT (2025-07-24T14:04:42.276613+00:00)
 
-{"content_type": "code", "language": "json", "response_format_name": null, "text": "{\"name\":\"ai_insight_principles\",\"type\":\"document\",\"content\":\"**Prompt Objective:**\\nConstruct a clear, structured, and actionable set of guiding principles for AI agents to consistently extract and articulate insights from high-dimensional business datasets. The principles must balance explicit rules (\\\"must-follow\\\") with flexible heuristics (\\\"nice-to-follow\\\") and be generalizable across diverse business data contexts.\\n\\n**Execution Persona:**\\nAssume the role of a seasoned design research strategist from firms like IDEO or Frog, deeply experienced in leading multidisciplinary teams—engineering, design, and product—with a robust foundation in research and synthesis methodology.\\n\\n---\\n\\n### Guiding Principles for AI-driven Insight Synthesis\\n\\nThe following system consists of two complementary, yet distinct sections:\\n\\n## 1. Insight Extraction Principles:\\n\\n**Intent:**\\nClearly guide AI agents on *what* to look for in datasets to reliably surface meaningful insights without prescribing overly restrictive criteria.\\n\\n**Must-follow:**\\n- Prioritize identifying clusters or concentrations of risks, bottlenecks, contradictions, and silent zones.\\n- Always detect contradictions between optimistic forecasts and underlying data realities.\\n- Consistently surface areas with unusual inactivity, especially near critical business timelines.\\n- Quantify insights precisely, focusing on counts, percentages, monetary impact, and timelines.\\n- Remain data-driven without embedding subjective judgment or ungrounded speculation.\\n\\n**Nice-to-follow:**\\n- Prefer highlighting insights that uncover systemic issues, not just isolated incidents.\\n- Identify potential root causes implicitly from recurring patterns in data without explicit causal claims.\\n- Contextualize risks or opportunities by segmenting data into meaningful business categories, stages, or timeframes.\\n- Highlight outliers or anomalies sparingly but clearly to avoid insight overload.\\n\\n## 2. Insight Articulation Principles:\\n\\n**Intent:**\\nPrecisely guide AI agents on *how* to communicate insights, ensuring maximum clarity, readability, and usability for downstream human analysis or decision-making.\\n\\n**Must-follow:**\\n- State insights clearly using plain, concise language without jargon or subjective wording.\\n- Structure each insight explicitly: begin with a quantitative count or percentage, specify the business stage or category involved, describe the nature of risk or bottleneck, and include monetary impact when relevant.\\n- Make each insight independently understandable—users should grasp the importance without additional context.\\n- Avoid prescribing explicit solutions or next steps; instead, present facts neutrally to empower user-driven decision-making.\\n\\n**Nice-to-follow:**\\n- Provide succinct comparative benchmarks or baselines when meaningful (e.g., \\\"above average inactivity\\\").\\n- Use language that subtly directs attention to urgency or magnitude without hyperbole (e.g., \\\"notably high risk,\\\" \\\"significant inactivity\\\").\\n- Keep insights brief yet sufficiently informative to allow quick scanning in busy contexts like meetings or reviews.\\n\\n---\\n\\n**Prompt Instructions for GPT-4o:**\\n- Adhere strictly to the two-section structure above.\\n- Maintain precision, clarity, and objectivity throughout, blending strict rules with practical heuristics.\\n- Ensure principles are applicable across multiple business domains involving high-dimensional data.\\n- Provide clear examples of DOs and DON'Ts for insight articulation when useful to clarify intent without overly restricting flexibility.\\n- Clearly distinguish \\\"must-follow\\\" from \\\"nice-to-follow\\\" principles to guide prioritization during practical implementation.\"}"}
 
 ## ChatGPT (2025-07-24T14:05:46.757156+00:00)
 
 The prompt is structured and ready. If you have any refinements or additional requests, feel free to share!
-

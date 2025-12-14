@@ -2,13 +2,13 @@
 
 ## You (2025-03-26T23:21:02.239000+00:00)
 
-Hey Michael, lets discuss what makes a good insight. 
+Hey Michael, lets discuss what makes a good insight.
 
 here's my opinion. an insight is something that requires true human intuition, observation, and is often a result of two opposing forces clashing with one another. the two opposing forces in this case is two pieces of information. Here's an example of a good insight
 
 "while most experts believe that taking short breaks throughout the day can boost productivity, users still see them as unimportant and avoidable"
 
-this was a result of user interviews with experts, as well as individual information workers. An insight often shows a thought provoking dichotomy. 
+this was a result of user interviews with experts, as well as individual information workers. An insight often shows a thought provoking dichotomy.
 
 what do you think?
 
@@ -62,7 +62,7 @@ Ok, now i need your help as someone who's great at drawing themes in an Inductiv
 
 In inductive thematic analysis, a person approaches their data with an open mind, free from predetermined categories or theoretical biases. They carefully and repeatedly engage with the data, allowing patterns and themes to emerge naturally. This method helps them discover new insights that existing theories might miss. It is important for them to maintain reflexivity to accurately represent the participants’ experiences and meanings.
 
-Based on those themes, I want you to draw insights. 
+Based on those themes, I want you to draw insights.
 
 Give me atleast 3 insights in the following format:
 
@@ -87,9 +87,9 @@ For your context, we were evaluating prompt designs from different users. We cre
 - **Low (2)**: “Help me decide what project to do.”
 - **Mid (6)**: “Think step by step to evaluate which project idea is best.”
 - **High (10)**:
-    
+
     > “List my three project ideas. For each, evaluate its feasibility, impact, and time required. Then recommend the best one and explain your reasoning step by step.”
-    > 
+    >
 
 ---
 
@@ -107,9 +107,9 @@ For your context, we were evaluating prompt designs from different users. We cre
 - **Low (2)**: “Brainstorm something interesting.”
 - **Mid (6)**: “Help me write better emails.”
 - **High (10)**:
-    
+
     > “Using step-by-step reasoning, generate three options for a persuasive email to a hesitant stakeholder, then choose the strongest and explain why.”
-    > 
+    >
 
 ---
 
@@ -127,9 +127,9 @@ For your context, we were evaluating prompt designs from different users. We cre
 - **Low (1)**: “Help me make a presentation.”
 - **Mid (3)**: “Help me make a presentation for my team.”
 - **High (5)**:
-    
+
     > “Help me make a 10-slide presentation for the marketing team on our Q1 metrics, emphasizing visual clarity and key takeaways.”
-    > 
+    >
 
 ---
 
@@ -165,8 +165,8 @@ For your context, we were evaluating prompt designs from different users. We cre
 - **5**: Highly adaptable and inventive.
 
 ---
-Based on this rubric, we evaluated each prompt. 
-Use the .md file I've attached here as the source for all those scores. I had to use .md because there were issues uploading a .csv file. But if you have any issues interpretting the file, please let me know. 
+Based on this rubric, we evaluated each prompt.
+Use the .md file I've attached here as the source for all those scores. I had to use .md because there were issues uploading a .csv file. But if you have any issues interpretting the file, please let me know.
 
 Make sure the themes you draw are grounded only based on the prompts and there scores, and what those scores tell us. Avoid deriving speculative themes, but if you do so by accident, please flag it as [speculative]
 
@@ -179,10 +179,10 @@ Great—thank you for the context and for such a clear setup. Drawing from the i
 ### **Insight 1:**
 **"Even when prompts show high task relevance, they often lack structured reasoning to guide the model effectively."**
 
-**Brief Description:**  
+**Brief Description:**
 Many user prompts align well with real-world professional tasks, yet fail to include clear, step-by-step thinking. This limits the model's ability to provide nuanced or strategic responses.
 
-**Opposing Themes:**  
+**Opposing Themes:**
 - **Theme 1:** *Prompts often demonstrate high purposefulness and realism (e.g., workplace relevance scored 8–10).*
 - **Theme 2:** *Despite this, they score low on clarity of reasoning structure (e.g., CoT structure scores between 1–3 in many high-relevance prompts).*
 
@@ -193,10 +193,10 @@ Many user prompts align well with real-world professional tasks, yet fail to inc
 ### **Insight 2:**
 **"Rich context doesn’t guarantee high reasoning quality—users often over-describe the task without scaffolding the thinking process."**
 
-**Brief Description:**  
+**Brief Description:**
 Several prompts provide dense contextual information (e.g., attached documents, goals, constraints) but stop short of organizing that information into a logical sequence for the model to process.
 
-**Opposing Themes:**  
+**Opposing Themes:**
 - **Theme 1:** *High scores for specificity and context (many scoring 4–5), showing detailed task framing and constraints.*
 - **Theme 2:** *Moderate-to-low CoT appropriateness and clarity of reasoning structure (e.g., scores ranging from 2–4), indicating a lack of structured guidance.*
 
@@ -207,10 +207,10 @@ Several prompts provide dense contextual information (e.g., attached documents, 
 ### **Insight 3:**
 **"Creativity thrives most when foundational structure is already strong—originality appears more in high-clarity, high-reasoning prompts."**
 
-**Brief Description:**  
+**Brief Description:**
 Creative and adaptable prompts—those that score high on flexibility and inventiveness—tend to also score well on clarity and reasoning. This suggests that creativity is enhanced, not hindered, by structure.
 
-**Opposing Themes:**  
+**Opposing Themes:**
 - **Theme 1:** *High creativity and adaptability (4–5) often correlate with high language clarity and structured reasoning (scores of 7–10).*
 - **Theme 2:** *Prompts that lack structure or clarity tend to also fall flat creatively (scoring 1–2), indicating that originality doesn't emerge from vagueness.*
 
@@ -224,11 +224,11 @@ Would you like me to extend this with additional insights or map these to design
 
 ok, thanks for all this, this is a big help. but a lot of these insights are almost paralyzing -- while they're thought provoking, they make you think "now what could possibly be done about this?".
 
-Now, i want to shift gears. 
+Now, i want to shift gears.
 
-Imagine yourself as a creative director at IDEO with years of experience turning thought-provoking yet paralyzing insights into actionable takeaways. 
+Imagine yourself as a creative director at IDEO with years of experience turning thought-provoking yet paralyzing insights into actionable takeaways.
 
-Based on the 3 insights, I want you to conclude with a series of takeaways that a product team might find meaningful. the takeaways should be **“people” problems, and solution agnostic**. 
+Based on the 3 insights, I want you to conclude with a series of takeaways that a product team might find meaningful. the takeaways should be **“people” problems, and solution agnostic**.
 
 The product team is a strategic team trying to understand how people perceive AI.
 
@@ -243,7 +243,7 @@ So, slipping into the mindset of a Creative Director at IDEO, here’s how I’d
 ## 🔁 Insight 1 Recap:
 **"Even when prompts show high task relevance, they often lack structured reasoning to guide the model effectively."**
 
-### 🧠 Takeaway 1:  
+### 🧠 Takeaway 1:
 **People often know *what* they want AI to help with, but they struggle to articulate *how* they want it to think.**
 
 This is not a technical barrier—it’s a literacy gap in framing cognition. People are unsure how to “talk” to AI in a way that shapes its reasoning. There's a need to understand what scaffolding even *looks* like in a prompt. This gap is not about intelligence; it’s about mental models.
@@ -255,7 +255,7 @@ This is not a technical barrier—it’s a literacy gap in framing cognition. Pe
 ## 🧱 Insight 2 Recap:
 **"Rich context doesn’t guarantee high reasoning quality—users often over-describe the task without scaffolding the thinking process."**
 
-### 🧠 Takeaway 2:  
+### 🧠 Takeaway 2:
 **People tend to overcompensate for their uncertainty about AI by adding more context, rather than more structure.**
 
 There’s a kind of *information panic* at play—people dump details into the prompt, hoping the AI will make sense of it. It reveals a deeper anxiety: *“If I don’t tell it everything, it might get it wrong.”* But what people lack is trust in what the AI *needs*—and how much is too much.
@@ -267,7 +267,7 @@ There’s a kind of *information panic* at play—people dump details into the p
 ## 🎨 Insight 3 Recap:
 **"Creativity thrives most when foundational structure is already strong."**
 
-### 🧠 Takeaway 3:  
+### 🧠 Takeaway 3:
 **People are most imaginative with AI when they feel anchored—they need clarity before they feel creative.**
 
 This reveals that prompting isn’t just technical—it's emotional. People need to feel confident in the "setup" before they take creative risks. Without that foundation, creativity becomes paralyzing rather than generative.
@@ -292,7 +292,7 @@ Would you like to explore how these could shape future research prompts, or how 
 
 ## You (2025-03-26T23:44:42.865000+00:00)
 
-Ok, thanks a lot for this. Now, I want you think back on your role as an inductive thematic analyst. We outlined a total of 6 opposing themes. For each of those themes, I want you to give me an example prompt from the attached file that most strongly represents the theme you outlined. 
+Ok, thanks a lot for this. Now, I want you think back on your role as an inductive thematic analyst. We outlined a total of 6 opposing themes. For each of those themes, I want you to give me an example prompt from the attached file that most strongly represents the theme you outlined.
 
 Make sure you only stick to the examples from the attached .md file
 
@@ -308,18 +308,18 @@ Absolutely—let’s revisit the **six opposing themes** we surfaced earlier acr
 ---
 
 #### 🌓 **Theme 1A: Prompts often demonstrate high purposefulness and realism**
-**Example Prompt:**  
-**ID #21**  
-> *"I want to create a business to empower women to have access to their health data to navigate menopause. Give me some options of what the business model would look like."*  
-- **Task Relevance:** 8  
+**Example Prompt:**
+**ID #21**
+> *"I want to create a business to empower women to have access to their health data to navigate menopause. Give me some options of what the business model would look like."*
+- **Task Relevance:** 8
 - **Real-world, clear intent around a social impact business.**
 
 ---
 
 #### 🌓 **Theme 1B: Despite this, they score low on clarity of reasoning structure**
-**Example Prompt:**  
-**ID #21 (same as above)**  
-- **Clarity of Reasoning Structure:** 3  
+**Example Prompt:**
+**ID #21 (same as above)**
+- **Clarity of Reasoning Structure:** 3
 - The prompt lacks any instruction for step-by-step thinking or how the AI should organize its response, despite having a strong purpose.
 
 ---
@@ -330,18 +330,18 @@ Absolutely—let’s revisit the **six opposing themes** we surfaced earlier acr
 ---
 
 #### 🌓 **Theme 2A: High scores for specificity and context**
-**Example Prompt:**  
-**ID #47**  
-> *"Hello. I am trying to determine whether it is more beneficial for our company to buy a modular building out right for $350,000 or rent it for 5 years for $25,000 a month plus demobilization fee of $40,000. Current loan rates are 8%. Please explain your answer."*  
-- **Specificity & Context:** 4  
+**Example Prompt:**
+**ID #47**
+> *"Hello. I am trying to determine whether it is more beneficial for our company to buy a modular building out right for $350,000 or rent it for 5 years for $25,000 a month plus demobilization fee of $40,000. Current loan rates are 8%. Please explain your answer."*
+- **Specificity & Context:** 4
 - Includes concrete numbers, scenario, and a financial decision frame.
 
 ---
 
 #### 🌓 **Theme 2B: Moderate-to-low reasoning structure**
-**Example Prompt:**  
-**ID #47 (same as above)**  
-- **Clarity of Reasoning Structure:** 4  
+**Example Prompt:**
+**ID #47 (same as above)**
+- **Clarity of Reasoning Structure:** 4
 - While it *asks* for an explanation, it does not scaffold or sequence the thinking process, leading to possible gaps or missed logic by the AI.
 
 ---
@@ -352,21 +352,21 @@ Absolutely—let’s revisit the **six opposing themes** we surfaced earlier acr
 ---
 
 #### 🌓 **Theme 3A: High creativity and adaptability often correlate with strong structure**
-**Example Prompt:**  
-**ID #77**  
-> *"I want to craft a LinkedIn headline that stands out... [includes detailed format guidelines, persona, examples, keywords, industry focus, etc.]"*  
-- **Clarity of Reasoning Structure:** 7  
-- **Creativity & Adaptability:** 3  
+**Example Prompt:**
+**ID #77**
+> *"I want to craft a LinkedIn headline that stands out... [includes detailed format guidelines, persona, examples, keywords, industry focus, etc.]"*
+- **Clarity of Reasoning Structure:** 7
+- **Creativity & Adaptability:** 3
 - While this isn’t the most creative *topic*, the format unlocks a highly adaptable output. The prompt is methodical yet open-ended enough to yield novel, reusable ideas.
 
 ---
 
 #### 🌓 **Theme 3B: Low structure leads to low creativity**
-**Example Prompt:**  
-**ID #2**  
-> *"j"*  
-- **Clarity of Reasoning Structure:** 0  
-- **Creativity & Adaptability:** 0  
+**Example Prompt:**
+**ID #2**
+> *"j"*
+- **Clarity of Reasoning Structure:** 0
+- **Creativity & Adaptability:** 0
 - This is an extreme case, but it perfectly illustrates how absence of structure or clarity results in zero creative potential or usability.
 
 ---
@@ -385,4 +385,3 @@ Absolutely—let’s revisit the **six opposing themes** we surfaced earlier acr
 ---
 
 Would you like help visualizing these examples in a matrix or spectrum to help your team internalize the theme pairs? Or perhaps translate them into example training or onboarding materials for better prompt literacy?
-

@@ -24,4 +24,3 @@ From the four advisors:
 - **John Maeda** would complement the process by ensuring clarity, simplicity, and computational alignment in design principles, bringing data-driven, scalable thinking to refine and stress-test principles for broad applicability and monetizable outcomes.
 
 Thus, for your goal—creating a monetizable AI strategist—**Julie Zhuo** and **Tim Brown** will provide foundational insights and takeaways, with **Bill Buxton** and **John Maeda** refining and sharpening actionable, robust principles for shaping future product directions【5†source】.
-

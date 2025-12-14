@@ -152,37 +152,37 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 - **Key Themes:** The paper examines how two strategic imperatives—vertical integration and first mover advantage—can drive competitive success in the small launcher segment of the New Space industry.
 - **Core Motivations:** Motivated by the need to mitigate operational risks and accelerate technological innovation in a fiercely competitive and rapidly evolving market, the study seeks to determine whether controlling the supply chain and being an early market entrant translates into sustainable leadership.
 - **Methodological Clarification:** Employing an extensive literature review and comparative case analysis (notably of Rocket Lab versus legacy industry examples), the research synthesizes qualitative insights with quantitative indicators such as launch success rates and market growth forecasts. Limitations include reliance on secondary data and historical parallels that may not fully capture future uncertainties.
-- **Relevance Assessment:** For executives, the findings offer actionable insights on balancing in-house process control against market responsiveness and underscore that early strategic advantages must be continuously nurtured to remain viable in dynamic industries. citeturn0file0
+- **Relevance Assessment:** For executives, the findings offer actionable insights on balancing in-house process control against market responsiveness and underscore that early strategic advantages must be continuously nurtured to remain viable in dynamic industries.
 
 ## Grounded Executive Insights
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Adopting vertical integration in small launcher companies enables tighter control over production and R&D processes, effectively reducing supply chain risks while fostering rapid technological innovation. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders must decide whether to commit significant capital to integrating supply chain operations in-house versus relying on external partners, balancing risk reduction against potential inflexibility.  
-- **Underlying Beliefs & Biases:** There is a prevailing assumption that owning critical production stages inherently ensures operational superiority; however, this may lead to overconfidence in the ability to manage complex in-house systems.  
-- **Expected vs. Actual Outcomes:** While vertical integration is expected to lower transaction costs and streamline innovation cycles, empirical evidence from Rocket Lab suggests that such a strategy also delivers enhanced reliability and faster response times under market pressures.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders must decide whether to commit significant capital to integrating supply chain operations in-house versus relying on external partners, balancing risk reduction against potential inflexibility.
+- **Underlying Beliefs & Biases:** There is a prevailing assumption that owning critical production stages inherently ensures operational superiority; however, this may lead to overconfidence in the ability to manage complex in-house systems.
+- **Expected vs. Actual Outcomes:** While vertical integration is expected to lower transaction costs and streamline innovation cycles, empirical evidence from Rocket Lab suggests that such a strategy also delivers enhanced reliability and faster response times under market pressures.
 - **Broader Implications:** Executives should consider that while integrated supply chains can secure a competitive edge, they also entail risks of overinvestment and reduced adaptability in rapidly shifting markets. **[Empirical]**
 
-**3. Supporting Context**  
-The paper details how Rocket Lab’s implementation of vertical integration—demonstrated by its use of additive manufacturing and proprietary engine development—has resulted in a reported launch success rate of 94.4% over 18 flights. This empirical evidence highlights that owning upstream and downstream operations can accelerate innovation and mitigate risks associated with traditional supplier dependencies. **[Empirical]** citeturn0file0
+**3. Supporting Context**
+The paper details how Rocket Lab’s implementation of vertical integration—demonstrated by its use of additive manufacturing and proprietary engine development—has resulted in a reported launch success rate of 94.4% over 18 flights. This empirical evidence highlights that owning upstream and downstream operations can accelerate innovation and mitigate risks associated with traditional supplier dependencies. **[Empirical]**
 
 ---
 
-**1. Insight Statement**  
+**1. Insight Statement**
 While first mover advantage offers early entrants valuable learning curve benefits and reputational gains, it is not a panacea; market dynamics and competitor innovation can erode this lead over time. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives face the challenge of whether to aggressively pursue early market entry to capture initial market share or to adopt a more measured approach that might allow for iterative innovation and risk mitigation.  
-- **Underlying Beliefs & Biases:** The common belief that being first automatically guarantees long-term dominance can obscure the risks of market saturation and technological catch-up by later entrants.  
-- **Expected vs. Actual Outcomes:** Although first mover status is anticipated to secure enduring market leadership, historical cases—from Rocket Lab’s early successes to the volatility observed in the commercial aviation sector—demonstrate that initial advantages may diminish as competitors learn and adapt.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives face the challenge of whether to aggressively pursue early market entry to capture initial market share or to adopt a more measured approach that might allow for iterative innovation and risk mitigation.
+- **Underlying Beliefs & Biases:** The common belief that being first automatically guarantees long-term dominance can obscure the risks of market saturation and technological catch-up by later entrants.
+- **Expected vs. Actual Outcomes:** Although first mover status is anticipated to secure enduring market leadership, historical cases—from Rocket Lab’s early successes to the volatility observed in the commercial aviation sector—demonstrate that initial advantages may diminish as competitors learn and adapt.
 - **Broader Implications:** Decision-makers must continuously invest in innovation and market alignment to preserve early gains, understanding that first mover advantages require ongoing reinforcement rather than resting on past laurels. **[Empirical]**
 
-**3. Supporting Context**  
-Empirical data in the paper illustrates that Rocket Lab, with 19 launches and 109 satellites deployed, has leveraged its early entry to build a robust operational foundation. However, historical comparisons—such as the fate of pioneering firms in the aviation industry—underscore that early success does not immunize a company from competitive pressures. This analysis urges executives to balance the benefits of early market presence with the necessity for sustained adaptation. **[Empirical]** citeturn0file0
+**3. Supporting Context**
+Empirical data in the paper illustrates that Rocket Lab, with 19 launches and 109 satellites deployed, has leveraged its early entry to build a robust operational foundation. However, historical comparisons—such as the fate of pioneering firms in the aviation industry—underscore that early success does not immunize a company from competitive pressures. This analysis urges executives to balance the benefits of early market presence with the necessity for sustained adaptation. **[Empirical]**
 
 ---
 
@@ -404,21 +404,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -431,4 +431,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T01:45:10.921175+00:00)
 
 Cayssiols, V., & Duran, J. (2021). A study on vertical integration and first mover advantage as success drivers for small launcher companies. Toulouse Business School.
-

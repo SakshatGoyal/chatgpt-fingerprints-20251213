@@ -184,23 +184,23 @@ Once you confirm or update those, I’ll proceed to **begin creating the prompt*
 ## You (2025-03-21T05:24:45.267000+00:00)
 
 1. **Execution Persona Nuance**: You’ve noted that the AI should behave like a “skeptical analyst” or “devil’s advocate.” Would you like to explicitly encode a persona like *Harvard Business School professor*, *behavioral economist*, or *decision science researcher* to guide the tone and frame of interrogation?
-    
+
     Answer: Yes, stick with the Harvard Business School professor
-    
+
 2. **Cognitive Lens Preference**: Should the AI emphasize specific cognitive science tools—e.g., dual-process theory, bounded rationality, heuristics and biases literature, or complexity theory—or should it take a general critical reasoning lens?
-    
+
     Answer: a general critical reasoning lens
-    
+
 3. **Depth vs. Brevity**: Would you prefer:
     - A *concise but sharp* critique (~2-3 paragraphs per section), or
     - A *deep, layered breakdown* (~4-5 paragraphs with nuance, tradeoffs, and analytic scaffolding)?
-    
+
     Answer: A concise but sharp critique
-    
+
 4. **Sensitivity to Input Certainty**: Should the AI adjust its skepticism level based on how confident or conditional the insight appears (e.g., “Executives should” vs. “Executives may benefit from…”)? Or should it treat all insights with the same level of interrogation?
-    
+
     Answer: Yes, lets adjust its skepticism based on how confident the insight appears.
-    
+
 5. **Toggle Parameters**: Would you like the “Reflection” section to be optional via a parameter (`reflection: true/false`), or is it always required?
 
 Answer: Lets keep reflection as always.
@@ -230,60 +230,60 @@ For each provided insight, return the following structured output:
 
 ---
 
-🔹 **ORIGINAL INSIGHT**:  
+🔹 **ORIGINAL INSIGHT**:
 [Restate the insight exactly as provided.]
 
 ---
 
-**COUNTERFACTUAL SCENARIO**  
-Construct a **realistic, internally coherent** scenario where this insight would **not hold true**.  
-- Include decision environment, organization type, and key constraints.  
-- Be fictional but plausible.  
+**COUNTERFACTUAL SCENARIO**
+Construct a **realistic, internally coherent** scenario where this insight would **not hold true**.
+- Include decision environment, organization type, and key constraints.
+- Be fictional but plausible.
 - Avoid unnecessary narrative elements—focus on **decision-relevant variables**.
 
 ---
 
-**ASSUMPTIONS & BIASES**  
-List implicit assumptions and potential cognitive biases underpinning the insight.  
-- Examples: Overconfidence, groupthink, availability bias, flawed causality, etc.  
-- Be concise but incisive.  
+**ASSUMPTIONS & BIASES**
+List implicit assumptions and potential cognitive biases underpinning the insight.
+- Examples: Overconfidence, groupthink, availability bias, flawed causality, etc.
+- Be concise but incisive.
 - Consider whether phrasing (e.g., “Executives should...”) signals overgeneralization.
 
 ---
 
-**CONTEXT LIMITATIONS**  
-Explain where or when this insight may break down.  
-- Assess industry type, market dynamics, organizational size, cultural or regulatory factors.  
+**CONTEXT LIMITATIONS**
+Explain where or when this insight may break down.
+- Assess industry type, market dynamics, organizational size, cultural or regulatory factors.
 - Pay special attention to **edge cases and exceptions**.
 
 ---
 
-**REFLECTION**  
-If the analysis reveals tension, ambiguity, or dependency on fragile assumptions, call it out.  
-- Do **not** recommend corrections or restatements.  
+**REFLECTION**
+If the analysis reveals tension, ambiguity, or dependency on fragile assumptions, call it out.
+- Do **not** recommend corrections or restatements.
 - Instead, neutrally observe any **trade-offs**, **blind spots**, or **conditional dependencies**.
 
 ---
 
 #### ⚠️ WARNINGS & GUARDRAILS
 
-- **DO NOT** rewrite or editorialize the insight.  
-- **DO NOT** generate real-world company examples unless mentioned in the source input.  
-- **DO NOT** suggest what executives *should* do.  
-- **DO NOT** validate or reject the insight—**only analyze it**.  
-- Maintain a **critical, skeptical tone**, appropriate for a high-level academic interrogation.  
+- **DO NOT** rewrite or editorialize the insight.
+- **DO NOT** generate real-world company examples unless mentioned in the source input.
+- **DO NOT** suggest what executives *should* do.
+- **DO NOT** validate or reject the insight—**only analyze it**.
+- Maintain a **critical, skeptical tone**, appropriate for a high-level academic interrogation.
 - If the insight uses soft qualifiers ("may", "tend to", etc.), **adjust the intensity of your skepticism accordingly**.
 
 ---
 
 #### 📚 CONTEXT & EXECUTION PERSONA
 
-- **Persona**: A Harvard Business School professor with expertise in strategic decision-making and behavioral analysis.  
-- **Analytical Mode**: General critical reasoning lens (no strict adherence to cognitive science frameworks).  
-- **Output Style**: Concise but sharp. Each section should be approximately 2–3 paragraphs.  
-- **Input Format**: One insight per run, as plain text in the format:  
-  ```  
-  INSIGHT: “...”  
+- **Persona**: A Harvard Business School professor with expertise in strategic decision-making and behavioral analysis.
+- **Analytical Mode**: General critical reasoning lens (no strict adherence to cognitive science frameworks).
+- **Output Style**: Concise but sharp. Each section should be approximately 2–3 paragraphs.
+- **Input Format**: One insight per run, as plain text in the format:
+  ```
+  INSIGHT: “...”
   ```
 
 ---
@@ -300,17 +300,17 @@ hey just one thing i want to clarify for your context. I currently have a few ru
 
 Got it—super helpful clarification.
 
-So to restate for alignment:  
+So to restate for alignment:
 
-- **Step 1A** = Extract key insights from research papers or industry reports. Each response returns several well-formed insights.  
-- **Step 1B** = Apply this new prompt to **each individual insight**, using the *entire Step 1A output* as context when needed.  
+- **Step 1A** = Extract key insights from research papers or industry reports. Each response returns several well-formed insights.
+- **Step 1B** = Apply this new prompt to **each individual insight**, using the *entire Step 1A output* as context when needed.
 
-This means:  
-- The **input** to Step 1B is the **prior model’s full output** (likely a list of insights), and  
+This means:
+- The **input** to Step 1B is the **prior model’s full output** (likely a list of insights), and
 - The Step 1B prompt must **parse each insight**, then **analyze each one individually**, using the surrounding context if necessary for interpretation—**but without rewriting or reinterpreting the insight itself**.
 
-Would you like this updated prompt to:  
-1. **Auto-iterate** over all insights in the Step 1A output?  
+Would you like this updated prompt to:
+1. **Auto-iterate** over all insights in the Step 1A output?
 2. Or take just **one specific insight at a time**, with the rest of Step 1A available as context?
 
 And do the Step 1A responses always use a consistent format (e.g., `INSIGHT 1:`, `INSIGHT 2:` etc.)?
@@ -353,56 +353,56 @@ For **each individual insight**, return the following:
 
 ---
 
-🔹 **ORIGINAL INSIGHT**  
+🔹 **ORIGINAL INSIGHT**
 Restate the insight *exactly* as provided—no edits.
 
 ---
 
-**COUNTERFACTUAL SCENARIO**  
-Describe a specific, **plausible, and realistic** scenario in which this insight would not hold true.  
-- Include organization type, decision environment, and key constraints.  
-- Keep it fictional but grounded.  
+**COUNTERFACTUAL SCENARIO**
+Describe a specific, **plausible, and realistic** scenario in which this insight would not hold true.
+- Include organization type, decision environment, and key constraints.
+- Keep it fictional but grounded.
 - Do not invent real companies unless named in the input.
 
 ---
 
-**ASSUMPTIONS & BIASES**  
-Identify implicit assumptions, mental models, or cognitive biases embedded in the insight.  
-- Look for overgeneralization, flawed causality, trend-following, risk aversion, etc.  
+**ASSUMPTIONS & BIASES**
+Identify implicit assumptions, mental models, or cognitive biases embedded in the insight.
+- Look for overgeneralization, flawed causality, trend-following, risk aversion, etc.
 - Consider how the **strength of the language** (e.g., “should” vs. “may”) reflects overconfidence.
 
 ---
 
-**CONTEXT LIMITATIONS**  
-Explain **where or when** the insight may fail.  
-- Reference relevant variables like industry, organizational scale, regulatory complexity, or customer expectations.  
+**CONTEXT LIMITATIONS**
+Explain **where or when** the insight may fail.
+- Reference relevant variables like industry, organizational scale, regulatory complexity, or customer expectations.
 - Highlight edge cases or breakpoints.
 
 ---
 
-**REFLECTION**  
-If contradictions, ambiguities, or trade-offs arise during analysis, point them out clearly.  
-- This is a space for *critical observation*, not resolution or revision.  
+**REFLECTION**
+If contradictions, ambiguities, or trade-offs arise during analysis, point them out clearly.
+- This is a space for *critical observation*, not resolution or revision.
 - Do not propose alternative formulations or advice.
 
 ---
 
 ### ⚠️ WARNINGS & GUARDRAILS
 
-- **DO NOT** revise, rephrase, or editorialize any insight.  
-- **DO NOT** validate, endorse, or suggest what executives *should* do.  
-- **DO NOT** hallucinate real-world case studies unless explicitly named in the input.  
-- **DO NOT** skip insights with vague or qualified phrasing—analyze them with appropriate skepticism.  
+- **DO NOT** revise, rephrase, or editorialize any insight.
+- **DO NOT** validate, endorse, or suggest what executives *should* do.
+- **DO NOT** hallucinate real-world case studies unless explicitly named in the input.
+- **DO NOT** skip insights with vague or qualified phrasing—analyze them with appropriate skepticism.
 - Maintain a **consistently analytical, skeptical tone**.
 
 ---
 
 ### 🧠 EXECUTION PROFILE
 
-- **Persona**: Harvard Business School professor, expert in decision science and strategic behavior.  
-- **Tone**: Sharp, skeptical, diagnostic—not advisory or constructive.  
-- **Reasoning Mode**: General critical reasoning, with awareness of organizational, behavioral, and contextual factors.  
-- **Output Depth**: Concise but sharp—~2–3 paragraphs per section.  
+- **Persona**: Harvard Business School professor, expert in decision science and strategic behavior.
+- **Tone**: Sharp, skeptical, diagnostic—not advisory or constructive.
+- **Reasoning Mode**: General critical reasoning, with awareness of organizational, behavioral, and contextual factors.
+- **Output Depth**: Concise but sharp—~2–3 paragraphs per section.
 - **Iteration**: Process **all insights** found in the input.
 
 ---
@@ -410,4 +410,3 @@ If contradictions, ambiguities, or trade-offs arise during analysis, point them 
 This prompt is designed for high-rigor, multi-insight analysis workflows in GPT-4 Turbo (O3 mode), as part of your broader system to model executive cognition under uncertainty.
 
 Let me know if you'd like a variant that processes **only one insight at a time with shared context**, or adapts for other analytical personas.
-

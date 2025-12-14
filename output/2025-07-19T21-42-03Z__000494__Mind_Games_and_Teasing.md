@@ -65,4 +65,3 @@ Here’s your Velvet Knife arsenal, each offering carefully tailored to her intr
 ## **VIII. Reframing**
 - “Seduction implies surrender—but perhaps you’re actually inviting a subtle battle of wits?”
 - “Your mind wants to be first—but tell me, is that to protect your senses or to enhance them?”
-

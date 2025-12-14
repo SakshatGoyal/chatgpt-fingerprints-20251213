@@ -85,4 +85,3 @@ CATEGORICAL MODULE 29 - C2-I4,Strategy Model Evaluation,Unbound,Sequenced Timing
 CATEGORICAL MODULE 31 - C2-I3,Innovation Program Structuring,Limited Mandates,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice
 CATEGORICAL MODULE 32 - C2-I4,Platform Architecture Design,Limited Mandates,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
 CATEGORICAL MODULE 19 - C2-I4,Human Capital Development,Unbound,Sequenced Timing,Regional,Componentized,Medium-Term Resilience,Interpretive Practice
-

@@ -64,25 +64,24 @@ Start with the first 20 modules in the .txt file. Output only the CSV.
 
 ## ChatGPT (2025-04-09T18:41:20.662159+00:00)
 
-Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability  
-CATEGORICAL MODULE 12 - C3-I3,Portfolio Reassessment,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 20 - C3-I3,R&D Prioritization,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 29 - C3-I3,Capital Allocation,Mandate-Driven,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 31 - C3-I3,Reputation Management,Limited Mandates,Independent Timing,Global,Interlinked,Short-Term Return,Interpretive Practice  
-CATEGORICAL MODULE 40 - C3-I3,Ethics Evaluation,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 41 - C3-I3,R&D Investment Planning,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 43 - C3-I3,Resource Reconfiguration,Limited Mandates,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 44 - C3-I3,Molecular Modeling Integration,Mandate-Driven,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 12 - C3-I5,Tech Budget Allocation,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 38 - C3-I5,AI Risk Coordination,Limited Mandates,Coordinated Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 39 - C3-I5,Legacy Modernization,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 34 - C3-I6,Workflow Automation,Mandate-Driven,Sequenced Timing,Global,Componentized,Short-Term Return,Fully Systematized  
-CATEGORICAL MODULE 52 - C3-I6,Adoption Tracking,Limited Mandates,Independent Timing,Regional,Componentized,Short-Term Return,Fully Systematized  
-CATEGORICAL MODULE 56 - C3-I6,Data Utilization,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise  
-CATEGORICAL MODULE 12 - C4-I3,Credit Deployment Strategy,Mandate-Driven,Sequenced Timing,National,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 17 - C4-I3,Security Risk Balancing,Mandate-Driven,Sequenced Timing,National,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 24 - C4-I3,Sustainable Supply Integration,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise  
-CATEGORICAL MODULE 14 - C4-I5,Vision Alignment,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice  
-CATEGORICAL MODULE 20 - C4-I5,Vaccine Strategy Alignment,Mandate-Driven,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice  
+Module ID,Functional Modality,Regulatory Exposure,Timing Dependency,Market Dispersion,Process Modularity,Value Timeframe,Knowledge Transferability
+CATEGORICAL MODULE 12 - C3-I3,Portfolio Reassessment,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 20 - C3-I3,R&D Prioritization,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 29 - C3-I3,Capital Allocation,Mandate-Driven,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 31 - C3-I3,Reputation Management,Limited Mandates,Independent Timing,Global,Interlinked,Short-Term Return,Interpretive Practice
+CATEGORICAL MODULE 40 - C3-I3,Ethics Evaluation,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 41 - C3-I3,R&D Investment Planning,Mandate-Driven,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 43 - C3-I3,Resource Reconfiguration,Limited Mandates,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 44 - C3-I3,Molecular Modeling Integration,Mandate-Driven,Coordinated Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 12 - C3-I5,Tech Budget Allocation,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 38 - C3-I5,AI Risk Coordination,Limited Mandates,Coordinated Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 39 - C3-I5,Legacy Modernization,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 34 - C3-I6,Workflow Automation,Mandate-Driven,Sequenced Timing,Global,Componentized,Short-Term Return,Fully Systematized
+CATEGORICAL MODULE 52 - C3-I6,Adoption Tracking,Limited Mandates,Independent Timing,Regional,Componentized,Short-Term Return,Fully Systematized
+CATEGORICAL MODULE 56 - C3-I6,Data Utilization,Limited Mandates,Sequenced Timing,Global,Componentized,Short-Term Return,Guided Expertise
+CATEGORICAL MODULE 12 - C4-I3,Credit Deployment Strategy,Mandate-Driven,Sequenced Timing,National,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 17 - C4-I3,Security Risk Balancing,Mandate-Driven,Sequenced Timing,National,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 24 - C4-I3,Sustainable Supply Integration,Limited Mandates,Sequenced Timing,Global,Componentized,Medium-Term Resilience,Guided Expertise
+CATEGORICAL MODULE 14 - C4-I5,Vision Alignment,Limited Mandates,Sequenced Timing,Regional,Interlinked,Medium-Term Resilience,Interpretive Practice
+CATEGORICAL MODULE 20 - C4-I5,Vaccine Strategy Alignment,Mandate-Driven,Sequenced Timing,Global,Interlinked,Medium-Term Resilience,Interpretive Practice
 CATEGORICAL MODULE 11 - C4-I6,AI Implementation Coordination,Limited Mandates,Coordinated Timing,National,Interlinked,Medium-Term Resilience,Interpretive Practice
-

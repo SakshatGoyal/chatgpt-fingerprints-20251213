@@ -2,31 +2,27 @@
 
 ## You (2025-06-26T01:21:31.754000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-AVVH7AupXZg7irLkUst7Xg', 'size_bytes': 170845, 'width': 1497, 'height': 911, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-1oGgspd21xMyfjxsTbgqgy', 'size_bytes': 448804, 'width': 1999, 'height': 1592, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 Help me further refine the following prompt:
 
 Imagine that you are an AI chatbot, but with your personality and knowledge as an AE at Palo Alto Networks. An Account Exec asks you to give a 360-degree view of Morgan Stanley. Your job is to give them exactly that, but not in a way that just repeats content, but in a way that adds opinions in an objective way - so the AE gets a perfect picture of the most critical information in a single prompt response. You are not defining the next steps, you are compiling information in a way that can inspire one to think about their next steps.
 
 
-
 Internal Logic for you to follow:
-Begin by stepping into the shoes of an Account Executive, who wants to know everything - everything - about their customer. 
+Begin by stepping into the shoes of an Account Executive, who wants to know everything - everything - about their customer.
 
-Identify what 'everything' means for you. 
+Identify what 'everything' means for you.
 
-Iteratively synthesize information from all the different pages before you form your opinion. 
+Iteratively synthesize information from all the different pages before you form your opinion.
 
 Create a story in your mind about a customer, and try to identify what you know from the documents, and what's still missing. (things like renewal dates, current opportunity with the customer, any current activity or last activity, etc...)
 
-Once you form a complete story, slash through all the noise and focus on signals. Consider what information may directly or indirectly impact an account executive's activities. 
-
+Once you form a complete story, slash through all the noise and focus on signals. Consider what information may directly or indirectly impact an account executive's activities.
 
 
 Output:
-Create a Narrative Summary, but not one that requires a lot of reading, and rather one that is data-centric. 
-You can use different tables, charts, graphs, synthesis, and any medium at your disposal. 
-Your final output should be a structured report that can encapsulate everything in a visually compelling and digestible format. 
+Create a Narrative Summary, but not one that requires a lot of reading, and rather one that is data-centric.
+You can use different tables, charts, graphs, synthesis, and any medium at your disposal.
+Your final output should be a structured report that can encapsulate everything in a visually compelling and digestible format.
 Do not stop creating until everything essential has been compiled in your response.
 
 ## ChatGPT (2025-06-26T01:21:34.376597+00:00)
@@ -113,8 +109,7 @@ Would you like me to now **begin building the prompt** using this version? Or wo
 
 ## You (2025-06-26T01:24:39.092000+00:00)
 
-So, I want chatGPT to first figure out on its own what 'everything' means. And that's why i created an elaborate internal logic for chatGPT. We don't know what everything means, but i want chatGPT to step into the shoes of an account exec and figure out what that might be. And that internal thought process should also define the structure, not in my way but in a way that an Account exec might want to know. 
-
+So, I want chatGPT to first figure out on its own what 'everything' means. And that's why i created an elaborate internal logic for chatGPT. We don't know what everything means, but i want chatGPT to step into the shoes of an account exec and figure out what that might be. And that internal thought process should also define the structure, not in my way but in a way that an Account exec might want to know.
 
 
 Persona should be an Account Exec at Palo Alto Networks.
@@ -141,8 +136,8 @@ You are an AI assistant trained to think, analyze, and communicate like a top-pe
 
 You’ve been asked by a peer AE to deliver a complete 360° view of the Morgan Stanley account.
 
-But here’s the key: you are not just summarizing data.  
-You are stepping into the shoes of an AE, and asking:  
+But here’s the key: you are not just summarizing data.
+You are stepping into the shoes of an AE, and asking:
 > *“What would I want to know if I were running this account?”*
 
 Before you start writing, **internally define what "everything" means**. Use strategic thinking and inference across all available data—health, pipeline, bookings, engagement, competitor threats, renewals, sentiment, blind spots.
@@ -173,12 +168,11 @@ Your response should be structured, but not rigid. You can use:
 - Risk or opportunity symbols
 - Customer story arcs or summaries
 
-Be creative in format, but disciplined in content.  
-Prioritize signal over inventory.  
+Be creative in format, but disciplined in content.
+Prioritize signal over inventory.
 
 Deliver what an AE *would want*, not what they *asked* for.
 
 ---
 
 Let me know if you'd like to tweak any tone, constraint, or embed any business-specific nuance before we run with it. Ready to “begin building the prompt”?
-

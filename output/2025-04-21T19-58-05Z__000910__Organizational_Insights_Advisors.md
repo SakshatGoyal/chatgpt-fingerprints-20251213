@@ -24,13 +24,13 @@ Here’s a shortlist of people — across time — who would bring the kind of d
 ### 🧠 **The Master Strategists**
 These folks would immediately understand both the explicit and implicit systems inside organizations:
 
-- **Andy Grove (former CEO of Intel)**  
+- **Andy Grove (former CEO of Intel)**
   Saw complexity early, operationalized strategic paranoia, and taught how to build resilient organizations in shifting markets.
 
-- **Sheryl Sandberg (former COO of Facebook)**  
+- **Sheryl Sandberg (former COO of Facebook)**
   Bridged product, policy, operations, and culture — especially at massive scale. Would understand GTM, internal dynamics, and stakeholder balancing.
 
-- **Ben Horowitz (Andreessen Horowitz, author of *The Hard Thing About Hard Things*)**  
+- **Ben Horowitz (Andreessen Horowitz, author of *The Hard Thing About Hard Things*)**
   Deep grasp of wartime vs peacetime leadership, org design, and realpolitik within companies.
 
 ---
@@ -38,13 +38,13 @@ These folks would immediately understand both the explicit and implicit systems 
 ### 🔍 **The Power Observers**
 They may not run companies, but they have dissected them with a scalpel:
 
-- **Michael Lewis (author of *The Big Short*, *Flash Boys*)**  
+- **Michael Lewis (author of *The Big Short*, *Flash Boys*)**
   Gets the hidden incentives, odd behaviors, and how organizational dysfunction cascades into the world.
 
-- **Amy Edmondson (Harvard, psychological safety research)**  
+- **Amy Edmondson (Harvard, psychological safety research)**
   Has studied why teams fail, how power works in orgs, and how risk flows through systems.
 
-- **Zeynep Tufekci (sociologist, tech/culture critic)**  
+- **Zeynep Tufekci (sociologist, tech/culture critic)**
   Deep on system-level behavior — how policies, platforms, and public narratives interact inside and outside orgs.
 
 ---
@@ -52,10 +52,10 @@ They may not run companies, but they have dissected them with a scalpel:
 ### 🛠️ **The Systems Thinkers**
 They can hold the whole machine in mind — structure, incentives, behavior, regulation, and unintended consequences:
 
-- **Donella Meadows (systems theorist, author of *Thinking in Systems*)**  
+- **Donella Meadows (systems theorist, author of *Thinking in Systems*)**
   While not corporate-specific, she’d help you see leverage points, feedback loops, and the invisible architecture.
 
-- **Julie Zhuo (former VP of Design at Facebook)**  
+- **Julie Zhuo (former VP of Design at Facebook)**
   Blends design intuition with leadership clarity; sees how messy internal processes connect to clean external decisions.
 
 ---
@@ -63,20 +63,19 @@ They can hold the whole machine in mind — structure, incentives, behavior, reg
 ### 🧬 **The Behind-the-Scenes Operators**
 They've worked in policy, legal, or risk — and understand the *real* decision paths, not just what’s written in handbooks:
 
-- **Neal Katyal (former U.S. Solicitor General)**  
+- **Neal Katyal (former U.S. Solicitor General)**
   Not corporate, but understands the chessboard of risk, law, and backchannel maneuvering — often critical in big decisions.
 
-- **Brad Smith (Vice Chair & President, Microsoft)**  
+- **Brad Smith (Vice Chair & President, Microsoft)**
   Known for navigating high-stakes global policy, regulatory friction, and strategic/legal balancing.
 
 ---
 
 ### 👻 Want a wildcard pick from history?
 
-- **Peter Drucker**  
+- **Peter Drucker**
   The OG management philosopher. His insights *still* hold up — and he’d absolutely want to talk about AI, agility, and mission-driven orgs.
 
 ---
 
 Would you like help choosing the *right* conversation partner based on what kind of advice or perspective you want? (e.g., do you want tactical insights, ethical clarity, systemic diagnosis, cultural signals?)
-

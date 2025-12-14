@@ -160,65 +160,65 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Balancing Efficiency and Risk Exposure
 
-**Insight Statement:**  
+**Insight Statement:**
 The paper challenges the conventional wisdom that lean, highly efficient supply chains are inherently superior, revealing instead that aggressive minimization of inventories and capacity—while reducing costs—can substantially amplify vulnerability to unforeseen disruptions. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Executives must recognize that strategic decisions aimed at operational efficiency, such as reducing inventory levels or streamlining supplier networks, inherently trade off against risk resilience. This dynamic compels decision-makers to adopt a more nuanced, balanced approach that factors in both cost savings and the potential for cascading supply chain failures. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Evidence is provided through detailed examples and a comprehensive risk–mitigation table showing that Samsung Electronics leverages flexible multi-platform production and diversified supplier strategies to buffer against risks. The discussion on how mitigating one risk (e.g., low inventory) may inadvertently heighten another (e.g., supply disruption) reinforces this point. **[Empirical]**
 
 ---
 
 ### 2. The Critical Role of Integrated IT Systems
 
-**Insight Statement:**  
+**Insight Statement:**
 The research underscores that investment in integrated IT solutions—such as SAP systems and global tracking networks—is pivotal in enhancing real-time visibility and responsiveness, thereby mitigating risks related to delays and forecast inaccuracies. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 For senior leaders, the adoption of robust IT infrastructures is not merely a support function but a strategic imperative. Enhanced data integration allows executives to monitor supply chain dynamics continuously, enabling agile decision-making and swift remedial actions in the face of disruptions. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper details Samsung’s deployment of systems like the In-Transit Tracking System and the global command centre, which collectively reduce the lag between order placement and delivery. Such systems help in minimizing errors and improving forecasting accuracy, thereby serving as a backbone for proactive risk management. **[Empirical]**
 
 ---
 
 ### 3. Strategic Supplier Relationships and Redundancy
 
-**Insight Statement:**  
+**Insight Statement:**
 Long-term, integrated relationships with suppliers—combined with selective redundancy—emerge as a key strategy to mitigate supply risks, including potential mergers, acquisitions, and supplier delays, without completely sacrificing economies of scale. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Executives should ensure that while building deep, trust-based supplier integrations, there is a parallel strategy to maintain alternative sourcing options. This dual approach allows companies to secure cost efficiencies while safeguarding against the vulnerabilities of single-sourcing or overly concentrated supplier bases. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper illustrates this balance by citing Samsung’s practice of keeping core components single-sourced (to harness economies of scale) while diversifying the sourcing of non-core components across multiple suppliers. This dual approach is further supported by case examples such as Ericsson’s significant losses due to supplier delays, emphasizing the critical need for redundancy. **[Empirical]**
 
 ---
 
 ### 4. Forecasting Challenges and Cognitive Underpinnings
 
-**Insight Statement:**  
+**Insight Statement:**
 The analysis reveals that over-reliance on historical data and the inherent distortion of demand signals—exemplified by phenomena like the bullwhip effect—can lead to systematic forecasting errors, highlighting an implicit cognitive bias in risk estimation. **[Inferred]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Leaders must critically appraise and continuously refine their forecasting models, remaining vigilant to biases that may arise from an over-dependence on past trends. This calls for integrating dynamic market intelligence and adaptive forecasting methodologies that adjust to real-time data fluctuations. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Through its discussion of forecast risk and the bullwhip effect, the paper shows how demand distortions can lead to either excessive inventory buildup or acute shortages. The integration of CRM systems and enhanced data visibility initiatives is presented as a countermeasure to these distortions, albeit with an implicit acknowledgment of the cognitive challenges involved in accurate forecasting. **[Inferred]**
 
 ---
 
 ### 5. Managing Global Supply Chain Complexities
 
-**Insight Statement:**  
+**Insight Statement:**
 The study demonstrates that global supply chains embody complex interdependencies, where risk mitigation in one segment (e.g., responsiveness through rapid air-shipping) can inadvertently intensify risks in another (e.g., increased cost or reduced inventory buffers), necessitating a holistic risk management approach. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Executives are urged to adopt an integrative view of supply chain management that transcends siloed risk assessments. Strategic decisions must account for interrelated risks across the entire chain—balancing responsiveness, cost efficiency, and risk exposure—while remaining flexible enough to adapt to rapidly changing global market conditions. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper’s comprehensive risk–mitigation framework, including the detailed Table 2 of risk-mitigation steps, provides clear empirical evidence that interdependencies within the supply chain require coordinated, multi-dimensional strategies. Examples such as the trade-offs in inventory management and the dual use of technology for monitoring and mitigating risks further substantiate this holistic view. **[Empirical]**
 
 ---
@@ -228,9 +228,9 @@ The paper’s comprehensive risk–mitigation framework, including the detailed 
 - **Coverage Fit:** High — The paper robustly addresses executive decision-making and strategic reasoning in the context of supply chain risk management.
 - **Bias & Cognitive Modeling Content:** Implied Only — While the paper highlights forecasting errors and information distortions, it does not explicitly analyze underlying cognitive biases, leaving this aspect to be inferred.
 - **Clarity of Methods & Outcomes:** Clear — The methodology, combining qualitative case examples and empirical evidence, clearly delineates risk types and mitigation strategies.
-- **Areas with No Data:**  
-  - Insight Statement: All key insights are supported by qualitative and empirical evidence from the paper.  
-  - Executive Decision-Making Context: Some sections rely on inferred interpretations rather than direct quantitative data on cognitive biases.  
+- **Areas with No Data:**
+  - Insight Statement: All key insights are supported by qualitative and empirical evidence from the paper.
+  - Executive Decision-Making Context: Some sections rely on inferred interpretations rather than direct quantitative data on cognitive biases.
   - Supporting Context: Although the risk mitigation strategies are well-documented, specific numerical analyses on forecasting biases are not provided.
 
 This comprehensive synthesis provides decision-relevant insights into how global leaders can navigate the inherent trade-offs in supply chain risk management, while also prompting deeper reflection on potential cognitive limitations in strategic forecasting.
@@ -524,21 +524,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -551,4 +551,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T06:38:01.311423+00:00)
 
 Sodhi, M. S., & Lee, S. (2007). An analysis of sources of risk in the consumer electronics industry. *Journal of the Operational Research Society, 58*(11), 1430–1439. https://doi.org/10.1057/palgrave.jors.2602410
-

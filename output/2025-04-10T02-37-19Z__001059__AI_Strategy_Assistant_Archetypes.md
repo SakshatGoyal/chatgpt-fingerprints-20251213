@@ -2,15 +2,15 @@
 
 ## You (2025-04-10T02:37:19.520811+00:00)
 
-Hey Michael, here's the full context. I feel bad that I’ve had to repeat this so many times in every new chat. 
+Hey Michael, here's the full context. I feel bad that I’ve had to repeat this so many times in every new chat.
 
 
-I'm working on a research project, trying to begin forming some archetypes and finding a product-market fit. Our goal is to find an opportunity for an AI strategy assistant who can work with senior-level decision-makers in a company to help them walk through their strategies. This tool will be personal and not integrate with a company's internal data. 
+I'm working on a research project, trying to begin forming some archetypes and finding a product-market fit. Our goal is to find an opportunity for an AI strategy assistant who can work with senior-level decision-makers in a company to help them walk through their strategies. This tool will be personal and not integrate with a company's internal data.
 
-Our only source was secondary research. here's what we've done so far. 
+Our only source was secondary research. here's what we've done so far.
 
-- extracted 'insight modules' which are essentially stories extracted from different papers. 
-- tagged them across fields like tension axis, ambiguity type, etc... to help us understand the underlying tension, how they approach the issue, etc. 
+- extracted 'insight modules' which are essentially stories extracted from different papers.
+- tagged them across fields like tension axis, ambiguity type, etc... to help us understand the underlying tension, how they approach the issue, etc.
 - we also tagged each story across industry axes. So we're not going with 'this belongs to pharmaceutical industry, that belongs to banking, etc...', its more like 'how much is this influenced by regulation; how much is it influenced by coordinated timing', etc...
 
 ## ChatGPT (2025-04-10T02:37:20.482916+00:00)
@@ -54,4 +54,3 @@ These layers can help you create a **grammar of strategic decision-making moment
 ---
 
 Let me know where you are in the process. Are you starting to cluster the insight modules? Or thinking through how to validate emerging archetypes? Happy to help sketch those steps out further or review a few stories if you want to get into the material together.
-

@@ -70,11 +70,11 @@ Would you like a breakdown of *daily routines or video tutorials* for any of the
 
 ## You (2025-05-06T05:22:22.038822+00:00)
 
-I have a few goals - 
+I have a few goals -
 
-build muscle mass 
+build muscle mass
 bring calm composure to my body
-have confidense in case i get attacked in public. 
+have confidense in case i get attacked in public.
 increase stamina
 
 how do these help me with that goal
@@ -207,9 +207,8 @@ Absolutely — here's a clear, no-fluff explanation of the **other fighting tech
 ---
 
 ### 🥋 1. **Karate Kata / Taekwondo Poomsae**
-**What it is:**  
-- Pre-planned sequences of strikes, blocks, and stances done solo.  
+**What it is:**
+- Pre-planned sequences of strikes, blocks, and stances done solo.
 - Think of it like a “form” — a dance-like performance of combat moves.
 
 **What it builds:**
-

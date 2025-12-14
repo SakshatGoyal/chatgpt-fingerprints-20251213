@@ -163,48 +163,48 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Insight 1: Quantifiable Impact of Leadership Interventions
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Effective leadership interventions produce measurable improvements in organizational outcomes—evidenced by a 14.0% pooled effectiveness in before–after studies and a positive correlation (0.22) in cross-sectional analyses. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Should executives allocate resources toward leadership development programs given the demonstrable, albeit modest, performance gains?  
-- **Underlying Beliefs & Biases:** Traditional views may underestimate the measurable impact of structured leadership initiatives, favoring long-established hierarchical models over innovative, data-driven approaches.  
-- **Expected vs. Actual Outcomes:** Although leadership interventions were anticipated to yield incremental benefits, the empirical data confirms that such investments can indeed translate into tangible performance improvements.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Should executives allocate resources toward leadership development programs given the demonstrable, albeit modest, performance gains?
+- **Underlying Beliefs & Biases:** Traditional views may underestimate the measurable impact of structured leadership initiatives, favoring long-established hierarchical models over innovative, data-driven approaches.
+- **Expected vs. Actual Outcomes:** Although leadership interventions were anticipated to yield incremental benefits, the empirical data confirms that such investments can indeed translate into tangible performance improvements.
 - **Broader Implications:** This quantifiable impact supports a strategic, evidence-based approach to leadership development—suggesting that similar, contextually adapted interventions could drive improvements in diverse, high-stakes industries. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The meta-analysis combined data from 21 studies, revealing that leadership interventions yield a 14.0% improvement (95%CI 10.0–18.0%) in before–after designs and a correlation coefficient of 0.22 (95%CI 0.15–0.28) in cross-sectional studies. Despite high heterogeneity, these findings offer a robust empirical basis for rethinking leadership investments. **[Empirical]**
 
 ---
 
 ### Insight 2: Differential Impact of Leadership Styles and Organizational Context
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Leadership effectiveness is not uniform: its impact varies significantly with leadership style and organizational context. For example, interventions in private hospitals and South American settings show higher effectiveness, highlighting that environmental and cultural factors critically influence leadership outcomes. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Which leadership style should be deployed in specific organizational contexts to maximize performance, and how should executives adjust strategies based on regional and structural differences?  
-- **Underlying Beliefs & Biases:** There is a prevailing assumption that a universal leadership model can work across all settings, potentially leading to suboptimal decisions when contextual nuances are ignored.  
-- **Expected vs. Actual Outcomes:** Contrary to the one-size-fits-all mindset, the data indicates that private organizations and culturally distinct environments (e.g., South America) may derive greater benefit from tailored leadership approaches.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Which leadership style should be deployed in specific organizational contexts to maximize performance, and how should executives adjust strategies based on regional and structural differences?
+- **Underlying Beliefs & Biases:** There is a prevailing assumption that a universal leadership model can work across all settings, potentially leading to suboptimal decisions when contextual nuances are ignored.
+- **Expected vs. Actual Outcomes:** Contrary to the one-size-fits-all mindset, the data indicates that private organizations and culturally distinct environments (e.g., South America) may derive greater benefit from tailored leadership approaches.
 - **Broader Implications:** Executives are encouraged to implement adaptive leadership development programs that are sensitive to their organizational structure and regional dynamics, thereby enhancing strategic agility and performance outcomes. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Multi-regression analyses demonstrated higher leadership effectiveness in cross-sectional studies for private hospitals (β = 0.60; 95%CI 0.14–1.06) and South American contexts (β = 0.56; 95%CI 0.13–0.99). Variations across leadership styles further underscore that organizational outcomes are closely linked to how leadership is contextualized. **[Empirical]**
 
 ---
 
 ### Insight 3: Challenges and Limitations in Measuring Leadership Effectiveness
 
-**1. Insight Statement**  
+**1. Insight Statement**
 The significant heterogeneity and varied methodologies in the assessment of leadership effectiveness reveal inherent challenges in standardizing measurements—posing a risk to the direct application of these insights in executive decision-making. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** How can leaders reconcile the promising yet inconsistent empirical evidence on leadership interventions with the need for uniform strategic policies?  
-- **Underlying Beliefs & Biases:** There is a danger of overconfidence in generalizing leadership strategies without accounting for the high variability in outcome measurement, which can lead to misinformed decisions.  
-- **Expected vs. Actual Outcomes:** While executives might expect consistent performance improvements from leadership programs, the data reveal that results can vary widely due to methodological and contextual differences.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** How can leaders reconcile the promising yet inconsistent empirical evidence on leadership interventions with the need for uniform strategic policies?
+- **Underlying Beliefs & Biases:** There is a danger of overconfidence in generalizing leadership strategies without accounting for the high variability in outcome measurement, which can lead to misinformed decisions.
+- **Expected vs. Actual Outcomes:** While executives might expect consistent performance improvements from leadership programs, the data reveal that results can vary widely due to methodological and contextual differences.
 - **Broader Implications:** Recognizing these limitations, executives should adopt flexible, continuously adaptive strategies that incorporate rigorous feedback mechanisms and ongoing evaluation to address measurement uncertainties. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The analysis reported I2 values nearing 100% in both before–after and cross-sectional studies, highlighting substantial methodological diversity and potential publication bias. Such variability calls for cautious interpretation and emphasizes the need for more standardized, high-evidence research to guide leadership interventions. **[Empirical]**
 
 ---
@@ -214,9 +214,9 @@ The analysis reported I2 values nearing 100% in both before–after and cross-se
 - **Coverage Fit:** Moderate — While the paper provides robust empirical data on leadership effectiveness in healthcare, its direct application to broader executive decision-making in non-healthcare sectors requires careful extrapolation.
 - **Bias & Cognitive Modeling Content:** Implied Only — The study quantifies outcomes of leadership interventions without deeply exploring cognitive biases; however, its findings suggest underlying assumptions that warrant critical reflection.
 - **Clarity of Methods & Outcomes:** Clear — The methodological framework and statistical analyses are transparently reported, though high heterogeneity limits the generalizability of the findings.
-- **Areas with No Data:**  
-  - **Insight Statement:** Fully supported by empirical data.  
-  - **Executive Decision-Making Context:** Limited explicit discussion on cognitive biases necessitates inferential interpretation.  
+- **Areas with No Data:**
+  - **Insight Statement:** Fully supported by empirical data.
+  - **Executive Decision-Making Context:** Limited explicit discussion on cognitive biases necessitates inferential interpretation.
   - **Supporting Context:** Well-documented through comprehensive empirical evidence.
 
 ## You (2025-03-24T00:11:30.957000+00:00)
@@ -457,21 +457,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -484,4 +484,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T00:12:59.419778+00:00)
 
 Restivo, V., Minutolo, G., Battaglini, A., Carli, A., Capraro, M., Gaeta, M., Odone, A., Trucchi, C., Favaretti, C., Vitale, F., & Casuccio, A. (2022). Leadership effectiveness in healthcare settings: A systematic review and meta-analysis of cross-sectional and before-after studies. *International Journal of Environmental Research and Public Health, 19*(17), 10995. https://doi.org/10.3390/ijerph191710995
-

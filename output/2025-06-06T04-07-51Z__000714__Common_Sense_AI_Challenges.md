@@ -25,7 +25,7 @@ Or should I include a mix of all categories, as long as the examples are drawn f
 
 ## You (2025-06-06T04:09:29.179000+00:00)
 
-I'm looking for 20 good examples for each of the following. 
+I'm looking for 20 good examples for each of the following.
 
 
 Linguistic common sense challenges (e.g. ambiguity, metaphor, pronoun resolution)
@@ -61,7 +61,7 @@ All examples will be sourced from work by leading AI researchers and institution
 
 # Common Sense Failures in Generative AI Systems
 
-## 1. Linguistic Common Sense Challenges  
+## 1. Linguistic Common Sense Challenges
 Generative language models often **struggle with ambiguous, figurative, or context-dependent language**. They may produce grammatically correct answers that defy common sense due to misinterpreting meaning. Below are well-documented examples (from research papers and expert analyses) of such linguistic common sense failures:
 
 1. **Ambiguous Headlines (Metaphorical Interpretation):** A famous example shared by Yejin Choi involves the news headline *“CHEESEBURGER STABBING.”* Humans instantly infer it means someone was stabbed *over* a cheeseburger (a dispute), not that a cheeseburger literally stabbed someone or was itself stabbed. However, AI models lack this commonsense filter – they might entertain impossible scenarios (e.g. “food-on-food crime”) rather than the only plausible interpretation【3†L59-L65】. This highlights how models miss basic implicatures and context that disambiguate language for humans.
@@ -106,7 +106,7 @@ Generative language models often **struggle with ambiguous, figurative, or conte
 
 ---
 
-## 2. Physical and Commonsense Reasoning Failures  
+## 2. Physical and Commonsense Reasoning Failures
 Large language models lack an embodied understanding of the physical world, which leads to **naive or impossible inferences about physical events, spatial relations, and causality**. Prominent AI researchers (e.g. Gary Marcus, Yejin Choi) have documented many cases where generative models flunk basic physics or reality checks:
 
 1. **Treating Harmless Actions as Hazardous:** In one test, GPT-3 was given a scenario about mixing liquids: *“You pour yourself a glass of cranberry juice, then absentmindedly pour a teaspoon of grape juice into it.”* The model bizarrely responded as if this was dangerous – in Douglas Summers-Stay’s experiment, GPT-3 assumed the mixture was poisonous【17†L13-L20】. In reality, mixing juices is perfectly fine (cran-grape is even a common drink). This failure shows the model’s lack of real-world experience – it cannot reliably distinguish a benign action from a harmful one without explicit examples in its training.
@@ -151,7 +151,7 @@ Large language models lack an embodied understanding of the physical world, whic
 
 ---
 
-## 3. Social Common Sense and Social Reasoning Errors  
+## 3. Social Common Sense and Social Reasoning Errors
 Common sense isn’t only about the physical world – it also encompasses social dynamics, intentions, norms, and emotions. Large language models frequently **misinterpret human intent, miss social cues, or violate commonsense norms** in social scenarios. Researchers and commentators have noted many such failures:
 
 1. **Violating Social Norms (Unusual Solutions):** In social situations where etiquette or norms apply, LLMs can suggest behavior no normal person would do. A clear example: when GPT-3 was asked what to do upon receiving soup with no spoon at a restaurant, one of its suggestions was to *ask a fellow customer to borrow their spoon*【17†L53-L61】. This is a **social faux pas** – people simply don’t do that; the polite action is to ask a waiter. The model lacked the commonsense understanding of social boundaries and propriety. It treated the problem like a pure logic puzzle (needing a spoon) and proposed a naive solution, ignoring how awkward or rude that would be in a real social context.
@@ -196,7 +196,7 @@ Common sense isn’t only about the physical world – it also encompasses socia
 
 ---
 
-## 4. Key Challenge Datasets and Benchmarks for Common Sense  
+## 4. Key Challenge Datasets and Benchmarks for Common Sense
 AI researchers have created numerous **benchmarks to systematically test commonsense reasoning** in language models. These datasets are designed by experts to cover linguistic, physical, and social common sense, often in question-answer or inference formats. Below is a list of prominent benchmarks (with brief descriptions of what they test):
 
 1. **Winograd Schema Challenge (WSC):** A classic test of pronoun resolution that requires common sense. Each WSC question is a sentence with an ambiguous pronoun and a question asking who or what it refers to. For example, *“The trophy doesn’t fit into the brown suitcase because **it**’s too large. What is too large?”* (Answer: the trophy)【35†L1681-L1689】. If “large” is changed to “small,” the answer flips to the suitcase. Models must use contextual reasoning (understanding size, etc.) rather than syntax to get these right. WSC-273 contains 273 such problems authored by experts as a Turing-test alternative for common sense.
@@ -240,4 +240,3 @@ AI researchers have created numerous **benchmarks to systematically test commons
 20. **Leaderboards and Model Progress:** Many of the above benchmarks have public leaderboards (e.g., on AI2’s website or Papers With Code). They have seen steady gains: for instance, CommonsenseQA and PIQA went from ~50-60% (random or shallow baseline) to ~90% with fine-tuned transformer models by 2021-2022. However, reaching human parity often required extra training data or techniques like using large LLMs with prompt ensembles. The challenge datasets often also include *explanation* tasks now – not just choosing an answer, but explaining why. This is even harder for models. For example, **ECQA (Explanation Commonsense QA)** extends CommonsenseQA by requiring a rationale for the chosen answer. This is a new frontier: it’s one thing if a model gets the right answer by brute-force correlation, but can it *explain* in commonsense terms? Early results show models struggle with explanations, often producing generic or flawed justifications. This indicates that while benchmarks drive improvement, true commonsense understanding (the kind that lets AI explain its reasoning in human-like terms) is still not fully achieved. Researchers like Gary Marcus and Yejin Choi continue to emphasize combining knowledge bases, simulation, or other methods with language models to finally solve these benchmarks in a robust way【10†L58-L63】 – moving closer to AI that *really* has “common sense” and not just the appearance of it.
 
 **Sources:** The examples and datasets above are drawn from academic papers and talks by AI researchers, including Marcus & Davis’s analysis of GPT-3’s commonsense failures【16†L1-L9】【17†L13-L20】, Yejin Choi’s TED talk and writings on commonsense intelligence【3†L59-L67】【10†L58-L63】, the original Winograd Schema Challenge publication【35†L1681-L1689】, the AI2 Reasoning Challenge and associated benchmark descriptions【22†L1009-L1017】【26†L428-L436】, and other scholarly surveys of commonsense reasoning in AI【21†L23-L31】. Each category of failure – linguistic, physical, social – is actively studied, and benchmarks like those listed in category 4 serve as standardized tests to quantify progress (or highlight persistent gaps) in commonsense understanding for state-of-the-art AI systems.
-

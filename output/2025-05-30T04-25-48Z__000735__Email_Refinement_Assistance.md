@@ -5,11 +5,11 @@
 hey, could you help me finish the email properly?
 
 ---
-Hi Prabhjit and Gurvinder, 
+Hi Prabhjit and Gurvinder,
 
-We had a long day today, so unfortunately, I'm not able to meet up after 9. I'm attaching a meeting recording from earlier on that captures some of the updates more clearly for the Account Health page. 
+We had a long day today, so unfortunately, I'm not able to meet up after 9. I'm attaching a meeting recording from earlier on that captures some of the updates more clearly for the Account Health page.
 
-The work from yesterday was essentially step one, So now that we have some of the pieces together we can start working on further refinements. 
+The work from yesterday was essentially step one, So now that we have some of the pieces together we can start working on further refinements.
 
 You will find the recording as well as the transcript in this email.
 
@@ -31,7 +31,7 @@ You’ll find both the recording and transcript attached for your reference. Ple
 
 Thanks again for your work on this—looking forward to the next iteration.
 
-Best,  
+Best,
 [Your Name]
 
 ---
@@ -60,10 +60,9 @@ Please take a look when you can, and let me know if anything needs clarification
 
 Appreciate the momentum you’re both driving.
 
-Best,  
+Best,
 [Your Name]
 
 ---
 
 This version communicates leadership presence—acknowledging effort, providing direction, and reinforcing partnership without overloading the message. Let me know if you'd like to add a timeline or include stakeholder context.
-

@@ -2,7 +2,7 @@
 
 ## You (2025-11-08T15:39:38.058901+00:00)
 
-I'm documenting my activities so far for your context. 
+I'm documenting my activities so far for your context.
 
 ---
 
@@ -156,7 +156,6 @@ Fix: kill $(lsof -ti :3000) 2>/dev/null || true
 ⸻
 
 
-
 ⸻
 
 12) Quick command reference (copy/paste)
@@ -206,25 +205,24 @@ npm run dev → npx @modelcontextprotocol/inspector … → run env_check, figma
 
 ## ChatGPT (2025-11-08T15:39:39.983559+00:00)
 
-Perfectly written hand-off — clear, complete, and production-ready.  
+Perfectly written hand-off — clear, complete, and production-ready.
 
 Here’s what you could add at the very end (Section 15) to make it fully “handover-proof” for the next engineer or researcher picking it up later:
 
 ---
 
-**15) Suggested Next Steps (for whoever continues)**  
-1. **Add write-tools** — start with:  
-   • `figma_post_comment` → POST `/v1/files/{file_key}/comments`  
-   • `figma_manage_variables` → CRUD via `/v1/variables` endpoints.  
-2. **Add schema validation** — use `zod` to strictly type each tool’s input/output.  
-3. **Automate region fallback** — abstract API base URL selection into a helper.  
-4. **Integrate plugin bridge** — small Figma Plugin that listens for `patch.json` from MCP and applies edits.  
-5. **Package for npm** — rename to `@yourorg/figma-mcp`, include a README + type declarations.  
-6. **Connector test plan** — document exact ChatGPT Connector payloads + sample responses.  
-7. **Security review** — check token handling, logging, and output redaction.  
-8. **Version bump & changelog** — mark this build as `v0.1.0` (MVP, read-only).  
+**15) Suggested Next Steps (for whoever continues)**
+1. **Add write-tools** — start with:
+   • `figma_post_comment` → POST `/v1/files/{file_key}/comments`
+   • `figma_manage_variables` → CRUD via `/v1/variables` endpoints.
+2. **Add schema validation** — use `zod` to strictly type each tool’s input/output.
+3. **Automate region fallback** — abstract API base URL selection into a helper.
+4. **Integrate plugin bridge** — small Figma Plugin that listens for `patch.json` from MCP and applies edits.
+5. **Package for npm** — rename to `@yourorg/figma-mcp`, include a README + type declarations.
+6. **Connector test plan** — document exact ChatGPT Connector payloads + sample responses.
+7. **Security review** — check token handling, logging, and output redaction.
+8. **Version bump & changelog** — mark this build as `v0.1.0` (MVP, read-only).
 
 ---
 
 Would you like me to turn this whole hand-off (with the new Section 15) into a clean markdown README.md so it can live in your repo’s root folder?
-

@@ -4,9 +4,7 @@
 
 could you do an exploratory analysis of this data? it doesn't have numbers so you'll have to rely on counts to begin your exploration.
 
-## ChatGPT (2025-04-03T07:03:20.701502+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "import pandas as pd\n\n# Load the uploaded CSV file\nfile_path = '/mnt/data/Tagging - Compilation.csv'\ndf = pd.read_csv(file_path)\n\n# Display the first few rows of the dataset to understand its structure\ndf.head()"}
 
 ## ChatGPT (2025-04-03T07:03:26.436214+00:00)
 
@@ -20,9 +18,7 @@ Here’s what I’ll start with:
 
 Let me run that initial analysis and show you what stands out.
 
-## ChatGPT (2025-04-03T07:03:31.122926+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Basic summary: missing values and number of unique entries per column\nsummary = pd.DataFrame({\n    'Missing Values': df.isnull().sum(),\n    'Unique Values': df.nunique(),\n    'Most Frequent Value': df.mode().iloc[0]\n})\n\nimport ace_tools as tools; tools.display_dataframe_to_user(name=\"Dataset Summary\", dataframe=summary)"}
 
 ## ChatGPT (2025-04-03T07:03:38.404212+00:00)
 
@@ -34,9 +30,7 @@ Would you like me to continue with visualizing the distributions of the most rel
 
 nest to the most frequent value column, could you add another column that counts the number of times the most frequent value appeared as a percentage.
 
-## ChatGPT (2025-04-03T07:08:25.519539+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Calculate the count of the most frequent value as a percentage of the total for each column\nmost_frequent_counts = df.mode().iloc[0]\nmost_frequent_percentages = df.apply(lambda col: (col == most_frequent_counts[col.name]).sum() / len(col) * 100)\n\n# Add to the existing summary\nsummary['Most Frequent %'] = most_frequent_percentages.round(2)\n\ntools.display_dataframe_to_user(name=\"Enhanced Dataset Summary\", dataframe=summary)"}
 
 ## ChatGPT (2025-04-03T07:08:30.396757+00:00)
 
@@ -48,9 +42,7 @@ Let me know if you'd like to dive into any specific columns, do comparisons, or 
 
 could you also create two columns - one that has the least frequent value, and its adjacent column that has a percentage of how many times it appears.
 
-## ChatGPT (2025-04-03T07:12:13.653706+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Calculate the least frequent value and its percentage for each column\nleast_frequent_values = df.apply(lambda col: col.value_counts().idxmin())\nleast_frequent_percentages = df.apply(lambda col: col.value_counts().min() / len(col) * 100)\n\n# Add new columns to the summary DataFrame\nsummary['Least Frequent Value'] = least_frequent_values\nsummary['Least Frequent %'] = least_frequent_percentages.round(2)\n\ntools.display_dataframe_to_user(name=\"Full Frequency Summary\", dataframe=summary)"}
 
 ## ChatGPT (2025-04-03T07:12:18.916200+00:00)
 
@@ -64,9 +56,7 @@ Would you like to visualize these distributions or start looking at cross-column
 
 you can exclude Module ID as a count. Its the unique identifier for each row so we don't need to consider that in our analysis
 
-## ChatGPT (2025-04-03T07:13:08.459936+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Exclude \"Module ID\" from the summary as it's a unique identifier\nsummary_filtered = summary.drop(index='Module ID')\n\ntools.display_dataframe_to_user(name=\"Filtered Frequency Summary\", dataframe=summary_filtered)"}
 
 ## ChatGPT (2025-04-03T07:13:12.393237+00:00)
 
@@ -78,9 +68,7 @@ This cleaned-up table now focuses on the meaningful categorical fields. Want to 
 
 I'm wondering if you can make corrections to the data. For example, the word 'National' in Market Dispersion should actually be 'Regional'. that's an error in the data
 
-## ChatGPT (2025-04-03T07:19:25.580995+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Replace incorrect value 'National' with the corrected value 'Regional' in the 'Market Dispersion' column\ndf['Market Dispersion'] = df['Market Dispersion'].replace('National', 'Regional')\n\n# Confirm the replacement worked by showing unique values in 'Market Dispersion'\ndf['Market Dispersion'].unique()"}
 
 ## ChatGPT (2025-04-03T07:19:29.546609+00:00)
 
@@ -92,9 +80,7 @@ If there are other known issues or corrections you'd like to apply to the datase
 
 ok, now could you refresh the the least frequent value columns
 
-## ChatGPT (2025-04-03T07:20:14.325006+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Recalculate least frequent value and percentage, now that data has been corrected\nleast_frequent_values_updated = df.apply(lambda col: col.value_counts().idxmin())\nleast_frequent_percentages_updated = df.apply(lambda col: col.value_counts().min() / len(col) * 100)\n\n# Update the filtered summary\nsummary_filtered['Least Frequent Value'] = least_frequent_values_updated.drop('Module ID')\nsummary_filtered['Least Frequent %'] = least_frequent_percentages_updated.drop('Module ID').round(2)\n\ntools.display_dataframe_to_user(name=\"Updated Frequency Summary\", dataframe=summary_filtered)"}
 
 ## ChatGPT (2025-04-03T07:20:22.197697+00:00)
 
@@ -106,9 +92,7 @@ Let me know if you want to apply more data fixes, explore another part of the da
 
 you can also exclude the row 'functional modality'. most values are most likely unique so they won't show us a pattern
 
-## ChatGPT (2025-04-03T07:21:41.366734+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Drop 'Functional Modality' from the summary since it's mostly unique values\nif 'Functional Modality' in summary_filtered.index:\n    summary_filtered = summary_filtered.drop(index='Functional Modality')\n\ntools.display_dataframe_to_user(name=\"Refined Frequency Summary\", dataframe=summary_filtered)"}
 
 ## ChatGPT (2025-04-03T07:21:45.809502+00:00)
 
@@ -120,9 +104,7 @@ If there are any other columns you’d like to clean up or drop, or if you want 
 
 apply 'Business-level' strategy as a filter for this entire table
 
-## ChatGPT (2025-04-03T07:27:45.743120+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Filter the dataset where 'Strategy Type' is 'Business-Level'\nbusiness_level_df = df[df['Strategy Type'] == 'Business-Level']\n\n# Recalculate the frequency summary for the filtered dataset\nfiltered_summary = pd.DataFrame({\n    'Missing Values': business_level_df.isnull().sum(),\n    'Unique Values': business_level_df.nunique(),\n    'Most Frequent Value': business_level_df.mode().iloc[0],\n    'Most Frequent %': business_level_df.apply(lambda col: (col == business_level_df.mode().iloc[0][col.name]).sum() / len(col) * 100).round(2),\n    'Least Frequent Value': business_level_df.apply(lambda col: col.value_counts().idxmin()),\n    'Least Frequent %': business_level_df.apply(lambda col: col.value_counts().min() / len(col) * 100).round(2)\n})\n\n# Remove 'Module ID' and 'Functional Modality' from the summary\nfiltered_summary = filtered_summary.drop(index=['Module ID', 'Functional Modality'])\n\ntools.display_dataframe_to_user(name=\"Business-Level Strategy Summary\", dataframe=filtered_summary)"}
 
 ## ChatGPT (2025-04-03T07:27:52.782730+00:00)
 
@@ -136,9 +118,7 @@ Want to explore another strategy type next? Or maybe dive deeper into relationsh
 
 you can remove the missing values column.
 
-## ChatGPT (2025-04-03T07:32:54.229287+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Drop 'Missing Values' column as requested\nfiltered_summary = filtered_summary.drop(columns='Missing Values')\n\ntools.display_dataframe_to_user(name=\"Business-Level Strategy Summary (Refined)\", dataframe=filtered_summary)"}
 
 ## ChatGPT (2025-04-03T07:32:59.067079+00:00)
 
@@ -148,9 +128,9 @@ Let me know if you'd like to slice the data by a different strategy type or comp
 
 ## You (2025-04-03T07:43:46.954000+00:00)
 
-hey this has been really helpful. we've been able to indentify issues with our data using this. 
+hey this has been really helpful. we've been able to indentify issues with our data using this.
 
-two corrections. there are incorrect entries for the 'stabilizer' column. 
+two corrections. there are incorrect entries for the 'stabilizer' column.
 
 For row
 
@@ -159,9 +139,7 @@ CATEGORICAL MODULE 33 - C1-I3, stabilizer should be: Tested First
 
 Please make the necessary adjustments and update this table.
 
-## ChatGPT (2025-04-03T07:43:47.444058+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Apply the specific corrections to the 'Stabilizer' column based on the Module ID\ndf.loc[df['Module ID'] == 'CATEGORICAL MODULE 13 - C2-I4', 'Stabilizer'] = 'Future-Proofed'\ndf.loc[df['Module ID'] == 'CATEGORICAL MODULE 33 - C1-I3', 'Stabilizer'] = 'Tested First'\n\n# Refilter the dataset for 'Business-Level' strategy after corrections\nbusiness_level_df = df[df['Strategy Type'] == 'Business-Level']\n\n# Recalculate the frequency summary\ncorrected_summary = pd.DataFrame({\n    'Unique Values': business_level_df.nunique(),\n    'Most Frequent Value': business_level_df.mode().iloc[0],\n    'Most Frequent %': business_level_df.apply(lambda col: (col == business_level_df.mode().iloc[0][col.name]).sum() / len(col) * 100).round(2),\n    'Least Frequent Value': business_level_df.apply(lambda col: col.value_counts().idxmin()),\n    'Least Frequent %': business_level_df.apply(lambda col: col.value_counts().min() / len(col) * 100).round(2)\n})\n\n# Drop 'Module ID' and 'Functional Modality' from the updated summary\ncorrected_summary = corrected_summary.drop(index=['Module ID', 'Functional Modality'])\n\ntools.display_dataframe_to_user(name=\"Corrected Business-Level Strategy Summary\", dataframe=corrected_summary)"}
 
 ## ChatGPT (2025-04-03T07:43:54.094351+00:00)
 
@@ -190,9 +168,7 @@ Let me calculate that and add two new columns:
 
 Let’s do it!
 
-## ChatGPT (2025-04-03T07:57:16.436910+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Function to compute median frequency value and its percentage\ndef get_median_frequency_value(series):\n    value_counts = series.value_counts()\n    sorted_counts = value_counts.sort_values()\n    median_index = len(sorted_counts) // 2\n    median_value = sorted_counts.index[median_index]\n    median_percentage = (sorted_counts.iloc[median_index] / len(series)) * 100\n    return median_value, round(median_percentage, 2)\n\n# Apply function to each column in the filtered business-level DataFrame\nmedian_values = {}\nmedian_percentages = {}\nfor col in corrected_summary.index:\n    value, percent = get_median_frequency_value(business_level_df[col])\n    median_values[col] = value\n    median_percentages[col] = percent\n\n# Add median frequency value and percentage to the summary\ncorrected_summary['Median Frequency Value'] = pd.Series(median_values)\ncorrected_summary['Median Frequency %'] = pd.Series(median_percentages)\n\ntools.display_dataframe_to_user(name=\"Business-Level Strategy Summary with Median\", dataframe=corrected_summary)"}
 
 ## ChatGPT (2025-04-03T07:57:29.371983+00:00)
 
@@ -206,9 +182,7 @@ Want to apply this same approach to another subset or strategy type?
 
 mould you move the 'least frequent' columns to the far right.
 
-## ChatGPT (2025-04-03T07:58:04.854820+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Reorder the columns to move 'Least Frequent Value' and 'Least Frequent %' to the far right\ncolumn_order = [\n    'Unique Values',\n    'Most Frequent Value', 'Most Frequent %',\n    'Median Frequency Value', 'Median Frequency %',\n    'Least Frequent Value', 'Least Frequent %'\n]\ncorrected_summary = corrected_summary[column_order]\n\ntools.display_dataframe_to_user(name=\"Reordered Business-Level Strategy Summary\", dataframe=corrected_summary)"}
 
 ## ChatGPT (2025-04-03T07:58:09.265496+00:00)
 
@@ -220,13 +194,9 @@ Let me know if you want to apply this format to another strategy type, export th
 
 Could you make a very similar table where strategy type is Adaptive and Crisis. Keep the one we made for Business-Level Strategy as is
 
-## ChatGPT (2025-04-04T14:13:46.788976+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Filter the dataset for 'Adaptive & Crisis' strategy type\nadaptive_crisis_df = df[df['Strategy Type'] == 'Adaptive & Crisis']\n\n# Generate frequency summary for the filtered dataset\nadaptive_summary = pd.DataFrame({\n    'Unique Values': adaptive_crisis_df.nunique(),\n    'Most Frequent Value': adaptive_crisis_df.mode().iloc[0],\n    'Most Frequent %': adaptive_crisis_df.apply(\n        lambda col: (col == adaptive_crisis_df.mode().iloc[0][col.name]).sum() / len(col) * 100\n    ).round(2),\n    'Median Frequency Value': adaptive_crisis_df.apply(\n        lambda col: col.value_counts().sort_values().index[len(col.value_counts()) // 2]\n    ),\n    'Median Frequency %': adaptive_crisis_df.apply(\n        lambda col: col.value_counts().sort_values().iloc[len(col.value_counts()) // 2] / len(col) * 100\n    ).round(2),\n    'Least Frequent Value': adaptive_crisis_df.apply(lambda col: col.value_counts().idxmin()),\n    'Least Frequent %': adaptive_crisis_df.apply(lambda col: col.value_counts().min() / len(col) * 100).round(2)\n})\n\n# Drop 'Module ID' and 'Functional Modality' as they aren't analytically useful\nadaptive_summary = adaptive_summary.drop(index=['Module ID', 'Functional Modality'])\n\ntools.display_dataframe_to_user(name=\"Adaptive & Crisis Strategy Summary\", dataframe=adaptive_summary)"}
 
-## ChatGPT (2025-04-04T14:13:52.971328+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Re-import necessary libraries after code execution state reset\nimport pandas as pd\n\n# Reload the uploaded CSV file\nfile_path = '/mnt/data/Tagging - Compilation.csv'\ndf = pd.read_csv(file_path)\n\n# Re-apply previous data corrections\ndf['Market Dispersion'] = df['Market Dispersion'].replace('National', 'Regional')\ndf.loc[df['Module ID'] == 'CATEGORICAL MODULE 13 - C2-I4', 'Stabilizer'] = 'Future-Proofed'\ndf.loc[df['Module ID'] == 'CATEGORICAL MODULE 33 - C1-I3', 'Stabilizer'] = 'Tested First'\n\n# Filter the dataset for 'Adaptive & Crisis' strategy type\nadaptive_crisis_df = df[df['Strategy Type'] == 'Adaptive & Crisis']\n\n# Generate frequency summary for the filtered dataset\nadaptive_summary = pd.DataFrame({\n    'Unique Values': adaptive_crisis_df.nunique(),\n    'Most Frequent Value': adaptive_crisis_df.mode().iloc[0],\n    'Most Frequent %': adaptive_crisis_df.apply(\n        lambda col: (col == adaptive_crisis_df.mode().iloc[0][col.name]).sum() / len(col) * 100\n    ).round(2),\n    'Median Frequency Value': adaptive_crisis_df.apply(\n        lambda col: col.value_counts().sort_values().index[len(col.value_counts()) // 2]\n    ),\n    'Median Frequency %': adaptive_crisis_df.apply(\n        lambda col: col.value_counts().sort_values().iloc[len(col.value_counts()) // 2] / len(col) * 100\n    ).round(2),\n    'Least Frequent Value': adaptive_crisis_df.apply(lambda col: col.value_counts().idxmin()),\n    'Least Frequent %': adaptive_crisis_df.apply(lambda col: col.value_counts().min() / len(col) * 100).round(2)\n})\n\n# Drop 'Module ID' and 'Functional Modality' as they aren't analytically useful\nadaptive_summary = adaptive_summary.drop(index=['Module ID', 'Functional Modality'])\n\nimport ace_tools as tools; tools.display_dataframe_to_user(name=\"Adaptive & Crisis Strategy Summary\", dataframe=adaptive_summary)"}
 
 ## ChatGPT (2025-04-04T14:14:10.842240+00:00)
 
@@ -236,9 +206,7 @@ It looks like the session reset, which caused the uploaded file to be lost. Coul
 
 here you go
 
-## ChatGPT (2025-04-04T14:14:36.753242+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Re-import the file\nfile_path = '/mnt/data/Tagging - Compilation.csv'\ndf = pd.read_csv(file_path)\n\n# Re-apply data corrections\ndf['Market Dispersion'] = df['Market Dispersion'].replace('National', 'Regional')\ndf.loc[df['Module ID'] == 'CATEGORICAL MODULE 13 - C2-I4', 'Stabilizer'] = 'Future-Proofed'\ndf.loc[df['Module ID'] == 'CATEGORICAL MODULE 33 - C1-I3', 'Stabilizer'] = 'Tested First'\n\n# Filter the dataset for 'Adaptive & Crisis' strategy type\nadaptive_crisis_df = df[df['Strategy Type'] == 'Adaptive & Crisis']\n\n# Generate frequency summary for the filtered dataset\nadaptive_summary = pd.DataFrame({\n    'Unique Values': adaptive_crisis_df.nunique(),\n    'Most Frequent Value': adaptive_crisis_df.mode().iloc[0],\n    'Most Frequent %': adaptive_crisis_df.apply(\n        lambda col: (col == adaptive_crisis_df.mode().iloc[0][col.name]).sum() / len(col) * 100\n    ).round(2),\n    'Median Frequency Value': adaptive_crisis_df.apply(\n        lambda col: col.value_counts().sort_values().index[len(col.value_counts()) // 2]\n    ),\n    'Median Frequency %': adaptive_crisis_df.apply(\n        lambda col: col.value_counts().sort_values().iloc[len(col.value_counts()) // 2] / len(col) * 100\n    ).round(2),\n    'Least Frequent Value': adaptive_crisis_df.apply(lambda col: col.value_counts().idxmin()),\n    'Least Frequent %': adaptive_crisis_df.apply(lambda col: col.value_counts().min() / len(col) * 100).round(2)\n})\n\n# Drop 'Module ID' and 'Functional Modality'\nadaptive_summary = adaptive_summary.drop(index=['Module ID', 'Functional Modality'])\n\n# Reorder columns to put least frequent values at the far right\ncolumn_order = [\n    'Unique Values',\n    'Most Frequent Value', 'Most Frequent %',\n    'Median Frequency Value', 'Median Frequency %',\n    'Least Frequent Value', 'Least Frequent %'\n]\nadaptive_summary = adaptive_summary[column_order]\n\nimport ace_tools as tools; tools.display_dataframe_to_user(name=\"Adaptive & Crisis Strategy Summary\", dataframe=adaptive_summary)"}
 
 ## ChatGPT (2025-04-04T14:14:56.787483+00:00)
 
@@ -254,9 +222,7 @@ Let me know if you want to compare this with other strategies or visualize any p
 
 Sry, instead of adaptive could you use 'Functional and Tactical' as the strategy type filter
 
-## ChatGPT (2025-04-04T14:22:38.233138+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Filter the dataset for 'Functional & Tactical' strategy type\nfunctional_tactical_df = df[df['Strategy Type'] == 'Functional & Tactical']\n\n# Generate frequency summary for the filtered dataset\nfunctional_summary = pd.DataFrame({\n    'Unique Values': functional_tactical_df.nunique(),\n    'Most Frequent Value': functional_tactical_df.mode().iloc[0],\n    'Most Frequent %': functional_tactical_df.apply(\n        lambda col: (col == functional_tactical_df.mode().iloc[0][col.name]).sum() / len(col) * 100\n    ).round(2),\n    'Median Frequency Value': functional_tactical_df.apply(\n        lambda col: col.value_counts().sort_values().index[len(col.value_counts()) // 2]\n    ),\n    'Median Frequency %': functional_tactical_df.apply(\n        lambda col: col.value_counts().sort_values().iloc[len(col.value_counts()) // 2] / len(col) * 100\n    ).round(2),\n    'Least Frequent Value': functional_tactical_df.apply(lambda col: col.value_counts().idxmin()),\n    'Least Frequent %': functional_tactical_df.apply(lambda col: col.value_counts().min() / len(col) * 100).round(2)\n})\n\n# Drop 'Module ID' and 'Functional Modality'\nfunctional_summary = functional_summary.drop(index=['Module ID', 'Functional Modality'])\n\n# Reorder columns to move least frequent values to the right\nfunctional_summary = functional_summary[[\n    'Unique Values',\n    'Most Frequent Value', 'Most Frequent %',\n    'Median Frequency Value', 'Median Frequency %',\n    'Least Frequent Value', 'Least Frequent %'\n]]\n\nimport ace_tools as tools; tools.display_dataframe_to_user(name=\"Functional & Tactical Strategy Summary\", dataframe=functional_summary)"}
 
 ## ChatGPT (2025-04-04T14:22:59.439769+00:00)
 
@@ -272,9 +238,7 @@ Let me know if you'd like to compare this with the other strategies side-by-side
 
 Could you make a very similar table, but with no filter for strategy type. Keep the one we made for Business-Level Strategy as is
 
-## ChatGPT (2025-04-04T14:26:34.695938+00:00)
 
-{"content_type": "code", "language": "unknown", "response_format_name": null, "text": "# Generate frequency summary for the entire dataset (no strategy filter)\noverall_summary = pd.DataFrame({\n    'Unique Values': df.nunique(),\n    'Most Frequent Value': df.mode().iloc[0],\n    'Most Frequent %': df.apply(\n        lambda col: (col == df.mode().iloc[0][col.name]).sum() / len(col) * 100\n    ).round(2),\n    'Median Frequency Value': df.apply(\n        lambda col: col.value_counts().sort_values().index[len(col.value_counts()) // 2]\n    ),\n    'Median Frequency %': df.apply(\n        lambda col: col.value_counts().sort_values().iloc[len(col.value_counts()) // 2] / len(col) * 100\n    ).round(2),\n    'Least Frequent Value': df.apply(lambda col: col.value_counts().idxmin()),\n    'Least Frequent %': df.apply(lambda col: col.value_counts().min() / len(col) * 100).round(2)\n})\n\n# Drop 'Module ID' and 'Functional Modality' as before\noverall_summary = overall_summary.drop(index=['Module ID', 'Functional Modality'])\n\n# Reorder columns to match the layout used previously\noverall_summary = overall_summary[[\n    'Unique Values',\n    'Most Frequent Value', 'Most Frequent %',\n    'Median Frequency Value', 'Median Frequency %',\n    'Least Frequent Value', 'Least Frequent %'\n]]\n\nimport ace_tools as tools; tools.display_dataframe_to_user(name=\"Overall Strategy Summary\", dataframe=overall_summary)"}
 
 ## ChatGPT (2025-04-04T14:26:46.148490+00:00)
 
@@ -285,4 +249,3 @@ Here’s the **Overall Strategy Summary** (no filters applied), structured just 
 - Also reveals a more even distribution in **Strategy Type**, with **"Innovation & Growth"** showing up as the median.
 
 Would you like to stack these summaries together for comparison? Or maybe visualize how one column shifts across strategy types?
-

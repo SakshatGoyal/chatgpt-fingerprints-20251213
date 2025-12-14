@@ -2,14 +2,13 @@
 
 ## You (2025-04-18T21:18:43.224000+00:00)
 
-Help me craft a collective prompt best aligned with the ideal practices needed for creating an effective prompt to promote creativity for the following intent. Make sure you're capturing all the content, while also addressing any unresolved ambiguities. In your response, give me the prompt alone, with nothing extra. 
+Help me craft a collective prompt best aligned with the ideal practices needed for creating an effective prompt to promote creativity for the following intent. Make sure you're capturing all the content, while also addressing any unresolved ambiguities. In your response, give me the prompt alone, with nothing extra.
 
 
 ---
 
 
-
-I want you to draw out a few sharp insights through a creative yet analytical synthesis of the attached documents, along with your years of experience drawing nuanced insights through multiple themes and different datapoints. 
+I want you to draw out a few sharp insights through a creative yet analytical synthesis of the attached documents, along with your years of experience drawing nuanced insights through multiple themes and different datapoints.
 
 Here's what I mean by an insight:
 
@@ -26,7 +25,6 @@ Example:
 "Patients become anxious in waiting rooms primarily due to sensory isolation and informational uncertainty, rather than the wait duration alone."
 
 
-
 ⚠️ Strategic Guardrails to Maintain Creativity without Speculation
 Creativity in generating insights is essential—but should be disciplined by these clear guardrails which i need you to internally think through while writing individual insights:
 
@@ -39,9 +37,9 @@ Explicitly Name Constraints | State clearly what the insight does NOT imply—cl
 
 
 Additional context about the attached documents:
-the .md file contains a series of themes drawn out through our team's internal synthesis of the different stories. the stories can be found in the .txt files I've attaches. 
+the .md file contains a series of themes drawn out through our team's internal synthesis of the different stories. the stories can be found in the .txt files I've attaches.
 
-Each theme is mapped to an individual text file. For example, 
+Each theme is mapped to an individual text file. For example,
 
 theme 0101 is drawn from content in 101.txt
 theme 102 is drawn from content in 102.txt
@@ -141,13 +139,12 @@ Adopt the persona of a **senior insight strategist and pattern synthesis lead** 
 
 For each insight, provide:
 
-**Insight:** [Concise insight statement]  
-**Themes Referenced:** [e.g., theme 102, theme 103]  
-**Supporting Evidence:** [Brief quote/paraphrase from each source]  
-**Falsifiability Check:** [How this could be disproven]  
-**Constraints:** [What this insight *does not* imply]  
+**Insight:** [Concise insight statement]
+**Themes Referenced:** [e.g., theme 102, theme 103]
+**Supporting Evidence:** [Brief quote/paraphrase from each source]
+**Falsifiability Check:** [How this could be disproven]
+**Constraints:** [What this insight *does not* imply]
 
 ---
 
 **Begin your synthesis. Be bold, but grounded. Reveal what others have overlooked.**
-

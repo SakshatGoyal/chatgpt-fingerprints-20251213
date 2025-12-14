@@ -6,15 +6,15 @@ Hey Michael, how good are you at? Sort of user research like I don't want you to
 
 ## ChatGPT (2025-02-25T21:27:49.644219+00:00)
 
-Hey! Yeah, I definitely have the skills to guide and manage a user research project. I’ve led numerous research efforts, from exploratory generative research to usability testing and behavioral analytics. My background includes structuring studies, selecting the right methodologies, defining research goals, synthesizing findings, and translating insights into actionable design and business strategies. 
+Hey! Yeah, I definitely have the skills to guide and manage a user research project. I’ve led numerous research efforts, from exploratory generative research to usability testing and behavioral analytics. My background includes structuring studies, selecting the right methodologies, defining research goals, synthesizing findings, and translating insights into actionable design and business strategies.
 
-If you're working on a research project, I can help with things like:  
-- Defining the research scope and key questions  
-- Choosing methodologies (qualitative, quantitative, mixed methods)  
-- Structuring interview guides, surveys, or usability tasks  
-- Recruiting participants effectively  
-- Synthesizing and communicating insights to stakeholders  
-- Connecting findings to design and business decisions  
+If you're working on a research project, I can help with things like:
+- Defining the research scope and key questions
+- Choosing methodologies (qualitative, quantitative, mixed methods)
+- Structuring interview guides, surveys, or usability tasks
+- Recruiting participants effectively
+- Synthesizing and communicating insights to stakeholders
+- Connecting findings to design and business decisions
 
 Are you planning a study, or just trying to get a sense of my experience?
 
@@ -85,4 +85,3 @@ Since your research will be US-focused, but industries vary by geography within 
 Your approach should blend **structured comparison (framework-driven analysis)** with **qualitative insights (books, executive interviews, white papers)** to paint a well-rounded picture. To avoid bias, make sure you pull from a **broad range of sources**—not just UX-heavy industries but also regulatory reports, industry publications, and executive consulting insights.
 
 Would you like help finding specific sources or structuring your research synthesis?
-

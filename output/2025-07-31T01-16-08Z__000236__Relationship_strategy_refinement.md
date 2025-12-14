@@ -271,7 +271,7 @@ Would you like help tailoring one of these even more to fit your voice exactly?
 
 Here's the thing. I said
 
-Me: So… apparently I say ‘cartographer’ now. You’ve infected my metaphors. Consider this your victory. 
+Me: So… apparently I say ‘cartographer’ now. You’ve infected my metaphors. Consider this your victory.
 She: It’s a common word to say 😅
 Me: Not the way I use it.
 
@@ -394,4 +394,3 @@ Introduce ambiguity she feels compelled to solve.
 ---
 
 Choose based on which version of yourself you want to project: aloof strategist, curious friend, or playful shadow. I recommend Option 3 or 5 if you want to hold her attention tightly. Do you want help customizing one for your exact tone before you send it?
-

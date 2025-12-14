@@ -30,4 +30,3 @@ So give me a sentence for it. I'm basically trying to say that the term industri
 Here's a clear, general sentence framing your concept without using the specific example:
 
 > "The term 'industry' is inherently **context-sensitive**, shifting its meaning and scope depending on the context in which it is applied."
-

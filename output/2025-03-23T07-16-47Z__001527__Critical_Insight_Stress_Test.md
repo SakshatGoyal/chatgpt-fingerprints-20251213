@@ -160,65 +160,65 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 #### **Insight 1: Integration of Automatic and Controlled Thinking**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Both executives and consumers rely on a mix of automatic and conscious processing; however, executives exhibit a higher degree of meta-thinking—reflecting on how they think—which can enhance decision quality. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 In executive settings, this dual-processing model is critical. While automatic responses allow for rapid decisions, structured meta-thinking (often formalized in organizational protocols) helps counteract biases such as overconfidence and the fallacy of centrality. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Direct research examples in the paper reveal that executives often document their thought processes (e.g., through written checklists and formal guidelines) to capture meta-thinking, unlike consumers whose decision processes remain largely implicit. **[Empirical]**
 
 ---
 
 #### **Insight 2: Use of Simplifying Categorization Rules**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Both decision-maker groups use simplifying categorization rules to frame problems; yet, executives tend to formalize these categories in writing, promoting systematic approaches that can drive consistency but may also introduce rigidity. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 For executives, formalizing categorization aids in managing complex problems by reducing ambiguity. This practice supports strategic clarity but might limit flexibility in novel situations. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The research documents that while both consumers and executives simplify decision contexts by relying on heuristics, only organizational contexts exhibit formal written guidelines for categorization—a practice linked to improved reliability in decision outcomes. **[Empirical]**
 
 ---
 
 #### **Insight 3: Simplifying Evaluation and Choice Rules**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Decision-makers simplify complex choices using heuristic elimination strategies; however, executives uniquely supplement these with formal, written evaluation rules, suggesting a trade-off between rapid decision-making and thorough analysis. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 In the corporate realm, the formalization of evaluation and choice rules facilitates a more rigorous comparison of alternatives, helping to balance efficiency with analytical depth—though this might risk oversimplifying nuanced decision factors. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Empirical evidence in the paper shows that while both groups employ conjunctive rules to narrow options, only professional buyers adopt detailed evaluative frameworks (such as weighted compensatory models) to validate their final choices. **[Empirical]**
 
 ---
 
 #### **Insight 4: Group Decision-Making Dynamics**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Group decision-making occurs in both executive and consumer contexts, but formalized group procedures in business settings create a structured dynamic that influences who is heard and how consensus is reached, contrasting with the more ad hoc consumer processes. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 In organizational settings, structured meetings—with clear roles, documented discussions, and formal decision rules—ensure accountability and consistency, though they may also slow down the process. **[Inferred]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper presents direct research findings that formal group procedures (such as documented minutes and cross-departmental meetings) are standard in industrial contexts, ensuring that decision-making is both collaborative and traceable—a stark difference from the informal deliberations seen among consumers. **[Empirical]**
 
 ---
 
 #### **Insight 5: Post-Decision Evaluation and Performance Audits**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Both executives and consumers engage in post-decision evaluations, yet the rigorous performance audits conducted by industrial firms provide a systematic feedback loop that can drive continuous improvement—an element notably absent in consumer decision processes. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
+**2. Executive Decision-Making Context**
 For executives, formal performance audits offer structured learning opportunities that refine future decisions and help mitigate recurring biases. This systematic approach contrasts with the intuitive, less scrutinized evaluations typical among consumers. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The research details that while post-decision assessments are common across contexts, only organizations routinely implement documented performance audits to measure supplier performance, decision efficacy, and overall strategic alignment. **[Empirical]**
 
 ---
@@ -228,7 +228,7 @@ The research details that while post-decision assessments are common across cont
 - **Coverage Fit:** High — The paper provides comprehensive insights into the decision-making processes of both executives and consumers, directly addressing strategic reasoning and cognitive biases.
 - **Bias & Cognitive Modeling Content:** Present — The work explicitly discusses cognitive biases (e.g., overconfidence and the fallacy of centrality) and integrates models of automatic versus controlled thinking.
 - **Clarity of Methods & Outcomes:** Clear — Direct research methods are well-documented, and the findings are presented through comparative analyses of formal versus informal decision practices.
-- **Areas with No Data:**  
+- **Areas with No Data:**
     - All sections (Insight Statement, Executive Decision-Making Context, Supporting Context) are well supported by empirical examples and direct research evidence in the paper.
 
 ## You (2025-03-23T07:17:43.505000+00:00)
@@ -522,21 +522,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -549,4 +549,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T07:20:07.647157+00:00)
 
 Wilson, E. J., & Woodside, A. G. (2001). Executive and consumer decision processes: Increasing useful sensemaking by identifying similarities and departures. *Journal of Business and Industrial Marketing, 16*(5), 401–414. https://doi.org/10.1108/08858620110400232
-

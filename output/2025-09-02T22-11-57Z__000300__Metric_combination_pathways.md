@@ -119,67 +119,63 @@ Keep the output compact, skimmable, and creative—**minimal examples** (only wh
 ## Origin Map
 
 - **Origin 1: Plan Spine (Closed–Commit–Best Case)**
-  - **Orientation:** Start with the simplest roll‑up of in‑period progress. Read how **Closed ($)**, **Commit ($)**, and **Best Case In ($)** combine into **Total CCBC ($)** to form a single “spine” for momentum toward plan. Note: the CCBC composition is described as Closed + Commit + Best Case **[needs confirmation]**. fileciteturn0file0
-  - **Core Metric Set:** Total CCBC ($); Closed ($); Commit ($); Best Case In ($); District (identifier). fileciteturn0file0  
+  - **Orientation:** Start with the simplest roll‑up of in‑period progress. Read how **Closed ($)**, **Commit ($)**, and **Best Case In ($)** combine into **Total CCBC ($)** to form a single “spine” for momentum toward plan. Note: the CCBC composition is described as Closed + Commit + Best Case **[needs confirmation]**. fileciteturn0file0
+  - **Core Metric Set:** Total CCBC ($); Closed ($); Commit ($); Best Case In ($); District (identifier). fileciteturn0file0
   - **Granularity note:** These are **aggregate/period** values (with **District** as a slice).
 
 - **Origin 2: Capacity & Motion Coverage (from seat → skill → live motion)**
-  - **Orientation:** Explore whether the team’s staffed capacity and readiness are translating into broad, current selling motion. Pair **# Territories (#)** and **% Territories Filled (%)** with **% Reps Ramped (%)**, then check “are reps actually in market?” via **# Reps in Deals (#)** and, for a chosen tower, **% Reps in Deals — SASE (%)** and **% Reps Certified — SASE (%)**. fileciteturn0file0
-  - **Core Metric Set:** # Territories (#); % Territories Filled (%); % Reps Ramped (%); # Reps in Deals (#); % Reps in Deals — SASE (%); % Reps Certified — SASE (%). fileciteturn0file0  
+  - **Orientation:** Explore whether the team’s staffed capacity and readiness are translating into broad, current selling motion. Pair **# Territories (#)** and **% Territories Filled (%)** with **% Reps Ramped (%)**, then check “are reps actually in market?” via **# Reps in Deals (#)** and, for a chosen tower, **% Reps in Deals — SASE (%)** and **% Reps Certified — SASE (%)**. fileciteturn0file0
+  - **Core Metric Set:** # Territories (#); % Territories Filled (%); % Reps Ramped (%); # Reps in Deals (#); % Reps in Deals — SASE (%); % Reps Certified — SASE (%). fileciteturn0file0
   - **Granularity note:** Mix of **aggregate coverage** (% of reps) and **AE‑level readiness** (certifications by rep aggregated to %).
 
 - **Origin 3: Engagement → Proof → Platformization (per tower)**
-  - **Orientation:** Follow a simple chain: Are reps engaging? Do proofs land? Does that show up as deeper product adoption? For one tower (example: Cloud), link **External Meetings Per Rep (#/rep)** and **Director+ Meetings Per Rep Team (#/team or #/rep)** to **POV Win Rate — Cloud (%)** and **Median POV Duration — Cloud (Days)**, and then to **Cloud % Accts Platformized (%)**. (“Dir+” is assumed Director‑and‑above **[needs confirmation]**.) fileciteturn0file0
-  - **Core Metric Set:** External Meetings Per Rep (#/rep); Director+ Meetings Per Rep Team (#/team or #/rep); POV Win Rate — Cloud (%); Median POV Duration — Cloud (Days); Cloud % Accts Platformized (%). fileciteturn0file0  
+  - **Orientation:** Follow a simple chain: Are reps engaging? Do proofs land? Does that show up as deeper product adoption? For one tower (example: Cloud), link **External Meetings Per Rep (#/rep)** and **Director+ Meetings Per Rep Team (#/team or #/rep)** to **POV Win Rate — Cloud (%)** and **Median POV Duration — Cloud (Days)**, and then to **Cloud % Accts Platformized (%)**. (“Dir+” is assumed Director‑and‑above **[needs confirmation]**.) fileciteturn0file0
+  - **Core Metric Set:** External Meetings Per Rep (#/rep); Director+ Meetings Per Rep Team (#/team or #/rep); POV Win Rate — Cloud (%); Median POV Duration — Cloud (Days); Cloud % Accts Platformized (%). fileciteturn0file0
   - **Granularity note:** Engagement metrics can be **AE‑level** or **team‑level**; validation and platformization are **aggregate** at cohort/tower level.
-
 
 
 ## Depth & Divergence by Origin
 
 - **Origin 1: Plan Spine**
-  - **Level A — Surface:** Read **Total CCBC ($)** alongside **Closed ($)** to orient on realized share of the period’s CCBC. fileciteturn0file0
-  - **Level B — Combination:** Combine **Closed ($)** + **Commit ($)** to see how much of CCBC is grounded in realized + formally committed dollars versus **Best Case In ($)**. fileciteturn0file0
-  - **Level C — Contrast:** Split by **District** to examine how the Commit/Best Case mix differs across teams. fileciteturn0file0
-  - **Divergence options:**  
-    - Time‑shift (e.g., current period vs. prior period) using the same four plan metrics.  
-    - Add a cohort lens (e.g., districts with higher **% Reps Ramped (%)** from Origin 2) to see how ramped capacity aligns with the Commit/Best Case composition. fileciteturn0file0
+  - **Level A — Surface:** Read **Total CCBC ($)** alongside **Closed ($)** to orient on realized share of the period’s CCBC. fileciteturn0file0
+  - **Level B — Combination:** Combine **Closed ($)** + **Commit ($)** to see how much of CCBC is grounded in realized + formally committed dollars versus **Best Case In ($)**. fileciteturn0file0
+  - **Level C — Contrast:** Split by **District** to examine how the Commit/Best Case mix differs across teams. fileciteturn0file0
+  - **Divergence options:**
+    - Time‑shift (e.g., current period vs. prior period) using the same four plan metrics.
+    - Add a cohort lens (e.g., districts with higher **% Reps Ramped (%)** from Origin 2) to see how ramped capacity aligns with the Commit/Best Case composition. fileciteturn0file0
 
 - **Origin 2: Capacity & Motion Coverage**
-  - **Level A — Surface:** Compare **# Territories (#)** to **% Territories Filled (%)** to understand staffed scope. fileciteturn0file0
-  - **Level B — Combination:** Overlay **% Reps Ramped (%)** with **# Reps in Deals (#)** to see whether productive seats are translating into active opportunities. fileciteturn0file0
-  - **Level C — Contrast:** For a tower (e.g., SASE), look at **% Reps in Deals — SASE (%)** vs. **% Reps Certified — SASE (%)** to compare enablement readiness with actual participation. fileciteturn0file0
-  - **Divergence options:**  
-    - Swap tower (Firewall/CDSS/Cloud/Cortex) using the analogous **% Reps in Deals — [Tower] (%)** and **% Reps Certified — [Tower] (%)**.  
-    - Add outcome context by bringing in **% Reps ≥100% (CY/YTD) (%)** to observe participation vs. in‑year attainment patterns without assigning causality. fileciteturn0file0
+  - **Level A — Surface:** Compare **# Territories (#)** to **% Territories Filled (%)** to understand staffed scope. fileciteturn0file0
+  - **Level B — Combination:** Overlay **% Reps Ramped (%)** with **# Reps in Deals (#)** to see whether productive seats are translating into active opportunities. fileciteturn0file0
+  - **Level C — Contrast:** For a tower (e.g., SASE), look at **% Reps in Deals — SASE (%)** vs. **% Reps Certified — SASE (%)** to compare enablement readiness with actual participation. fileciteturn0file0
+  - **Divergence options:**
+    - Swap tower (Firewall/CDSS/Cloud/Cortex) using the analogous **% Reps in Deals — [Tower] (%)** and **% Reps Certified — [Tower] (%)**.
+    - Add outcome context by bringing in **% Reps ≥100% (CY/YTD) (%)** to observe participation vs. in‑year attainment patterns without assigning causality. fileciteturn0file0
 
 - **Origin 3: Engagement → Proof → Platformization**
-  - **Level A — Surface:** Start with **External Meetings Per Rep (#/rep)** and **Director+ Meetings Per Rep Team** to see basic contact density and senior access. (Dir+ meaning is an assumption **[needs confirmation]**.) fileciteturn0file0
-  - **Level B — Combination:** Introduce **POV Win Rate — Cloud (%)** and **Median POV Duration — Cloud (Days)** to connect engagement with the **proof** motion’s effectiveness and cycle time. fileciteturn0file0
-  - **Level C — Contrast:** Add **Cloud % Accts Platformized (%)** to see whether higher proof success or faster proofs coincide with deeper multi‑product adoption. fileciteturn0file0
-  - **Divergence options:**  
-    - Branch to **Cloud % Accts w/ Active Pipeline (%)** to check whether engagement/proof sits inside broader account motion.  
-    - Switch tower (Firewall/SASE/CDSS/Cortex) by substituting the corresponding **POV Win Rate — [Tower] (%)**, **Median POV Duration — [Tower] (Days)**, and **[Tower] % Accts Platformized (%)**. fileciteturn0file0
-
+  - **Level A — Surface:** Start with **External Meetings Per Rep (#/rep)** and **Director+ Meetings Per Rep Team** to see basic contact density and senior access. (Dir+ meaning is an assumption **[needs confirmation]**.) fileciteturn0file0
+  - **Level B — Combination:** Introduce **POV Win Rate — Cloud (%)** and **Median POV Duration — Cloud (Days)** to connect engagement with the **proof** motion’s effectiveness and cycle time. fileciteturn0file0
+  - **Level C — Contrast:** Add **Cloud % Accts Platformized (%)** to see whether higher proof success or faster proofs coincide with deeper multi‑product adoption. fileciteturn0file0
+  - **Divergence options:**
+    - Branch to **Cloud % Accts w/ Active Pipeline (%)** to check whether engagement/proof sits inside broader account motion.
+    - Switch tower (Firewall/SASE/CDSS/Cortex) by substituting the corresponding **POV Win Rate — [Tower] (%)**, **Median POV Duration — [Tower] (Days)**, and **[Tower] % Accts Platformized (%)**. fileciteturn0file0
 
 
 ## Illustrative Micro‑Scenarios (Hypothetical)
 
-- **Origin 1 (Plan Spine):** *Hypothetical.* A district shows **Total CCBC** of **$12M**, with **Closed** at **$5M**, **Commit** at **$4M**, and **Best Case In** at **$3M**. This sketch lets you see how much of CCBC is already realized or formally committed versus stretch upside—without judging whether that mix is “right.” [metrics-used: Total CCBC ($), Closed ($), Commit ($), Best Case In ($)] fileciteturn0file0
+- **Origin 1 (Plan Spine):** *Hypothetical.* A district shows **Total CCBC** of **$12M**, with **Closed** at **$5M**, **Commit** at **$4M**, and **Best Case In** at **$3M**. This sketch lets you see how much of CCBC is already realized or formally committed versus stretch upside—without judging whether that mix is “right.” [metrics-used: Total CCBC ($), Closed ($), Commit ($), Best Case In ($)] fileciteturn0file0
 
-- **Origin 2 (Capacity & Motion Coverage):** *Hypothetical.* The team has **# Territories** = **12**, **% Territories Filled** = **83%**, **% Reps Ramped** = **50%**, and **# Reps in Deals** = **8**. This places staffed capacity next to readiness and live motion, offering a compact read on whether seats and skills are showing up as active selling—no value judgment implied. [metrics-used: # Territories (#), % Territories Filled (%), % Reps Ramped (%), # Reps in Deals (#)] fileciteturn0file0
+- **Origin 2 (Capacity & Motion Coverage):** *Hypothetical.* The team has **# Territories** = **12**, **% Territories Filled** = **83%**, **% Reps Ramped** = **50%**, and **# Reps in Deals** = **8**. This places staffed capacity next to readiness and live motion, offering a compact read on whether seats and skills are showing up as active selling—no value judgment implied. [metrics-used: # Territories (#), % Territories Filled (%), % Reps Ramped (%), # Reps in Deals (#)] fileciteturn0file0
 
-- **Origin 3 (Engagement → Proof → Platformization):** *Hypothetical (Cloud).* **External Meetings Per Rep** = **6**, **Director+ Meetings Per Rep Team** = **2**, **POV Win Rate — Cloud** = **60%**, and **Cloud % Accts Platformized** = **25%**. This creates a simple pathway from contact density through proof outcomes to product depth, open to further branching (e.g., add **Median POV Duration — Cloud (Days)** later). [metrics-used: External Meetings Per Rep (#/rep), Director+ Meetings Per Rep Team (#/team or #/rep), POV Win Rate — Cloud (%), Cloud % Accts Platformized (%)] fileciteturn0file0
-
+- **Origin 3 (Engagement → Proof → Platformization):** *Hypothetical (Cloud).* **External Meetings Per Rep** = **6**, **Director+ Meetings Per Rep Team** = **2**, **POV Win Rate — Cloud** = **60%**, and **Cloud % Accts Platformized** = **25%**. This creates a simple pathway from contact density through proof outcomes to product depth, open to further branching (e.g., add **Median POV Duration — Cloud (Days)** later). [metrics-used: External Meetings Per Rep (#/rep), Director+ Meetings Per Rep Team (#/team or #/rep), POV Win Rate — Cloud (%), Cloud % Accts Platformized (%)] fileciteturn0file0
 
 
 ## Open Questions
 
-1. Where does the **Commit ($)** vs. **Best Case In ($)** mix within **Total CCBC ($)** look materially different by **District**, and what cohort lens (e.g., tenure or **% Reps Ramped (%)**) best explains the contrast? fileciteturn0file0  
-2. When **% Reps Certified — [Tower] (%)** exceeds **% Reps in Deals — [Tower] (%)**, which districts show the widest gap, and does the gap move in tandem with **# Reps in Deals (#)** over time? fileciteturn0file0  
-3. For Cloud, how do shifts in **POV Win Rate — Cloud (%)** relate to **Median POV Duration — Cloud (Days)** and downstream **Cloud % Accts Platformized (%)** when you compare two adjacent quarters? fileciteturn0file0  
-4. Does higher **Director+ Meetings Per Rep Team** coincide with any change in **Total CCBC ($)** composition (more **Commit ($)** vs. **Best Case In ($)**) in districts with similar **% Territories Filled (%)**? (Dir+ meaning **[needs confirmation]**.) fileciteturn0file0  
-5. If you segment by account type using **# G2K Accts (#)** vs. the remainder, how do **[Tower] % Accts w/ Active Pipeline (%)** and **[Tower] % Accts Platformized (%)** travel together or diverge? fileciteturn0file0
+1. Where does the **Commit ($)** vs. **Best Case In ($)** mix within **Total CCBC ($)** look materially different by **District**, and what cohort lens (e.g., tenure or **% Reps Ramped (%)**) best explains the contrast? fileciteturn0file0
+2. When **% Reps Certified — [Tower] (%)** exceeds **% Reps in Deals — [Tower] (%)**, which districts show the widest gap, and does the gap move in tandem with **# Reps in Deals (#)** over time? fileciteturn0file0
+3. For Cloud, how do shifts in **POV Win Rate — Cloud (%)** relate to **Median POV Duration — Cloud (Days)** and downstream **Cloud % Accts Platformized (%)** when you compare two adjacent quarters? fileciteturn0file0
+4. Does higher **Director+ Meetings Per Rep Team** coincide with any change in **Total CCBC ($)** composition (more **Commit ($)** vs. **Best Case In ($)**) in districts with similar **% Territories Filled (%)**? (Dir+ meaning **[needs confirmation]**.) fileciteturn0file0
+5. If you segment by account type using **# G2K Accts (#)** vs. the remainder, how do **[Tower] % Accts w/ Active Pipeline (%)** and **[Tower] % Accts Platformized (%)** travel together or diverge? fileciteturn0file0
 
-*Ambiguities noted (not resolved here):* **Total CCBC** composition, “**ATR**” expansion, “**ASR**” and “**Dir+**” meanings include explicit **[needs confirmation]** flags in the dictionary; this journey preserves those placeholders without inferring new definitions. fileciteturn0file0
-
+*Ambiguities noted (not resolved here):* **Total CCBC** composition, “**ATR**” expansion, “**ASR**” and “**Dir+**” meanings include explicit **[needs confirmation]** flags in the dictionary; this journey preserves those placeholders without inferring new definitions. fileciteturn0file0

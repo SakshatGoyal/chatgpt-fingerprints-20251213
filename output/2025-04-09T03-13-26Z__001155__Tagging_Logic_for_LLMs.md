@@ -16,9 +16,9 @@ Here is a rewritten version of the section **🧠 How to Think While Tagging**, 
 
 ## 🧠 How to Think While Tagging (LLM-Optimized Version)
 
-> This section defines evaluation logic for applying interpretive tags.  
-> The evaluator’s task is to detect latent dynamics—not surface language—and assign labels accordingly.  
-> Interpretation is permitted, but must remain evidence-linked.  
+> This section defines evaluation logic for applying interpretive tags.
+> The evaluator’s task is to detect latent dynamics—not surface language—and assign labels accordingly.
+> Interpretation is permitted, but must remain evidence-linked.
 > Do not verify facts. Focus on mapping how strategic behavior is framed, resisted, or resolved.
 
 ---
@@ -28,12 +28,12 @@ Here is a rewritten version of the section **🧠 How to Think While Tagging**, 
 - **Rule**: Inferences are valid if they are grounded in observable patterns or behaviors.
 - **Exclusion**: Do not tag speculative opinions or prescriptive statements.
 
-**Valid Example**  
-> “Executives didn’t say this directly, but the pattern of investment indicates a shift toward ecosystem alignment.”  
+**Valid Example**
+> “Executives didn’t say this directly, but the pattern of investment indicates a shift toward ecosystem alignment.”
 → Apply tag: `Ecosystem Frame`
 
-**Invalid Example**  
-> “Companies should start thinking about ecosystem alignment.”  
+**Invalid Example**
+> “Companies should start thinking about ecosystem alignment.”
 → ❌ Do not tag. This is a recommendation, not behavioral evidence.
 
 ---
@@ -43,12 +43,12 @@ Here is a rewritten version of the section **🧠 How to Think While Tagging**, 
 - **Rule**: Tag when the module reconstructs a decision-maker’s logic, even without direct quotes.
 - **Exclusion**: Do not tag statements that describe general knowledge or literature, not specific actors.
 
-**Valid Example**  
-> “Leaders assumed personalization would drive retention.”  
+**Valid Example**
+> “Leaders assumed personalization would drive retention.”
 → Apply tag: `Cognitive Fog` (if assumption was incorrect)
 
-**Invalid Example**  
-> “The literature suggests personalization is effective.”  
+**Invalid Example**
+> “The literature suggests personalization is effective.”
 → ❌ Do not tag. Describes external context, not actor behavior.
 
 ---
@@ -58,12 +58,12 @@ Here is a rewritten version of the section **🧠 How to Think While Tagging**, 
 - **Rule**: Tag only strategic behavior that actually occurred—not advice or aspiration.
 - **Exclusion**: Exclude normative statements that describe what “should” be done.
 
-**Valid Example**  
-> “Executives prioritized automation despite cultural resistance.”  
+**Valid Example**
+> “Executives prioritized automation despite cultural resistance.”
 → Apply tag: `Cultural Drift`
 
-**Invalid Example**  
-> “Organizations must overcome resistance to succeed with automation.”  
+**Invalid Example**
+> “Organizations must overcome resistance to succeed with automation.”
 → ❌ Do not tag. This is a normative claim.
 
 ---
@@ -73,12 +73,12 @@ Here is a rewritten version of the section **🧠 How to Think While Tagging**, 
 - **Rule**: Concepts must shape the decision dynamics (e.g. frame ambiguity, resolve tension).
 - **Exclusion**: Ignore mentions that have no causal or strategic role.
 
-**Valid Example**  
-> “The pilot’s results tipped the decision toward full rollout.”  
+**Valid Example**
+> “The pilot’s results tipped the decision toward full rollout.”
 → Apply tag: `Tested First`
 
-**Invalid Example**  
-> “A pilot was conducted.”  
+**Invalid Example**
+> “A pilot was conducted.”
 → ❌ Do not tag. No link to decision shift.
 
 ---
@@ -88,12 +88,12 @@ Here is a rewritten version of the section **🧠 How to Think While Tagging**, 
 - **Rule**: Apply `Surface Alignment` only when observed behavior contradicts stated agreement.
 - **Fallback**: Use `Unknown` if contradiction is suspected but not evidenced.
 
-**Valid Example**  
-> “Teams voiced alignment, but execution varied drastically across regions.”  
+**Valid Example**
+> “Teams voiced alignment, but execution varied drastically across regions.”
 → Apply tag: `Surface Alignment`
 
-**Invalid Example**  
-> “The strategy sounds clean, but I’m not sure everyone really agreed.”  
+**Invalid Example**
+> “The strategy sounds clean, but I’m not sure everyone really agreed.”
 → ❌ Use fallback tag: `Unknown`
 
 ---
@@ -103,12 +103,12 @@ Here is a rewritten version of the section **🧠 How to Think While Tagging**, 
 - **Rule**: Generalizations are taggable when they reflect multiple, evidenced cases—not hypotheticals.
 - **Exclusion**: One-off incidents do not support systemic tags.
 
-**Valid Example**  
-> “Over several initiatives, feedback loops were consistently ignored.”  
+**Valid Example**
+> “Over several initiatives, feedback loops were consistently ignored.”
 → Apply tag: `Ignored Insight`
 
-**Invalid Example**  
-> “This one initiative received negative feedback.”  
+**Invalid Example**
+> “This one initiative received negative feedback.”
 → ❌ Do not tag. Not a pattern.
 
 ---
@@ -118,19 +118,19 @@ Here is a rewritten version of the section **🧠 How to Think While Tagging**, 
 - **Rule**: Tag strategic shaping forces (e.g. misalignment, momentum shifts), not standalone events.
 - **Exclusion**: Dates, timelines, or factual details without dynamic context are not taggable.
 
-**Valid Example**  
-> “The team deferred launch three times due to cross-functional misalignment.”  
+**Valid Example**
+> “The team deferred launch three times due to cross-functional misalignment.”
 → Apply tag: `Lost Direction` or `Alignment Achieved` (depending on resolution)
 
-**Invalid Example**  
-> “The launch happened in 2023.”  
+**Invalid Example**
+> “The launch happened in 2023.”
 → ❌ Do not tag. No behavioral implication.
 
 ---
 
 ### 📌 Summary Rule
 
-> Tag any excerpt that reconstructs how the decision was experienced or interpreted by actors.  
+> Tag any excerpt that reconstructs how the decision was experienced or interpreted by actors.
 > Avoid tagging excerpts that describe how the decision *should* be made.
 
 ---
@@ -139,7 +139,7 @@ Let me know if you'd like me to continue with the next section, or if you want f
 
 ## You (2025-04-09T03:17:17.019000+00:00)
 
-ok, now we'll articulate each tag individually. lets start with Value Clash. 
+ok, now we'll articulate each tag individually. lets start with Value Clash.
 
 Keep this in your working memory - Make sure to only use information from this document, and not reach conclusions based on general knowledge and outside influence.
 
@@ -159,7 +159,7 @@ Here is the LLM-optimized articulation of the tag **🪢 Value Clash**:
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 A `Value Clash` occurs when decision-makers must choose between two strategically valid priorities that **cannot be simultaneously optimized**. The ambiguity is created by the tension—not by a lack of clarity or direction.
 
 **Observable Conditions**:
@@ -219,7 +219,7 @@ Great—here is the next tag, **🧭 Cultural Drift**, rewritten for LLM interpr
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 A `Cultural Drift` tag applies when strategic action is slowed, resisted, or distorted due to **unspoken or implicit questions about legitimacy, acceptability, or shared values**—even if no one explicitly objects.
 
 **Observable Conditions**:
@@ -279,7 +279,7 @@ Here is the LLM-optimized articulation of the next tag: **🕸️ System Tangle*
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 A `System Tangle` arises when multiple interconnected systems or structures interact in ways that **obscure outcomes**. The ambiguity is not due to missing information, but due to **uncertainty about how components influence each other**.
 
 **Observable Conditions**:
@@ -339,7 +339,7 @@ Here is the LLM-optimized articulation of the tag **📊 Signal Split**, based s
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 A `Signal Split` occurs when different sources of data—or different interpretations of the same data—**pull decision-makers in opposing directions**. The ambiguity is not about data scarcity, but about **contradiction in the meaning or implications of the data**.
 
 **Observable Conditions**:
@@ -399,7 +399,7 @@ Here is the LLM-optimized articulation of the tag **🧠 Cognitive Fog**, based 
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 `Cognitive Fog` applies when decision-makers rely on **biased, outdated, or irrational reasoning patterns** that obscure the real situation. The ambiguity persists because thinking is **systematically misaligned with reality**.
 
 **Observable Conditions**:
@@ -460,7 +460,7 @@ Here is the LLM-optimized articulation of the fallback tag **❓ Unknown**, base
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 `Unknown` applies when ambiguity exists but **cannot be traced to a specific interpretive category**. It is a **default classification** used when evaluators cannot reliably attribute the ambiguity to any defined source or tag.
 
 **Observable Conditions**:
@@ -520,7 +520,7 @@ Here is the LLM-optimized articulation of the framing tag **📊 Evidence Frame*
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 An `Evidence Frame` is used when a decision is **framed or legitimized** primarily by **empirical inputs**. This includes data-driven pilots, comparative benchmarks, or case-based justifications that make uncertain choices feel **safer, clearer, or more objective**.
 
 **Observable Conditions**:
@@ -576,7 +576,7 @@ you can leave out the word 'tag' in every heading. and start every output with t
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when leaders frame a strategic decision as **grounded in evidence**. Data is not just present—it is the **main reason** the decision feels legitimate or low-risk. This reframes uncertainty by making the path forward appear **objectively justified**.
 
 **Observable Conditions**:
@@ -631,7 +631,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when leaders **justify strategic action** by referencing values such as fairness, integrity, or responsibility. The rationale elevates the decision beyond performance metrics into **normative territory**, providing clarity through **ethical grounding**.
 
 **Observable Conditions**:
@@ -686,7 +686,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when a strategic tension framed as an “either/or” is restructured into a “both/and” approach. The reframing enables forward motion by **avoiding zero-sum logic** and allowing **simultaneous experimentation, investment, or execution**.
 
 **Observable Conditions**:
@@ -741,7 +741,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when leaders justify a decision not for its immediate payoff, but because it will **enhance long-term capacity**—such as adaptability, technical skill, or organizational resilience. The move feels uncertain now, but is made clear by its **strategic capability return**.
 
 **Observable Conditions**:
@@ -796,7 +796,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when leaders frame a decision as urgent—not because of deadlines alone, but because **waiting is positioned as riskier than acting**. Ambiguity is resolved through **temporal framing**: the moment is portrayed as pivotal, fleeting, or catalytic.
 
 **Observable Conditions**:
@@ -851,7 +851,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when a decision is framed as **one node within a wider integration effort**, platform vision, or strategic puzzle. The move is made clearer not by its isolated merits, but by its **fit within a connected whole**.
 
 **Observable Conditions**:
@@ -906,7 +906,7 @@ lets go with unknown, and then tested first.
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 This label is applied when a decision appears to respond to ambiguity, but there is **no discernible framing move**—no data reference, no values invocation, no urgency cue, no system logic. The reasoning behind the action is either **omitted or too vague to classify**.
 
 **Observable Conditions**:
@@ -952,7 +952,7 @@ Exclude when:
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Applied when a test or trial **directly influences the decision to move forward**. The organization moves from uncertainty to action because **results reduce perceived risk** and provide proof of concept.
 
 **Observable Conditions**:
@@ -1007,7 +1007,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Applied when shared direction emerges after fragmentation, debate, or hesitation. The alignment is **not passive agreement**, but an **active convergence** that makes progress possible.
 
 **Observable Conditions**:
@@ -1062,7 +1062,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when a decision gains momentum because of **validation from regulators, markets, investors, peers, or trends**. The external input shifts the internal stance—from doubt to action—by making the move feel **safer, smarter, or more acceptable**.
 
 **Observable Conditions**:
@@ -1117,7 +1117,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when decision-makers navigate uncertainty by **simulating potential futures**. These structured foresight efforts make the decision feel **more stable or justifiable**, even when the present is unclear.
 
 **Observable Conditions**:
@@ -1172,7 +1172,7 @@ yes, make sure there's no room for ambiguity
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when the organization crosses a **point of no return**. The decision is no longer theoretical or tentative because it has been **materialized through irreversible resource allocation** (e.g., budget, hiring, tooling, infrastructure). This **forcibly stabilizes** the path forward by removing optionality.
 
 **Observable Conditions**:
@@ -1228,7 +1228,7 @@ No, there's an unknown tag for this field. First share that.
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 This label is applied when a decision **clearly proceeds**, but the text **does not reveal what made it possible**. There is forward motion, but **none of the known stabilizer patterns** (e.g., `Tested First`, `Alignment Achieved`, etc.) can be traced as the tipping force.
 
 **Observable Conditions**:
@@ -1283,7 +1283,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when outward signals (e.g., public statements, official alignment) suggest clarity or unity, but **execution or internal dynamics contradict that appearance**. The alignment is **performative or misunderstood**, not real.
 
 **Observable Conditions**:
@@ -1338,7 +1338,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when stakeholders demonstrate **shared understanding, aligned intent, and consistent behavior**. The alignment is **deep, distributed, and confirmed through feedback or execution**, not just verbal agreement.
 
 **Observable Conditions**:
@@ -1393,7 +1393,7 @@ Yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 This applies when the status of alignment is **completely indeterminate**. The decision may have been made or communicated, but the text offers **no behavioral evidence** of how it was received, understood, or acted on. The organization’s internal state is a **black box**.
 
 **Observable Conditions**:
@@ -1447,7 +1447,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when strategic ambiguity stems from conflicting needs for **global standardization** and **local flexibility**. The decision requires **balancing scale and control** with **context-specific adaptation**, and the ambiguity is about **where authority should reside**.
 
 **Observable Conditions**:
@@ -1502,7 +1502,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when ambiguity arises from competing priorities between **hitting near-term targets** (e.g., revenue, deadlines, launches) and **building durable capabilities or systems** (e.g., innovation, infrastructure, sustainability). The tension is **structural**, not just tactical.
 
 **Observable Conditions**:
@@ -1557,7 +1557,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when ambiguity stems from conflicting pressures to **disrupt, experiment, or transform** versus the need to **protect existing systems, minimize risk, or maintain reliability**. Both sides are strategically valid, but **structurally incompatible**.
 
 **Observable Conditions**:
@@ -1612,7 +1612,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when ambiguity emerges because **the desired future state outpaces the organization’s readiness**. The decision reflects a disconnect between **what is imagined** (e.g. automation, AI, transformation) and **what is feasible** based on current systems, people, or tools.
 
 **Observable Conditions**:
@@ -1667,7 +1667,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when ambiguity is caused by competing logics of **top-down standardization** versus **bottom-up responsiveness**. The organization must choose between enforcing **enterprise-wide consistency** and allowing **local or team-level deviation** to fit context or move faster.
 
 **Observable Conditions**:
@@ -1722,7 +1722,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when ambiguity stems from pressure to **streamline or automate** operations while also trying to **deliver customized, high-touch, or differentiated outcomes**. The tension exists because pursuing one inherently constrains the other.
 
 **Observable Conditions**:
@@ -1777,7 +1777,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when ambiguity arises because the organization is **pulled between maintaining a deliberate roadmap** and **responding to immediate pressures**. Planning and reaction **compete for attention and resources**, disrupting strategy execution.
 
 **Observable Conditions**:
@@ -1832,7 +1832,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Applied when a module shows **confusion, friction, or hesitation**, but the source of that ambiguity **does not fit any of the defined tension patterns**. The evaluator cannot reliably map the ambiguity to a known axis like `Now vs. Later`, `Bold vs. Safe`, etc.
 
 **Observable Conditions**:
@@ -1887,7 +1887,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when teams or leaders are **stuck in strategic limbo**—not because of disagreement or resourcing, but because **no one knows who owns what, what matters most, or how to move forward**. The decision space remains unclear over time, creating **chronic inertia or fragmentation**.
 
 **Observable Conditions**:
@@ -1942,7 +1942,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when a strategy **demands more than the system can deliver**, not due to poor intent or misalignment, but because **executional bandwidth is insufficient**. The strategy may be sound, but **capacity shortfalls** turn ambition into dysfunction.
 
 **Observable Conditions**:
@@ -1997,7 +1997,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when a move provokes **deep cultural mismatch**—not just discomfort or change fatigue, but **value-based resistance**. Employees may comply in appearance, but behaviors, signals, or outcomes reflect **fundamental rejection** of the shift.
 
 **Observable Conditions**:
@@ -2052,7 +2052,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when the organization makes a **clear strategic commitment**, but the underlying executional mechanisms **aren’t updated or aligned** to support it. The result is that the strategy looks good on paper, but **doesn’t translate into reality**.
 
 **Observable Conditions**:
@@ -2107,7 +2107,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when ambiguity leads the organization to **operate reactively by default**, not occasionally. Strategy is replaced by **constant response mode**, where urgency and fire drills dominate, and **long-term vision erodes**.
 
 **Observable Conditions**:
@@ -2162,7 +2162,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when friction, complexity, or failure triggers **productive adaptation**—not just workaround fixes. The system evolves to handle ambiguity better through **structural or behavioral change** that improves coordination, autonomy, or resilience.
 
 **Observable Conditions**:
@@ -2217,7 +2217,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when the organization responds to ambiguity or friction by **adjusting how decisions are made**—not by changing the strategy itself, but by **restructuring oversight, accountability, or coordination** to support clarity and execution.
 
 **Observable Conditions**:
@@ -2272,7 +2272,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Applied when a decision or strategy is outlined, but the module **does not provide any signals** about how it affected the organization over time. There is **no indication** of strain, adaptation, breakdown, or growth.
 
 **Observable Conditions**:
@@ -2327,7 +2327,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when teams or leaders **cling to past practices** out of habit, identity, or comfort—even if those practices are clearly mismatched to the current context. The issue is not lack of awareness, but **emotional or cultural inertia**.
 
 **Observable Conditions**:
@@ -2382,7 +2382,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when structural separation across the organization **prevents effective collaboration**—not due to misalignment or conflict, but because there are **no mechanisms or incentives** to support working across boundaries.
 
 **Observable Conditions**:
@@ -2437,7 +2437,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when change is **performative rather than structural**. New language, branding, or tools are introduced, but **underlying practices stay the same**. The transformation lacks depth, follow-through, or behavioral reinforcement.
 
 **Observable Conditions**:
@@ -2492,7 +2492,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when decisions are consistently shaped by the **need to show fast ROI or meet short-term metrics**, even at the expense of long-term goals. This is not tactical agility—it is a **systemic incentive bias** toward the near-term.
 
 **Observable Conditions**:
@@ -2547,7 +2547,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when teams or leaders rely on **what worked before**, even when conditions have shifted. The issue is not ignorance or lack of options, but a **reflexive return to the known**, often at the cost of relevance or performance.
 
 **Observable Conditions**:
@@ -2602,7 +2602,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when decision-making becomes so **bound by bureaucracy or process** that momentum disappears. The friction is not caused by disagreement, overload, or confusion—but by **over-reliance on procedure as a false safety mechanism**.
 
 **Observable Conditions**:
@@ -2657,7 +2657,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when organizations treat technology as a **silver bullet**, expecting systems or platforms to deliver transformation without **changing underlying behaviors, capacity, or structures**. The problem is **strategic deflection**, not technology itself.
 
 **Observable Conditions**:
@@ -2712,7 +2712,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when decision-makers **dismiss, downplay, or reframe inconvenient data** in order to preserve alignment with a story they’ve already committed to. The issue is not ignorance—it’s a **pattern of filtering that shields belief** from disruption.
 
 **Observable Conditions**:
@@ -2767,7 +2767,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when strategic intent is **real and well-scoped**, but implementation fails because the organization **lacks foundational enablers**—such as technical skills, infrastructure, or trained personnel. The gap is not one of will, but of **readiness**.
 
 **Observable Conditions**:
@@ -2822,7 +2822,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when valuable feedback, research, or frontline intelligence is **intentionally sidelined**. The organization appears to **listen performatively**, but decisions follow a **fixed path**, unaffected by the input received.
 
 **Observable Conditions**:
@@ -2877,7 +2877,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when structured tools (e.g. dashboards, projections, frameworks) create a **false sense of confidence**, masking complexity or volatility. The system assumes these representations are **more reliable than they are**, which leads to premature commitment or inflexibility.
 
 **Observable Conditions**:
@@ -2932,7 +2932,7 @@ yes
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Used when a decision is made **without adequately considering predictable external forces**. The oversight isn’t due to surprise—it results from **known factors being consciously minimized, deferred, or ignored**, causing negative consequences.
 
 **Observable Conditions**:
@@ -2987,7 +2987,7 @@ i need the unknown for friction archetypes first
 
 ### ✅ What It Is
 
-**Definition**:  
+**Definition**:
 Applied when the module shows **uncertainty, hesitation, or failure**, but **none of the defined friction patterns** (e.g., `Legacy Hold`, `Process Trap`, `Shallow Change`) are present. The source of friction is **unclear, weakly signaled, or unclassifiable**.
 
 **Observable Conditions**:
@@ -3060,15 +3060,15 @@ Each module typically includes:
 
 ### ✅ What a Categorical Module Is
 
-A **Categorical Module** is a **short case study** describing how executive decision-makers navigated a strategic situation.  
+A **Categorical Module** is a **short case study** describing how executive decision-makers navigated a strategic situation.
 Your task is to read the module as a **narrative of behavior**, then apply tags from **eight predefined interpretive categories** that capture:
 
-- **How the decision was made**  
-- **How ambiguity was framed**  
-- **What sources of friction or resistance existed**  
+- **How the decision was made**
+- **How ambiguity was framed**
+- **What sources of friction or resistance existed**
 - **Whether and how the decision resolved—or remained unstable**
 
-> ⚠️ Do not rely on keyword matching.  
+> ⚠️ Do not rely on keyword matching.
 > ✅ Focus on interpreting **causal mechanisms and narrative dynamics**.
 
 ---
@@ -3077,13 +3077,13 @@ Your task is to read the module as a **narrative of behavior**, then apply tags 
 
 Each module typically contains three structured parts:
 
-1. **Insight Statement**  
+1. **Insight Statement**
    > A summary of the **strategic learning or takeaway** at the highest level.
 
-2. **Executive Decision-Making Context**  
+2. **Executive Decision-Making Context**
    > A description of **how leaders saw the problem**, framed the options, and chose to act.
 
-3. **Supporting Context**  
+3. **Supporting Context**
    > Concrete details: examples, signals, behaviors, and outcomes that **demonstrate how the decision played out**.
 
 ---
@@ -3099,7 +3099,7 @@ Before applying any tags:
   - How did leaders interpret or resolve it?
   - What forms of resistance, alignment, or consequence followed?
 
-> Your job is not to judge the decision or verify the facts.  
+> Your job is not to judge the decision or verify the facts.
 > Your job is to **map the structure of strategic behavior**.
 
 ---
@@ -3113,4 +3113,3 @@ just give a 1 or two sentence intro to the document
 ## ChatGPT (2025-04-09T04:04:39.358152+00:00)
 
 This guide defines how to evaluate executive decision narratives by applying structured interpretive tags. It outlines the logic for identifying how decisions were framed, contested, and resolved—based on behavior, not surface language.
-

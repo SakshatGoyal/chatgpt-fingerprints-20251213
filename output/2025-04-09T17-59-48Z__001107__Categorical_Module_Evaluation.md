@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:59:50.048180+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 47 - C3-I6,Value Clash,Capability Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 66 - C4-I1,System Tangle,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Execution Lag,Silo Drag  
-CATEGORICAL MODULE 1 - C4-I2,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Capability Gap  
-CATEGORICAL MODULE 6 - C4-I2,Cognitive Fog,Capability Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Process Trap  
-CATEGORICAL MODULE 8 - C4-I2,System Tangle,Capability Frame,Tested First,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 12 - C4-I2,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Ignored Insight  
-CATEGORICAL MODULE 5 - C4-I3,Cognitive Fog,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 6 - C4-I3,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 7 - C4-I3,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Governance Shift,Capability Gap  
-CATEGORICAL MODULE 19 - C4-I3,System Tangle,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Execution Lag,Silo Drag  
-CATEGORICAL MODULE 29 - C4-I3,System Tangle,Ecosystem Frame,Alignment Achieved,True Clarity,Global vs. Local,Governance Shift,Silo Drag  
-CATEGORICAL MODULE 1 - C4-I4,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Execution Lag,Capability Gap  
-CATEGORICAL MODULE 2 - C4-I4,Signal Split,Evidence Frame,Tested First,True Clarity,Now vs. Later,Execution Lag,Capability Gap  
-CATEGORICAL MODULE 29 - C4-I4,Cultural Drift,Capability Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Legacy Hold  
-CATEGORICAL MODULE 1 - C4-I5,Cognitive Fog,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Governance Shift,Comfort Bias  
-CATEGORICAL MODULE 10 - C4-I5,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Capability Gap  
-CATEGORICAL MODULE 16 - C4-I5,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Adaptive Growth,Shallow Change  
-CATEGORICAL MODULE 25 - C4-I5,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Plan vs. React,Execution Lag,Ignored Insight  
-CATEGORICAL MODULE 9 - C4-I6,System Tangle,Capability Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 47 - C3-I6,Value Clash,Capability Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 66 - C4-I1,System Tangle,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Execution Lag,Silo Drag
+CATEGORICAL MODULE 1 - C4-I2,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Capability Gap
+CATEGORICAL MODULE 6 - C4-I2,Cognitive Fog,Capability Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Process Trap
+CATEGORICAL MODULE 8 - C4-I2,System Tangle,Capability Frame,Tested First,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 12 - C4-I2,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Ignored Insight
+CATEGORICAL MODULE 5 - C4-I3,Cognitive Fog,Capability Frame,Alignment Achieved,True Clarity,Now vs. Later,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 6 - C4-I3,Value Clash,Both/And Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 7 - C4-I3,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Governance Shift,Capability Gap
+CATEGORICAL MODULE 19 - C4-I3,System Tangle,Evidence Frame,Alignment Achieved,True Clarity,Global vs. Local,Execution Lag,Silo Drag
+CATEGORICAL MODULE 29 - C4-I3,System Tangle,Ecosystem Frame,Alignment Achieved,True Clarity,Global vs. Local,Governance Shift,Silo Drag
+CATEGORICAL MODULE 1 - C4-I4,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Execution Lag,Capability Gap
+CATEGORICAL MODULE 2 - C4-I4,Signal Split,Evidence Frame,Tested First,True Clarity,Now vs. Later,Execution Lag,Capability Gap
+CATEGORICAL MODULE 29 - C4-I4,Cultural Drift,Capability Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Legacy Hold
+CATEGORICAL MODULE 1 - C4-I5,Cognitive Fog,Evidence Frame,Alignment Achieved,True Clarity,Now vs. Later,Governance Shift,Comfort Bias
+CATEGORICAL MODULE 10 - C4-I5,Signal Split,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Capability Gap
+CATEGORICAL MODULE 16 - C4-I5,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Adaptive Growth,Shallow Change
+CATEGORICAL MODULE 25 - C4-I5,Cultural Drift,Values Frame,Alignment Achieved,True Clarity,Plan vs. React,Execution Lag,Ignored Insight
+CATEGORICAL MODULE 9 - C4-I6,System Tangle,Capability Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage
 CATEGORICAL MODULE 17 - C4-I6,System Tangle,Ecosystem Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Governance Shift,Capability Gap
-

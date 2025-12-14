@@ -1,8 +1,6 @@
 # Functional Strategy Group Creation
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-03-03T16:09:00.569000+00:00)
 
@@ -91,77 +89,77 @@ Below is a restructured group proposal for the Functional & Tactical Strategy ca
 
 ---
 
-### Group Name:  
+### Group Name:
 **Departmental Strategy Pioneers – Cross-Industry Functional Leaders**
 
-*Rationale:*  
+*Rationale:*
 The name reflects the document’s focus on departmental (functional/tactical) execution while emphasizing leadership and innovation across multiple industries. “Pioneers” signals that these are high-caliber, strategic individuals driving execution in their domains.
 
 ---
 
 ### Filter Breakdown and Rationale
 
-#### 1. **Industries**  
+#### 1. **Industries**
 Using the 5x5 framework from the document, these five industries were chosen for their functional complexity and strategic operational challenges:
 
-- **Technology & SaaS:**  
+- **Technology & SaaS:**
   *Why?* High reliance on functional strategies (marketing, product development, R&D) combined with rapid digital transformation. Technology is a common denominator across industries, ensuring a strong pool of leaders.
 
-- **Automotive & Electric Vehicles:**  
+- **Automotive & Electric Vehicles:**
   *Why?* These companies balance manufacturing excellence with innovation (e.g., autonomous driving, digital marketing) and require robust departmental strategies to manage supply chain, quality, and design.
 
-- **Pharmaceuticals & Biotech:**  
+- **Pharmaceuticals & Biotech:**
   *Why?* Highly regulated with complex R&D, manufacturing, and supply chain operations. Functional leaders here manage strategic execution in dynamic and critical environments.
 
-- **Retail & E-Commerce:**  
+- **Retail & E-Commerce:**
   *Why?* Retailers integrate marketing, logistics, and digital operations. They require cross-functional expertise to navigate omni-channel strategies and customer experience challenges.
 
-- **Manufacturing & Industrial Goods:**  
+- **Manufacturing & Industrial Goods:**
   *Why?* These industries demand strong operations and supply chain leadership, with a focus on quality, automation, and cost efficiency that makes functional strategy critical.
 
 *Note:* While tech plays a central role, the selection is designed to encompass both tech-driven and traditional industries where functional execution is essential. This balance supports our overall objective to capture diverse, high-level operational leaders.
 
 ---
 
-#### 2. **Job Titles (Vertical Hierarchy & Variations)**  
+#### 2. **Job Titles (Vertical Hierarchy & Variations)**
 To capture a spectrum of seniority within departments, we propose a hierarchy such as:
 
-- **VP / Senior Vice President Level:**  
-  Example titles: VP of Marketing, VP of Operations, VP of R&D  
-- **Director Level:**  
-  Example titles: Marketing Director, Operations Director, Director of Product Innovation  
-- **Department/Functional Head Level:**  
+- **VP / Senior Vice President Level:**
+  Example titles: VP of Marketing, VP of Operations, VP of R&D
+- **Director Level:**
+  Example titles: Marketing Director, Operations Director, Director of Product Innovation
+- **Department/Functional Head Level:**
   Example titles: Head of Digital Strategy, Head of Supply Chain, Functional Lead
 
-*Rationale & Flexibility:*  
+*Rationale & Flexibility:*
 We recognize that job titles vary across companies. For instance, what one organization calls a “UX Designer” might be a “Product Designer” elsewhere. In Apollo, you can use a combination of exact titles and related keywords or synonyms to ensure you don’t miss relevant candidates. Using Boolean searches or including alternative title variations (e.g., “Marketing Director” OR “Director of Marketing”) will help broaden the search while maintaining focus.
 
 ---
 
-#### 3. **Company Size**  
-- **Target:** Companies with 1000+ employees  
-*Rationale:*  
+#### 3. **Company Size**
+- **Target:** Companies with 1000+ employees
+*Rationale:*
 Within the United States, using a 1000+ employee filter generally captures midsize to large enterprises where strategic, departmental roles are well-established. This size benchmark helps ensure that the candidates are operating within sufficiently complex organizational structures.
 
 ---
 
-#### 4. **Keywords / Additional Filters**  
-- **Keywords:** Although Apollo’s filter options for keywords may be limited, consider including terms such as:  
-  - “Functional Strategy”  
-  - “Departmental Execution”  
-  - “Operational Excellence”  
-  - “Digital Transformation”  
+#### 4. **Keywords / Additional Filters**
+- **Keywords:** Although Apollo’s filter options for keywords may be limited, consider including terms such as:
+  - “Functional Strategy”
+  - “Departmental Execution”
+  - “Operational Excellence”
+  - “Digital Transformation”
 
-*Rationale:*  
+*Rationale:*
 These keywords can further refine searches in Apollo (or in follow-up manual review) by highlighting candidates who explicitly reference these functions in their profiles, ensuring that our outreach targets individuals actively involved in strategic operational roles.
 
 ---
 
-#### 5. **Location**  
-- **Primary Major Cities:** San Francisco, New York, Los Angeles, Washington DC, Seattle  
+#### 5. **Location**
+- **Primary Major Cities:** San Francisco, New York, Los Angeles, Washington DC, Seattle
 - **Additional Emerging/Secondary Cities:** Austin, Boston, Denver, Chicago, Portland
 
-*Rationale:*  
+*Rationale:*
 While major hubs like San Francisco and New York are vital, including additional cities (such as Washington DC for political and policy insights, as well as emerging tech centers like Austin and Denver) broadens the candidate pool. This ensures that we capture high-level functional leaders regardless of whether their organizations are in traditionally recognized tech centers or other influential markets.
 
 ---
@@ -182,7 +180,6 @@ This revised structure integrates detailed annotations on why each element was c
 
 ## You (2025-03-03T16:24:05.670000+00:00)
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-WdLw9WxZYTiKgbWdeLsbs7', 'size_bytes': 219065, 'width': 439, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 OK, well left with a list of 74,000 emails. No I know it's a big ask but ideally I don't want it to be more than 250 so can you help me with a few more filters that can sort of narrow down our search? Ideally these filters should be within apollo.io and if you want, I'll sort of attach a quick snapshot of the filter.
 
 ## ChatGPT (2025-03-03T16:24:07.515868+00:00)
@@ -193,48 +190,48 @@ Below are some **practical filtering ideas** you can apply in Apollo.io to drast
 
 ## 1. Title & Function–Based Filters
 
-### **A. “Title must contain” keywords**  
+### **A. “Title must contain” keywords**
 Because you’re interested in people who deal directly with strategy, consider adding a filter like:
 
-> **Title must contain at least one of**:  
-> - Strategy  
-> - Strategic  
-> - Innovation  
-> - Transformation  
-> - R&D  
-> - AI / Artificial Intelligence  
-> - Machine Learning  
-> - Digital  
-> - Data  
-> - Chief (as in C-level)  
-> - VP  
-> - Director  
-> - Head  
-> - Operations (if you’re focusing on functional/tactical leaders)  
+> **Title must contain at least one of**:
+> - Strategy
+> - Strategic
+> - Innovation
+> - Transformation
+> - R&D
+> - AI / Artificial Intelligence
+> - Machine Learning
+> - Digital
+> - Data
+> - Chief (as in C-level)
+> - VP
+> - Director
+> - Head
+> - Operations (if you’re focusing on functional/tactical leaders)
 
 This single filter can remove thousands of people who have more tactical or unrelated job titles (e.g., “Account Executive,” “Sales Representative,” etc.). You can add synonyms as well (e.g., “VP,” “Vice President,” “Head,” “Global Head,” “Senior Director,” etc.).
 
-### **B. Exclude certain titles**  
+### **B. Exclude certain titles**
 To remove large swaths of irrelevant or lower-level contacts, use an **“Exclude”** filter (if Apollo supports it) or a **negative keyword** approach:
 
-> **Exclude job titles containing**:  
-> - Consultant  
-> - Recruiter / Recruiting  
-> - Sales / SDR / BDR / Business Development  
-> - Marketing Specialist  
-> - Analyst  
-> - Coordinator  
-> - Assistant  
-> - Intern / Trainee  
-> - Associate (this often indicates mid-junior in big firms)  
-> - Owner / Founder / Partner (if you don’t want small-business folks)  
+> **Exclude job titles containing**:
+> - Consultant
+> - Recruiter / Recruiting
+> - Sales / SDR / BDR / Business Development
+> - Marketing Specialist
+> - Analyst
+> - Coordinator
+> - Assistant
+> - Intern / Trainee
+> - Associate (this often indicates mid-junior in big firms)
+> - Owner / Founder / Partner (if you don’t want small-business folks)
 > - Advisor / Board Member (not as operationally hands-on)
 
 Just removing “Consultant,” “Analyst,” “Specialist,” and “Coordinator” can knock out tens of thousands of contacts.
 
-### **C. Department / Function filters**  
-If Apollo supports departmental filtering, you can specify:  
-- **Include**: Strategy, Operations, R&D, Product, Engineering, IT, Finance, Marketing (if relevant), HR (if relevant)  
+### **C. Department / Function filters**
+If Apollo supports departmental filtering, you can specify:
+- **Include**: Strategy, Operations, R&D, Product, Engineering, IT, Finance, Marketing (if relevant), HR (if relevant)
 - **Exclude**: Sales, Business Development, Recruiting, Consulting, Customer Service, etc.
 
 Even if you’re open to multiple functions, simply **excluding** Sales/Business Development and Consulting can remove a large chunk of your 74k results.
@@ -243,11 +240,11 @@ Even if you’re open to multiple functions, simply **excluding** Sales/Business
 
 ## 2. Industry & Sub-Industry Tweaks
 
-1. **Focus on fewer industries**  
-   - If you currently have 5–6 industries selected, try narrowing to just 2–3 that are most critical.  
+1. **Focus on fewer industries**
+   - If you currently have 5–6 industries selected, try narrowing to just 2–3 that are most critical.
    - For instance, if “Information Technology & Services,” “Internet,” and “Industrial Automation” are your core, you might remove “Telecommunications” or “Electrical/Electronic Manufacturing” to shrink the list.
 
-2. **Use sub-industry or NAICS filtering** (if Apollo supports it)  
+2. **Use sub-industry or NAICS filtering** (if Apollo supports it)
    - Some platforms let you choose sub-categories (e.g., “AI & Machine Learning” under “Computer Software”) or specific NAICS codes. This helps remove broad segments like “IT Services” that can include thousands of companies.
 
 3. **Exclude entire categories** you know you don’t want (e.g., “Non-profit,” “Government,” “Education Management,” “Hospital & Health Care,” etc.). This can significantly reduce your total.
@@ -256,30 +253,30 @@ Even if you’re open to multiple functions, simply **excluding** Sales/Business
 
 ## 3. Company Attributes
 
-### **A. Company Size**  
+### **A. Company Size**
 You already have 1001–5000, 5001–10,000, and 10,001+. If 74k is still too big, consider dropping the largest tier (10,001+) or focusing on a narrower revenue band:
 
-- For example, **Revenue** between \$50M and \$1B.  
+- For example, **Revenue** between \$50M and \$1B.
   - Very large enterprises (e.g., Fortune 100) have huge headcounts that can balloon your search.
 
-### **B. Funding Stage**  
+### **B. Funding Stage**
 If Apollo has data on funding stages (Seed, Series A/B, etc.), you can target only those in mid-to-late stage or public companies, depending on your needs. Excluding pre-seed or Series A startups can drop your count dramatically.
 
-### **C. Technologies Used**  
+### **C. Technologies Used**
 If your study requires folks with AI or advanced tech exposure, you can filter by **“Technologies used”** (e.g., AWS, Azure, GCP, or specific AI/ML tools). This is a quick way to exclude older or less tech-driven companies.
 
 ---
 
 ## 4. Intent & Activity Filters
 
-1. **Apollo Buyer Intent**: If you only want companies actively researching AI or digital transformation, you can apply an “Intent” filter (if available).  
+1. **Apollo Buyer Intent**: If you only want companies actively researching AI or digital transformation, you can apply an “Intent” filter (if available).
 2. **Exclude inactive or unverified**: You’re already using “Verified email.” Some platforms also let you filter by “last active on LinkedIn” or “posted in the last 90 days.”
 
 ---
 
 ## 5. Geographic Precision
 
-- **Limit the number of metro areas**. Right now, you might have 8–10 cities in your list. If you only keep, say, 3–5, that alone will slash the total.  
+- **Limit the number of metro areas**. Right now, you might have 8–10 cities in your list. If you only keep, say, 3–5, that alone will slash the total.
 - Alternatively, keep more cities but apply narrower title filters, or vice versa.
 
 ---
@@ -288,24 +285,24 @@ If your study requires folks with AI or advanced tech exposure, you can filter b
 
 Below is a **hypothetical example** of how you might combine these ideas to get from 74k closer to ~250. Adapt as needed:
 
-1. **Job Titles**:  
-   - **Must contain** any of: “Strategy,” “Strategic,” “Innovation,” “Transformation,” “AI,” “R&D,” “Digital,” “Data,” “Chief,” “VP,” “Director,” “Head.”  
-   - **Exclude** any of: “Consultant,” “Recruiter,” “Sales,” “Analyst,” “Coordinator,” “Assistant,” “Intern,” “Owner,” “Founder,” “Partner,” “Advisor,” “Board.”  
+1. **Job Titles**:
+   - **Must contain** any of: “Strategy,” “Strategic,” “Innovation,” “Transformation,” “AI,” “R&D,” “Digital,” “Data,” “Chief,” “VP,” “Director,” “Head.”
+   - **Exclude** any of: “Consultant,” “Recruiter,” “Sales,” “Analyst,” “Coordinator,” “Assistant,” “Intern,” “Owner,” “Founder,” “Partner,” “Advisor,” “Board.”
 
-2. **Company Size or Revenue**:  
-   - 1001–5000 employees **only** (removing 5001+).  
+2. **Company Size or Revenue**:
+   - 1001–5000 employees **only** (removing 5001+).
    - Or **Revenue**: \$50M–\$1B if that’s an option.
 
-3. **Industry**:  
-   - Keep “Information Technology & Services,” “Internet,” “Industrial Automation,” and **remove** “Telecommunications” and “Electrical/Electronic Manufacturing.”  
+3. **Industry**:
+   - Keep “Information Technology & Services,” “Internet,” “Industrial Automation,” and **remove** “Telecommunications” and “Electrical/Electronic Manufacturing.”
    - **OR** keep “Telecommunications” but exclude “Internet” if that’s too broad—whatever is less essential.
 
-4. **Location**:  
-   - Keep 5–6 high-priority metros (e.g., New York, SF Bay Area, LA, Seattle, Boston).  
+4. **Location**:
+   - Keep 5–6 high-priority metros (e.g., New York, SF Bay Area, LA, Seattle, Boston).
    - Temporarily remove secondary locations like Denver, Chicago, Austin to see how far the count drops.
 
-5. **(Optional) Additional Department**:  
-   - **Include** only: “Operations,” “Strategy,” “IT/Engineering,” “R&D,” “Product,” “Finance.”  
+5. **(Optional) Additional Department**:
+   - **Include** only: “Operations,” “Strategy,” “IT/Engineering,” “R&D,” “Product,” “Finance.”
    - **Exclude**: “Sales,” “Business Development,” “Marketing,” “HR,” “Consulting,” “Customer Support.”
 
 By combining these five adjustments, you’ll typically see a huge reduction in total results.
@@ -314,11 +311,10 @@ By combining these five adjustments, you’ll typically see a huge reduction in 
 
 ## Summary
 
-- **Focus on narrower job-title keywords** to find strategy-oriented roles.  
-- **Exclude** known irrelevant titles (consultants, sales, interns, owners, etc.).  
-- **Trim your industry selection** to the most critical or use sub-industries.  
-- **Limit company size or revenue** to reduce extremes.  
-- **Reduce the location set** if needed.  
+- **Focus on narrower job-title keywords** to find strategy-oriented roles.
+- **Exclude** known irrelevant titles (consultants, sales, interns, owners, etc.).
+- **Trim your industry selection** to the most critical or use sub-industries.
+- **Limit company size or revenue** to reduce extremes.
+- **Reduce the location set** if needed.
 
 This approach should help you get from 74k down to a few hundred high-quality leads for your strategic research. Feel free to experiment with which filters you tighten first—every small tweak in Apollo can drastically change your final count.
-

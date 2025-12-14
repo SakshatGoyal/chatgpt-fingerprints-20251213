@@ -6,7 +6,7 @@ You are a reasoning model tasked with analyzing executive strategy content using
 
 # 1. Goal
 
-Your objective is to evaluate the **first 15 Categorical Modules** found in the uploaded `.txt` file. These modules must be assessed using the detailed 21-question evaluation framework provided in the file titled:  
+Your objective is to evaluate the **first 15 Categorical Modules** found in the uploaded `.txt` file. These modules must be assessed using the detailed 21-question evaluation framework provided in the file titled:
 **`RQA.md`**
 
 Each Categorical Module is a self-contained unit of executive insight. Your task is to:
@@ -31,7 +31,7 @@ All 15 evaluations must be returned **in a single output**, sequentially, in the
 CATEGORICAL MODULE [code]
 Category	Question Number	Score
 Category 1	Question 1	[0 or 1]
-...		
+...
 Category 3	Question 7	[0 or 1]
 Category 1 total: X
 Category 2 total: Y
@@ -102,8 +102,8 @@ Below are the independent evaluations for each module based solely on its intern
 | **Category 3** | Question 6 | 0 |
 | **Category 3** | Question 7 | 0 |
 
-**Category 1 total: 2**  
-**Category 2 total: 3**  
+**Category 1 total: 2**
+**Category 2 total: 3**
 **Category 3 total: 0**
 
 Final category assignment for CATEGORICAL MODULE 20 - C1-I5 - **Category 2**
@@ -136,8 +136,8 @@ Final category assignment for CATEGORICAL MODULE 20 - C1-I5 - **Category 2**
 | **Category 3** | Question 6 | 0 |
 | **Category 3** | Question 7 | 0 |
 
-**Category 1 total: 2**  
-**Category 2 total: 3**  
+**Category 1 total: 2**
+**Category 2 total: 3**
 **Category 3 total: 0**
 
 Final category assignment for CATEGORICAL MODULE 29 - C1-I5 - **Category 2**
@@ -170,8 +170,8 @@ Final category assignment for CATEGORICAL MODULE 29 - C1-I5 - **Category 2**
 | **Category 3** | Question 6 | 0 |
 | **Category 3** | Question 7 | 0 |
 
-**Category 1 total: 0**  
-**Category 2 total: 2**  
+**Category 1 total: 0**
+**Category 2 total: 2**
 **Category 3 total: 0**
 
 Final category assignment for CATEGORICAL MODULE 38 - C1-I5 - **Category 2**
@@ -204,8 +204,8 @@ Final category assignment for CATEGORICAL MODULE 38 - C1-I5 - **Category 2**
 | **Category 3** | Question 6 | 0 |
 | **Category 3** | Question 7 | 0 |
 
-**Category 1 total: 2**  
-**Category 2 total: 2**  
+**Category 1 total: 2**
+**Category 2 total: 2**
 **Category 3 total: 0**
 
 Final category assignment for CATEGORICAL MODULE 3 - C1-I6 - **Category 1 + Category 2**
@@ -238,8 +238,8 @@ Final category assignment for CATEGORICAL MODULE 3 - C1-I6 - **Category 1 + Cate
 | **Category 3** | Question 6 | 0 |
 | **Category 3** | Question 7 | 0 |
 
-**Category 1 total: 2**  
-**Category 2 total: 3**  
+**Category 1 total: 2**
+**Category 2 total: 3**
 **Category 3 total: 0**
 
 Final category assignment for CATEGORICAL MODULE 9 - C1-I6 - **Category 2**
@@ -272,8 +272,8 @@ Final category assignment for CATEGORICAL MODULE 9 - C1-I6 - **Category 2**
 | **Category 3** | Question 6 | 0 |
 | **Category 3** | Question 7 | 0 |
 
-**Category 1 total: 2**  
-**Category 2 total: 5**  
+**Category 1 total: 2**
+**Category 2 total: 5**
 **Category 3 total: 1**
 
 Final category assignment for CATEGORICAL MODULE 22 - C1-I6 - **Category 2**
@@ -306,8 +306,8 @@ Final category assignment for CATEGORICAL MODULE 22 - C1-I6 - **Category 2**
 | **Category 3** | Question 6 | 0 |
 | **Category 3** | Question 7 | 0 |
 
-**Category 1 total: 2**  
-**Category 2 total: 3**  
+**Category 1 total: 2**
+**Category 2 total: 3**
 **Category 3 total: 0**
 
 Final category assignment for CATEGORICAL MODULE 34 - C1-I6 - **Category 2**
@@ -340,8 +340,8 @@ Final category assignment for CATEGORICAL MODULE 34 - C1-I6 - **Category 2**
 | **Category 3** | Question 6 | 0 |
 | **Category 3** | Question 7 | 0 |
 
-**Category 1 total: 3**  
-**Category 2 total: 4**  
+**Category 1 total: 3**
+**Category 2 total: 4**
 **Category 3 total: 0**
 
 Final category assignment for CATEGORICAL MODULE 58 - C1-I7 - **Category 2**
@@ -356,7 +356,7 @@ This is a direct continuation of the previous task.
 
 # 1. Goal
 
-Using the same evaluation framework as defined in the uploaded file titled:  
+Using the same evaluation framework as defined in the uploaded file titled:
 **`RQA.md`**
 
 Continue the exact same scoring and tagging process, now evaluating **Categorical Modules 16 through 30** from the `.txt` file provided earlier.
@@ -378,7 +378,7 @@ All 15 evaluations must be returned **in a single output**, in this format:
 CATEGORICAL MODULE [code]
 Category	Question Number	Score
 Category 1	Question 1	[0 or 1]
-...		
+...
 Category 3	Question 7	[0 or 1]
 Category 1 total: X
 Category 2 total: Y
@@ -454,4 +454,3 @@ Once the table is complete, return **only the table**—do not include commentar
 | CATEGORICAL MODULE 22 - C1-I6    | 2          | 5          | 1          | Category 2                |
 | CATEGORICAL MODULE 34 - C1-I6    | 2          | 3          | 0          | Category 2                |
 | CATEGORICAL MODULE 58 - C1-I7    | 3          | 4          | 0          | Category 2                |
-

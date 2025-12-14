@@ -76,7 +76,6 @@ from dash.dependencies import Input, Output, State
 import copy
 
 
-
 """
 How to run this file
 
@@ -146,19 +145,19 @@ ALL_FILTERABLE_COLUMNS = STAGE_COLUMNS + FILTER_COLUMNS
 DEFAULT_NODE_COLOR = 'rgba(5, 51, 74, 1)'
 
 # Link color when no filters are active
-DEFAULT_LINK_COLOR = 'rgba(107, 158, 189, 0.8)'     
+DEFAULT_LINK_COLOR = 'rgba(107, 158, 189, 0.8)'
 
 # Node color for highlight subset
-HIGHLIGHT_NODE_COLOR = 'rgba(0, 0, 4, 1)'  
+HIGHLIGHT_NODE_COLOR = 'rgba(0, 0, 4, 1)'
 
 # Node color for non-highlight subset
-NON_HIGHLIGHT_NODE_COLOR = 'rgba(160,160,160,0.2)'  
+NON_HIGHLIGHT_NODE_COLOR = 'rgba(160,160,160,0.2)'
 
 # Link color for highlight subset
-HIGHLIGHT_LINK_COLOR = 'rgba(180, 0, 35, 0.5)'   
+HIGHLIGHT_LINK_COLOR = 'rgba(180, 0, 35, 0.5)'
 
 # Link color for non-highlight subset
-NON_HIGHLIGHT_LINK_COLOR = 'rgba(160,160,160,0.2)'  
+NON_HIGHLIGHT_LINK_COLOR = 'rgba(160,160,160,0.2)'
 
 # Donut color scheme for each wedge (example palette):
 DONUT_COLORS = [
@@ -514,7 +513,7 @@ def update_visuals(*args):
     filter_vals_list = args[:num_filter_cols]
     reset_clicks = args[num_filter_cols]
     selected_stages = args[num_filter_cols + 1]
-    window_width = args[num_filter_cols + 2] or 1200  
+    window_width = args[num_filter_cols + 2] or 1200
     label_toggle_vals = args[num_filter_cols + 3]
     show_labels = 'show' in label_toggle_vals# default
 
@@ -644,7 +643,6 @@ def update_visuals(*args):
         # -- Build Donut Charts --
 
 
-        
     # For each filter column, we show a donut of the highlight subset distribution
 
     def wrap_text(text, max_chars_per_line=14):
@@ -712,7 +710,7 @@ def update_visuals(*args):
             y_center = (domain['y'][0] + domain['y'][1]) / 2
 
             # Title goes at the exact center of the donut
-           
+
 
             # Title goes at the exact center of the donut
             # Auto-wrapped centered title inside donut
@@ -770,7 +768,6 @@ def update_visuals(*args):
                 align='center'
             ))
 
-   
 
         donut_fig.update_layout(
             showlegend=False,
@@ -868,8 +865,8 @@ if __name__ == '__main__':
 Below is one way to solve the problem. The key is to always add the legend annotation even when your filtered series is empty (or has just one value). In the donut‐chart loop you need to “inject” dummy data when the value counts come back empty. This ensures that both the pie (even if it looks “empty”) and its legend annotation are always created. One common approach is to do the following in your loop over FILTER_COLUMNS:
 
 1. Check if the value count (vc) is empty.
-2. If it is, set the trace’s labels to \["No Data"\] and its values to a dummy value (for example, \[1\]).  
-3. Also create a matching color (for example, a neutral light–gray) and legend line showing “No Data – 0.0%”.  
+2. If it is, set the trace’s labels to \["No Data"\] and its values to a dummy value (for example, \[1\]).
+3. Also create a matching color (for example, a neutral light–gray) and legend line showing “No Data – 0.0%”.
 4. Otherwise, do your normal processing.
 
 Below is the modified excerpt of your donut chart building code with these changes:
@@ -884,7 +881,7 @@ for idx, col in enumerate(FILTER_COLUMNS):
 
     series = df_highlight[col]
     vc = series.value_counts()
-    
+
     if vc.empty:
         # If there is no data for this donut, use dummy data so that the donut
         # (and importantly its legend) still render.
@@ -905,7 +902,7 @@ for idx, col in enumerate(FILTER_COLUMNS):
             f"<span style='font-size:18px;color:{color_list[i]}'>●</span> {label} – {value / total * 100:.1f}%"
             for i, (label, value) in enumerate(zip(labels, values))
         ]
-    
+
     # Add pie chart trace (donut)
     pie_trace = go.Pie(
         labels=labels,
@@ -960,20 +957,20 @@ for idx, col in enumerate(FILTER_COLUMNS):
 
 ### Explanation
 
-- **Always Building an Annotation:**  
+- **Always Building an Annotation:**
   No matter how many segments are in the donut, you always add two annotations: one for the donut’s (wrapped) title at the center and one for the legend below it. This keeps your user interface consistent.
 
-- **Handling an Empty Filtered Subset:**  
-  When the filtered DataFrame for that column is empty, `series.value_counts()` yields an empty Series. In this case, by setting  
-  - `labels = ["No Data"]`  
-  - `values = [1]` (dummy value)  
-  - `color_list = ["#d3d3d3"]` (a neutral color)  
-  you guarantee that a pie trace is still added. Then, the legend annotation is built with a descriptive message showing “No Data – 0.0%”.  
- 
-- **Color and Percentage Calculation:**  
-  When data is present, the color list and legend percentages are computed normally.  
- 
-- **Legend Positioning:**  
+- **Handling an Empty Filtered Subset:**
+  When the filtered DataFrame for that column is empty, `series.value_counts()` yields an empty Series. In this case, by setting
+  - `labels = ["No Data"]`
+  - `values = [1]` (dummy value)
+  - `color_list = ["#d3d3d3"]` (a neutral color)
+  you guarantee that a pie trace is still added. Then, the legend annotation is built with a descriptive message showing “No Data – 0.0%”.
+
+- **Color and Percentage Calculation:**
+  When data is present, the color list and legend percentages are computed normally.
+
+- **Legend Positioning:**
   The code places the legend at a y coordinate calculated as `domain['y'][0] - 0.16`, ensuring that even when the donut has few segments the legend is still 16% below the donut’s lower edge.
 
 ### Final Note
@@ -984,4 +981,3 @@ Be sure to integrate this patch into your overall callback logic. This approach 
 - All annotations remain synchronized with the donut chart.
 
 This solution should meet your requirements and keep the donut legends visible regardless of how sparse the data becomes when filters are applied.
-

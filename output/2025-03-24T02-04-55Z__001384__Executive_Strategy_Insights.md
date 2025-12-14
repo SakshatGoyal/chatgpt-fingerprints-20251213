@@ -160,64 +160,64 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### Topic 1: Financing Strategy and Risk Management
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Biotech executives must balance aggressive financing strategies with the risk of equity dilution, as dependence on external capital often forces them to relinquish majority control." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives face the challenge of securing vital capital to fuel R&D while striving to maintain long-term strategic autonomy.  
-- **Underlying Beliefs & Biases:** There is a prevalent bias toward overestimating the availability of venture capital and underestimating the long-term cost of equity dilution.  
-- **Expected vs. Actual Outcomes:** Although executives aim to secure funding without compromising control, the reality often involves ceding significant equity to obtain essential capital.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives face the challenge of securing vital capital to fuel R&D while striving to maintain long-term strategic autonomy.
+- **Underlying Beliefs & Biases:** There is a prevalent bias toward overestimating the availability of venture capital and underestimating the long-term cost of equity dilution.
+- **Expected vs. Actual Outcomes:** Although executives aim to secure funding without compromising control, the reality often involves ceding significant equity to obtain essential capital.
 - **Broader Implications:** This tension influences decision-making in both startup and mature organizations, where capital constraints may force similar trade-offs. **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The paper highlights that financing is the lifeblood of early-stage biotechs, with companies facing high cash burn and R&D costs that can reach $800 million per product. These financial pressures necessitate reliance on venture capital, angel investors, and strategic alliances—often resulting in significant ownership dilution. **[Empirical]**
 
 ---
 
 ### Topic 2: Corporate Alliances and Strategic Partnerships
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Leveraging strategic partnerships serves as a critical risk mitigation tool, yet it often requires biotech executives to trade off operational autonomy and future revenue share." **[Empirical]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must decide whether to engage in alliances that offer necessary funding and market access at the expense of reduced control over their operations.  
-- **Underlying Beliefs & Biases:** There exists an optimistic bias that assumes alliances automatically enhance competitive positioning, potentially downplaying long-term trade-offs.  
-- **Expected vs. Actual Outcomes:** While alliances are anticipated to accelerate product development and market entry, they frequently lead to significant concessions in equity and decision-making power.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must decide whether to engage in alliances that offer necessary funding and market access at the expense of reduced control over their operations.
+- **Underlying Beliefs & Biases:** There exists an optimistic bias that assumes alliances automatically enhance competitive positioning, potentially downplaying long-term trade-offs.
+- **Expected vs. Actual Outcomes:** While alliances are anticipated to accelerate product development and market entry, they frequently lead to significant concessions in equity and decision-making power.
 - **Broader Implications:** The challenge of balancing immediate financial relief with long-term strategic autonomy extends to various high-risk sectors beyond biotech. **[Empirical]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The article details several licensing deals and joint ventures—such as those involving GSK and Novartis—that illustrate how strategic partnerships, while critical for accessing funds and clinical trial support, often require biotech companies to surrender substantial control and revenue rights. **[Empirical]**
 
 ---
 
 ### Topic 3: Strategic Planning and Operational Execution in High-Risk Environments
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Effective strategic planning in early-stage biotech companies is critically undermined by the misalignment between long-term innovation goals and short-term operational execution." **[Inferred]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must align comprehensive, long-term strategic plans with the unpredictable realities of R&D and market fluctuations.  
-- **Underlying Beliefs & Biases:** There is a tendency to rely on traditional planning models that may not fully account for the volatile and uncertain nature of biotech innovation.  
-- **Expected vs. Actual Outcomes:** Although strategic plans are designed to provide a clear roadmap, unforeseen technical, regulatory, and market challenges often derail these plans.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must align comprehensive, long-term strategic plans with the unpredictable realities of R&D and market fluctuations.
+- **Underlying Beliefs & Biases:** There is a tendency to rely on traditional planning models that may not fully account for the volatile and uncertain nature of biotech innovation.
+- **Expected vs. Actual Outcomes:** Although strategic plans are designed to provide a clear roadmap, unforeseen technical, regulatory, and market challenges often derail these plans.
 - **Broader Implications:** This disconnect between planning and execution is a common challenge in industries characterized by rapid innovation and high uncertainty. **[Inferred]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The paper stresses that while strategic planning involves balancing cash flow generation with technical and market viability, the realities of delayed milestones, budget overruns, and shifting regulatory landscapes frequently disrupt these plans. The need for adaptive planning models is underscored by the high-risk nature of biotech operations. **[Inferred]**
 
 ---
 
 ### Topic 4: Cognitive Biases in Executive Decision-Making
 
-**1. Insight Statement:**  
+**1. Insight Statement:**
 "Biotech executives may exhibit overconfidence, leaning towards optimistic projections that overshadow the statistically low success rates and inherent technical risks of product development." **[Speculative]**
 
-**2. Executive Decision-Making Context:**  
-- **Strategic Dilemma:** The drive for breakthrough innovation can lead executives to overestimate the likelihood of success, potentially minimizing the perceived risks of high attrition rates.  
-- **Underlying Beliefs & Biases:** Overconfidence and confirmation biases may cause leaders to focus selectively on early positive signals, discounting broader industry statistics such as the 20% success rate from phase 1 to market approval.  
-- **Expected vs. Actual Outcomes:** While the expectation is to achieve exceptional market breakthroughs, empirical data often reveals a more challenging landscape marked by frequent failures and substantial financial setbacks.  
+**2. Executive Decision-Making Context:**
+- **Strategic Dilemma:** The drive for breakthrough innovation can lead executives to overestimate the likelihood of success, potentially minimizing the perceived risks of high attrition rates.
+- **Underlying Beliefs & Biases:** Overconfidence and confirmation biases may cause leaders to focus selectively on early positive signals, discounting broader industry statistics such as the 20% success rate from phase 1 to market approval.
+- **Expected vs. Actual Outcomes:** While the expectation is to achieve exceptional market breakthroughs, empirical data often reveals a more challenging landscape marked by frequent failures and substantial financial setbacks.
 - **Broader Implications:** Recognizing and mitigating such cognitive biases is critical not only in biotech but across sectors where high-risk innovation is pursued. **[Speculative]**
 
-**3. Supporting Context:**  
+**3. Supporting Context:**
 The paper presents industry data—like the 20% advancement rate from phase 1 trials and the enormous costs involved—that empirically contradict overly optimistic assumptions. Yet, the narrative of early-stage promise may inadvertently reinforce overconfidence among executives, leading to potentially flawed decision-making. **[Speculative]**
 
 ---
@@ -227,7 +227,7 @@ The paper presents industry data—like the 20% advancement rate from phase 1 tr
 - **Coverage Fit:** High — The paper provides a comprehensive overview of executive decision-making challenges in early-stage biotech companies.
 - **Bias & Cognitive Modeling Content:** Implied Only — While operational and financial strategies are well-covered, direct analysis of cognitive biases is inferred rather than explicitly examined.
 - **Clarity of Methods & Outcomes:** Clear — The methodological approach, based on empirical industry data and strategic analysis, is effectively communicated despite reliance on historical averages.
-- **Areas with No Data:** 
+- **Areas with No Data:**
   - Insight Statement: Direct empirical data on cognitive biases is lacking.
   - Executive Decision-Making Context: Specific frameworks for analyzing decision-making biases are not detailed.
   - Supporting Context: While operational and financial metrics are robust, direct measurement of cognitive biases is absent.
@@ -407,21 +407,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -434,4 +434,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T02:07:06.203891+00:00)
 
 Tsai, W., & Erickson, S. (2006). Early-stage biotech companies: Strategies for survival and growth. *Biotechnology Healthcare*, 3(6), 49-53.
-

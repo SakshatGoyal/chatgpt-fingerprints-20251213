@@ -20,8 +20,8 @@ Given your audience (Director of Product Management), let’s frame the next ste
 
 ---
 
-### **1. The Behavioral Prototype Approach**  
-**Lens:** *Fast, tangible, and testable*  
+### **1. The Behavioral Prototype Approach**
+**Lens:** *Fast, tangible, and testable*
 **Appeals to:** PMs who want traction quickly and proof through use.
 
 #### Description:
@@ -38,8 +38,8 @@ A Figma prototype or Wizard-of-Oz chatbot that surfaces “intervention moves”
 
 ---
 
-### **2. The Strategy Coach Canvas**  
-**Lens:** *Framework-first, context-sensitive*  
+### **2. The Strategy Coach Canvas**
+**Lens:** *Framework-first, context-sensitive*
 **Appeals to:** PMs who value structure, reuse, and breadth.
 
 #### Description:
@@ -56,8 +56,8 @@ Modular strategy canvases per archetype, with embedded AI interventions (like GP
 
 ---
 
-### **3. The Conversational Red Team**  
-**Lens:** *Dissent, disruption, challenge*  
+### **3. The Conversational Red Team**
+**Lens:** *Dissent, disruption, challenge*
 **Appeals to:** PMs who care about risk management, cognitive bias, and decision quality.
 
 #### Description:
@@ -74,13 +74,13 @@ A “Strategic Pre-Mortem Bot” embedded in strategy docs or roadmap planning �
 
 ---
 
-### **4. The Adaptive Playbook Generator**  
-**Lens:** *Situational pattern recognition + lived-experience synthesis*  
+### **4. The Adaptive Playbook Generator**
+**Lens:** *Situational pattern recognition + lived-experience synthesis*
 **Appeals to:** Visionary PMs who love systemic tools and scalable learning.
 
 #### Description:
 Leverage your archetypes to train an AI that identifies **which strategic constraint pattern the user is operating within** and **adapts its prompts accordingly**:
-- Executive: “We’re scaling GTM across Asia and Europe but the timelines are off.”  
+- Executive: “We’re scaling GTM across Asia and Europe but the timelines are off.”
 AI: “Sounds like Archetype 3 — orchestration tension. Want to walk through how similar teams navigated sync breakdowns in Netflix’s global launch?”
 
 #### Why this matters:
@@ -103,14 +103,14 @@ Want help rough-sketching what one of these might look like in practice? Happy t
 
 ## You (2025-04-22T12:34:43.487000+00:00)
 
-hey, we also have this list of design principles. Unfortunately, this is a unique approach to writing design principles. 
+hey, we also have this list of design principles. Unfortunately, this is a unique approach to writing design principles.
 
-In order to move from hypothesis to conviction and possibly some low fidelity testing and validation, could you recommend a few steps we could take that keeps both documents (the attached design principles as well as the research synthesis we've done in mind. 
+In order to move from hypothesis to conviction and possibly some low fidelity testing and validation, could you recommend a few steps we could take that keeps both documents (the attached design principles as well as the research synthesis we've done in mind.
 
-Give me a few integrated approaches. 
+Give me a few integrated approaches.
 ---
 
-too often, they fall into the trap of sounding good without actually being useful. 
+too often, they fall into the trap of sounding good without actually being useful.
 
 When principles read like truisms—“AI should be trustworthy,” “prioritize the user,” “support human judgment”—they’re hard to disagree with, but even harder to design from. They don't sharpen decisions; they smooth them over.
 
@@ -136,9 +136,9 @@ Here are **three integrated, contrasting approaches** to move from idea to low-f
 
 ---
 
-### **1. Dialogue Mode Playbooks**  
-**Mode:** *Sketch-as-experiment*  
-**Outcome:** Small-batch conversational scripts for each archetype × principle pairing  
+### **1. Dialogue Mode Playbooks**
+**Mode:** *Sketch-as-experiment*
+**Outcome:** Small-batch conversational scripts for each archetype × principle pairing
 **Appeals to:** Product leaders hungry for texture and fast feedback.
 
 #### What to do:
@@ -147,20 +147,20 @@ Here are **three integrated, contrasting approaches** to move from idea to low-f
 - Use those to test which tone, framing, and logic path feels most actionable, resonant, or risky with target users.
 
 #### Example:
-**A3-P1** (autonomy vs. partnership tension)  
-Exec: “Should we partner with Stripe or build our own payments stack?”  
-- **Principle 1 (Conclusion-first):**  
-AI: “Given your growth stage and talent constraints, a Stripe partnership may unlock 9–12 months of acceleration. Build later if payments becomes core.”  
-- **Counter-principle (Reasoning-first):**  
+**A3-P1** (autonomy vs. partnership tension)
+Exec: “Should we partner with Stripe or build our own payments stack?”
+- **Principle 1 (Conclusion-first):**
+AI: “Given your growth stage and talent constraints, a Stripe partnership may unlock 9–12 months of acceleration. Build later if payments becomes core.”
+- **Counter-principle (Reasoning-first):**
 AI: “Startups in Series B often face this dilemma. Let’s look at capability tradeoffs, hiring timelines, and integration risks. Want to explore companies that reversed the bet midstream?”
 
 > Bonus move: Tag each conversation with the **design principle invoked**, the archetype, and the user mindset it serves (e.g., “urgent + externally constrained” → suits Principle 1).
 
 ---
 
-### **2. Archetype-to-Principle Matrix Mapping**  
-**Mode:** *Sensemaking scaffold*  
-**Outcome:** A 4x7 matrix mapping which principles resonate most per archetype  
+### **2. Archetype-to-Principle Matrix Mapping**
+**Mode:** *Sensemaking scaffold*
+**Outcome:** A 4x7 matrix mapping which principles resonate most per archetype
 **Appeals to:** Strategic PMs who like visual thinking and systemic fit.
 
 #### What to do:
@@ -173,9 +173,9 @@ You now have a **design logic engine** that guides tone, interaction style, and 
 
 ---
 
-### **3. Strategic Framing Assistant (SFx) Concept Sprint**  
-**Mode:** *Low-fi product concept*  
-**Outcome:** One micro-product sketch, live-tested with execs  
+### **3. Strategic Framing Assistant (SFx) Concept Sprint**
+**Mode:** *Low-fi product concept*
+**Outcome:** One micro-product sketch, live-tested with execs
 **Appeals to:** PMs pushing toward validation and roadmap shaping.
 
 #### What to do:
@@ -188,7 +188,7 @@ You're not just testing content — you're testing **framing flexibility as UX**
 
 ---
 
-### Meta-Step: Build a Principle–Archetype Story Library  
+### Meta-Step: Build a Principle–Archetype Story Library
 After each test, **document the small moments**:
 - When did the exec smile?
 - When did they say “That’s what I needed”?
@@ -199,4 +199,3 @@ Over time, this builds a living **pattern language** — not just a feature spec
 ---
 
 Want a canvas or Miro template for one of these methods? Or want help drafting your first "principle-pairing" dialogue map? I'm game to sketch that out with you.
-

@@ -241,54 +241,54 @@ Crystal clear now — you're asking for a **tight set of reusable, modular next 
 ---
 
 ### 🔒 **Strata NGFW / Security Subscriptions**
-1. Firewall Refresh Opportunity – *Schedule Meeting*  
-2. NGFW + Advanced Threat Prevention – *Confirm Budget*  
-3. High Availability Redesign – *Schedule Meeting*  
-4. PA-Series to PA-5450 Upgrade – *Send Proposal*  
+1. Firewall Refresh Opportunity – *Schedule Meeting*
+2. NGFW + Advanced Threat Prevention – *Confirm Budget*
+3. High Availability Redesign – *Schedule Meeting*
+4. PA-Series to PA-5450 Upgrade – *Send Proposal*
 5. Threat Prevention + DNS Security Upsell – *Confirm Budget*
 
 ---
 
 ### 🌐 **Prisma SASE (Prisma Access + SD-WAN)**
-6. VPN Consolidation to Prisma Access – *Schedule Meeting*  
-7. Zscaler Displacement – *Send Proposal*  
-8. Prisma SD-WAN Net-New Deployment – *Confirm Budget*  
-9. Zero Trust Rollout – *Schedule Meeting*  
+6. VPN Consolidation to Prisma Access – *Schedule Meeting*
+7. Zscaler Displacement – *Send Proposal*
+8. Prisma SD-WAN Net-New Deployment – *Confirm Budget*
+9. Zero Trust Rollout – *Schedule Meeting*
 10. SASE POC for M&A Integration – *Confirm Technical Fit*
 
 ---
 
 ### ☁️ **Prisma Cloud**
-11. AWS CSPM – *Confirm Budget*  
-12. Container Security for Kubernetes – *Schedule Meeting*  
-13. IaC Scanning for Dev Environments – *Confirm Technical Fit*  
-14. Azure & GCP Multi-Cloud Coverage – *Send Proposal*  
+11. AWS CSPM – *Confirm Budget*
+12. Container Security for Kubernetes – *Schedule Meeting*
+13. IaC Scanning for Dev Environments – *Confirm Technical Fit*
+14. Azure & GCP Multi-Cloud Coverage – *Send Proposal*
 15. Compliance + Audit Automation – *Confirm Budget*
 
 ---
 
 ### 🧠 **Cortex Portfolio (XDR/XSOAR/Xpanse/XSIAM)**
-16. Cortex XDR Replacement of CrowdStrike – *Send Proposal*  
-17. MDR + XDR Bundle – *Confirm Budget*  
-18. SOAR Automation Use Cases – *Confirm Technical Fit*  
-19. Xpanse Attack Surface Management – *Schedule Meeting*  
+16. Cortex XDR Replacement of CrowdStrike – *Send Proposal*
+17. MDR + XDR Bundle – *Confirm Budget*
+18. SOAR Automation Use Cases – *Confirm Technical Fit*
+19. Xpanse Attack Surface Management – *Schedule Meeting*
 20. XSIAM for SOC Modernization – *Confirm Budget*
 
 ---
 
 ### 🤝 **Professional Services & Support Expansion**
-21. Resident Engineer Add-On – *Send Proposal*  
-22. QuickStart Deployment Package – *Confirm Budget*  
-23. Health Check Assessment – *Schedule Meeting*  
-24. EDU+ Adoption Services – *Confirm Technical Fit*  
+21. Resident Engineer Add-On – *Send Proposal*
+22. QuickStart Deployment Package – *Confirm Budget*
+23. Health Check Assessment – *Schedule Meeting*
+24. EDU+ Adoption Services – *Confirm Technical Fit*
 25. Premium Support Uplift – *Send Proposal*
 
 ---
 
 #### ✅ Standardized Next Steps (Reusable Set):
-- *Schedule Meeting*  
-- *Send Proposal*  
-- *Confirm Budget*  
+- *Schedule Meeting*
+- *Send Proposal*
+- *Confirm Budget*
 - *Confirm Technical Fit*
 
 Want me to repackage this as a pipeline report or align each next step with a sales stage or persona?
@@ -304,63 +304,62 @@ Perfect — striking the right balance now. Here's the refined version with **at
 ---
 
 ### 🔒 **Strata NGFW / Security Subscriptions**
-1. Firewall Refresh Opportunity – *Schedule Discovery Call*  
-2. NGFW + Advanced Threat Prevention – *Confirm Budget Approval*  
-3. High Availability Redesign – *Loop in SE for Architecture Review*  
-4. PA-Series to PA-5450 Upgrade – *Send Commercial Proposal*  
+1. Firewall Refresh Opportunity – *Schedule Discovery Call*
+2. NGFW + Advanced Threat Prevention – *Confirm Budget Approval*
+3. High Availability Redesign – *Loop in SE for Architecture Review*
+4. PA-Series to PA-5450 Upgrade – *Send Commercial Proposal*
 5. Threat Prevention + DNS Security Upsell – *Align with Renewal Date*
 
 ---
 
 ### 🌐 **Prisma SASE (Prisma Access + SD-WAN)**
-6. VPN Consolidation to Prisma Access – *Schedule Discovery Call*  
-7. Zscaler Displacement – *Upload Competitive Analysis*  
-8. Prisma SD-WAN Net-New Deployment – *Confirm User Count*  
-9. Zero Trust Rollout – *Share Zero Trust Use Case Deck*  
+6. VPN Consolidation to Prisma Access – *Schedule Discovery Call*
+7. Zscaler Displacement – *Upload Competitive Analysis*
+8. Prisma SD-WAN Net-New Deployment – *Confirm User Count*
+9. Zero Trust Rollout – *Share Zero Trust Use Case Deck*
 10. SASE POC for M&A Integration – *Confirm POC Success Criteria*
 
 ---
 
 ### ☁️ **Prisma Cloud**
-11. AWS CSPM – *Schedule Technical Deep Dive*  
-12. Container Security for Kubernetes – *Share CNAPP Overview Deck*  
-13. IaC Scanning for Dev Environments – *Invite DevSecOps Champion*  
-14. Azure & GCP Multi-Cloud Coverage – *Align on Compliance Requirements*  
+11. AWS CSPM – *Schedule Technical Deep Dive*
+12. Container Security for Kubernetes – *Share CNAPP Overview Deck*
+13. IaC Scanning for Dev Environments – *Invite DevSecOps Champion*
+14. Azure & GCP Multi-Cloud Coverage – *Align on Compliance Requirements*
 15. Compliance + Audit Automation – *Send Compliance Mapping Sheet*
 
 ---
 
 ### 🧠 **Cortex Portfolio (XDR/XSOAR/Xpanse/XSIAM)**
-16. Cortex XDR Replacement of CrowdStrike – *Run Cost Comparison*  
-17. MDR + XDR Bundle – *Introduce MDR Partner*  
-18. SOAR Automation Use Cases – *Collect Incident Response Playbooks*  
-19. Xpanse Attack Surface Management – *Upload Asset Inventory*  
+16. Cortex XDR Replacement of CrowdStrike – *Run Cost Comparison*
+17. MDR + XDR Bundle – *Introduce MDR Partner*
+18. SOAR Automation Use Cases – *Collect Incident Response Playbooks*
+19. Xpanse Attack Surface Management – *Upload Asset Inventory*
 20. XSIAM for SOC Modernization – *Schedule Executive Strategy Session*
 
 ---
 
 ### 🤝 **Professional Services & Support Expansion**
-21. Resident Engineer Add-On – *Review Implementation Timeline*  
-22. QuickStart Deployment Package – *Confirm Start Date*  
-23. Health Check Assessment – *Send SoW for Review*  
-24. EDU+ Adoption Services – *Schedule Training Kickoff*  
+21. Resident Engineer Add-On – *Review Implementation Timeline*
+22. QuickStart Deployment Package – *Confirm Start Date*
+23. Health Check Assessment – *Send SoW for Review*
+24. EDU+ Adoption Services – *Schedule Training Kickoff*
 25. Premium Support Uplift – *Validate Support Coverage Needs*
 
 ---
 
 #### 🔁 **Next Step Pool (Modular, Min 10):**
-1. *Schedule Discovery Call*  
-2. *Confirm Budget Approval*  
-3. *Loop in SE for Architecture Review*  
-4. *Send Commercial Proposal*  
-5. *Align with Renewal Date*  
-6. *Upload Competitive Analysis*  
-7. *Confirm POC Success Criteria*  
-8. *Share CNAPP Overview Deck*  
-9. *Run Cost Comparison*  
-10. *Schedule Executive Strategy Session*  
-11. *Invite DevSecOps Champion*  
+1. *Schedule Discovery Call*
+2. *Confirm Budget Approval*
+3. *Loop in SE for Architecture Review*
+4. *Send Commercial Proposal*
+5. *Align with Renewal Date*
+6. *Upload Competitive Analysis*
+7. *Confirm POC Success Criteria*
+8. *Share CNAPP Overview Deck*
+9. *Run Cost Comparison*
+10. *Schedule Executive Strategy Session*
+11. *Invite DevSecOps Champion*
 12. *Send SoW for Review*
 
 Let me know if you want this mapped to pipeline stages, automated via Salesforce tasks, or customized for AI-driven playbooks.
-

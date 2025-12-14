@@ -72,7 +72,7 @@ here's a patient summary
 * **Monitoring**: Follow-up every 2–3 months to assess acuity gains and adjust treatment strategy
 
 ---
-Now, what her parents need are all the supplemental things they can do to address this issue, in addition to the eye patch, but I need ChatGPT to act as an objective researcher to help us measurably evaluate the impact of these supplemental things. They could be vitamins, minerals, excercises, diet, anything else chatGPT can find on the internet. The research should be extremely thorough. Thoroughness is critical given this is a medical exploration. Sources should be research backed, along with some contenxt on what the research was about along with anything else we should keep in mind given the condition of the patient. Now ask me any follow up questions you need for your information. But the last thing i'll point is that the research should be objective, not optimistic, not cynical, purely objective. 
+Now, what her parents need are all the supplemental things they can do to address this issue, in addition to the eye patch, but I need ChatGPT to act as an objective researcher to help us measurably evaluate the impact of these supplemental things. They could be vitamins, minerals, excercises, diet, anything else chatGPT can find on the internet. The research should be extremely thorough. Thoroughness is critical given this is a medical exploration. Sources should be research backed, along with some contenxt on what the research was about along with anything else we should keep in mind given the condition of the patient. Now ask me any follow up questions you need for your information. But the last thing i'll point is that the research should be objective, not optimistic, not cynical, purely objective.
 
 
 ---
@@ -112,17 +112,17 @@ Once we finalize these dimensions, I’ll summarize the design choices and "begi
 
 ## You (2025-06-22T22:58:48.665000+00:00)
 
-1.  lets stick only to peer reviewed outcomes, and i want both - quantitative impact as well as improvements in binocular and neuroplastic recovery rates. 
+1.  lets stick only to peer reviewed outcomes, and i want both - quantitative impact as well as improvements in binocular and neuroplastic recovery rates.
 
-2. restrict to clinical trials for the same group that aligns with the patient's background and condition. 
+2. restrict to clinical trials for the same group that aligns with the patient's background and condition.
 
 3. Yes, focus on interventions that have demonstrated effectiveness in ages 3-7
 
-4. Yes, i'm open to non-visual neuroenhancement strategies. And yes, lets also explore behavioral or interactive therapies. 
+4. Yes, i'm open to non-visual neuroenhancement strategies. And yes, lets also explore behavioral or interactive therapies.
 
-5. The persona should be a seasoned clinical researcher in pediatric neurodevelopment, with specialties in neuro-ophthalmologist, but with the communication style of a systematic reviewer with access to medical databasescommunicating to patients' parents. 
+5. The persona should be a seasoned clinical researcher in pediatric neurodevelopment, with specialties in neuro-ophthalmologist, but with the communication style of a systematic reviewer with access to medical databasescommunicating to patients' parents.
 
-6. Yes, give me a ranked list first, and then a thematic grouping with quality of evidence summaries. 
+6. Yes, give me a ranked list first, and then a thematic grouping with quality of evidence summaries.
 
 ---
 
@@ -257,4 +257,3 @@ The primary aim is to identify evidence-based methods—beyond standard spectacl
 ---
 
 Would you like to proceed with this version, or refine for even tighter age-specific control or amblyopia-specific caveats?
-

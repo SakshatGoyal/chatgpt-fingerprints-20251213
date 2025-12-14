@@ -149,88 +149,88 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:**  
+- **Key Themes:**
   The paper synthesizes extensive literature on cognitive biases in decision-making and applies these findings to supply management. It challenges the traditional “homo economicus” assumption by exposing how heuristics—such as availability, commitment, framing, and control illusions—systematically distort supplier evaluations and strategic choices.
 
-- **Core Motivations:**  
+- **Core Motivations:**
   The research seeks to bridge a notable gap in supply management literature by integrating insights from economics, psychology, and organizational decision science. Its aim is to provide a comprehensive, mutually exclusive, and exhaustive taxonomy of decision biases that affect supply managers, thereby motivating the development of debiasing strategies to improve decision quality without sacrificing efficiency.
 
-- **Methodological Clarification:**  
+- **Methodological Clarification:**
   Using a rigorous qualitative approach, the authors first reviewed literature to identify 76 decision biases and then applied hierarchical clustering to condense these into nine distinct bias clusters. The reliability and validity of the taxonomy were further confirmed via Q-sort methodology involving both experienced executives and academic experts. This mixed-method approach lends robustness to the taxonomy while highlighting both empirical findings and theoretical extensions.
 
-- **Relevance Assessment:**  
+- **Relevance Assessment:**
   The findings are directly relevant to contemporary executive concerns by illuminating how cognitive shortcuts and biases impact high-stakes supply decisions. Understanding these biases enables leaders to design decision-support systems and debiasing interventions, ultimately refining strategic sourcing, supplier selection, and negotiation processes in dynamic, globalized markets.
 
 ---
 
 ## Grounded Executive Insights
 
-### **Insight 1: Heuristic Reliance Distorts Supplier Evaluations**  
-**Insight Statement:**  
+### **Insight 1: Heuristic Reliance Distorts Supplier Evaluations**
+**Insight Statement:**
 Supply managers’ frequent reliance on cognitive heuristics—such as availability and confirmation biases—systematically skews supplier evaluations, leading to decisions that depart markedly from rational optimization. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Under conditions of information overload and bounded rationality, managers tend to favor suppliers they are familiar with or that confirm their preexisting beliefs, even when objective metrics might favor alternatives. This heuristic shortcut, while time-efficient, often results in suboptimal supplier choices. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The taxonomy, derived through hierarchical clustering and validated by Q-sort analysis, aggregates numerous biases affecting supply chain decisions. Empirical evidence from prior studies cited in the paper confirms that such heuristics save decision time yet risk overlooking critical, less salient data. **[Empirical]**
 
 ---
 
-### **Insight 2: Commitment and Sunk Cost Fallacies Perpetuate Suboptimal Relationships**  
-**Insight Statement:**  
+### **Insight 2: Commitment and Sunk Cost Fallacies Perpetuate Suboptimal Relationships**
+**Insight Statement:**
 Commitment bias, particularly manifesting as the sunk cost fallacy, leads executives to persist with unfavorable supplier relationships despite clear indicators that alternative partners may yield superior long-term value. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Once a significant investment of resources has been made, managers are inclined to continue on the established course—even in the face of emerging evidence that suggests a change would be beneficial. This status quo bias restricts the exploration of new supplier options and can entrench inefficiencies. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The review emphasizes that numerous empirical studies consistently demonstrate how sunk costs unduly influence decision-making. The findings indicate that while such biases can enhance decision speed, they often do so at the expense of optimal outcomes in supplier selection and relationship management. **[Empirical]**
 
 ---
 
-### **Insight 3: Framing and Presentation Biases Alter Risk Perceptions in Negotiations**  
-**Insight Statement:**  
+### **Insight 3: Framing and Presentation Biases Alter Risk Perceptions in Negotiations**
+**Insight Statement:**
 Variations in the presentation and framing of supplier data significantly influence risk perceptions and negotiation outcomes, leading to decisions that may diverge from objective assessments of supplier performance. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 The mode of information delivery—whether through verbal narratives or numerical reports—and the specific framing (e.g., emphasizing gains versus losses) can prompt managers to adopt risk-averse or risk-seeking behaviors. Such distortions may skew price negotiations and performance evaluations away from what data objectively suggest. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Drawing on prospect theory and related empirical studies, the paper illustrates that even when economic realities remain constant, different framing of the same information can lead to varying decision outcomes. This underscores the importance of standardized, unbiased communication formats in supplier negotiations. **[Empirical]**
 
 ---
 
-### **Insight 4: Illusions of Control Fuel Overconfidence and Misjudged Strategies**  
-**Insight Statement:**  
+### **Insight 4: Illusions of Control Fuel Overconfidence and Misjudged Strategies**
+**Insight Statement:**
 The illusion of control and retrospective output evaluation biases foster unwarranted overconfidence among decision makers, which can result in misjudged negotiations and inadequate contingency planning in supply management. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Executives may erroneously interpret past successes or perceived patterns as evidence of personal control over unpredictable supply chain variables. This overconfidence can lead to insufficient risk management and strategic inflexibility when facing market volatility. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The paper documents that decision-makers often retroactively attribute outcomes to their own capabilities, even when those outcomes were largely a matter of chance. Such cognitive distortions hinder the ability to learn from past errors and adjust future strategies appropriately. **[Empirical]**
 
 ---
 
-### **Insight 5: A Systematic Taxonomy Highlights the Need for Debiasing Strategies**  
-**Insight Statement:**  
+### **Insight 5: A Systematic Taxonomy Highlights the Need for Debiasing Strategies**
+**Insight Statement:**
 The comprehensive and methodologically robust taxonomy of decision biases presented in the paper underscores the critical need for implementing targeted debiasing strategies in supply management to reconcile efficiency with decision quality. **[Inferred]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Given the dual nature of cognitive biases—enhancing decision speed but often at the cost of accuracy—executives must deliberately introduce structured debiasing interventions. These may include standardized evaluation frameworks, the incorporation of historical data, and training programs aimed at mitigating biases in high-stakes decision contexts. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 By validating a nine-cluster taxonomy using both qualitative and Q-sort methodologies, the paper provides a clear roadmap for identifying and countering specific biases in supply chain decision-making. This methodological clarity offers practical guidance for integrating debiasing measures into executive practices. **[Empirical]**
 
 ---
 
 ## **Source Relevance Audit**
 
-- **Coverage Fit:** High — The paper provides an in-depth review and systematic taxonomy of decision biases, directly addressing the cognitive and strategic challenges faced by supply managers.  
-- **Bias & Cognitive Modeling Content:** Present — The analysis extensively covers various cognitive biases and integrates them into a coherent framework relevant for strategic decision-making.  
-- **Clarity of Methods & Outcomes:** Clear — The combination of literature review, hierarchical clustering, and Q-sort methodology is well explained, lending robust empirical support to the findings.  
-- **Areas with No Data:**  
+- **Coverage Fit:** High — The paper provides an in-depth review and systematic taxonomy of decision biases, directly addressing the cognitive and strategic challenges faced by supply managers.
+- **Bias & Cognitive Modeling Content:** Present — The analysis extensively covers various cognitive biases and integrates them into a coherent framework relevant for strategic decision-making.
+- **Clarity of Methods & Outcomes:** Clear — The combination of literature review, hierarchical clustering, and Q-sort methodology is well explained, lending robust empirical support to the findings.
+- **Areas with No Data:**
   - While the paper offers strong empirical and theoretical support for its taxonomy, some executive decision-making contexts and debiasing strategies are inferred rather than directly evidenced within supply management case studies.
 
 ## You (2025-03-23T23:27:01.271000+00:00)
@@ -522,21 +522,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -549,4 +549,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T23:29:37.057394+00:00)
 
 Carter, C. R., Kaufmann, L., & Michel, A. (2007). Behavioral supply management: A taxonomy of judgment and decision-making biases. *International Journal of Physical Distribution & Logistics Management, 37*(8), 631–669. https://doi.org/10.1108/09600030710825694
-

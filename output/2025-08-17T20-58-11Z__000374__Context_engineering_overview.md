@@ -6,10 +6,10 @@ I am seeking to articulate a comprehensive context that encapsulates my goals, i
 
 ---
 ---
-Me: What can you tell me about context engineering? Imagine i understand the basics of prompt engineering, and now i just want to understand context engineering to gain some supplemental knowledge. 
+Me: What can you tell me about context engineering? Imagine i understand the basics of prompt engineering, and now i just want to understand context engineering to gain some supplemental knowledge.
 
 ---
-ChatGPT: 
+ChatGPT:
 Great question — you're already familiar with **prompt engineering**, so let’s layer in **context engineering** as the “next level up.”
 
 ---
@@ -109,7 +109,7 @@ Would you like me to build you a **practical checklist** you can use to “upgra
 
 
 ---
-Me: So, I need you to put on your professional hat as an AI researcher and scientist who's special skillset involves designing custom GPTs. 
+Me: So, I need you to put on your professional hat as an AI researcher and scientist who's special skillset involves designing custom GPTs.
 
 How much of making a custom GPT is about prompt engineering vs context engineering?
 
@@ -187,7 +187,7 @@ Would you like me to sketch out a **framework for evaluating your own custom GPT
 
 Me: Actually, I want to create an outline for research. My goal is to understand frameworks and any additional research professionals have done on the topic of context engineering. You were able to set up a good outline of the main levers: Contextual framing, context injection, context structuring, context weighting, contextual boundaries... But I'm sure most professional researchers may or may not have necessarily classified their research in these terms. If they have, that's great. But if not, then I'm sure it's something new, and if it has enough citations, then it's probably a novel idea or approach to context engineering that we don't know about. Could you think through how we could structure our research?
 
-My goal is to create a research plan that centers around analyzing both research papers, as well as reputable sources like Databricks, OpenAI, Anthropic, IBM, and maybe others. In addition, it wouldn't be bad to also look at some practical applications from startups. 
+My goal is to create a research plan that centers around analyzing both research papers, as well as reputable sources like Databricks, OpenAI, Anthropic, IBM, and maybe others. In addition, it wouldn't be bad to also look at some practical applications from startups.
 
 Start by thinking through all the context you might need to understand more about my goals and objectives clearly, and ask me additional questions. I am looking to develop a comprehensive outline for a research project focused on understanding the various frameworks and research findings related to context engineering. In our previous discussions, you provided a solid foundation by outlining the main levers associated with this field, including contextual framing, context injection, context structuring, context weighting, and contextual boundaries. However, I recognize that many professional researchers may not categorize their work using these specific terminologies. If such classifications do exist within the literature, that would be highly beneficial. Conversely, if they do not, this could indicate a novel approach to context engineering that warrants attention, particularly if it has garnered significant citations or recognition in the field.
 
@@ -301,7 +301,6 @@ I am particularly interested in mapping case studies that demonstrate how startu
 Should our approach be descriptive in nature, surveying how various stakeholders characterize context engineering? I believe it is important to acknowledge that terminology can vary significantly across different fields, and embracing this diversity can enhance our understanding and application of the concept. Thus, identifying and analyzing these differing perspectives will be beneficial in creating a comprehensive overview.
 
 
-
 ---
 Based on the information I have provided in this as well as the previous response, outline a comprehensive multi-phase research and synthesis plan. This should encompass the following stages:
 
@@ -315,7 +314,7 @@ Based on the information I have provided in this as well as the previous respons
 
 ---
 
-As you engage in this process, envision yourself as a seasoned research director at IDEO, a leader with extensive experience in overseeing research teams that tackle innovative and complex subjects. Throughout your career, you have honed your ability to distill vague and ambiguous insights into clear, actionable strategies that drive meaningful outcomes. 
+As you engage in this process, envision yourself as a seasoned research director at IDEO, a leader with extensive experience in overseeing research teams that tackle innovative and complex subjects. Throughout your career, you have honed your ability to distill vague and ambiguous insights into clear, actionable strategies that drive meaningful outcomes.
 
 In this particular project, you are taking on the challenge of guiding your team in the specialized field of context engineering. This involves not only identifying and understanding the nuances of various contexts but also translating those insights into practical applications that can enhance user experiences and inform design decisions. Your leadership will be crucial in helping the team navigate this intricate landscape, as you encourage collaboration, creativity, and critical thinking to uncover valuable insights that can be transformed into impactful solutions.
 Each phase should detail specific tasks and outline the approaches to be considered for clarity and organization throughout the research process.
@@ -326,7 +325,7 @@ Each phase should detail specific tasks and outline the approaches to be conside
 
 ## ChatGPT (2025-08-17T20:58:12.647452+00:00)
 
-Here’s how I would structure this as a **multi-phase research and synthesis plan**, putting myself in the role of a seasoned research director at IDEO guiding a team into new, ambiguous terrain. I’ll keep it structured and clear, while leaving space for flexibility and emergent insights.  
+Here’s how I would structure this as a **multi-phase research and synthesis plan**, putting myself in the role of a seasoned research director at IDEO guiding a team into new, ambiguous terrain. I’ll keep it structured and clear, while leaving space for flexibility and emergent insights.
 
 ---
 
@@ -334,118 +333,118 @@ Here’s how I would structure this as a **multi-phase research and synthesis pl
 
 ---
 
-## **Phase 1. Approach to Gathering Data**  
+## **Phase 1. Approach to Gathering Data**
 
-**Objective:** Establish clarity of purpose, scope, and research questions.  
+**Objective:** Establish clarity of purpose, scope, and research questions.
 
-**Key Tasks:**  
-1. **Define Research Questions**  
-   * What frameworks, methodologies, and principles related to context engineering exist across academia and industry?  
-   * How do different disciplines (AI/ML, HCI, cognitive psychology, information retrieval, design research) conceptualize and operationalize “context”?  
-   * What practical approaches are being used by industry leaders (OpenAI, Anthropic, Databricks, IBM, etc.) and startups to engineer context effectively?  
-   * What gaps exist between theory and application?  
+**Key Tasks:**
+1. **Define Research Questions**
+   * What frameworks, methodologies, and principles related to context engineering exist across academia and industry?
+   * How do different disciplines (AI/ML, HCI, cognitive psychology, information retrieval, design research) conceptualize and operationalize “context”?
+   * What practical approaches are being used by industry leaders (OpenAI, Anthropic, Databricks, IBM, etc.) and startups to engineer context effectively?
+   * What gaps exist between theory and application?
 
-2. **Set Boundaries & Scope**  
-   * **Temporal:** LLM-era (2020–present), while tracing back key antecedents (e.g., information retrieval, context windows in NLP).  
-   * **Disciplinary breadth:** AI/ML + cognitive science + behavioral science + HCI + data ethics.  
-   * **Practical relevance:** Focus on high-signal case studies in startups and industry.  
+2. **Set Boundaries & Scope**
+   * **Temporal:** LLM-era (2020–present), while tracing back key antecedents (e.g., information retrieval, context windows in NLP).
+   * **Disciplinary breadth:** AI/ML + cognitive science + behavioral science + HCI + data ethics.
+   * **Practical relevance:** Focus on high-signal case studies in startups and industry.
 
-3. **Sampling & Sources**  
-   * **Academic:** Google Scholar, arXiv, ACL Anthology, NeurIPS/ICML/ICLR papers.  
-   * **Industry:** Technical blogs, whitepapers, and documentation from OpenAI, Anthropic, Databricks, IBM, HuggingFace.  
-   * **Startups:** Case studies from LangChain, LlamaIndex, Pinecone, Weaviate, Cohere.  
-   * **Expert voices:** Interviews or curated commentary from practitioners (e.g., Substack writers, podcast transcripts).  
-
----
-
-## **Phase 2. Data Collection**  
-
-**Objective:** Build a rich repository of academic + industry + applied insights.  
-
-**Approach & Tools:**  
-1. **Literature Review (Systematic + Snowballing)**  
-   * Start with “context” terms: *retrieval-augmented generation, prompt injection, prompt scaffolding, context window optimization, memory in LLMs, interaction design for AI.*  
-   * Snowball from citations of top papers.  
-
-2. **Industry Scan**  
-   * Collect official blogs, technical docs, and research updates from major AI labs and platforms.  
-   * Extract patterns from applied frameworks (e.g., Anthropic’s Constitutional AI → contextual guardrails).  
-
-3. **Startup Case Studies**  
-   * Conduct structured desk research: funding announcements, product launches, user guides.  
-   * If feasible, short interviews with product designers or technical leads (exploratory conversations).  
-
-4. **Ethnographic Inspiration (IDEO-style)**  
-   * Observe applied “context engineering” in communities (e.g., developer forums, Discord/Slack groups around LangChain).  
-   * Note emergent practices, hacks, and workarounds that may not be in formal literature.  
-
-**Timeline:**  
-~6–8 weeks of concurrent collection:  
-* Weeks 1–2: Literature search + snowballing.  
-* Weeks 3–4: Industry deep dive.  
-* Weeks 5–6: Startup mapping + exploratory conversations.  
-* Weeks 7–8: Consolidation + first pass at categorization.  
-
-**Ethical considerations:**  
-* Ensure attribution and credit when citing practitioners’ work.  
-* Be transparent about limits of proprietary knowledge (e.g., no speculation beyond public disclosures).  
+3. **Sampling & Sources**
+   * **Academic:** Google Scholar, arXiv, ACL Anthology, NeurIPS/ICML/ICLR papers.
+   * **Industry:** Technical blogs, whitepapers, and documentation from OpenAI, Anthropic, Databricks, IBM, HuggingFace.
+   * **Startups:** Case studies from LangChain, LlamaIndex, Pinecone, Weaviate, Cohere.
+   * **Expert voices:** Interviews or curated commentary from practitioners (e.g., Substack writers, podcast transcripts).
 
 ---
 
-## **Phase 3. Sense-Making and Synthesis**  
+## **Phase 2. Data Collection**
 
-**Objective:** Extract themes, organize them into a coherent framework, and identify gaps/opportunities.  
+**Objective:** Build a rich repository of academic + industry + applied insights.
 
-**Process:**  
-1. **Inductive Thematic Analysis**  
-   * Code findings into clusters — e.g., *context structuring, context injection, context weighting, guardrails, human framing.*  
-   * Allow new categories to emerge that don’t fit pre-existing labels.  
+**Approach & Tools:**
+1. **Literature Review (Systematic + Snowballing)**
+   * Start with “context” terms: *retrieval-augmented generation, prompt injection, prompt scaffolding, context window optimization, memory in LLMs, interaction design for AI.*
+   * Snowball from citations of top papers.
 
-2. **Comparative Analysis**  
-   * Contrast **academic frameworks** (rigor, citations, theoretical grounding) vs **industry frameworks** (speed, practical heuristics).  
-   * Map overlaps and divergences.  
+2. **Industry Scan**
+   * Collect official blogs, technical docs, and research updates from major AI labs and platforms.
+   * Extract patterns from applied frameworks (e.g., Anthropic’s Constitutional AI → contextual guardrails).
 
-3. **Integrative & Lateral Synthesis**  
-   * Connect insights across disciplines — e.g., HCI’s work on “situated interaction” vs AI’s work on retrieval pipelines.  
-   * Identify adjacent inspiration (e.g., cognitive psychology → working memory; behavioral science → framing effects).  
+3. **Startup Case Studies**
+   * Conduct structured desk research: funding announcements, product launches, user guides.
+   * If feasible, short interviews with product designers or technical leads (exploratory conversations).
 
-4. **Framework Refinement**  
-   * Decide whether to adopt the “five levers” (framing, injection, structuring, weighting, boundaries) as backbone.  
-   * If literature suggests richer categories, evolve the taxonomy.  
-   * Build causal maps — what practices → what outcomes → why they succeed/fail.  
+4. **Ethnographic Inspiration (IDEO-style)**
+   * Observe applied “context engineering” in communities (e.g., developer forums, Discord/Slack groups around LangChain).
+   * Note emergent practices, hacks, and workarounds that may not be in formal literature.
 
----
+**Timeline:**
+~6–8 weeks of concurrent collection:
+* Weeks 1–2: Literature search + snowballing.
+* Weeks 3–4: Industry deep dive.
+* Weeks 5–6: Startup mapping + exploratory conversations.
+* Weeks 7–8: Consolidation + first pass at categorization.
 
-## **Phase 4. Final Output**  
-
-**Objective:** Translate synthesis into actionable insights for both researchers and practitioners.  
-
-**Deliverables:**  
-1. **Core Artifact (Hybrid Whitepaper + Practitioner Guide)**  
-   * **Executive Summary** — high-level insights for executives and researchers.  
-   * **Taxonomy of Context Engineering** — structured framework synthesizing academic + industry insights.  
-   * **Thematic Findings** — clusters of patterns with supporting evidence.  
-   * **Case Studies** — real-world startup + enterprise applications.  
-   * **Gaps & Opportunities** — areas needing further research or innovation.  
-   * **Actionable Playbook** — practical heuristics and checklists for applied context engineering.  
-
-2. **Scenario-based Extensions**  
-   * Tailored applications for different contexts: enterprise AI, consumer-facing apps, research workflows.  
-   * Concrete “what this looks like in practice” stories.  
-
-3. **Optional Outputs**  
-   * Presentation deck for sharing findings.  
-   * Repository or annotated bibliography for ongoing reference.  
+**Ethical considerations:**
+* Ensure attribution and credit when citing practitioners’ work.
+* Be transparent about limits of proprietary knowledge (e.g., no speculation beyond public disclosures).
 
 ---
 
-## 🌱 Closing Notes on Leadership Approach  
+## **Phase 3. Sense-Making and Synthesis**
 
-As IDEO-style research director, I would:  
-* **Foster divergence → convergence cycles**: Encourage the team to explore widely (pull from multiple disciplines), then distill into clarity.  
-* **Balance rigor with creativity**: Avoid overgeneralizing, but also embrace imaginative cross-pollination.  
-* **Anchor in real people problems**: Always ask, “How does context engineering improve the human experience with AI?”  
-* **Push toward impact**: Ensure the final outputs are not just descriptive but also useful to practitioners shaping next-gen AI tools.  
+**Objective:** Extract themes, organize them into a coherent framework, and identify gaps/opportunities.
+
+**Process:**
+1. **Inductive Thematic Analysis**
+   * Code findings into clusters — e.g., *context structuring, context injection, context weighting, guardrails, human framing.*
+   * Allow new categories to emerge that don’t fit pre-existing labels.
+
+2. **Comparative Analysis**
+   * Contrast **academic frameworks** (rigor, citations, theoretical grounding) vs **industry frameworks** (speed, practical heuristics).
+   * Map overlaps and divergences.
+
+3. **Integrative & Lateral Synthesis**
+   * Connect insights across disciplines — e.g., HCI’s work on “situated interaction” vs AI’s work on retrieval pipelines.
+   * Identify adjacent inspiration (e.g., cognitive psychology → working memory; behavioral science → framing effects).
+
+4. **Framework Refinement**
+   * Decide whether to adopt the “five levers” (framing, injection, structuring, weighting, boundaries) as backbone.
+   * If literature suggests richer categories, evolve the taxonomy.
+   * Build causal maps — what practices → what outcomes → why they succeed/fail.
+
+---
+
+## **Phase 4. Final Output**
+
+**Objective:** Translate synthesis into actionable insights for both researchers and practitioners.
+
+**Deliverables:**
+1. **Core Artifact (Hybrid Whitepaper + Practitioner Guide)**
+   * **Executive Summary** — high-level insights for executives and researchers.
+   * **Taxonomy of Context Engineering** — structured framework synthesizing academic + industry insights.
+   * **Thematic Findings** — clusters of patterns with supporting evidence.
+   * **Case Studies** — real-world startup + enterprise applications.
+   * **Gaps & Opportunities** — areas needing further research or innovation.
+   * **Actionable Playbook** — practical heuristics and checklists for applied context engineering.
+
+2. **Scenario-based Extensions**
+   * Tailored applications for different contexts: enterprise AI, consumer-facing apps, research workflows.
+   * Concrete “what this looks like in practice” stories.
+
+3. **Optional Outputs**
+   * Presentation deck for sharing findings.
+   * Repository or annotated bibliography for ongoing reference.
+
+---
+
+## 🌱 Closing Notes on Leadership Approach
+
+As IDEO-style research director, I would:
+* **Foster divergence → convergence cycles**: Encourage the team to explore widely (pull from multiple disciplines), then distill into clarity.
+* **Balance rigor with creativity**: Avoid overgeneralizing, but also embrace imaginative cross-pollination.
+* **Anchor in real people problems**: Always ask, “How does context engineering improve the human experience with AI?”
+* **Push toward impact**: Ensure the final outputs are not just descriptive but also useful to practitioners shaping next-gen AI tools.
 
 ---
 
@@ -461,79 +460,78 @@ Please consider my goals and rewrite the above statement with additional details
 
 ## ChatGPT (2025-08-17T21:03:22.231377+00:00)
 
-Here’s a rewritten version of your statement, expanded into a **clear, structured context document** you could store in your ChatGPT project folder as a persistent reference. It captures objectives, scope, key topics, and communication preferences so you don’t need to restate them every time:  
+Here’s a rewritten version of your statement, expanded into a **clear, structured context document** you could store in your ChatGPT project folder as a persistent reference. It captures objectives, scope, key topics, and communication preferences so you don’t need to restate them every time:
 
 ---
 
-# 📂 Project Context: Researching and Applying Context Engineering  
+# 📂 Project Context: Researching and Applying Context Engineering
 
-## **Purpose of This Document**  
-This document serves as a foundational reference for all future conversations and explorations related to this project within ChatGPT. It consolidates the project’s goals, areas of focus, and communication preferences into a single cohesive context so that discussions can build on prior work without repeatedly restating background information.  
-
----
-
-## **Project Objectives**  
-1. **Develop a deep understanding of context engineering**  
-   * Explore academic research, theoretical frameworks, and interdisciplinary perspectives (AI/ML, HCI, cognitive science, behavioral psychology, data ethics).  
-   * Analyze how context engineering is applied in real-world systems, products, and organizational workflows.  
-
-2. **Synthesize insights into a structured framework**  
-   * Classify and evaluate context engineering practices (e.g., contextual framing, context injection, structuring, weighting, boundaries).  
-   * Identify gaps in current research and opportunities for innovation.  
-   * Compare theoretical models with practical implementations in industry.  
-
-3. **Translate findings into practical applications**  
-   * Create actionable guides, heuristics, and checklists for practitioners.  
-   * Develop case studies illustrating how startups and established organizations apply context engineering principles.  
-   * Explore scenarios across enterprise, consumer, and research domains.  
+## **Purpose of This Document**
+This document serves as a foundational reference for all future conversations and explorations related to this project within ChatGPT. It consolidates the project’s goals, areas of focus, and communication preferences into a single cohesive context so that discussions can build on prior work without repeatedly restating background information.
 
 ---
 
-## **Key Topics of Exploration**  
-- **Theoretical Foundations**: Academic studies on LLMs, retrieval-augmented generation, memory, prompt scaffolding, and human-AI interaction.  
-- **Industry Insights**: Publications and frameworks from OpenAI, Anthropic, Databricks, IBM, Hugging Face, etc.  
-- **Startup Practices**: Applied innovations from startups (e.g., LangChain, LlamaIndex, Pinecone, Cohere).  
-- **Interdisciplinary Influences**: Concepts from cognitive psychology (working memory, framing effects), behavioral science (decision-making, biases), and HCI (situated interaction, usability).  
-- **Applied Research Questions**:  
-  * How do different disciplines define and operationalize “context”?  
-  * What makes context engineering successful in practice?  
-  * What new models or classifications can emerge from this research?  
+## **Project Objectives**
+1. **Develop a deep understanding of context engineering**
+   * Explore academic research, theoretical frameworks, and interdisciplinary perspectives (AI/ML, HCI, cognitive science, behavioral psychology, data ethics).
+   * Analyze how context engineering is applied in real-world systems, products, and organizational workflows.
+
+2. **Synthesize insights into a structured framework**
+   * Classify and evaluate context engineering practices (e.g., contextual framing, context injection, structuring, weighting, boundaries).
+   * Identify gaps in current research and opportunities for innovation.
+   * Compare theoretical models with practical implementations in industry.
+
+3. **Translate findings into practical applications**
+   * Create actionable guides, heuristics, and checklists for practitioners.
+   * Develop case studies illustrating how startups and established organizations apply context engineering principles.
+   * Explore scenarios across enterprise, consumer, and research domains.
 
 ---
 
-## **Guiding Principles for Research & Discussion**  
-- **Hybrid focus**: Balance academic rigor with practical applicability.  
-- **Interdisciplinary lens**: Look beyond AI/ML to related fields for deeper insights.  
-- **LLM-era emphasis**: Prioritize contemporary (2020–present) research while recognizing antecedents.  
-- **Emergent sense-making**: Use inductive thematic analysis while building deductive frameworks where appropriate.  
-- **Integrative synthesis**: Explore lateral connections across disciplines and domains.  
-- **Impact orientation**: Anchor findings in how context engineering improves the reliability, usability, and human-centered design of AI systems.  
+## **Key Topics of Exploration**
+- **Theoretical Foundations**: Academic studies on LLMs, retrieval-augmented generation, memory, prompt scaffolding, and human-AI interaction.
+- **Industry Insights**: Publications and frameworks from OpenAI, Anthropic, Databricks, IBM, Hugging Face, etc.
+- **Startup Practices**: Applied innovations from startups (e.g., LangChain, LlamaIndex, Pinecone, Cohere).
+- **Interdisciplinary Influences**: Concepts from cognitive psychology (working memory, framing effects), behavioral science (decision-making, biases), and HCI (situated interaction, usability).
+- **Applied Research Questions**:
+  * How do different disciplines define and operationalize “context”?
+  * What makes context engineering successful in practice?
+  * What new models or classifications can emerge from this research?
 
 ---
 
-## **Communication Preferences**  
-- **Style**: Clear, structured, and thoughtful; explanations should balance depth with accessibility.  
-- **Voice**: Candid yet empathetic (aligned with Julie Zhuo’s leadership style: people-first, clarity-driven, reflective).  
-- **Outputs**:  
-  * Well-organized outlines, frameworks, and structured analyses.  
-  * Actionable insights with practical applications.  
-  * Distinction between exploratory/early-stage ideas vs synthesized conclusions.  
-- **Approach**: Encourage reflection and ask clarifying questions before jumping to conclusions. Challenge vague thinking respectfully and constructively.  
+## **Guiding Principles for Research & Discussion**
+- **Hybrid focus**: Balance academic rigor with practical applicability.
+- **Interdisciplinary lens**: Look beyond AI/ML to related fields for deeper insights.
+- **LLM-era emphasis**: Prioritize contemporary (2020–present) research while recognizing antecedents.
+- **Emergent sense-making**: Use inductive thematic analysis while building deductive frameworks where appropriate.
+- **Integrative synthesis**: Explore lateral connections across disciplines and domains.
+- **Impact orientation**: Anchor findings in how context engineering improves the reliability, usability, and human-centered design of AI systems.
 
 ---
 
-## **Intended Outputs of This Project**  
-- A **comprehensive literature and industry review** of context engineering.  
-- A **taxonomy/framework** of practices with supporting evidence.  
-- A **practitioner’s guide** with scenarios, checklists, and heuristics.  
-- A set of **case studies** (startups + enterprises) illustrating applied context engineering.  
-- Optional: a **presentation deck** or **whitepaper** for sharing findings with broader audiences.  
+## **Communication Preferences**
+- **Style**: Clear, structured, and thoughtful; explanations should balance depth with accessibility.
+- **Voice**: Candid yet empathetic (aligned with Julie Zhuo’s leadership style: people-first, clarity-driven, reflective).
+- **Outputs**:
+  * Well-organized outlines, frameworks, and structured analyses.
+  * Actionable insights with practical applications.
+  * Distinction between exploratory/early-stage ideas vs synthesized conclusions.
+- **Approach**: Encourage reflection and ask clarifying questions before jumping to conclusions. Challenge vague thinking respectfully and constructively.
 
 ---
 
-✅ This document is the **reference backbone** of the project. All future conversations should treat it as the established context, ensuring continuity, depth, and efficiency without reintroducing foundational details.  
+## **Intended Outputs of This Project**
+- A **comprehensive literature and industry review** of context engineering.
+- A **taxonomy/framework** of practices with supporting evidence.
+- A **practitioner’s guide** with scenarios, checklists, and heuristics.
+- A set of **case studies** (startups + enterprises) illustrating applied context engineering.
+- Optional: a **presentation deck** or **whitepaper** for sharing findings with broader audiences.
+
+---
+
+✅ This document is the **reference backbone** of the project. All future conversations should treat it as the established context, ensuring continuity, depth, and efficiency without reintroducing foundational details.
 
 ---
 
 Would you like me to make this even more **operationalized**—for example, adding a “Working Agreements” section (e.g., how we’ll handle ambiguity, when to dive deep vs. stay high-level), so it feels like a true **research charter** for your ChatGPT workspace?
-

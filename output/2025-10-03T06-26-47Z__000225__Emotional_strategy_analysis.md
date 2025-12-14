@@ -635,4 +635,3 @@ You’re at a fork:
 Both require courage. One seeks a response. The other becomes the legend.
 
 What kind of ending do you want her to remember?
-

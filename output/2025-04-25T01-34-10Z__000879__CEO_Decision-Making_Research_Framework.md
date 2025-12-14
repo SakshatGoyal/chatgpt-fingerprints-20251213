@@ -49,15 +49,11 @@ Question 6	What mental workflows or thinking rituals could AI most naturally plu
 Question 7	What kinds of strategic thinking or planning frameworks feel like a natural fit for AI support—and where does AI’s role begin to break down?
 
 
-
-
-
-
 - **PESS Question Template**:
-    
+
     ```jsx
     ## 📝 PESS Research Guide: [Persona] for [Purpose]
-    
+
     ### 1. Persona Definition (Who)
     Select relevant modules:
     - [ ] Identity Basics
@@ -66,7 +62,7 @@ Question 7	What kinds of strategic thinking or planning frameworks feel like a n
     - [ ] Values & Motivations
     - [ ] Exemplars & Anecdotes
     - [ ] Domain Competence *(optional)*
-    
+
     ### 2. Purpose Definition (What For)
     Clearly identify your primary use-case modules:
     - [ ] Emotional & Social Guidance
@@ -74,47 +70,47 @@ Question 7	What kinds of strategic thinking or planning frameworks feel like a n
     - [ ] Creative & Expressive Tasks
     - [ ] Procedural & Functional Tasks
     - [ ] Moral & Ethical Reasoning
-    
+
     ### 3. Recommended Information-Gathering Sources
     Based on chosen modules, gather from:
     - Primary sources (e.g., interviews, writings by persona)
     - Secondary sources (biographies, critical analysis)
     - Fictional canon (scripts, character wikis, authoritative sources)
-    
-    **Example:**  
+
+    **Example:**
     If "Emotional & Social Guidance" selected → memoir excerpts, personal anecdotes, interviews reflecting values.
-    
+
     If "Procedural & Functional Tasks" selected → step-by-step descriptions, documented decision processes, case-studies.
-    
+
     ### 4. Specific Information to Include
     Prioritize gathering:
     - Authentic examples closely tied to persona’s demonstrated behavior
     - Explicit declarations of values, priorities, motivations
     - Demonstrated reasoning processes (if relevant to task)
-    
+
     ### 5. Pitfalls & What to Avoid
     - Avoid assumptions of competence based solely on fame or presence in a domain.
     - Beware user-added ideological biases; cross-check authenticity.
     - Do not assume fictional logic applies to real-world tasks.
-    
+
     ### 6. Depth and Fidelity Target
-    - Clearly define the depth required:  
-      **High (exact voice replication)** → Rich exemplars & anecdotes, detailed style & tone guides.  
-      **Medium (style-aware, flexible)** → Values, general patterns, some exemplars.  
+    - Clearly define the depth required:
+      **High (exact voice replication)** → Rich exemplars & anecdotes, detailed style & tone guides.
+      **Medium (style-aware, flexible)** → Values, general patterns, some exemplars.
       **Low (loose imitation)** → Identity basics, core values only.
-    
+
     ### 7. Hidden Assumptions & Risk Mitigation
     - Identify assumptions in chosen persona’s public image vs. reality.
     - Check cultural bias in collected sources.
     - Prepare fallback instructions for handling uncertainty (style drift, hallucination).
-    
+
     ### 🔄 Final Checklist (Before Use)
     - Confirm fidelity matches task requirement.
     - Confirm adequate factual grounding for purpose.
     - Confirm inclusion of modular packs matches intended complexity and depth.
-    
+
     ```
-    
+
 
 ---
 
@@ -133,44 +129,44 @@ Transform each *selected* PESS module into a **set of exploratory, research-r
 ### 🧩 Instructions:
 
 1. **Only consider the PESS modules marked with `[x]`**.
-    
+
     Ignore those marked with `[ ]` or not selected.
-    
+
 2. **For each selected module**, generate 1–10 high-quality exploratory questions.
-    
+
     Prioritize **depth, relevance, and contextual grounding** over quantity.
-    
+
     If only one great question emerges, that’s better than five generic ones.
-    
+
 3. **Frame the questions in a creative, open-ended style** that invites nuanced research.
-    
+
     Use formats like:
-    
+
     - “What might {{Persona}} say if…”
     - “Are there examples of situations where…”
     - “How has {{Persona}} responded to…”
     - “In what ways has {{Persona}} demonstrated…”
     - “What real-life moments reflect {{Persona}}’s view on…”
 4. **Incorporate the lens of the stated Purpose.**
-    
+
     Shape each question so it uncovers information directly useful for fulfilling the end-goal.
-    
+
 5. **Adapt based on the Fidelity Target** (if present in the PESS):
     - For **High Fidelity** → Ask for quotes, anecdotes, precise language, voice tone
     - For **Medium Fidelity** → Ask about patterns, values, reasoning styles
     - For **Low Fidelity** → Ask about identity basics and general worldview
 6. **You may connect insights across modules if it enhances the questions’ relevance or depth.**
-    
+
     Overlap is acceptable if it strengthens contextual integrity.
-    
+
 7. **Do not answer the questions.**
-    
+
     Only generate the questions themselves.
-    
+
 8. **Optional but encouraged:**
-    
+
     Where helpful, recommend the most suitable source types (e.g., memoirs, interviews, public speeches) for each question.
-    
+
 
 ---
 
@@ -204,70 +200,65 @@ Repeat this structure for **each selected module** in the PESS framework.
 - Would a researcher reading each question know *where to start looking* for answers?
 - Did you avoid vague, surface-level phrasing?
 
-## ChatGPT (2025-04-25T01:34:23.496751+00:00)
 
-{"content_type": "thoughts", "thoughts": [{"summary": "Selecting relevant modules", "content": "The user wants me to create research prompts using selected modules from a provided framework, but it’s unclear which modules are already selected. I'll need to decide on the relevant ones based on what the user needs—likely focusing on the Purpose and Persona aspects. Since the instructions don’t identify a clear selection, my best guess is that I should pick ones most aligned with the context they're seeking—whether it's emotional guidance, reasoning, or functional tasks. I'll think carefully about how to approach this!", "chunks": [], "finished": true}, {"summary": "Choosing relevant modules", "content": "The user wants me to create contextually rich research prompts using the PESS framework. However, I'll need to decide on specific modules since none are marked. Based on the executive persona (CEO at a midsized company) and the purpose (understanding decision-making and AI's role), I'll focus on modules that seem most relevant. These might include Identity Basics, Tone & Style, Behavioral Patterns, Values & Motivations, Exemplars & Anecdotes, Strategic & Analytical Reasoning, Emotional & Social Guidance, and possibly Domain Competence. I'll narrow this down to keep things manageable.", "chunks": [], "finished": true}], "source_analysis_msg_id": "e220ff93-3062-4fed-bfe4-a003043a6679"}
 
-## ChatGPT (2025-04-25T01:34:32.124411+00:00)
 
-{"content_type": "reasoning_recap", "content": "Thought for 19 seconds"}
 
 ## ChatGPT (2025-04-25T01:34:11.666079+00:00)
 
 ```CopyEdit
 ## Research Objective: Find empirical information to help create a custom GPT of a CEO at a midsized company for shaping incisive questions about executive decision-making and AI’s emerging role.
 
-### Identity Basics  
-- What pivotal early-career moments (a first turnaround, a botched product launch, a breakout win) does the CEO themselves credit for sharpening their strategic instincts—and how do they narrate those events today? *Suggested sources: long-form interviews, autobiographical talks*  
-- How has the shift from hands-on operator to enterprise-level strategist changed the way they define “success” for both themselves and the firm?  
-- When asked about company size—neither startup-lean nor mega-corp—how do they articulate the unique freedoms and constraints of the “midsized middle”?  
-- What personal rituals (morning briefings, walking one-on-ones, private note-taking systems) reveal how this CEO primes themselves for high-stakes calls?  
+### Identity Basics
+- What pivotal early-career moments (a first turnaround, a botched product launch, a breakout win) does the CEO themselves credit for sharpening their strategic instincts—and how do they narrate those events today? *Suggested sources: long-form interviews, autobiographical talks*
+- How has the shift from hands-on operator to enterprise-level strategist changed the way they define “success” for both themselves and the firm?
+- When asked about company size—neither startup-lean nor mega-corp—how do they articulate the unique freedoms and constraints of the “midsized middle”?
+- What personal rituals (morning briefings, walking one-on-ones, private note-taking systems) reveal how this CEO primes themselves for high-stakes calls?
 
-### Tone & Style  
-- In shareholder letters versus internal town-halls, what linguistic cues (metaphors, cadence, humor) signal when the CEO is rallying, warning, or experimenting? *Suggested sources: earnings-call transcripts, Slack AMA logs*  
-- How does their verbal style shift when defending a risky move to a skeptical board compared with mentoring a rising executive?  
-- Are there signature phrases that consistently surface when they speak about uncertainty, AI adoption, or strategic pivots?  
-- How do they use silence, questioning, or storytelling to steer tough discussions—especially under time pressure?  
+### Tone & Style
+- In shareholder letters versus internal town-halls, what linguistic cues (metaphors, cadence, humor) signal when the CEO is rallying, warning, or experimenting? *Suggested sources: earnings-call transcripts, Slack AMA logs*
+- How does their verbal style shift when defending a risky move to a skeptical board compared with mentoring a rising executive?
+- Are there signature phrases that consistently surface when they speak about uncertainty, AI adoption, or strategic pivots?
+- How do they use silence, questioning, or storytelling to steer tough discussions—especially under time pressure?
 
-### Behavioral Patterns  
-- Map three recent strategic junctures (e.g., supply-chain shock, sudden M&A opportunity, AI-driven product shift). How did the CEO’s sequence of actions differ across each context?  
-- When data remains murky, what “gut-check” behaviors emerge (e.g., convening an ad-hoc brain-trust, asking for worst-case scenarios first)?  
-- How does the CEO toggle between centralized and distributed decision rights as stakes rise or timelines shrink?  
-- What patterns surface in their post-mortems after a strategy underperforms—do they spotlight process flaws, talent gaps, or blind spots in their own judgment?  
+### Behavioral Patterns
+- Map three recent strategic junctures (e.g., supply-chain shock, sudden M&A opportunity, AI-driven product shift). How did the CEO’s sequence of actions differ across each context?
+- When data remains murky, what “gut-check” behaviors emerge (e.g., convening an ad-hoc brain-trust, asking for worst-case scenarios first)?
+- How does the CEO toggle between centralized and distributed decision rights as stakes rise or timelines shrink?
+- What patterns surface in their post-mortems after a strategy underperforms—do they spotlight process flaws, talent gaps, or blind spots in their own judgment?
 
-### Values & Motivations  
-- Which long-term ideals (brand legacy, workforce resilience, community impact) consistently outweigh quarter-to-quarter pressures in their narratives?  
-- How do they articulate the trade-off between “playing to win” and “protecting the downside” when cash flow tightens?  
-- When speaking about AI’s promise, do they frame it primarily as competitive edge, cultural transformation, or ethical obligation?  
-- In moments of public scrutiny, which values do they elevate first—and which stay noticeably quiet?  
+### Values & Motivations
+- Which long-term ideals (brand legacy, workforce resilience, community impact) consistently outweigh quarter-to-quarter pressures in their narratives?
+- How do they articulate the trade-off between “playing to win” and “protecting the downside” when cash flow tightens?
+- When speaking about AI’s promise, do they frame it primarily as competitive edge, cultural transformation, or ethical obligation?
+- In moments of public scrutiny, which values do they elevate first—and which stay noticeably quiet?
 
-### Exemplars & Anecdotes  
-- Collect first-person stories where the CEO reversed an earlier decision; what tipping-point detail finally forced the U-turn?  
-- Gather anecdotes of AI experiments that fizzled: how did they publicly explain the failure, and what lesson became the headline?  
-- Identify instances where a mid-level manager’s insight swayed a major strategy; how does the CEO retell that power-shift?  
-- Seek examples of “decisive inaction”—times the CEO deliberately paused rather than moved, and later justified the restraint.  
+### Exemplars & Anecdotes
+- Collect first-person stories where the CEO reversed an earlier decision; what tipping-point detail finally forced the U-turn?
+- Gather anecdotes of AI experiments that fizzled: how did they publicly explain the failure, and what lesson became the headline?
+- Identify instances where a mid-level manager’s insight swayed a major strategy; how does the CEO retell that power-shift?
+- Seek examples of “decisive inaction”—times the CEO deliberately paused rather than moved, and later justified the restraint.
 
-### Domain Competence *(Industry & Functional)*  
-- What sector-specific KPIs or trendlines does the CEO cite most when framing strategic horizons (e.g., inventory turn vs. brand heat index)?  
-- How do they describe the clothing industry’s unique innovation cycles compared with adjacent consumer-goods fields?  
-- Which supply-chain or sustainability certifications do they champion—and why those over equally valid alternatives?  
+### Domain Competence *(Industry & Functional)*
+- What sector-specific KPIs or trendlines does the CEO cite most when framing strategic horizons (e.g., inventory turn vs. brand heat index)?
+- How do they describe the clothing industry’s unique innovation cycles compared with adjacent consumer-goods fields?
+- Which supply-chain or sustainability certifications do they champion—and why those over equally valid alternatives?
 
 ---
 
-### Strategic & Analytical Reasoning  
-- When pressed to act with partial data, which mental models (OODA loop, option value thinking, game-theory mapping) surface in their vocabulary?  
-- How has exposure to AI-driven forecasting changed their default “data-first, instinct-second” ratio, if at all?  
-- In board discussions, how do they justify classifying a decision as “high-stakes” and thus subject to deeper diligence or narrower delegation?  
-- What evidence shows how the CEO weighs contrarian signals—especially when they conflict with prevailing dashboards?  
+### Strategic & Analytical Reasoning
+- When pressed to act with partial data, which mental models (OODA loop, option value thinking, game-theory mapping) surface in their vocabulary?
+- How has exposure to AI-driven forecasting changed their default “data-first, instinct-second” ratio, if at all?
+- In board discussions, how do they justify classifying a decision as “high-stakes” and thus subject to deeper diligence or narrower delegation?
+- What evidence shows how the CEO weighs contrarian signals—especially when they conflict with prevailing dashboards?
 
-### Emotional & Social Guidance  
-- How does the CEO coach teams through decision fatigue when multiple strategic tracks remain open?  
-- In what ways do they normalize dissent or designate a “devil’s advocate” when stakes soar?  
-- After announcing a tough pivot, what emotional frameworks (acknowledging loss, reframing purpose) do they employ to steady morale?  
+### Emotional & Social Guidance
+- How does the CEO coach teams through decision fatigue when multiple strategic tracks remain open?
+- In what ways do they normalize dissent or designate a “devil’s advocate” when stakes soar?
+- After announcing a tough pivot, what emotional frameworks (acknowledging loss, reframing purpose) do they employ to steady morale?
 
-### Moral & Ethical Reasoning  
-- Cite episodes where investor pressure clashed with stated social or environmental commitments—how did the CEO arbitrate the tension?  
-- When deploying AI in customer-facing processes, how do they reason about bias, transparency, and consent?  
-- What public statements reveal the CEO’s line between strategic secrecy and stakeholder disclosure?  
+### Moral & Ethical Reasoning
+- Cite episodes where investor pressure clashed with stated social or environmental commitments—how did the CEO arbitrate the tension?
+- When deploying AI in customer-facing processes, how do they reason about bias, transparency, and consent?
+- What public statements reveal the CEO’s line between strategic secrecy and stakeholder disclosure?
 ```
-

@@ -1,8 +1,6 @@
 # Debris Search Access Request
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2025-02-12T00:31:28.719914+00:00)
 
@@ -10,20 +8,20 @@ Can you help me write a message to my boss Rajiv so I'm trying to tell him that 
 
 ## ChatGPT (2025-02-12T00:31:40.514699+00:00)
 
-Here’s a professional and persuasive message you can send to Rajiv:  
+Here’s a professional and persuasive message you can send to Rajiv:
 
 ---
 
-**Subject:** Access to Debris Search Option  
+**Subject:** Access to Debris Search Option
 
-Hi Rajiv,  
+Hi Rajiv,
 
-I’ve been looking into the debris search option, and it seems like we’ll need some level of access to explore it properly. The challenge is that it costs $200 per month, which makes it a bit of a steep investment for an individual license.  
+I’ve been looking into the debris search option, and it seems like we’ll need some level of access to explore it properly. The challenge is that it costs $200 per month, which makes it a bit of a steep investment for an individual license.
 
-Would it be possible to set up a shared company user ID for this? That way, we could evaluate its value collectively before committing to multiple licenses. If there’s another workaround you’d prefer, I’m happy to explore that too. Let me know what you think.  
+Would it be possible to set up a shared company user ID for this? That way, we could evaluate its value collectively before committing to multiple licenses. If there’s another workaround you’d prefer, I’m happy to explore that too. Let me know what you think.
 
-Thanks,  
-[Your Name]  
+Thanks,
+[Your Name]
 
 ---
 
@@ -35,17 +33,17 @@ No, I'm talking about deep research found on ChatGPT just tell him that it has c
 
 ## ChatGPT (2025-02-12T00:32:32.856538+00:00)
 
-**Subject:** Access to Deep Research on ChatGPT  
+**Subject:** Access to Deep Research on ChatGPT
 
-Hi Rajiv,  
+Hi Rajiv,
 
-The need for access to Deep Research on ChatGPT has come up quite a bit in conversations with Naya, and even Yogesh mentioned it as a benchmark for our experience. It seems like something we’d benefit from exploring further.  
+The need for access to Deep Research on ChatGPT has come up quite a bit in conversations with Naya, and even Yogesh mentioned it as a benchmark for our experience. It seems like something we’d benefit from exploring further.
 
-The challenge is that it costs $200 per month, so I wanted to check if there’s a way we could set up a common user ID for the company instead of individual subscriptions. This would allow us to evaluate its usefulness collectively before making a bigger commitment.  
+The challenge is that it costs $200 per month, so I wanted to check if there’s a way we could set up a common user ID for the company instead of individual subscriptions. This would allow us to evaluate its usefulness collectively before making a bigger commitment.
 
-Let me know your thoughts.  
+Let me know your thoughts.
 
-Thanks,  
+Thanks,
 [Your Name]
 
 ## You (2025-02-12T00:33:29.137387+00:00)
@@ -55,4 +53,3 @@ No, it hasn't come up quite a bit. I would say that Tanya we were having a conve
 ## ChatGPT (2025-02-12T00:33:33.064734+00:00)
 
 Hey Rajiv, we were talking to Tanya earlier when the topic of Deep Research on ChatGPT came up, and then again in our last meeting with Yogesh—it seems to be surfacing as a benchmark for our experience. The issue is that access costs $200/month, which is a bit steep for an individual license. Do you think we could set up a shared company user ID to explore it without committing to multiple subscriptions? Let me know what you think.
-

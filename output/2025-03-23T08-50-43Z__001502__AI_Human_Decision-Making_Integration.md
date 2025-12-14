@@ -149,10 +149,10 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:** This paper contrasts human and AI-based decision-making across five core dimensions—specificity of the search space, interpretability, alternative set size, speed, and replicability—and introduces a framework that integrates both through three organizational structures: full delegation, hybrid sequential, and aggregated decision-making. citeturn0file0
-- **Core Motivations:** Driven by the rapid adoption of AI technologies, the research addresses the longstanding challenge of optimizing organizational decisions. It confronts the tension between the efficiency and consistency of AI and the contextual nuance and ethical oversight inherent in human judgment. citeturn0file0
-- **Methodological Clarification:** The authors synthesize existing organizational theory and empirical insights, mapping decision-making conditions to practical decision structures. The framework is supported by comparative analysis, illustrative examples, and case studies—though primarily drawing on secondary data—highlighting trade-offs and limitations. citeturn0file0
-- **Relevance Assessment:** For contemporary executives, the findings are highly pertinent. They provide strategic guidance on leveraging AI’s speed and scalability without sacrificing the interpretability and ethical standards of human oversight, ensuring decisions are both effective and socially responsible. citeturn0file0
+- **Key Themes:** This paper contrasts human and AI-based decision-making across five core dimensions—specificity of the search space, interpretability, alternative set size, speed, and replicability—and introduces a framework that integrates both through three organizational structures: full delegation, hybrid sequential, and aggregated decision-making.
+- **Core Motivations:** Driven by the rapid adoption of AI technologies, the research addresses the longstanding challenge of optimizing organizational decisions. It confronts the tension between the efficiency and consistency of AI and the contextual nuance and ethical oversight inherent in human judgment.
+- **Methodological Clarification:** The authors synthesize existing organizational theory and empirical insights, mapping decision-making conditions to practical decision structures. The framework is supported by comparative analysis, illustrative examples, and case studies—though primarily drawing on secondary data—highlighting trade-offs and limitations.
+- **Relevance Assessment:** For contemporary executives, the findings are highly pertinent. They provide strategic guidance on leveraging AI’s speed and scalability without sacrificing the interpretability and ethical standards of human oversight, ensuring decisions are both effective and socially responsible.
 
 ---
 
@@ -162,48 +162,48 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Integration of AI and Human Decision-Making
 
-**Insight Statement:**  
+**Insight Statement:**
 The paper empirically demonstrates that while AI excels in processing vast data sets quickly and with consistent replicability, human decision-making remains indispensable for its ability to interpret ambiguous scenarios and apply nuanced judgment—indicating that an integrated approach can mitigate the weaknesses of each mode. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives must balance the allure of AI’s efficiency against the critical need for human judgment in complex, ill-structured situations.  
-- **Underlying Beliefs & Biases:** There is often an overreliance on the perceived objectivity of AI, which may lead to underestimating the value of human insights in contexts where interpretability is crucial.  
-- **Expected vs. Actual Outcomes:** Although AI can quickly filter and analyze large alternative sets, its “black box” nature and inherent data biases can lead to outcomes that lack contextual sensitivity—an area where human decision-makers excel.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives must balance the allure of AI’s efficiency against the critical need for human judgment in complex, ill-structured situations.
+- **Underlying Beliefs & Biases:** There is often an overreliance on the perceived objectivity of AI, which may lead to underestimating the value of human insights in contexts where interpretability is crucial.
+- **Expected vs. Actual Outcomes:** Although AI can quickly filter and analyze large alternative sets, its “black box” nature and inherent data biases can lead to outcomes that lack contextual sensitivity—an area where human decision-makers excel.
 - **Broader Implications:** The synthesis of both approaches is essential for achieving robust, balanced outcomes that leverage computational power while preserving accountability and ethical clarity. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The comparative analysis in Table 1 clearly outlines how AI’s speed and consistency are offset by its lower interpretability compared to human decision-making, reinforcing the argument for a hybrid model that integrates both strengths. **[Empirical]**
 
 ---
 
 ### 2. Structural Integration: Full Delegation, Hybrid, and Aggregated Approaches
 
-**Insight Statement:**  
+**Insight Statement:**
 By delineating three distinct organizational structures—full delegation to AI, hybrid sequential decision-making, and aggregated human-AI decision-making—the paper challenges the notion that complete automation is ideal; instead, it reveals that strategically blending human and AI contributions optimizes decision quality. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders must determine the optimal structure for decision-making based on the specific context, weighing factors such as speed, data volume, and the need for transparency.  
-- **Underlying Beliefs & Biases:** There is a common bias favoring full automation for its efficiency, yet this approach can obscure accountability and ethical considerations that are better managed through human involvement.  
-- **Expected vs. Actual Outcomes:** While fully delegated AI systems can achieve rapid, standardized outcomes in well-defined scenarios (e.g., dynamic pricing), hybrid models allow for corrective human intervention to address data anomalies and ethical risks.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders must determine the optimal structure for decision-making based on the specific context, weighing factors such as speed, data volume, and the need for transparency.
+- **Underlying Beliefs & Biases:** There is a common bias favoring full automation for its efficiency, yet this approach can obscure accountability and ethical considerations that are better managed through human involvement.
+- **Expected vs. Actual Outcomes:** While fully delegated AI systems can achieve rapid, standardized outcomes in well-defined scenarios (e.g., dynamic pricing), hybrid models allow for corrective human intervention to address data anomalies and ethical risks.
 - **Broader Implications:** Executives should adopt a flexible decision structure that aligns with the operational context, ensuring that the strengths of AI are harnessed without compromising the interpretative oversight that only human judgment can provide. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The framework illustrated in Table 2, along with real-world examples (e.g., the use of AI in high-frequency trading versus the human-AI sequential model in recruitment), provides empirical backing for the necessity of blending AI and human decision-making processes. **[Empirical]**
 
 ---
 
 ### 3. Ethical and Bias Considerations in AI Integration
 
-**Insight Statement:**  
+**Insight Statement:**
 The paper provides empirical evidence that AI systems, if not carefully managed, can replicate and amplify pre-existing biases, emphasizing that ethical oversight and robust algorithmic governance are imperative to prevent discriminatory outcomes. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Executives face the dual challenge of integrating AI to enhance decision-making efficiency while simultaneously instituting checks to avoid the reinforcement of historical biases.  
-- **Underlying Beliefs & Biases:** There is a prevailing belief in the inherent objectivity of algorithms, yet the research exposes how biases in training data can lead to skewed results—highlighted by examples such as biased recruiting tools and judicial risk assessments.  
-- **Expected vs. Actual Outcomes:** Although AI-driven decisions can offer speed and consistency, they risk perpetuating systemic inequalities unless complemented by human oversight that scrutinizes and corrects these biases.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Executives face the dual challenge of integrating AI to enhance decision-making efficiency while simultaneously instituting checks to avoid the reinforcement of historical biases.
+- **Underlying Beliefs & Biases:** There is a prevailing belief in the inherent objectivity of algorithms, yet the research exposes how biases in training data can lead to skewed results—highlighted by examples such as biased recruiting tools and judicial risk assessments.
+- **Expected vs. Actual Outcomes:** Although AI-driven decisions can offer speed and consistency, they risk perpetuating systemic inequalities unless complemented by human oversight that scrutinizes and corrects these biases.
 - **Broader Implications:** To safeguard fairness and accountability, organizations must embed ethical considerations and bias mitigation strategies into the design and implementation of AI-based decision-making systems. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Concrete examples within the paper—such as gender bias in language translation systems and the controversial outcomes from biased AI recruiting tools—underscore the empirical basis for caution and the necessity of integrating ethical audits into AI governance frameworks. **[Empirical]**
 
 ---
@@ -213,9 +213,9 @@ Concrete examples within the paper—such as gender bias in language translation
 - **Coverage Fit:** High — The paper thoroughly examines the integration of AI in organizational decision-making, offering a detailed framework that addresses both operational and ethical dimensions.
 - **Bias & Cognitive Modeling Content:** Present — The discussion extensively covers how AI can inherit and amplify human biases, along with strategies to mitigate these risks.
 - **Clarity of Methods & Outcomes:** Clear — The methodological approach, based on a comparative framework and supported by illustrative examples, is well-articulated.
-- **Areas with No Data:**  
-  - Insight Statement: Fully supported.  
-  - Executive Decision-Making Context: Fully supported.  
+- **Areas with No Data:**
+  - Insight Statement: Fully supported.
+  - Executive Decision-Making Context: Fully supported.
   - Supporting Context: Fully supported.
 
 This analysis demonstrates that the paper is a critical resource for executives seeking to navigate the complexities of AI integration into decision-making processes, balancing technological advantages with ethical and interpretative necessities.
@@ -460,21 +460,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -487,4 +487,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T08:53:58.376519+00:00)
 
 Shrestha, Y. R., Ben-Menahem, S. M., & von Krogh, G. (2019). Organizational decision-making structures in the age of artificial intelligence. *California Management Review, 61*(4), 66–83. https://doi.org/10.1177/0008125619862257
-

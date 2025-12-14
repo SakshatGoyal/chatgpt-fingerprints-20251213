@@ -89,49 +89,48 @@ You've selected:
 ## ✅ Here is the final O3-ready reasoning prompt:
 ---
 
-### 🔹 **Goal**  
+### 🔹 **Goal**
 Provide a curriculum-style, tiered learning path for a non-technical designer seeking to use Model-CoPilot Platforms (MCPs) like Codeium CLI, Gemini, or GitHub Copilot to generate functional front-end code from Figma prototypes. The user has zero prior experience with programming or developer tools. The goal is to identify the essential minimum skills, concepts, and tooling knowledge required at each tier (Beginner → Intermediate → Advanced) to:
 - Set up and use MCPs with Figma
 - Diagnose and troubleshoot common issues
 - Understand how AI-generated code works
 - Prompt MCPs effectively for usable front-end prototypes
 
-### 🔹 **Return Format**  
+### 🔹 **Return Format**
 Return a structured curriculum in three tiers:
-1. **Beginner Tier**  
-   - Learning objectives  
-   - Key concepts (plain-language explanations)  
-   - Required tools and setup steps  
-   - Practical exercises (including prompts to try with MCPs)  
-   - Common pitfalls and how to address them  
+1. **Beginner Tier**
+   - Learning objectives
+   - Key concepts (plain-language explanations)
+   - Required tools and setup steps
+   - Practical exercises (including prompts to try with MCPs)
+   - Common pitfalls and how to address them
 
-2. **Intermediate Tier**  
-   - Deeper understanding of file structures, front-end architecture (HTML/CSS/JS basics)  
-   - Enhanced MCP prompting strategies  
-   - Diagnostic techniques for AI-generated code (e.g., reading error messages)  
-   - Real-world scenarios (e.g., modifying generated code, handling responsiveness)  
+2. **Intermediate Tier**
+   - Deeper understanding of file structures, front-end architecture (HTML/CSS/JS basics)
+   - Enhanced MCP prompting strategies
+   - Diagnostic techniques for AI-generated code (e.g., reading error messages)
+   - Real-world scenarios (e.g., modifying generated code, handling responsiveness)
 
-3. **Advanced Tier**  
-   - Strategies for improving AI output quality  
-   - Basic git usage (pull, commit, push)  
-   - Integrating Figma plugins or design tokens into code workflows  
-   - Diagnosing deeper problems (e.g., why the UI isn’t rendering as expected)  
+3. **Advanced Tier**
+   - Strategies for improving AI output quality
+   - Basic git usage (pull, commit, push)
+   - Integrating Figma plugins or design tokens into code workflows
+   - Diagnosing deeper problems (e.g., why the UI isn’t rendering as expected)
 
 Each tier should be learner-friendly, progressive, and aligned with real-world workflows between Figma and AI-assisted code generation.
 
-### 🔹 **Warnings & Guardrails**  
+### 🔹 **Warnings & Guardrails**
 - Avoid assuming any prior programming knowledge; introduce technical terms in plain language.
 - Do not assume access to paid tools unless explicitly free or noted.
 - Clearly distinguish between **must-know skills** vs. **nice-to-have/advanced** ones at each tier.
 - Flag ambiguous areas where AI code may fail or need user intervention, and offer diagnostic tips.
 - Be transparent about limitations of MCPs (e.g., hallucinated code, poor error messages, missing context from Figma).
 
-### 🔹 **Context & Additional Elements**  
-Persona: A non-technical UX/UI designer with strong visual and interaction design skills but zero coding or toolchain exposure.  
-Tools: Figma (with plugins), MCPs (like Codeium CLI, Gemini, or Copilot), AI assistants  
-Execution Style: Clear, accessible language. Encourage hands-on experimentation with guided AI prompts and sandbox projects.  
+### 🔹 **Context & Additional Elements**
+Persona: A non-technical UX/UI designer with strong visual and interaction design skills but zero coding or toolchain exposure.
+Tools: Figma (with plugins), MCPs (like Codeium CLI, Gemini, or Copilot), AI assistants
+Execution Style: Clear, accessible language. Encourage hands-on experimentation with guided AI prompts and sandbox projects.
 
 ---
 
 Let me know if you'd like to run this with O3, modify the depth or tools mentioned, or even adapt this into a Notion-ready curriculum format.
-

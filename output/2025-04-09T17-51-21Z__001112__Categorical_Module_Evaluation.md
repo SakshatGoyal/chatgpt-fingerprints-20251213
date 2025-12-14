@@ -60,25 +60,24 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T17:51:22.198446+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 21 - C2-I5,Value Clash,Capability Frame,Alignment Achieved,Surface Alignment,Lean vs. Unique,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 6 - C2-I6,Value Clash,Capability Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 1 - C3-I1,Cognitive Fog,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 11 - C3-I2,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Lean vs. Unique,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 1 - C3-I3,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Comfort Bias  
-CATEGORICAL MODULE 11 - C3-I3,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Execution Lag,Capability Gap  
-CATEGORICAL MODULE 33 - C3-I3,Silo Drag,Evidence Frame,Alignment Achieved,Surface Alignment,Central vs. Flexible,Adaptive Growth,Silo Drag  
-CATEGORICAL MODULE 38 - C3-I3,Cultural Drift,Values Frame,Unknown,Surface Alignment,Unknown,Culture Clash,Shallow Change  
-CATEGORICAL MODULE 3 - C3-I5,System Tangle,Ecosystem Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Execution Lag,Silo Drag  
-CATEGORICAL MODULE 5 - C3-I5,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 18 - C3-I5,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Unknown,Tech Mirage  
-CATEGORICAL MODULE 19 - C3-I5,Value Clash,Evidence Frame,Unknown,Surface Alignment,Lean vs. Unique,Execution Lag,Tech Mirage  
-CATEGORICAL MODULE 22 - C3-I5,System Tangle,Evidence Frame,Tested First,Surface Alignment,Vision vs. Reality,Execution Lag,Legacy Hold  
-CATEGORICAL MODULE 25 - C3-I5,System Tangle,Evidence Frame,Tested First,True Clarity,Vision vs. Reality,Adaptive Growth,Legacy Hold  
-CATEGORICAL MODULE 29 - C3-I5,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Governance Shift,Comfort Bias  
-CATEGORICAL MODULE 42 - C3-I5,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Now vs. Later,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 46 - C3-I5,System Tangle,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Overstretched Org,Certainty Illusion  
-CATEGORICAL MODULE 47 - C3-I5,Cognitive Fog,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Legacy Hold  
-CATEGORICAL MODULE 49 - C3-I5,Cognitive Fog,Evidence Frame,Unknown,Unknown,Plan vs. React,Lost Direction,Capability Gap  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 21 - C2-I5,Value Clash,Capability Frame,Alignment Achieved,Surface Alignment,Lean vs. Unique,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 6 - C2-I6,Value Clash,Capability Frame,Alignment Achieved,Surface Alignment,Now vs. Later,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 1 - C3-I1,Cognitive Fog,Evidence Frame,Alignment Achieved,True Clarity,Vision vs. Reality,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 11 - C3-I2,Value Clash,Evidence Frame,Alignment Achieved,Surface Alignment,Lean vs. Unique,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 1 - C3-I3,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Overstretched Org,Comfort Bias
+CATEGORICAL MODULE 11 - C3-I3,Cognitive Fog,Evidence Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Execution Lag,Capability Gap
+CATEGORICAL MODULE 33 - C3-I3,Silo Drag,Evidence Frame,Alignment Achieved,Surface Alignment,Central vs. Flexible,Adaptive Growth,Silo Drag
+CATEGORICAL MODULE 38 - C3-I3,Cultural Drift,Values Frame,Unknown,Surface Alignment,Unknown,Culture Clash,Shallow Change
+CATEGORICAL MODULE 3 - C3-I5,System Tangle,Ecosystem Frame,Alignment Achieved,Surface Alignment,Vision vs. Reality,Execution Lag,Silo Drag
+CATEGORICAL MODULE 5 - C3-I5,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Plan vs. React,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 18 - C3-I5,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Lean vs. Unique,Unknown,Tech Mirage
+CATEGORICAL MODULE 19 - C3-I5,Value Clash,Evidence Frame,Unknown,Surface Alignment,Lean vs. Unique,Execution Lag,Tech Mirage
+CATEGORICAL MODULE 22 - C3-I5,System Tangle,Evidence Frame,Tested First,Surface Alignment,Vision vs. Reality,Execution Lag,Legacy Hold
+CATEGORICAL MODULE 25 - C3-I5,System Tangle,Evidence Frame,Tested First,True Clarity,Vision vs. Reality,Adaptive Growth,Legacy Hold
+CATEGORICAL MODULE 29 - C3-I5,Value Clash,Evidence Frame,Alignment Achieved,True Clarity,Central vs. Flexible,Governance Shift,Comfort Bias
+CATEGORICAL MODULE 42 - C3-I5,Cognitive Fog,Evidence Frame,Tested First,True Clarity,Now vs. Later,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 46 - C3-I5,System Tangle,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Overstretched Org,Certainty Illusion
+CATEGORICAL MODULE 47 - C3-I5,Cognitive Fog,Evidence Frame,Unknown,Unknown,Vision vs. Reality,Execution Lag,Legacy Hold
+CATEGORICAL MODULE 49 - C3-I5,Cognitive Fog,Evidence Frame,Unknown,Unknown,Plan vs. React,Lost Direction,Capability Gap
 CATEGORICAL MODULE 3 - C3-I6,Cultural Drift,Evidence Frame,Alignment Achieved,True Clarity,Bold vs. Safe,Adaptive Growth,Comfort Bias
-

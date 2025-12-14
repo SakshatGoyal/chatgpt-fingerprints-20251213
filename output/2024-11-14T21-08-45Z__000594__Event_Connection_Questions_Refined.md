@@ -1,16 +1,14 @@
 # Event Connection Questions Refined
 
-## You
 
-{"content_type": "user_editable_context", "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```I'm a user experience designer. I also have almost zero technical skills or knowledge.```", "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Avoid finishing every prompt by saying something like \"if you have any questions, feel free to ask\" or some variation of that. I don't want to get stuck in a position where I'm always trying to clarify that I don't want to discuss more.```"}
 
 ## You (2024-11-14T21:08:45.693759+00:00)
 
-in a user interview after a community event, I want to ask participants about their experience networking. I want to understand challenges they may have experienced in it, or anything that worked well. 
+in a user interview after a community event, I want to ask participants about their experience networking. I want to understand challenges they may have experienced in it, or anything that worked well.
 
-try not to use the word 'networking' a lot. I wanna make sure people are open to talk about any connections they make - professional or otherwise. 
+try not to use the word 'networking' a lot. I wanna make sure people are open to talk about any connections they make - professional or otherwise.
 
-I'm starting the line of questions by asking how they utilize breaks during an event. I also have a list of incoherent questions. Could you come up with better questions / help me properly frame these questions. 
+I'm starting the line of questions by asking how they utilize breaks during an event. I also have a list of incoherent questions. Could you come up with better questions / help me properly frame these questions.
 
 | How did you spend your time during the breaks                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -110,4 +108,3 @@ Certainly! Below are the refined questions regarding the workshops and breakout 
     - *Purpose:* To see if the workshops facilitated meaningful connections among participants.
 
 These questions are designed to encourage attendees to share their experiences and thoughts comprehensively. They aim to provide insights into how future events can be structured to better meet attendees' needs and preferences, especially regarding access to multiple workshops and continued engagement.
-

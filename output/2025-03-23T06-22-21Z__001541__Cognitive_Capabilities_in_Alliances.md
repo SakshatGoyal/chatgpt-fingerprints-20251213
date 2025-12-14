@@ -163,52 +163,52 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Cognitive Capabilities and Alliance Performance Over Time
 
-**Insight Statement:**  
+**Insight Statement:**
 The study reveals that cognitive capabilities are not static; their impact on alliance performance shifts with the alliance lifecycle. Early-stage alliances benefit predominantly from agile perception and problem-solving, whereas mature alliances require strong communication and social cognition to sustain performance. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Executives must align their management practices with the alliance’s stage. In initial phases, rapid information processing and quick decision-making are paramount; as alliances mature, establishing robust channels for ongoing communication and deeper mutual understanding becomes essential. **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Empirical evidence from the regression models shows significant positive effects of perception and problem-solving in short/medium-term alliances (Models A and B), while long-term alliances display reinforced benefits from communication and social cognition (Models D and E). Although these findings are robust, the context-specific sample suggests caution when applying them universally. **[Empirical]**
 
 ---
 
 ### 2. Differential Roles of Cognitive Dimensions
 
-**Insight Statement:**  
+**Insight Statement:**
 The research challenges the one-size-fits-all approach by demonstrating that individual cognitive dimensions have distinct, time-sensitive effects on alliance outcomes. Perceptual acuity and problem-solving drive early success, whereas communication and social cognition underpin long-term stability. **[Empirical]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 For strategic alliance formation and management, decision-makers should assess and nurture specific cognitive skills according to the alliance’s phase. Investing in training that enhances both rapid analytical skills and interpersonal communication can create a balanced capability portfolio tailored to evolving challenges. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The differential regression outcomes underscore that short-term performance correlates with quick recognition and decisive problem-solving, while long-term outcomes are more closely tied to effective communication and the ability to interpret partner behavior. This nuanced understanding calls for targeted capability development programs. **[Empirical]**
 
 ---
 
 ### 3. Managerial Cognition in Partner Selection
 
-**Insight Statement:**  
+**Insight Statement:**
 Beyond conventional economic metrics, the study emphasizes that managerial cognitive capability should be a core criterion in partner selection. Evaluating cognitive dimensions can yield a more refined assessment of potential alliance partners, leading to more resilient and adaptive partnerships. **[Inferred]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Executives are encouraged to integrate cognitive assessments into the partner evaluation process. By systematically considering cognitive factors—such as a partner’s social cognition and communication effectiveness—leaders can mitigate risks associated with mismatched decision-making styles and enhance overall alliance sustainability. **[Inferred]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Building on frameworks from cognitive and strategic management literature, the paper extends the traditional view of partner selection to include psychological parameters. Although the direct measures pertain to alliance performance, the implications for partner selection emerge as a logical extension of the empirical findings. **[Inferred]**
 
 ---
 
 ### 4. External Constraints Moderating Cognitive Impact
 
-**Insight Statement:**  
+**Insight Statement:**
 While cognitive capabilities significantly influence alliance performance, their effectiveness is moderated by external factors such as cultural differences, political dynamics, and resource constraints. **[Speculative]**
 
-**Executive Decision-Making Context:**  
+**Executive Decision-Making Context:**
 Even with strong cognitive capabilities, executives must account for external environmental pressures that can limit alliance success. A comprehensive strategy should integrate cognitive enhancements with robust mechanisms for managing cultural, political, and resource-related challenges. **[Speculative]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The discussion acknowledges that cognitive advantages may be insufficient in isolation. Factors such as inter-organizational cultural distance and external resource limitations are noted as potential moderators, suggesting that the positive impacts of cognitive capabilities might be diluted under adverse conditions. **[Speculative]**
 
 ---
@@ -221,9 +221,9 @@ The discussion acknowledges that cognitive advantages may be insufficient in iso
 
 - **Clarity of Methods & Outcomes:** Clear — The study employs robust OLS regression analyses with well-defined measures and controls, despite being limited by its regional sample.
 
-- **Areas with No Data:**  
-  - Insight Statement: All insights are grounded in empirical data or reasoned inference.  
-  - Executive Decision-Making Context: Sufficient contextual analysis is provided.  
+- **Areas with No Data:**
+  - Insight Statement: All insights are grounded in empirical data or reasoned inference.
+  - Executive Decision-Making Context: Sufficient contextual analysis is provided.
   - Supporting Context: Detailed empirical evidence supports each insight, with only the influence of external moderators remaining speculative.
 
 ## You (2025-03-23T06:22:57.489000+00:00)
@@ -489,21 +489,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -516,4 +516,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-23T06:25:05.303489+00:00)
 
 Jalali, S. H. (2019). Cognitive capabilities and the strategic alliances’ performance: How time frame matters? *International Journal of Management and Network Economics, 4*(3), 230–245. https://doi.org/10.1504/IJMNE.2019.10027320
-

@@ -9,19 +9,19 @@ is it possible to build muscle with yoga?
 Yes, you can build muscle with yoga, but the results depend on the type of yoga you practice, your diet, and how you structure your routine. While yoga isn’t as effective as weightlifting for hypertrophy (muscle size growth), it can still promote muscle strength, endurance, and definition. Here’s how:
 
 ### **How Yoga Builds Muscle**
-1. **Bodyweight Resistance**  
+1. **Bodyweight Resistance**
    - Many yoga poses require you to hold your body weight in challenging positions, engaging multiple muscle groups.
    - Examples: Plank (core, shoulders, triceps), Warrior Poses (legs, glutes), Chaturanga (chest, triceps).
 
-2. **Time Under Tension**  
+2. **Time Under Tension**
    - Holding poses for extended periods increases muscle endurance and stimulates slow-twitch muscle fibers, leading to strength gains.
    - Power Yoga and Ashtanga Yoga emphasize dynamic movement and prolonged holds.
 
-3. **Progressive Overload (In a Yoga Context)**  
+3. **Progressive Overload (In a Yoga Context)**
    - Increasing the difficulty of poses (e.g., moving from a standard plank to a side plank or arm balance) challenges muscles over time.
    - Using yoga props like resistance bands or engaging deeper muscle activation can enhance muscle growth.
 
-4. **Isometric Contractions**  
+4. **Isometric Contractions**
    - Holding poses such as Chair Pose (Utkatasana) or Boat Pose (Navasana) puts constant tension on muscles, which helps in strength building.
 
 ### **Yoga Styles for Muscle Growth**
@@ -41,4 +41,3 @@ Yes, you can build muscle with yoga, but the results depend on the type of yoga 
 - Prioritize **protein intake** to support muscle repair and growth.
 
 Since you want to increase protein intake and improve body composition, yoga can complement your fitness routine but should be paired with resistance exercises or calisthenics for maximum muscle growth.
-

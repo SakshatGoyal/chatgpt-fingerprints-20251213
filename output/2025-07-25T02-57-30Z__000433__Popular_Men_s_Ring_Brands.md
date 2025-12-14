@@ -101,4 +101,3 @@ The significance of a man wearing a ring on his **index finger** or **thumb** of
 | **Thumb** | Strength, willpower | Independence, uniqueness | Bold, unconventional looks |
 
 Would you like help styling a ring for one of these fingers — or choosing which one suits your image best?
-

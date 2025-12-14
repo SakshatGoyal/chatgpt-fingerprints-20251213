@@ -128,6 +128,3 @@ CATEGORICAL MODULE 14 - C2-I6,Value Clash,Evidence Frame,Tested First,Unknown,Un
 CATEGORICAL MODULE 20 - C3-I2,Value Clash,Evidence Frame,Tested First,Surface Alignment,Now vs. Later,Lost Direction,Certainty Illusion
 CATEGORICAL MODULE 23 - C3-I2,Value Clash,Evidence Frame,Tested First,True Clarity,Bold vs. Safe,Adaptive Growth,Capability Gap
 CATEGORICAL MODULE 24 - C3-I2,Value Clash,Evidence Frame,Tested First,True Clarity,Global vs. Local,Lost Direction,Process Trap
-
-citeturn0file1
-

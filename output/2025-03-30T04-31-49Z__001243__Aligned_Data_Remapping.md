@@ -2,11 +2,11 @@
 
 ## You (2025-03-30T04:31:49.276000+00:00)
 
-I need your help with some aligned remapping. 
+I need your help with some aligned remapping.
 
 I have two sheets - 'method 1' and 'method 2'
 
-Column A has the same values in both columns, but ordered incorrectly. 
+Column A has the same values in both columns, but ordered incorrectly.
 
 I want to copy all values in column b, c, d, e, f from method 2 into method 1 - based solely on the matching values of Column A.
 
@@ -134,12 +134,12 @@ To do a two-way comparison between `method 1!A:A` and `method 2!A:A` in a **thir
 
 ### ✅ Steps (in `Sheet3`):
 
-**In `Sheet3!A1`:**  
+**In `Sheet3!A1`:**
 ```excel
 =FILTER('method 1'!A:A, ISNA(MATCH('method 1'!A:A, 'method 2'!A:A, 0)))
 ```
 
-**In `Sheet3!B1`:**  
+**In `Sheet3!B1`:**
 ```excel
 =FILTER('method 2'!A:A, ISNA(MATCH('method 2'!A:A, 'method 1'!A:A, 0)))
 ```
@@ -179,4 +179,3 @@ Then drag down alongside your data in column A.
 - Unique values will show a blank.
 
 Let me know if you want to highlight duplicates using **conditional formatting** instead.
-

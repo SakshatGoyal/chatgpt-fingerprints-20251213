@@ -142,7 +142,7 @@ Here’s a breakdown of the **main challenges, limitations, and optimization tac
 ### 2. **Evaluation Consistency Over Time**
    - **Issue**: Qualitative scoring might vary subtly as the model processes more insights.
    - **Risk**: Drifting thresholds (e.g., what constitutes a “4/5” in empirical rigor might shift).
-   - **Fix**: 
+   - **Fix**:
      - Anchor each score to a **scoring rubric** (e.g., what does a 3 vs. 4 mean?).
      - Reinsert the rubric or “scoring schema” as a reminder in each module’s prompt.
 
@@ -191,4 +191,3 @@ Here’s a breakdown of the **main challenges, limitations, and optimization tac
 ---
 
 If you'd like, I can help you **design your rubric**, **test-run a sample evaluation framework**, or **mock up a batch-processing scaffold**—even without beginning the final prompt yet. Just let me know how deep you want to go before formalizing things.
-

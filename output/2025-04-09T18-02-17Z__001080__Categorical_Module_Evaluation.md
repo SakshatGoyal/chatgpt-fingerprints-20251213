@@ -60,24 +60,23 @@ Start with the first 20 modules in the file.
 
 ## ChatGPT (2025-04-09T18:02:18.787738+00:00)
 
-Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype  
-CATEGORICAL MODULE 77 - C1-I7,System Tangle,Capability Frame,Alignment Achieved,Unknown,Global vs. Local,Overstretched Org,Legacy Hold  
-CATEGORICAL MODULE 10 - C2-I6,Value Clash,Both/And Frame,Alignment Achieved,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 37 - C2-I6,Cognitive Fog,Capability Frame,Tested First,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 42 - C2-I6,Value Clash,Both/And Frame,Alignment Achieved,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 46 - C2-I6,Value Clash,Capability Frame,Tested First,Unknown,Bold vs. Safe,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 4 - C3-I1,Cognitive Fog,Evidence Frame,Tested First,Unknown,Now vs. Later,Adaptive Growth,Certainty Illusion  
-CATEGORICAL MODULE 8 - C3-I1,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias  
-CATEGORICAL MODULE 22 - C3-I1,Cognitive Fog,Evidence Frame,Future-Proofed,Unknown,Plan vs. React,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 41 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 67 - C4-I1,Cognitive Fog,Capability Frame,Unknown,Unknown,Bold vs. Safe,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 8 - C3-I6,Cognitive Fog,Values Frame,Alignment Achieved,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 17 - C3-I6,Cognitive Fog,Evidence Frame,Alignment Achieved,Unknown,Unknown,Overstretched Org,Tech Mirage  
-CATEGORICAL MODULE 6 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,Unknown,Bold vs. Safe,Overstretched Org,Capability Gap  
-CATEGORICAL MODULE 7 - C3-I6,Cognitive Fog,Both/And Frame,Alignment Achieved,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 10 - C2-I3,Unknown,Evidence Frame,Future-Proofed,Unknown,Now vs. Later,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 13 - C2-I3,System Tangle,Ecosystem Frame,Tested First,Unknown,Global vs. Local,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 36 - C2-I6,Value Clash,Both/And Frame,Tested First,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage  
-CATEGORICAL MODULE 17 - C3-I5,Unknown,Capability Frame,Locked In,Unknown,Now vs. Later,Adaptive Growth,Unknown  
+Module ID,Ambiguity Type,Framing Move,Stabilizer,False Clarity,Tension Axis,Org Implication,Friction Archetype
+CATEGORICAL MODULE 77 - C1-I7,System Tangle,Capability Frame,Alignment Achieved,Unknown,Global vs. Local,Overstretched Org,Legacy Hold
+CATEGORICAL MODULE 10 - C2-I6,Value Clash,Both/And Frame,Alignment Achieved,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 37 - C2-I6,Cognitive Fog,Capability Frame,Tested First,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 42 - C2-I6,Value Clash,Both/And Frame,Alignment Achieved,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 46 - C2-I6,Value Clash,Capability Frame,Tested First,Unknown,Bold vs. Safe,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 4 - C3-I1,Cognitive Fog,Evidence Frame,Tested First,Unknown,Now vs. Later,Adaptive Growth,Certainty Illusion
+CATEGORICAL MODULE 8 - C3-I1,Value Clash,Evidence Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Comfort Bias
+CATEGORICAL MODULE 22 - C3-I1,Cognitive Fog,Evidence Frame,Future-Proofed,Unknown,Plan vs. React,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 41 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 67 - C4-I1,Cognitive Fog,Capability Frame,Unknown,Unknown,Bold vs. Safe,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 8 - C3-I6,Cognitive Fog,Values Frame,Alignment Achieved,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 17 - C3-I6,Cognitive Fog,Evidence Frame,Alignment Achieved,Unknown,Unknown,Overstretched Org,Tech Mirage
+CATEGORICAL MODULE 6 - C3-I6,Cognitive Fog,Evidence Frame,Tested First,Unknown,Bold vs. Safe,Overstretched Org,Capability Gap
+CATEGORICAL MODULE 7 - C3-I6,Cognitive Fog,Both/And Frame,Alignment Achieved,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 10 - C2-I3,Unknown,Evidence Frame,Future-Proofed,Unknown,Now vs. Later,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 13 - C2-I3,System Tangle,Ecosystem Frame,Tested First,Unknown,Global vs. Local,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 36 - C2-I6,Value Clash,Both/And Frame,Tested First,Unknown,Bold vs. Safe,Adaptive Growth,Tech Mirage
+CATEGORICAL MODULE 17 - C3-I5,Unknown,Capability Frame,Locked In,Unknown,Now vs. Later,Adaptive Growth,Unknown
 CATEGORICAL MODULE 17 - C2-I6,Cultural Drift,Capability Frame,Alignment Achieved,Unknown,Now vs. Later,Adaptive Growth,Tech Mirage
-

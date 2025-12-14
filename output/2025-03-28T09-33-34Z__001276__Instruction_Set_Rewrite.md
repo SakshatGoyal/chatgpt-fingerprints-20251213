@@ -2,7 +2,7 @@
 
 ## You (2025-03-28T09:33:34.263000+00:00)
 
-I need you to rewrite this page. I need this rewritten as a machine-interpretable instruction set—keeping the core intent intact, but eliminating metaphors, rhetorical questions, and human-first language so a GPT-4 (O3) model can reliably extract and structure decision-making insights from a large, messy content file. 
+I need you to rewrite this page. I need this rewritten as a machine-interpretable instruction set—keeping the core intent intact, but eliminating metaphors, rhetorical questions, and human-first language so a GPT-4 (O3) model can reliably extract and structure decision-making insights from a large, messy content file.
 
 For your context, I want to create a document of instructions, and i need chatgpt to execute those set of instructions on a different file that has a lot of content in it. This was originally written for a group of designers and researchers.
 
@@ -64,14 +64,14 @@ These papers are abstract. That’s fine. Your job is to **humanize the strategi
 So when you read something like:
 
 > “Executives delayed pivot decisions until scenario modeling revealed significant variance from projected baselines…”
-> 
+>
 
 Don’t stop there.
 
 Ask:
 
 > “What felt risky about the pivot? What kind of story were they waiting to tell themselves before they moved?”
-> 
+>
 
 Behind every strategy is a **belief**, a **bias**, a **fear**, or a **narrative move**.
 
@@ -86,12 +86,12 @@ Good reporting tells us what happened. Good storytelling tells us what tension t
 So instead of:
 
 > “Execs in financial services rely on conservative decision models”
-> 
+>
 
 Try:
 
 > “In high-regulation industries, executives often frame caution as wisdom—but under the surface, this is a strategy for preserving control in low-trust environments.”
-> 
+>
 
 Same observation, but one *feels alive*.
 
@@ -271,9 +271,9 @@ Would you like me to generate the full execution-ready prompt now, or would you 
 
 ## You (2025-03-28T09:34:54.436000+00:00)
 
-Please disregard all previous context 
+Please disregard all previous context
 
-I need you to rewrite this page. I need this rewritten as a machine-interpretable instruction set—keeping the core intent intact, but eliminating metaphors, rhetorical questions, and human-first language so a GPT-4 (O3) model can reliably extract and structure decision-making insights from a large, messy content file. 
+I need you to rewrite this page. I need this rewritten as a machine-interpretable instruction set—keeping the core intent intact, but eliminating metaphors, rhetorical questions, and human-first language so a GPT-4 (O3) model can reliably extract and structure decision-making insights from a large, messy content file.
 
 For your context, I want to create a document of instructions, and i need chatgpt to execute those set of instructions on a different file that has a lot of content in it. This was originally written for a group of designers and researchers.
 
@@ -451,7 +451,7 @@ Whenever possible, label your insights with relevant context:
 Use format:
 
 > “In [industry/type of company], when facing [type of decision], execs tend to [behavior/mental model], likely because [assumption, constraint, or norm].”
-> 
+>
 
 ---
 
@@ -653,7 +653,7 @@ This instruction set is optimized for autonomous GPT-4 (O3) execution. Let me kn
 
 hey, what's the ideal structure for guiding an o1 model. Lets say I have
 
-Goal, 
+Goal,
 breakdown of goal
 thought process needed
 output format
@@ -719,14 +719,14 @@ End with a **strict output format** so the model can organize its response clean
 > ```
 > Pattern:
 > [One-sentence pattern description]
-> 
+>
 > Context:
 > Industry: [e.g., finance]
 > Company Size: [e.g., startup]
-> 
+>
 > Explanation:
 > [Brief reasoning explaining the behavior]
-> 
+>
 > Evidence:
 > [Optional quote or paraphrased source]
 > ```
@@ -735,9 +735,9 @@ End with a **strict output format** so the model can organize its response clean
 
 ## 🔁 Recommended Order Summary
 
-**1. Goal** →  
-**2. Breakdown (Steps or Subtasks)** →  
-**3. Thought Process (How to Think)** →  
+**1. Goal** →
+**2. Breakdown (Steps or Subtasks)** →
+**3. Thought Process (How to Think)** →
 **4. Output Format (How to Respond)**
 
 ---
@@ -755,4 +755,3 @@ The total token count for the document **"How Executives Make Decisions"** is ap
 This includes all sections: objectives, analysis dimensions, detection prompts, synthesis instructions, reasoning rules, and output formatting guidance.
 
 Let me know if you’d like a token breakdown by section or if you're trying to fit this into a particular context window (e.g. for prompt design or chain-of-thought anchoring).
-

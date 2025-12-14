@@ -108,4 +108,3 @@ Below are six tables—one for each strategy category—each containing five car
 ---
 
 Each table retains the original format and content while presenting a condensed, diverse set of industry examples for its respective strategy category.
-

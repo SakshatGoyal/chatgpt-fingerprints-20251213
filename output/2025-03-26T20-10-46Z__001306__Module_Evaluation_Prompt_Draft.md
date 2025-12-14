@@ -2,9 +2,9 @@
 
 ## You (2025-03-26T20:10:46.797000+00:00)
 
-Help me write a prompt for a reasoning model. I'm going to lay out my intent in the following passage. 
+Help me write a prompt for a reasoning model. I'm going to lay out my intent in the following passage.
 
-I'm attaching two files for the chatgpt's reference. I need chatgpt to execute all the instructions layed out in the .md file, on the content in the .txt file. 
+I'm attaching two files for the chatgpt's reference. I need chatgpt to execute all the instructions layed out in the .md file, on the content in the .txt file.
 
 To avoid overload, I want chatgpt to only execute on the first 15 modules.
 
@@ -40,11 +40,11 @@ Let me know if any of the above need tuning. Once you're ready, just say **"begi
 
 ## You (2025-03-26T20:15:11.540000+00:00)
 
-Help me ideate on the best possible personas who might be best for this job. Ideally, this is for a research team at Mckinsey, or a research team at IDEO. But help me ideate further. 
+Help me ideate on the best possible personas who might be best for this job. Ideally, this is for a research team at Mckinsey, or a research team at IDEO. But help me ideate further.
 
 Error Tolerance: If there is any variation in structure, I don't want chatgpt to skip the section, but flag it as 'inconcistent structure'
 
-Output: I want one single output containing all 15 evaluations in sequence. 
+Output: I want one single output containing all 15 evaluations in sequence.
 
 Return Format - I want a typical table format we often see in chatgpt that can be easily copied into other tools like Notion.
 
@@ -119,7 +119,7 @@ Here’s a brainstorm of high-fidelity **execution personas** that could be embe
 
 You might consider a **primary persona + advisory overlay**, e.g.:
 
-> **Primary persona:** Strategic Insight Analyst  
+> **Primary persona:** Strategic Insight Analyst
 > **Advisory layer:** Behavioral Decision Mapping Specialist (to ensure human nuance isn’t missed)
 
 This gives you both deductive rigor **and** sensitivity to context—a perfect hybrid for your McKinsey/IDEO intersection.
@@ -150,18 +150,18 @@ We’re now ready to lock this in.
 
 ## 🧠 Summary of Key Prompt Parameters
 
-**Goal:**  
+**Goal:**
 Evaluate the first 15 Categorical Modules from the `.txt` file using the 21-question scoring rubric from the `.md` instructions. Each module is assessed in isolation, scored in full, and tagged with a final category or marked `INVALID`.
 
-**Execution Persona:**  
-- **Primary:** *Organizational Pattern Recognition Analyst* – ensures cognitive independence across modules, maps executive logic patterns with thematic precision.  
+**Execution Persona:**
+- **Primary:** *Organizational Pattern Recognition Analyst* – ensures cognitive independence across modules, maps executive logic patterns with thematic precision.
 - **Advisory Layer:** *Executive Reasoning Model Auditor* – rigorously checks for shallow logic, false signal, and ensures invalid modules are properly flagged.
 
-**Error Tolerance:**  
+**Error Tolerance:**
 - Structural variation is not cause for rejection. Instead, flag modules as `inconsistent structure` while still attempting a full evaluation.
 
-**Return Format:**  
-- Markdown-style tables formatted for **easy pasting into Notion** or similar tools.  
+**Return Format:**
+- Markdown-style tables formatted for **easy pasting into Notion** or similar tools.
 - All 15 module evaluations appear **in a single sequential output**.
 
 ---
@@ -172,7 +172,7 @@ Say **“begin creating the prompt”**, and I’ll generate the full structured
 
 ## You (2025-03-26T20:22:22.809000+00:00)
 
-I noticed we're not referencing the files anywhere, so the model may not know which ones to execute. I'm going to repeat this prompt on multiple files, which have different names. But one thing remains - 
+I noticed we're not referencing the files anywhere, so the model may not know which ones to execute. I'm going to repeat this prompt on multiple files, which have different names. But one thing remains -
 
 the name of the instruction file will be 'Research Question Alignment.md' and the other files will always be a .txt file.
 
@@ -203,7 +203,7 @@ When you're ready, I’ll build the prompt with this full structure:
 
 Would you like to proceed with this structure?
 
-If so, just say:  
+If so, just say:
 👉 **“Begin creating the prompt.”**
 
 ## You (2025-03-26T20:23:02.026000+00:00)
@@ -223,7 +223,7 @@ You are a reasoning model tasked with analyzing executive strategy content using
 
 # 1. Goal
 
-Your objective is to evaluate the **first 15 Categorical Modules** found in the uploaded `.txt` file. These modules must be assessed using the detailed 21-question evaluation framework provided in the file titled:  
+Your objective is to evaluate the **first 15 Categorical Modules** found in the uploaded `.txt` file. These modules must be assessed using the detailed 21-question evaluation framework provided in the file titled:
 **`Research Question Alignment.md`**
 
 Each Categorical Module is a self-contained unit of executive insight. Your task is to:
@@ -254,11 +254,11 @@ All 15 evaluations must be returned **in a single output**, sequentially, in the
 ...
 | **Category 3** | Question 7 | [0 or 1] |
 
-**Category 1 total: X**  
-**Category 2 total: Y**  
+**Category 1 total: X**
+**Category 2 total: Y**
 **Category 3 total: Z**
 
-Final category assignment for CATEGORICAL MODULE [code] - **Category X**  
+Final category assignment for CATEGORICAL MODULE [code] - **Category X**
 [Optional: ⚠️ Note if inconsistent structure]
 ```
 
@@ -306,10 +306,10 @@ Perfect—here’s the **follow-up continuation prompt** for processing **Module
 
 It maintains the same:
 
-- Execution personas  
-- Scoring framework from `Research Question Alignment.md`  
-- Output format and error tolerance  
-- Instructional tone and structure  
+- Execution personas
+- Scoring framework from `Research Question Alignment.md`
+- Output format and error tolerance
+- Instructional tone and structure
 
 ---
 
@@ -320,7 +320,7 @@ You are a reasoning model tasked with analyzing executive strategy content using
 
 # 1. Goal
 
-Your objective is to evaluate **Categorical Modules 16 through 30** in the uploaded `.txt` file. These modules must be assessed using the detailed 21-question evaluation framework provided in the file titled:  
+Your objective is to evaluate **Categorical Modules 16 through 30** in the uploaded `.txt` file. These modules must be assessed using the detailed 21-question evaluation framework provided in the file titled:
 **`Research Question Alignment.md`**
 
 Each Categorical Module is a standalone unit. Your task is to:
@@ -351,11 +351,11 @@ All evaluations must appear **in a single sequential output**, using this format
 ...
 | **Category 3** | Question 7 | [0 or 1] |
 
-**Category 1 total: X**  
-**Category 2 total: Y**  
+**Category 1 total: X**
+**Category 2 total: Y**
 **Category 3 total: Z**
 
-Final category assignment for CATEGORICAL MODULE [code] - **Category X**  
+Final category assignment for CATEGORICAL MODULE [code] - **Category X**
 [Optional: ⚠️ Note if inconsistent structure]
 ```
 
@@ -389,4 +389,3 @@ Begin your analysis now by executing the above logic **only on Categorical Modul
 ---
 
 Let me know if you’d like me to generate a third segment prompt template (Modules 31–45) to make this fully modular and repeatable.
-

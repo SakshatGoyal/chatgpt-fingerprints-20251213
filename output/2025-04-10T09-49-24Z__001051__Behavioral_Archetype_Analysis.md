@@ -115,8 +115,8 @@ Example Output Structure (Abbreviated)
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Tension statement**  
-> Full quote from module  
+**1. Tension statement**
+> Full quote from module
 — MODULE 1 - C3-I3, Archetype 3.txt
 
 [...]
@@ -125,10 +125,9 @@ Example Output Structure (Abbreviated)
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. Belief statement**  
-> Full quote from module  
+**1. Belief statement**
+> Full quote from module
 — MODULE 1 - C3-I3, Archetype 3.txt
-
 
 
 ⸻
@@ -161,47 +160,46 @@ Across industries—whether dealing with data scarcity, AI integration, or susta
 
 ### ⚖️ Behavioral Tensions (with extended source excerpts)
 
-**1. Executives want to innovate using AI and analytics, but struggle to embed them strategically rather than treat them as isolated tools.**  
-> "Decision-makers grapple with whether to treat advanced analytics as a discrete IT upgrade or to embed it within an overarching strategic framework aligned with long-term business objectives."  
+**1. Executives want to innovate using AI and analytics, but struggle to embed them strategically rather than treat them as isolated tools.**
+> "Decision-makers grapple with whether to treat advanced analytics as a discrete IT upgrade or to embed it within an overarching strategic framework aligned with long-term business objectives."
 — MODULE 13 - C1-I1, *Archetype 1.txt*
 
-**2. There is a persistent conflict between valuing operational independence and recognizing the necessity of external partnerships.**  
-> "Executives face the challenge of maintaining control versus leveraging external resources to fuel growth, with each option presenting significant trade-offs."  
+**2. There is a persistent conflict between valuing operational independence and recognizing the necessity of external partnerships.**
+> "Executives face the challenge of maintaining control versus leveraging external resources to fuel growth, with each option presenting significant trade-offs."
 — MODULE 25 - C5-I3, *Archetype 1.txt*
 
-**3. Sustainability is acknowledged as strategically important, but upfront costs and short-termism inhibit full integration.**  
-> "Leaders must navigate the tension between the higher upfront costs of sustainable supply chain redesign and the long-term benefits of reduced environmental impact and enhanced market competitiveness."  
+**3. Sustainability is acknowledged as strategically important, but upfront costs and short-termism inhibit full integration.**
+> "Leaders must navigate the tension between the higher upfront costs of sustainable supply chain redesign and the long-term benefits of reduced environmental impact and enhanced market competitiveness."
 — MODULE 24 - C4-I3, *Archetype 1.txt*
 
-**4. Legacy systems constrain digital transformation, even when the long-term gains are well-documented.**  
-> "Executives are challenged to balance the disruptive impact of legacy system overhauls with the promise of future efficiency gains."  
+**4. Legacy systems constrain digital transformation, even when the long-term gains are well-documented.**
+> "Executives are challenged to balance the disruptive impact of legacy system overhauls with the promise of future efficiency gains."
 — MODULE 39 - C3-I5, *Archetype 1.txt*
 
-**5. A strong desire to innovate through localization exists, yet global brand identity and efficiency pressures often curb deeper cultural adaptation.**  
-> "Strategic Dilemma: Balancing the maintenance of global brand identity with the need to adapt offerings for local markets."  
+**5. A strong desire to innovate through localization exists, yet global brand identity and efficiency pressures often curb deeper cultural adaptation.**
+> "Strategic Dilemma: Balancing the maintenance of global brand identity with the need to adapt offerings for local markets."
 — MODULE 32 - C2-I1, *Archetype 1.txt*
 
 ---
 
 ### 🧠 Governing Mental Models (with extended source excerpts)
 
-**1. “Historical internal data should be enough to inform future strategies.”**  
-> "There is a common bias towards relying on internal historical records, despite clear indications that such data may be insufficient in the dynamic cyber threat landscape."  
+**1. “Historical internal data should be enough to inform future strategies.”**
+> "There is a common bias towards relying on internal historical records, despite clear indications that such data may be insufficient in the dynamic cyber threat landscape."
 — MODULE 1 - C4-I2, *Archetype 1.txt*
 
-**2. “Technology alone can solve complex business challenges if invested in sufficiently.”**  
-> "There is often an implicit bias that technology investments are standalone solutions, yet a holistic integration fosters deeper organizational change and sustainable growth."  
+**2. “Technology alone can solve complex business challenges if invested in sufficiently.”**
+> "There is often an implicit bias that technology investments are standalone solutions, yet a holistic integration fosters deeper organizational change and sustainable growth."
 — MODULE 13 - C1-I1, *Archetype 1.txt*
 
-**3. “Operational independence ensures strategic flexibility, even if it limits growth.”**  
-> "A reluctance to engage with external partners, driven by a desire to preserve autonomy, often clashes with the practical necessity of filling resource gaps."  
+**3. “Operational independence ensures strategic flexibility, even if it limits growth.”**
+> "A reluctance to engage with external partners, driven by a desire to preserve autonomy, often clashes with the practical necessity of filling resource gaps."
 — MODULE 25 - C5-I3, *Archetype 1.txt*
 
-**4. “Short-term costs are more visible and pressing than long-term benefits.”**  
-> "There is a common bias among some executives to prioritize short-term cost savings over environmental stewardship, despite emerging evidence of long-term strategic value."  
+**4. “Short-term costs are more visible and pressing than long-term benefits.”**
+> "There is a common bias among some executives to prioritize short-term cost savings over environmental stewardship, despite emerging evidence of long-term strategic value."
 — MODULE 24 - C4-I3, *Archetype 1.txt*
 
 ---
 
 Let me know if you'd like additional archetypes from this dataset, visual mapping of tensions, or a CSV-ready summary format.
-

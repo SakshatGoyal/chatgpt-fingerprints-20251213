@@ -50,4 +50,3 @@ There are two main kinds of "solutions" in math and physics:
 > **The 3-body problem can’t be “solved” with a formula, but it can absolutely be simulated — and for practical purposes, that’s usually good enough.**
 
 So your intuition is right: simulation *is* a kind of solution — just not the kind mathematicians call an “analytical solution.”
-

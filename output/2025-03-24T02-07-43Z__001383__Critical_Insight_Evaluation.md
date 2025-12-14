@@ -149,16 +149,16 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 **Abstract:**
 
-- **Key Themes:**  
+- **Key Themes:**
   The paper investigates how national governments navigated uncertainty during the COVID‑19 pandemic by developing and adapting decision‐making strategies across three distinct domains: epistemic (knowledge gaps), strategic (behaviour of decision‐making actors), and institutional (frameworks and governance structures).
 
-- **Core Motivations:**  
+- **Core Motivations:**
   Amid a rapidly evolving health crisis, there was a critical need for a unified, empirically based framework to guide pandemic responses. The study addresses gaps in prior research by providing evidence on how diverse countries countered uncertainty in real time, thereby offering practical insights for future crisis preparedness.
 
-- **Methodological Clarification:**  
+- **Methodological Clarification:**
   Employing a comparative research design, the study combines desk reviews, stakeholder interviews, and focus group discussions from six purposefully selected countries. Data were analyzed iteratively through a grounded theory approach, which—while rich in context—carries inherent limitations of qualitative inquiry.
 
-- **Relevance Assessment:**  
+- **Relevance Assessment:**
   The findings offer a decision‐making framework that is directly applicable to executive leaders. By delineating concrete strategies and illustrating how adaptive responses were crafted under uncertainty, the study provides actionable insights for managing complex, high‐stakes situations in both public and private sectors.
 
 ---
@@ -167,51 +167,51 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### 1. Navigating Epistemic Uncertainty
 
-**Insight Statement:**  
+**Insight Statement:**
 Despite vastly different national contexts, governments consistently mitigated knowledge gaps by triangulating local data with international benchmarks and expert opinions to inform rapid policy adjustments. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders were forced to balance the urgency of making critical decisions against the backdrop of incomplete or rapidly evolving scientific data.  
-- **Underlying Beliefs & Biases:** There was a strong reliance on international guidance (e.g. from WHO) and expert consensus, which sometimes overshadowed localized contextual insights.  
-- **Expected vs. Actual Outcomes:** While robust data collection was anticipated to underpin effective policies, the real-time evolution of the pandemic often necessitated iterative adjustments and recalibrations.  
-- **Broader Implications:** This underscores the need for adaptive evidence-gathering mechanisms and flexible decision frameworks that can accommodate sudden shifts in available information.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders were forced to balance the urgency of making critical decisions against the backdrop of incomplete or rapidly evolving scientific data.
+- **Underlying Beliefs & Biases:** There was a strong reliance on international guidance (e.g. from WHO) and expert consensus, which sometimes overshadowed localized contextual insights.
+- **Expected vs. Actual Outcomes:** While robust data collection was anticipated to underpin effective policies, the real-time evolution of the pandemic often necessitated iterative adjustments and recalibrations.
+- **Broader Implications:** This underscores the need for adaptive evidence-gathering mechanisms and flexible decision frameworks that can accommodate sudden shifts in available information.
 **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Empirical findings from interviews and document reviews across the six countries reveal that policy makers actively sought to cross-verify local surveillance data with international case studies and expert inputs. Although this approach bolstered initial responses, the unpredictable nature of the virus forced repeated policy revisions as new evidence emerged. **[Empirical]**
 
 ---
 
 ### 2. Addressing Strategic Uncertainty
 
-**Insight Statement:**  
+**Insight Statement:**
 To counteract the unpredictability of actors’ behaviours and the dynamics of inter-agency coordination, governments implemented robust communication strategies and established dedicated task forces that aligned public messaging with evolving situational assessments. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** The challenge lay in orchestrating timely, consistent communications amid diverse and sometimes fragmented administrative channels.  
-- **Underlying Beliefs & Biases:** There was an assumption that centralized coordination would streamline responses; however, local complexities and varying levels of preparedness sometimes led to mixed messages.  
-- **Expected vs. Actual Outcomes:** While coordinated efforts were expected to enhance policy coherence, delays and ambiguities in messaging—especially in large bureaucracies like the UK and South Africa—occasionally eroded public trust.  
-- **Broader Implications:** Effective crisis management requires not only establishing inter-agency linkages but also maintaining transparency and agility in communication to adapt to emerging challenges.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** The challenge lay in orchestrating timely, consistent communications amid diverse and sometimes fragmented administrative channels.
+- **Underlying Beliefs & Biases:** There was an assumption that centralized coordination would streamline responses; however, local complexities and varying levels of preparedness sometimes led to mixed messages.
+- **Expected vs. Actual Outcomes:** While coordinated efforts were expected to enhance policy coherence, delays and ambiguities in messaging—especially in large bureaucracies like the UK and South Africa—occasionally eroded public trust.
+- **Broader Implications:** Effective crisis management requires not only establishing inter-agency linkages but also maintaining transparency and agility in communication to adapt to emerging challenges.
 **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 Data from stakeholder discussions demonstrate that while inter-ministerial coordination and multisectoral collaborations were widely adopted, the sheer scale and rapid pace of decision-making often resulted in communication gaps. This was particularly evident when evolving scientific insights clashed with established protocols, thereby necessitating swift, yet sometimes imperfect, message recalibration. **[Empirical]**
 
 ---
 
 ### 3. Overcoming Institutional Uncertainty
 
-**Insight Statement:**  
+**Insight Statement:**
 Governments successfully balanced the use of long-standing institutional frameworks with the rapid creation of new regulatory mechanisms to adapt to unprecedented crisis conditions, thereby enhancing overall response agility. **[Empirical]**
 
-**Executive Decision-Making Context:**  
-- **Strategic Dilemma:** Leaders had to reconcile the inertia of pre-existing institutions with the immediate need for innovative and flexible policy measures in the face of novel challenges.  
-- **Underlying Beliefs & Biases:** There was an inherent bias towards established practices, which, while offering stability, were sometimes ill-suited to address the unique exigencies of a pandemic.  
-- **Expected vs. Actual Outcomes:** Although reliance on historical protocols provided a foundational response, many governments were compelled to institute agile reforms—such as expedited regulatory approvals and the creation of emergency task forces—to keep pace with the crisis.  
-- **Broader Implications:** Future preparedness plans must incorporate mechanisms that allow for rapid institutional adaptation and legal flexibility, ensuring that governance structures can evolve in real time during emergencies.  
+**Executive Decision-Making Context:**
+- **Strategic Dilemma:** Leaders had to reconcile the inertia of pre-existing institutions with the immediate need for innovative and flexible policy measures in the face of novel challenges.
+- **Underlying Beliefs & Biases:** There was an inherent bias towards established practices, which, while offering stability, were sometimes ill-suited to address the unique exigencies of a pandemic.
+- **Expected vs. Actual Outcomes:** Although reliance on historical protocols provided a foundational response, many governments were compelled to institute agile reforms—such as expedited regulatory approvals and the creation of emergency task forces—to keep pace with the crisis.
+- **Broader Implications:** Future preparedness plans must incorporate mechanisms that allow for rapid institutional adaptation and legal flexibility, ensuring that governance structures can evolve in real time during emergencies.
 **[Empirical]**
 
-**Supporting Context:**  
+**Supporting Context:**
 The study documents that countries like Singapore repurposed existing outbreak response frameworks (inherited from previous experiences such as SARS) and simultaneously established new institutions—such as provisional authorization routes for vaccines—to address emerging gaps. This dual approach highlights the value of institutional agility in managing uncertainty. **[Empirical]**
 
 ---
@@ -221,9 +221,9 @@ The study documents that countries like Singapore repurposed existing outbreak r
 - **Coverage Fit:** High — The paper provides an extensive empirical analysis of executive decision-making strategies under uncertainty during a global health crisis.
 - **Bias & Cognitive Modeling Content:** Present — The research addresses implicit biases through its examination of reliance on expert advice and pre-existing heuristics.
 - **Clarity of Methods & Outcomes:** Clear — The methodology, based on a comparative design with qualitative data from multiple countries, is well-delineated, and the outcomes are categorized across three domains of uncertainty.
-- **Areas with No Data:**  
-  - **Insight Statement:** All key insights are well supported.  
-  - **Executive Decision-Making Context:** Every sub-section is backed by empirical evidence from the study.  
+- **Areas with No Data:**
+  - **Insight Statement:** All key insights are well supported.
+  - **Executive Decision-Making Context:** Every sub-section is backed by empirical evidence from the study.
   - **Supporting Context:** Sufficient data and direct findings are available to substantiate the insights.
 
 ## You (2025-03-24T02:08:47.724000+00:00)
@@ -463,21 +463,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -490,4 +490,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T02:10:22.991484+00:00)
 
 Asthana, S., Mukherjee, S., Phelan, A. L., Gobir, I. B., Woo, J. J., Wenham, C., Husain, M. M., Shirin, T., Govender, N., Al Nsour, M., Ukponu, W., Ihueze, A. C., Lin, R., Asthana, S., Mutare, R. V., & Standley, C. J. (2025). Decision-making under epistemic, strategic and institutional uncertainty during COVID-19: Findings from a six-country empirical study. *BMJ Global Health, 10*(2), e018124. https://doi.org/10.1136/bmjgh-2024-018124
-

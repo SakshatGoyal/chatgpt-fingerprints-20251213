@@ -160,48 +160,48 @@ Maintain this structure to ensure clarity, traceability, and analytical integrit
 
 ### **Insight 1: Integrative Use of Intuitive and Normative Approaches Enhances Decision Robustness**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 Manufacturing managers frequently adopt a combined intuitive and normative approach to leverage rapid consensus-building alongside rigorous quantitative analysis, challenging the prevailing notion that one method is universally superior. This integrated approach mitigates risks inherent in relying solely on gut feeling or overly formal analysis. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must decide whether to prioritize speed and experiential judgment or to invest time in systematic, data-driven evaluations when making high-stake production system decisions.  
-- **Underlying Beliefs & Biases:** There is a common bias favoring intuitive “gut decisions” in uncertain contexts; however, the study indicates that coupling intuition with normative techniques can counterbalance overconfidence and improve decision accuracy.  
-- **Expected vs. Actual Outcomes:** While intuition is expected to expedite decisions, the empirical evidence reveals that incorporating normative elements—such as simulations and structured comparisons—yields more robust and defensible outcomes.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must decide whether to prioritize speed and experiential judgment or to invest time in systematic, data-driven evaluations when making high-stake production system decisions.
+- **Underlying Beliefs & Biases:** There is a common bias favoring intuitive “gut decisions” in uncertain contexts; however, the study indicates that coupling intuition with normative techniques can counterbalance overconfidence and improve decision accuracy.
+- **Expected vs. Actual Outcomes:** While intuition is expected to expedite decisions, the empirical evidence reveals that incorporating normative elements—such as simulations and structured comparisons—yields more robust and defensible outcomes.
 - **Broader Implications:** This combined approach not only enhances decision quality but also supports the development of standardized procedures for future innovations. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Data from both Projects A and B show that early decisions were predominantly intuitive, evolving to incorporate normative analysis as additional data and consensus emerged. The use of simulation models and quantitative evaluations to supplement initial intuitive judgments was pivotal in achieving more refined outcomes, as evidenced by multiple documented iterations and cross-functional validations. **[Empirical]**
 
 ---
 
 ### **Insight 2: Decision Structuredness Drives the Choice of Decision-Making Approach**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 The degree of decision structuredness—defined by the levels of equivocality and analyzability—profoundly influences whether decision-makers opt for normative, intuitive, or mixed approaches, challenging one-size-fits-all recommendations in process innovation. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Leaders are confronted with choices under varying conditions of information clarity; they must decide whether to apply a systematic, rule-based process or rely on experiential judgment in ambiguous scenarios.  
-- **Underlying Beliefs & Biases:** There is an implicit assumption that clear, rule-bound environments always favor normative methods, yet the study demonstrates that even in seemingly well-defined situations, a lack of complete information may necessitate a hybrid approach.  
-- **Expected vs. Actual Outcomes:** Executives might expect high analyzability to automatically lead to normative decisions; however, empirical findings reveal that even under low equivocality, decision-makers often blend approaches to compensate for partial consensus or information gaps.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Leaders are confronted with choices under varying conditions of information clarity; they must decide whether to apply a systematic, rule-based process or rely on experiential judgment in ambiguous scenarios.
+- **Underlying Beliefs & Biases:** There is an implicit assumption that clear, rule-bound environments always favor normative methods, yet the study demonstrates that even in seemingly well-defined situations, a lack of complete information may necessitate a hybrid approach.
+- **Expected vs. Actual Outcomes:** Executives might expect high analyzability to automatically lead to normative decisions; however, empirical findings reveal that even under low equivocality, decision-makers often blend approaches to compensate for partial consensus or information gaps.
 - **Broader Implications:** Recognizing and mapping the structuredness of a decision can help executives tailor their approach more precisely, improving process outcomes and strategic alignment. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 The paper categorizes decisions across a matrix of equivocality and analyzability. For example, decisions made under low equivocality and high analyzability predominantly relied on normative methods, while those under high equivocality and low analyzability required a heavier reliance on intuition or a combined approach. Detailed coding and data from workshop discussions and interviews substantiate these relationships. **[Empirical]**
 
 ---
 
 ### **Insight 3: Evolution of Decision Processes Reflects Dynamic Learning and Adaptation**
 
-**1. Insight Statement**  
+**1. Insight Statement**
 The evolution from predominantly intuitive decision-making in the early, uncertain stages of process innovation to the integration of normative analysis as consensus builds illustrates a dynamic learning process that challenges static decision models. **[Empirical]**
 
-**2. Executive Decision-Making Context**  
-- **Strategic Dilemma:** Executives must navigate the temporal evolution of decision environments, balancing rapid initial action with the need for later, more detailed analysis as projects mature.  
-- **Underlying Beliefs & Biases:** There is often a tendency to view early decisions as definitive; however, the empirical evidence underscores the importance of iterative reexamination and adaptation as more information becomes available.  
-- **Expected vs. Actual Outcomes:** While initial intuitive decisions expedite early project phases, executives must anticipate a shift towards a mixed or normative approach as structured data accumulates, ensuring that decisions remain aligned with evolving project goals.  
+**2. Executive Decision-Making Context**
+- **Strategic Dilemma:** Executives must navigate the temporal evolution of decision environments, balancing rapid initial action with the need for later, more detailed analysis as projects mature.
+- **Underlying Beliefs & Biases:** There is often a tendency to view early decisions as definitive; however, the empirical evidence underscores the importance of iterative reexamination and adaptation as more information becomes available.
+- **Expected vs. Actual Outcomes:** While initial intuitive decisions expedite early project phases, executives must anticipate a shift towards a mixed or normative approach as structured data accumulates, ensuring that decisions remain aligned with evolving project goals.
 - **Broader Implications:** This adaptive decision process supports the argument for flexible decision frameworks that can evolve in tandem with project maturity and changing information landscapes, thereby enhancing long-term competitive advantage. **[Empirical]**
 
-**3. Supporting Context**  
+**3. Supporting Context**
 Findings reveal that in both projects, decision-makers initially relied on intuitive judgments during the high-uncertainty startup phase. As projects progressed and consensus emerged through workshops and data collection, there was a marked shift towards incorporating normative analyses—such as detailed simulations and comparative evaluations—to refine and validate earlier decisions. These process dynamics are captured through qualitative data, including iterative workshop discussions and post-decision evaluations. **[Empirical]**
 
 ---
@@ -211,7 +211,7 @@ Findings reveal that in both projects, decision-makers initially relied on intui
 - **Coverage Fit:** High — The paper provides extensive empirical evidence and in-depth discussion on executive decision-making approaches in process innovations, directly addressing strategic reasoning challenges.
 - **Bias & Cognitive Modeling Content:** Present — The study explicitly discusses cognitive biases (e.g., overreliance on intuition) and integrates cognitive models (normative vs. intuitive decision-making frameworks) into its analysis.
 - **Clarity of Methods & Outcomes:** Clear — The methodology, including qualitative case study design and iterative data analysis, is well described; outcomes are transparently linked to specific decision contexts.
-- **Areas with No Data:**  
+- **Areas with No Data:**
     - All required sections (Insight Statement, Executive Decision-Making Context, Supporting Context) are well supported by empirical data from the case study.
 
 ## You (2025-03-24T02:20:42.698000+00:00)
@@ -451,21 +451,21 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ### 🧾 Examples to Follow:
 
 - **News Article / Blogpost (APA)**:
-    
+
     > Lee, M. (2023, December 10). AI regulation debates heat up. The Verge. https://www.theverge.com/article/ai-regulation-2023
-    > 
+    >
 - **Whitepaper (APA)**:
-    
+
     > IBM. (2022). AI and business transformation: Strategy guide. https://www.ibm.com/ai-business-strategy.pdf
-    > 
+    >
 - **Research Paper (APA)**:
-    
+
     > Nguyen, L. T., & Zhao, Q. (2021). Neural-symbolic reasoning for robotics. Journal of Artificial Intelligence Research, 68(3), 123–145. https://doi.org/10.1613/jair.1.13254
-    > 
+    >
 - **Gemini Deep Research (APA-style whitepaper)**:
-    
+
     > Gemini Research. (2024). Gemini Deep Research: Multi-agent coordination and emergent behavior. https://yourlink.com (or omit if no URL)
-    > 
+    >
 
 ---
 
@@ -478,4 +478,3 @@ The document I initially uploaded may be an HTML page, a PDF file, or a Markdown
 ## ChatGPT (2025-03-24T02:22:19.002372+00:00)
 
 Flores-García, E., Bruch, J., Wiktorsson, M., & Jackson, M. (2019). Decision-making approaches in process innovations: An explorative case study. *Journal of Manufacturing Technology Management, 30*(8), 1569-1593. https://doi.org/10.1108/JMTM-03-2019-0087
-

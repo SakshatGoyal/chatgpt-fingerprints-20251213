@@ -85,14 +85,14 @@ Want help sketching out what one of these might look like in a prototype workflo
 
 ## You (2025-04-22T12:32:30.262000+00:00)
 
-hey, we also have this list of design principles. Unfortunately, this is a unique approach to writing design principles. 
+hey, we also have this list of design principles. Unfortunately, this is a unique approach to writing design principles.
 
-In order to move from hypothesis to conviction and possibly some low fidelity testing and validation, could you recommend a few steps we could take that keeps both documents (the attached design principles as well as the research synthesis we've done in mind. 
+In order to move from hypothesis to conviction and possibly some low fidelity testing and validation, could you recommend a few steps we could take that keeps both documents (the attached design principles as well as the research synthesis we've done in mind.
 
-Give me a few integrated approaches. 
+Give me a few integrated approaches.
 ---
 
-too often, they fall into the trap of sounding good without actually being useful. 
+too often, they fall into the trap of sounding good without actually being useful.
 
 When principles read like truisms—“AI should be trustworthy,” “prioritize the user,” “support human judgment”—they’re hard to disagree with, but even harder to design from. They don't sharpen decisions; they smooth them over.
 
@@ -254,7 +254,7 @@ Absolutely — this is a great pivot point. You're sitting on a treasure trove o
 
 **How to do it:**
 - Attend or review recordings of leadership meetings or strategy reviews.
-- Annotate moments with: “If the AI were here, it could have…” 
+- Annotate moments with: “If the AI were here, it could have…”
   - challenged the default assumption,
   - prompted a trust-vs-speed tradeoff,
   - surfaced an analogical precedent,
@@ -276,4 +276,3 @@ Pick one method and run a **one-week experiment**. What matters most here is:
 - **Did they want to come back for more?**
 
 Would you like help crafting example prompts or responses for one of these formats? Or mapping which method best matches which of your four archetypes?
-

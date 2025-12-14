@@ -45,10 +45,9 @@ Absolutely. Here's a rewritten version of your table that keeps the core insight
 
 | **Industry** | **What Stakeholders Expect** | **Main Challenge** | **What’s Driving the Tension** | **What Makes It Complicated** | **How Leaders Are Adapting** |
 | --- | --- | --- | --- | --- | --- |
-| **Pharmaceuticals** | - Keep investor confidence high  
-- Hit regulatory milestones  
-- Maintain strong market value | - Staying optimistic without overpromising  
-- Being honest about risks without losing credibility | - Pressure to keep valuation up  
-- Need to stay transparent with regulators  
+| **Pharmaceuticals** | - Keep investor confidence high
+- Hit regulatory milestones
+- Maintain strong market value | - Staying optimistic without overpromising
+- Being honest about risks without losing credibility | - Pressure to keep valuation up
+- Need to stay transparent with regulators
 -
-
