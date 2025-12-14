@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""
+"""\
 Extract semantic fingerprints from ChatGPT-exported .md chats.
 
 - Reads N markdown files from an input folder (default: ./output)
@@ -19,20 +19,16 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
-import os
 import re
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Dict, Any, Optional, List
+from typing import Dict, Any, List
 
 from openai import OpenAI  # Official SDK. See OpenAI docs.  # noqa
 
 
-# ----------------------------
-# Prompt: fingerprint schema
-# ----------------------------
 FINGERPRINT_INSTRUCTIONS = """\
 You are an expert ethnographic indexer + linguist + project research lead.
 You will be given ONE chat transcript in markdown.
@@ -91,8 +87,7 @@ latent_indexing:
   confidence_notes:            # 2–5 short bullets; what evidence supports the IA paths; note uncertainty
 """
 
-# Keep this conservative; you can swap later if you prefer.
-DEFAULT_MODEL = "gpt-4o-mini"  # Replace with your preferred model name if needed.
+DEFAULT_MODEL = "gpt-4o-mini"
 
 
 def sha256_text(s: str) -> str:
@@ -104,18 +99,10 @@ def read_text(path: Path) -> str:
 
 
 def extract_first_timestamp_utc(md_text: str) -> str:
-    """
-    Try to infer from the first user header like:
-      ## You (2025-04-20T02:34:44.560294+00:00)
-    """
     m = re.search(r"^##\s+You\s+\(([^)]+)\)", md_text, flags=re.MULTILINE)
     if not m:
         return "unknown"
-    raw = m.group(1).strip()
-
-    # If it already includes timezone, keep as-is.
-    # Otherwise mark unknown (don't guess local tz).
-    return raw
+    return m.group(1).strip()
 
 
 def load_cache(cache_path: Path) -> Dict[str, Any]:
@@ -132,10 +119,6 @@ def save_cache(cache_path: Path, cache: Dict[str, Any]) -> None:
 
 
 def call_openai_extract_yaml(client: OpenAI, model: str, chat_filename: str, md_text: str) -> str:
-    """
-    Calls the Responses API and returns YAML text.
-    """
-    # We supply filename + inferred timestamp as helpful anchors.
     first_ts = extract_first_timestamp_utc(md_text)
 
     input_text = (
@@ -144,17 +127,14 @@ def call_openai_extract_yaml(client: OpenAI, model: str, chat_filename: str, md_
         f"CHAT TRANSCRIPT (markdown):\n{md_text}"
     )
 
-    # Responses API call. See OpenAI docs. :contentReference[oaicite:3]{index=3}
     resp = client.responses.create(
         model=model,
         instructions=FINGERPRINT_INSTRUCTIONS,
         input=input_text,
     )
 
-    # The SDK exposes a convenience property.
     yaml_out = getattr(resp, "output_text", None)
     if not yaml_out:
-        # Fallback: try to stringify
         yaml_out = str(resp)
 
     return yaml_out.strip()
@@ -172,7 +152,18 @@ def main():
     ap.add_argument("--out", default="fingerprints_50.md", help="Combined output markdown file")
     ap.add_argument("--cache", default=".fingerprint_cache.json", help="Cache file path")
     ap.add_argument("--sleep", type=float, default=0.3, help="Seconds to sleep between requests")
+    ap.add_argument(
+        "--test",
+        action="store_true",
+        help="Local test mode: process first 10 chats (unless --limit is set) and write to fingerprints_test_10.md",
+    )
     args = ap.parse_args()
+
+    if args.test:
+        if not args.limit or args.limit == 0:
+            args.limit = 10
+        if args.out == "fingerprints_50.md":
+            args.out = "fingerprints_test_10.md"
 
     input_dir = Path(args.input_dir).expanduser().resolve()
     out_path = Path(args.out).expanduser().resolve()
@@ -182,22 +173,17 @@ def main():
         print(f"ERROR: input_dir not found: {input_dir}", file=sys.stderr)
         sys.exit(1)
 
-    client = OpenAI()  # Reads OPENAI_API_KEY from env. :contentReference[oaicite:4]{index=4}
+    client = OpenAI()
 
     files = list_md_files(input_dir)
     if not files:
         print(f"ERROR: no .md files found in {input_dir}", file=sys.stderr)
         sys.exit(1)
 
-    # If limit is 0 (default), process all chats.
-    if args.limit and args.limit > 0:
-        target_files = files[: args.limit]
-    else:
-        target_files = files
+    target_files = files[: args.limit] if args.limit and args.limit > 0 else files
 
     cache = load_cache(cache_path)
 
-    # Create/overwrite combined output file with a header.
     header = (
         f"# Semantic Fingerprints\n\n"
         f"- Generated: {datetime.now(timezone.utc).isoformat()}\n"
@@ -232,7 +218,6 @@ def main():
             processed += 1
             time.sleep(args.sleep)
 
-        # Append to combined markdown
         block = (
             f"## {idx:03d} — {path.name}\n\n"
             f"```yaml\n{yaml_out}\n```\n\n"
@@ -241,13 +226,17 @@ def main():
         with open(out_path, "a", encoding="utf-8") as f:
             f.write(block)
 
-        print(f"[{idx}/{len(target_files)}] {path.name}  (new={cache_key not in cache}, processed={processed}, cached={skipped})")
+        print(
+            f"[{idx}/{len(target_files)}] {path.name}  "
+            f"(processed_this_run={processed}, skipped_this_run={skipped}, total_cached={len(cache)})"
+        )
 
     print("\nDone.")
     print(f"- Wrote: {out_path}")
     print(f"- Cache: {cache_path}")
-    print(f"- New extractions: {processed}")
-    print(f"- Cached: {skipped}")
+    print(f"- New extractions this run: {processed}")
+    print(f"- Skipped from cache this run: {skipped}")
+    print(f"- Total cached entries: {len(cache)}")
 
 
 if __name__ == "__main__":
