@@ -6,7 +6,7 @@ on:
       model:
         description: "OpenAI model name"
         required: true
-        default: "gpt-4.1-mini"
+        default: "gpt-4.1"
       batch_size:
         description: "Chats per batch (smaller = more frequent commits)"
         required: true
@@ -14,7 +14,7 @@ on:
       output_branch:
         description: "Branch where batch .md outputs are committed"
         required: true
-        default: "fingerprints-output-2(4.1-mini)"
+        default: "fingerprints-output-2"
       max_runtime_minutes:
         description: "Soft runtime limit per run (minutes). Script checkpoints + self-dispatches before timeout."
         required: true
