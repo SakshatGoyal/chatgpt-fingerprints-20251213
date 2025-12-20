@@ -6,7 +6,7 @@ on:
       model:
         description: "OpenAI model name"
         required: true
-        default: "gpt-4o-mini"
+        default: "gpt-o3"
       batch_size:
         description: "Chats per batch (smaller = more frequent commits)"
         required: true
