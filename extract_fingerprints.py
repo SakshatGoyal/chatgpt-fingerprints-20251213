@@ -4,10 +4,12 @@ Extract semantic fingerprints from ChatGPT-exported .md chats.
 
 - Reads markdown files from an input folder (default: ./output)
 - Calls OpenAI Responses API to extract a "semantic fingerprint" (YAML)
-- Writes ONE combined markdown file
-- Writes ONE markdown file per batch (synthesis/batch_###.md)
+- Writes ONE combined markdown file (append-only; safe to resume)
+- Writes ONE markdown file per batch (synthesis/batch_###.md; append-only; safe to resume)
 - Caches results so reruns don't reprocess the same files
-- (Optional) Commits + pushes outputs after each batch (for GitHub Actions durability)
+- Writes a durable resume pointer committed to the repo (default: synthesis/progress.json)
+- (Optional) Commits + pushes checkpoints after each batch and before a soft runtime limit
+- (Optional) Self-dispatches a new GitHub Actions run to continue from the checkpoint
 
 Requires:
   pip install openai
@@ -26,9 +28,11 @@ import re
 import subprocess
 import sys
 import time
+import urllib.error
+import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Dict, Any, Iterable, List, Optional
+from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 from openai import OpenAI  # noqa
 
@@ -138,15 +142,20 @@ synthesis:
 
 DEFAULT_MODEL = "gpt-4o-mini"
 BATCH_SIZE_DEFAULT = 100
+PROGRESS_SCHEMA_VERSION = 1
 
 # Basic secret redaction to avoid pushing secrets into the repo.
 # This is conservative on purpose; better to redact than to get blocked by secret-scanning.
-_SECRET_PATTERNS: List[tuple[re.Pattern[str], str]] = [
+_SECRET_PATTERNS: List[Tuple[re.Pattern[str], str]] = [
     (re.compile(r"ghp_[A-Za-z0-9]{36}"), "ghp_[REDACTED]"),
     (re.compile(r"github_pat_[A-Za-z0-9_]{20,}"), "github_pat_[REDACTED]"),
     (re.compile(r"sk-[A-Za-z0-9]{20,}"), "sk-[REDACTED]"),
     (re.compile(r"AIza[0-9A-Za-z\-_]{35}"), "AIza[REDACTED]"),
 ]
+
+
+def utc_now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
 
 
 def redact_secrets(text: str) -> str:
@@ -181,6 +190,20 @@ def load_cache(cache_path: Path) -> Dict[str, Any]:
 
 def save_cache(cache_path: Path, cache: Dict[str, Any]) -> None:
     cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def load_progress(progress_path: Path) -> Dict[str, Any]:
+    if not progress_path.exists():
+        return {}
+    try:
+        return json.loads(progress_path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def save_progress(progress_path: Path, progress: Dict[str, Any]) -> None:
+    progress_path.parent.mkdir(parents=True, exist_ok=True)
+    progress_path.write_text(json.dumps(progress, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def call_openai_extract_yaml(client: OpenAI, model: str, chat_filename: str, md_text: str) -> str:
@@ -222,15 +245,28 @@ def _run(cmd: List[str]) -> subprocess.CompletedProcess:
     return subprocess.run(cmd, check=False, capture_output=True, text=True)
 
 
+def git_current_branch() -> str:
+    r = _run(["git", "rev-parse", "--abbrev-ref", "HEAD"])
+    return (r.stdout.strip() if r.returncode == 0 else "unknown")
+
+
+def git_head_sha() -> str:
+    r = _run(["git", "rev-parse", "HEAD"])
+    return (r.stdout.strip() if r.returncode == 0 else "unknown")
+
+
 def git_commit_and_push(
     *,
     paths: List[Path],
     message: str,
     remote: str,
     branch: str,
-) -> None:
-    # Stage files
-    add_cmd = ["git", "add"] + [str(p) for p in paths]
+) -> Optional[str]:
+    """
+    Stages (force-add), commits, and pushes. Returns the pushed commit SHA, or None if nothing changed.
+    """
+    # Stage files (force so .gitignore cannot defeat durability)
+    add_cmd = ["git", "add", "-f"] + [str(p) for p in paths]
     r = _run(add_cmd)
     if r.returncode != 0:
         raise RuntimeError(f"git add failed: {r.stderr.strip() or r.stdout.strip()}")
@@ -238,7 +274,7 @@ def git_commit_and_push(
     # If nothing staged, skip commit/push
     diff = _run(["git", "diff", "--cached", "--quiet"])
     if diff.returncode == 0:
-        return
+        return None
 
     c = _run(["git", "commit", "-m", message])
     if c.returncode != 0:
@@ -246,21 +282,124 @@ def git_commit_and_push(
 
     # Push; if rejected, try one rebase then push again.
     p = _run(["git", "push", remote, f"HEAD:{branch}"])
-    if p.returncode == 0:
+    if p.returncode != 0:
+        _run(["git", "fetch", remote, branch])
+        rb = _run(["git", "pull", "--rebase", remote, branch])
+        if rb.returncode != 0:
+            raise RuntimeError(f"git pull --rebase failed: {rb.stderr.strip() or rb.stdout.strip()}")
+
+        p2 = _run(["git", "push", remote, f"HEAD:{branch}"])
+        if p2.returncode != 0:
+            raise RuntimeError(f"git push failed: {p2.stderr.strip() or p2.stdout.strip()}")
+
+    # Final SHA (important if a rebase occurred)
+    return git_head_sha()
+
+
+def compute_manifest_sha(files: List[Path]) -> str:
+    # Include name + size to detect ordering changes for --largest or content churn.
+    manifest = "\n".join([f"{p.name}\t{p.stat().st_size}" for p in files])
+    return sha256_text(manifest)
+
+
+def infer_start_index_from_progress(progress: Dict[str, Any], files: List[Path]) -> Tuple[int, str]:
+    """
+    Returns (start_index, reason).
+    """
+    total = len(files)
+    if not progress:
+        return 0, "no_progress_file"
+
+    # Prefer explicit next_file_name if present (robust to minor ordering changes)
+    next_name = str(progress.get("next_file_name") or "").strip()
+    if next_name:
+        for i, p in enumerate(files):
+            if p.name == next_name:
+                return i, "progress.next_file_name"
+
+    # Fall back to numeric pointer
+    try:
+        idx = int(progress.get("next_file_index", 0))
+    except Exception:
+        idx = 0
+
+    if idx < 0:
+        idx = 0
+    if idx > total:
+        idx = total
+
+    return idx, "progress.next_file_index"
+
+
+def infer_start_index_from_cache(files: List[Path], cache: Dict[str, Any]) -> Tuple[int, str]:
+    """
+    Heuristic migration path when progress.json doesn't exist yet:
+    scan from the beginning until the first file whose (name:hash) is not in cache.
+    """
+    if not cache:
+        return 0, "no_cache"
+
+    for i, p in enumerate(files):
+        try:
+            md_text = read_text(p)
+            cache_key = f"{p.name}:{sha256_text(md_text)}"
+        except Exception:
+            return 0, "cache_infer_failed_read"
+        if cache_key not in cache:
+            return i, "cache_prefix_miss"
+    return len(files), "cache_all_present"
+
+
+def dispatch_github_workflow(
+    *,
+    api_url: str,
+    repo: str,
+    workflow_file: str,
+    ref: str,
+    inputs: Dict[str, str],
+    token: str,
+) -> None:
+    """
+    Dispatches a workflow via GitHub REST API:
+    POST /repos/{owner}/{repo}/actions/workflows/{workflow_id}/dispatches
+    workflow_id may be a filename like 'extract_fingerprints.yaml'.
+    """
+    url = f"{api_url.rstrip('/')}/repos/{repo}/actions/workflows/{workflow_file}/dispatches"
+    payload = json.dumps({"ref": ref, "inputs": inputs}).encode("utf-8")
+    req = urllib.request.Request(
+        url=url,
+        data=payload,
+        method="POST",
+        headers={
+            "Accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json",
+            "User-Agent": "extract_fingerprints.py",
+            "X-GitHub-Api-Version": "2022-11-28",
+        },
+    )
+
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            status = getattr(resp, "status", None) or 0
+            if status not in (201, 204):
+                body = resp.read().decode("utf-8", errors="replace")
+                raise RuntimeError(f"workflow dispatch returned HTTP {status}: {body}")
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace") if hasattr(e, "read") else str(e)
+        raise RuntimeError(f"workflow dispatch failed: HTTP {e.code}: {body}") from e
+    except urllib.error.URLError as e:
+        raise RuntimeError(f"workflow dispatch failed: {e}") from e
+
+
+def ensure_markdown_header(path: Path, header: str) -> None:
+    if path.exists() and path.stat().st_size > 0:
         return
-
-    # Retry once with rebase
-    _run(["git", "fetch", remote, branch])
-    rb = _run(["git", "pull", "--rebase", remote, branch])
-    if rb.returncode != 0:
-        raise RuntimeError(f"git pull --rebase failed: {rb.stderr.strip() or rb.stdout.strip()}")
-
-    p2 = _run(["git", "push", remote, f"HEAD:{branch}"])
-    if p2.returncode != 0:
-        raise RuntimeError(f"git push failed: {p2.stderr.strip() or p2.stdout.strip()}")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(header, encoding="utf-8")
 
 
-def main():
+def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--input_dir", default="output", help="Folder with chat .md files")
     ap.add_argument("--limit", type=int, default=0, help="How many chats to process (0 = all chats)")
@@ -275,6 +414,41 @@ def main():
     ap.add_argument("--git-remote", default="origin", help="Git remote to push to")
     ap.add_argument("--git-branch", default=os.getenv("GITHUB_REF_NAME", "main"), help="Git branch to push to")
 
+    # Durability / multi-run controls
+    ap.add_argument(
+        "--progress-file",
+        default="",
+        help="Resume pointer JSON file (committed). Default: <synthesis-dir>/progress.json",
+    )
+    ap.add_argument(
+        "--max-runtime-minutes",
+        type=int,
+        default=0,
+        help="Soft runtime limit for this run (0 = disabled). When reached, checkpoint + exit.",
+    )
+    ap.add_argument(
+        "--checkpoint-buffer-seconds",
+        type=int,
+        default=900,
+        help="Safety buffer to leave for commit/push/dispatch when using --max-runtime-minutes.",
+    )
+    ap.add_argument(
+        "--max-files-per-run",
+        type=int,
+        default=0,
+        help="Hard cap on files handled per run (0 = disabled). Useful as a deterministic guard.",
+    )
+    ap.add_argument(
+        "--auto-continue",
+        action="store_true",
+        help="If work remains and running in GitHub Actions, dispatch a fresh run to continue.",
+    )
+    ap.add_argument(
+        "--workflow-file",
+        default=os.getenv("GITHUB_WORKFLOW_FILE", "extract_fingerprints.yaml"),
+        help="Workflow filename/id used for self-dispatch (GitHub API).",
+    )
+
     args = ap.parse_args()
 
     if args.batch_size <= 0:
@@ -285,15 +459,29 @@ def main():
     out_path = Path(args.out).expanduser().resolve()
     cache_path = Path(args.cache).expanduser().resolve()
     synthesis_dir = Path(args.synthesis_dir).expanduser().resolve()
+    progress_path = (
+        Path(args.progress_file).expanduser().resolve() if args.progress_file else (synthesis_dir / "progress.json")
+    )
 
     if not input_dir.exists():
         print(f"ERROR: input_dir not found: {input_dir}", file=sys.stderr)
         sys.exit(1)
 
-    client = OpenAI()
+    # Log required diagnostics
+    branch = git_current_branch()
+    head_sha = git_head_sha()
+    print(f"[info] git.branch={branch}")
+    print(f"[info] git.head_sha={head_sha}")
+    print(f"[info] synthesis.dir={synthesis_dir}")
+    print(f"[info] synthesis.dir_abs={str(synthesis_dir)}")
+    print(f"[info] progress.file={progress_path}")
+    print(f"[info] output.combined={out_path}")
+    print(f"[info] cache.file={cache_path}")
 
     synthesis_dir.mkdir(parents=True, exist_ok=True)
     out_path.parent.mkdir(parents=True, exist_ok=True)
+
+    client = OpenAI()
 
     files = list_md_files(input_dir, largest=args.largest)
     if not files:
@@ -303,129 +491,334 @@ def main():
     target_files = files[: args.limit] if args.limit and args.limit > 0 else files
     total_files = len(target_files)
     total_batches = (total_files + args.batch_size - 1) // args.batch_size
+    manifest_sha = compute_manifest_sha(target_files)
 
     cache = load_cache(cache_path)
 
-    header = (
-        f"# Semantic Fingerprints\n\n"
-        f"- Generated: {datetime.now(timezone.utc).isoformat()}\n"
+    # Load progress + decide resume point
+    progress = load_progress(progress_path)
+    resume_index, resume_reason = infer_start_index_from_progress(progress, target_files)
+
+    # If no progress file (or it's empty), try inferring from cache to avoid reprocessing/duplication.
+    if not progress:
+        resume_index, resume_reason = infer_start_index_from_cache(target_files, cache)
+
+    if resume_index < 0:
+        resume_index = 0
+    if resume_index > total_files:
+        resume_index = total_files
+
+    print(
+        f"[info] discovered_files={total_files} batches={total_batches} batch_size={args.batch_size} "
+        f"resume_index={resume_index} resume_reason={resume_reason}"
+    )
+
+    # Initialize / refresh progress metadata (committed)
+    progress.setdefault("schema_version", PROGRESS_SCHEMA_VERSION)
+    progress.setdefault("created_utc", utc_now_iso())
+    progress["updated_utc"] = utc_now_iso()
+    progress["input_dir"] = str(input_dir)
+    progress["largest"] = bool(args.largest)
+    progress["limit"] = int(args.limit)
+    progress["batch_size"] = int(args.batch_size)
+    progress["model"] = str(args.model)
+    progress["total_files"] = total_files
+    progress["total_batches"] = total_batches
+    progress["manifest_sha"] = manifest_sha
+    progress["git_branch"] = branch
+    progress["next_file_index"] = resume_index
+    progress["next_file_number"] = resume_index + 1 if resume_index < total_files else total_files + 1
+    progress["next_file_name"] = target_files[resume_index].name if resume_index < total_files else ""
+    progress["completed"] = bool(resume_index >= total_files)
+    # "last_commit_sha" is the last known pushed SHA at the time we wrote this pointer file.
+    progress["last_commit_sha"] = head_sha
+    progress["github"] = {
+        "repository": os.getenv("GITHUB_REPOSITORY", ""),
+        "run_id": os.getenv("GITHUB_RUN_ID", ""),
+        "run_attempt": os.getenv("GITHUB_RUN_ATTEMPT", ""),
+        "workflow": os.getenv("GITHUB_WORKFLOW", ""),
+        "actor": os.getenv("GITHUB_ACTOR", ""),
+    }
+    save_progress(progress_path, progress)
+
+    # Ensure combined header exists (append-only)
+    combined_header = (
+        "# Semantic Fingerprints\n\n"
+        f"- Created (UTC): {utc_now_iso()}\n"
         f"- Input folder: `{input_dir}`\n"
         f"- Model: `{args.model}`\n"
         f"- Limit: {'all' if not args.limit or args.limit == 0 else args.limit}\n"
         f"- Batch size: {args.batch_size}\n"
         f"- Synthesis dir: `{synthesis_dir}`\n\n"
-        f"---\n\n"
+        "---\n\n"
     )
-    out_path.write_text(header, encoding="utf-8")
+    ensure_markdown_header(out_path, combined_header)
 
-    print(f"Discovered {total_files} chat files; processing in {total_batches} batch(es) of up to {args.batch_size}.")
+    # Runtime guards
+    start_ts = time.time()
+    soft_deadline_ts: Optional[float] = None
+    if args.max_runtime_minutes and args.max_runtime_minutes > 0:
+        soft_deadline_ts = start_ts + (args.max_runtime_minutes * 60) - max(0, args.checkpoint_buffer_seconds)
+        print(
+            f"[info] soft_deadline_utc={datetime.fromtimestamp(soft_deadline_ts, tz=timezone.utc).isoformat()} "
+            f"(max_runtime_minutes={args.max_runtime_minutes}, buffer_seconds={args.checkpoint_buffer_seconds})"
+        )
 
-    global_processed = 0
-    global_skipped = 0
-    global_errors = 0
-    global_index = 0
+    def should_stop(files_handled_this_run: int) -> Optional[str]:
+        if soft_deadline_ts is not None and time.time() > soft_deadline_ts:
+            return "time_guard"
+        if args.max_files_per_run and args.max_files_per_run > 0 and files_handled_this_run >= args.max_files_per_run:
+            return "max_files_per_run"
+        return None
 
-    for batch_index, batch_files in enumerate(chunked(target_files, args.batch_size), start=1):
-        start_num = global_index + 1
-        end_num = global_index + len(batch_files)
+    # Track what's been modified since last checkpoint commit
+    dirty_paths: List[Path] = []
+    dirty_set: set[str] = set()
+    updated_batch_files: set[str] = set()
+
+    def mark_dirty(p: Path) -> None:
+        sp = str(p)
+        if sp not in dirty_set:
+            dirty_set.add(sp)
+            dirty_paths.append(p)
+
+    def checkpoint(
+        reason: str,
+        batch_index: Optional[int] = None,
+        batch_start_num: Optional[int] = None,
+        batch_end_num: Optional[int] = None,
+    ) -> Optional[str]:
+        """
+        Persist a durable checkpoint by committing/pushing the dirty paths.
+        Returns pushed SHA if a commit occurred, else None.
+        """
+        if not args.commit_each_batch:
+            return None
+
+        # Update progress checkpoint metadata (and save) before committing.
+        progress["updated_utc"] = utc_now_iso()
+        progress["last_checkpoint"] = {
+            "reason": reason,
+            "timestamp_utc": progress["updated_utc"],
+            "batch_index": batch_index,
+            "batch_range": [batch_start_num, batch_end_num] if batch_start_num and batch_end_num else None,
+            "next_file_index": int(progress.get("next_file_index", 0)),
+            "next_file_name": str(progress.get("next_file_name", "")),
+        }
+        progress["last_commit_sha"] = git_head_sha()
+        save_progress(progress_path, progress)
+        mark_dirty(progress_path)
+
+        if not dirty_paths:
+            print(f"[checkpoint:{reason}] nothing to commit (dirty_paths empty)")
+            return None
+
+        # Logging required by prompt
+        batch_files_sorted = sorted([p for p in updated_batch_files])
+        print(f"[checkpoint:{reason}] branch={git_current_branch()}")
+        print(f"[checkpoint:{reason}] synthesis_dir_abs={synthesis_dir}")
+        print(f"[checkpoint:{reason}] newly_written_batch_files={batch_files_sorted}")
+
+        if reason == "end_of_batch" and batch_index is not None and batch_start_num is not None and batch_end_num is not None:
+            msg = f"fingerprints: batch {batch_index:03d} ({batch_start_num}-{batch_end_num} of {total_files})"
+        elif reason == "completed":
+            msg = f"fingerprints: completed ({total_files} files)"
+        else:
+            next_n = int(progress.get("next_file_index", 0)) + 1
+            msg = f"fingerprints: checkpoint ({reason}) next={next_n}/{total_files}"
+
+        pushed_sha = git_commit_and_push(paths=dirty_paths, message=msg, remote=args.git_remote, branch=args.git_branch)
+        if pushed_sha:
+            print(f"[checkpoint:{reason}] committed=yes pushed_sha={pushed_sha} remote={args.git_remote} branch={args.git_branch}")
+        else:
+            print(f"[checkpoint:{reason}] committed=no (no staged changes)")
+
+        # Reset dirty tracking after a successful commit attempt (commit or no-op).
+        dirty_paths.clear()
+        dirty_set.clear()
+        updated_batch_files.clear()
+
+        return pushed_sha
+
+    # Main processing loop (resumable)
+    processed_this_run = 0
+    skipped_this_run = 0
+    errors_this_run = 0
+    handled_this_run = 0
+
+    stop_reason: Optional[str] = None
+
+    for i in range(resume_index, total_files):
+        stop_reason = should_stop(handled_this_run)
+        if stop_reason:
+            print(f"[info] stopping_before_file_index={i} reason={stop_reason}")
+            break
+
+        path = target_files[i]
+        file_num = i + 1  # 1-based across entire corpus
+        batch_index = (i // args.batch_size) + 1
+        batch_start_num = (batch_index - 1) * args.batch_size + 1
+        batch_end_num = min(batch_index * args.batch_size, total_files)
 
         bpath = batch_md_path(synthesis_dir, batch_index)
         batch_header = (
             f"# Batch {batch_index:03d} Semantic Fingerprints\n\n"
-            f"- Generated: {datetime.now(timezone.utc).isoformat()}\n"
+            f"- Created (UTC): {utc_now_iso()}\n"
             f"- Model: `{args.model}`\n"
-            f"- Files: {start_num}-{end_num} of {total_files}\n"
+            f"- Files: {batch_start_num}-{batch_end_num} of {total_files}\n"
             f"- Batch size: {args.batch_size}\n\n"
-            f"---\n\n"
+            "---\n\n"
         )
-        bpath.write_text(batch_header, encoding="utf-8")
+        ensure_markdown_header(bpath, batch_header)
 
-        print(f"[batch {batch_index}/{total_batches}] Processing files {start_num}-{end_num} of {total_files}...")
+        yaml_out: Optional[str] = None
+        err_msg: Optional[str] = None
+        status = "unknown"
 
-        batch_processed = 0
-        batch_skipped = 0
-        batch_errors = 0
+        try:
+            md_text = read_text(path)
+            content_hash = sha256_text(md_text)
+            cache_key = f"{path.name}:{content_hash}"
 
-        for path in batch_files:
-            global_index += 1
-            yaml_out: Optional[str] = None
-            err_msg: Optional[str] = None
-            status = "unknown"
-            content_hash: Optional[str] = None
+            if cache_key in cache:
+                status = "skipped"
+                yaml_out = cache[cache_key]["yaml"]
+                skipped_this_run += 1
+            else:
+                status = "processed"
+                yaml_out = call_openai_extract_yaml(client, args.model, path.name, md_text)
+                cache[cache_key] = {
+                    "file": path.name,
+                    "hash": content_hash,
+                    "yaml": yaml_out,
+                    "model": args.model,
+                    "created_utc": utc_now_iso(),
+                }
+                save_cache(cache_path, cache)
+                mark_dirty(cache_path)
+                processed_this_run += 1
+                time.sleep(args.sleep)
+        except Exception as exc:
+            status = "error"
+            err_msg = f"{type(exc).__name__}: {exc}"
+            errors_this_run += 1
 
+            # Cache the error so retries don't burn API calls by default.
             try:
-                md_text = read_text(path)
+                md_text = md_text if "md_text" in locals() else read_text(path)
                 content_hash = sha256_text(md_text)
                 cache_key = f"{path.name}:{content_hash}"
+                cache[cache_key] = {
+                    "file": path.name,
+                    "hash": content_hash,
+                    "yaml": redact_secrets(f"ERROR: {err_msg}"),
+                    "model": args.model,
+                    "created_utc": utc_now_iso(),
+                    "status": "error",
+                }
+                save_cache(cache_path, cache)
+                mark_dirty(cache_path)
+            except Exception:
+                pass
 
-                if cache_key in cache:
-                    status = "skipped"
-                    yaml_out = cache[cache_key]["yaml"]
-                    batch_skipped += 1
-                    global_skipped += 1
-                else:
-                    status = "processed"
-                    yaml_out = call_openai_extract_yaml(client, args.model, path.name, md_text)
-                    cache[cache_key] = {
-                        "file": path.name,
-                        "hash": content_hash,
-                        "yaml": yaml_out,
-                        "model": args.model,
-                        "created_utc": datetime.now(timezone.utc).isoformat(),
-                    }
-                    save_cache(cache_path, cache)
-                    batch_processed += 1
-                    global_processed += 1
-                    time.sleep(args.sleep)
-            except Exception as exc:
-                status = "error"
-                err_msg = f"{type(exc).__name__}: {exc}"
-                batch_errors += 1
-                global_errors += 1
-
-            block_body = yaml_out if yaml_out else redact_secrets(f"ERROR: {err_msg or 'Unknown error'}")
-            block = (
-                f"## {global_index:03d} — {path.name}\n\n"
-                f"```yaml\n{block_body}\n```\n\n"
-                f"---\n\n"
-            )
-
-            with open(out_path, "a", encoding="utf-8") as f:
-                f.write(block)
-            with open(bpath, "a", encoding="utf-8") as f:
-                f.write(block)
-
-            print(
-                f"[{global_index}/{total_files}] {path.name} "
-                f"(status={status}, processed_this_run={global_processed}, skipped_this_run={global_skipped}, errors_this_run={global_errors})"
-            )
-
-        print(
-            f"[batch {batch_index}/{total_batches}] Wrote batch markdown {bpath} "
-            f"(processed={batch_processed}, skipped={batch_skipped}, errors={batch_errors})"
+        block_body = yaml_out if yaml_out else redact_secrets(f"ERROR: {err_msg or 'Unknown error'}")
+        block = (
+            f"## {file_num:03d} — {path.name}\n\n"
+            f"```yaml\n{block_body}\n```\n\n"
+            f"---\n\n"
         )
 
-        if args.commit_each_batch:
-            try:
-                git_commit_and_push(
-                    paths=[bpath, out_path, cache_path],
-                    message=f"fingerprints: batch {batch_index:03d} ({start_num}-{end_num} of {total_files})",
-                    remote=args.git_remote,
-                    branch=args.git_branch,
+        with open(out_path, "a", encoding="utf-8") as f:
+            f.write(block)
+        with open(bpath, "a", encoding="utf-8") as f:
+            f.write(block)
+
+        mark_dirty(out_path)
+        mark_dirty(bpath)
+        updated_batch_files.add(str(bpath))
+
+        # Update progress pointer after *successfully writing outputs*
+        next_index = i + 1
+        progress["updated_utc"] = utc_now_iso()
+        progress["next_file_index"] = next_index
+        progress["next_file_number"] = next_index + 1 if next_index < total_files else total_files + 1
+        progress["next_file_name"] = target_files[next_index].name if next_index < total_files else ""
+        progress["completed"] = bool(next_index >= total_files)
+        progress["last_commit_sha"] = git_head_sha()
+        save_progress(progress_path, progress)
+        mark_dirty(progress_path)
+
+        handled_this_run += 1
+
+        print(
+            f"[{file_num}/{total_files}] {path.name} "
+            f"(status={status}, processed_this_run={processed_this_run}, skipped_this_run={skipped_this_run}, errors_this_run={errors_this_run})"
+        )
+
+        # Batch boundary checkpoint (but do NOT stop here; keep running)
+        at_batch_end = (file_num % args.batch_size == 0) or (file_num == total_files)
+        if args.commit_each_batch and at_batch_end:
+            checkpoint("end_of_batch", batch_index=batch_index, batch_start_num=batch_start_num, batch_end_num=batch_end_num)
+
+    # If we exited early due to guard, checkpoint mid-batch and self-dispatch
+    if stop_reason and int(progress.get("next_file_index", 0)) < total_files:
+        checkpoint(stop_reason)
+
+        if args.auto_continue and os.getenv("GITHUB_ACTIONS", "").lower() == "true":
+            token = os.getenv("GITHUB_TOKEN", "")
+            repo = os.getenv("GITHUB_REPOSITORY", "")
+            api_url = os.getenv("GITHUB_API_URL", "https://api.github.com")
+
+            if not token or not repo:
+                print(
+                    "[error] auto-continue requested but missing GITHUB_TOKEN or GITHUB_REPOSITORY in env.",
+                    file=sys.stderr,
                 )
-                print(f"[batch {batch_index}/{total_batches}] Committed & pushed to {args.git_remote}/{args.git_branch}")
-            except Exception as exc:
-                # Fail loudly: you asked for “never again”. If push fails, stop so you know immediately.
-                print(f"[batch {batch_index}/{total_batches}] ERROR: failed to commit/push batch outputs: {exc}", file=sys.stderr)
                 sys.exit(2)
+
+            print(
+                f"[continue] dispatching workflow_file={args.workflow_file} ref={args.git_branch} "
+                f"inputs={{model:{args.model}, batch_size:{args.batch_size}, output_branch:{args.git_branch}, "
+                f"max_runtime_minutes:{args.max_runtime_minutes}, checkpoint_buffer_seconds:{args.checkpoint_buffer_seconds}, "
+                f"max_files_per_run:{args.max_files_per_run}}}"
+            )
+            dispatch_github_workflow(
+                api_url=api_url,
+                repo=repo,
+                workflow_file=args.workflow_file,
+                ref=args.git_branch,
+                inputs={
+                    "model": str(args.model),
+                    "batch_size": str(args.batch_size),
+                    "output_branch": str(args.git_branch),
+                    "max_runtime_minutes": str(args.max_runtime_minutes),
+                    "checkpoint_buffer_seconds": str(args.checkpoint_buffer_seconds),
+                    "max_files_per_run": str(args.max_files_per_run),
+                },
+                token=token,
+            )
+            print("[continue] dispatched successfully; exiting this run after checkpoint.")
+        else:
+            print("[continue] auto-continue disabled or not running in GitHub Actions; exiting after checkpoint.")
+
+    # Completion finalization
+    if int(progress.get("next_file_index", 0)) >= total_files:
+        progress["completed"] = True
+        progress["completed_utc"] = utc_now_iso()
+        progress["updated_utc"] = utc_now_iso()
+        progress["last_commit_sha"] = git_head_sha()
+        save_progress(progress_path, progress)
+        mark_dirty(progress_path)
+        checkpoint("completed")
 
     print("\nDone.")
     print(f"- Combined markdown: {out_path}")
+    print(f"- Progress pointer: {progress_path}")
     print(f"- Cache: {cache_path}")
     print(f"- Batch markdown outputs: {synthesis_dir}")
-    print(f"- New extractions this run: {global_processed}")
-    print(f"- Skipped from cache this run: {global_skipped}")
-    print(f"- Errors this run: {global_errors}")
+    print(f"- New extractions this run: {processed_this_run}")
+    print(f"- Skipped from cache this run: {skipped_this_run}")
+    print(f"- Errors this run: {errors_this_run}")
     print(f"- Total cached entries: {len(cache)}")
 
 
