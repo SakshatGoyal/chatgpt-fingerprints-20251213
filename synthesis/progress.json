@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "created_utc": "2025-12-20T07:43:19.590137+00:00",
-  "updated_utc": "2025-12-20T08:55:42.509362+00:00",
+  "updated_utc": "2025-12-20T08:55:56.903838+00:00",
   "input_dir": "/home/runner/work/chatgpt-fingerprints-20251213/chatgpt-fingerprints-20251213/output",
   "largest": true,
   "limit": 0,
@@ -11,11 +11,11 @@
   "total_batches": 17,
   "manifest_sha": "1038b414652f957502e979e26c6f50f16ed242d0d72748f05473607e29f2ae13",
   "git_branch": "fingerprints-output",
-  "next_file_index": 800,
-  "next_file_number": 801,
-  "next_file_name": "2025-06-12T02-06-39Z__000679__Sketching_Boundaries_Explored.md",
+  "next_file_index": 900,
+  "next_file_number": 901,
+  "next_file_name": "2025-04-10T00-02-43Z__001065__CSV_Clustering_Script_Output.md",
   "completed": false,
-  "last_commit_sha": "ad408bb3c418243eb0109cf083e47e25e6c61bcb",
+  "last_commit_sha": "4525dd85a57615dc31f0fad13b19c35874d71b9d",
   "github": {
     "repository": "SakshatGoyal/chatgpt-fingerprints-20251213",
     "run_id": "20392069525",
@@ -25,13 +25,13 @@
   },
   "last_checkpoint": {
     "reason": "end_of_batch",
-    "timestamp_utc": "2025-12-20T08:55:42.509362+00:00",
-    "batch_index": 8,
+    "timestamp_utc": "2025-12-20T08:55:56.903838+00:00",
+    "batch_index": 9,
     "batch_range": [
-      701,
-      800
+      801,
+      900
     ],
-    "next_file_index": 800,
-    "next_file_name": "2025-06-12T02-06-39Z__000679__Sketching_Boundaries_Explored.md"
+    "next_file_index": 900,
+    "next_file_name": "2025-04-10T00-02-43Z__001065__CSV_Clustering_Script_Output.md"
   }
 }
