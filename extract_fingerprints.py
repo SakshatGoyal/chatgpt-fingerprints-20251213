@@ -2,10 +2,12 @@
 """\
 Extract semantic fingerprints from ChatGPT-exported .md chats.
 
-- Reads N markdown files from an input folder (default: ./output)
-- Calls OpenAI Responses API to extract a rich "semantic fingerprint"
-- Writes ONE combined markdown file (default: ./fingerprints_50.md)
+- Reads markdown files from an input folder (default: ./output)
+- Calls OpenAI Responses API to extract a "semantic fingerprint" (YAML)
+- Writes ONE combined markdown file
+- Writes ONE markdown file per batch (synthesis/batch_###.md)
 - Caches results so reruns don't reprocess the same files
+- (Optional) Commits + pushes outputs after each batch (for GitHub Actions durability)
 
 Requires:
   pip install openai
@@ -19,14 +21,16 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import os
 import re
+import subprocess
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Dict, Any, Iterable, List
+from typing import Dict, Any, Iterable, List, Optional
 
-from openai import OpenAI  # Official SDK. See OpenAI docs.  # noqa
+from openai import OpenAI  # noqa
 
 
 FINGERPRINT_INSTRUCTIONS = """\
@@ -52,7 +56,7 @@ HARD RULES
 - Prefer latent function over surface keywords (infer what the conversation is DOING).
 - Ground claims in evidence from the transcript (tools, artifacts, named entities, deliverables, constraints, explicit decisions).
 - If something is unknown or not supported, write "unknown". Do not guess.
-- Avoid generic corporate filler (e.g., “critical to organizational performance”) unless the transcript explicitly says so.
+- Avoid generic corporate filler unless the transcript explicitly says so.
 - Avoid persona-writing about the user (no invented job titles). Use “unknown” or role as explicitly stated.
 - Output MUST be valid YAML only. No code fences. No extra commentary outside the YAML.
 
@@ -81,58 +85,63 @@ project_phase options (choose one):
 - maintenance
 - unknown
 
-PRIMARY PROCEDURE (do this internally; do NOT output these steps)
-1) Read the whole transcript end-to-end.
-2) Identify the “objects of work” (artifacts, deliverables, decisions, schemas, code, drafts, plans).
-3) Infer the user’s primary intent (the job the user hired the model to do).
-4) Extract secondary intents only if they are clearly distinct (0–3).
-5) Derive latent themes (what keeps recurring or organizing the conversation).
-6) Assign domains and concepts (what knowledge areas are operationally used).
-7) Determine project affiliation and phase only if evidence supports continuity; else "unknown" or "ad_hoc".
-8) Write a short synthesis: 2–5 sentences, descriptive, non-chronological, focused on function + outputs.
-
 OUTPUT FORMAT (YAML ONLY; keys must match exactly)
 
 chat_file:
   name: ""
 
 situational_context:
-  triggering_situation: ""          # what caused this chat; concrete phrasing
-  temporal_orientation: ""          # e.g., immediate task, retrospective, future-planning, mixed, unknown
+  triggering_situation: ""
+  temporal_orientation: ""
 
 intent_and_cognition:
   primary_intent: ""
-  secondary_intents: []             # 0–3 items
-  cognitive_mode: []                # pick 1–4 from controlled vocabulary
-  openness_level: ""                # high/medium/low/unknown; only if evidenced, else unknown
+  secondary_intents: []
+  cognitive_mode: []
+  openness_level: ""
 
 knowledge_domain:
   primary_domain: ""
-  secondary_domains: []             # 0–4 items; avoid “NLP/HCI” unless clearly relevant
-  dominant_concepts: []             # 5–12 specific concepts, nouns/phrases, not single vague words
+  secondary_domains: []
+  dominant_concepts: []
 
 artifacts:
-  referenced: []                    # concrete items mentioned (docs, tools, files, frameworks, links)
-  produced_or_refined: []           # what the chat created/edited/decided
-  artifact_stage: ""                # draft/revision/spec/analysis/unknown (choose the best fit)
-  downstream_use: ""                # how the artifacts will be used, if stated; else unknown
+  referenced: []
+  produced_or_refined: []
+  artifact_stage: ""
+  downstream_use: ""
 
 project_continuity:
-  project_affiliation: ""           # project/workstream name if explicit; else unknown/ad_hoc
-  project_phase: ""                 # from controlled list or unknown
-  continuity_evidence: ""           # 1–2 short phrases citing why you believe it’s part of a project (or unknown)
+  project_affiliation: ""
+  project_phase: ""
+  continuity_evidence: ""
 
 latent_indexing:
-  primary_themes: []                # 2–6 themes; each should be a rich phrase
-  secondary_themes: []              # 0–6 themes; optional
-  retrieval_tags: []                # 5–15 short tags (lowercase, underscore ok); high-recall indexing
+  primary_themes: []
+  secondary_themes: []
+  retrieval_tags: []
 
 synthesis:
-  descriptive_summary: ""           # 2–5 sentences; functional, not chronological; mention outputs & intent
+  descriptive_summary: ""
 """
 
 DEFAULT_MODEL = "gpt-4.1"
 BATCH_SIZE_DEFAULT = 100
+
+# Basic secret redaction to avoid pushing secrets into the repo.
+# This is conservative on purpose; better to redact than to get blocked by secret-scanning.
+_SECRET_PATTERNS: List[tuple[re.Pattern[str], str]] = [
+    (re.compile(r"ghp_[A-Za-z0-9]{36}"), "ghp_[REDACTED]"),
+    (re.compile(r"github_pat_[A-Za-z0-9_]{20,}"), "github_pat_[REDACTED]"),
+    (re.compile(r"sk-[A-Za-z0-9]{20,}"), "sk-[REDACTED]"),
+    (re.compile(r"AIza[0-9A-Za-z\-_]{35}"), "AIza[REDACTED]"),
+]
+
+
+def redact_secrets(text: str) -> str:
+    for rx, repl in _SECRET_PATTERNS:
+        text = rx.sub(repl, text)
+    return text
 
 
 def sha256_text(s: str) -> str:
@@ -178,39 +187,66 @@ def call_openai_extract_yaml(client: OpenAI, model: str, chat_filename: str, md_
         input=input_text,
     )
 
-    yaml_out = getattr(resp, "output_text", None)
-    if not yaml_out:
-        yaml_out = str(resp)
-
-    return yaml_out.strip()
+    yaml_out = getattr(resp, "output_text", None) or str(resp)
+    return redact_secrets(yaml_out.strip())
 
 
 def list_md_files(input_dir: Path, *, largest: bool) -> List[Path]:
     files = [p for p in input_dir.glob("*.md") if p.is_file()]
     if largest:
-        # sort by size descending then name for deterministic ordering
         return sorted(files, key=lambda p: (-p.stat().st_size, p.name))
     return sorted(files, key=lambda p: p.name)
 
 
 def chunked(seq: List[Path], size: int) -> Iterable[List[Path]]:
-    """Yield fixed-size batches from seq without materializing the whole structure."""
     for i in range(0, len(seq), size):
         yield seq[i : i + size]
 
 
-def unique_batch_path(base_dir: Path, batch_index: int) -> Path:
-    """Return a non-overwriting path for a batch output file."""
-    candidate = base_dir / f"batch_{batch_index:03d}.json"
-    if not candidate.exists():
-        return candidate
+def batch_md_path(base_dir: Path, batch_index: int) -> Path:
+    return base_dir / f"batch_{batch_index:03d}.md"
 
-    suffix = 1
-    while True:
-        candidate = base_dir / f"batch_{batch_index:03d}_{suffix}.json"
-        if not candidate.exists():
-            return candidate
-        suffix += 1
+
+def _run(cmd: List[str]) -> subprocess.CompletedProcess:
+    return subprocess.run(cmd, check=False, capture_output=True, text=True)
+
+
+def git_commit_and_push(
+    *,
+    paths: List[Path],
+    message: str,
+    remote: str,
+    branch: str,
+) -> None:
+    # Stage files
+    add_cmd = ["git", "add"] + [str(p) for p in paths]
+    r = _run(add_cmd)
+    if r.returncode != 0:
+        raise RuntimeError(f"git add failed: {r.stderr.strip() or r.stdout.strip()}")
+
+    # If nothing staged, skip commit/push
+    diff = _run(["git", "diff", "--cached", "--quiet"])
+    if diff.returncode == 0:
+        return
+
+    c = _run(["git", "commit", "-m", message])
+    if c.returncode != 0:
+        raise RuntimeError(f"git commit failed: {c.stderr.strip() or c.stdout.strip()}")
+
+    # Push; if rejected, try one rebase then push again.
+    p = _run(["git", "push", remote, f"HEAD:{branch}"])
+    if p.returncode == 0:
+        return
+
+    # Retry once with rebase
+    _run(["git", "fetch", remote, branch])
+    rb = _run(["git", "pull", "--rebase", remote, branch])
+    if rb.returncode != 0:
+        raise RuntimeError(f"git pull --rebase failed: {rb.stderr.strip() or rb.stdout.strip()}")
+
+    p2 = _run(["git", "push", remote, f"HEAD:{branch}"])
+    if p2.returncode != 0:
+        raise RuntimeError(f"git push failed: {p2.stderr.strip() or p2.stdout.strip()}")
 
 
 def main():
@@ -221,36 +257,18 @@ def main():
     ap.add_argument("--out", default="fingerprints_50.md", help="Combined output markdown file")
     ap.add_argument("--cache", default=".fingerprint_cache.json", help="Cache file path")
     ap.add_argument("--sleep", type=float, default=0.3, help="Seconds to sleep between requests")
-    ap.add_argument(
-        "--batch-size",
-        type=int,
-        default=BATCH_SIZE_DEFAULT,
-        help="Number of chats per batch output (default: 100)",
-    )
-    ap.add_argument(
-        "--synthesis-dir",
-        default="synthesis",
-        help="Directory to store per-batch outputs (will be created if missing)",
-    )
-    ap.add_argument(
-        "--largest",
-        action="store_true",
-        help="Process the largest markdown files first before applying --limit",
-    )
-    ap.add_argument(
-        "--test",
-        action="store_true",
-        help="Local test mode: writes to fingerprints_test_10.md unless overridden",
-    )
+    ap.add_argument("--batch-size", type=int, default=BATCH_SIZE_DEFAULT, help="Chats per batch")
+    ap.add_argument("--synthesis-dir", default="synthesis", help="Directory to store per-batch markdown outputs")
+    ap.add_argument("--largest", action="store_true", help="Process largest markdown files first")
+    ap.add_argument("--commit-each-batch", action="store_true", help="Commit & push outputs after each batch (GitHub Actions)")
+    ap.add_argument("--git-remote", default="origin", help="Git remote to push to")
+    ap.add_argument("--git-branch", default=os.getenv("GITHUB_REF_NAME", "main"), help="Git branch to push to")
+
     args = ap.parse_args()
 
     if args.batch_size <= 0:
         print("ERROR: --batch-size must be > 0", file=sys.stderr)
         sys.exit(1)
-
-    if args.test:
-        if args.out == "fingerprints_50.md":
-            args.out = "fingerprints_test_10.md"
 
     input_dir = Path(args.input_dir).expanduser().resolve()
     out_path = Path(args.out).expanduser().resolve()
@@ -263,17 +281,8 @@ def main():
 
     client = OpenAI()
 
-    try:
-        synthesis_dir.mkdir(parents=True, exist_ok=True)
-    except Exception as exc:
-        print(f"ERROR: unable to create synthesis directory {synthesis_dir}: {exc}", file=sys.stderr)
-        sys.exit(1)
-
-    try:
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-    except Exception as exc:
-        print(f"ERROR: unable to create output directory {out_path.parent}: {exc}", file=sys.stderr)
-        sys.exit(1)
+    synthesis_dir.mkdir(parents=True, exist_ok=True)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
 
     files = list_md_files(input_dir, largest=args.largest)
     if not files:
@@ -281,6 +290,8 @@ def main():
         sys.exit(1)
 
     target_files = files[: args.limit] if args.limit and args.limit > 0 else files
+    total_files = len(target_files)
+    total_batches = (total_files + args.batch_size - 1) // args.batch_size
 
     cache = load_cache(cache_path)
 
@@ -294,38 +305,42 @@ def main():
         f"- Synthesis dir: `{synthesis_dir}`\n\n"
         f"---\n\n"
     )
-    try:
-        out_path.write_text(header, encoding="utf-8")
-    except Exception as exc:
-        print(f"ERROR: unable to write to {out_path}: {exc}", file=sys.stderr)
-        sys.exit(1)
+    out_path.write_text(header, encoding="utf-8")
 
-    total_files = len(target_files)
-    total_batches = (total_files + args.batch_size - 1) // args.batch_size
+    print(f"Discovered {total_files} chat files; processing in {total_batches} batch(es) of up to {args.batch_size}.")
+
     global_processed = 0
     global_skipped = 0
     global_errors = 0
     global_index = 0
 
-    print(f"Discovered {total_files} chat files; processing in {total_batches} batch(es) of up to {args.batch_size}.")
-
-    # Process in batches so each chunk can be persisted independently (timeout resilience).
     for batch_index, batch_files in enumerate(chunked(target_files, args.batch_size), start=1):
         start_num = global_index + 1
         end_num = global_index + len(batch_files)
+
+        bpath = batch_md_path(synthesis_dir, batch_index)
+        batch_header = (
+            f"# Batch {batch_index:03d} Semantic Fingerprints\n\n"
+            f"- Generated: {datetime.now(timezone.utc).isoformat()}\n"
+            f"- Model: `{args.model}`\n"
+            f"- Files: {start_num}-{end_num} of {total_files}\n"
+            f"- Batch size: {args.batch_size}\n\n"
+            f"---\n\n"
+        )
+        bpath.write_text(batch_header, encoding="utf-8")
+
         print(f"[batch {batch_index}/{total_batches}] Processing files {start_num}-{end_num} of {total_files}...")
 
-        batch_results: List[Dict[str, Any]] = []
         batch_processed = 0
         batch_skipped = 0
         batch_errors = 0
 
         for path in batch_files:
             global_index += 1
-            yaml_out = None
-            err_msg = None
+            yaml_out: Optional[str] = None
+            err_msg: Optional[str] = None
             status = "unknown"
-            content_hash = None
+            content_hash: Optional[str] = None
 
             try:
                 md_text = read_text(path)
@@ -333,10 +348,10 @@ def main():
                 cache_key = f"{path.name}:{content_hash}"
 
                 if cache_key in cache:
-                    batch_skipped += 1
-                    global_skipped += 1
                     status = "skipped"
                     yaml_out = cache[cache_key]["yaml"]
+                    batch_skipped += 1
+                    global_skipped += 1
                 else:
                     status = "processed"
                     yaml_out = call_openai_extract_yaml(client, args.model, path.name, md_text)
@@ -352,18 +367,21 @@ def main():
                     global_processed += 1
                     time.sleep(args.sleep)
             except Exception as exc:
+                status = "error"
                 err_msg = f"{type(exc).__name__}: {exc}"
                 batch_errors += 1
                 global_errors += 1
-                status = "error"
 
-            block_body = yaml_out if yaml_out else f"ERROR: {err_msg or 'Unknown error'}"
+            block_body = yaml_out if yaml_out else redact_secrets(f"ERROR: {err_msg or 'Unknown error'}")
             block = (
                 f"## {global_index:03d} — {path.name}\n\n"
                 f"```yaml\n{block_body}\n```\n\n"
                 f"---\n\n"
             )
+
             with open(out_path, "a", encoding="utf-8") as f:
+                f.write(block)
+            with open(bpath, "a", encoding="utf-8") as f:
                 f.write(block)
 
             print(
@@ -371,59 +389,29 @@ def main():
                 f"(status={status}, processed_this_run={global_processed}, skipped_this_run={global_skipped}, errors_this_run={global_errors})"
             )
 
-            batch_results.append(
-                {
-                    "file": path.name,
-                    "hash": content_hash,
-                    "status": status,
-                    "error": err_msg,
-                    "yaml": yaml_out,
-                }
-            )
+        print(
+            f"[batch {batch_index}/{total_batches}] Wrote batch markdown {bpath} "
+            f"(processed={batch_processed}, skipped={batch_skipped}, errors={batch_errors})"
+        )
 
-        batch_output = {
-            "meta": {
-                "generated_utc": datetime.now(timezone.utc).isoformat(),
-                "input_dir": str(input_dir),
-                "model": args.model,
-                "batch_size": args.batch_size,
-                "cache_path": str(cache_path),
-            },
-            "batch": {
-                "index": batch_index,
-                "total_batches": total_batches,
-                "start_index": start_num,
-                "end_index": end_num,
-                "item_count": len(batch_files),
-                "total_files": total_files,
-            },
-            "stats": {
-                "processed": batch_processed,
-                "skipped_from_cache": batch_skipped,
-                "errors": batch_errors,
-            },
-            "items": batch_results,
-        }
-
-        try:
-            batch_path = unique_batch_path(synthesis_dir, batch_index)
-            batch_path.write_text(json.dumps(batch_output, ensure_ascii=False, indent=2), encoding="utf-8")
+        if args.commit_each_batch:
             try:
-                rel_batch = batch_path.relative_to(Path.cwd())
-            except ValueError:
-                rel_batch = batch_path
-            print(
-                f"[batch {batch_index}/{total_batches}] Wrote batch file {rel_batch} "
-                f"(processed={batch_processed}, skipped={batch_skipped}, errors={batch_errors})"
-            )
-        except Exception as exc:
-            print(f"[batch {batch_index}/{total_batches}] ERROR writing batch output: {exc}", file=sys.stderr)
-            sys.exit(1)
+                git_commit_and_push(
+                    paths=[bpath, out_path, cache_path],
+                    message=f"fingerprints: batch {batch_index:03d} ({start_num}-{end_num} of {total_files})",
+                    remote=args.git_remote,
+                    branch=args.git_branch,
+                )
+                print(f"[batch {batch_index}/{total_batches}] Committed & pushed to {args.git_remote}/{args.git_branch}")
+            except Exception as exc:
+                # Fail loudly: you asked for “never again”. If push fails, stop so you know immediately.
+                print(f"[batch {batch_index}/{total_batches}] ERROR: failed to commit/push batch outputs: {exc}", file=sys.stderr)
+                sys.exit(2)
 
     print("\nDone.")
     print(f"- Combined markdown: {out_path}")
     print(f"- Cache: {cache_path}")
-    print(f"- Synthesis batch outputs: {synthesis_dir}")
+    print(f"- Batch markdown outputs: {synthesis_dir}")
     print(f"- New extractions this run: {global_processed}")
     print(f"- Skipped from cache this run: {global_skipped}")
     print(f"- Errors this run: {global_errors}")
