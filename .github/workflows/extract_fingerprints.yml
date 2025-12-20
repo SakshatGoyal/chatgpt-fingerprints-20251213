@@ -15,9 +15,26 @@ on:
         description: "Branch where batch .md outputs are committed"
         required: true
         default: "fingerprints-output"
+      max_runtime_minutes:
+        description: "Soft runtime limit per run (minutes). Script checkpoints + self-dispatches before timeout."
+        required: true
+        default: "330"
+      checkpoint_buffer_seconds:
+        description: "Safety buffer (seconds) reserved for commit/push/dispatch when nearing max runtime."
+        required: true
+        default: "900"
+      max_files_per_run:
+        description: "Optional hard cap per run (0 = unlimited). Useful if API latency is highly variable."
+        required: true
+        default: "0"
+
+concurrency:
+  group: fingerprints-${{ inputs.output_branch }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   extract:
@@ -49,16 +66,28 @@ jobs:
 
           OUTPUT_BRANCH="${{ inputs.output_branch }}"
 
+          echo "Requested output branch: ${OUTPUT_BRANCH}"
+
           git fetch origin "${OUTPUT_BRANCH}" || true
           if git show-ref --verify --quiet "refs/remotes/origin/${OUTPUT_BRANCH}"; then
             git checkout -B "${OUTPUT_BRANCH}" "origin/${OUTPUT_BRANCH}"
           else
+            # First run: create the output branch from the current workflow ref.
             git checkout -B "${OUTPUT_BRANCH}"
           fi
 
-      - name: Run batch extraction (writes .md per batch + pushes each batch)
+          # If this run was queued behind another one, make sure we have the latest checkpoint.
+          git pull --rebase origin "${OUTPUT_BRANCH}" || true
+
+          echo "Checked out branch: $(git rev-parse --abbrev-ref HEAD)"
+          echo "HEAD: $(git rev-parse HEAD)"
+
+      - name: Run extraction (durable checkpoints + auto-continue)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_WORKFLOW_FILE: extract_fingerprints.yaml
+          PYTHONUNBUFFERED: "1"
         run: |
           set -euo pipefail
 
@@ -74,11 +103,17 @@ jobs:
             --largest \
             --batch-size "${BATCH_SIZE}" \
             --synthesis-dir "${SYNTHESIS_DIR}" \
+            --progress-file "${SYNTHESIS_DIR}/progress.json" \
             --model "${MODEL}" \
             --out "${SYNTHESIS_DIR}/fingerprints_full.md" \
             --cache .fingerprint_cache.json \
             --commit-each-batch \
-            --git-branch "${OUTPUT_BRANCH}"
+            --git-branch "${OUTPUT_BRANCH}" \
+            --max-runtime-minutes "${{ inputs.max_runtime_minutes }}" \
+            --checkpoint-buffer-seconds "${{ inputs.checkpoint_buffer_seconds }}" \
+            --max-files-per-run "${{ inputs.max_files_per_run }}" \
+            --auto-continue \
+            --workflow-file "extract_fingerprints.yaml"
 
       - name: Upload results (backup)
         if: always()
@@ -89,4 +124,5 @@ jobs:
           if-no-files-found: warn
           path: |
             synthesis/*.md
+            synthesis/progress.json
             .fingerprint_cache.json
