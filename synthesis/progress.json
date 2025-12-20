@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "created_utc": "2025-12-20T07:43:19.590137+00:00",
-  "updated_utc": "2025-12-20T08:49:02.126218+00:00",
+  "updated_utc": "2025-12-20T08:49:16.109310+00:00",
   "input_dir": "/home/runner/work/chatgpt-fingerprints-20251213/chatgpt-fingerprints-20251213/output",
   "largest": true,
   "limit": 0,
@@ -11,11 +11,11 @@
   "total_batches": 17,
   "manifest_sha": "1038b414652f957502e979e26c6f50f16ed242d0d72748f05473607e29f2ae13",
   "git_branch": "fingerprints-output",
-  "next_file_index": 600,
-  "next_file_number": 601,
-  "next_file_name": "2025-08-17T06-48-41Z__000383__Research_plan_execution.md",
+  "next_file_index": 700,
+  "next_file_number": 701,
+  "next_file_name": "2025-03-11T05-26-18Z__001611__SF_Psychiatrist_Search_Assistance.md",
   "completed": false,
-  "last_commit_sha": "4ade58a834abe46b513ce8c71b8389e505ba4454",
+  "last_commit_sha": "6d9f130f934ef3f4959dac89ba28118a6bda235c",
   "github": {
     "repository": "SakshatGoyal/chatgpt-fingerprints-20251213",
     "run_id": "20391992190",
@@ -25,13 +25,13 @@
   },
   "last_checkpoint": {
     "reason": "end_of_batch",
-    "timestamp_utc": "2025-12-20T08:49:02.126218+00:00",
-    "batch_index": 6,
+    "timestamp_utc": "2025-12-20T08:49:16.109310+00:00",
+    "batch_index": 7,
     "batch_range": [
-      501,
-      600
+      601,
+      700
     ],
-    "next_file_index": 600,
-    "next_file_name": "2025-08-17T06-48-41Z__000383__Research_plan_execution.md"
+    "next_file_index": 700,
+    "next_file_name": "2025-03-11T05-26-18Z__001611__SF_Psychiatrist_Search_Assistance.md"
   }
 }
