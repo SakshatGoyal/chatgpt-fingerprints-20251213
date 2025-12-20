@@ -2898,5 +2898,805 @@
     "model": "gpt-o3",
     "created_utc": "2025-12-20T08:48:34.429875+00:00",
     "status": "error"
+  },
+  "2025-03-24T00-56-46Z__001398__Executive_Decision-Making_Insights.md:d2a0f679eff0ee3bedbc18548497ec84b854ca7da6ea728c7f051b23cad2800f": {
+    "file": "2025-03-24T00-56-46Z__001398__Executive_Decision-Making_Insights.md",
+    "hash": "d2a0f679eff0ee3bedbc18548497ec84b854ca7da6ea728c7f051b23cad2800f",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:35.239223+00:00",
+    "status": "error"
+  },
+  "2025-06-30T13-39-23Z__000626__CXO_Engagement_Dashboard_Insights.md:0790f59a7f1694aeda7593050dddcbda86bba580512afb633cf39eb3694f0963": {
+    "file": "2025-06-30T13-39-23Z__000626__CXO_Engagement_Dashboard_Insights.md",
+    "hash": "0790f59a7f1694aeda7593050dddcbda86bba580512afb633cf39eb3694f0963",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:35.362178+00:00",
+    "status": "error"
+  },
+  "2025-03-24T01-21-09Z__001394__Executive_Strategy_Insights.md:77a9eaa3f19321d873663c2eb5688e9ab378f7b2d2b8f3350ac747d69c034b08": {
+    "file": "2025-03-24T01-21-09Z__001394__Executive_Strategy_Insights.md",
+    "hash": "77a9eaa3f19321d873663c2eb5688e9ab378f7b2d2b8f3350ac747d69c034b08",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:35.495326+00:00",
+    "status": "error"
+  },
+  "2025-03-23T23-23-12Z__001421__Executive_Forecasting_Insights.md:26d0731c30fd618969c345db13d324d9a5c5159d6222e728ba286af4017d43ee": {
+    "file": "2025-03-23T23-23-12Z__001421__Executive_Forecasting_Insights.md",
+    "hash": "26d0731c30fd618969c345db13d324d9a5c5159d6222e728ba286af4017d43ee",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:35.626141+00:00",
+    "status": "error"
+  },
+  "2025-03-23T22-15-07Z__001436__Cyber_Risk_Data_Insights.md:373adfcbaa7d394d1ee6fd8925130c0e67ac84d32e55db84b3b54c5a0e58867c": {
+    "file": "2025-03-23T22-15-07Z__001436__Cyber_Risk_Data_Insights.md",
+    "hash": "373adfcbaa7d394d1ee6fd8925130c0e67ac84d32e55db84b3b54c5a0e58867c",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:35.756885+00:00",
+    "status": "error"
+  },
+  "2025-03-30T07-18-37Z__001242__Module_Tagging_and_Analysis.md:4c92a3bfdc0f7c7e6a426388feff899328d33bed86ea8d43c32cef8d94c817cb": {
+    "file": "2025-03-30T07-18-37Z__001242__Module_Tagging_and_Analysis.md",
+    "hash": "4c92a3bfdc0f7c7e6a426388feff899328d33bed86ea8d43c32cef8d94c817cb",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:35.864486+00:00",
+    "status": "error"
+  },
+  "2025-08-21T15-00-39Z__000369__Machiavelli_GPT_strategy.md:161d9b5a2738fb644337d1aa7291ad58f4d52065f6b7c71132daee11eb9c9510": {
+    "file": "2025-08-21T15-00-39Z__000369__Machiavelli_GPT_strategy.md",
+    "hash": "161d9b5a2738fb644337d1aa7291ad58f4d52065f6b7c71132daee11eb9c9510",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:35.977324+00:00",
+    "status": "error"
+  },
+  "2025-04-06T05-50-22Z__001174__Svelte_Sankey_Flow_Visualization.md:92e99acf85feda1dbdee4d88de1d13a3eeb3e67c30de66d0ea1d979bea34e9b5": {
+    "file": "2025-04-06T05-50-22Z__001174__Svelte_Sankey_Flow_Visualization.md",
+    "hash": "92e99acf85feda1dbdee4d88de1d13a3eeb3e67c30de66d0ea1d979bea34e9b5",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:36.116779+00:00",
+    "status": "error"
+  },
+  "2025-03-24T01-29-01Z__001393__Strategic_Resilience_in_Auto_Industry.md:f8abfcfc0a876d2bd99ea6ba0279e39e581ed9f3d07abe47d3bef06b2a085511": {
+    "file": "2025-03-24T01-29-01Z__001393__Strategic_Resilience_in_Auto_Industry.md",
+    "hash": "f8abfcfc0a876d2bd99ea6ba0279e39e581ed9f3d07abe47d3bef06b2a085511",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:36.244798+00:00",
+    "status": "error"
+  },
+  "2025-03-23T20-41-26Z__001460__Digital_Transformation_Insights.md:18f72e8f2a94c7d5f713e62c2d454a5ec98092954d6f06582f3b5fea7d739780": {
+    "file": "2025-03-23T20-41-26Z__001460__Digital_Transformation_Insights.md",
+    "hash": "18f72e8f2a94c7d5f713e62c2d454a5ec98092954d6f06582f3b5fea7d739780",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:36.362597+00:00",
+    "status": "error"
+  },
+  "2025-03-24T02-19-55Z__001380__Executive_Decision-making_Insights.md:81b1b4ccd56cc5d3acd726151d0ee29b925c4b1425cbbbcf449969c3ad8b8482": {
+    "file": "2025-03-24T02-19-55Z__001380__Executive_Decision-making_Insights.md",
+    "hash": "81b1b4ccd56cc5d3acd726151d0ee29b925c4b1425cbbbcf449969c3ad8b8482",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:36.497497+00:00",
+    "status": "error"
+  },
+  "2025-03-24T19-47-29Z__001373__c1_i7.md:80db8a5079685b65b205edb7446b6d9463277c6be64c9f09ac2ace97b34bdd83": {
+    "file": "2025-03-24T19-47-29Z__001373__c1_i7.md",
+    "hash": "80db8a5079685b65b205edb7446b6d9463277c6be64c9f09ac2ace97b34bdd83",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:36.631769+00:00",
+    "status": "error"
+  },
+  "2025-03-24T00-59-39Z__000653__Executive_Decision-Making_Insights.md:dbcd8f7d4e621cb37f1f30d3ca600b01b9287fd1e8af9ea0b7fcef64e4bc4a4f": {
+    "file": "2025-03-24T00-59-39Z__000653__Executive_Decision-Making_Insights.md",
+    "hash": "dbcd8f7d4e621cb37f1f30d3ca600b01b9287fd1e8af9ea0b7fcef64e4bc4a4f",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:36.757248+00:00",
+    "status": "error"
+  },
+  "2025-03-24T00-10-51Z__001411__Leadership_in_Healthcare_Settings.md:c2a744af4068727d9a704a84aee17c4e75fa2720de8f5ca99284ca45819aee1b": {
+    "file": "2025-03-24T00-10-51Z__001411__Leadership_in_Healthcare_Settings.md",
+    "hash": "c2a744af4068727d9a704a84aee17c4e75fa2720de8f5ca99284ca45819aee1b",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:36.909983+00:00",
+    "status": "error"
+  },
+  "2025-03-23T21-52-47Z__001444__Business_Strategy_Insights.md:8a65eafcdcf9f4bddc44360969ded2994535986f623fffe9fc0c73a2d2253ea5": {
+    "file": "2025-03-23T21-52-47Z__001444__Business_Strategy_Insights.md",
+    "hash": "8a65eafcdcf9f4bddc44360969ded2994535986f623fffe9fc0c73a2d2253ea5",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:37.040840+00:00",
+    "status": "error"
+  },
+  "2025-10-02T18-26-49Z__000230__User_frustration_with_partial_AI.md:13e52d89c9c33193e62ec323459ba1bc60cfa7189404e1fac277ab02bcaa9ff5": {
+    "file": "2025-10-02T18-26-49Z__000230__User_frustration_with_partial_AI.md",
+    "hash": "13e52d89c9c33193e62ec323459ba1bc60cfa7189404e1fac277ab02bcaa9ff5",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:37.157805+00:00",
+    "status": "error"
+  },
+  "2025-03-23T23-44-57Z__001415__Retail_Strategy_Insights.md:62aac84ed1dddb8e4201dee09e1c49598c2de80c616f1b5eb1cbcaeb80824650": {
+    "file": "2025-03-23T23-44-57Z__001415__Retail_Strategy_Insights.md",
+    "hash": "62aac84ed1dddb8e4201dee09e1c49598c2de80c616f1b5eb1cbcaeb80824650",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:37.289167+00:00",
+    "status": "error"
+  },
+  "2025-03-23T06-04-46Z__001545__Cognitive_Innovation_Management_Insights.md:4bd08c20a619ef22f3e429535ede3058fecfd5be850f110fa2fdaa27ecde5411": {
+    "file": "2025-03-23T06-04-46Z__001545__Cognitive_Innovation_Management_Insights.md",
+    "hash": "4bd08c20a619ef22f3e429535ede3058fecfd5be850f110fa2fdaa27ecde5411",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:37.409417+00:00",
+    "status": "error"
+  },
+  "2025-03-23T21-02-38Z__001455__AI_Decision-Making_Ethics.md:179c2bf7a861d275a04d31e9a5428c0315786d69b58eb972a5aefc2e239892ff": {
+    "file": "2025-03-23T21-02-38Z__001455__AI_Decision-Making_Ethics.md",
+    "hash": "179c2bf7a861d275a04d31e9a5428c0315786d69b58eb972a5aefc2e239892ff",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:37.533192+00:00",
+    "status": "error"
+  },
+  "2025-11-28T16-25-19Z__000071__Desktop_recommendation_questions.md:3df151724d37925aadbc6cef8a93bde56d3ad4b86851cbf78508ffca6f7d2e09": {
+    "file": "2025-11-28T16-25-19Z__000071__Desktop_recommendation_questions.md",
+    "hash": "3df151724d37925aadbc6cef8a93bde56d3ad4b86851cbf78508ffca6f7d2e09",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:37.671588+00:00",
+    "status": "error"
+  },
+  "2025-03-24T01-49-17Z__001388__Executive_Decision-Making_Insights.md:f2c2e9b934cf8ae3db81070a988d3d6a8927ef335c66ad05aa9182097353ec4c": {
+    "file": "2025-03-24T01-49-17Z__001388__Executive_Decision-Making_Insights.md",
+    "hash": "f2c2e9b934cf8ae3db81070a988d3d6a8927ef335c66ad05aa9182097353ec4c",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:37.812759+00:00",
+    "status": "error"
+  },
+  "2025-10-07T01-58-18Z__000220__Claudia_s_first-person_record.md:bdb131780f3f9dced7534a26ab33d3f4833b4197a8259d20252f1ff4985c04db": {
+    "file": "2025-10-07T01-58-18Z__000220__Claudia_s_first-person_record.md",
+    "hash": "bdb131780f3f9dced7534a26ab33d3f4833b4197a8259d20252f1ff4985c04db",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:37.944072+00:00",
+    "status": "error"
+  },
+  "2025-03-23T07-40-13Z__001521__R_D_Investment_Strategy_Insights.md:8a5bfa82594167b6c60913fe1c1b062e4a223e109d74bcb01ccf696d990db804": {
+    "file": "2025-03-23T07-40-13Z__001521__R_D_Investment_Strategy_Insights.md",
+    "hash": "8a5bfa82594167b6c60913fe1c1b062e4a223e109d74bcb01ccf696d990db804",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:38.102447+00:00",
+    "status": "error"
+  },
+  "2025-03-23T08-25-16Z__001509__AI_in_Leadership_Development.md:3c531541091f04582af34cb7d5646247f28ef2aae59b842fc0cc9a7cdeeb2ff7": {
+    "file": "2025-03-23T08-25-16Z__001509__AI_in_Leadership_Development.md",
+    "hash": "3c531541091f04582af34cb7d5646247f28ef2aae59b842fc0cc9a7cdeeb2ff7",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:38.251300+00:00",
+    "status": "error"
+  },
+  "2025-03-27T02-11-59Z__001297__Categorical_Module_Evaluation.md:93762a6b23a9a307f4f5cf284b3793a813082f1c35615ed6ba9eccc30d5d9dce": {
+    "file": "2025-03-27T02-11-59Z__001297__Categorical_Module_Evaluation.md",
+    "hash": "93762a6b23a9a307f4f5cf284b3793a813082f1c35615ed6ba9eccc30d5d9dce",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:38.389500+00:00",
+    "status": "error"
+  },
+  "2025-03-24T00-16-06Z__001409__Executive_Decision-Making_Insights.md:d5bc3090de7f2c6336abf697bf4f60456dce465501e6c5a94847ebf23177928a": {
+    "file": "2025-03-24T00-16-06Z__001409__Executive_Decision-Making_Insights.md",
+    "hash": "d5bc3090de7f2c6336abf697bf4f60456dce465501e6c5a94847ebf23177928a",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:38.502862+00:00",
+    "status": "error"
+  },
+  "2025-03-24T00-21-47Z__001407__Trust-Based_Supply_Chain_Decisions.md:2e430ded9588002e00c6bfa2788c272014d60c604b9337e556b304804b17f3c4": {
+    "file": "2025-03-24T00-21-47Z__001407__Trust-Based_Supply_Chain_Decisions.md",
+    "hash": "2e430ded9588002e00c6bfa2788c272014d60c604b9337e556b304804b17f3c4",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:38.620672+00:00",
+    "status": "error"
+  },
+  "2025-03-23T08-11-48Z__001513__AI_Adoption_Insights.md:e43d8a1377d897b4ec05d35802dda9595121d8dcfa2624342625f816f82eab0c": {
+    "file": "2025-03-23T08-11-48Z__001513__AI_Adoption_Insights.md",
+    "hash": "e43d8a1377d897b4ec05d35802dda9595121d8dcfa2624342625f816f82eab0c",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:38.742686+00:00",
+    "status": "error"
+  },
+  "2025-03-23T10-04-59Z__001484__Insight_Stress_Testing.md:a49858d6d1e63a75b454659877b79bcf614e146bd077571299782c05f5ff91ad": {
+    "file": "2025-03-23T10-04-59Z__001484__Insight_Stress_Testing.md",
+    "hash": "a49858d6d1e63a75b454659877b79bcf614e146bd077571299782c05f5ff91ad",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:38.890829+00:00",
+    "status": "error"
+  },
+  "2025-11-22T19-12-48Z__000094__Treatment_plan_evaluation.md:294e91dd9af173567faae3f30f84063bca72e9e1fac22874cb681e63b1d2fc4a": {
+    "file": "2025-11-22T19-12-48Z__000094__Treatment_plan_evaluation.md",
+    "hash": "294e91dd9af173567faae3f30f84063bca72e9e1fac22874cb681e63b1d2fc4a",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:39.006059+00:00",
+    "status": "error"
+  },
+  "2025-03-30T18-23-05Z__001227__Business_Strategy_Data.md:2c7964d4ad9adbb24ebb23fdc15818b022447d39c41c69a7f94f0e122f2d34a9": {
+    "file": "2025-03-30T18-23-05Z__001227__Business_Strategy_Data.md",
+    "hash": "2c7964d4ad9adbb24ebb23fdc15818b022447d39c41c69a7f94f0e122f2d34a9",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:39.133952+00:00",
+    "status": "error"
+  },
+  "2025-03-24T11-13-51Z__001359__c5_i4.md:78e67b9eb81b7bd21fd1122456443beb40afd8b16fde97beac8377625c228fb1": {
+    "file": "2025-03-24T11-13-51Z__001359__c5_i4.md",
+    "hash": "78e67b9eb81b7bd21fd1122456443beb40afd8b16fde97beac8377625c228fb1",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:39.261057+00:00",
+    "status": "error"
+  },
+  "2025-03-28T09-33-34Z__001276__Instruction_Set_Rewrite.md:b27d255e3c628386717c31fa9833c2b515ce5cc2a2580b21e203c8d97338f969": {
+    "file": "2025-03-28T09-33-34Z__001276__Instruction_Set_Rewrite.md",
+    "hash": "b27d255e3c628386717c31fa9833c2b515ce5cc2a2580b21e203c8d97338f969",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:39.405073+00:00",
+    "status": "error"
+  },
+  "2025-03-23T20-48-47Z__001458__Stress_Testing_Insights.md:8af73cf063dcf928adfc34b8e2e93163670fde88a308e14e18f91914a46b57e1": {
+    "file": "2025-03-23T20-48-47Z__001458__Stress_Testing_Insights.md",
+    "hash": "8af73cf063dcf928adfc34b8e2e93163670fde88a308e14e18f91914a46b57e1",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:39.518885+00:00",
+    "status": "error"
+  },
+  "2025-04-22T10-22-34Z__000893__Design_Principles_for_AI.md:b0eae8f76d83af318503c720b9e95842f0761d1000d6ce19dc3512309c9941af": {
+    "file": "2025-04-22T10-22-34Z__000893__Design_Principles_for_AI.md",
+    "hash": "b0eae8f76d83af318503c720b9e95842f0761d1000d6ce19dc3512309c9941af",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:39.660773+00:00",
+    "status": "error"
+  },
+  "2025-03-23T23-33-11Z__001418__Executive_Decision-Making_Insights.md:184098dcaf217d6fd9c87859cc6960f14239f3ca188663bb9c10f76803ff41fb": {
+    "file": "2025-03-23T23-33-11Z__001418__Executive_Decision-Making_Insights.md",
+    "hash": "184098dcaf217d6fd9c87859cc6960f14239f3ca188663bb9c10f76803ff41fb",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:39.937732+00:00",
+    "status": "error"
+  },
+  "2025-07-19T21-44-25Z__000492__Mind_Games_and_Seduction.md:ad7913c37c4ce96c6c8288fd98b7ec0b51531786c7779ce8e2c906cbd82545fa": {
+    "file": "2025-07-19T21-44-25Z__000492__Mind_Games_and_Seduction.md",
+    "hash": "ad7913c37c4ce96c6c8288fd98b7ec0b51531786c7779ce8e2c906cbd82545fa",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:40.068867+00:00",
+    "status": "error"
+  },
+  "2025-09-04T11-53-05Z__000271__Persona_instructions.md:d425019408bcafecf6e4d6f46d02faa410607d1850e354b4f175aca90c230349": {
+    "file": "2025-09-04T11-53-05Z__000271__Persona_instructions.md",
+    "hash": "d425019408bcafecf6e4d6f46d02faa410607d1850e354b4f175aca90c230349",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:40.191395+00:00",
+    "status": "error"
+  },
+  "2025-03-24T00-13-38Z__001410__Executive_Supply_Chain_Insights.md:3281d74113743437568d85f7a4c320e0a7a681010ba357a22b8a6643ff235568": {
+    "file": "2025-03-24T00-13-38Z__001410__Executive_Supply_Chain_Insights.md",
+    "hash": "3281d74113743437568d85f7a4c320e0a7a681010ba357a22b8a6643ff235568",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:40.323790+00:00",
+    "status": "error"
+  },
+  "2025-03-23T21-49-22Z__001437__Six_Sigma_DEA_Insights.md:e5332c9eb394f202f489408ec7a01e4ca1fdd4ef6ee889662446b8ad92ce2ae4": {
+    "file": "2025-03-23T21-49-22Z__001437__Six_Sigma_DEA_Insights.md",
+    "hash": "e5332c9eb394f202f489408ec7a01e4ca1fdd4ef6ee889662446b8ad92ce2ae4",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:40.469549+00:00",
+    "status": "error"
+  },
+  "2025-03-13T06-18-55Z__001590__Online_Research_Strategy_Guidance.md:f7234ee7143b29146c64252c20429ecc15d347caab575328bdf4a9078520561d": {
+    "file": "2025-03-13T06-18-55Z__001590__Online_Research_Strategy_Guidance.md",
+    "hash": "f7234ee7143b29146c64252c20429ecc15d347caab575328bdf4a9078520561d",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:40.605485+00:00",
+    "status": "error"
+  },
+  "2025-03-23T07-52-17Z__001518__Luxury_Brands_Digital_Scarcity.md:d2352139360a898bf9a50bf1b8ff9939a3e12857a1d03e2587f6607a3312baa7": {
+    "file": "2025-03-23T07-52-17Z__001518__Luxury_Brands_Digital_Scarcity.md",
+    "hash": "d2352139360a898bf9a50bf1b8ff9939a3e12857a1d03e2587f6607a3312baa7",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:40.727487+00:00",
+    "status": "error"
+  },
+  "2025-03-23T20-20-24Z__001466__Executive_Insights_on_Data.md:b62816ee3e92a1b9a2fb7f89accb79fe9bad783c5ee169eed16fb8d7c1dac0c2": {
+    "file": "2025-03-23T20-20-24Z__001466__Executive_Insights_on_Data.md",
+    "hash": "b62816ee3e92a1b9a2fb7f89accb79fe9bad783c5ee169eed16fb8d7c1dac0c2",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:40.870998+00:00",
+    "status": "error"
+  },
+  "2025-03-23T23-59-53Z__001413__Executive_Decision-Making_Insights.md:e894eb2e7a4e5f4a3e7b1ce7e0cbeea783051d6db2a7c51d1a59a445525d64c4": {
+    "file": "2025-03-23T23-59-53Z__001413__Executive_Decision-Making_Insights.md",
+    "hash": "e894eb2e7a4e5f4a3e7b1ce7e0cbeea783051d6db2a7c51d1a59a445525d64c4",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:41.016955+00:00",
+    "status": "error"
+  },
+  "2025-03-23T08-40-28Z__001505__AI-First_Leadership_Strategy.md:98aa6b625922e39863b322e78011f24abe87fc8547aac1dbcc50dd5e3b61b585": {
+    "file": "2025-03-23T08-40-28Z__001505__AI-First_Leadership_Strategy.md",
+    "hash": "98aa6b625922e39863b322e78011f24abe87fc8547aac1dbcc50dd5e3b61b585",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:41.150573+00:00",
+    "status": "error"
+  },
+  "2025-03-23T19-55-23Z__001472__AI_CRM_Insights.md:69e669cc0eb8efc0d2c4ca3af9d9d374796918d92aea7bb117b66ffac6923c31": {
+    "file": "2025-03-23T19-55-23Z__001472__AI_CRM_Insights.md",
+    "hash": "69e669cc0eb8efc0d2c4ca3af9d9d374796918d92aea7bb117b66ffac6923c31",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:41.274620+00:00",
+    "status": "error"
+  },
+  "2025-03-23T23-16-33Z__001423__Insight_Evaluation_and_Critique.md:b84c98d6b002c36f67d89523f79f99d44b55153675d3fcb9867f9863c5e555fa": {
+    "file": "2025-03-23T23-16-33Z__001423__Insight_Evaluation_and_Critique.md",
+    "hash": "b84c98d6b002c36f67d89523f79f99d44b55153675d3fcb9867f9863c5e555fa",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:41.410574+00:00",
+    "status": "error"
+  },
+  "2025-09-28T00-58-27Z__000223__Machiavelli_on_guilt.md:6eab6d38fb9e1db83c8a40065a03464b0369e95539cdb42efd7c531573f3be31": {
+    "file": "2025-09-28T00-58-27Z__000223__Machiavelli_on_guilt.md",
+    "hash": "6eab6d38fb9e1db83c8a40065a03464b0369e95539cdb42efd7c531573f3be31",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:41.575638+00:00",
+    "status": "error"
+  },
+  "2025-03-23T09-37-41Z__001490__EV_Supply_Chain_Insights.md:39145e563321a2228d33673e25aec418bfa8282dba11298faaaa7f33d095636c": {
+    "file": "2025-03-23T09-37-41Z__001490__EV_Supply_Chain_Insights.md",
+    "hash": "39145e563321a2228d33673e25aec418bfa8282dba11298faaaa7f33d095636c",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:41.689875+00:00",
+    "status": "error"
+  },
+  "2025-03-24T11-03-15Z__001348__c5_i2.md:171d77e48a70273cd2cc0ded9f8721eb560cb9330cc79d1bd49d77a0f923af8e": {
+    "file": "2025-03-24T11-03-15Z__001348__c5_i2.md",
+    "hash": "171d77e48a70273cd2cc0ded9f8721eb560cb9330cc79d1bd49d77a0f923af8e",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:41.831702+00:00",
+    "status": "error"
+  },
+  "2025-07-12T16-34-59Z__000617__Prof_Judy_Fan_Talk_Summary.md:9e36a7b946abb4fc68e76740fa82dadb7bfe217b3e83f6003307aaa3b36b52e5": {
+    "file": "2025-07-12T16-34-59Z__000617__Prof_Judy_Fan_Talk_Summary.md",
+    "hash": "9e36a7b946abb4fc68e76740fa82dadb7bfe217b3e83f6003307aaa3b36b52e5",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:41.973944+00:00",
+    "status": "error"
+  },
+  "2025-04-03T08-11-47Z__001190__Business-Level_Strategy_Insights.md:38c6be8ff2c80e0bcbb47229cf19142f35fd2f0c894a3cea76d590cf70c20218": {
+    "file": "2025-04-03T08-11-47Z__001190__Business-Level_Strategy_Insights.md",
+    "hash": "38c6be8ff2c80e0bcbb47229cf19142f35fd2f0c894a3cea76d590cf70c20218",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:42.118831+00:00",
+    "status": "error"
+  },
+  "2025-03-23T08-07-22Z__001514__Executive_Insights_on_Connected_Cars.md:251772b9c66ece7e6a84dda3d464137bb0c5be46b8f1f8c760e2adf0ce0cc4e6": {
+    "file": "2025-03-23T08-07-22Z__001514__Executive_Insights_on_Connected_Cars.md",
+    "hash": "251772b9c66ece7e6a84dda3d464137bb0c5be46b8f1f8c760e2adf0ce0cc4e6",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:42.268073+00:00",
+    "status": "error"
+  },
+  "2025-01-13T15-26-02Z__001619__Kaiser_Plan_Comparison.md:0aa8e4993dde89195146e14edf44dc236f39feabe8bf8cedd2df79420b498294": {
+    "file": "2025-01-13T15-26-02Z__001619__Kaiser_Plan_Comparison.md",
+    "hash": "0aa8e4993dde89195146e14edf44dc236f39feabe8bf8cedd2df79420b498294",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:42.384705+00:00",
+    "status": "error"
+  },
+  "2025-03-23T21-18-32Z__001451__Legal_Automation_Strategy_Insights.md:daae7d9767bd3d6392ff8af359af04e21f10f93b2c986a9f5d1d08681d444aff": {
+    "file": "2025-03-23T21-18-32Z__001451__Legal_Automation_Strategy_Insights.md",
+    "hash": "daae7d9767bd3d6392ff8af359af04e21f10f93b2c986a9f5d1d08681d444aff",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:42.524085+00:00",
+    "status": "error"
+  },
+  "2025-03-23T19-24-57Z__001479__Executive_Decision-Making_Insights.md:d1bff94827386919469bc4211db5ac35ddb8ef36bfe7b549c1ba4f03f3d99de9": {
+    "file": "2025-03-23T19-24-57Z__001479__Executive_Decision-Making_Insights.md",
+    "hash": "d1bff94827386919469bc4211db5ac35ddb8ef36bfe7b549c1ba4f03f3d99de9",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:42.649817+00:00",
+    "status": "error"
+  },
+  "2025-03-23T08-50-43Z__001502__AI_Human_Decision-Making_Integration.md:966f4e5abbc019ff2606c766f13897aa9e5162ac9a7dc5f07bf3afb0ed8e2a85": {
+    "file": "2025-03-23T08-50-43Z__001502__AI_Human_Decision-Making_Integration.md",
+    "hash": "966f4e5abbc019ff2606c766f13897aa9e5162ac9a7dc5f07bf3afb0ed8e2a85",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:42.791061+00:00",
+    "status": "error"
+  },
+  "2025-03-23T08-47-29Z__001503__AI_in_Startup_Decision-Making.md:e6c68dc04871c34b8af8ca7a034d04cbdafb3743ec6300a6a5963ab847a1e4e9": {
+    "file": "2025-03-23T08-47-29Z__001503__AI_in_Startup_Decision-Making.md",
+    "hash": "e6c68dc04871c34b8af8ca7a034d04cbdafb3743ec6300a6a5963ab847a1e4e9",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:42.906059+00:00",
+    "status": "error"
+  },
+  "2025-03-23T07-34-31Z__001523__Insight_Stress_Testing.md:b8d653c27b2ef651bb68b2aa417d672fce743cc16e9d14b126d54593bfeac4d8": {
+    "file": "2025-03-23T07-34-31Z__001523__Insight_Stress_Testing.md",
+    "hash": "b8d653c27b2ef651bb68b2aa417d672fce743cc16e9d14b126d54593bfeac4d8",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:43.024134+00:00",
+    "status": "error"
+  },
+  "2025-03-23T09-55-28Z__001486__Executive_Decision-Making_Insights.md:b3468119ff9b7720c5fae463b4d0d4778dea1757851c660bf9c96408829aa5da": {
+    "file": "2025-03-23T09-55-28Z__001486__Executive_Decision-Making_Insights.md",
+    "hash": "b3468119ff9b7720c5fae463b4d0d4778dea1757851c660bf9c96408829aa5da",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:43.150535+00:00",
+    "status": "error"
+  },
+  "2025-11-17T20-23-14Z__000112__Medication_history_analysis.md:42afa4f8c1c02ae15b866ae45ed7ed3fc06d75d02841da50bf48e539dad1cf12": {
+    "file": "2025-11-17T20-23-14Z__000112__Medication_history_analysis.md",
+    "hash": "42afa4f8c1c02ae15b866ae45ed7ed3fc06d75d02841da50bf48e539dad1cf12",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:43.255054+00:00",
+    "status": "error"
+  },
+  "2025-04-13T02-49-20Z__001038__Veg_Burger_SF_DoorDash.md:8aa32a0f230c834eb782beb67323080b3b818de077bdd4b3419076e4f676d154": {
+    "file": "2025-04-13T02-49-20Z__001038__Veg_Burger_SF_DoorDash.md",
+    "hash": "8aa32a0f230c834eb782beb67323080b3b818de077bdd4b3419076e4f676d154",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:43.371968+00:00",
+    "status": "error"
+  },
+  "2025-08-26T23-23-45Z__000328__DSM_cockpit_review.md:556961473ab1f6db700699e41109429ca3c7441d28af78c6159795840bd46480": {
+    "file": "2025-08-26T23-23-45Z__000328__DSM_cockpit_review.md",
+    "hash": "556961473ab1f6db700699e41109429ca3c7441d28af78c6159795840bd46480",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:43.504978+00:00",
+    "status": "error"
+  },
+  "2025-03-23T22-28-59Z__001433__Cultural_Challenges_in_Leadership.md:b04157411a13df8ff65573753b2d526e3342498428c6f71f94449baac2a3b3bb": {
+    "file": "2025-03-23T22-28-59Z__001433__Cultural_Challenges_in_Leadership.md",
+    "hash": "b04157411a13df8ff65573753b2d526e3342498428c6f71f94449baac2a3b3bb",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:43.635213+00:00",
+    "status": "error"
+  },
+  "2025-03-24T06-57-25Z__001355__C2-I1.md:2eb4b7a9459dfae34c998d9ad865a4715a3bd52bf11b7c384d49ed1398fd2c51": {
+    "file": "2025-03-24T06-57-25Z__001355__C2-I1.md",
+    "hash": "2eb4b7a9459dfae34c998d9ad865a4715a3bd52bf11b7c384d49ed1398fd2c51",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:43.758729+00:00",
+    "status": "error"
+  },
+  "2025-03-24T00-53-37Z__001399__Executive_Decision-Making_Biases.md:2bb375fc51a048911c2a2718ac8c6add890ad7fef660f6236e95113ab8d61ad3": {
+    "file": "2025-03-24T00-53-37Z__001399__Executive_Decision-Making_Biases.md",
+    "hash": "2bb375fc51a048911c2a2718ac8c6add890ad7fef660f6236e95113ab8d61ad3",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:43.870442+00:00",
+    "status": "error"
+  },
+  "2025-03-23T06-56-41Z__001533__Executive_Strategy_Insights.md:c2e33d91802ad8491bd6f4dcdba6a262046bc3ff9d41a0b35577716750023d33": {
+    "file": "2025-03-23T06-56-41Z__001533__Executive_Strategy_Insights.md",
+    "hash": "c2e33d91802ad8491bd6f4dcdba6a262046bc3ff9d41a0b35577716750023d33",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:44.000310+00:00",
+    "status": "error"
+  },
+  "2025-03-23T09-11-26Z__001497__Insight_Stress_Testing.md:1533001f9246b96ef3d95a7aa1a005ffed5e30d677399b71a9e4d3192c883fad": {
+    "file": "2025-03-23T09-11-26Z__001497__Insight_Stress_Testing.md",
+    "hash": "1533001f9246b96ef3d95a7aa1a005ffed5e30d677399b71a9e4d3192c883fad",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:44.127077+00:00",
+    "status": "error"
+  },
+  "2025-03-23T07-03-15Z__001531__Cloud_Transformation_Insights.md:50630a8c0e93470fbceea33c0fa8200b4ed443fba06552c38a7cbe533555d017": {
+    "file": "2025-03-23T07-03-15Z__001531__Cloud_Transformation_Insights.md",
+    "hash": "50630a8c0e93470fbceea33c0fa8200b4ed443fba06552c38a7cbe533555d017",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:44.263747+00:00",
+    "status": "error"
+  },
+  "2025-03-23T21-41-46Z__001446__AI_Adoption_Insights.md:acf6c76d286f46f112c3be541de37a19fc69b6579c00351e77ad8723e6264077": {
+    "file": "2025-03-23T21-41-46Z__001446__AI_Adoption_Insights.md",
+    "hash": "acf6c76d286f46f112c3be541de37a19fc69b6579c00351e77ad8723e6264077",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:44.410926+00:00",
+    "status": "error"
+  },
+  "2025-03-23T07-06-03Z__001530__Executive_Decision-Making_Insights.md:bf0824860f0de9b3da9b8dae0f9a3189af3d141d83b07a62a702feba69092d74": {
+    "file": "2025-03-23T07-06-03Z__001530__Executive_Decision-Making_Insights.md",
+    "hash": "bf0824860f0de9b3da9b8dae0f9a3189af3d141d83b07a62a702feba69092d74",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:44.537138+00:00",
+    "status": "error"
+  },
+  "2025-03-23T08-17-57Z__001511__AI_in_Strategic_Decisions.md:71e56becbb84435f6593300eec411b21ab0d7854b0213df23938e0d183af5882": {
+    "file": "2025-03-23T08-17-57Z__001511__AI_in_Strategic_Decisions.md",
+    "hash": "71e56becbb84435f6593300eec411b21ab0d7854b0213df23938e0d183af5882",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:44.646641+00:00",
+    "status": "error"
+  },
+  "2025-03-24T00-38-45Z__001403__Corporate_Governance_Insights.md:50245fc6fc4527d54e119c600a0dd0c76f80bfce3ef7df94f6c0ec7386c4f9bd": {
+    "file": "2025-03-24T00-38-45Z__001403__Corporate_Governance_Insights.md",
+    "hash": "50245fc6fc4527d54e119c600a0dd0c76f80bfce3ef7df94f6c0ec7386c4f9bd",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:44.769841+00:00",
+    "status": "error"
+  },
+  "2025-02-20T19-48-10Z__001630__Executive_Decision-Making_Questions.md:ca8defe30d16ccd3e2bb586128d2daa3276c4db5f90cef745f3231cca18273e1": {
+    "file": "2025-02-20T19-48-10Z__001630__Executive_Decision-Making_Questions.md",
+    "hash": "ca8defe30d16ccd3e2bb586128d2daa3276c4db5f90cef745f3231cca18273e1",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:44.895397+00:00",
+    "status": "error"
+  },
+  "2025-11-03T18-32-52Z__000035__Glossary_for_UX_Designer.md:58e76f5b21ab51e4c4d391b83d1735102c1b0e152849925758ba4d506371d2c1": {
+    "file": "2025-11-03T18-32-52Z__000035__Glossary_for_UX_Designer.md",
+    "hash": "58e76f5b21ab51e4c4d391b83d1735102c1b0e152849925758ba4d506371d2c1",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:45.037280+00:00",
+    "status": "error"
+  },
+  "2025-03-23T09-41-56Z__001489__Executive_Insights_on_EV_Supply_Chains.md:4e3b83a0035acf937ec62a3b552868a7d45e7b7351ce18fd87ef27c9fb4ac98c": {
+    "file": "2025-03-23T09-41-56Z__001489__Executive_Insights_on_EV_Supply_Chains.md",
+    "hash": "4e3b83a0035acf937ec62a3b552868a7d45e7b7351ce18fd87ef27c9fb4ac98c",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:45.148591+00:00",
+    "status": "error"
+  },
+  "2025-03-23T22-53-42Z__001426__Geopolitical_Risk_in_SCM.md:a0f26bf6c07b51d093978cd5a95c44547a36cba05f4c9b9ab5884036a3bf4680": {
+    "file": "2025-03-23T22-53-42Z__001426__Geopolitical_Risk_in_SCM.md",
+    "hash": "a0f26bf6c07b51d093978cd5a95c44547a36cba05f4c9b9ab5884036a3bf4680",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:45.279237+00:00",
+    "status": "error"
+  },
+  "2025-01-14T15-17-56Z__001707__AI_Event_Research_Report.md:2f5ce9c14f2af74d1fa7e82eb8e662c6b172d8e7faf83076cf6581ca6b05a6b0": {
+    "file": "2025-01-14T15-17-56Z__001707__AI_Event_Research_Report.md",
+    "hash": "2f5ce9c14f2af74d1fa7e82eb8e662c6b172d8e7faf83076cf6581ca6b05a6b0",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:45.383936+00:00",
+    "status": "error"
+  },
+  "2024-12-23T08-32-28Z__000540__AI_Conference_Insights.md:ef0cb20d68e7338790c0d82e2e6476136786a639f0dd0cbef4c17b447a4bc17c": {
+    "file": "2024-12-23T08-32-28Z__000540__AI_Conference_Insights.md",
+    "hash": "ef0cb20d68e7338790c0d82e2e6476136786a639f0dd0cbef4c17b447a4bc17c",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:45.502186+00:00",
+    "status": "error"
+  },
+  "2025-03-24T01-13-28Z__001396__Executive_Decision-Making_Insights.md:c023d630414b3f29d7c51e10f02fc2b00873bfdd4f5fb5ced40559fa6edc93fd": {
+    "file": "2025-03-24T01-13-28Z__001396__Executive_Decision-Making_Insights.md",
+    "hash": "c023d630414b3f29d7c51e10f02fc2b00873bfdd4f5fb5ced40559fa6edc93fd",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:45.635501+00:00",
+    "status": "error"
+  },
+  "2025-03-23T19-28-45Z__001478__Pfizer_Executive_Strategy_Analysis.md:a550ff427e4a0b84cfeb516cc82ef8636d59ea54622cceebb2cbec49edc315e5": {
+    "file": "2025-03-23T19-28-45Z__001478__Pfizer_Executive_Strategy_Analysis.md",
+    "hash": "a550ff427e4a0b84cfeb516cc82ef8636d59ea54622cceebb2cbec49edc315e5",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:45.761844+00:00",
+    "status": "error"
+  },
+  "2025-03-23T20-08-32Z__001469__DBS_Digital_Transformation_Insights.md:f11bb350ade69c8d87277dd49cbbe4fc70a9ab71ad27f31db93225e713a3fe2d": {
+    "file": "2025-03-23T20-08-32Z__001469__DBS_Digital_Transformation_Insights.md",
+    "hash": "f11bb350ade69c8d87277dd49cbbe4fc70a9ab71ad27f31db93225e713a3fe2d",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:45.884381+00:00",
+    "status": "error"
+  },
+  "2025-03-23T07-00-14Z__001532__Executive_Strategy_Insights.md:58f65690e159b9abdcc1ba7fbbdb4f5ebb094d4fe2c43a137e2009da4440653f": {
+    "file": "2025-03-23T07-00-14Z__001532__Executive_Strategy_Insights.md",
+    "hash": "58f65690e159b9abdcc1ba7fbbdb4f5ebb094d4fe2c43a137e2009da4440653f",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:46.031661+00:00",
+    "status": "error"
+  },
+  "2025-11-28T20-06-22Z__000070__Top_aesthetic_fitness_influencers.md:60e92b8c6d70d8031fde11d9aa427739d4f572f2b376f16280b2b137222f5bc8": {
+    "file": "2025-11-28T20-06-22Z__000070__Top_aesthetic_fitness_influencers.md",
+    "hash": "60e92b8c6d70d8031fde11d9aa427739d4f572f2b376f16280b2b137222f5bc8",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:46.171166+00:00",
+    "status": "error"
+  },
+  "2025-03-23T06-49-05Z__001535__Executive_Strategy_Analysis.md:ca91ed363381ae70df48ff7a8203e7d5320fc9ae229fc0bdb33c518ba3a25f99": {
+    "file": "2025-03-23T06-49-05Z__001535__Executive_Strategy_Analysis.md",
+    "hash": "ca91ed363381ae70df48ff7a8203e7d5320fc9ae229fc0bdb33c518ba3a25f99",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:46.301865+00:00",
+    "status": "error"
+  },
+  "2025-06-20T18-18-53Z__000650__AI_Strategy_Team_Model.md:637ace7bb81b980b4a75a4b98a152096a34db64d8d6dc77ade6c0a1d211f4992": {
+    "file": "2025-06-20T18-18-53Z__000650__AI_Strategy_Team_Model.md",
+    "hash": "637ace7bb81b980b4a75a4b98a152096a34db64d8d6dc77ade6c0a1d211f4992",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:46.411953+00:00",
+    "status": "error"
+  },
+  "2025-03-23T10-00-13Z__001485__Strategic_Decision-Making_in_Alliances.md:145f925bf1d0d2da927265908715142804035221e47295763685cc263d88965c": {
+    "file": "2025-03-23T10-00-13Z__001485__Strategic_Decision-Making_in_Alliances.md",
+    "hash": "145f925bf1d0d2da927265908715142804035221e47295763685cc263d88965c",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:46.536183+00:00",
+    "status": "error"
+  },
+  "2025-03-23T10-19-56Z__001480__AI_in_Drug_Discovery.md:d7f81dd7239b5d24fe5ed11bc7744fd39435d59c3cd1fc7ee9df74778539b37c": {
+    "file": "2025-03-23T10-19-56Z__001480__AI_in_Drug_Discovery.md",
+    "hash": "d7f81dd7239b5d24fe5ed11bc7744fd39435d59c3cd1fc7ee9df74778539b37c",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:46.644576+00:00",
+    "status": "error"
+  },
+  "2025-03-24T02-07-43Z__001383__Critical_Insight_Evaluation.md:7c80ff9172c3ea587f27ce5abc879b73d7b8ebe5f12696aa51b93880b791ceef": {
+    "file": "2025-03-24T02-07-43Z__001383__Critical_Insight_Evaluation.md",
+    "hash": "7c80ff9172c3ea587f27ce5abc879b73d7b8ebe5f12696aa51b93880b791ceef",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:46.785626+00:00",
+    "status": "error"
+  },
+  "2025-03-23T05-55-15Z__001547__Cognitive_Process_Design_Insights.md:bd322d7dac264d706d64441e0eaa4a54c29136c7bc5cf5cfcac1254cbd1367f0": {
+    "file": "2025-03-23T05-55-15Z__001547__Cognitive_Process_Design_Insights.md",
+    "hash": "bd322d7dac264d706d64441e0eaa4a54c29136c7bc5cf5cfcac1254cbd1367f0",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:46.933509+00:00",
+    "status": "error"
+  },
+  "2025-03-23T22-12-22Z__001438__Tech_ROI_in_Banking.md:524fba081dfb6daa9fc6719b3891a495b7da27ad73b5cd2969827a3b9343d3e7": {
+    "file": "2025-03-23T22-12-22Z__001438__Tech_ROI_in_Banking.md",
+    "hash": "524fba081dfb6daa9fc6719b3891a495b7da27ad73b5cd2969827a3b9343d3e7",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:47.089848+00:00",
+    "status": "error"
+  },
+  "2025-03-24T07-06-52Z__001354__C2-I3.md:9ddf75dfc81b7f240080969455a24b4bc13544b43d3d23acacc9a2dbd90a78db": {
+    "file": "2025-03-24T07-06-52Z__001354__C2-I3.md",
+    "hash": "9ddf75dfc81b7f240080969455a24b4bc13544b43d3d23acacc9a2dbd90a78db",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:47.198702+00:00",
+    "status": "error"
+  },
+  "2025-03-23T22-36-22Z__001431__Executive_Decision-Making_Insights.md:d517d095d9b29ba41b9ba24ddeffce645829e4ef1e1a2979c5b877b66171e6b1": {
+    "file": "2025-03-23T22-36-22Z__001431__Executive_Decision-Making_Insights.md",
+    "hash": "d517d095d9b29ba41b9ba24ddeffce645829e4ef1e1a2979c5b877b66171e6b1",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:47.340555+00:00",
+    "status": "error"
+  },
+  "2025-03-23T08-36-58Z__001506__AI_Adoption_Barriers_Insights.md:346b44dd161ebf11e2ed938484c932fe93f40c61b6a21b57f172ea9858c47d4f": {
+    "file": "2025-03-23T08-36-58Z__001506__AI_Adoption_Barriers_Insights.md",
+    "hash": "346b44dd161ebf11e2ed938484c932fe93f40c61b6a21b57f172ea9858c47d4f",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:47.449310+00:00",
+    "status": "error"
+  },
+  "2025-03-23T22-02-34Z__001441__Leadership_Crisis_Insights.md:01d637c5514a1ee44da32d9b4d7f155f3e9fa6669b200c1e336f3040ce98b307": {
+    "file": "2025-03-23T22-02-34Z__001441__Leadership_Crisis_Insights.md",
+    "hash": "01d637c5514a1ee44da32d9b4d7f155f3e9fa6669b200c1e336f3040ce98b307",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:47.564474+00:00",
+    "status": "error"
+  },
+  "2025-03-23T06-53-07Z__001534__Executive_Decision-Making_Insights.md:b77b721714993c4e66e8263e4cbaeaf8ffaa8185b7f341cf897b6904ff546fe1": {
+    "file": "2025-03-23T06-53-07Z__001534__Executive_Decision-Making_Insights.md",
+    "hash": "b77b721714993c4e66e8263e4cbaeaf8ffaa8185b7f341cf897b6904ff546fe1",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:47.675678+00:00",
+    "status": "error"
+  },
+  "2025-07-21T03-43-26Z__000480__Prasanna_Feedback_Analysis.md:0af6a265bac94dd73392849e20286015c9c5bfe82fbce87c9a306d66b1447ba7": {
+    "file": "2025-07-21T03-43-26Z__000480__Prasanna_Feedback_Analysis.md",
+    "hash": "0af6a265bac94dd73392849e20286015c9c5bfe82fbce87c9a306d66b1447ba7",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:47.791415+00:00",
+    "status": "error"
+  },
+  "2025-05-14T23-41-58Z__000811__Persona_Role_Simulation_Expansion.md:4876672cd0db9c44d15a5e10f3085306f71e661d25d1cb8fa2dfe50a99a5f35a": {
+    "file": "2025-05-14T23-41-58Z__000811__Persona_Role_Simulation_Expansion.md",
+    "hash": "4876672cd0db9c44d15a5e10f3085306f71e661d25d1cb8fa2dfe50a99a5f35a",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:47.934170+00:00",
+    "status": "error"
+  },
+  "2025-04-14T17-09-22Z__001024__Module_Routing_Updates.md:477a462648d52f72cd1773802644605b3d441881a426a7847c6f50af4fb10dca": {
+    "file": "2025-04-14T17-09-22Z__001024__Module_Routing_Updates.md",
+    "hash": "477a462648d52f72cd1773802644605b3d441881a426a7847c6f50af4fb10dca",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:48.043299+00:00",
+    "status": "error"
+  },
+  "2025-03-23T21-38-22Z__001447__Executive_Decision-Making_Insights.md:13a8677f8e0f4087a1672e473f6be4f251b61d95fff54d41d1926a703ef8600b": {
+    "file": "2025-03-23T21-38-22Z__001447__Executive_Decision-Making_Insights.md",
+    "hash": "13a8677f8e0f4087a1672e473f6be4f251b61d95fff54d41d1926a703ef8600b",
+    "yaml": "ERROR: BadRequestError: Error code: 400 - {'error': {'message': \"The requested model 'gpt-o3' does not exist.\", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_found'}}",
+    "model": "gpt-o3",
+    "created_utc": "2025-12-20T08:48:48.173711+00:00",
+    "status": "error"
   }
 }
