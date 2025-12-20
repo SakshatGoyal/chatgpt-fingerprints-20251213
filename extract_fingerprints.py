@@ -140,8 +140,12 @@ def call_openai_extract_yaml(client: OpenAI, model: str, chat_filename: str, md_
     return yaml_out.strip()
 
 
-def list_md_files(input_dir: Path) -> List[Path]:
-    return sorted([p for p in input_dir.glob("*.md") if p.is_file()])
+def list_md_files(input_dir: Path, *, largest: bool) -> List[Path]:
+    files = [p for p in input_dir.glob("*.md") if p.is_file()]
+    if largest:
+        # sort by size descending then name for deterministic ordering
+        return sorted(files, key=lambda p: (-p.stat().st_size, p.name))
+    return sorted(files, key=lambda p: p.name)
 
 
 def main():
@@ -152,6 +156,11 @@ def main():
     ap.add_argument("--out", default="fingerprints_50.md", help="Combined output markdown file")
     ap.add_argument("--cache", default=".fingerprint_cache.json", help="Cache file path")
     ap.add_argument("--sleep", type=float, default=0.3, help="Seconds to sleep between requests")
+    ap.add_argument(
+        "--largest",
+        action="store_true",
+        help="Process the largest markdown files first before applying --limit",
+    )
     ap.add_argument(
         "--test",
         action="store_true",
@@ -175,7 +184,7 @@ def main():
 
     client = OpenAI()
 
-    files = list_md_files(input_dir)
+    files = list_md_files(input_dir, largest=args.largest)
     if not files:
         print(f"ERROR: no .md files found in {input_dir}", file=sys.stderr)
         sys.exit(1)
