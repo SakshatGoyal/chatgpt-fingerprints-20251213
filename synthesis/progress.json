@@ -1,37 +1,37 @@
 {
   "schema_version": 1,
   "created_utc": "2025-12-20T07:43:19.590137+00:00",
-  "updated_utc": "2025-12-20T08:41:48.277537+00:00",
+  "updated_utc": "2025-12-20T08:48:34.441500+00:00",
   "input_dir": "/home/runner/work/chatgpt-fingerprints-20251213/chatgpt-fingerprints-20251213/output",
   "largest": true,
   "limit": 0,
   "batch_size": 100,
-  "model": "gpt-4o-mini",
+  "model": "gpt-o3",
   "total_files": 1682,
   "total_batches": 17,
   "manifest_sha": "1038b414652f957502e979e26c6f50f16ed242d0d72748f05473607e29f2ae13",
   "git_branch": "fingerprints-output",
-  "next_file_index": 300,
-  "next_file_number": 301,
-  "next_file_name": "2025-04-10T03-44-55Z__001057__UMAP_Skipped_Solution.md",
+  "next_file_index": 400,
+  "next_file_number": 401,
+  "next_file_name": "2025-03-24T00-56-46Z__001398__Executive_Decision-Making_Insights.md",
   "completed": false,
-  "last_commit_sha": "b46294021750733d43d712f63dee08d6da67ad73",
+  "last_commit_sha": "3cbb8067516adbb520a7a58587fcd3cb2bde3351",
   "github": {
     "repository": "SakshatGoyal/chatgpt-fingerprints-20251213",
-    "run_id": "20391310950",
+    "run_id": "20391992190",
     "run_attempt": "1",
     "workflow": "Extract fingerprints",
     "actor": "SakshatGoyal"
   },
   "last_checkpoint": {
     "reason": "end_of_batch",
-    "timestamp_utc": "2025-12-20T08:41:48.277537+00:00",
-    "batch_index": 3,
+    "timestamp_utc": "2025-12-20T08:48:34.441500+00:00",
+    "batch_index": 4,
     "batch_range": [
-      201,
-      300
+      301,
+      400
     ],
-    "next_file_index": 300,
-    "next_file_name": "2025-04-10T03-44-55Z__001057__UMAP_Skipped_Solution.md"
+    "next_file_index": 400,
+    "next_file_name": "2025-03-24T00-56-46Z__001398__Executive_Decision-Making_Insights.md"
   }
 }
