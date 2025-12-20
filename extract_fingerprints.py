@@ -136,7 +136,7 @@ synthesis:
 
 """
 
-DEFAULT_MODEL = "gpt-4.1"
+DEFAULT_MODEL = "gpt-4o-mini"
 BATCH_SIZE_DEFAULT = 100
 
 # Basic secret redaction to avoid pushing secrets into the repo.
