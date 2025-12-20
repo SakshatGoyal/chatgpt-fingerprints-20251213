@@ -140,7 +140,7 @@ synthesis:
 
 """
 
-DEFAULT_MODEL = "gpt-4o-mini"
+DEFAULT_MODEL = "gpt-o3"
 BATCH_SIZE_DEFAULT = 100
 PROGRESS_SCHEMA_VERSION = 1
 
