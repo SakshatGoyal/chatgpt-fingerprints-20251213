@@ -14,7 +14,7 @@ on:
       output_branch:
         description: "Branch where batch .md outputs are committed"
         required: true
-        default: "fingerprints-output-2"
+        default: "fingerprints-output-2(4.1-mini)"
       max_runtime_minutes:
         description: "Soft runtime limit per run (minutes). Script checkpoints + self-dispatches before timeout."
         required: true
