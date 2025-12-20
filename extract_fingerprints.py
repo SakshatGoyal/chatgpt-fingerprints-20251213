@@ -56,7 +56,7 @@ HARD RULES
 - Prefer latent function over surface keywords (infer what the conversation is DOING).
 - Ground claims in evidence from the transcript (tools, artifacts, named entities, deliverables, constraints, explicit decisions).
 - If something is unknown or not supported, write "unknown". Do not guess.
-- Avoid generic corporate filler unless the transcript explicitly says so.
+- Avoid generic corporate filler (e.g., “critical to organizational performance”) unless the transcript explicitly says so.
 - Avoid persona-writing about the user (no invented job titles). Use “unknown” or role as explicitly stated.
 - Output MUST be valid YAML only. No code fences. No extra commentary outside the YAML.
 
@@ -85,44 +85,55 @@ project_phase options (choose one):
 - maintenance
 - unknown
 
+PRIMARY PROCEDURE (do this internally; do NOT output these steps)
+1) Read the whole transcript end-to-end.
+2) Identify the “objects of work” (artifacts, deliverables, decisions, schemas, code, drafts, plans).
+3) Infer the user’s primary intent (the job the user hired the model to do).
+4) Extract secondary intents only if they are clearly distinct (0–3).
+5) Derive latent themes (what keeps recurring or organizing the conversation).
+6) Assign domains and concepts (what knowledge areas are operationally used).
+7) Determine project affiliation and phase only if evidence supports continuity; else "unknown" or "ad_hoc".
+8) Write a short synthesis: 2–5 sentences, descriptive, non-chronological, focused on function + outputs.
+
 OUTPUT FORMAT (YAML ONLY; keys must match exactly)
 
 chat_file:
   name: ""
 
 situational_context:
-  triggering_situation: ""
-  temporal_orientation: ""
+  triggering_situation: ""          # what caused this chat; concrete phrasing
+  temporal_orientation: ""          # e.g., immediate task, retrospective, future-planning, mixed, unknown
 
 intent_and_cognition:
   primary_intent: ""
-  secondary_intents: []
-  cognitive_mode: []
-  openness_level: ""
+  secondary_intents: []             # 0–3 items
+  cognitive_mode: []                # pick 1–4 from controlled vocabulary
+  openness_level: ""                # high/medium/low/unknown; only if evidenced, else unknown
 
 knowledge_domain:
   primary_domain: ""
-  secondary_domains: []
-  dominant_concepts: []
+  secondary_domains: []             # 0–4 items; avoid “NLP/HCI” unless clearly relevant
+  dominant_concepts: []             # 5–12 specific concepts, nouns/phrases, not single vague words
 
 artifacts:
-  referenced: []
-  produced_or_refined: []
-  artifact_stage: ""
-  downstream_use: ""
+  referenced: []                    # concrete items mentioned (docs, tools, files, frameworks, links)
+  produced_or_refined: []           # what the chat created/edited/decided
+  artifact_stage: ""                # draft/revision/spec/analysis/unknown (choose the best fit)
+  downstream_use: ""                # how the artifacts will be used, if stated; else unknown
 
 project_continuity:
-  project_affiliation: ""
-  project_phase: ""
-  continuity_evidence: ""
+  project_affiliation: ""           # project/workstream name if explicit; else unknown/ad_hoc
+  project_phase: ""                 # from controlled list or unknown
+  continuity_evidence: ""           # 1–2 short phrases citing why you believe it’s part of a project (or unknown)
 
 latent_indexing:
-  primary_themes: []
-  secondary_themes: []
-  retrieval_tags: []
+  primary_themes: []                # 2–6 themes; each should be a rich phrase
+  secondary_themes: []              # 0–6 themes; optional
+  retrieval_tags: []                # 5–15 short tags (lowercase, underscore ok); high-recall indexing
 
 synthesis:
-  descriptive_summary: ""
+  descriptive_summary: ""           # 2–5 sentences; functional, not chronological; mention outputs & intent
+
 """
 
 DEFAULT_MODEL = "gpt-4.1"
