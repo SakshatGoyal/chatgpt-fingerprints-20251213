@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "created_utc": "2025-12-20T11:28:48.627864+00:00",
-  "updated_utc": "2025-12-21T00:32:10.066431+00:00",
+  "updated_utc": "2025-12-21T00:49:53.954484+00:00",
   "input_dir": "/home/runner/work/chatgpt-fingerprints-20251213/chatgpt-fingerprints-20251213/output",
   "largest": true,
   "limit": 0,
@@ -11,11 +11,11 @@
   "total_batches": 17,
   "manifest_sha": "1038b414652f957502e979e26c6f50f16ed242d0d72748f05473607e29f2ae13",
   "git_branch": "fingerprints-output-2",
-  "next_file_index": 1200,
-  "next_file_number": 1201,
-  "next_file_name": "2025-04-18T04-55-53Z__000908__Tim_Brown_Innovation_Frameworks.md",
+  "next_file_index": 1300,
+  "next_file_number": 1301,
+  "next_file_name": "2025-06-20T03-26-27Z__000655__Design_Research_Journey_Mapping.md",
   "completed": false,
-  "last_commit_sha": "39244281840b14a8bd50f657901f2581e68b79e5",
+  "last_commit_sha": "fec844fa3b6f4336db7b866921c8d9546309ad8f",
   "github": {
     "repository": "SakshatGoyal/chatgpt-fingerprints-20251213",
     "run_id": "20399794733",
@@ -25,13 +25,13 @@
   },
   "last_checkpoint": {
     "reason": "end_of_batch",
-    "timestamp_utc": "2025-12-21T00:32:10.066431+00:00",
-    "batch_index": 12,
+    "timestamp_utc": "2025-12-21T00:49:53.954484+00:00",
+    "batch_index": 13,
     "batch_range": [
-      1101,
-      1200
+      1201,
+      1300
     ],
-    "next_file_index": 1200,
-    "next_file_name": "2025-04-18T04-55-53Z__000908__Tim_Brown_Innovation_Frameworks.md"
+    "next_file_index": 1300,
+    "next_file_name": "2025-06-20T03-26-27Z__000655__Design_Research_Journey_Mapping.md"
   }
 }
